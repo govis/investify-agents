@@ -156,11 +156,11 @@ cython_debug/
 .vscode/
 
 # Project Specific Data
-# Ignore everything in Companies by default
-Companies/*
-# But allow the directories themselves so we can look inside
-!Companies/*/
-# Specifically allow these files
+# Ignore everything in Companies recursively
+Companies/**
+# Allow the directories themselves so we can look inside
+!Companies/**/
+# Specifically allow ONLY these files
 !Companies/*/Profile.json
 !Companies/*/logo.svg
 !Companies/*/Management.json
