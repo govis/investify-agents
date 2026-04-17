@@ -1,0 +1,269 @@
+{
+  "executives": [
+    {
+      "name": "Charles H. Robbins",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Chuck Robbins is Chair and Chief Executive Officer of Cisco. He has served as CEO since July 2015 and was elected Chair of the Board in December 2017. Prior to that, he held various leadership positions at Cisco since joining in 1997, including Senior Vice President of Worldwide Field Operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chair and Chief Executive Officer",
+          "start_date": "2017-12-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2015-07-26",
+          "end_date": "2017-12-01"
+        }
+      ]
+    },
+    {
+      "name": "Richard Heron",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Richard Heron is Chief Financial Officer of Cisco. He joined Cisco in 2024. Previously, he served as CFO of Luminar Technologies and held various senior finance roles at other technology companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Maria Martinez",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Maria Martinez is Chief Operating Officer of Cisco. She joined Cisco in 2018. Previously, she was President, Global Customer Success and Salesforce Services at Salesforce.com.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2021-03-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jeffrey S. Sharritts",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Jeff Sharritts is Executive Vice President and Chief Customer and Partner Officer. He has been with Cisco since 2000 in various sales leadership roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Customer and Partner Officer",
+          "start_date": "2022-05-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Dev Stahlkopf",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Dev Stahlkopf is Executive Vice President and Chief Legal Officer. She joined Cisco in 2021 from Microsoft, where she was Corporate Vice President and General Counsel.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Legal Officer",
+          "start_date": "2021-08-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Charles H. Robbins",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Chair and CEO of Cisco Systems, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chair",
+          "start_date": "2017-12-01",
+          "end_date": null
+        },
+        {
+          "role": "Director",
+          "start_date": "2015-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "M. Michele Burns",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Mercer LLC. Former CFO of Delta Air Lines, Inc. and Marsh & McLennan Companies, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2003-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nomination and Governance Committee"
+      ]
+    },
+    {
+      "name": "Wesley G. Bush",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Northrop Grumman Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation and Management Development Committee"
+      ]
+    },
+    {
+      "name": "Michael D. Capellas",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Founder and CEO of Capellas Strategic Partners. Former Chairman and CEO of First Data Corporation and Compaq Computer Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Lead Independent Director",
+          "start_date": "2006-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Finance Committee",
+        "Nomination and Governance Committee"
+      ]
+    },
+    {
+      "name": "Mark Garrett",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Executive Vice President and CFO of Adobe Systems Incorporated.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Finance Committee"
+      ]
+    },
+    {
+      "name": "John D. Harris II",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former Vice President of Business Development for Raytheon Company and CEO of Raytheon International.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Kristina M. Johnson",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Former President of The Ohio State University. Former Chancellor of the State University of New York.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2012-08-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nomination and Governance Committee"
+      ]
+    },
+    {
+      "name": "Roderick C. McGeary",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Former Chairman of BearingPoint, Inc. and former Co-Vice Chairman of KPMG LLP.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2003-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation and Management Development Committee"
+      ]
+    },
+    {
+      "name": "Sarah J. Miller",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former Chief Information Officer of Neiman Marcus Group.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Nicole Piasecki",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former Vice President and General Manager of Propulsion Systems at Boeing Commercial Airplanes.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation and Management Development Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/858877/000085887724000014/csco-20240727.htm",
+      "source_description": "Cisco Systems, Inc. Form 10-K for the fiscal year ended July 27, 2024",
+      "as_of_date": "2024-09-05"
+    },
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/858877/000119312523257845/d514214ddef14a.htm",
+      "source_description": "Cisco Systems, Inc. Definitive Proxy Statement (DEF 14A)",
+      "as_of_date": "2023-10-17"
+    }
+  ]
+}

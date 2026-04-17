@@ -1,0 +1,192 @@
+{
+  "executives": [
+    {
+      "name": "Andrew S. Marsh",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Andrew S. Marsh is Chair of the Board and Chief Executive Officer of Entergy. He previously served as Executive Vice President and Chief Financial Officer from 2013 to 2022. He joined Entergy in 1998 and has held various leadership roles in strategic planning and finance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chair of the Board and Chief Executive Officer",
+          "start_date": "2022-11-01",
+          "end_date": null
+        },
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2013-01-01",
+          "end_date": "2022-10-31"
+        }
+      ]
+    },
+    {
+      "name": "Kimberly A. Fontan",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Kimberly A. Fontan is Executive Vice President and Chief Financial Officer. She previously served as Senior Vice President and Chief Accounting Officer from 2019 to 2022. She has been with Entergy since 1996.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2022-11-01",
+          "end_date": null
+        },
+        {
+          "title": "Senior Vice President and Chief Accounting Officer",
+          "start_date": "2019-01-01",
+          "end_date": "2022-10-31"
+        }
+      ]
+    },
+    {
+      "name": "Peter S. Norelli",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Peter S. Norelli is Executive Vice President and Chief Operating Officer. He joined Entergy in 2022 from NextEra Energy, where he held various leadership positions in power generation and operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Operating Officer",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Marcus V. Brown",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Marcus V. Brown is Executive Vice President and General Counsel. He has served in this role since 2013 and joined Entergy in 1995.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and General Counsel",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Andrew S. Marsh",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Chair of the Board and CEO of Entergy Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chair of the Board",
+          "start_date": "2022-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Executive"
+      ]
+    },
+    {
+      "name": "John R. Caslione",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Founder, President and CEO of GCS Business Capital, LLC. Expert in global business strategy and emerging markets.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Edith P. G. Kelly-Lowney",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Former Senior Vice President and Chief Financial Officer of Dial Corporation. Extensive experience in finance and accounting.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit",
+        "Personnel"
+      ]
+    },
+    {
+      "name": "Stuart L. Levenick",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Former Group President of Caterpillar Inc. Lead Independent Director of Entergy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Lead Independent Director",
+          "start_date": "2005-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Governance",
+        "Personnel",
+        "Executive"
+      ]
+    },
+    {
+      "name": "Blanche L. Lincoln",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Founder and Principal of Lincoln Policy Group. Former U.S. Senator from Arkansas.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2011-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Governance",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Karen A. Puckett",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former President and CEO of Harte Hanks, Inc. Former President of CenturyLink.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Personnel",
+        "Finance"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/65984/000006598424000018/etr-20231231.htm",
+      "source_description": "Entergy Corporation Form 10-K for the fiscal year ended December 31, 2023",
+      "as_of_date": "2024-02-23"
+    },
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/65984/000006598424000034/etr-20240322.htm",
+      "source_description": "Entergy Corporation Definitive Proxy Statement (DEF 14A)",
+      "as_of_date": "2024-03-22"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "executives": [
+    {
+      "name": "Arvind Krishna",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Arvind Krishna is the Chairman and Chief Executive Officer of IBM. He was elected Chairman of the Board in December 2020 and CEO in April 2020. He was previously Senior Vice President, Cloud and Cognitive Software, and was a principal architect of the acquisition of Red Hat.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2020-04-06",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "James J. Kavanaugh",
+      "age": 57,
+      "age_year": 2024,
+      "background": "James J. Kavanaugh is Senior Vice President and Chief Financial Officer, a position he has held since January 2018. He previously served as Senior Vice President, Transformation and Operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Financial Officer",
+          "start_date": "2018-01-11",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Alex Gorsky",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Alex Gorsky is the former Chairman and CEO of Johnson & Johnson. He joined the IBM Board in 2021.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021-09-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Arvind Krishna",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Chairman and CEO of IBM.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2020-12-30",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Thomas Buberl",
+      "age": 50,
+      "age_year": 2024,
+      "background": "Thomas Buberl has been the Chief Executive Officer and a director of AXA S.A. since 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-04-28",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "David N. Farr",
+      "age": 69,
+      "age_year": 2024,
+      "background": "David N. Farr was Chairman and CEO of Emerson Electric Co.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2012-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Marianne C. Brown",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Marianne C. Brown was Co-Chief Operating Officer, Global Financial Solutions, of Fidelity National Information Services, Inc. (FIS).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-12-13",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/51143/000155837024001551/ibm-20231231x10k.htm",
+      "source_description": "IBM 2023 Form 10-K",
+      "as_of_date": "2024-02-20"
+    },
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000110465924032545/tm2331132-1_def14a.htm",
+      "source_description": "IBM 2024 Proxy Statement (DEF 14A)",
+      "as_of_date": "2024-03-11"
+    }
+  ]
+}

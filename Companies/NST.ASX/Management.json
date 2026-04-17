@@ -1,0 +1,150 @@
+{
+  "executives": [
+    {
+      "name": "Stuart Tonkin",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr Tonkin is a mining engineer with more than 25 years’ experience as a senior executive in the mining industry. He has held various operational and management roles with Oxiana and Newmont. He was previously Chief Operating Officer at Northern Star.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Managing Director and Chief Executive Officer",
+          "start_date": "2021-07-22",
+          "end_date": null
+        },
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2016-01-01",
+          "end_date": "2021-07-21"
+        }
+      ]
+    },
+    {
+      "name": "Ryan Gurner",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Mr Gurner is a Chartered Accountant with over 20 years’ experience in the mining and professional services industries. He has held senior financial roles at various ASX-listed companies and was previously Chief Financial Officer at Northern Star.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2021-07-22",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Simon Jessop",
+      "age": 50,
+      "age_year": 2024,
+      "background": "Mr Jessop is a mining engineer with over 25 years’ experience in the mining industry. He has held various senior management and operational roles with Evolution Mining and Newcrest Mining.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2021-07-22",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Michael Chaney AO",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Mr Chaney is currently Chairman of Wesfarmers Limited and was previously Chairman of Woodside Petroleum and National Australia Bank. He was Managing Director of Wesfarmers from 1992 to 2005.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Chairman",
+          "start_date": "2021-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nomination Committee (Chair)"
+      ]
+    },
+    {
+      "name": "John Douglas (John) Fitzgerald",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr Fitzgerald has over 30 years’ experience in the resources sector. He has held senior positions at NM Rothschild & Sons, Investec Bank, and Commonwealth Bank. He is a Director of Turaco Gold and was previously Chairman of Exore Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Lead Independent Director",
+          "start_date": "2012-11-30",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee (Chair)",
+        "Nomination Committee",
+        "Remuneration Committee"
+      ]
+    },
+    {
+      "name": "Sharon Warburton",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Ms Warburton is a Chartered Accountant with over 25 years’ experience in the resources and infrastructure sectors. She is a Director of Wesfarmers, Worley, and Blackmores.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2021-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee",
+        "Remuneration Committee (Chair)"
+      ]
+    },
+    {
+      "name": "Marnie Baker",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Ms Baker has over 30 years’ experience in the financial services industry. She is currently the Managing Director of Bendigo and Adelaide Bank.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2022-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee",
+        "ESG Committee"
+      ]
+    },
+    {
+      "name": "Nick Cernotta",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr Cernotta is a mining engineer with over 35 years’ experience in the mining industry. He has held senior executive roles at Fortescue Metals Group, Macmahon Holdings, and Barrick Gold.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2019-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "ESG Committee (Chair)",
+        "Remuneration Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.nsrltd.com/investor-and-media/reports/annual-reports",
+      "source_description": "Northern Star Resources Limited 2024 Annual Report",
+      "as_of_date": "2024-08-22"
+    }
+  ]
+}

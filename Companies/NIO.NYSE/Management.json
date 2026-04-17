@@ -1,0 +1,204 @@
+{
+  "executives": [
+    {
+      "name": "Bin Li",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Mr. Bin Li is our founder and has served as chairman of the board of directors since our inception and our chief executive officer since March 2018. In 2000, Mr. Li co-founded Beijing Bitauto E-Commerce Co., Ltd. and served as its director and president until 2006. From 2010 to 2020, Mr. Li served as chairman of the board of directors of Bitauto Holdings Limited, a former NYSE-listed company and a leading automotive service provider in China. In 2002, Mr. Li co-founded Beijing C&I Advertising Co., Ltd. and has served as its chairman of the board of directors and chief executive officer since then.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman of the Board",
+          "start_date": "2014-11-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2018-03-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Lihong Qin",
+      "age": 50,
+      "age_year": 2024,
+      "background": "Mr. Lihong Qin is our co-founder and has served as our director and our president since our inception. Prior to joining us, Mr. Qin served as chief marketing officer and executive director of Longfor Properties Co., Ltd. from 2008 to 2014. He also served as deputy general manager of Anhui Chery Automobile Sales Co., Ltd. from 2005 to 2008 and worked at Roland Berger Strategy Consultants as a senior consultant and project manager from 2003 to 2005.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director and President",
+          "start_date": "2014-11-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Stanley Hui-Chung Qu",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Stanley Hui-Chung Qu has served as our chief financial officer since July 2024. Prior to this role, he served as our senior vice president of finance since May 2019. Prior to joining us, Mr. Qu held several senior financial management positions at Lear Corporation and Johnson Controls from 2001 to 2016. He worked at PricewaterhouseCoopers from 2000 to 2001.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2024-07-01",
+          "end_date": null
+        },
+        {
+          "title": "Senior Vice President of Finance",
+          "start_date": "2019-05-01",
+          "end_date": "2024-06-30"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Bin Li",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Founder, Chairman, and CEO of NIO. Co-founder of Bitauto.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board",
+          "start_date": "2014-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Lihong Qin",
+      "age": 50,
+      "age_year": 2024,
+      "background": "Co-founder and President of NIO. Former CMO of Longfor Properties.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2014-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "James Gordon Mitchell",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Chief Strategy Officer and Senior Executive Vice President of Tencent Holdings Limited. He joined Tencent in 2011 and has served as a director of various other listed companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2018-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "Eddy Georges Skaf",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Chief Investment Officer of CYVN Holdings L.L.C. He has served as a director of Foreight Limited and Forseven Limited since 2023. Previously, he was a senior advisor to DigitalBridge Group, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2024-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Nicholas Paul Wittek",
+      "age": 39,
+      "age_year": 2024,
+      "background": "Executive Director for Investment and Special Projects at CYVN Holdings L.L.C. He has served as a director of Forseven Limited since 2023. Previously, he worked at Tikehau Capital and Evercore.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2024-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Hai Wu",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Managing director of Temasek Holdings Advisors (Beijing) Co., Ltd. since 2014. Former CEO of United Medical Systems and managing director of CITIC Private Equity Funds Management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Denny Ting Bun Lee",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Served as chief financial officer of NetEase, Inc. from 2002 to 2007. He is an independent non-executive director of NetEase, Inc. and several other companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Wenli Zhao",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Former managing director and head of China equity research at Nomura International (Hong Kong) Limited. She has over 25 years of experience in the equity research industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-12-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1736541/000110465924053457/nio-20231231x20f.htm",
+      "source_description": "NIO Inc. Form 20-F Annual Report for the fiscal year ended December 31, 2023",
+      "as_of_date": "2024-04-29"
+    },
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1736541/000110465924077890/tm2418874d1_6k.htm",
+      "source_description": "NIO Inc. Form 6-K announcing CFO transition",
+      "as_of_date": "2024-07-05"
+    }
+  ]
+}

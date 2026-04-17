@@ -1,0 +1,24 @@
+{
+  "name": "Albemarle Corporation",
+  "ticker": "ALB",
+  "exchange": "NYSE",
+  "website": "https://www.albemarle.com",
+  "logo_url": "https://www.albemarle.com/assets/images/albemarle-logo.svg",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "United States",
+  "description": "Albemarle Corporation is a global leader in transforming essential resources into critical ingredients for mobility, energy, connectivity, and health. As one of the world's largest producers of lithium, the company plays a vital role in the transition to clean energy by providing high-quality lithium for electric vehicle batteries and energy storage systems. Beyond lithium, Albemarle is a major producer of bromine and bromine-based specialties used in fire safety and chemical synthesis, as well as catalysts for the refining and petrochemical industries. Headquartered in Charlotte, North Carolina, the company operates across several continents to serve a diverse global customer base.",
+  "metals_and_minerals": [
+    "Lithium",
+    "Bromine"
+  ],
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Lithium Mining & Processing"
+    },
+    {
+      "thesis_name": "Reshoring",
+      "company_type": "Critical Minerals / Lithium Processing in US"
+    }
+  ]
+}

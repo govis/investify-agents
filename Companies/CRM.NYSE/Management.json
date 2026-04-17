@@ -1,0 +1,282 @@
+{
+  "executives": [
+    {
+      "name": "Marc Benioff",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Marc Benioff is Chair, Chief Executive Officer and Co-Founder of Salesforce. He founded the company in 1999 and has served as Chairman since its inception. He has served as Chief Executive Officer since 2001.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chair and Chief Executive Officer",
+          "start_date": "1999-02-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Amy Weaver",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Amy Weaver is President and Chief Financial Officer of Salesforce. She previously served as the company's President and Chief Legal Officer from 2020 to 2021 and as President, Legal and Corporate Affairs from 2017 to 2020.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Financial Officer",
+          "start_date": "2021-02-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Brian Millham",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Brian Millham is President and Chief Operating Officer of Salesforce. He has been with the company since 1999 and has held various leadership roles in sales and operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Operating Officer",
+          "start_date": "2022-08-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ariel Kelman",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Ariel Kelman is President and Chief Marketing Officer of Salesforce. He joined Salesforce in 2023 from Oracle, where he served as Executive Vice President and Chief Marketing Officer.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Marketing Officer",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Sabastian Niles",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Sabastian Niles is President and Chief Legal Officer of Salesforce. He joined the company in 2023 from Wachtell, Lipton, Rosen & Katz, where he was a partner.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Legal Officer",
+          "start_date": "2023-07-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Marc Benioff",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Co-founder, Chair and CEO of Salesforce.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chair of the Board",
+          "start_date": "1999-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Parker Harris",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Co-founder of Salesforce and Slack CTO. He has served as a Director since 2018.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2018-08-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Laura Alber",
+      "age": 55,
+      "age_year": 2024,
+      "background": "CEO of Williams-Sonoma, Inc. She has served as a Director since 2021.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Craig Conway",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former President and CEO of PeopleSoft, Inc. He has served as a Director since 2005.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2005-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "Arnold Donald",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former President and CEO of Carnival Corporation & plc. He joined the board in 2023.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Neelie Kroes",
+      "age": 82,
+      "age_year": 2024,
+      "background": "Former Vice President of the European Commission. She has served as a Director since 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Privacy and Ethical Use Advisory Council"
+      ]
+    },
+    {
+      "name": "Mason Morfit",
+      "age": 48,
+      "age_year": 2024,
+      "background": "CEO and Co-Chief Investment Officer of ValueAct Capital. He joined the board in 2023.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-03-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Oscar Munoz",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former Executive Chairman and CEO of United Airlines Holdings, Inc. He joined the board in 2023.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "John V. Roos",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former U.S. Ambassador to Japan. He has served as a Director since 2013.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2013-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Robin Washington",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former EVP and CFO of Gilead Sciences, Inc. She has served as a Director since 2013.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Lead Independent Director",
+          "start_date": "2013-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Maynard Webb",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Founder of Webb Investment Network and former COO of eBay Inc. He has served as a Director since 2006.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2006-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "Susan Wojcicki",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Former CEO of YouTube. She has served as a Director since 2014.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2014-12-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nominating and Corporate Governance Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1103982/000110398224000133/crm-20240429.htm",
+      "source_description": "Salesforce, Inc. DEF 14A Proxy Statement",
+      "as_of_date": "2024-04-29"
+    }
+  ]
+}

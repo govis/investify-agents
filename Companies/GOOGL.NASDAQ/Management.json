@@ -1,0 +1,249 @@
+{
+  "executives": [
+    {
+      "name": "Sundar Pichai",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Sundar Pichai has served as the Chief Executive Officer of Alphabet since December 2019 and as the Chief Executive Officer of Google since October 2015. He has been a member of Alphabet’s Board of Directors since July 2017. Since joining Google in 2004, he has held various leadership roles, including overseeing product management and innovation for a suite of Google’s consumer and enterprise products.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer, Alphabet",
+          "start_date": "2019-12-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer, Google",
+          "start_date": "2015-10-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ruth Porat",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Ruth Porat has served as the President and Chief Investment Officer of Alphabet and Google since September 2023, and as the Chief Financial Officer of Alphabet and Google since May 2015. Prior to joining Google, she was at Morgan Stanley, where she served as Executive Vice President and Chief Financial Officer from 2010 to 2015.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Investment Officer",
+          "start_date": "2023-09-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2015-05-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Prabhakar Raghavan",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Prabhakar Raghavan has served as Senior Vice President, Knowledge & Information at Google since June 2020. He previously served as Senior Vice President, Ads, Commerce and Payments from 2018 to 2020. Before joining Google in 2012, he was at Yahoo! Labs.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Knowledge & Information",
+          "start_date": "2020-06-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Philipp Schindler",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Philipp Schindler has served as Senior Vice President, Chief Business Officer of Google since August 2015. He has held various leadership positions at Google since joining in 2005, including overseeing global sales and operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Chief Business Officer",
+          "start_date": "2015-08-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Kent Walker",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Kent Walker has served as President, Global Affairs and Chief Legal Officer of Alphabet and Google since 2021. He joined Google in 2006 and has held various roles, including Senior Vice President, Global Affairs and General Counsel.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Global Affairs and Chief Legal Officer",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Larry Page",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Larry Page co-founded Google in 1998 and served as Alphabet’s CEO from 2015 to 2019. He has been a member of the Board of Directors since 1998.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "1998-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Sergey Brin",
+      "age": 50,
+      "age_year": 2024,
+      "background": "Sergey Brin co-founded Google in 1998 and served as Alphabet’s President from 2015 to 2019. He has been a member of the Board of Directors since 1998.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "1998-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "John L. Hennessy",
+      "age": 71,
+      "age_year": 2024,
+      "background": "John L. Hennessy has served as the Chair of the Board of Alphabet since 2018 and as a director since 2004. He was the President of Stanford University from 2000 to 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chair of the Board",
+          "start_date": "2018-02-01",
+          "end_date": null
+        },
+        {
+          "role": "Director",
+          "start_date": "2004-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Frances H. Arnold",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Frances H. Arnold has been a director since 2019. She is the Linus Pauling Professor of Chemical Engineering, Bioengineering and Biochemistry at the California Institute of Technology and a Nobel Laureate in Chemistry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2019-12-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "L. John Doerr",
+      "age": 72,
+      "age_year": 2024,
+      "background": "L. John Doerr has been a director since 1999. He is the Chairman of Kleiner Perkins, a venture capital firm.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "1999-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Leadership Development, Inclusion and Compensation Committee"
+      ]
+    },
+    {
+      "name": "Roger W. Ferguson, Jr.",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Roger W. Ferguson, Jr. has been a director since 2016. He was the President and CEO of TIAA from 2008 to 2021 and served as Vice Chairman of the Board of Governors of the Federal Reserve System.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2016-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Compliance Committee"
+      ]
+    },
+    {
+      "name": "Ann Mather",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Ann Mather has been a director since 2005. She was the Executive Vice President and CFO of Pixar from 1999 to 2004.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2005-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Compliance Committee"
+      ]
+    },
+    {
+      "name": "K. Ram Shriram",
+      "age": 67,
+      "age_year": 2024,
+      "background": "K. Ram Shriram has been a director since 1998. He is the managing director of Sherpalo Ventures, an angel investment firm.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "1998-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Leadership Development, Inclusion and Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Robin L. Washington",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Robin L. Washington has been a director since 2019. She was the Executive Vice President and CFO of Gilead Sciences, Inc. from 2008 to 2019.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2019-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Compliance Committee",
+        "Leadership Development, Inclusion and Compensation Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817924000470/lgoog2024_def14a.htm",
+      "source_description": "Alphabet Inc. 2024 Proxy Statement (DEF 14A)",
+      "as_of_date": "2024-04-26"
+    }
+  ]
+}

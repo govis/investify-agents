@@ -1,0 +1,200 @@
+{
+  "executives": [
+    {
+      "name": "Lal Karsanbhai",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Lal Karsanbhai is President and Chief Executive Officer of Emerson. He was named CEO in 2021 and joined the company's board of directors that same year. He previously served as Executive President of Emerson’s Automation Solutions business.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2021-02-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael J. Baughman",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mike Baughman is Executive Vice President and Chief Financial Officer of Emerson. He joined Emerson in 2017 as Vice President and Controller and was promoted to CFO in 2023.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2023-05-10",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ram Krishnan",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Ram Krishnan is Executive Vice President and Chief Operating Officer of Emerson. He joined Emerson in 1994 and has held various leadership roles, including Executive Vice President and Chief Operating Officer since 2021.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Operating Officer",
+          "start_date": "2021-02-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Lisa Flavin",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Lisa Flavin is Senior Vice President and Chief Compliance Officer. She joined Emerson in 1998 and has served in her current role since 2011.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Compliance Officer",
+          "start_date": "2011-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Sara Yang Bosco",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Sara Yang Bosco is Senior Vice President, Secretary and General Counsel. She joined Emerson in 2005 and was named to her current role in 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Secretary and General Counsel",
+          "start_date": "2016-05-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "James S. Turley",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Ernst & Young. He has served as Emerson's Chair of the Board since 2021.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chair of the Board",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Executive",
+        "Compensation"
+      ]
+    },
+    {
+      "name": "Lal Karsanbhai",
+      "age": 54,
+      "age_year": 2024,
+      "background": "President and Chief Executive Officer of Emerson.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2021-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Executive"
+      ]
+    },
+    {
+      "name": "Joshua B. Bolten",
+      "age": 70,
+      "age_year": 2024,
+      "background": "President and CEO of Business Roundtable and former White House Chief of Staff.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2012-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Governance and Nominating",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Martin S. Craighead",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Baker Hughes Incorporated.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit",
+        "Compensation"
+      ]
+    },
+    {
+      "name": "Gloria A. Flach",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former Chief Operating Officer of Northrop Grumman Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Matthew S. Levatich",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Former President and CEO of Harley-Davidson, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2012-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation",
+        "Finance"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/32604/000003260423000039/emr-20230930.htm",
+      "source_description": "Emerson Electric Co. Form 10-K for the fiscal year ended September 30, 2023",
+      "as_of_date": "2023-11-13"
+    },
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/32604/000119312523291730/d510250ddef14a.htm",
+      "source_description": "Emerson Electric Co. Definitive Proxy Statement (DEF 14A)",
+      "as_of_date": "2023-12-08"
+    },
+    {
+      "source_url": "https://www.emerson.com/en-us/about-us/leadership",
+      "source_description": "Emerson Official Website - Leadership Page",
+      "as_of_date": "2024-05-22"
+    }
+  ]
+}

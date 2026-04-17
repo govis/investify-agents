@@ -1,0 +1,123 @@
+{
+  "executives": [
+    {
+      "name": "Scott L. Strazik",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Scott Strazik is the Chief Executive Officer of GE Vernova. He has more than 20 years of operations and leadership experience. Prior to his current role, he served as CEO of GE’s Gas Power business and later as CEO of GE’s Power portfolio. He joined GE in 2000 and has held various leadership roles in finance, operations, and general management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2024-04-02",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ken Parks",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Ken Parks is the Chief Financial Officer of GE Vernova. Before joining GE Vernova, he served as CFO of Owens Corning and previously as CFO of Mylan N.V. He also held senior financial leadership roles at United Technologies Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2023-10-02",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Vic Abate",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Vic Abate is the CEO of GE Vernova’s Wind segment. He has over 30 years of experience at GE, having served as GE’s Chief Technology Officer and CEO of GE’s Renewable Energy and Gas Power businesses.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "CEO, Wind",
+          "start_date": "2024-04-02",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Stephen Angel",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Stephen Angel is the Non-Executive Chairman of GE Vernova. He is the former CEO and Chairman of Linde plc. He also serves on the board of GE Aerospace.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Chairman",
+          "start_date": "2024-04-02",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance & Public Affairs Committee"
+      ]
+    },
+    {
+      "name": "Scott L. Strazik",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Scott Strazik is the CEO of GE Vernova and a member of the Board. He has led GE's energy businesses since 2018.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2024-04-02",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Arnold W. Donald",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Arnold Donald is the former President and CEO of Carnival Corporation & plc. He has extensive experience in global operations and corporate governance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2024-04-02",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "Paula Rosput Reynolds",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Paula Reynolds is the President and CEO of Preferential Ltd. She previously served as Vice Chairman and Chief Restructuring Officer of AIG and Chairman and CEO of Safeco Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2024-04-02",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance & Public Affairs Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1996810/000119312524062416/d498717dex991.htm",
+      "source_description": "GE Vernova Inc. Form 10-12B/A (Information Statement)",
+      "as_of_date": "2024-03-08"
+    }
+  ]
+}

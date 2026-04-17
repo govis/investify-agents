@@ -1,0 +1,143 @@
+{
+  "executives": [
+    {
+      "name": "Paul W. Graves",
+      "age": 52,
+      "age_year": 2023,
+      "background": "Mr. Graves has served as our President and Chief Executive Officer and as a director since May 2018. Before joining Livent, Mr. Graves was Executive Vice President and Chief Financial Officer of FMC from 2012 to 2018. He previously served as a partner in the Investment Banking Division at Goldman Sachs Group in Hong Kong and was co-head of Natural Resources in Asia.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2018-05-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Gilberto Antoniazzi",
+      "age": 58,
+      "age_year": 2023,
+      "background": "Mr. Antoniazzi has served as our Vice President and Chief Financial Officer since May 2018. Prior to joining Livent, he was Chief Financial Officer for FMC Agricultural Solutions from 2013 to 2018. He held various financial and management roles at FMC since 1993.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President and Chief Financial Officer",
+          "start_date": "2018-05-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Sara Ponessa",
+      "age": 50,
+      "age_year": 2023,
+      "background": "Ms. Ponessa has served as our Vice President, General Counsel and Secretary since 2018. Prior to joining Livent, she was Senior Counsel at FMC from 2014 to 2018. Previously, she served as Vice President and Assistant General Counsel at AstraZeneca.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, General Counsel and Secretary",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Pierre Brondeau",
+      "age": 65,
+      "age_year": 2023,
+      "background": "Dr. Brondeau has served as Chairman of the Board of Livent since 2018. He is the former CEO and Chairman of FMC Corporation. He also serves on the board of TE Connectivity Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board",
+          "start_date": "2018-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation and Organization Committee"
+      ]
+    },
+    {
+      "name": "Andrea E. Utecht",
+      "age": 74,
+      "age_year": 2023,
+      "background": "Ms. Utecht has served as a director since 2018. She was formerly Executive Vice President, General Counsel and Secretary of FMC Corporation from 2001 to 2018.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nominating and Corporate Governance Committee",
+        "Sustainability Committee"
+      ]
+    },
+    {
+      "name": "Robert C. Pallash",
+      "age": 71,
+      "age_year": 2023,
+      "background": "Mr. Pallash has served as a director since 2018. He was formerly President, Global Customer Group and Senior Vice President of Visteon Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation and Organization Committee"
+      ]
+    },
+    {
+      "name": "G. Steven Farris",
+      "age": 75,
+      "age_year": 2023,
+      "background": "Mr. Farris has served as a director since 2018. He is the former Chairman and CEO of Apache Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Christina Lampe-Önnerud",
+      "age": 56,
+      "age_year": 2023,
+      "background": "Dr. Lampe-Önnerud has served as a director since 2020. She is the founder and CEO of Cadenza Innovation, Inc. and was the founder of Boston-Power, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Sustainability Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1742924/000174292423000012/lthm-20230316.htm",
+      "source_description": "Livent Corporation DEF 14A Proxy Statement",
+      "as_of_date": "2023-03-16"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "executives": [
+    {
+      "name": "Jennifer A. Parmentier",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Ms. Parmentier has served as Chief Executive Officer since January 2023 and Chairman of the Board since January 2024. She previously served as Chief Operating Officer from 2021 to 2022 and Vice President and President – Motion Systems Group from 2019 to 2021.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2023-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Chairman of the Board",
+          "start_date": "2024-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2021-01-01",
+          "end_date": "2022-12-31"
+        }
+      ]
+    },
+    {
+      "name": "Andrew D. Ross",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Ross has served as President and Chief Operating Officer since January 2023. He previously served as Vice President and President – Engineered Materials Group from 2015 to 2022.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Operating Officer",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Todd M. Leombruno",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. Leombruno has served as Executive Vice President and Chief Financial Officer since 2021. He previously served as Vice President and Controller from 2017 to 2021.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jennifer A. Parmentier",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Chairman and Chief Executive Officer of Parker-Hannifin Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Lee C. Banks",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Vice Chairman and President of Parker-Hannifin Corporation. He served as President and Chief Operating Officer from 2015 to 2022.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Jillian C. Evanko",
+      "age": 46,
+      "age_year": 2024,
+      "background": "President and Chief Executive Officer of Chart Industries, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Joseph Scaminace",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Former Chairman and Chief Executive Officer of OM Group, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Lead Independent Director",
+          "start_date": "2004-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Governance and Nominating Committee"
+      ]
+    },
+    {
+      "name": "James R. Verrier",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former President and Chief Executive Officer of BorgWarner Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Human Resources and Compensation Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/76334/000119312524207185/d813735ddef14a.htm",
+      "source_description": "SEC DEF 14A Proxy Statement",
+      "as_of_date": "2024-08-26"
+    },
+    {
+      "source_url": "https://www.parker.com/us/en/about-parker/management-team.html",
+      "source_description": "Parker Hannifin Official Management Team Website",
+      "as_of_date": "2024-10-27"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "executives": [
+    {
+      "name": "Mark Bristow",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mark Bristow was appointed President and Chief Executive Officer of Barrick in January 2019 following the merger with Randgold Resources. He was previously the founder and CEO of Randgold Resources since its inception in 1995. He holds a PhD in Geology from the University of Natal, South Africa.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Graham Shuttleworth",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Graham Shuttleworth was appointed Senior Executive Vice-President and Chief Financial Officer of Barrick in January 2019. He previously served as the CFO of Randgold Resources from 2007 until the merger. He is a Chartered Accountant.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Executive Vice-President, Chief Financial Officer",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Grant Beringer",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Grant Beringer is the Group Sustainability Executive. He joined Barrick in January 2019 from Randgold, where he was the Group Environmental Coordinator.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Group Sustainability Executive",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Mark Hill",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Mark Hill is the Chief Operating Officer for Latin America and Asia Pacific. He joined Barrick in 2019 and has over 30 years of experience in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer, Latin America and Asia Pacific",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Sebastiaan Bock",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Sebastiaan Bock is the Chief Operating Officer for Africa and the Middle East. He was previously the Senior Vice President, Chief Financial Officer for the Africa and Middle East region.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer, Africa and Middle East",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "John L. Thornton",
+      "age": 70,
+      "age_year": 2024,
+      "background": "John Thornton is the Executive Chairman of Barrick. He is also the Chairman of PineBridge Investments and a professor at Tsinghua University. He was formerly the President of Goldman Sachs.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Chairman",
+          "start_date": "2012-02-15",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Mark Bristow",
+      "age": 65,
+      "age_year": 2024,
+      "background": "President and CEO of Barrick. Former CEO of Randgold Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Helen Hardy",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Helen Hardy is an independent director. She has extensive experience in the energy sector, having served as Company Secretary of Origin Energy Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-08-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit & Risk Committee",
+        "Environmental, Social and Governance Committee"
+      ]
+    },
+    {
+      "name": "Brian L. Greenspun",
+      "age": 78,
+      "age_year": 2024,
+      "background": "Brian Greenspun is the Chairman and CEO of Greenspun Media Group and has been a director of Barrick since 2014.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2014-04-30",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Environmental, Social and Governance Committee"
+      ]
+    },
+    {
+      "name": "J. Brett Harvey",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Brett Harvey is the Lead Independent Director. He was formerly the Chairman and CEO of CONSOL Energy Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Lead Independent Director",
+          "start_date": "2005-12-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit & Risk Committee",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "Andrew J. Quinn",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Andrew Quinn was formerly Head of Mining Investment Banking for Europe and Africa at CIBC.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit & Risk Committee",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "Loretta A. Marshall",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Loretta Marshall is a senior executive with experience in finance and corporate governance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-02-12",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit & Risk Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/756894/000119312524072811/d745815d6k.htm",
+      "source_description": "Barrick Gold Corporation Management Information Circular (Form 6-K)",
+      "as_of_date": "2024-03-20"
+    },
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/756894/000119312524068533/d712398d40f.htm",
+      "source_description": "Barrick Gold Corporation Annual Report (Form 40-F)",
+      "as_of_date": "2024-03-15"
+    }
+  ]
+}

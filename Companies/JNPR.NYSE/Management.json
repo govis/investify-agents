@@ -1,0 +1,204 @@
+{
+  "executives": [
+    {
+      "name": "Rami Rahim",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Rahim has served as our Chief Executive Officer since November 2014. He has been with Juniper since 1997, serving in various roles including Executive Vice President and General Manager of the Development and Innovation organization.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2014-11-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ken Miller",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Miller has served as our Executive Vice President and Chief Financial Officer since February 2016. He joined Juniper in 1999 and has held various senior financial roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2016-02-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Chris Eldredge",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Mr. Eldredge has served as our Executive Vice President, Chief Customer Officer since January 2024. He previously served as Senior Vice President, Customer Operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, Chief Customer Officer",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Eva Andres",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Ms. Andres has served as our Chief Human Resources Officer since 2019. She previously held HR leadership roles at Virtustream and Dell EMC.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Human Resources Officer",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Scott Kriens",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Kriens has served as Chairman of the Board since 1996. He served as our CEO from 1996 to 2008.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board",
+          "start_date": "1996-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Rami Rahim",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Rahim is the CEO of Juniper Networks and has been a director since 2014.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2014-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Anne DelSanto",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Ms. DelSanto is a former Executive Vice President at Salesforce.com, Inc. She joined the board in 2021.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Kevin DeNuccio",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. DeNuccio is the founder of Wild West Capital LLC and former CEO of Violin Memory.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2014-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "James Dolce",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Dolce is the CEO of Lookout, Inc. and has extensive experience in the networking industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Christine Gorjanc",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Ms. Gorjanc was the CFO of Arlo Technologies and Netgear.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Janet Haugen",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Ms. Haugen was the CFO of Unisys Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "William Stensrud",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Mr. Stensrud is a partner at Switchback Concepts and has been a director since 1996.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "1996-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1043604/000104360424000034/jnpr-20240321.htm",
+      "source_description": "DEF 14A Proxy Statement",
+      "as_of_date": "2024-03-21"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Oracle Corporation",
+  "ticker": "ORCL",
+  "exchange": "NYSE",
+  "website": "https://www.oracle.com",
+  "logo_url": "https://www.oracle.com/asset/web/logos/oracle-logo-red.png",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "United States",
+  "description": "Oracle Corporation is a global leader in enterprise software and cloud computing, providing a comprehensive suite of applications, databases, and infrastructure services. Renowned for its flagship relational database management system, the company has expanded significantly into cloud-based solutions through Oracle Cloud Infrastructure (OCI) and autonomous database technologies. Oracle serves a diverse range of industries, offering integrated tools for enterprise resource planning (ERP), human capital management (HCM), and customer experience (CX), while maintaining a strong focus on security, scalability, and high-performance computing for modern digital enterprises.",
+  "metals_and_minerals": null,
+  "investment_theses": [
+    {
+      "thesis_name": "AI",
+      "company_type": "Cloud Infrastructure / Database Software"
+    },
+    {
+      "thesis_name": "Defense",
+      "company_type": "Defense Cloud Infrastructure / Secure Databases"
+    }
+  ]
+}

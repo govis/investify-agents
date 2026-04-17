@@ -1,0 +1,290 @@
+{
+  "executives": [
+    {
+      "name": "Leon J. Topalian",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Topalian has served as Chair of the Board since September 2022, President and Chief Executive Officer since January 2020, and President and Chief Operating Officer from September 2019 to December 2019. He previously served as an Executive Vice President from 2017 to 2019 and a Vice President from 2013 to 2017. He has been with Nucor since 1996.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chair, President and Chief Executive Officer",
+          "start_date": "2022-09-15",
+          "end_date": null
+        },
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2020-01-01",
+          "end_date": "2022-09-14"
+        }
+      ]
+    },
+    {
+      "name": "Stephen D. Laxton",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Laxton has served as Chief Financial Officer, Treasurer and Executive Vice President since March 2022. He previously served as Vice President of Business Development and Strategic Planning from 2014 to 2022. He joined Nucor in 2003.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer, Treasurer and Executive Vice President",
+          "start_date": "2022-03-06",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "David A. Sumoski",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Mr. Sumoski has served as Chief Operating Officer and Executive Vice President since January 2021. He previously served as Executive Vice President from 2014 to 2020 and Vice President from 2010 to 2014. He has been with Nucor since 1987.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer and Executive Vice President",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Douglas J. Jellison",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Jellison has served as Executive Vice President since 2021. He previously served as Vice President from 2012 to 2020. He has been with Nucor since 1990.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Greg J. Murphy",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Mr. Murphy has served as Executive Vice President of Business Services and General Counsel since 2021. He previously served as Vice President and General Counsel from 2015 to 2020.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, Business Services and General Counsel",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Daniel R. Needham",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Needham has served as Executive Vice President since 2021. He previously served as Vice President from 2019 to 2021. He has been with Nucor since 1993.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President",
+          "start_date": "2021-02-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Chad Utermark",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Utermark has served as Executive Vice President since 2014. He has been with Nucor since 1992.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President",
+          "start_date": "2014-05-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Leon J. Topalian",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Chair, President and Chief Executive Officer of Nucor Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chair",
+          "start_date": "2022-09-15",
+          "end_date": null
+        },
+        {
+          "role": "Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Norma B. Clayton",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former Vice President for Learning, Training and Development at The Boeing Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Nominating",
+        "Audit"
+      ]
+    },
+    {
+      "name": "Patrick J. Dempsey",
+      "age": 59,
+      "age_year": 2024,
+      "background": "President and Chief Executive Officer of Barnes Group Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation and Executive Development",
+        "Governance and Nominating"
+      ]
+    },
+    {
+      "name": "Christopher J. Kearney",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Former Chairman, President and Chief Executive Officer of SPX FLOW, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Lead Independent Director",
+          "start_date": "2022-09-15",
+          "end_date": null
+        },
+        {
+          "role": "Director",
+          "start_date": "2008-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Nominating",
+        "Compensation and Executive Development"
+      ]
+    },
+    {
+      "name": "Laurette T. Koellner",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former President of Boeing International.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2015-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit",
+        "Governance and Nominating"
+      ]
+    },
+    {
+      "name": "Joseph D. Rupp",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former Chairman, President and Chief Executive Officer of Olin Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2015-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation and Executive Development",
+        "Governance and Nominating"
+      ]
+    },
+    {
+      "name": "John H. Walker",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Chief Executive Officer of Global Brass and Copper Holdings, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2008-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit",
+        "Governance and Nominating"
+      ]
+    },
+    {
+      "name": "Nadja Y. West",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Retired Lieutenant General in the United States Army and 44th Surgeon General of the U.S. Army.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-12-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit",
+        "Governance and Nominating"
+      ]
+    },
+    {
+      "name": "Michael W. Lamach",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Executive Chair and Chief Executive Officer of Trane Technologies plc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit",
+        "Governance and Nominating"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/73359/000119312524074474/d531853ddef14a.htm",
+      "source_description": "Nucor Corporation DEF 14A Proxy Statement",
+      "as_of_date": "2024-03-22"
+    },
+    {
+      "source_url": "https://nucor.com/leadership",
+      "source_description": "Nucor Corporation Official Website - Leadership Page",
+      "as_of_date": "2024-05-22"
+    }
+  ]
+}

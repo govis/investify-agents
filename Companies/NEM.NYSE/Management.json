@@ -1,0 +1,159 @@
+{
+  "executives": [
+    {
+      "name": "Thomas R. Palmer",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Mr. Palmer has served as President and Chief Executive Officer since October 2019 and as President since June 2019. Previously, he served as First Vice President and Chief Operating Officer from 2016 to 2019 and Senior Vice President, Asia Pacific from 2015 to 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2019-10-01",
+          "end_date": null
+        },
+        {
+          "title": "President",
+          "start_date": "2019-06-01",
+          "end_date": "2019-10-01"
+        },
+        {
+          "title": "First Vice President and Chief Operating Officer",
+          "start_date": "2016-01-01",
+          "end_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "name": "Kelli J. Ross",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Ms. Ross has served as Executive Vice President and Chief Financial Officer since December 2023. Prior to joining Newmont, she served as Chief Financial Officer of Newcrest Mining Limited from 2021 to 2023.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2023-12-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Natascha Viljoen",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Ms. Viljoen has served as Executive Vice President and Chief Operating Officer since October 2023. Previously, she was the CEO of Anglo American Platinum from 2020 to 2023.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Operating Officer",
+          "start_date": "2023-10-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Peter Toth",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Toth has served as Executive Vice President and Chief Strategy and Sustainability Officer since July 2022. He joined Newmont from Rio Tinto where he held various senior leadership roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Strategy and Sustainability Officer",
+          "start_date": "2022-07-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Gregory H. Boyce",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Mr. Boyce has served as Chair of the Board since 2021. He was previously the Executive Chairman of Peabody Energy Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chair of the Board",
+          "start_date": "2021-01-01",
+          "end_date": null
+        },
+        {
+          "role": "Independent Director",
+          "start_date": "2015-01-01",
+          "end_date": "2021-01-01"
+        }
+      ],
+      "committees": [
+        "Governance and Nominating Committee"
+      ]
+    },
+    {
+      "name": "Patrick G. Walta",
+      "age": 42,
+      "age_year": 2024,
+      "background": "Mr. Walta is a qualified metallurgist and mineral economist with over 20 years of experience in the mining industry. He was the Managing Director of Newcrest Mining Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Safety and Sustainability Committee"
+      ]
+    },
+    {
+      "name": "Maura J. Clark",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Ms. Clark is a former Managing Director of Investment Banking at Goldman Sachs and has extensive experience in finance and capital markets.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance and Nominating Committee"
+      ]
+    },
+    {
+      "name": "Emma FitzGerald",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Dr. FitzGerald was the CEO of Puma Energy and has held senior leadership positions at Royal Dutch Shell.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Leadership Development and Compensation Committee",
+        "Safety and Sustainability Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/65100/000006510024000012/nem-20231231.htm",
+      "source_description": "Newmont Corporation Form 10-K for the fiscal year ended December 31, 2023",
+      "as_of_date": "2024-02-22"
+    },
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/65100/000114036124012444/ny20021244x1_def14a.htm",
+      "source_description": "Newmont Corporation Definitive Proxy Statement (DEF 14A)",
+      "as_of_date": "2024-03-11"
+    }
+  ]
+}

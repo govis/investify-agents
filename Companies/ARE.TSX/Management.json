@@ -1,0 +1,106 @@
+{
+  "executives": [
+    {
+      "name": "Jean-Louis Servranckx",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Servranckx has over 35 years of experience in the construction industry, having held several key management positions at VINCI and Eiffage. He joined Aecon as President and Chief Executive Officer in September 2018.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2018-09-04",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "David Smales",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Smales joined Aecon in 2009 as Executive Vice President and Chief Financial Officer. Prior to joining Aecon, he was the Chief Financial Officer of Catalyst Paper Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2009-11-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Steve Nackan",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Nackan is Executive Vice President and President, Aecon Concessions. He joined Aecon in 2002 and has been instrumental in the development of Aecon's concessions business.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and President, Aecon Concessions",
+          "start_date": "2002-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "John M. Beck",
+      "age": 82,
+      "age_year": 2024,
+      "background": "Mr. Beck is the Founder and Chairman of Aecon Group Inc. He has been a director of Aecon or its predecessors since 1963. He is a graduate of the University of British Columbia in Civil Engineering.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "1963-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Susan Wolburgh Jenah",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Ms. Wolburgh Jenah is the former President and CEO of the Investment Industry Regulatory Organization of Canada (IIROC). She serves on several boards and is a member of the Order of Canada.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-05-10",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Corporate Governance, Nominating and Risk Committee"
+      ]
+    },
+    {
+      "name": "J.D. Hole",
+      "age": 78,
+      "age_year": 2024,
+      "background": "Mr. Hole was the Chairman of Lockerbie & Hole Inc. prior to its acquisition by Aecon in 2009. He has extensive experience in the industrial construction sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2009-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Environmental, Health and Safety Committee",
+        "Management Resources and Compensation Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.aecon.com/investors",
+      "source_description": "Aecon Group Inc. Management Information Circular 2024",
+      "as_of_date": "2024-03-21"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "executives": [
+    {
+      "name": "Brendan S. Jones",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Jones has served as our Chief Executive Officer since May 2023 and as a member of our Board since February 2024. He previously served as our President from April 2020 to May 2023. Prior to joining Blink, he was the Chief Operating Officer of Electrify America and held executive positions at Nissan North America.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2023-05",
+          "end_date": null
+        },
+        {
+          "title": "President",
+          "start_date": "2020-04",
+          "end_date": "2023-05"
+        }
+      ]
+    },
+    {
+      "name": "Michael P. Rama",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Rama has served as our Chief Financial Officer since February 2020. He has nearly 30 years of experience in finance and accounting, previously serving as Vice President and Chief Financial Officer of NV5 Global, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2020-02",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Aviv Hillo",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Mr. Hillo has served as our General Counsel since June 2018. He has over 25 years of experience as an attorney, specializing in corporate law, M&A, and international business transactions.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "General Counsel",
+          "start_date": "2018-06",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Ramy J. Brookim",
+      "age": 36,
+      "age_year": 2024,
+      "background": "Mr. Brookim has served as a director since 2017 and was appointed Chairman of the Board in 2023. He is the founder and CEO of a private investment firm and has extensive experience in real estate and technology investments.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board",
+          "start_date": "2023",
+          "end_date": null
+        },
+        {
+          "role": "Director",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Brendan S. Jones",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Jones has served as our Chief Executive Officer since May 2023 and as a member of our Board since February 2024.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2024-02",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Jack Levine",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Levine has served as a director since 2020. He is a certified public accountant and has over 35 years of experience in financial consulting and corporate governance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)"
+      ]
+    },
+    {
+      "name": "Kristina A. Peterson",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Ms. Peterson has served as a director since 2022. She has over 25 years of experience in the energy and financial sectors, including leadership roles at Brookfield Renewable and SunEdison.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee (Chair)",
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Mahi Reddy",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Mr. Reddy has served as a director since 2022. He is the founder and former CEO of SemaConnect, which was acquired by Blink in 2022.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Cedric Richmond",
+      "age": 50,
+      "age_year": 2024,
+      "background": "Mr. Richmond has served as a director since 2023. He previously served as a Senior Advisor to President Joe Biden and was a member of the U.S. House of Representatives from 2011 to 2021.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nominating and Corporate Governance Committee (Chair)"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1429764/000142976424000034/blnk-20240426.htm",
+      "source_description": "DEF 14A Proxy Statement",
+      "as_of_date": "2024-04-26"
+    }
+  ]
+}

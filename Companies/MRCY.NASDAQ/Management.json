@@ -1,0 +1,158 @@
+{
+  "executives": [
+    {
+      "name": "William L. Ballhaus",
+      "age": 56,
+      "age_year": 2023,
+      "background": "Dr. Ballhaus has served as our President and Chief Executive Officer since August 2023. He previously served as Chairman and CEO of Blackboard Inc. and CEO of SRA International, Inc. He also held leadership roles at BAE Systems and Boeing.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2023-08-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "David S. Farnsworth",
+      "age": 61,
+      "age_year": 2023,
+      "background": "Mr. Farnsworth has served as our Executive Vice President and Chief Financial Officer since July 2023. He previously served as CFO of Raytheon Technologies' Intelligence & Space business and held various senior finance roles at Raytheon Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2023-07-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Christopher C. Cambria",
+      "age": 65,
+      "age_year": 2023,
+      "background": "Mr. Cambria has served as our Executive Vice President, General Counsel and Secretary since 2016. He previously served as Senior Vice President and General Counsel of L-3 Communications Holdings, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, General Counsel and Secretary",
+          "start_date": "2016-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michelle M. McCarthy",
+      "age": 54,
+      "age_year": 2023,
+      "background": "Ms. McCarthy has served as our Senior Vice President and Chief Accounting Officer since 2018. She previously served as Vice President and Corporate Controller of Analogic Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Accounting Officer",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "William L. Ballhaus",
+      "age": 56,
+      "age_year": 2023,
+      "background": "Dr. Ballhaus is the President and Chief Executive Officer of Mercury Systems. He has extensive experience in the aerospace and defense industry, having led several major technology companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Mark S. Aslett",
+      "age": 55,
+      "age_year": 2023,
+      "background": "Mr. Aslett served as our President and CEO from 2007 until 2023. He has a background in technology and defense, previously serving in leadership roles at Enterasys Networks and Marconi plc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2007-01-01",
+          "end_date": "2023-06-01"
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Barry R. Nearhos",
+      "age": 68,
+      "age_year": 2023,
+      "background": "Mr. Nearhos was a partner at PricewaterhouseCoopers LLP for over 25 years. He has extensive experience in accounting, auditing, and financial reporting.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Governance Committee"
+      ]
+    },
+    {
+      "name": "Linda A. Mills",
+      "age": 73,
+      "age_year": 2023,
+      "background": "Ms. Mills previously served as Corporate Vice President of Operations for Northrop Grumman Corporation. She has significant experience in large-scale systems integration and operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Nominating and Governance Committee"
+      ]
+    },
+    {
+      "name": "Orlando P. Carvalho",
+      "age": 65,
+      "age_year": 2023,
+      "background": "Mr. Carvalho previously served as Executive Vice President of Lockheed Martin's Aeronautics business area. He has over 38 years of experience in the aerospace and defense industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1049521/000104952123000056/mrcy-20230630.htm",
+      "source_description": "Mercury Systems, Inc. Form 10-K for the fiscal year ended June 30, 2023",
+      "as_of_date": "2023-08-15"
+    },
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1049521/000114036123048154/ny20010144x1_def14a.htm",
+      "source_description": "Mercury Systems, Inc. Definitive Proxy Statement (DEF 14A)",
+      "as_of_date": "2023-10-12"
+    }
+  ]
+}

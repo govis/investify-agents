@@ -1,0 +1,233 @@
+{
+  "executives": [
+    {
+      "name": "Randy Smallwood",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Mr. Smallwood was involved in the founding of Wheaton in 2004 and was appointed President in 2010 and CEO in 2011. He previously served as Director of Project Development at Goldcorp Inc. and is currently the Chair of the World Gold Council.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2011-04-01",
+          "end_date": null
+        },
+        {
+          "title": "President",
+          "start_date": "2010-01-01",
+          "end_date": "2011-03-31"
+        }
+      ]
+    },
+    {
+      "name": "Gary Brown",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Brown has over 30 years of experience in the mining sector and joined Wheaton in 2008. He previously held senior finance roles at Canico Resource Corp. and Zebra Environmental Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Financial Officer",
+          "start_date": "2008-06-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Curt Bernardi",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Bernardi joined Wheaton in 2008 and has over 25 years of legal experience in the mining sector. He previously served as Vice President, Legal and Corporate Secretary for Westcorp Developments Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Legal and Corporate Secretary",
+          "start_date": "2008-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Haytham Hodaly",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Hodaly joined Wheaton in 2012 and has over 20 years of experience in the mining industry, primarily in corporate development and investment banking.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Corporate Development",
+          "start_date": "2012-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "George Brack",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Brack has over 30 years of experience in the mining investment banking and corporate development sectors. He was previously the Managing Director and Industry Head, Mining at BMO Nesbitt Burns.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Chair",
+          "start_date": "2009-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance and Nominating Committee"
+      ]
+    },
+    {
+      "name": "Randy Smallwood",
+      "age": 60,
+      "age_year": 2024,
+      "background": "President and CEO of Wheaton Precious Metals Corp. since 2011.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2011-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Michele Ashby",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Ms. Ashby is the CEO and Founder of Ashby Consulting Group and has over 30 years of experience in the mining and financial sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Human Resources Committee",
+        "Sustainability Committee"
+      ]
+    },
+    {
+      "name": "John Brough",
+      "age": 77,
+      "age_year": 2024,
+      "background": "Mr. Brough was previously the President of Wittington Properties Limited and has extensive experience in real estate and finance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2004-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Human Resources Committee"
+      ]
+    },
+    {
+      "name": "Peter Gillin",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Mr. Gillin is a corporate director and was previously the Chairman and CEO of Tahera Diamond Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2004-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Nominating Committee",
+        "Human Resources Committee"
+      ]
+    },
+    {
+      "name": "Chantal Gosselin",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Ms. Gosselin is a corporate director with over 25 years of experience in the mining industry and financial services.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2014-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Sustainability Committee"
+      ]
+    },
+    {
+      "name": "Glenn Ives",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Ives was the Chair of Deloitte Canada from 2010 to 2018 and has extensive experience in the mining and financial sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance and Nominating Committee"
+      ]
+    },
+    {
+      "name": "Charles Jeannes",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Jeannes was the President and CEO of Goldcorp Inc. from 2008 to 2016 and has over 30 years of experience in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Nominating Committee",
+        "Sustainability Committee"
+      ]
+    },
+    {
+      "name": "Marilyn Redmond",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Ms. Redmond is a corporate director and was previously the Senior Vice President, Corporate Development at Goldcorp Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Human Resources Committee",
+        "Sustainability Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1325014/000117184324001550/f6k_032124.htm",
+      "source_description": "Management Information Circular (Form 6-K)",
+      "as_of_date": "2024-03-21"
+    }
+  ]
+}

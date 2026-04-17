@@ -1,0 +1,138 @@
+{
+  "executives": [
+    {
+      "name": "Michael Fraser",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Mike Fraser was appointed as CEO and Executive Director of Gold Fields effective 1 January 2024. Prior to joining Gold Fields, he was the CEO of Chaarat Gold Holdings and previously served as Chief Operating Officer at South32.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Alex Szabo",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Alex Szabo was appointed as CFO and Executive Director effective 1 December 2023. He previously served as the Senior Vice President: Group Financial Controller at Gold Fields.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2023-12-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Martin Preece",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Martin Preece served as Interim CEO from January 2023 to December 2023 and is currently the Chief Operating Officer.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2024-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Interim Chief Executive Officer",
+          "start_date": "2023-01-01",
+          "end_date": "2023-12-31"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Yunus Suleman",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Yunus Suleman was appointed to the Board in 2016 and became Chairperson in 2022. He is a Chartered Accountant and former Chairperson of KPMG South Africa.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairperson",
+          "start_date": "2022-06-01",
+          "end_date": null
+        },
+        {
+          "role": "Independent Non-Executive Director",
+          "start_date": "2016-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nominating and Governance Committee",
+        "Capital Projects Control and Review Committee"
+      ]
+    },
+    {
+      "name": "Cheryl Carolus",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Cheryl Carolus has been a member of the Board since 2009. She has held various leadership positions in the public and private sectors in South Africa.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Non-Executive Director",
+          "start_date": "2009-03-10",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Social, Ethics and Transformation Committee",
+        "Nominating and Governance Committee"
+      ]
+    },
+    {
+      "name": "Steven Reid",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Steven Reid was appointed to the Board in 2016. He has over 40 years of experience in the international mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Non-Executive Director",
+          "start_date": "2016-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Remuneration Committee",
+        "Capital Projects Control and Review Committee",
+        "Risk Committee"
+      ]
+    },
+    {
+      "name": "Philisiwe Sibiya",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Philisiwe Sibiya was appointed to the Board in 2019. She is the former CEO of MTN Cameroon.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Non-Executive Director",
+          "start_date": "2019-03-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Risk Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1172724/000117272424000014/gfi-20231231.htm",
+      "source_description": "Annual Report on Form 20-F for the fiscal year ended December 31, 2023",
+      "as_of_date": "2024-03-28"
+    }
+  ]
+}

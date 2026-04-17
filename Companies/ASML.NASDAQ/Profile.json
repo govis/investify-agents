@@ -1,0 +1,21 @@
+{
+  "name": "ASML Holding N.V.",
+  "ticker": "ASML",
+  "exchange": "NASDAQ",
+  "website": "https://www.asml.com",
+  "logo_url": "logo.png",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "Netherlands",
+  "description": "ASML Holding N.V. is a leading manufacturer of chip-making equipment, specializing in photolithography systems used by semiconductor manufacturers to create integrated circuits. Based in Veldhoven, Netherlands, the company is the world's sole supplier of extreme ultraviolet (EUV) lithography machines, which are essential for producing the most advanced and smallest microchips. ASML's technology enables the continued scaling of semiconductor performance, supporting global advancements in artificial intelligence, high-performance computing, and consumer electronics by providing the critical tools required for high-volume manufacturing of next-generation chips.",
+  "metals_and_minerals": null,
+  "investment_theses": [
+    {
+      "thesis_name": "AI",
+      "company_type": "Lithography Equipment"
+    },
+    {
+      "thesis_name": "Reshoring",
+      "company_type": "Lithography Equipment / Critical Tech for Reshored Fabs"
+    }
+  ]
+}

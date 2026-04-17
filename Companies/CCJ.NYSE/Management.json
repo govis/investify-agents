@@ -1,0 +1,182 @@
+{
+  "executives": [
+    {
+      "name": "Tim S. Gitzel",
+      "age": 61,
+      "age_year": 2023,
+      "background": "Tim Gitzel is President and Chief Executive Officer of Cameco. He has more than 30 years of experience in the Canadian and international uranium mining industry. He joined Cameco in 2007 as Senior Vice-President and Chief Operating Officer and was appointed President in 2010 and CEO in 2011. Prior to joining Cameco, he was Executive Vice-President, mining business unit for AREVA in Paris, France.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2011-07-01",
+          "end_date": null
+        },
+        {
+          "title": "President",
+          "start_date": "2010-05-01",
+          "end_date": "2011-06-30"
+        },
+        {
+          "title": "Senior Vice-President and Chief Operating Officer",
+          "start_date": "2007-01-01",
+          "end_date": "2010-04-30"
+        }
+      ]
+    },
+    {
+      "name": "Grant E. Isaac",
+      "age": 55,
+      "age_year": 2023,
+      "background": "Grant Isaac is Executive Vice-President and Chief Financial Officer. He joined Cameco in 2009 and has held various executive roles including Senior Vice-President, Corporate Strategy and Vice-President, Corporate Strategy and Business Development. Before joining Cameco, he was the Dean of the Edwards School of Business at the University of Saskatchewan.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice-President and Chief Financial Officer",
+          "start_date": "2011-07-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Brian P. Reilly",
+      "age": 63,
+      "age_year": 2023,
+      "background": "Brian Reilly is Senior Vice-President and Chief Operating Officer. He joined Cameco in 2011 as President of Cameco Resources and was appointed to his current role in 2017. He has over 35 years of experience in the mining industry, including roles with AREVA.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice-President and Chief Operating Officer",
+          "start_date": "2017-07-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Alice B. Wong",
+      "age": 60,
+      "age_year": 2023,
+      "background": "Alice Wong is Senior Vice-President and Chief Corporate Officer. She has been with Cameco for over 30 years, holding various leadership positions in marketing, corporate responsibility, and human resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice-President and Chief Corporate Officer",
+          "start_date": "2011-07-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Sean A. Quinn",
+      "age": 63,
+      "age_year": 2023,
+      "background": "Sean Quinn is Senior Vice-President, Chief Legal Officer and Corporate Secretary. He joined Cameco in 1993 and has held various legal roles within the company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice-President, Chief Legal Officer and Corporate Secretary",
+          "start_date": "2014-04-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Ian Bruce",
+      "age": 70,
+      "age_year": 2023,
+      "background": "Ian Bruce is the Chair of the Board. He is the former President and CEO of Peters & Co. Limited, an investment firm. He has extensive experience in investment banking and the oil and gas industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chair of the Board",
+          "start_date": "2012-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nominating, Corporate Governance and Risk Committee"
+      ]
+    },
+    {
+      "name": "Daniel Camus",
+      "age": 71,
+      "age_year": 2023,
+      "background": "Daniel Camus is the former Group CFO and Head of Strategy and International Activities of Electricité de France (EDF). He has significant experience in the global energy sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2011-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Human Resources and Compensation Committee"
+      ]
+    },
+    {
+      "name": "Donald Kayne",
+      "age": 65,
+      "age_year": 2023,
+      "background": "Donald Kayne is the President and CEO of Canfor Corporation and CEO of Canfor Pulp Products Inc. He has over 40 years of experience in the forest products industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Human Resources and Compensation Committee",
+        "Nominating, Corporate Governance and Risk Committee"
+      ]
+    },
+    {
+      "name": "Kathryn Jackson",
+      "age": 65,
+      "age_year": 2023,
+      "background": "Kathryn Jackson is the former Senior Vice-President and Chief Technology Officer of RTI International Metals, Inc. She has a PhD in Engineering and Public Policy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Safety, Health, Environment, Quality and Technical Committee",
+        "Nominating, Corporate Governance and Risk Committee"
+      ]
+    },
+    {
+      "name": "Dominique Minière",
+      "age": 64,
+      "age_year": 2023,
+      "background": "Dominique Minière is the former President of Nuclear and Chief Strategy Officer at Ontario Power Generation. He has extensive experience in nuclear operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Safety, Health, Environment, Quality and Technical Committee",
+        "Audit Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/876343/000119312524078544/d712345ddef14a.htm",
+      "source_description": "2024 Management Information Circular (Proxy Statement)",
+      "as_of_date": "2024-03-27"
+    }
+  ]
+}

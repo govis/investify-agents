@@ -1,0 +1,222 @@
+{
+  "executives": [
+    {
+      "name": "Clive T. Johnson",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Johnson is a founding director of B2Gold and has been the President and Chief Executive Officer since the company's inception in 2007. He was previously a founder of Bema Gold Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2007-11-30",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael Coudriet",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Coudriet joined B2Gold in 2014 and has held various senior management roles. He was appointed Chief Operating Officer in 2023.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Abhishek (Abby) Khandelwal",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Mr. Khandelwal joined B2Gold in 2024 as Chief Financial Officer. He previously served as CFO of Pretium Resources Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Roger Richer",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Richer is a founding director and has served as Executive Vice President, General Counsel and Secretary since 2007.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, General Counsel and Secretary",
+          "start_date": "2007-11-30",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Bill Lytle",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Lytle has been with B2Gold since 2007 and was appointed Senior Vice President, Operations in 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Operations",
+          "start_date": "2016-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Clive T. Johnson",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Founding director and CEO of B2Gold Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2007-11-30",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Robert J. Gayton",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Dr. Gayton is a Chartered Professional Accountant and has directed several public mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2007-11-30",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "George Johnson",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Mr. Johnson has over 45 years of experience in the mining industry, including senior roles at Bema Gold.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2013-03-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Health, Safety, Environmental & Social Advisory Committee"
+      ]
+    },
+    {
+      "name": "Jerry Korpan",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Mr. Korpan was formerly Executive Director of Yorkton Securities in London.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2007-11-30",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Corporate Governance and Nominating Committee"
+      ]
+    },
+    {
+      "name": "Kevin Bullock",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Mr. Bullock is a registered Professional Mining Engineer and CEO of Signal Gold Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Health, Safety, Environmental & Social Advisory Committee"
+      ]
+    },
+    {
+      "name": "Liane Kelly",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Ms. Kelly is a Corporate Social Responsibility professional with extensive experience in the mining sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2020-06-12",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Governance and Nominating Committee",
+        "Health, Safety, Environmental & Social Advisory Committee"
+      ]
+    },
+    {
+      "name": "Lisa Pankratz",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Ms. Pankratz has over 30 years of experience in the investment management and financial services industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "Thulani Mtshwene",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Mtshwene has extensive experience in mining finance and operations in Africa.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-06-23",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Governance and Nominating Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1427640/000110465924061483/tm2414644d1_6k.htm",
+      "source_description": "Management Information Circular (Form 6-K)",
+      "as_of_date": "2024-05-15"
+    }
+  ]
+}

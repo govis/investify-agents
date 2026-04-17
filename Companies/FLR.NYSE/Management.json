@@ -1,0 +1,210 @@
+{
+  "executives": [
+    {
+      "name": "David E. Constable",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Constable has served as Chairman and Chief Executive Officer of Fluor since January 2021. He previously served as Chief Executive Officer of Sasol Ltd from 2011 to 2016. He was also a director of ABB Ltd and Rio Tinto.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Joseph L. Brennan",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Mr. Brennan has served as Chief Financial Officer since July 2020. He previously served as Senior Vice President, Controller and Chief Accounting Officer.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2020-07-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "John R. Reynolds",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Reynolds has served as Chief Legal Officer and Secretary since January 2021. He joined Fluor in 1985 and has held various legal positions.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Legal Officer and Secretary",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Stacy L. MacDiarmid",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Ms. MacDiarmid has served as Chief Human Resources Officer since January 2021. She has been with Fluor since 1998.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Human Resources Officer",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "David E. Constable",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Fluor Corporation. Former CEO of Sasol Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Alan M. Bennett",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Former President and CEO of H&R Block, Inc. Former CFO of Aetna Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2011-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Organization and Compensation Committee"
+      ]
+    },
+    {
+      "name": "Rosemary T. Berkery",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Chairman of UBS Bank USA and Vice Chairman of UBS Wealth Management Americas.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2010-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance Committee"
+      ]
+    },
+    {
+      "name": "H. Paulett Eberhart",
+      "age": 70,
+      "age_year": 2024,
+      "background": "CEO of HMS Ventures. Former President and CEO of Invensys Process Systems.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Organization and Compensation Committee"
+      ]
+    },
+    {
+      "name": "James T. Hackett",
+      "age": 70,
+      "age_year": 2024,
+      "background": "President of Tessellation Services, LLC. Former Executive Chairman of Anadarko Petroleum Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Organization and Compensation Committee",
+        "Governance Committee"
+      ]
+    },
+    {
+      "name": "Gerard J. Arpey",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of AMR Corporation and American Airlines, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance Committee"
+      ]
+    },
+    {
+      "name": "Thomas C. Leppert",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of The Turner Corporation. Former Mayor of Dallas.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Organization and Compensation Committee"
+      ]
+    },
+    {
+      "name": "Teri P. McClure",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Former Chief Human Resources Officer and Senior Vice President of Labor of United Parcel Service, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Organization and Compensation Committee",
+        "Governance Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1124198/000112419824000018/flr-20240307.htm",
+      "source_description": "Fluor Corporation DEF 14A Proxy Statement",
+      "as_of_date": "2024-03-07"
+    }
+  ]
+}

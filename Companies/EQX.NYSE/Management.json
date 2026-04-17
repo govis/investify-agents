@@ -1,0 +1,208 @@
+{
+  "executives": [
+    {
+      "name": "Ross Beaty",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Beaty is a geologist and resource entrepreneur with over 45 years of experience in the international minerals and renewable energy industries. He founded Pan American Silver Corp. and Alterra Power Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chair",
+          "start_date": "2017-12-22",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Greg Smith",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Mr. Smith is a Chartered Professional Accountant with over 25 years of experience in finance and the mining sector. He was previously President of JDL Gold Corp. and CFO of Minefinders Corporation Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2022-09-01",
+          "end_date": null
+        },
+        {
+          "title": "President",
+          "start_date": "2021-03-01",
+          "end_date": "2022-08-31"
+        }
+      ]
+    },
+    {
+      "name": "Peter Hardie",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Mr. Hardie is a Chartered Professional Accountant with over 20 years of experience in the mining industry. He was previously CFO of True Gold Mining Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2016-08-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Doug Reddy",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Reddy is a professional geologist with over 35 years of experience in the mining industry. He has held senior roles at Endeavour Mining and Endeavour Financial.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2020-09-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Rhylin Bailie",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Ms. Bailie has over 25 years of experience in investor relations and communications for mining companies, including roles at NovaGold Resources and Goldcorp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Investor Relations",
+          "start_date": "2016-10-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Ross Beaty",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Geologist and resource entrepreneur with over 45 years of experience. Founder of Pan American Silver and Alterra Power.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chair",
+          "start_date": "2017-12-22",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Greg Smith",
+      "age": 48,
+      "age_year": 2024,
+      "background": "President and CEO of Equinox Gold. Former CFO of Minefinders Corporation Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2017-12-22",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Lenard Boggio",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former partner at PwC where he led the mining practice. Experienced director for several public mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2017-12-22",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "Wesley Clark",
+      "age": 79,
+      "age_year": 2024,
+      "background": "Retired General, US Army. Former Supreme Allied Commander Europe of NATO. Extensive experience in strategic leadership.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-03-10",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Social Responsibility and ESG Committee",
+        "Governance and Nominating Committee"
+      ]
+    },
+    {
+      "name": "Marshall Koval",
+      "age": 64,
+      "age_year": 2024,
+      "background": "CEO of Lumina Gold Corp. Over 35 years of experience in executive and technical roles in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2017-12-22",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Technical Committee (Chair)",
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Maryse Bélanger",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Over 30 years of experience in the mining sector. Former President and CEO of Augusta Gold and COO of Atlantic Gold.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-05-04",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Technical Committee",
+        "Social Responsibility and ESG Committee"
+      ]
+    },
+    {
+      "name": "Neil Woodyer",
+      "age": 70,
+      "age_year": 2024,
+      "background": "CEO of Aris Mining. Founder and former CEO of Endeavour Mining and Leagold Mining.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-03-10",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Nominating Committee (Chair)",
+        "Compensation Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1756607/000106299324007353/exhibit99-1.htm",
+      "source_description": "Management Information Circular (Exhibit 99.1 to Form 6-K)",
+      "as_of_date": "2024-03-20"
+    }
+  ]
+}

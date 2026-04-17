@@ -1,0 +1,160 @@
+{
+  "executives": [
+    {
+      "name": "David Garofalo",
+      "age": 58,
+      "age_year": 2023,
+      "background": "Mr. Garofalo has served as our Chairman, President and Chief Executive Officer since August 2020. He has over 30 years of experience in the metals and mining industry. Previously, he served as President and Chief Executive Officer of Goldcorp Inc. from 2016 to 2019 and as President and Chief Executive Officer of Hudbay Minerals Inc. from 2010 to 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman, President and Chief Executive Officer",
+          "start_date": "2020-08-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Andrew Gubbels",
+      "age": 40,
+      "age_year": 2023,
+      "background": "Mr. Gubbels has served as our Chief Financial Officer since September 2022. He has over 15 years of experience in corporate finance and investment banking. Prior to joining the Company, he was Head of Tax at ArcelorMittal Mining and held various senior roles at IAMGOLD Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2022-09-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "John Griffith",
+      "age": 54,
+      "age_year": 2023,
+      "background": "Mr. Griffith has served as our Chief Development Officer since September 2020. He has over 25 years of experience in the mining sector, including senior roles in investment banking at Merrill Lynch and HSBC.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Development Officer",
+          "start_date": "2020-09-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Samuel G. Mah",
+      "age": 53,
+      "age_year": 2023,
+      "background": "Mr. Mah has served as our Vice President, Evaluations since September 2020. He is a professional engineer with over 25 years of experience in the mining industry, including roles at Goldcorp Inc. and AMEC Americas Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Evaluations",
+          "start_date": "2020-09-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "David Garofalo",
+      "age": 58,
+      "age_year": 2023,
+      "background": "Chairman, President and Chief Executive Officer of Gold Royalty Corp. Former CEO of Goldcorp and Hudbay Minerals.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2020-08-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Warren Gilman",
+      "age": 64,
+      "age_year": 2023,
+      "background": "Chairman and CEO of Queen’s Road Capital Investment Ltd. Former Chairman and CEO of CEF Holdings.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-06-23",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Alan Hair",
+      "age": 62,
+      "age_year": 2023,
+      "background": "Former President and CEO of Hudbay Minerals Inc. Over 35 years of experience in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-06-23",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Ken Robertson",
+      "age": 68,
+      "age_year": 2023,
+      "background": "Former partner at EY with over 35 years of experience in public accounting and the mining sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-06-23",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Karri Howlett",
+      "age": 47,
+      "age_year": 2023,
+      "background": "President of Karri Howlett Consulting. Over 20 years of experience in corporate strategy and risk management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-03-31",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1834361/000110465923128890/tm2333614d1_20f.htm",
+      "source_description": "Annual Report on Form 20-F for the fiscal year ended September 30, 2023",
+      "as_of_date": "2023-12-22"
+    }
+  ]
+}

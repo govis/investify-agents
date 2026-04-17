@@ -1,0 +1,171 @@
+{
+  "executives": [
+    {
+      "name": "Jacob DeWitte",
+      "age": 38,
+      "age_year": 2024,
+      "background": "Dr. Jacob DeWitte is the co-founder and Chief Executive Officer of Oklo. He has been a director of Oklo since its inception in 2013. Dr. DeWitte has experience in the nuclear industry, working on reactor design and strategy. He holds a Ph.D. in Nuclear Engineering from the Massachusetts Institute of Technology.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Caroline Cochran",
+      "age": 38,
+      "age_year": 2024,
+      "background": "Caroline Cochran is the co-founder and Chief Operating Officer of Oklo. She has been a director of Oklo since its inception in 2013. She has experience in operations and risk management. She holds an M.S. in Nuclear Engineering from the Massachusetts Institute of Technology and a B.A. in Economics and B.S. in Mechanical Engineering from the University of Oklahoma.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "R. Craig Bealmear",
+      "age": 60,
+      "age_year": 2024,
+      "background": "R. Craig Bealmear has served as Oklo’s Chief Financial Officer since 2024. Prior to joining Oklo, he served as the Chief Financial Officer of Renewable Energy Group, Inc. and spent over 24 years at BP in various finance and leadership roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jacob DeWitte",
+      "age": 38,
+      "age_year": 2024,
+      "background": "Dr. Jacob DeWitte is the co-founder and Chief Executive Officer of Oklo. He has been a director of Oklo since its inception in 2013.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Caroline Cochran",
+      "age": 38,
+      "age_year": 2024,
+      "background": "Caroline Cochran is the co-founder and Chief Operating Officer of Oklo. She has been a director of Oklo since its inception in 2013.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Sam Altman",
+      "age": 39,
+      "age_year": 2024,
+      "background": "Sam Altman served as the Chief Executive Officer and a director of AltC. He is the Chief Executive Officer and a member of the board of directors of OpenAI. He was previously the President of Y Combinator.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2021-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Michael Klein",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Michael Klein served as the Chairman and Chief Executive Officer of AltC. He is the founder and managing partner of M. Klein and Company. He was previously at Citigroup.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2021-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Richard W. Kinzley",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Richard W. Kinzley has served as a director of Oklo since May 2024. He previously served as the Chief Financial Officer of Black Hills Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2024-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Chris Wright",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Chris Wright has served as a director of Oklo since May 2024. He is the Chief Executive Officer and Chairman of Liberty Energy Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2024-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "John S. (Jack) Herlihy",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Jack Herlihy has served as a director of Oklo since May 2024. He was previously the Vice President of EMEA and Latin America at LinkedIn and held various roles at Google.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2024-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1849056/000119312524138170/d510108d424b3.htm",
+      "source_description": "Prospectus filed pursuant to Rule 424(b)(3) following the business combination",
+      "as_of_date": "2024-05-14"
+    }
+  ]
+}

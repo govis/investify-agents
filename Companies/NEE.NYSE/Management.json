@@ -1,0 +1,261 @@
+{
+  "executives": [
+    {
+      "name": "John W. Ketchum",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Ketchum is Chairman, President and Chief Executive Officer of NextEra Energy and chairman of NextEra Energy Partners, LP. He previously served as president and CEO of NextEra Energy Resources, LLC and as CFO of NextEra Energy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman, President and Chief Executive Officer",
+          "start_date": "2022-03-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Kirk S. Hachigian",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Hachigian is the Lead Independent Director of NextEra Energy. He is the retired chairman, president and CEO of JELD-WEN Holding, Inc. and former chairman and CEO of Cooper Industries plc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Lead Independent Director",
+          "start_date": "2024-05-23",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Brian J. Bolster",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Bolster is Executive Vice President, Finance and Chief Financial Officer of NextEra Energy. Prior to joining NextEra Energy, he was managing director and global head of natural resources investment banking at Goldman Sachs.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, Finance and Chief Financial Officer",
+          "start_date": "2024-05-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Rebecca J. Kujawa",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Ms. Kujawa is President, NextEra Energy Resources, LLC. She previously served as executive vice president, finance and CFO of NextEra Energy and as vice president, business management for NextEra Energy Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, NextEra Energy Resources, LLC",
+          "start_date": "2022-03-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Armando Pimentel, Jr.",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Pimentel is President and Chief Executive Officer of Florida Power & Light Company. He previously served as president and CEO of NextEra Energy Resources and as CFO of NextEra Energy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer, Florida Power & Light Company",
+          "start_date": "2023-02-15",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Charles E. Sieving",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Mr. Sieving is Executive Vice President and General Counsel of NextEra Energy. He is responsible for the legal, corporate secretary, and compliance functions.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and General Counsel",
+          "start_date": "2008-12-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "John W. Ketchum",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Chairman, President and CEO of NextEra Energy. Joined the board in 2022.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2022-03-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Sherry S. Barrat",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Retired vice chairman of Northern Trust Corporation. Director since 1998.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "1998-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance & Nominating (Chair)",
+        "Finance & Investment"
+      ]
+    },
+    {
+      "name": "James L. Camaren",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former chairman and CEO of Utilities, Inc. Director since 2002.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2002-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit",
+        "Nuclear"
+      ]
+    },
+    {
+      "name": "Kenneth B. Dunn",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Professor of Financial Economics at Carnegie Mellon University. Director since 2010.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2010-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit",
+        "Finance & Investment"
+      ]
+    },
+    {
+      "name": "Naren K. Gursahaney",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former president and CEO of ADT Corporation. Director since 2014.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2014-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit (Chair)",
+        "Governance & Nominating"
+      ]
+    },
+    {
+      "name": "Kirk S. Hachigian",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Retired chairman, president and CEO of JELD-WEN Holding, Inc. Director since 2013.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Lead Independent Director",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation (Chair)",
+        "Executive"
+      ]
+    },
+    {
+      "name": "Amy B. Lane",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Retired managing director of Merrill Lynch & Co., Inc. Director since 2015.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Finance & Investment (Chair)",
+        "Audit"
+      ]
+    },
+    {
+      "name": "Geoffrey S. Martha",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Medtronic plc. Director since 2023.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation",
+        "Governance & Nominating"
+      ]
+    },
+    {
+      "name": "Darryl L. Wilson",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Founder, chairman and president of The Wilson Collective. Director since 2022.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation",
+        "Nuclear"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/753308/000075330824000034/nee-20240322.htm",
+      "source_description": "NextEra Energy, Inc. DEF 14A Proxy Statement",
+      "as_of_date": "2024-03-22"
+    },
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/753308/000075330824000018/nee-20231231.htm",
+      "source_description": "NextEra Energy, Inc. 10-K Annual Report",
+      "as_of_date": "2024-02-21"
+    }
+  ]
+}

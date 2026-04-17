@@ -1,0 +1,216 @@
+{
+  "executives": [
+    {
+      "name": "Craig Arnold",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Craig Arnold is Chairman and Chief Executive Officer of Eaton. He was appointed Chairman and CEO on June 1, 2016. Previously, he served as President and Chief Operating Officer of Eaton and as Vice Chairman and Chief Operating Officer of the Industrial Sector. He joined Eaton in 2000 as Senior Vice President and Group Executive of the Fluid Power Group. Prior to Eaton, he held various leadership positions at General Electric.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2016-06-01",
+          "end_date": null
+        },
+        {
+          "title": "President and Chief Operating Officer",
+          "start_date": "2015-09-01",
+          "end_date": "2016-05-31"
+        }
+      ]
+    },
+    {
+      "name": "Olivier Leonetti",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Olivier Leonetti is Executive Vice President and Chief Financial Officer of Eaton. He joined Eaton in 2024. Prior to joining Eaton, he served as Executive Vice President and Chief Financial Officer of Johnson Controls International plc from 2020 to 2024. He also served as CFO of Zebra Technologies and Western Digital.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2024-02-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Heath Monesmith",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Heath Monesmith is President and Chief Operating Officer, Electrical Sector. He was appointed to this role in 2022. Previously, he served as President and Chief Operating Officer, Industrial Sector, and as Executive Vice President and General Counsel.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Operating Officer, Electrical Sector",
+          "start_date": "2022-07-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Paulo Ruiz",
+      "age": 50,
+      "age_year": 2024,
+      "background": "Paulo Ruiz is President and Chief Operating Officer, Industrial Sector. He was appointed to this role in 2022. He joined Eaton in 2019 as President of the Hydraulics Group. Prior to Eaton, he spent more than 18 years with Siemens.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Operating Officer, Industrial Sector",
+          "start_date": "2022-07-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ernest W. Marshall, Jr.",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Ernest W. Marshall, Jr. is Executive Vice President and Chief Human Resources Officer. He joined Eaton in 2018. Prior to Eaton, he served in various HR leadership roles at GE Aviation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Human Resources Officer",
+          "start_date": "2018-07-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Craig Arnold",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Chairman and Chief Executive Officer of Eaton since 2016. Joined Eaton in 2000.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2016-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Silvio Napoli",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Executive Chairman of the Board of Directors of Schindler Holding Ltd. since 2017. He has held various leadership roles at Schindler since 1994.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation and Organization",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Deborah L. McCoy",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Retired Senior Vice President, Flight Operations, Continental Airlines, Inc. She served in this role from 1999 until 2005.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2004-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance",
+        "Audit"
+      ]
+    },
+    {
+      "name": "Gregory R. Page",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Retired Chairman and Chief Executive Officer of Cargill, Incorporated. He served as Executive Chairman from 2013 to 2015 and CEO from 2007 to 2013.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Lead Director",
+          "start_date": "2003-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Dorothy C. Thompson",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Retired Chief Executive Officer of Drax Group plc. She served as CEO from 2005 to 2017.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Lori J. Ryerkerk",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Chairman, Chief Executive Officer and President of Celanese Corporation since 2019. Previously Executive Vice President of Global Manufacturing, Shell Downstream Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation and Organization",
+        "Governance"
+      ]
+    },
+    {
+      "name": "Robert J. Pagano, Jr.",
+      "age": 61,
+      "age_year": 2024,
+      "background": "President, Chief Executive Officer and Chairperson of the Board of Watts Water Technologies, Inc. since 2014.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit",
+        "Finance"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1551182/000155118224000010/etn-20231231.htm",
+      "source_description": "Eaton Corporation plc 2023 Annual Report on Form 10-K",
+      "as_of_date": "2024-02-23"
+    },
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1551182/000119312524068567/d539515ddef14a.htm",
+      "source_description": "Eaton Corporation plc 2024 Proxy Statement (DEF 14A)",
+      "as_of_date": "2024-03-15"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "executives": [
+    {
+      "name": "Robert V. Pragada",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Pragada has served as Chief Executive Officer since January 2023 and as a Director since joining the Board in 2022. He previously served as President and Chief Operating Officer from 2019 to 2023. He first joined Jacobs in 2006 and held several executive roles before a brief departure to serve as President and CEO of the Brock Group from 2014 to 2016, returning to Jacobs in 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2023-01-01",
+          "end_date": null
+        },
+        {
+          "title": "President and Chief Operating Officer",
+          "start_date": "2019-01-01",
+          "end_date": "2023-01-01"
+        }
+      ]
+    },
+    {
+      "name": "Claudia Jaramillo",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Ms. Jaramillo has served as Executive Vice President and Chief Financial Officer since August 2023. She joined Jacobs in 2022 as Executive Vice President, Strategy and Corporate Development. Prior to Jacobs, she spent over 20 years at Schlumberger in various senior financial and operational leadership roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2023-08-01",
+          "end_date": null
+        },
+        {
+          "title": "Executive Vice President, Strategy and Corporate Development",
+          "start_date": "2022-01-01",
+          "end_date": "2023-08-01"
+        }
+      ]
+    },
+    {
+      "name": "Justin Johnson",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Mr. Johnson has served as Executive Vice President and Chief People and Communications Officer since 2023. He joined Jacobs in 2016 and has held various leadership roles in HR and communications.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief People and Communications Officer",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "William B. Griffith",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Griffith has served as Senior Vice President and Chief Accounting Officer since 2021. He previously served as Vice President and Corporate Controller.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Accounting Officer",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Stephen A. Arnette",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. Arnette has served as a Director since 2024. He is currently the President of the Critical Mission Solutions business at Jacobs.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Christopher M.B. Galvin",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Mr. Galvin has served as a Director since 2009. He is the former Chairman and CEO of Motorola, Inc. and is currently Chairman and Co-Founder of Harrison Street Real Estate Capital.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2009-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "ESG and Risk Committee"
+      ]
+    },
+    {
+      "name": "Georgette D. Kiser",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Ms. Kiser has served as a Director since 2019. She is an Operating Executive at The Carlyle Group and previously served as CIO of The Carlyle Group.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Human Resource and Compensation Committee"
+      ]
+    },
+    {
+      "name": "Barbara Loughran",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Ms. Loughran has served as a Director since 2023. She was previously a partner at PwC where she held various leadership roles over a 30-year career.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Robert A. McNamara",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Mr. McNamara has served as a Director since 2017. He is the former Group Chief Risk Officer of Lendlease Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "ESG and Risk Committee",
+        "Human Resource and Compensation Committee"
+      ]
+    },
+    {
+      "name": "Peter J. Robertson",
+      "age": 77,
+      "age_year": 2024,
+      "background": "Mr. Robertson has served as a Director since 2009. He is the former Vice Chairman of the Board of Chevron Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2009-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nominating and Corporate Governance Committee",
+        "Human Resource and Compensation Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/52988/000005298823000214/j-20230929.htm",
+      "source_description": "Jacobs Solutions Inc. Form 10-K for the fiscal year ended September 29, 2023",
+      "as_of_date": "2023-11-21"
+    },
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/52988/000005298824000014/j-20240111.htm",
+      "source_description": "Jacobs Solutions Inc. Definitive Proxy Statement (DEF 14A)",
+      "as_of_date": "2024-01-11"
+    }
+  ]
+}

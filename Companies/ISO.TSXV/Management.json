@@ -1,0 +1,168 @@
+{
+  "executives": [
+    {
+      "name": "Philip Williams",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Williams has over 20 years of experience in the mining and finance industry. He was previously the CEO of Consolidated Uranium Inc. and has held senior roles in investment banking and equity research.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer and Director",
+          "start_date": "2023-12-05",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Graham du Preez",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. du Preez is a Chartered Accountant with over 25 years of experience in the mining industry. He previously served as CFO of Uranium Royalty Corp. and has held senior financial roles at several mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2023-12-05",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Darryl Clark",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Dr. Clark is a geologist with over 30 years of experience in the mining industry. He has held executive and board positions with several exploration and mining companies globally.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, Exploration and Development",
+          "start_date": "2023-12-05",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Peter J. Netupsky",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Mr. Netupsky has over 20 years of experience in corporate finance and investment banking. He was previously the EVP, Corporate Development at Consolidated Uranium Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, Corporate Development",
+          "start_date": "2023-12-05",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Marty Tunney",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Mr. Tunney is a professional engineer with over 18 years of experience in the mining industry. He previously served as President and COO of Consolidated Uranium Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2023-12-05",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Leigh Curyer",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Curyer is the founder and CEO of NexGen Energy Ltd. He has over 20 years of experience in the resources sector, including corporate finance and executive management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2016-02-02",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "Philip Williams",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Williams has over 20 years of experience in the mining and finance industry. He was previously the CEO of Consolidated Uranium Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-12-05",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Richard Pattee",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Pattee has over 30 years of experience in the mining and finance industry. He has held senior roles in investment banking and corporate development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-02-02",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Governance and Nominating Committee"
+      ]
+    },
+    {
+      "name": "Christopher McFadden",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. McFadden is a lawyer with over 25 years of experience in the resources sector. He is currently the Chairman of NexGen Energy Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-02-02",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance and Nominating Committee"
+      ]
+    },
+    {
+      "name": "Peter Netupsky",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Mr. Netupsky has over 20 years of experience in corporate finance and investment banking.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-12-05",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.isoenergy.ca/_resources/sedar/Management-Information-Circular-May-2024.pdf",
+      "source_description": "Management Information Circular dated May 1, 2024",
+      "as_of_date": "2024-05-01"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "executives": [
+    {
+      "name": "Mark R. Widmar",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Widmar has served as our Chief Executive Officer since July 2016 and as a member of our board of directors since joining the company in 2011. He previously served as our Chief Financial Officer from 2011 to 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2016-07-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2011-04-01",
+          "end_date": "2016-06-30"
+        }
+      ]
+    },
+    {
+      "name": "Alexander R. Bradley",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Mr. Bradley has served as our Chief Financial Officer since July 2016. He joined First Solar in 2008 and has held various roles in finance and corporate development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2016-07-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Georges J. Antoun",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Antoun has served as our Chief Commercial Officer since July 2016. He joined First Solar in 2012 and previously served as Chief Operating Officer.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Commercial Officer",
+          "start_date": "2016-07-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2012-07-01",
+          "end_date": "2016-06-30"
+        }
+      ]
+    },
+    {
+      "name": "Caroline M. Stockdale",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Ms. Stockdale has served as our Chief Human Resources Officer since 2017. She has extensive experience in HR leadership across various industries.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Human Resources Officer",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jason E. Dymbort",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Dymbort has served as our General Counsel and Secretary since 2019. He joined First Solar in 2008.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "General Counsel and Secretary",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Mark R. Widmar",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Chief Executive Officer of First Solar, Inc. since July 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2016-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Michael J. Ahearn",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Co-founder of First Solar and served as CEO from 2000 to 2009 and again from 2011 to 2012. He is the Chairman of the Board.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board",
+          "start_date": "2000-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Richard D. Chapman",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former CFO of Walton Enterprises, LLC. He has served on the board since 2012.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2012-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "George A. Hambro",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Former CEO of First Solar. He has served on the board since 2012.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2012-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nominating and Governance Committee",
+        "Technology Committee"
+      ]
+    },
+    {
+      "name": "Molly E. Joseph",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Former CEO of UnitedHealthcare Global. She joined the board in 2021.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "William J. Post",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Pinnacle West Capital Corporation. He has served on the board since 2010.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2010-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Nominating and Governance Committee"
+      ]
+    },
+    {
+      "name": "Paul H. Stebbins",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of World Fuel Services Corporation. He joined the board in 2014.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2014-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Nominating and Governance Committee"
+      ]
+    },
+    {
+      "name": "Anita M. Sands",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Former Group Managing Director and Head of Change Leadership at UBS Financial Services. She joined the board in 2020.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Technology Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1274494/000127449424000013/fslr-20231231.htm",
+      "source_description": "First Solar, Inc. Form 10-K for the fiscal year ended December 31, 2023",
+      "as_of_date": "2024-02-27"
+    },
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1274494/000127449424000024/fslr-20240321.htm",
+      "source_description": "First Solar, Inc. Definitive Proxy Statement (DEF 14A)",
+      "as_of_date": "2024-03-21"
+    }
+  ]
+}

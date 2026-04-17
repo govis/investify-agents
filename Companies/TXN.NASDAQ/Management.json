@@ -1,0 +1,266 @@
+{
+  "executives": [
+    {
+      "name": "Haviv Ilan",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Haviv Ilan is president and chief executive officer of Texas Instruments. He has been with the company since 1999, serving in various leadership roles including chief operating officer and senior vice president of Analog Signal Chain.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2023-04-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2020-01-01",
+          "end_date": "2023-03-31"
+        }
+      ]
+    },
+    {
+      "name": "Rafael Lizardi",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Rafael Lizardi is senior vice president and chief financial officer. He joined TI in 2001 and has held several financial leadership positions, including corporate controller.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Financial Officer",
+          "start_date": "2017-02-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ahmad Bahai",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Ahmad Bahai is senior vice president and chief technology officer, responsible for guiding TI’s technology strategy and research.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Technology Officer",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Mark Gary",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mark Gary is senior vice president of Analog Power Products. He has held various leadership roles in TI's analog business units.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Analog Power Products",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Cynthia Hoff Trochu",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Cynthia Hoff Trochu is senior vice president, secretary and general counsel. She joined TI in 1993.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Secretary and General Counsel",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Richard K. Templeton",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Rich Templeton is chairman of the board. He served as TI's president and CEO from 2004 to 2023.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board",
+          "start_date": "2008-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Haviv Ilan",
+      "age": 55,
+      "age_year": 2024,
+      "background": "President and CEO of Texas Instruments.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Mark A. Blinn",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former President and CEO of Flowserve Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance and Stockholder Relations Committee"
+      ]
+    },
+    {
+      "name": "Janet F. Clark",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former Executive Vice President and CFO of Marathon Oil Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance and Stockholder Relations Committee"
+      ]
+    },
+    {
+      "name": "Carrie S. Cox",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Humacyte, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2004-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Governance and Stockholder Relations Committee"
+      ]
+    },
+    {
+      "name": "Martin S. Craighead",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Baker Hughes Incorporated.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Governance and Stockholder Relations Committee"
+      ]
+    },
+    {
+      "name": "Jean M. Hobby",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former Strategy Officer at PricewaterhouseCoopers, LLP.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance and Stockholder Relations Committee"
+      ]
+    },
+    {
+      "name": "Ronald Kirk",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Senior Counsel at Gibson, Dunn & Crutcher LLP and former U.S. Trade Representative.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Stockholder Relations Committee"
+      ]
+    },
+    {
+      "name": "Pamela H. Patsley",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Former Executive Chairman of MoneyGram International, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2004-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance and Stockholder Relations Committee"
+      ]
+    },
+    {
+      "name": "Robert E. Sanchez",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Ryder System, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Governance and Stockholder Relations Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/97476/000119312524065631/d518335ddef14a.htm",
+      "source_description": "Texas Instruments 2024 Proxy Statement (DEF 14A)",
+      "as_of_date": "2024-03-12"
+    },
+    {
+      "source_url": "https://www.ti.com/about-ti/company/leadership-management.html",
+      "source_description": "Texas Instruments Official Website - Leadership and Management",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

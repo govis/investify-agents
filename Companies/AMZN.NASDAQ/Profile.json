@@ -1,0 +1,21 @@
+{
+  "name": "Amazon.com, Inc.",
+  "ticker": "AMZN",
+  "exchange": "NASDAQ",
+  "website": "https://www.amazon.com",
+  "logo_url": "logo.png",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "United States",
+  "description": "Amazon.com, Inc. is a multinational technology company that focuses on e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. It is one of the most influential economic and cultural forces in the world and is often referred to as one of the Big Five American technology companies. Through its Amazon Web Services (AWS) division, the company provides a highly reliable, scalable, low-cost infrastructure platform in the cloud that powers hundreds of thousands of businesses in 190 countries around the world.",
+  "metals_and_minerals": null,
+  "investment_theses": [
+    {
+      "thesis_name": "AI",
+      "company_type": "Cloud Infrastructure (AWS) / AI Services"
+    },
+    {
+      "thesis_name": "Defense",
+      "company_type": "Defense Cloud Infrastructure (JWCC)"
+    }
+  ]
+}

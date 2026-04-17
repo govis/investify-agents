@@ -1,0 +1,10 @@
+# Sovereign Defense Industry Rearmament cycle
+
+
+### Theme
+
+The global security landscape has undergone a fundamental phase shift from a period of discretionary defense to a state of structural, non-cyclical rearmament, characterized by the "AI-First" military doctrine and the normalization of high-intensity, state-on-state kinetic operations. This proliferation is catalyzed by a tri-theater instability baseline: the attritional conflict in Ukraine, the decisive Israeli-American strategic campaign against the Iranian regime (Operations Midnight Hammer and Epic Fury), and the forced leadership transition in Venezuela (Operation Absolute Resolve). These conflicts have shattered legacy security assumptions, prompting a global elevation of defense spending toward a 5% GDP benchmark and fueling a "Command of the Reload" industrial strategy that prioritizes autonomous swarms, deep-strike precision, and the "Golden Dome" missile defense architecture.
+
+### Executive Summary
+
+Global defense spending reached a historic $2.63 trillion in 2025, signaling a permanent, structural increase in national security allocations as a percentage of GDP, with NATO members now formally targeting a 5% benchmark by 2035. This tectonic shift is precipitated by the emergence of high-intensity state-on-state warfare and proactive regime-change operations, specifically the ongoing attrition in Ukraine, the IDF-U.S. strikes on Iranian nuclear and missile infrastructure, and the U.S. apprehension of Nicolás Maduro in Venezuela. Modern warfare is being redefined by an "AI-First" approach, where software-defined autonomy, proliferated drone swarms, and the "Golden Dome" missile defense architecture are the primary drivers of lethality and deterrence. For institutional investors, this creates a non-cyclical growth environment for aerospace and defense equities, as legacy primes like Lockheed Martin and RTX manage record-breaking backlogs exceeding $200 billion, while a "New Defense" cohort of venture-scale firms like Anduril and Shield AI secure multi-billion-dollar enterprise contracts for autonomous systems.

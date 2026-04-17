@@ -1,0 +1,165 @@
+{
+  "executives": [
+    {
+      "name": "Lawrie Conway",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Conway was appointed as Chief Executive Officer and Managing Director on 1 January 2023. He was previously Finance Director and Chief Financial Officer since 2014. He has more than 30 years’ experience in the resources sector across a diverse range of commercial, financial and operational activities.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer and Managing Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Finance Director and Chief Financial Officer",
+          "start_date": "2014-08-01",
+          "end_date": "2022-12-31"
+        }
+      ]
+    },
+    {
+      "name": "Barrie Van Der Merwe",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Mr. Van Der Merwe joined Evolution as Chief Financial Officer in 2023. He has extensive experience in the resources sector, having held senior financial roles at Orica and Anglo American Platinum.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2023-05-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Attie Roux",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Roux is the Chief Projects Officer. He has over 40 years of experience in the mining industry, specializing in project development and operational management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Projects Officer",
+          "start_date": "2022-07-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jacob (Jake) Klein",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Klein was the founding Executive Chairman of Evolution Mining. He has over 25 years’ experience in the mining industry. He was previously President and CEO of Sino Gold Mining Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Chair",
+          "start_date": "2011-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "James (Jim) Askew",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Mr. Askew is a mining engineer with over 40 years’ experience as a Director and Chief Executive Officer of Australian and international publicly listed mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2011-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Risk and Sustainability Committee (Chair)",
+        "Nomination and Remuneration Committee"
+      ]
+    },
+    {
+      "name": "Andrea Hall",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Ms. Hall is a Chartered Accountant with over 30 years’ experience in the financial services and mining sectors. She was a partner at KPMG for 12 years.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2017-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)",
+        "Risk and Sustainability Committee"
+      ]
+    },
+    {
+      "name": "Jason Attew",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Attew is a mining industry executive with over 25 years of experience in investment banking and corporate strategy. He was previously CFO of Goldcorp Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2019-12-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nomination and Remuneration Committee"
+      ]
+    },
+    {
+      "name": "Peter Smith",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Smith is a senior mining executive with over 40 years’ experience in the resources sector, including senior roles at Rio Tinto and Kazzinc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2020-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Risk and Sustainability Committee",
+        "Nomination and Remuneration Committee"
+      ]
+    },
+    {
+      "name": "Vicky Binns",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Ms. Binns has over 35 years’ experience in the global resources and financial services sectors, including 10 years at BHP in senior executive roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2020-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nomination and Remuneration Committee (Chair)"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://evolutionmining.com.au/wp-content/uploads/2024/10/Evolution-Annual-Report-2024.pdf",
+      "source_description": "Evolution Mining Limited Annual Report 2024",
+      "as_of_date": "2024-06-30"
+    }
+  ]
+}

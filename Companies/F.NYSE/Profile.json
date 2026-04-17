@@ -1,0 +1,21 @@
+{
+  "name": "Ford Motor Company",
+  "ticker": "F",
+  "exchange": "NYSE",
+  "website": "https://www.ford.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ford_Motor_Company_Logo.svg/2560px-Ford_Motor_Company_Logo.svg.png",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "United States",
+  "description": "Ford Motor Company is a global American automaker headquartered in Dearborn, Michigan, that designs, manufactures, markets, and services a full line of Ford trucks, utility vehicles, and cars, as well as Lincoln luxury vehicles. Founded by Henry Ford in 1903, the company is a leader in the automotive industry's transition toward electrification and autonomous driving. Ford is committed to delivering innovative mobility solutions through its Ford+ plan, focusing on electric vehicles, software-defined platforms, and enhanced customer experiences across its Ford Blue, Ford Model e, and Ford Pro business segments.",
+  "metals_and_minerals": null,
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Legacy Automaker / EV Transition"
+    },
+    {
+      "thesis_name": "Reshoring",
+      "company_type": "Automotive / EV Battery Plant Development in US"
+    }
+  ]
+}

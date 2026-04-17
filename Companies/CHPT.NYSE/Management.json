@@ -1,0 +1,203 @@
+{
+  "executives": [
+    {
+      "name": "Rick Wilmer",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Rick Wilmer has served as our President and Chief Executive Officer and as a member of our Board since November 2023. Prior to that, he served as our Chief Operating Officer from July 2022 to November 2023. Prior to joining ChargePoint, Mr. Wilmer served as Head of Customer Relations and Operations at Pliops, a data processor company, from January 2021 to June 2022. From 2017 to 2020, he was the Chief Executive Officer of Chowbotics, a food robotics company. Mr. Wilmer has also held various leadership roles at companies such as Mojo Networks, Leyden Energy, and Santur Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2023-11-16",
+          "end_date": null
+        },
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2022-07-01",
+          "end_date": "2023-11-16"
+        }
+      ]
+    },
+    {
+      "name": "Mansi Khetani",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Mansi Khetani has served as our Interim Chief Financial Officer since November 2023. She joined ChargePoint in 2018 and previously served as Senior Vice President, Financial Planning and Analysis. Prior to ChargePoint, she held various financial leadership roles at companies including Polycom and Micron Technology.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Interim Chief Financial Officer",
+          "start_date": "2023-11-16",
+          "end_date": null
+        },
+        {
+          "title": "Senior Vice President, Financial Planning and Analysis",
+          "start_date": "2018-01-01",
+          "end_date": "2023-11-16"
+        }
+      ]
+    },
+    {
+      "name": "Jagdeep Singh",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Jagdeep Singh has served as our Chief Development Officer since February 2024. Prior to joining ChargePoint, he was the co-founder and CEO of QuantumScape Corporation from 2010 to 2024. He previously founded and served as CEO of Infinera Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Development Officer",
+          "start_date": "2024-02-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Henrik Gerdes",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Henrik Gerdes has served as our Chief Accounting Officer since May 2022. Prior to that, he served as our Vice President, Corporate Controller from 2020 to 2022. Before joining ChargePoint, he held various accounting roles at 8x8, Inc. and Ernst & Young.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Accounting Officer",
+          "start_date": "2022-05-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Pasquale Romano",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Pasquale Romano has served as a member of our Board since February 2011 and served as our President and Chief Executive Officer from February 2011 to November 2023. Prior to joining ChargePoint, Mr. Romano co-founded 2Wire, Inc., where he served as President and CEO.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2011-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Roxanne Bowman",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Roxanne Bowman has served as a member of our Board since February 2021. She is currently an operating executive at NMS Capital. Previously, she served as CEO of PowerTeam Services, LLC and held various leadership positions at Cooper Industries and ABB.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-02-26",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation and Organizational Development Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Axel Harries",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Axel Harries has served as a member of our Board since February 2021. He currently serves as Executive Vice President, Product Management & Sales at Mercedes-Benz AG. He has held various leadership roles at Daimler AG since 1993.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-02-26",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Jeffrey Harris",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Jeffrey Harris has served as a member of our Board since 2018. He is a Venture Partner at Quantum Energy Partners and was previously a Managing Director at Warburg Pincus LLC for over 25 years.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Susan Heystee",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Susan Heystee has served as a member of our Board since May 2021. She previously served as Senior Vice President of Global Automotive Business at Verizon Connect and held leadership roles at Telogis and Novell.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation and Organizational Development Committee"
+      ]
+    },
+    {
+      "name": "Mark Leschly",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mark Leschly has served as a member of our Board since 2009. He is the Managing Partner of Iconica Partners and was previously a Managing Director at Rho Capital Partners.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2009-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation and Organizational Development Committee"
+      ]
+    },
+    {
+      "name": "Michael Linse",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Michael Linse has served as a member of our Board since 2012. He is the Founder and Managing Director of Linse Capital and was previously a Partner at Kleiner Perkins Caufield & Byers.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2012-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1777393/000177739324000019/chpt-20240131.htm",
+      "source_description": "Form 10-K Annual Report for the fiscal year ended January 31, 2024",
+      "as_of_date": "2024-04-01"
+    },
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1777393/000114036124027533/ny20026365x1_def14a.htm",
+      "source_description": "Definitive Proxy Statement (DEF 14A)",
+      "as_of_date": "2024-05-24"
+    }
+  ]
+}

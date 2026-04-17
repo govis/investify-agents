@@ -1,0 +1,180 @@
+{
+  "executives": [
+    {
+      "name": "John McConnell",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. McConnell has over 35 years of experience in the mining industry. He has been the President and CEO of Victoria Gold since 2010. Previously, he was President and CEO of Western Keltic Mines Inc. and held senior positions with De Beers Canada and Breakwater Resources Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President & Chief Executive Officer",
+          "start_date": "2010-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Marty Rendall",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Rendall has over 25 years of experience in the mining industry. He joined Victoria Gold in 2007 and has served as CFO since 2011. He is a Chartered Professional Accountant.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2011-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Mark J. Ayranto",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Ayranto has over 20 years of experience in the mining industry, specifically in the Yukon. He has been with Victoria Gold since 2009 and oversees corporate development and sustainability.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Dave S. Rouleau",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Rouleau has over 30 years of experience in mine operations and management. He joined Victoria Gold in 2017 and was previously Vice President, Operations at Taseko Mines Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Operations",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "T. Sean Harvey",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Harvey has over 25 years of experience in the investment banking and mining industries. He has served as Chairman of Victoria Gold since 2007. He was previously President and CEO of Orvana Minerals Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2007-07-31",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "John McConnell",
+      "age": 66,
+      "age_year": 2024,
+      "background": "President and CEO of Victoria Gold Corp. with over 35 years of mining experience.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2010-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Technical Committee"
+      ]
+    },
+    {
+      "name": "Christopher J. Hill",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Hill has over 30 years of experience in the mining industry, primarily in financial and corporate development roles. He was previously Treasurer of Kinross Gold Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2007-07-31",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)",
+        "Corporate Governance and Nominating Committee"
+      ]
+    },
+    {
+      "name": "Sean Boyd",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Boyd is the Executive Chairman of Agnico Eagle Mines Limited. He has been with Agnico Eagle since 1985 and served as CEO from 1998 to 2022.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Technical Committee"
+      ]
+    },
+    {
+      "name": "Leona Aglukkaq",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Ms. Aglukkaq is a Canadian politician who served as a Member of Parliament and held several cabinet positions, including Minister of Health and Minister of the Environment.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Governance and Nominating Committee (Chair)"
+      ]
+    },
+    {
+      "name": "Joe Giuffre",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Giuffre is a lawyer with over 30 years of experience in corporate and securities law. He is currently a partner at a law firm in Vancouver.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Governance and Nominating Committee",
+        "Compensation Committee (Chair)"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://vgcx.com/investors/sedar-filings/",
+      "source_description": "Management Information Circular dated April 26, 2024",
+      "as_of_date": "2024-04-26"
+    },
+    {
+      "source_url": "https://vgcx.com/about-us/management/",
+      "source_description": "Victoria Gold Corp. Corporate Website - Management Team",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

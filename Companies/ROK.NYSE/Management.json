@@ -1,0 +1,175 @@
+{
+  "executives": [
+    {
+      "name": "Blake D. Moret",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Blake D. Moret is Chairman and Chief Executive Officer of Rockwell Automation. He has been with the company for over 35 years, serving in various leadership roles across the business.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2016-07-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Christian Rothe",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Christian Rothe is Senior Vice President and Chief Financial Officer. He joined Rockwell Automation in 2023 from Graco Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Financial Officer",
+          "start_date": "2023-11-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Rebecca W. House",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Rebecca W. House is Senior Vice President, Chief People and Legal Officer, and Secretary. She joined the company in 2017.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Chief People and Legal Officer, and Secretary",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Cyril Perducat",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Cyril Perducat is Senior Vice President and Chief Technology Officer. He joined Rockwell in 2021 from Schneider Electric.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Technology Officer",
+          "start_date": "2021-07-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Tessa M. Myers",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Tessa M. Myers is Senior Vice President, Intelligent Devices. She has held various leadership roles in sales and product management during her tenure at Rockwell.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Intelligent Devices",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Blake D. Moret",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Rockwell Automation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2016-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "William P. Gipson",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Retired President, Enterprise Packaging Transformation, The Procter & Gamble Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Technology Committee"
+      ]
+    },
+    {
+      "name": "Pamela Murphy",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Chief Executive Officer, Opportunity Network.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Technology Committee"
+      ]
+    },
+    {
+      "name": "Alice L. Peterson",
+      "age": 64,
+      "age_year": 2024,
+      "background": "President, Syrus Global.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-12-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance and Corporate Responsibility Committee"
+      ]
+    },
+    {
+      "name": "Robert Talbert",
+      "age": 56,
+      "age_year": 2024,
+      "background": "President and CEO, Leggett & Platt.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation and Talent Management Committee",
+        "Technology Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/84736/000008473623000181/rok-20231211.htm",
+      "source_description": "Rockwell Automation DEF 14A Proxy Statement",
+      "as_of_date": "2023-12-11"
+    },
+    {
+      "source_url": "https://www.rockwellautomation.com/en-us/company/about-us/leadership.html",
+      "source_description": "Rockwell Automation Official Leadership Page",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

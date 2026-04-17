@@ -1,0 +1,245 @@
+{
+  "executives": [
+    {
+      "name": "Dr. Lisa T. Su",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Dr. Su is AMD’s Chair, President and Chief Executive Officer. She has been AMD’s President and Chief Executive Officer since October 2014 and Chair of the Board since May 2022. Previously, she served as Senior Vice President and General Manager, Global Business Units from 2012 to 2014. Prior to joining AMD, Dr. Su served as Senior Vice President and General Manager, Networking and Multimedia at Freescale Semiconductor, Inc. and spent 13 years at IBM in various engineering and business leadership positions.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chair, President and Chief Executive Officer",
+          "start_date": "2014-10-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jean Hu",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Ms. Hu is AMD’s Executive Vice President, Chief Financial Officer and Treasurer. She joined AMD in January 2023. Previously, she served as Executive Vice President and Chief Financial Officer of Marvell Technology, Inc. from 2016 to 2023. She also held senior financial leadership roles at Qlogic and Conexant Systems.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, Chief Financial Officer and Treasurer",
+          "start_date": "2023-01-23",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Mark D. Papermaster",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Papermaster is AMD’s Executive Vice President and Chief Technology Officer. He joined AMD in 2011. Previously, he was Vice President of the Silicon Engineering Group at Cisco Systems, Inc. and Senior Vice President of Devices Hardware Engineering at Apple Inc. He also spent 26 years at IBM.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Technology Officer",
+          "start_date": "2011-10-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Forrest E. Norrod",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Norrod is AMD’s Executive Vice President and General Manager, Data Center Solutions Business Group. He joined AMD in 2014. Previously, he was Vice President and General Manager of Dell’s server business.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and General Manager, Data Center Solutions Business Group",
+          "start_date": "2014-11-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Harry A. Wolin",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Wolin is AMD’s Senior Vice President, General Counsel and Corporate Secretary. He has been with AMD since 2000 and was appointed General Counsel in 2003.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, General Counsel and Corporate Secretary",
+          "start_date": "2003-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Dr. Lisa T. Su",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Chair, President and CEO of AMD. Joined the board in 2014.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chair",
+          "start_date": "2022-05-01",
+          "end_date": null
+        },
+        {
+          "role": "Director",
+          "start_date": "2014-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "John E. Caldwell",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Former President and CEO of SMTC Corporation. Director since 2006. Lead Independent Director.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Lead Independent Director",
+          "start_date": "2006-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Nora M. Denzel",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Interim CEO of Outerwall Inc. and former executive at Intuit and HP. Director since 2014.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2014-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation and Leadership Resources Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Mark Durcan",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former CEO of Micron Technology, Inc. Director since 2017.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee",
+        "Compensation and Leadership Resources Committee"
+      ]
+    },
+    {
+      "name": "Michael P. Gregoire",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Former CEO of CA Technologies and Taleo Corporation. Director since 2019.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee",
+        "Compensation and Leadership Resources Committee"
+      ]
+    },
+    {
+      "name": "Joseph A. Householder",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Former President and COO of Sempra Energy. Director since 2014.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2014-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee"
+      ]
+    },
+    {
+      "name": "Jon A. Olson",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former CFO of Xilinx, Inc. Joined AMD board following the Xilinx acquisition in 2022.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-02-14",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee"
+      ]
+    },
+    {
+      "name": "Abhi Y. Talwalkar",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Former President and CEO of LSI Corporation. Director since 2017.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation and Leadership Resources Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Elizabeth W. Vanderslice",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Former CEO of Wired Digital, Inc. Joined AMD board following the Xilinx acquisition in 2022.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-02-14",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation and Leadership Resources Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/2488/000119312524079485/d531478ddef14a.htm",
+      "source_description": "AMD 2024 Proxy Statement (DEF 14A)",
+      "as_of_date": "2024-03-27"
+    }
+  ]
+}

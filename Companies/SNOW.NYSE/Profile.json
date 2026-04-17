@@ -1,0 +1,17 @@
+{
+  "name": "Snowflake Inc.",
+  "ticker": "SNOW",
+  "exchange": "NYSE",
+  "website": "https://www.snowflake.com",
+  "logo_url": "https://www.snowflake.com/wp-content/uploads/2023/05/snowflake-logo-blue.png",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "United States",
+  "description": "Snowflake Inc. provides a cloud-based data platform, often referred to as the Data Cloud, which enables organizations to consolidate data into a single source of truth. The platform supports a wide range of workloads, including data warehousing, data lakes, data engineering, data science, and data sharing. By leveraging the scalability of the public cloud, Snowflake allows users to store and analyze massive amounts of data with high performance and concurrency. Its architecture separates storage from compute, enabling independent scaling and a consumption-based pricing model that serves diverse enterprise needs.",
+  "metals_and_minerals": null,
+  "investment_theses": [
+    {
+      "thesis_name": "AI",
+      "company_type": "Data Cloud / AI Data Management"
+    }
+  ]
+}

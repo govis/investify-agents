@@ -1,0 +1,182 @@
+{
+  "executives": [
+    {
+      "name": "Matthew Prince",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Matthew Prince is one of our co-founders and has served as our Chief Executive Officer and as a member of our board of directors since July 2009 and as Chair of our board of directors since May 2019. Mr. Prince also served as our President from July 2009 to April 2012. Prior to co-founding Cloudflare, Mr. Prince co-founded Unspam Technologies, Inc., an anti-spam software company, and has served as its Chair since 2001. He has also served as an adjunct professor at John Marshall Law School since 2005. Mr. Prince holds a B.A. in English Literature and Computer Science from Trinity College, a J.D. from the University of Chicago, and an M.B.A. from Harvard Business School.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2009-07-01",
+          "end_date": null
+        },
+        {
+          "title": "Chair of the Board of Directors",
+          "start_date": "2019-05-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michelle Zatlyn",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Michelle Zatlyn is one of our co-founders and has served as our President since November 2020, our Chief Operating Officer since April 2012, and as a member of our board of directors since September 2009. Ms. Zatlyn also served as our Secretary from September 2009 to February 2021. Prior to co-founding Cloudflare, Ms. Zatlyn held positions at Google and Toshiba and launched two successful startups. Ms. Zatlyn currently serves on the board of directors of Atlassian Corporation, a software company. Ms. Zatlyn holds a B.S. degree in Chemistry and Business from McGill University and an M.B.A. from Harvard Business School.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President",
+          "start_date": "2020-11-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2012-04-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Thomas Seifert",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Thomas Seifert has served as our Chief Financial Officer since June 2017. From December 2012 to April 2017, Mr. Seifert served as Executive Vice President and Chief Financial Officer of Symantec Corporation, a cybersecurity software and services company. From 2009 to 2012, Mr. Seifert served as Senior Vice President and Chief Financial Officer of Advanced Micro Devices, Inc., a semiconductor company. From 2008 to 2009, Mr. Seifert served as Chief Operating Officer and Chief Financial Officer of Qimonda AG, a German memory chip manufacturer. Mr. Seifert currently serves on the board of directors of First Solar, Inc., a solar energy solutions company. Mr. Seifert holds a B.A. and an M.B.A. from Friedrich-Alexander University and an M.A. in Economics from Wayne State University.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2017-06-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Matthew Prince",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Matthew Prince is one of our co-founders and has served as our Chief Executive Officer and as a member of our board of directors since July 2009 and as Chair of our board of directors since May 2019.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chair of the Board",
+          "start_date": "2009-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Michelle Zatlyn",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Michelle Zatlyn is one of our co-founders and has served as our President since November 2020, our Chief Operating Officer since April 2012, and as a member of our board of directors since September 2009.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2009-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Mark Anderson",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mark Anderson has served as a member of our board of directors since August 2020. Mr. Anderson has served as President, Revenue of Palo Alto Networks, Inc. since January 2024. Previously, he served as Chief Executive Officer of Alteryx, Inc. from October 2020 to March 2024. He also served as President of Palo Alto Networks from 2016 to 2018.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2020-08-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Carl Ledbetter",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Carl Ledbetter has served as a member of our board of directors since September 2009. Mr. Ledbetter has been a Managing Director of Pelion Venture Partners, a venture capital firm, since 2003.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2009-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Scott Sandell",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Scott Sandell has served as a member of our board of directors since December 2012. Mr. Sandell is the Chairman, Chief Executive Officer and Chief Investment Officer of NEA, a venture capital firm.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Lead Independent Director",
+          "start_date": "2012-12-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Katja Lake",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Katja Lake (formerly Katja Cipane) has served as a member of our board of directors since September 2016. Ms. Lake is a private investor and was previously a partner at Union Square Ventures.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2016-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Thomas J. Nickolas",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Thomas J. Nickolas has served as a member of our board of directors since February 2023. Mr. Nickolas has served as the Chief Financial Officer of Nutanix, Inc. since September 2020.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733324000025/net-20240422.htm",
+      "source_description": "DEF 14A Proxy Statement",
+      "as_of_date": "2024-04-22"
+    }
+  ]
+}

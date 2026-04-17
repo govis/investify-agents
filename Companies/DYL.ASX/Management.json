@@ -1,0 +1,156 @@
+{
+  "executives": [
+    {
+      "name": "John Borshoff",
+      "age": 79,
+      "age_year": 2024,
+      "background": "Mr. Borshoff is an experienced mining executive and geologist with more than 50 years' experience in the uranium industry. He was the founder and CEO of Paladin Energy Ltd. He is a Fellow of the Australian Institute of Company Directors and the AusIMM.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Managing Director and Chief Executive Officer",
+          "start_date": "2016-10-24",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Gillian Swaby",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Ms. Swaby has over 35 years' experience in the tertiary education and mining sectors. She has been involved in the uranium industry since 1984. She is a Fellow of the Governance Institute of Australia and the Australian Institute of Company Directors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Director",
+          "start_date": "2016-10-24",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Mark Pitts",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Pitts is a Fellow of the Institute of Chartered Accountants with more than 30 years' experience in statutory reporting and corporate compliance. He is a Partner in the corporate advisory firm Endeavour Corporate.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer and Company Secretary",
+          "start_date": "2010-02-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Chris Salisbury",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Salisbury is a highly experienced mining executive with over 30 years' experience across senior operational and strategic leadership roles. He was previously Chief Executive of Rio Tinto Iron Ore.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Chairman",
+          "start_date": "2021-05-12",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Remuneration Committee",
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "John Borshoff",
+      "age": 79,
+      "age_year": 2024,
+      "background": "Founder and CEO of Paladin Energy Ltd. Geologist with over 50 years of experience.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Managing Director",
+          "start_date": "2016-10-24",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Gillian Swaby",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Extensive experience in corporate administration and uranium industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Director",
+          "start_date": "2016-10-24",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Greg Meyerowitz",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Meyerowitz was a senior audit partner at EY for 26 years. He has extensive experience in the resources sector and is a member of the Australian Institute of Company Directors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2022-12-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)",
+        "Remuneration Committee"
+      ]
+    },
+    {
+      "name": "Victoria Jackson",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Ms. Jackson is an experienced lawyer and executive with over 25 years' experience in the mining and energy sectors. She has held senior roles at South32 and BHP.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2023-10-20",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Remuneration Committee (Chair)",
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Tim McLernon",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. McLernon has over 30 years' experience in the mining industry, specifically in project development and operations. He was previously with Rio Tinto and Paladin Energy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://deepyellow.com.au/wp-content/uploads/2024/09/2024-Annual-Report.pdf",
+      "source_description": "Deep Yellow Limited 2024 Annual Report",
+      "as_of_date": "2024-06-30"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "NVIDIA Corporation",
+  "ticker": "NVDA",
+  "exchange": "NASDAQ",
+  "website": "https://www.nvidia.com",
+  "logo_url": "https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/01-nvidia-logo-vert-500x200-2c50-p@2x.png",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "United States",
+  "description": "NVIDIA Corporation is a global leader in accelerated computing and artificial intelligence. Founded in 1993, the company pioneered the Graphics Processing Unit (GPU), which initially revolutionized PC gaming and has since become the engine of modern AI. NVIDIA's platforms are used across diverse industries, including data centers, automotive, and professional visualization, providing the high-performance computing power necessary for deep learning, large language models, and autonomous systems. The company is headquartered in Santa Clara, California, and remains at the forefront of the generative AI era.",
+  "metals_and_minerals": null,
+  "investment_theses": [
+    {
+      "thesis_name": "AI",
+      "company_type": "Semiconductor / GPU Manufacturer"
+    },
+    {
+      "thesis_name": "Defense",
+      "company_type": "AI Computing / Edge Processing for Defense Systems"
+    },
+    {
+      "thesis_name": "Electrification",
+      "company_type": "AI Computing for Autonomous Driving & Smart Grid Optimization"
+    }
+  ]
+}

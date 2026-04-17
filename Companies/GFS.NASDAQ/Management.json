@@ -1,0 +1,168 @@
+{
+  "executives": [
+    {
+      "name": "Dr. Thomas Caulfield",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Dr. Caulfield is the President and Chief Executive Officer of GlobalFoundries. He joined the company in 2014 and was appointed CEO in 2018. Prior to GF, he served as President and COO of Soraa and held executive positions at Ausra and Novellus Systems. He spent 17 years at IBM in various leadership roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2018-03-01",
+          "end_date": null
+        },
+        {
+          "title": "Senior Vice President and General Manager",
+          "start_date": "2014-05-01",
+          "end_date": "2018-03-01"
+        }
+      ]
+    },
+    {
+      "name": "John Hollister",
+      "age": 53,
+      "age_year": 2024,
+      "background": "John Hollister is the Chief Financial Officer of GlobalFoundries. He joined GF in 2024 from Silicon Labs, where he served as CFO for over 10 years. He has extensive experience in financial management, strategic planning, and investor relations within the semiconductor industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2024-02-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Niels Anderskouv",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Niels Anderskouv is the Chief Business Officer. He joined GF in 2023. Previously, he spent several years at Texas Instruments in various senior leadership roles, including Senior Vice President of Analog Power Products.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Business Officer",
+          "start_date": "2023-09-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Pradip Singh",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Pradip Singh is the Chief Legal Officer and Corporate Secretary. He joined GF in 2022. He previously served as General Counsel at several technology firms and has a background in corporate law and intellectual property.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Legal Officer and Corporate Secretary",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Ahmed Yahia Al Idrissi",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Chairman of the Board. He is the CEO of Direct Investments at Mubadala Investment Company. He has been a director since 2009.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2009-03-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Strategy Committee"
+      ]
+    },
+    {
+      "name": "Dr. Thomas Caulfield",
+      "age": 64,
+      "age_year": 2024,
+      "background": "President and CEO of GlobalFoundries. Member of the board since 2018.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2018-03-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Bobby Yerramilli-Rao",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Chief Strategy Officer and Corporate Vice President at Microsoft. He joined the board in 2021.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Glenda Dorchak",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former executive at IBM, Intel, and Spansion. She has significant experience in the semiconductor and technology sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Jack Lazar",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Former CFO of GoPro and Atheros Communications. He serves on several public company boards.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1703901/000170390124000011/gfs-20231231.htm",
+      "source_description": "GlobalFoundries Inc. Annual Report on Form 20-F for the fiscal year ended December 31, 2023",
+      "as_of_date": "2024-02-29"
+    },
+    {
+      "source_url": "https://gf.com/about-us/leadership/",
+      "source_description": "GlobalFoundries Official Website - Leadership Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://gf.com/about-us/board-of-directors/",
+      "source_description": "GlobalFoundries Official Website - Board of Directors Page",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

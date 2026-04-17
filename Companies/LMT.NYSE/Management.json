@@ -1,0 +1,246 @@
+{
+  "executives": [
+    {
+      "name": "James D. Taiclet",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Taiclet has served as Chairman, President and Chief Executive Officer of Lockheed Martin since June 2020. He previously served as Chairman, President and Chief Executive Officer of American Tower Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman, President and Chief Executive Officer",
+          "start_date": "2020-06-15",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jesus Malave",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Malave has served as Chief Financial Officer since February 2022. He previously served as Senior Vice President and Chief Financial Officer of L3Harris Technologies, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2022-02-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Frank A. St. John",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Mr. St. John has served as Chief Operating Officer since June 2020. He has held various leadership roles at Lockheed Martin for over 30 years.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2020-06-15",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Evan Scott",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. Scott has served as Senior Vice President, General Counsel and Corporate Secretary since 2023.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, General Counsel and Corporate Secretary",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "James D. Taiclet",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Chairman, President and CEO of Lockheed Martin.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2020-06-15",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Daniel F. Akerson",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of General Motors Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2014-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "David B. Burritt",
+      "age": 68,
+      "age_year": 2024,
+      "background": "President and CEO of United States Steel Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2008-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Strategic Affairs Committee"
+      ]
+    },
+    {
+      "name": "Bruce A. Carlson",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Retired General, U.S. Air Force and former Director of the National Reconnaissance Office.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Classified Business and Security Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Joseph F. Dunford, Jr.",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Retired General, U.S. Marine Corps and former Chairman of the Joint Chiefs of Staff.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-02-10",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Classified Business and Security Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Ilene S. Gordon",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Retired Chairman, President and CEO of Ingredion Incorporated.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Management Development and Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Vicki A. Hollub",
+      "age": 64,
+      "age_year": 2024,
+      "background": "President and CEO of Occidental Petroleum Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Strategic Affairs Committee"
+      ]
+    },
+    {
+      "name": "Jeh C. Johnson",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Partner at Paul, Weiss, Rifkind, Wharton & Garrison LLP and former U.S. Secretary of Homeland Security.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Classified Business and Security Committee",
+        "Ethics and Sustainability Committee"
+      ]
+    },
+    {
+      "name": "John M. Richardson",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Retired Admiral, U.S. Navy and former Chief of Naval Operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-02-10",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Classified Business and Security Committee",
+        "Strategic Affairs Committee"
+      ]
+    },
+    {
+      "name": "Patricia E. Yarrington",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Retired Vice President and CFO of Chevron Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Management Development and Compensation Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/936468/000093646824000025/lmt-20240315.htm",
+      "source_description": "DEF 14A Proxy Statement",
+      "as_of_date": "2024-03-15"
+    }
+  ]
+}

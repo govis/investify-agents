@@ -1,0 +1,157 @@
+{
+  "executives": [
+    {
+      "name": "Robert J. Scaringe",
+      "age": 41,
+      "age_year": 2024,
+      "background": "Dr. Scaringe is our founder and has served as our Chief Executive Officer and a member of our Board since our founding in 2009. Dr. Scaringe holds a B.S. in Mechanical Engineering from Rensselaer Polytechnic Institute and an M.S. and Ph.D. in Mechanical Engineering from the Massachusetts Institute of Technology.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2009-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Claire McDonough",
+      "age": 42,
+      "age_year": 2024,
+      "background": "Ms. McDonough has served as our Chief Financial Officer since January 2021. Prior to joining Rivian, Ms. McDonough was a Managing Director at J.P. Morgan, where she held various leadership roles in the Investment Bank from 2014 to 2021. She holds a B.A. in Public Policy and Economics from Duke University and an M.B.A. from the University of Chicago Booth School of Business.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Kjell Gruner",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Dr. Gruner has served as our Chief Commercial Officer and President, Business Growth since September 2023. Prior to joining Rivian, Dr. Gruner served as President and Chief Executive Officer of Porsche Cars North America, Inc. from 2020 to 2023. He holds a Ph.D. in Marketing from the University of Stuttgart.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Commercial Officer and President, Business Growth",
+          "start_date": "2023-09-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Robert J. Scaringe",
+      "age": 41,
+      "age_year": 2024,
+      "background": "Founder and CEO of Rivian.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board",
+          "start_date": "2009-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Karen Boone",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Ms. Boone has served as a member of our Board since 2020. She previously served as President and Chief Financial Officer of Restoration Hardware (RH).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Lead Independent Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Governance Committee"
+      ]
+    },
+    {
+      "name": "Sanford Schwartz",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Mr. Schwartz has served as a member of our Board since 2020. He is a Senior Advisor to Cox Enterprises and former President of Cox Automotive.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "Rose Marcario",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Ms. Marcario has served as a member of our Board since 2021. She was formerly the President and CEO of Patagonia, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nominating and Governance Committee"
+      ]
+    },
+    {
+      "name": "Jay Flatley",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Flatley has served as a member of our Board since 2021. He is the former Chairman and CEO of Illumina, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "John Krafcik",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Krafcik has served as a member of our Board since 2023. He is the former CEO of Waymo LLC.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1874178/000114036124019318/ny20023456x1_def14a.htm",
+      "source_description": "DEF 14A Proxy Statement",
+      "as_of_date": "2024-04-11"
+    }
+  ]
+}

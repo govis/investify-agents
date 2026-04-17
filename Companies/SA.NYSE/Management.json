@@ -1,0 +1,240 @@
+{
+  "executives": [
+    {
+      "name": "Rudi P. Fronk",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Fronk is a co-founder of Seabridge and has over 35 years of experience in the gold business, primarily as a senior executive in corporate development, bankable feasibility studies, and finance. Prior to Seabridge, he held senior positions with Greenstone Resources, Kirkwood Resources, and Amax Gold.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "1999-06-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ryan Fowler",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Fowler joined Seabridge in 2022 and was appointed Senior Vice President, Operations in 2023. He has over 20 years of experience in the mining industry, including senior roles at Newcrest Mining and Rio Tinto.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Operations",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Chris Reynolds",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Reynolds has over 30 years of experience in the mining industry. He joined Seabridge in 2007 and has served as Vice President, Finance and Chief Financial Officer since that time.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Finance and Chief Financial Officer",
+          "start_date": "2007-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "William E. Threlkeld",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Threlkeld has over 40 years of experience in mineral exploration. He has been with Seabridge since 2000 and is responsible for the design and execution of the company's exploration programs.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Exploration",
+          "start_date": "2000-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Bruce Scott",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Scott is a lawyer with over 30 years of experience in corporate and securities law. He has served as General Counsel for Seabridge since 2011.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, General Counsel and Corporate Secretary",
+          "start_date": "2011-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Rudi P. Fronk",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Co-founder of Seabridge Gold. Over 35 years of experience in the gold business.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "1999-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Tracey Meintjes",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Meintjes has over 30 years of experience in mining project development. He is currently a consultant and was previously with Teck Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Technical Committee"
+      ]
+    },
+    {
+      "name": "Jay Layman",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Layman was formerly the President and COO of Seabridge Gold. He has over 40 years of experience in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2011-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Technical Committee"
+      ]
+    },
+    {
+      "name": "Eliseo Gonzalez-Urien",
+      "age": 78,
+      "age_year": 2024,
+      "background": "Mr. Gonzalez-Urien is a geologist with over 50 years of experience. He was formerly the President of Placer Dome Exploration.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2006-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Technical Committee",
+        "Sustainability Committee"
+      ]
+    },
+    {
+      "name": "Melanie Miller",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Ms. Miller has over 25 years of experience in the mining and financial sectors. She is currently an independent consultant.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance Committee"
+      ]
+    },
+    {
+      "name": "Clem Pelletier",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Mr. Pelletier is a process metallurgist with over 50 years of experience in the mining industry, specializing in environmental and permitting issues.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2011-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Sustainability Committee",
+        "Technical Committee"
+      ]
+    },
+    {
+      "name": "John Sabine",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Mr. Sabine is a lawyer with over 40 years of experience in mining law and corporate finance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2014-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance Committee",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "Gary Sugar",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Sugar has over 40 years of experience in investment banking, specializing in the mining sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "Carol Willson",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Ms. Willson is a Chartered Professional Accountant with over 35 years of experience in audit and risk management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1236246/000106299324008271/exhibit99-1.htm",
+      "source_description": "Management Information Circular dated April 10, 2024",
+      "as_of_date": "2024-04-10"
+    }
+  ]
+}

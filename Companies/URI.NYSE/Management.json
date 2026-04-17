@@ -1,0 +1,170 @@
+{
+  "executives": [
+    {
+      "name": "Matthew J. Flannery",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Matthew J. Flannery has served as Chief Executive Officer of United Rentals since May 2019 and as President since March 2018. He previously served as Chief Operating Officer from 2012 to 2019 and has been with the company since 1998 in various leadership roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2019-05-01",
+          "end_date": null
+        },
+        {
+          "title": "President",
+          "start_date": "2018-03-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "William B. Plummer",
+      "age": 65,
+      "age_year": 2024,
+      "background": "William B. Plummer has served as Executive Vice President and Chief Financial Officer since December 2008. He previously held senior finance roles at Dow Jones & Company and Alcoa.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2008-12-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Dale A. Asplund",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Dale A. Asplund has served as Executive Vice President and Chief Operating Officer since May 2019. He joined United Rentals in 1998 and has held various senior positions in operations and supply chain.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Operating Officer",
+          "start_date": "2019-05-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Craig A. Pintoff",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Craig A. Pintoff has served as Executive Vice President, Chief Administrative and Legal Officer since March 2017. He joined the company in 2003.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, Chief Administrative and Legal Officer",
+          "start_date": "2017-03-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Bobby J. Griffin",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Bobby J. Griffin has served as Chairman of the Board since May 2022. He was previously President of International Operations for Ryder System, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board",
+          "start_date": "2022-05-01",
+          "end_date": null
+        },
+        {
+          "role": "Director",
+          "start_date": "2009-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Matthew J. Flannery",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Matthew J. Flannery is the CEO and President of United Rentals.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2019-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Jose B. Alvarez",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Jose B. Alvarez is a member of the faculty at Harvard Business School and former President and CEO of Stop & Shop/Giant-Landover.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2009-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Strategy Committee"
+      ]
+    },
+    {
+      "name": "Marc A. Bruno",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Marc A. Bruno is Chief Operating Officer, United States Food and Facilities, for Aramark.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Gracia C. Martore",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Gracia C. Martore is the former President and CEO of TEGNA Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2017-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)",
+        "Nominating and Corporate Governance Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1067701/000106770124000014/uri-20231231.htm",
+      "source_description": "United Rentals, Inc. Form 10-K for the fiscal year ended December 31, 2023",
+      "as_of_date": "2024-01-24"
+    },
+    {
+      "source_url": "https://www.unitedrentals.com/our-company/leadership-team",
+      "source_description": "United Rentals Official Website - Leadership Team",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

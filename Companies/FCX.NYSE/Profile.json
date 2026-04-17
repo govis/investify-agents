@@ -1,0 +1,25 @@
+{
+  "name": "Freeport-McMoRan Inc.",
+  "ticker": "FCX",
+  "exchange": "NYSE",
+  "website": "https://www.fcx.com",
+  "logo_url": "https://www.fcx.com/sites/fcx/files/images/logo.png",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "United States",
+  "description": "Freeport-McMoRan Inc. is a leading international mining company headquartered in Phoenix, Arizona. The company operates large, long-lived, geographically diverse assets with significant proven and probable reserves of copper, gold, and molybdenum. Its portfolio includes the Grasberg minerals district in Indonesia, one of the world's largest copper and gold deposits, and significant mining operations in North America and South America, including the large-scale Morenci minerals district in Arizona and the Cerro Verde operation in Peru. As a major producer of copper, Freeport-McMoRan is a key player in the global transition toward electrification and sustainable energy.",
+  "metals_and_minerals": [
+    "Copper",
+    "Gold",
+    "Molybdenum"
+  ],
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Copper Mining / Electrification Infrastructure"
+    },
+    {
+      "thesis_name": "Reshoring",
+      "company_type": "Critical Minerals / Copper Production for US Infrastructure"
+    }
+  ]
+}

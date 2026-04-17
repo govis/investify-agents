@@ -1,0 +1,232 @@
+{
+  "executives": [
+    {
+      "name": "Sanjay Mehrotra",
+      "age": 65,
+      "age_year": 2023,
+      "background": "Sanjay Mehrotra is President and Chief Executive Officer at Micron Technology. He joined Micron in 2017 after a long career at SanDisk Corporation, which he co-founded and where he served as President and CEO from 2011 to 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2017-05-08",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Mark Murphy",
+      "age": 56,
+      "age_year": 2023,
+      "background": "Mark Murphy is Executive Vice President and Chief Financial Officer. Before joining Micron in 2022, he served as CFO of Qorvo, Inc. and held senior financial positions at Delphi Automotive and Praxair.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2022-04-18",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Manish Bhatia",
+      "age": 52,
+      "age_year": 2023,
+      "background": "Manish Bhatia is Executive Vice President, Global Operations. He joined Micron in 2017 from Western Digital Corporation, where he held various executive roles in operations and supply chain.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, Global Operations",
+          "start_date": "2017-10-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Scott DeBoer",
+      "age": 53,
+      "age_year": 2023,
+      "background": "Scott DeBoer is Executive Vice President, Technology and Products. He has been with Micron since 1995 and has led the company's technology development efforts since 2019.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, Technology and Products",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Sumit Sadana",
+      "age": 55,
+      "age_year": 2023,
+      "background": "Sumit Sadana is Executive Vice President and Chief Business Officer. He joined Micron in 2017 from SanDisk, where he was Executive Vice President and Chief Strategy Officer.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Business Officer",
+          "start_date": "2017-05-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "April Arnzen",
+      "age": 51,
+      "age_year": 2023,
+      "background": "April Arnzen is Executive Vice President and Chief People Officer. She has been with Micron since 1996, holding various leadership roles in Human Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief People Officer",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Robert E. Switz",
+      "age": 77,
+      "age_year": 2023,
+      "background": "Mr. Switz has served as the Chairman of the Board since 2012. He was previously the President and CEO of ADC Telecommunications, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board",
+          "start_date": "2006-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Sustainability Committee"
+      ]
+    },
+    {
+      "name": "Sanjay Mehrotra",
+      "age": 65,
+      "age_year": 2023,
+      "background": "Mr. Mehrotra is the President and CEO of Micron. He previously co-founded SanDisk Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2017-05-08",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Richard M. Beyer",
+      "age": 75,
+      "age_year": 2023,
+      "background": "Mr. Beyer was the Chairman and CEO of Freescale Semiconductor, Inc. and has held executive roles at Intersil Corporation and Elantec Semiconductor.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Governance and Sustainability Committee"
+      ]
+    },
+    {
+      "name": "Lynn A. Dugle",
+      "age": 64,
+      "age_year": 2023,
+      "background": "Ms. Dugle was the CEO and President of Engility Holdings, Inc. and held senior leadership positions at Raytheon Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Steven J. Gomo",
+      "age": 71,
+      "age_year": 2023,
+      "background": "Mr. Gomo was the Executive Vice President and CFO of NetApp, Inc. and held finance roles at Gemplus International and Silicon Graphics.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Linnie M. Haynesworth",
+      "age": 62,
+      "age_year": 2023,
+      "background": "Ms. Haynesworth was a Sector Vice President and General Manager at Northrop Grumman Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Mary Pat McCarthy",
+      "age": 68,
+      "age_year": 2023,
+      "background": "Ms. McCarthy was a Vice Chair at KPMG LLP and has extensive experience in audit and risk management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Robert L. Bailey",
+      "age": 66,
+      "age_year": 2023,
+      "background": "Mr. Bailey was the Chairman and CEO of PMC-Sierra, Inc. and served on the board of Entropic Communications.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2007-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/723125/000072312523000154/mu-20231207.htm",
+      "source_description": "Micron Technology, Inc. DEF 14A Proxy Statement",
+      "as_of_date": "2023-12-07"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Intel Corporation",
+  "ticker": "INTC",
+  "exchange": "NASDAQ",
+  "website": "https://www.intel.com",
+  "logo_url": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/intel-logo-blue-background.png",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "United States",
+  "description": "Intel Corporation is a global leader in the design and manufacturing of essential technologies that power the cloud and an increasingly connected world. As a pioneer in the semiconductor industry, Intel develops world-changing technologies that enable global progress and enrich lives. The company is a key provider of processors for computer system manufacturers and is expanding its capabilities in artificial intelligence, 5G network infrastructure, and edge computing. Intel is also significantly investing in domestic manufacturing through its IDM 2.0 strategy to strengthen the global semiconductor supply chain.",
+  "metals_and_minerals": null,
+  "investment_theses": [
+    {
+      "thesis_name": "AI",
+      "company_type": "Semiconductor / Processor Manufacturer"
+    },
+    {
+      "thesis_name": "Reshoring",
+      "company_type": "Semiconductor Manufacturing / US Foundry Expansion"
+    }
+  ]
+}

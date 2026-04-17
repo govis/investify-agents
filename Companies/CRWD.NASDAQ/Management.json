@@ -1,0 +1,224 @@
+{
+  "executives": [
+    {
+      "name": "George Kurtz",
+      "age": 53,
+      "age_year": 2024,
+      "background": "George Kurtz is our co-founder and has served as our President and Chief Executive Officer and as a member of our board of directors since November 2011. From October 2009 to September 2011, Mr. Kurtz served as Worldwide Chief Technology Officer of McAfee, Inc., a computer security software company. Prior to that, Mr. Kurtz served in various other positions at McAfee, including Senior Vice President and General Manager, Risk Management from October 2005 to October 2009. Mr. Kurtz co-founded Foundstone, Inc., a worldwide security products and services company, and served as its Chief Executive Officer from October 1999 until its acquisition by McAfee in October 2004.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Chief Executive Officer and Director",
+          "start_date": "2011-11-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Burt W. Podbere",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Burt W. Podbere has served as our Chief Financial Officer since September 2015. From February 2011 to September 2015, Mr. Podbere served as Chief Financial Officer of OpenDNS, Inc., a cloud-delivered security company. From September 2010 to February 2011, Mr. Podbere served as Chief Financial Officer of Net Optics, Inc., a network visibility solutions company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2015-09-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael Sentonas",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Michael Sentonas has served as our President since March 2023. Previously, Mr. Sentonas served as our Chief Technology Officer from February 2020 to March 2023 and as our Vice President, Technology Strategy from May 2016 to February 2020. From 1996 to May 2016, Mr. Sentonas served in various roles at McAfee, Inc., including Chief Technology Officer, Asia Pacific and Vice President, Worldwide Sales Engineering.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President",
+          "start_date": "2023-03-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Technology Officer",
+          "start_date": "2020-02-01",
+          "end_date": "2023-03-01"
+        }
+      ]
+    },
+    {
+      "name": "Cathleen Anderson",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Cathleen Anderson has served as our Chief Accounting Officer since September 2021. From April 2017 to September 2021, Ms. Anderson served as Vice President, Corporate Controller of 2U, Inc., an education technology company. From August 2015 to April 2017, Ms. Anderson served as Vice President, Corporate Controller of Bloom Energy Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Accounting Officer",
+          "start_date": "2021-09-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Shawn Henry",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Shawn Henry has served as our Chief Security Officer since April 2012. From 1987 to March 2012, Mr. Henry served in various positions at the Federal Bureau of Investigation, including Executive Assistant Director of the Criminal, Cyber, Response and Services Branch.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Security Officer",
+          "start_date": "2012-04-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "George Kurtz",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Co-founder, President and CEO of CrowdStrike. Former CTO of McAfee.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2011-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Gerhard Watzinger",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Chairman of the Board. Former CEO of i-Logix and executive at McAfee.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board",
+          "start_date": "2012-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "Cary Davis",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Managing Director at Warburg Pincus. Former executive at Dell Computer.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2011-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Roxanne Austin",
+      "age": 63,
+      "age_year": 2024,
+      "background": "President and CEO of Austin Investment Advisors. Former President and COO of DIRECTV.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2018-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Sameer Gandhi",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Partner at Accel. Former Managing Director at Sequoia Capital.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2011-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "Denis O'Leary",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Private investor. Former executive at J.P. Morgan Chase & Co.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2012-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Godfrey Sullivan",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Splunk Inc. Former President and CEO of Hyperion Solutions Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2017-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Laura J. Schumacher",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Former Vice Chairman, External Affairs and Chief Legal Officer of AbbVie Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nominating and Corporate Governance Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552724000010/crwd-20240513.htm",
+      "source_description": "DEF 14A Proxy Statement",
+      "as_of_date": "2024-05-13"
+    }
+  ]
+}

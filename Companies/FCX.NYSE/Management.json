@@ -1,0 +1,245 @@
+{
+  "executives": [
+    {
+      "name": "Richard C. Adkerson",
+      "age": 77,
+      "age_year": 2024,
+      "background": "Mr. Adkerson has served as Chairman of the Board since 2021 and Chief Executive Officer since 2003. He has been a director of the company since 2006. He previously served as President from 2008 to 2021 and Chief Financial Officer from 2000 to 2003.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman of the Board",
+          "start_date": "2021-02-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2003-12-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Kathleen L. Quirk",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Ms. Quirk has served as President since 2021 and was appointed Chief Executive Officer effective June 2024. She previously served as Chief Financial Officer from 2003 to 2022 and has been with the company since 1989.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President",
+          "start_date": "2021-02-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2024-06-11",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Marelee J. Felton",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Ms. Felton has served as Executive Vice President and Chief Financial Officer since 2022. She previously served as Senior Vice President and Controller from 2013 to 2022.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2022-03-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Douglas N. Currault II",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Currault has served as Senior Vice President and General Counsel since 2021. He joined the company in 2011 and has held various legal roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and General Counsel",
+          "start_date": "2021-02-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Richard C. Adkerson",
+      "age": 77,
+      "age_year": 2024,
+      "background": "Chairman of the Board and CEO of Freeport-McMoRan Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2021-02-01",
+          "end_date": null
+        },
+        {
+          "role": "Director",
+          "start_date": "2006-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Dustan E. McCoy",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Brunswick Corporation. Lead Independent Director of FCX.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Lead Independent Director",
+          "start_date": "2021-02-01",
+          "end_date": null
+        },
+        {
+          "role": "Director",
+          "start_date": "2007-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Responsibility",
+        "Governance"
+      ]
+    },
+    {
+      "name": "David P. Abney",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Former Executive Chairman and CEO of United Parcel Service, Inc. (UPS).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit",
+        "Compensation"
+      ]
+    },
+    {
+      "name": "Lydia H. Kennard",
+      "age": 69,
+      "age_year": 2024,
+      "background": "President and CEO of KDG Construction Consulting. Former Executive Director of Los Angeles World Airports.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit",
+        "Corporate Responsibility"
+      ]
+    },
+    {
+      "name": "Ryan M. Lance",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Chairman and CEO of ConocoPhillips.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation",
+        "Governance"
+      ]
+    },
+    {
+      "name": "Sara Grootwassink Lewis",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Founder and CEO of Lewis Advisors. Former CFO of Washington Real Estate Investment Trust.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit",
+        "Governance"
+      ]
+    },
+    {
+      "name": "Kathleen L. Quirk",
+      "age": 60,
+      "age_year": 2024,
+      "background": "President and incoming CEO of Freeport-McMoRan Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "John J. Stephens",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former Senior Executive Vice President and CFO of AT&T Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit",
+        "Compensation"
+      ]
+    },
+    {
+      "name": "Frances Fragos Townsend",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former Assistant to the President for Homeland Security and Counterterrorism. Former EVP at Activision Blizzard.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Responsibility",
+        "Governance"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/831259/000130817924000346/lfcx2024_def14a.htm",
+      "source_description": "DEF 14A Proxy Statement",
+      "as_of_date": "2024-03-28"
+    }
+  ]
+}

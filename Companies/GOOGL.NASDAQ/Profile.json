@@ -1,0 +1,21 @@
+{
+  "name": "Alphabet Inc.",
+  "ticker": "GOOGL",
+  "exchange": "NASDAQ",
+  "website": "https://abc.xyz",
+  "logo_url": "https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "United States",
+  "description": "Alphabet Inc. is a global technology holding company that operates through its subsidiaries, most notably Google. The company's portfolio spans a wide range of industries, including online advertising, search engine technology, cloud computing, software, hardware, and autonomous driving through Waymo. Alphabet is a leader in artificial intelligence research and development, providing critical infrastructure for the digital economy. Its Google Services segment includes widely used products such as YouTube, Android, and Chrome, while Google Cloud offers enterprise-grade computing and storage solutions to businesses worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [
+    {
+      "thesis_name": "AI",
+      "company_type": "Cloud Infrastructure / LLM Development / Search"
+    },
+    {
+      "thesis_name": "Defense",
+      "company_type": "Defense Cloud Infrastructure / AI Research"
+    }
+  ]
+}

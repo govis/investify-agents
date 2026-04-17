@@ -1,0 +1,185 @@
+{
+  "executives": [
+    {
+      "name": "Darren Stralow",
+      "age": null,
+      "age_year": null,
+      "background": "Mr Stralow is an experienced mining executive and qualified mining engineer with over 20 years’ industry experience. Prior to joining Bellevue, he held several senior roles at Northern Star Resources (ASX: NST), including Chief Development Officer and General Manager of Operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Managing Director and Chief Executive Officer",
+          "start_date": "2023-03-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2021-12-01",
+          "end_date": "2023-02-28"
+        }
+      ]
+    },
+    {
+      "name": "Bill Guy",
+      "age": null,
+      "age_year": null,
+      "background": "Mr Guy is a geologist with over 30 years’ experience in exploration and resource development. He has held senior executive positions with several ASX-listed companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Director",
+          "start_date": "2023-03-01",
+          "end_date": null
+        },
+        {
+          "title": "Managing Director",
+          "start_date": "2020-02-01",
+          "end_date": "2023-02-28"
+        }
+      ]
+    },
+    {
+      "name": "Guy Moore",
+      "age": null,
+      "age_year": null,
+      "background": "Mr Moore is a Chartered Accountant with over 20 years’ experience in the mining industry. He has held senior finance roles at several ASX-listed mining companies, including Northern Star Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2022-04-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Amber Stanton",
+      "age": null,
+      "age_year": null,
+      "background": "Ms Stanton is a corporate lawyer with over 20 years’ experience. She has held senior legal and company secretarial roles at several ASX-listed companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "General Counsel and Company Secretary",
+          "start_date": "2021-09-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Kevin Tomlinson",
+      "age": null,
+      "age_year": null,
+      "background": "Mr Tomlinson is a highly experienced mining executive and investment banker with over 35 years’ experience in the global resources sector. He has held directorships with several ASX, TSX, and LSE-listed companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Independent Chairman",
+          "start_date": "2017-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee",
+        "Nomination and Remuneration Committee"
+      ]
+    },
+    {
+      "name": "Darren Stralow",
+      "age": null,
+      "age_year": null,
+      "background": "Mr Stralow is an experienced mining executive and qualified mining engineer with over 20 years’ industry experience.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Managing Director",
+          "start_date": "2023-03-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Bill Guy",
+      "age": null,
+      "age_year": null,
+      "background": "Mr Guy is a geologist with over 30 years’ experience in exploration and resource development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Director",
+          "start_date": "2023-03-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Fiona Robertson",
+      "age": null,
+      "age_year": null,
+      "background": "Ms Robertson has over 40 years’ experience in corporate finance, investment banking, and the resource sector. She has held senior roles at Chase Manhattan Bank and Delta Gold.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Independent Director",
+          "start_date": "2020-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee (Chair)",
+        "Nomination and Remuneration Committee"
+      ]
+    },
+    {
+      "name": "Shannon Coates",
+      "age": null,
+      "age_year": null,
+      "background": "Ms Coates is a qualified lawyer with over 25 years’ experience in corporate law and compliance. she has provided company secretarial and corporate advisory services to numerous ASX-listed companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Independent Director",
+          "start_date": "2020-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee",
+        "Nomination and Remuneration Committee (Chair)"
+      ]
+    },
+    {
+      "name": "Stephen Parsons",
+      "age": null,
+      "age_year": null,
+      "background": "Mr Parsons is an experienced geologist and mining executive. He was previously the Managing Director of Gryphon Minerals.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2023-03-01",
+          "end_date": null
+        },
+        {
+          "role": "Managing Director",
+          "start_date": "2017-03-01",
+          "end_date": "2023-02-28"
+        }
+      ],
+      "committees": [
+        "Health, Safety and Sustainability Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.bellevuegold.com.au/investor-centre/reports-and-presentations/",
+      "source_description": "Bellevue Gold Limited 2023 Annual Report and Corporate Governance Statement",
+      "as_of_date": "2023-09-28"
+    }
+  ]
+}

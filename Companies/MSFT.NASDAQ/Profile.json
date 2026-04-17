@@ -1,0 +1,21 @@
+{
+  "name": "Microsoft Corporation",
+  "ticker": "MSFT",
+  "exchange": "NASDAQ",
+  "website": "https://www.microsoft.com",
+  "logo_url": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/image/c9636474-0ad4-4173-9599-739c8451f5c5?ver=3824",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "United States",
+  "description": "Microsoft Corporation is a global technology leader that develops, licenses, and supports a wide range of software products, services, and devices. The company is best known for its Windows operating systems, Microsoft 365 suite of productivity applications, and the Azure cloud computing platform. Microsoft also has a significant presence in the gaming industry through Xbox and in the professional networking space via LinkedIn. In recent years, the company has pivoted heavily toward artificial intelligence, integrating advanced AI capabilities across its entire tech stack to empower individuals and organizations worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [
+    {
+      "thesis_name": "AI",
+      "company_type": "Cloud Infrastructure / Software / LLM Integration"
+    },
+    {
+      "thesis_name": "Defense",
+      "company_type": "Defense Cloud Infrastructure / IVAS Program"
+    }
+  ]
+}

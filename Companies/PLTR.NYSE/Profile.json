@@ -1,0 +1,21 @@
+{
+  "name": "Palantir Technologies Inc.",
+  "ticker": "PLTR",
+  "exchange": "NYSE",
+  "website": "https://www.palantir.com",
+  "logo_url": "https://www.palantir.com/assets/6676732e-8d44-49a7-9d92-78d00242621c/palantir-logo.png",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "United States",
+  "description": "Palantir Technologies Inc. is a software company that builds platforms for integrating, managing, and securing data. The company provides three main platforms: Palantir Gotham, Palantir Foundry, and Palantir Apollo. Gotham is primarily used by government agencies for counter-terrorism and intelligence, while Foundry is designed for commercial enterprises to create a central operating system for their data. Apollo is a continuous delivery system that powers their software across environments. Palantir's technology enables organizations to analyze complex datasets to make better decisions and improve operational efficiency.",
+  "metals_and_minerals": null,
+  "investment_theses": [
+    {
+      "thesis_name": "AI",
+      "company_type": "AI Software / Data Analytics"
+    },
+    {
+      "thesis_name": "Defense",
+      "company_type": "Defense Software / AI-driven Data Analytics"
+    }
+  ]
+}

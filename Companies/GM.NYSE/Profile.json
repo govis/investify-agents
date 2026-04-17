@@ -1,0 +1,21 @@
+{
+  "name": "General Motors Company",
+  "ticker": "GM",
+  "exchange": "NYSE",
+  "website": "https://www.gm.com",
+  "logo_url": "https://www.gm.com/content/dam/company/brand/gm-logo.png",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "United States",
+  "description": "General Motors Company is a global automotive leader headquartered in Detroit, Michigan, dedicated to advancing an all-electric future that is inclusive and accessible to all. The company designs, builds, and sells a diverse portfolio of cars, trucks, and crossovers under the Chevrolet, Buick, GMC, and Cadillac brands, while also providing integrated software and services. Through its Ultium battery platform and Cruise autonomous vehicle subsidiary, GM is transforming personal mobility and logistics by focusing on safety, sustainability, and innovation across its global operations.",
+  "metals_and_minerals": null,
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Legacy Automaker / Ultium Battery Platform"
+    },
+    {
+      "thesis_name": "Reshoring",
+      "company_type": "Automotive / Battery Supply Chain Localization"
+    }
+  ]
+}

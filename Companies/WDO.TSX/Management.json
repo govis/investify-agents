@@ -1,0 +1,211 @@
+{
+  "executives": [
+    {
+      "name": "Anthea Bath",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Ms. Bath has over 20 years of experience in the mining industry. Prior to joining Wesdome, she was Chief Operating Officer at Ero Copper Corp. and held various senior positions at Anglo American Platinum.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2023-07-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jonathan Beia",
+      "age": 41,
+      "age_year": 2024,
+      "background": "Mr. Beia is a Chartered Professional Accountant with over 15 years of financial experience in the mining sector. He previously served as Vice President, Finance at Wesdome.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Frederic Langevin",
+      "age": 43,
+      "age_year": 2024,
+      "background": "Mr. Langevin is a mining engineer with over 15 years of experience in underground mining operations. He previously held roles at Goldcorp and Glencore.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2023-09-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael Michaud",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Michaud has over 30 years of experience in gold exploration and mining. He has been with Wesdome since 2017.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Exploration",
+          "start_date": "2017-05-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Heather Laxton",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Ms. Laxton has over 20 years of experience in corporate governance and legal affairs within the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Governance Officer and Corporate Secretary",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Warwick Morley-Jepson",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Morley-Jepson has over 40 years of experience in the mining industry, including senior roles at Kinross Gold and Gold Fields Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chair of the Board",
+          "start_date": "2019-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Technical Committee",
+        "Governance and Nominating Committee"
+      ]
+    },
+    {
+      "name": "Anthea Bath",
+      "age": 51,
+      "age_year": 2024,
+      "background": "President and CEO of Wesdome Gold Mines Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Charles Main",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Main is a Chartered Professional Accountant with over 30 years of experience in the mining sector, including as CFO of Yamana Gold.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2017-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "Bill Washington",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Mr. Washington has over 30 years of experience in investment banking and the mining sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee (Chair)",
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Louise Grondin",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Ms. Grondin has over 30 years of experience in the mining industry, specializing in environment and sustainability, notably at Agnico Eagle.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Sustainability Committee (Chair)",
+        "Technical Committee"
+      ]
+    },
+    {
+      "name": "Edie Hofmeister",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Ms. Hofmeister is an attorney with over 20 years of experience in legal and ESG matters in the mining sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Nominating Committee (Chair)",
+        "Sustainability Committee"
+      ]
+    },
+    {
+      "name": "Brian Skanderbeg",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Mr. Skanderbeg is a geologist with over 20 years of experience and is currently President and CEO of GFG Resources Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Technical Committee (Chair)",
+        "Audit Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.wesdome.com/investors/financial-information/sedar-filings",
+      "source_description": "Management Information Circular dated April 12, 2024",
+      "as_of_date": "2024-04-12"
+    },
+    {
+      "source_url": "https://www.wesdome.com/about-us/management-and-board",
+      "source_description": "Wesdome Corporate Website - Management and Board Profiles",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

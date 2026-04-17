@@ -1,0 +1,156 @@
+{
+  "executives": [
+    {
+      "name": "William M. Sheriff",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Sheriff is the Executive Chairman of the Company. He has over 30 years of experience in the minerals industry and was a co-founder of Energy Metals Corp. and served as its Chairman and CEO.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Chairman",
+          "start_date": "2017-10-30",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Paul Goranson",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Goranson is the Chief Executive Officer and a Director of the Company. He has over 30 years of experience in the uranium industry, including roles at Energy Fuels Inc. and Cameco Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2020-10-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Carrie Mierkey",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Ms. Mierkey is the Chief Financial Officer of the Company. She is a Certified Public Accountant with over 15 years of experience in finance and accounting, primarily in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2021-07-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Peter W. Luthiger",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Luthiger is the Chief Operating Officer of the Company. He has over 35 years of experience in the uranium industry, specializing in in-situ recovery (ISR) operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2022-03-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "William M. Sheriff",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Executive Chairman of the Company with extensive experience in mineral exploration and corporate development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Chairman",
+          "start_date": "2017-10-30",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Paul Goranson",
+      "age": 62,
+      "age_year": 2024,
+      "background": "CEO and Director with significant operational experience in the uranium sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2020-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Richard M. Cherry",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Mr. Cherry is a veteran executive in the nuclear industry, having served as President and CEO of Cotter Corporation and as a Vice President of General Atomics.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2017-10-30",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Corporate Governance and Nominating Committee"
+      ]
+    },
+    {
+      "name": "Mark S. Pelizza",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Pelizza has over 40 years of experience in the uranium industry, specifically in ISR uranium production and licensing.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2017-10-30",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Corporate Governance and Nominating Committee"
+      ]
+    },
+    {
+      "name": "Susan L. J. Mackenzie",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Ms. Mackenzie is a professional engineer with over 30 years of experience in the energy sector, including senior roles at Petro-Canada.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-09-15",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Corporate Governance and Nominating Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1771133/000106299324010183/proxy2024.htm",
+      "source_description": "DEF 14A Proxy Statement",
+      "as_of_date": "2024-05-15"
+    }
+  ]
+}

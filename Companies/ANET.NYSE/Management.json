@@ -1,0 +1,217 @@
+{
+  "executives": [
+    {
+      "name": "Jayshree Ullal",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Jayshree Ullal has served as our President and Chief Executive Officer and a member of our board of directors since October 2008. Prior to joining Arista, Ms. Ullal was Senior Vice President at Cisco Systems, Inc., where she was responsible for the data center, switching and services business. Ms. Ullal holds a B.S. in Engineering (Electrical) from San Francisco State University and an M.S. in Engineering Management from Santa Clara University.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2008-10-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Anshul Sadana",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Anshul Sadana has served as our Chief Operating Officer since May 2019. Previously, he served as our Senior Vice President, Customer Engineering from January 2016 to May 2019. Mr. Sadana joined Arista in 2007 and has held various leadership roles in engineering and customer advocacy. Prior to Arista, he held engineering positions at Cisco Systems and Nortel Networks. Mr. Sadana holds a B.E. in Electronics and Communication from the University of Delhi and an M.S. in Computer Science from the University of Illinois at Chicago.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2019-05-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Chantelle Breithaupt",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Chantelle Breithaupt has served as our Chief Financial Officer since February 2024. Prior to joining Arista, Ms. Breithaupt served as Senior Vice President and Chief Financial Officer of Aspen Technology, Inc. from 2021 to 2023. Previously, she held various senior finance roles at Cisco Systems, Inc. and General Electric Company. Ms. Breithaupt holds a B.A. in Economics and Business from Wilfrid Laurier University.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2024-02-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Kenneth Duda",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Kenneth Duda is a co-founder of Arista and has served as our Chief Technology Officer and Senior Vice President, Software Engineering since September 2011. He previously served as our Vice President, Software Engineering from 2004 to 2011. Prior to Arista, Dr. Duda was a co-founder of Granite Systems and held engineering roles at Cisco Systems. Dr. Duda holds a B.S. and M.S. in Computer Science and Electrical Engineering from MIT and a Ph.D. in Computer Science from Stanford University.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Technology Officer and Senior Vice President, Software Engineering",
+          "start_date": "2011-09-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Andy Bechtolsheim",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Andy Bechtolsheim is a co-founder of Arista and has served as our Chief Architect since 2008. He also served as Chairman of the Board from 2008 to 2018. Prior to Arista, Mr. Bechtolsheim was a co-founder of Sun Microsystems and Granite Systems. He is a renowned hardware architect and was one of the first investors in Google. Mr. Bechtolsheim holds an M.S. in Computer Engineering from Carnegie Mellon University.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Architect",
+          "start_date": "2008-10-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jayshree Ullal",
+      "age": 63,
+      "age_year": 2024,
+      "background": "President and Chief Executive Officer of Arista Networks since 2008. Former Senior Vice President at Cisco Systems.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2008-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Andy Bechtolsheim",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Co-founder and Chief Architect of Arista. Co-founder of Sun Microsystems and Granite Systems.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2004-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Charles Giancarlo",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Pure Storage, Inc. Former Managing Director at Silver Lake Partners and Executive Vice President at Cisco Systems.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2013-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Ann Mather",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former CFO of Pixar. Director at Alphabet Inc., Netflix, and Bumble. Former director at Glu Mobile and MGM Holdings.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2013-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Dan Scheinman",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Angel investor. Former Senior Vice President, Corporate Development at Cisco Systems.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2011-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Kelly Conte",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Former executive at Cisco Systems and various technology startups. Expert in sales and go-to-market strategies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-03-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Yvonne Wassenaar",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Former CEO of Puppet. Former executive at Airware, New Relic, and VMware. Director at Forrester Research and JFrog.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-12-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "Mark Templeton",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Former CEO of Citrix Systems and DigitalOcean. Director at Equinix.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653224000019/anet-20240411.htm",
+      "source_description": "Arista Networks, Inc. DEF 14A Proxy Statement",
+      "as_of_date": "2024-04-11"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+  Workflow 1: Extraction (Workflow1_Extraction/)
+   - Purpose: Scans the Theses folder to identify publicly traded companies.
+   - Output: Generates CompanyList.json in the root directory.
+   - Agent: Thesis Content Extractor uses the thesis_reader tool to parse markdown files.
+
+  Workflow 2: Profiling (Workflow2_Profiling/)
+   - Purpose: Researches and builds detailed profiles for each company in CompanyList.json.
+   - Output: Saves Profile.json in each company's directory within Companies/.
+   - Agents: Company Profile Researcher and Mining Industry Specialist collaborate to gather financial and
+     sector-specific data.
+
+  Workflow 3: Logos (Workflow3_Logos/)
+   - Purpose: Secures corporate logos using a strict 4-step fallback protocol.
+   - Output: Saves logo files and Metadata.json (tracking the source and method) in each company's directory.
+   - Mechanisms:
+     1. companieslogo.com: Targeted search by name and ticker.
+     2. Official Website: Verification and extraction directly from the company's domain.
+     3. Broader Search: General internet image search.
+     4. AI Generation: Fallback to Google Imagen 4.0 for high-quality synthetic logos.
+
+ Workflow #4: Executives and Directors (4_execs-and-directors/)
+   - Purpose: Extracts current C-suite executives and Board of Directors data from regulatory filings (EDGAR for US,
+     SEDAR for Canada).
+   - Output: Generates Management.json and Step_Crew_Raw_Response.txt for each company in the Companies/ folder.
+   - Key Components:
+       - Agents: Research Manager (orchestrator), EDGAR Filing Specialist (US), and SEDAR+ Filing Specialist (Canada).
+       - Tools: Specialized tools for searching and fetching filings from EDGAR and SEDAR, including PDF parsing.
+       - Logic: Intelligent selection of filing specialists based on the exchange mapping, with robust fallback JSON
+         parsing.
+
+  All relative paths have been adjusted to work correctly from within the 4_execs-and-directors sub-folder, referencing
+  the shared CompanyList.json and Companies/ directory in the project root.
+
+  Each workflow includes its own main.py, pipeline.py, tools.py, schema.py, and requirements.txt, making them fully
+  independent and portable.

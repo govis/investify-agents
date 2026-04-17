@@ -1,0 +1,179 @@
+{
+  "executives": [
+    {
+      "name": "Paul Andre Huet",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Huet has over 30 years of experience in the mining industry. He served as Executive Chairman and CEO of Karora Resources. Previously, he was President and CEO of Klondex Mines Ltd. from 2012 to 2018. He has served on several boards including Northwest Copper Corp. and 1911 Gold Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2019-07-18",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Graeme Sloan",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Sloan is a mining engineer with over 35 years of experience in project development and operations. He was previously Managing Director of Karora and has held senior roles at several Australian mining companies including Tanami Gold NL and Herencia Resources PLC.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Managing Director, Australian Operations",
+          "start_date": "2019-02-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Leigh-Anneloise (L-A) Musca",
+      "age": null,
+      "age_year": null,
+      "background": "Ms. Musca is a Chartered Accountant with over 15 years of experience in financial management and reporting within the mining sector. She previously held senior financial roles at Gascoyne Resources and other ASX-listed entities.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2023-05-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Oliver Turner",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Turner has over 15 years of experience in the mining industry, specifically in capital markets and corporate development. Prior to Karora, he was Senior Vice President at a Canadian precious metals producer.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, Corporate Development",
+          "start_date": "2020-09-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Paul Andre Huet",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Executive Chairman and CEO of Karora Resources. Extensive experience in mining operations and corporate leadership.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Chairman",
+          "start_date": "2019-07-18",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Peter Goudie",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Mr. Goudie has over 40 years of experience in the mining industry, particularly in marketing and supply chain management. He held senior executive positions at Vale (formerly Inco Ltd).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2015-08-10",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "Wendy Kei",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Ms. Kei is a Chartered Professional Accountant with over 25 years of business experience. She is currently the Chair of the Board of Ontario Power Generation Inc. and serves on the board of Centerra Gold Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-06-15",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)",
+        "Corporate Governance and Nominating Committee"
+      ]
+    },
+    {
+      "name": "Kevin McLean",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. McLean has over 30 years of experience in the investment management industry. He was previously a Senior Managing Director at Sprucegrove Investment Management Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-06-18",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee (Chair)",
+        "Corporate Governance and Nominating Committee"
+      ]
+    },
+    {
+      "name": "Chadwick Williams",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Mr. Williams is the founder and President of Red Cloud Securities Inc. He has extensive experience in mining finance and capital markets.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-06-18",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Corporate Governance and Nominating Committee (Chair)"
+      ]
+    },
+    {
+      "name": "Shirley In't Veld",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Ms. In't Veld has over 30 years of experience in the mining and energy sectors. She was formerly the CEO of Verve Energy and has served on the boards of Northern Star Resources and Alumina Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-12-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Technical, Safety and Sustainability Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "Management Information Circular dated May 10, 2024",
+      "as_of_date": "2024-05-10"
+    },
+    {
+      "source_url": "https://www.karoraresources.com",
+      "source_description": "Annual Information Form for the year ended December 31, 2023",
+      "as_of_date": "2024-03-28"
+    }
+  ]
+}

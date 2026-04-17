@@ -1,0 +1,288 @@
+{
+  "executives": [
+    {
+      "name": "John C. May",
+      "age": 55,
+      "age_year": 2024,
+      "background": "John C. May is Chairman of the Board of Directors and Chief Executive Officer of Deere & Company. He is responsible for leading the company's efforts to provide advanced equipment and technology solutions for customers in the agriculture, construction, and forestry industries. May joined John Deere in 1997 and has held various leadership roles across the company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2020-05-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2019-11-04",
+          "end_date": "2020-05-01"
+        }
+      ]
+    },
+    {
+      "name": "Joshua Jepsen",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Joshua Jepsen is Senior Vice President and Chief Financial Officer. He is responsible for the company's financial functions, including accounting, treasury, tax, and investor relations. Jepsen joined John Deere in 1999 and has held positions in finance, manufacturing, and marketing.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Financial Officer",
+          "start_date": "2022-09-16",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Cory J. Reed",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Cory J. Reed is President, Production & Precision Ag. He is responsible for the company's global production and precision agriculture business. Reed joined John Deere in 1998 and has held various leadership roles in marketing and sales.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Production & Precision Ag",
+          "start_date": "2020-08-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Justin Rose",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Justin Rose is President, Construction & Forestry and Power Systems. He is responsible for the company's global construction and forestry business and its engine and drivetrain business. Rose joined John Deere in 2022 from Boston Consulting Group.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Construction & Forestry and Power Systems",
+          "start_date": "2022-10-31",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Deanna M. Kovar",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Deanna M. Kovar is President, Agricultural, Turf & Orchard Solutions. She is responsible for the company's global small agriculture and turf business. Kovar joined John Deere in 2000 and has held various roles in sales, marketing, and product development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Agricultural, Turf & Orchard Solutions",
+          "start_date": "2023-11-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "John C. May",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Deere & Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2020-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Leanne G. Caret",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Former Executive Vice President of The Boeing Company and President and CEO of Boeing Defense, Space & Security.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Tamra A. Erwin",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Former Executive Vice President and CEO of Verizon Business.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Finance Committee"
+      ]
+    },
+    {
+      "name": "Alan C. Heuberger",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Senior Investment Manager at Cascade Asset Management Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Finance Committee"
+      ]
+    },
+    {
+      "name": "Charles O. Holliday, Jr.",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Former Chairman of Royal Dutch Shell plc and former Chairman and CEO of DuPont.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Governance Committee",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "Michael O. Johanns",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Former U.S. Senator and former U.S. Secretary of Agriculture.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Governance Committee",
+        "Finance Committee"
+      ]
+    },
+    {
+      "name": "Clayton M. Jones",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Rockwell Collins, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2007-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Gregory R. Page",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Cargill, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Finance Committee"
+      ]
+    },
+    {
+      "name": "Sherry M. Smith",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former Executive Vice President and CFO of Supervalu Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2011-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "Dmitri L. Stockton",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Former Senior Vice President of General Electric Company and former Chairman, President, and CEO of GE Asset Management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Finance Committee"
+      ]
+    },
+    {
+      "name": "Sheila G. Talton",
+      "age": 71,
+      "age_year": 2024,
+      "background": "President and CEO of Gray Matter Analytics.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Corporate Governance Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/315293/000155837024000162/de-20240228xdef14a.htm",
+      "source_description": "Deere & Company 2024 Proxy Statement (DEF 14A)",
+      "as_of_date": "2024-01-12"
+    },
+    {
+      "source_url": "https://www.deere.com/en/our-company/leadership/",
+      "source_description": "Deere & Company Official Leadership Page",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

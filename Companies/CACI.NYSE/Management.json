@@ -1,0 +1,222 @@
+{
+  "executives": [
+    {
+      "name": "John S. Mengucci",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Mengucci has served as President and Chief Executive Officer of CACI since July 2019. He previously served as Chief Operating Officer from 2012 to 2019. Before joining CACI, he held leadership positions at Lockheed Martin Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2019-07-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2012-01-01",
+          "end_date": "2019-06-30"
+        }
+      ]
+    },
+    {
+      "name": "Jeffrey D. MacLauchlan",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. MacLauchlan has served as Executive Vice President and Chief Financial Officer since May 2022. He previously served as Senior Vice President of Corporate Development at CACI.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2022-05-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Gregory G. Bradford",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Mr. Bradford has served as Chief Executive of CACI Limited (UK) since 1985 and is a key executive for international operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive, CACI Limited",
+          "start_date": "1985-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "DeEtte Gray",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Ms. Gray has served as President of Business and Information Technology Solutions since 2017. Prior to CACI, she held leadership roles at BAE Systems.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Business and Information Technology Solutions",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Todd Probert",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Probert has served as President of National Security and Innovative Solutions since 2020. He previously held executive roles at Raytheon.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, National Security and Innovative Solutions",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Michael A. Daniels",
+      "age": 78,
+      "age_year": 2024,
+      "background": "Mr. Daniels has served as Chairman of the Board since 2021. He was previously Chairman and CEO of Mobile 365 and a senior executive at SAIC.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board",
+          "start_date": "2021-01-01",
+          "end_date": null
+        },
+        {
+          "role": "Director",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Executive Committee",
+        "Corporate Governance and Nominating Committee"
+      ]
+    },
+    {
+      "name": "John S. Mengucci",
+      "age": 62,
+      "age_year": 2024,
+      "background": "President and CEO of CACI International Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2019-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Executive Committee"
+      ]
+    },
+    {
+      "name": "J.P. London",
+      "age": 87,
+      "age_year": 2024,
+      "background": "Executive Chairman and Chairman of the Board Emeritus. Dr. London has been with CACI since 1972.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "1981-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Executive Committee"
+      ]
+    },
+    {
+      "name": "Lisa S. Disbrow",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Under Secretary of the Air Force. She has extensive experience in national security and defense.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Security and Risk Assessment Committee"
+      ]
+    },
+    {
+      "name": "William L. Jews",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Former President and CEO of CareFirst, Inc. He serves on several corporate boards.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "Gregory G. Johnson",
+      "age": 78,
+      "age_year": 2024,
+      "background": "Retired Admiral, U.S. Navy. Former Commander, U.S. Naval Forces Europe.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2006-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Governance and Nominating Committee",
+        "Security and Risk Assessment Committee"
+      ]
+    },
+    {
+      "name": "Susan M. Gordon",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former Principal Deputy Director of National Intelligence. Extensive career in the CIA.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Security and Risk Assessment Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/16058/000001605824000055/caci-20240630.htm",
+      "source_description": "CACI International Inc Form 10-K for the fiscal year ended June 30, 2024",
+      "as_of_date": "2024-08-15"
+    },
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/16058/000114036123044911/ny20010141x1_def14a.htm",
+      "source_description": "CACI International Inc Definitive Proxy Statement (DEF 14A)",
+      "as_of_date": "2023-09-21"
+    }
+  ]
+}

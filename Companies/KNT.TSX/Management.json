@@ -1,0 +1,181 @@
+{
+  "executives": [
+    {
+      "name": "John Lewins",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Lewins is a Mineral Engineer with over 35 years of experience in the mining industry, including senior management roles in Australia, Africa, and Asia. He has been involved in the development and operation of numerous gold and base metal mines.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer and Director",
+          "start_date": "2017-05-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Justin S. Bond",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Bond has over 20 years of experience in the mining industry, specializing in corporate finance, mergers and acquisitions, and investor relations. He previously held senior roles at several Canadian mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2016-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Warren Uyen",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Uyen is a mining engineer with over 30 years of experience in underground and open-pit operations. He has held senior management positions at various mining operations globally.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Operations",
+          "start_date": "2018-06-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "David Medilek",
+      "age": 41,
+      "age_year": 2024,
+      "background": "Mr. Medilek is a mining professional with experience in investment banking, corporate development, and engineering. He was previously a Director of Mining Investment Banking at a major Canadian bank.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Tye W. Burt",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Burt has over 30 years of experience in the global mining industry. He was President and CEO of Kinross Gold Corporation from 2005 to 2012 and has held senior roles at Barrick Gold and in investment banking.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman and Independent Director",
+          "start_date": "2020-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Corporate Governance and Nominating Committee"
+      ]
+    },
+    {
+      "name": "John Lewins",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Chief Executive Officer of K92 Mining Inc. with over 35 years of experience in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2017-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Health, Safety and Environmental Committee"
+      ]
+    },
+    {
+      "name": "Anne Giardini",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Ms. Giardini is a lawyer and executive with over 30 years of experience in the resource sector. She was previously President of Weyerhaeuser Company Limited and serves on several boards.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Corporate Governance and Nominating Committee"
+      ]
+    },
+    {
+      "name": "Saurabh Handa",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Mr. Handa is a Chartered Professional Accountant with over 15 years of experience in the mining industry. He is currently the CFO of Metalla Royalty & Streaming Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)",
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "Cyndi Laval",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Ms. Laval is a senior partner at Gowling WLG with over 25 years of experience in mining law, corporate finance, and M&A. She is recognized as a leading lawyer in the mining sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Governance and Nominating Committee (Chair)",
+        "Health, Safety and Environmental Committee"
+      ]
+    },
+    {
+      "name": "Nanette Bulger",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Ms. Bulger has over 30 years of experience in strategic planning, marketing, and business development. She has held executive roles in various industries including technology and resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee (Chair)"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://k92mining.com/wp-content/uploads/2024/05/K92-Mining-Inc.-2024-Management-Information-Circular.pdf",
+      "source_description": "2024 Management Information Circular",
+      "as_of_date": "2024-05-10"
+    },
+    {
+      "source_url": "https://k92mining.com/wp-content/uploads/2024/03/K92-Mining-Inc.-Annual-Information-Form-for-the-year-ended-December-31-2023.pdf",
+      "source_description": "Annual Information Form for the year ended December 31, 2023",
+      "as_of_date": "2024-03-28"
+    }
+  ]
+}

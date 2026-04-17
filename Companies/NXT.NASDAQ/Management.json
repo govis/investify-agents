@@ -1,0 +1,155 @@
+{
+  "executives": [
+    {
+      "name": "Dan Shugar",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Dan Shugar is the founder and CEO of Nextracker. A solar industry veteran, he previously served as CEO of Solaria Corporation and President of SunPower Corporation, Systems Division. He has over 30 years of experience in the solar industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Howard Wenger",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Howard Wenger has served as President of Nextracker since February 2022. He previously held executive leadership roles at SunPower Corporation, including President of Business Units and President of SunPower Systems.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President",
+          "start_date": "2022-02-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Chuck Alander",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Chuck Alander serves as the Chief Financial Officer. He joined Nextracker from Flex, where he held various senior financial leadership roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2024-05-13",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Bruce Ledesma",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Bruce Ledesma is the President of Strategy and General Counsel. He previously served as General Counsel for SunPower Corporation and SolarCity.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Strategy and General Counsel",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Dan Shugar",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Founder and CEO of Nextracker.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Scott Knight",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former partner at PwC with extensive experience in audit and risk management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ]
+    },
+    {
+      "name": "Kristi Hummel",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Chief People Officer at Skillsoft and former HR executive at Dell Technologies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee"
+      ]
+    },
+    {
+      "name": "T.J. Rodgers",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Founder and former CEO of Cypress Semiconductor; Chairman of Enphase Energy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nominating and Corporate Governance Committee"
+      ]
+    },
+    {
+      "name": "Howard Wenger",
+      "age": 59,
+      "age_year": 2024,
+      "background": "President of Nextracker.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1852131/000185213124000038/nxt-20240331.htm",
+      "source_description": "Nextracker Inc. Form 10-K Annual Report for the fiscal year ended March 31, 2024",
+      "as_of_date": "2024-05-30"
+    },
+    {
+      "source_url": "https://www.nextracker.com/about/leadership/",
+      "source_description": "Nextracker Official Website - Leadership Page",
+      "as_of_date": "2024-06-15"
+    }
+  ]
+}

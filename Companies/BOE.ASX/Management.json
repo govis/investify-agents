@@ -1,0 +1,138 @@
+{
+  "executives": [
+    {
+      "name": "Duncan Craib",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Craib is a highly experienced mining executive with over 20 years’ experience in the mining industry. He was previously Finance Director of Swakop Uranium (Pty) Ltd and was involved in the US$2.5 billion development of the Husab Uranium Project in Namibia.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Managing Director and Chief Executive Officer",
+          "start_date": "2017-01-09",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "James Marsh",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Marsh is a qualified industrial chemist with over 30 years’ experience in the mining and mineral processing industry. He has held senior positions with several major global companies including Rio Tinto and WMC Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "General Manager - Operations",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Lawrence (Loz) Johnson",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Johnson is a geologist with over 25 years’ experience in the mining industry, specifically in uranium exploration and development. He has held senior roles with several uranium companies including Paladin Energy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "General Manager - Geology",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Mathew O'Hara",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. O'Hara is a Chartered Accountant with over 15 years’ experience in corporate finance, accounting and governance. He has held senior positions with several ASX-listed companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer and Company Secretary",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Wyatt Buck",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Buck is a mining executive with over 35 years’ experience in the mining industry, specifically in uranium. He held senior roles at Cameco Corporation, including General Manager of the McArthur River uranium mine.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Chairman",
+          "start_date": "2021-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee",
+        "Remuneration and Nomination Committee"
+      ]
+    },
+    {
+      "name": "Duncan Craib",
+      "age": null,
+      "age_year": null,
+      "background": "Managing Director and CEO of Boss Energy. Over 20 years of experience in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Managing Director",
+          "start_date": "2017-01-09",
+          "end_date": null
+        }
+      ],
+      "committees": []
+    },
+    {
+      "name": "Bryn Jones",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Jones is an industrial chemist with over 20 years’ experience in the mining industry, specifically in uranium. He is also a director of several other ASX-listed companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2019-09-18",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee",
+        "Remuneration and Nomination Committee"
+      ]
+    },
+    {
+      "name": "Janice (Jan) Honeyman",
+      "age": null,
+      "age_year": null,
+      "background": "Ms. Honeyman is a senior mining executive with over 30 years’ experience in the mining industry. She has held senior roles with several major global companies including Rio Tinto and Shell.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee",
+        "Remuneration and Nomination Committee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.bossenergy.com/investors/annual-reports",
+      "source_description": "Boss Energy Limited 2024 Annual Report",
+      "as_of_date": "2024-06-30"
+    }
+  ]
+}
