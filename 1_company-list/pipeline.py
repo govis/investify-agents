@@ -1,77 +1,127 @@
-from crewai import Agent, LLM, Task, Crew, Process
 import os
 import json
-from typing import List
+import asyncio
+from typing import List, Dict, Any, Optional
+from google import genai
+from google.genai import types
+from groq import Groq
 from dotenv import load_dotenv, find_dotenv
-from tools import thesis_reader
-from schema import CompanyList
 
+# Load settings
 load_dotenv(find_dotenv(), override=True)
+load_dotenv(os.path.join("..", ".env"), override=False)
 
-def get_llm():
-    model_name = os.getenv("GEMINI_MODEL", "gemini-1.5-flash")
-    return LLM(
-        model=f"gemini/{model_name}",
-        api_key=os.getenv("GOOGLE_API_KEY"),
-        temperature=0.2
-    )
-
-class ExtractionPipeline:
+class DirectPipeline:
     def __init__(self):
-        self.llm = get_llm()
-
-    def create_agent(self, thesis_name: str):
-        return Agent(
-            role="Financial Data Extraction Specialist",
-            goal=f"Meticulously scan EVERY line and table in the Theses/{thesis_name} folder to identify ALL publicly traded companies. I expect a high volume of companies (dozens per thesis).",
-            backstory="You are an expert financial analyst. You have a 'zero-miss' policy. You know that companies are often hidden in tables, bullet points, and parenthetical mentions like (Ticker: EXCHANGE). You never skip a company just because it's in a list.",
-            llm=self.llm,
-            tools=[thesis_reader],
-            verbose=True,
-            allow_delegation=False
-        )
-
-    def create_task(self, agent, thesis_name: str, existing_companies: str = ""):
-        description = (
-            f"URGENT: Extract ALL publicly traded companies from the '{thesis_name}' thesis. There are likely 20-40+ companies in this section alone.\n"
-            f"1. Call thesis_reader(thesis_name='{thesis_name}') to get the content.\n"
-            "2. SCAN ALL TABLES: Many companies are listed in tables with columns for 'Company', 'Ticker', 'Region', etc. EXTRACT EVERY SINGLE ONE.\n"
-            "3. Identify name, ticker, and exchange for each. If exchange is missing, infer it (e.g., TSX for Canadian, ASX for Australian, NYSE/NASDAQ for US).\n"
-            f"4. For each company, define its 'company_type' specifically as it relates to the '{thesis_name}' thesis.\n"
-        )
+        self.provider = os.getenv("LLM_PROVIDER", "gemini").lower()
         
+        # Gemini setup
+        self.gemini_client = genai.Client(api_key=os.getenv("GOOGLE_API_KEY"))
+        self.gemini_model = os.getenv("GEMINI_MODEL", "gemini-1.5-flash")
+        
+        # Groq setup
+        self.groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+        self.groq_model = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+
+    def _get_system_instruction(self, thesis_name: str) -> str:
+        return (
+            f"You are a Meticulous Financial Data Analyst specializing in the '{thesis_name}' investment thesis. "
+            "Your task is to identify EVERY publicly traded company mentioned in the text.\n\n"
+            "CRITICAL RULES:\n"
+            "1. EXTRACT: Name, Ticker, and Exchange (infer exchange if missing: TSX for Canada, ASX for Australia, NYSE/NASDAQ for USA).\n"
+            "2. TYPE: Define 'company_type' specifically as it relates to the thesis.\n"
+            "3. MENTIONS: Provide a list of EXACT text strings (mentions) found in the provided text that refer to this company. "
+            "Include both the full name and the ticker if they appear. Be case-sensitive and precise.\n"
+            "4. SCOPE: ONLY include companies mentioned in the provided text chunk. DO NOT include companies from your general knowledge or previous chunks.\n"
+            "5. OUTPUT: You MUST return a valid JSON object following the required schema."
+        )
+
+    async def process_chunk(self, thesis_name: str, content: str, existing_companies: str, exchange_filter: List[str] = None) -> Dict[str, Any]:
+        """Process a text chunk and return a list of identified companies with their mentions."""
+        system_instr = self._get_system_instruction(thesis_name)
+        
+        prompt = (
+            f"TEXT CONTENT TO PROCESS:\n{content}\n\n"
+        )
         if existing_companies:
-            description += (
-                "\n4. CRITICAL REFINEMENT STEP:\n"
-                "The following companies were already identified in other theses:\n"
-                f"{existing_companies}\n"
-                "If you find any of these companies in the current thesis, DOUBLE CHECK and REFINE their 'company_type' based on the new information provided in this thesis. "
-                "Ensure the 'company_type' is descriptive and accurate for the current context."
-            )
-        
-        description += "\n5. Return a CompanyList with all identified companies for THIS thesis."
-
-        return Task(
-            description=description,
-            expected_output=f"A CompanyList object containing companies found in the {thesis_name} thesis.",
-            agent=agent,
-            output_pydantic=CompanyList
-        )
-
-    async def run_thesis(self, thesis_name: str, existing_companies_data: List[dict] = None):
-        existing_str = ""
-        if existing_companies_data:
-            existing_str = json.dumps(existing_companies_data, indent=2)
+            prompt += f"CONTEXT (Already identified companies in this thesis): {existing_companies}\n\n"
             
-        agent = self.create_agent(thesis_name)
-        task = self.create_task(agent, thesis_name, existing_str)
-        
-        crew = Crew(
-            agents=[agent],
-            tasks=[task],
-            process=Process.sequential,
-            verbose=True
+        prompt += (
+            "Return a JSON object with a 'companies' key containing a list of objects. Each object must have: "
+            "'name', 'ticker', 'exchange', 'company_type', and 'mentions' (list of exact strings from text)."
         )
-        
-        result = await crew.kickoff_async()
-        return result.pydantic if result.pydantic else result.raw
+
+        if self.provider == "gemini":
+            return await self._call_gemini(system_instr, prompt)
+        else:
+            return await self._call_groq(system_instr, prompt)
+
+    async def _call_gemini(self, system_instr: str, prompt: str) -> Dict[str, Any]:
+        # JSON Schema for Gemini
+        response_schema = {
+            "type": "OBJECT",
+            "properties": {
+                "companies": {
+                    "type": "ARRAY",
+                    "items": {
+                        "type": "OBJECT",
+                        "properties": {
+                            "name": {"type": "STRING"},
+                            "ticker": {"type": "STRING"},
+                            "exchange": {"type": "STRING"},
+                            "company_type": {"type": "STRING"},
+                            "mentions": {"type": "ARRAY", "items": {"type": "STRING"}}
+                        },
+                        "required": ["name", "ticker", "exchange", "company_type", "mentions"]
+                    }
+                }
+            },
+            "required": ["companies"]
+        }
+
+        try:
+            config = types.GenerateContentConfig(
+                system_instruction=system_instr,
+                response_mime_type="application/json",
+                response_schema=response_schema,
+                temperature=0.1
+            )
+            
+            # Use to_thread for the synchronous SDK call
+            response = await asyncio.to_thread(
+                self.gemini_client.models.generate_content,
+                model=self.gemini_model,
+                contents=prompt,
+                config=config
+            )
+            
+            if response.text:
+                return json.loads(response.text)
+            return {"companies": []}
+            
+        except Exception as e:
+            print(f"    Gemini API Error: {e}")
+            raise e
+
+    async def _call_groq(self, system_instr: str, prompt: str) -> Dict[str, Any]:
+        try:
+            # Groq uses standard OpenAI-style completions
+            response = await asyncio.to_thread(
+                self.groq_client.chat.completions.create,
+                model=self.groq_model,
+                messages=[
+                    {"role": "system", "content": system_instr},
+                    {"role": "user", "content": prompt}
+                ],
+                response_format={"type": "json_object"},
+                temperature=0.1
+            )
+            
+            content = response.choices[0].message.content
+            if content:
+                return json.loads(content)
+            return {"companies": []}
+            
+        except Exception as e:
+            print(f"    Groq API Error: {e}")
+            raise e

@@ -46,4 +46,6 @@ This workflow is designed to download logo images for publicly traded companies.
 - **Console Window**: Should be concise, showing the current company, mechanism, and its specific query/website.
 - **Log File**: A detailed `logo_workflow.log` file is written to each company folder.
 - **Image Filename**: All logos must be saved as `logo` (+ appropriate extension) in the company folder.
-- **Profile Update**: Upon successful download/generation, attribute `logo_local` in `Profile.json` is updated with the filename (e.g., `"logo_local": "logo.png"`).
+- **Profile Update**: 
+  - `name_clean`: Updated in `Profile.json` with the filtered searchable term (core parts) before search commences.
+  - `logo_local`: Upon successful download/generation, updated with the filename (e.g., `"logo_local": "logo.png"`).

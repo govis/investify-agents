@@ -1,1394 +1,1751 @@
 [
   {
-    "name": "NVIDIA Corporation",
-    "ticker": "NVDA",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Semiconductor / GPU Manufacturer"
-      },
-      {
-        "thesis_name": "Defense",
-        "company_type": "AI Computing / Edge Processing for Defense Systems"
-      },
-      {
-        "thesis_name": "Electrification",
-        "company_type": "AI Computing for Autonomous Driving & Smart Grid Optimization"
-      }
-    ]
-  },
-  {
-    "name": "Advanced Micro Devices, Inc.",
-    "ticker": "AMD",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Semiconductor / GPU & CPU Manufacturer"
-      }
-    ]
-  },
-  {
-    "name": "Intel Corporation",
-    "ticker": "INTC",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Semiconductor / Processor Manufacturer"
-      },
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Semiconductor Manufacturing / US Foundry Expansion"
-      }
-    ]
-  },
-  {
-    "name": "Taiwan Semiconductor Manufacturing Company Limited",
-    "ticker": "TSM",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Foundry / Semiconductor Manufacturing"
-      },
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Semiconductor Manufacturing / Arizona Fab Development"
-      }
-    ]
-  },
-  {
-    "name": "Broadcom Inc.",
-    "ticker": "AVGO",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Custom AI Accelerators / Networking"
-      }
-    ]
-  },
-  {
-    "name": "Marvell Technology, Inc.",
-    "ticker": "MRVL",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Data Infrastructure / Networking"
-      }
-    ]
-  },
-  {
-    "name": "Arm Holdings plc",
-    "ticker": "ARM",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Semiconductor IP / Architecture"
-      }
-    ]
-  },
-  {
-    "name": "Microsoft Corporation",
-    "ticker": "MSFT",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Cloud Infrastructure / Software / LLM Integration"
-      },
-      {
-        "thesis_name": "Defense",
-        "company_type": "Defense Cloud Infrastructure / IVAS Program"
-      }
-    ]
-  },
-  {
     "name": "Alphabet Inc.",
     "ticker": "GOOGL",
     "exchange": "NASDAQ",
     "theses": [
       {
         "thesis_name": "AI",
-        "company_type": "Cloud Infrastructure / LLM Development / Search"
+        "company_type": "Hyperscaler and AI Developer"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Technology/Data Center Operator"
+      }
+    ]
+  },
+  {
+    "name": "OpenAI",
+    "ticker": "N/A",
+    "exchange": "N/A",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Generative AI"
       },
       {
         "thesis_name": "Defense",
-        "company_type": "Defense Cloud Infrastructure / AI Research"
-      }
-    ]
-  },
-  {
-    "name": "Amazon.com, Inc.",
-    "ticker": "AMZN",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Cloud Infrastructure (AWS) / AI Services"
-      },
-      {
-        "thesis_name": "Defense",
-        "company_type": "Defense Cloud Infrastructure (JWCC)"
-      }
-    ]
-  },
-  {
-    "name": "Meta Platforms, Inc.",
-    "ticker": "META",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Open Source LLM / Social Media AI"
-      }
-    ]
-  },
-  {
-    "name": "Oracle Corporation",
-    "ticker": "ORCL",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Cloud Infrastructure / Database Software"
-      },
-      {
-        "thesis_name": "Defense",
-        "company_type": "Defense Cloud Infrastructure / Secure Databases"
-      }
-    ]
-  },
-  {
-    "name": "Arista Networks, Inc.",
-    "ticker": "ANET",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Networking Equipment / Switches"
-      }
-    ]
-  },
-  {
-    "name": "Super Micro Computer, Inc.",
-    "ticker": "SMCI",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Server Solutions / AI Infrastructure"
-      }
-    ]
-  },
-  {
-    "name": "Dell Technologies Inc.",
-    "ticker": "DELL",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Hardware / AI Servers"
-      }
-    ]
-  },
-  {
-    "name": "Vertiv Holdings Co",
-    "ticker": "VRT",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Data Center Cooling & Power"
+        "company_type": "Defense Technology Prime"
       },
       {
         "thesis_name": "Electrification",
-        "company_type": "Critical Digital Infrastructure / Power Management for Data Centers"
-      }
-    ]
-  },
-  {
-    "name": "Equinix, Inc.",
-    "ticker": "EQIX",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Data Center REIT"
-      }
-    ]
-  },
-  {
-    "name": "Digital Realty Trust, Inc.",
-    "ticker": "DLR",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Data Center REIT"
-      }
-    ]
-  },
-  {
-    "name": "Palantir Technologies Inc.",
-    "ticker": "PLTR",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "AI Software / Data Analytics"
+        "company_type": "Rare earth magnet supply chain"
       },
       {
-        "thesis_name": "Defense",
-        "company_type": "Defense Software / AI-driven Data Analytics"
-      }
-    ]
-  },
-  {
-    "name": "Snowflake Inc.",
-    "ticker": "SNOW",
-    "exchange": "NYSE",
-    "theses": [
+        "thesis_name": "Gold",
+        "company_type": "Gold Developer"
+      },
       {
-        "thesis_name": "AI",
-        "company_type": "Data Cloud / AI Data Management"
-      }
-    ]
-  },
-  {
-    "name": "Datadog, Inc.",
-    "ticker": "DDOG",
-    "exchange": "NASDAQ",
-    "theses": [
+        "thesis_name": "Nuclear",
+        "company_type": "Nuclear Waste Management Technology"
+      },
       {
-        "thesis_name": "AI",
-        "company_type": "Observability / AI Monitoring"
+        "thesis_name": "Reshoring",
+        "company_type": "Energy trading and logistics partner"
       }
     ]
   },
   {
-    "name": "ServiceNow, Inc.",
-    "ticker": "NOW",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Enterprise Workflow Automation"
-      }
-    ]
-  },
-  {
-    "name": "Salesforce, Inc.",
+    "name": "Salesforce",
     "ticker": "CRM",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "AI",
-        "company_type": "CRM / AI Agents"
+        "company_type": "Software Incumbent"
       }
     ]
   },
   {
-    "name": "Adobe Inc.",
-    "ticker": "ADBE",
+    "name": "Amazon",
+    "ticker": "AMZN",
     "exchange": "NASDAQ",
     "theses": [
       {
         "thesis_name": "AI",
-        "company_type": "Creative Software / Generative AI"
-      }
-    ]
-  },
-  {
-    "name": "ASML Holding N.V.",
-    "ticker": "ASML",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Lithography Equipment"
+        "company_type": "Cloud/Infrastructure"
       },
       {
-        "thesis_name": "Reshoring",
-        "company_type": "Lithography Equipment / Critical Tech for Reshored Fabs"
+        "thesis_name": "Nuclear",
+        "company_type": "Technology/Data Center Operator"
       }
     ]
   },
   {
-    "name": "Applied Materials, Inc.",
-    "ticker": "AMAT",
+    "name": "Meta",
+    "ticker": "META",
     "exchange": "NASDAQ",
     "theses": [
       {
         "thesis_name": "AI",
-        "company_type": "Semiconductor Equipment"
+        "company_type": "Hyperscaler and AI Developer"
       },
       {
-        "thesis_name": "Reshoring",
-        "company_type": "Semiconductor Equipment / Supply Chain Localization"
+        "thesis_name": "Nuclear",
+        "company_type": "Hyperscaler"
       }
     ]
   },
   {
-    "name": "Lam Research Corporation",
-    "ticker": "LRCX",
+    "name": "Microsoft",
+    "ticker": "MSFT",
     "exchange": "NASDAQ",
     "theses": [
       {
         "thesis_name": "AI",
-        "company_type": "Semiconductor Equipment"
+        "company_type": "Cloud/Software"
       },
       {
-        "thesis_name": "Reshoring",
-        "company_type": "Semiconductor Equipment / Wafer Fabrication Tools"
+        "thesis_name": "Nuclear",
+        "company_type": "Technology/Data Center Operator"
       }
     ]
   },
   {
-    "name": "Micron Technology, Inc.",
-    "ticker": "MU",
+    "name": "Nvidia",
+    "ticker": "NVDA",
     "exchange": "NASDAQ",
     "theses": [
       {
         "thesis_name": "AI",
-        "company_type": "Memory / HBM"
-      },
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Memory Chip Manufacturing / US Domestic Production"
+        "company_type": "Hardware Infrastructure Provider"
       }
     ]
   },
   {
-    "name": "SK Hynix Inc.",
+    "name": "SK Hynix",
     "ticker": "000660",
     "exchange": "KRX",
     "theses": [
       {
         "thesis_name": "AI",
-        "company_type": "Memory / HBM"
+        "company_type": "Hardware Infrastructure Provider"
       }
     ]
   },
   {
-    "name": "Samsung Electronics Co., Ltd.",
+    "name": "Micron",
+    "ticker": "MU",
+    "exchange": "NASDAQ",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Memory and HBM Supplier"
+      },
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Semiconductor and Memory Hardware"
+      }
+    ]
+  },
+  {
+    "name": "ASML",
+    "ticker": "ASML",
+    "exchange": "NASDAQ",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Hardware Infrastructure Provider"
+      }
+    ]
+  },
+  {
+    "name": "AMD",
+    "ticker": "AMD",
+    "exchange": "NASDAQ",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "GPU Accelerator"
+      }
+    ]
+  },
+  {
+    "name": "Broadcom",
+    "ticker": "AVGO",
+    "exchange": "NASDAQ",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Semiconductor/Networking"
+      }
+    ]
+  },
+  {
+    "name": "Marvell",
+    "ticker": "MRVL",
+    "exchange": "NASDAQ",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Semiconductor/Networking"
+      }
+    ]
+  },
+  {
+    "name": "Arista",
+    "ticker": "ANET",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Networking"
+      }
+    ]
+  },
+  {
+    "name": "Keyence",
+    "ticker": "KYCCF",
+    "exchange": "TYO",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Industrial Automation"
+      }
+    ]
+  },
+  {
+    "name": "Fanuc",
+    "ticker": "FANUY",
+    "exchange": "TYO",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Industrial Automation"
+      }
+    ]
+  },
+  {
+    "name": "ABB",
+    "ticker": "ABBN",
+    "exchange": "SIX",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Industrial Automation"
+      }
+    ]
+  },
+  {
+    "name": "Thomson Reuters",
+    "ticker": "TRI",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "AI-enabled legal software provider"
+      }
+    ]
+  },
+  {
+    "name": "JPMorgan Chase",
+    "ticker": "JPM",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Financial services and AI adopter"
+      },
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Financial institution"
+      }
+    ]
+  },
+  {
+    "name": "Foxconn",
+    "ticker": "2317",
+    "exchange": "TWSE",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Industrial AI and robotics adopter"
+      }
+    ]
+  },
+  {
+    "name": "Siemens",
+    "ticker": "SIEGY",
+    "exchange": "OTC",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Industrial AI and automation provider"
+      }
+    ]
+  },
+  {
+    "name": "Rockwell Automation",
+    "ticker": "ROK",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Industrial AI and automation provider"
+      }
+    ]
+  },
+  {
+    "name": "Palantir Technologies",
+    "ticker": "PLTR",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Software Incumbent"
+      },
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense Tech Software"
+      }
+    ]
+  },
+  {
+    "name": "ServiceNow",
+    "ticker": "NOW",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Software Incumbent"
+      }
+    ]
+  },
+  {
+    "name": "Keyence",
+    "ticker": "6861",
+    "exchange": "TYO",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Industrial Automation"
+      }
+    ]
+  },
+  {
+    "name": "Fanuc",
+    "ticker": "6954",
+    "exchange": "TYO",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Industrial Robotics"
+      }
+    ]
+  },
+  {
+    "name": "Schneider Electric",
+    "ticker": "SU",
+    "exchange": "Euronext Paris",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Data center infrastructure and AI-informed software"
+      },
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Midstream Grid Infrastructure"
+      }
+    ]
+  },
+  {
+    "name": "Siemens",
+    "ticker": "SIE",
+    "exchange": "Xetra",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Data center infrastructure and industrial software"
+      },
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Industrial technology conglomerate"
+      }
+    ]
+  },
+  {
+    "name": "Taiwan Semiconductor Manufacturing Company",
+    "ticker": "TSM",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Foundry"
+      }
+    ]
+  },
+  {
+    "name": "Alchip",
+    "ticker": "3661",
+    "exchange": "TWSE",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "ASIC Design Service Provider"
+      },
+      {
+        "thesis_name": "Defense",
+        "company_type": "Semiconductor Design Services"
+      }
+    ]
+  },
+  {
+    "name": "GUC",
+    "ticker": "3443",
+    "exchange": "TWSE",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "ASIC Design Service Provider"
+      },
+      {
+        "thesis_name": "Defense",
+        "company_type": "Semiconductor Design Services"
+      }
+    ]
+  },
+  {
+    "name": "Samsung",
     "ticker": "005930",
     "exchange": "KRX",
     "theses": [
       {
         "thesis_name": "AI",
-        "company_type": "Semiconductor / Memory"
-      },
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Semiconductor Manufacturing / Texas Fab Expansion"
-      }
-    ]
-  },
-  {
-    "name": "Cisco Systems, Inc.",
-    "ticker": "CSCO",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Networking Infrastructure"
-      }
-    ]
-  },
-  {
-    "name": "Juniper Networks, Inc.",
-    "ticker": "JNPR",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Networking Infrastructure"
-      }
-    ]
-  },
-  {
-    "name": "Pure Storage, Inc.",
-    "ticker": "PSTG",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Data Storage"
-      }
-    ]
-  },
-  {
-    "name": "NetApp, Inc.",
-    "ticker": "NTAP",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Data Storage"
-      }
-    ]
-  },
-  {
-    "name": "CrowdStrike Holdings, Inc.",
-    "ticker": "CRWD",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Cybersecurity / AI-driven Security"
+        "company_type": "Semiconductor Manufacturer"
       },
       {
         "thesis_name": "Defense",
-        "company_type": "Cybersecurity / Endpoint Protection for Defense"
+        "company_type": "Semiconductor and Electronics Manufacturing"
       }
     ]
   },
   {
-    "name": "Palo Alto Networks, Inc.",
-    "ticker": "PANW",
-    "exchange": "NASDAQ",
+    "name": "Rainbow Robotics",
+    "ticker": "277810",
+    "exchange": "KOSDAQ",
     "theses": [
       {
         "thesis_name": "AI",
-        "company_type": "Cybersecurity / AI-driven Security"
-      }
-    ]
-  },
-  {
-    "name": "SentinelOne, Inc.",
-    "ticker": "S",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Cybersecurity / AI-driven Security"
-      }
-    ]
-  },
-  {
-    "name": "Cloudflare, Inc.",
-    "ticker": "NET",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Edge Computing / AI Inference"
-      }
-    ]
-  },
-  {
-    "name": "Fastly, Inc.",
-    "ticker": "FSLY",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Edge Computing"
-      }
-    ]
-  },
-  {
-    "name": "International Business Machines Corporation",
-    "ticker": "IBM",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "AI Consulting / Enterprise AI"
-      }
-    ]
-  },
-  {
-    "name": "Lockheed Martin Corporation",
-    "ticker": "LMT",
-    "exchange": "NYSE",
-    "theses": [
+        "company_type": "Robotics and Automation"
+      },
       {
         "thesis_name": "Defense",
-        "company_type": "Prime Contractor / Aerospace & Defense Systems"
+        "company_type": "Robotics and Automation"
       }
     ]
   },
   {
-    "name": "Raytheon Technologies Corporation",
-    "ticker": "RTX",
+    "name": "Tokyo Electron",
+    "ticker": "8035",
+    "exchange": "TYO",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Semiconductor Manufacturing Equipment"
+      },
+      {
+        "thesis_name": "Defense",
+        "company_type": "Semiconductor Manufacturing Equipment"
+      }
+    ]
+  },
+  {
+    "name": "Advantest",
+    "ticker": "6857",
+    "exchange": "TYO",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Semiconductor Testing Equipment"
+      },
+      {
+        "thesis_name": "Defense",
+        "company_type": "Semiconductor Testing Equipment"
+      }
+    ]
+  },
+  {
+    "name": "SoftBank",
+    "ticker": "9984",
+    "exchange": "TYO",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Investment Holding Company"
+      },
+      {
+        "thesis_name": "Defense",
+        "company_type": "Technology Investment and AI"
+      }
+    ]
+  },
+  {
+    "name": "SAP",
+    "ticker": "SAP",
     "exchange": "NYSE",
     "theses": [
       {
+        "thesis_name": "AI",
+        "company_type": "Enterprise Software"
+      },
+      {
         "thesis_name": "Defense",
-        "company_type": "Prime Contractor / Missile Defense & Aerospace"
+        "company_type": "Enterprise Software"
       }
     ]
   },
   {
-    "name": "Northrop Grumman Corporation",
+    "name": "Schneider Electric",
+    "ticker": "SU",
+    "exchange": "EPA",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Energy Management and Automation"
+      },
+      {
+        "thesis_name": "Defense",
+        "company_type": "Energy Management and Industrial Automation"
+      },
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Energy management and industrial electrification"
+      }
+    ]
+  },
+  {
+    "name": "Infineon",
+    "ticker": "IFX",
+    "exchange": "XETRA",
+    "theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Semiconductor Manufacturer"
+      },
+      {
+        "thesis_name": "Defense",
+        "company_type": "Semiconductor Manufacturing"
+      }
+    ]
+  },
+  {
+    "name": "Northrop Grumman",
     "ticker": "NOC",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Defense",
-        "company_type": "Prime Contractor / Stealth Technology & Space Systems"
+        "company_type": "Aerospace and Defense Prime"
       }
     ]
   },
   {
-    "name": "General Dynamics Corporation",
-    "ticker": "GD",
+    "name": "Raytheon",
+    "ticker": "RTX",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Defense",
-        "company_type": "Prime Contractor / Marine Systems & Land Systems"
+        "company_type": "Legacy Defense Prime"
       }
     ]
   },
   {
-    "name": "The Boeing Company",
-    "ticker": "BA",
+    "name": "Lockheed Martin",
+    "ticker": "LMT",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Defense",
-        "company_type": "Prime Contractor / Military Aircraft & Satellites"
+        "company_type": "Legacy Defense Prime"
       }
     ]
   },
   {
-    "name": "L3Harris Technologies, Inc.",
-    "ticker": "LHX",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Defense",
-        "company_type": "Defense Electronics / Communication Systems"
-      }
-    ]
-  },
-  {
-    "name": "BAE Systems plc",
-    "ticker": "BA",
+    "name": "BAE Systems",
+    "ticker": "BA.",
     "exchange": "LSE",
     "theses": [
       {
         "thesis_name": "Defense",
-        "company_type": "International Prime Contractor / Naval & Land Systems"
+        "company_type": "Defense Prime Contractor"
       }
     ]
   },
   {
-    "name": "Rheinmetall AG",
+    "name": "Rheinmetall",
     "ticker": "RHM",
     "exchange": "XETRA",
     "theses": [
       {
         "thesis_name": "Defense",
-        "company_type": "European Defense / Ammunition & Combat Vehicles"
+        "company_type": "Defense Contractor"
       }
     ]
   },
   {
-    "name": "Thales Group",
-    "ticker": "HO",
-    "exchange": "Euronext Paris",
+    "name": "Saab",
+    "ticker": "SAAB-B",
+    "exchange": "STO",
     "theses": [
       {
         "thesis_name": "Defense",
-        "company_type": "European Defense / Aerospace & Security Electronics"
+        "company_type": "Defense Contractor"
+      }
+    ]
+  },
+  {
+    "name": "Rolls-Royce",
+    "ticker": "RR",
+    "exchange": "LSE",
+    "theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense and Aerospace Propulsion"
+      },
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Aerospace and Defense"
+      }
+    ]
+  },
+  {
+    "name": "GE Aerospace",
+    "ticker": "GE",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense and Aerospace Propulsion"
+      },
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Aerospace and Defense"
+      }
+    ]
+  },
+  {
+    "name": "Boeing",
+    "ticker": "BA",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense and Aerospace Prime Contractor"
+      },
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Aerospace and Defense"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Original Equipment Manufacturer"
+      }
+    ]
+  },
+  {
+    "name": "BAE Systems",
+    "ticker": "BAE",
+    "exchange": "LSE",
+    "theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense and Aerospace Prime Contractor"
+      },
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Aerospace and Defense"
+      }
+    ]
+  },
+  {
+    "name": "Saab AB",
+    "ticker": "SAAB",
+    "exchange": "STO",
+    "theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense and Aerospace Prime Contractor"
+      },
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Aerospace and Defense"
       }
     ]
   },
   {
     "name": "Leonardo S.p.A.",
     "ticker": "LDO",
-    "exchange": "Borsa Italiana",
+    "exchange": "BIT",
     "theses": [
       {
         "thesis_name": "Defense",
-        "company_type": "European Defense / Helicopters & Aerospace"
+        "company_type": "Defense and Aerospace Prime Contractor"
+      },
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Aerospace and Defense"
       }
     ]
   },
   {
-    "name": "Dassault Aviation SA",
-    "ticker": "AM",
-    "exchange": "Euronext Paris",
-    "theses": [
-      {
-        "thesis_name": "Defense",
-        "company_type": "European Defense / Fighter Jets"
-      }
-    ]
-  },
-  {
-    "name": "Saab AB",
-    "ticker": "SAAB B",
-    "exchange": "Nasdaq Stockholm",
-    "theses": [
-      {
-        "thesis_name": "Defense",
-        "company_type": "European Defense / Aerospace & Naval Systems"
-      }
-    ]
-  },
-  {
-    "name": "Huntington Ingalls Industries, Inc.",
-    "ticker": "HII",
+    "name": "L3Harris Technologies",
+    "ticker": "LHX",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Defense",
-        "company_type": "Naval Shipbuilding"
-      }
-    ]
-  },
-  {
-    "name": "Leidos Holdings, Inc.",
-    "ticker": "LDOS",
-    "exchange": "NYSE",
-    "theses": [
+        "company_type": "Defense Electronics and Communications"
+      },
       {
-        "thesis_name": "Defense",
-        "company_type": "Defense IT & Intelligence Services"
+        "thesis_name": "Electrification",
+        "company_type": "Aerospace and Defense"
       }
     ]
   },
   {
-    "name": "Booz Allen Hamilton Holding Corporation",
-    "ticker": "BAH",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Defense",
-        "company_type": "Defense Consulting & Cybersecurity"
-      }
-    ]
-  },
-  {
-    "name": "CACI International Inc",
-    "ticker": "CACI",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Defense",
-        "company_type": "Defense IT & Intelligence Services"
-      }
-    ]
-  },
-  {
-    "name": "Science Applications International Corporation",
-    "ticker": "SAIC",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Defense",
-        "company_type": "Defense IT & Engineering Services"
-      }
-    ]
-  },
-  {
-    "name": "AeroVironment, Inc.",
-    "ticker": "AVAV",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Defense",
-        "company_type": "Unmanned Aircraft Systems (Drones)"
-      }
-    ]
-  },
-  {
-    "name": "Kratos Defense & Security Solutions, Inc.",
+    "name": "Kratos Defense & Security Solutions",
     "ticker": "KTOS",
     "exchange": "NASDAQ",
     "theses": [
       {
         "thesis_name": "Defense",
-        "company_type": "Unmanned Systems & Satellite Communications"
-      }
-    ]
-  },
-  {
-    "name": "Mercury Systems, Inc.",
-    "ticker": "MRCY",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Defense",
-        "company_type": "Defense Electronics & Processing"
-      }
-    ]
-  },
-  {
-    "name": "Parsons Corporation",
-    "ticker": "PSN",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Defense",
-        "company_type": "Defense Engineering & Cybersecurity"
-      }
-    ]
-  },
-  {
-    "name": "Textron Inc.",
-    "ticker": "TXT",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Defense",
-        "company_type": "Aerospace & Defense / Helicopters"
-      }
-    ]
-  },
-  {
-    "name": "TransDigm Group Incorporated",
-    "ticker": "TDG",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Defense",
-        "company_type": "Aerospace Components / Aftermarket Parts"
-      }
-    ]
-  },
-  {
-    "name": "HEICO Corporation",
-    "ticker": "HEI",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Defense",
-        "company_type": "Aerospace & Defense Electronics"
-      }
-    ]
-  },
-  {
-    "name": "Curtiss-Wright Corporation",
-    "ticker": "CW",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Defense",
-        "company_type": "Defense Components / Naval & Aerospace"
+        "company_type": "Defense Technology and Unmanned Systems"
       },
       {
-        "thesis_name": "Nuclear",
-        "company_type": "Nuclear Pumps & Valves / SMR Supply Chain"
+        "thesis_name": "Electrification",
+        "company_type": "Aerospace and Defense"
       }
     ]
   },
   {
-    "name": "Moog Inc.",
-    "ticker": "MOG.A",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Defense",
-        "company_type": "Motion Control Systems / Aerospace & Defense"
-      }
-    ]
-  },
-  {
-    "name": "BWX Technologies, Inc.",
-    "ticker": "BWXT",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Defense",
-        "company_type": "Nuclear Components / Naval Propulsion"
-      },
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Nuclear Components / SMR Development / Naval Propulsion"
-      }
-    ]
-  },
-  {
-    "name": "Rocket Lab USA, Inc.",
+    "name": "Rocket Lab",
     "ticker": "RKLB",
     "exchange": "NASDAQ",
     "theses": [
       {
         "thesis_name": "Defense",
-        "company_type": "Space Launch & Defense Satellites"
-      }
-    ]
-  },
-  {
-    "name": "Terran Orbital Corporation",
-    "ticker": "LLAP",
-    "exchange": "NYSE",
-    "theses": [
+        "company_type": "Space and Defense Launch Services"
+      },
       {
-        "thesis_name": "Defense",
-        "company_type": "Satellite Solutions / Defense Space"
+        "thesis_name": "Electrification",
+        "company_type": "Aerospace and Defense"
       }
     ]
   },
   {
-    "name": "Planet Labs PBC",
-    "ticker": "PL",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Defense",
-        "company_type": "Satellite Imagery / Geospatial Intelligence"
-      }
-    ]
-  },
-  {
-    "name": "BlackSky Technology Inc.",
-    "ticker": "BKSY",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Defense",
-        "company_type": "Real-time Geospatial Intelligence"
-      }
-    ]
-  },
-  {
-    "name": "Spire Global, Inc.",
-    "ticker": "SPIR",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Defense",
-        "company_type": "Space-based Data & Analytics"
-      }
-    ]
-  },
-  {
-    "name": "Viasat, Inc.",
-    "ticker": "VSAT",
+    "name": "Teradyne",
+    "ticker": "TER",
     "exchange": "NASDAQ",
     "theses": [
       {
         "thesis_name": "Defense",
-        "company_type": "Satellite Communications / Defense Networks"
+        "company_type": "Defense Electronics Testing and Automation"
+      },
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Industrial Automation and Testing"
       }
     ]
   },
   {
-    "name": "Tesla, Inc.",
-    "ticker": "TSLA",
+    "name": "Rolls-Royce",
+    "ticker": "RR.LSE",
+    "exchange": "LSE",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Aerospace and Defense"
+      }
+    ]
+  },
+  {
+    "name": "GE Aerospace",
+    "ticker": "GE.NYSE",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Aerospace and Defense"
+      }
+    ]
+  },
+  {
+    "name": "Boeing",
+    "ticker": "BA.NYSE",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Aerospace and Defense"
+      }
+    ]
+  },
+  {
+    "name": "BAE Systems",
+    "ticker": "BAE.LSE",
+    "exchange": "LSE",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Aerospace and Defense"
+      }
+    ]
+  },
+  {
+    "name": "Saab AB",
+    "ticker": "SAAB.STO",
+    "exchange": "STO",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Aerospace and Defense"
+      }
+    ]
+  },
+  {
+    "name": "Leonardo S.p.A.",
+    "ticker": "LDO.BIT",
+    "exchange": "BIT",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Aerospace and Defense"
+      }
+    ]
+  },
+  {
+    "name": "L3Harris Technologies",
+    "ticker": "LHX.NYSE",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Aerospace and Defense"
+      }
+    ]
+  },
+  {
+    "name": "Kratos Defense & Security Solutions",
+    "ticker": "KTOS.NASDAQ",
     "exchange": "NASDAQ",
     "theses": [
       {
         "thesis_name": "Electrification",
-        "company_type": "Electric Vehicle Manufacturer / Battery Technology"
+        "company_type": "Aerospace and Defense"
+      }
+    ]
+  },
+  {
+    "name": "Rocket Lab",
+    "ticker": "RKLB.NASDAQ",
+    "exchange": "NASDAQ",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Aerospace and Defense"
+      }
+    ]
+  },
+  {
+    "name": "Teradyne",
+    "ticker": "TER.NASDAQ",
+    "exchange": "NASDAQ",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Industrial Automation and Testing"
+      }
+    ]
+  },
+  {
+    "name": "Caterpillar",
+    "ticker": "CAT",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Heavy Machinery OEM"
+      }
+    ]
+  },
+  {
+    "name": "Komatsu",
+    "ticker": "KMTUY",
+    "exchange": "OTC",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Heavy Machinery OEM"
+      }
+    ]
+  },
+  {
+    "name": "Volvo",
+    "ticker": "VOLV-B",
+    "exchange": "STO",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Heavy Machinery OEM"
+      }
+    ]
+  },
+  {
+    "name": "MP Materials",
+    "ticker": "MP",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Rare Earths Producer"
       },
       {
         "thesis_name": "Reshoring",
-        "company_type": "EV & Battery Manufacturing / Vertical Integration in US"
+        "company_type": "National Security Anchor"
       }
     ]
   },
   {
-    "name": "Rivian Automotive, Inc.",
-    "ticker": "RIVN",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Electric Vehicle Manufacturer / Adventure & Commercial"
-      }
-    ]
-  },
-  {
-    "name": "Lucid Group, Inc.",
-    "ticker": "LCID",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Luxury Electric Vehicle Manufacturer"
-      }
-    ]
-  },
-  {
-    "name": "NIO Inc.",
-    "ticker": "NIO",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Chinese Electric Vehicle Manufacturer / Battery Swapping"
-      }
-    ]
-  },
-  {
-    "name": "XPeng Inc.",
-    "ticker": "XPEV",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Chinese Electric Vehicle Manufacturer / Smart EV Technology"
-      }
-    ]
-  },
-  {
-    "name": "Li Auto Inc.",
-    "ticker": "LI",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Chinese Electric Vehicle Manufacturer / Extended-Range EVs"
-      }
-    ]
-  },
-  {
-    "name": "BYD Company Limited",
-    "ticker": "1211",
-    "exchange": "HKEX",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Electric Vehicle & Battery Manufacturer"
-      }
-    ]
-  },
-  {
-    "name": "Ford Motor Company",
-    "ticker": "F",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Legacy Automaker / EV Transition"
-      },
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Automotive / EV Battery Plant Development in US"
-      }
-    ]
-  },
-  {
-    "name": "General Motors Company",
-    "ticker": "GM",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Legacy Automaker / Ultium Battery Platform"
-      },
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Automotive / Battery Supply Chain Localization"
-      }
-    ]
-  },
-  {
-    "name": "Volkswagen AG",
-    "ticker": "VOW3",
+    "name": "Siemens Energy",
+    "ticker": "ENR.XETRA",
     "exchange": "XETRA",
     "theses": [
       {
         "thesis_name": "Electrification",
-        "company_type": "Legacy Automaker / MEB Platform"
+        "company_type": "Grid Infrastructure and T&D Hardware"
       }
     ]
   },
   {
-    "name": "ChargePoint Holdings, Inc.",
-    "ticker": "CHPT",
+    "name": "Schneider Electric",
+    "ticker": "SU.PARIS",
+    "exchange": "Euronext Paris",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Grid Infrastructure and T&D Equipment Provider"
+      }
+    ]
+  },
+  {
+    "name": "ABB",
+    "ticker": "ABBN.SIX",
+    "exchange": "SIX Swiss Exchange",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Grid Infrastructure and T&D Equipment Provider"
+      }
+    ]
+  },
+  {
+    "name": "GE Vernova",
+    "ticker": "GEV.NYSE",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Electrification",
-        "company_type": "EV Charging Network Operator"
+        "company_type": "Grid Software and Modernization"
       }
     ]
   },
   {
-    "name": "EVgo Inc.",
-    "ticker": "EVGO",
-    "exchange": "NASDAQ",
+    "name": "Umicore",
+    "ticker": "UMI",
+    "exchange": "Euronext Brussels",
     "theses": [
       {
         "thesis_name": "Electrification",
-        "company_type": "Fast Charging Network Operator"
+        "company_type": "Battery Recycling and Materials Technology"
       }
     ]
   },
   {
-    "name": "Blink Charging Co.",
-    "ticker": "BLNK",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "EV Charging Equipment & Services"
-      }
-    ]
-  },
-  {
-    "name": "Wallbox N.V.",
-    "ticker": "WBX",
+    "name": "Li-Cycle",
+    "ticker": "LICY",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Electrification",
-        "company_type": "Smart EV Charging Solutions"
+        "company_type": "Lithium-ion Battery Recycling"
       }
     ]
   },
   {
-    "name": "Albemarle Corporation",
+    "name": "Sibanye-Stillwater",
+    "ticker": "SBSW",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "PGMs Producer"
+      }
+    ]
+  },
+  {
+    "name": "Lithium Americas",
+    "ticker": "LAC",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Developer"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Lithium Producer"
+      }
+    ]
+  },
+  {
+    "name": "BHP",
+    "ticker": "BHP",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Mining and Metals"
+      }
+    ]
+  },
+  {
+    "name": "Rio Tinto",
+    "ticker": "RIO",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Diversified Miner"
+      }
+    ]
+  },
+  {
+    "name": "Alcoa",
+    "ticker": "AA",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Aluminum Producer"
+      }
+    ]
+  },
+  {
+    "name": "Prysmian",
+    "ticker": "PRY",
+    "exchange": "BIT",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Cable and Energy Systems"
+      }
+    ]
+  },
+  {
+    "name": "Albemarle",
     "ticker": "ALB",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Electrification",
-        "company_type": "Lithium Mining & Processing"
+        "company_type": "Large-cap producer"
       },
       {
         "thesis_name": "Reshoring",
-        "company_type": "Critical Minerals / Lithium Processing in US"
+        "company_type": "Lithium and Specialty Chemicals"
       }
     ]
   },
   {
-    "name": "Sociedad Qu\u00edmica y Minera de Chile S.A.",
-    "ticker": "SQM",
+    "name": "General Motors",
+    "ticker": "GM",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Electrification",
-        "company_type": "Lithium Mining & Specialty Chemicals"
-      }
-    ]
-  },
-  {
-    "name": "Livent Corporation",
-    "ticker": "LTHM",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Pure-play Lithium Producer"
-      }
-    ]
-  },
-  {
-    "name": "Freeport-McMoRan Inc.",
-    "ticker": "FCX",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Copper Mining / Electrification Infrastructure"
+        "company_type": "Automotive Manufacturer"
       },
       {
         "thesis_name": "Reshoring",
-        "company_type": "Critical Minerals / Copper Production for US Infrastructure"
+        "company_type": "Automotive manufacturer and magnet consumer"
       }
     ]
   },
   {
-    "name": "Southern Copper Corporation",
-    "ticker": "SCCO",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Copper Mining"
-      }
-    ]
-  },
-  {
-    "name": "Glencore plc",
-    "ticker": "GLEN",
-    "exchange": "LSE",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Copper, Cobalt & Nickel Mining"
-      }
-    ]
-  },
-  {
-    "name": "Contemporary Amperex Technology Co., Limited",
-    "ticker": "300750",
-    "exchange": "SZSE",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "EV Battery Manufacturer"
-      }
-    ]
-  },
-  {
-    "name": "Panasonic Holdings Corporation",
-    "ticker": "6752",
-    "exchange": "TSE",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "EV Battery Manufacturer / Electronics"
-      }
-    ]
-  },
-  {
-    "name": "LG Energy Solution, Ltd.",
-    "ticker": "373220",
-    "exchange": "KRX",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "EV Battery Manufacturer"
-      }
-    ]
-  },
-  {
-    "name": "QuantumScape Corporation",
-    "ticker": "QS",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Solid-State Battery Development"
-      }
-    ]
-  },
-  {
-    "name": "Solid Power, Inc.",
-    "ticker": "SLDP",
+    "name": "Apple",
+    "ticker": "AAPL",
     "exchange": "NASDAQ",
     "theses": [
       {
         "thesis_name": "Electrification",
-        "company_type": "Solid-State Battery Development"
+        "company_type": "Technology"
       }
     ]
   },
   {
-    "name": "NextEra Energy, Inc.",
-    "ticker": "NEE",
+    "name": "Lundin Mining",
+    "ticker": "LUN",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Copper and zinc producer"
+      }
+    ]
+  },
+  {
+    "name": "Siemens Energy",
+    "ticker": "ENR",
+    "exchange": "ETR",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Grid management and transformer production"
+      }
+    ]
+  },
+  {
+    "name": "Vertiv Holdings",
+    "ticker": "VRT",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Electrification",
-        "company_type": "Renewable Energy Utility / Grid Modernization"
+        "company_type": "Data Center Infrastructure"
       }
     ]
   },
   {
-    "name": "Eaton Corporation plc",
+    "name": "Eaton Corporation",
     "ticker": "ETN",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Electrification",
-        "company_type": "Electrical Power Management / Grid Infrastructure"
-      },
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Electrical Infrastructure / Powering New US Industrial Capacity"
+        "company_type": "Power distribution and electrical solutions"
       }
     ]
   },
   {
-    "name": "Schneider Electric SE",
-    "ticker": "SU",
+    "name": "Atlas Copco",
+    "ticker": "ATCO",
+    "exchange": "STO",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Industrial heat pump manufacturer"
+      }
+    ]
+  },
+  {
+    "name": "Sprott Energy Transition Materials ETF",
+    "ticker": "SETM",
+    "exchange": "NASDAQ",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Thematic Diversification"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Investment Fund"
+      }
+    ]
+  },
+  {
+    "name": "Global X Lithium & Battery Tech ETF",
+    "ticker": "LIT",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Investment Vehicle"
+      }
+    ]
+  },
+  {
+    "name": "Sociedad Qu\u00edmica y Minera de Chile",
+    "ticker": "SQM",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Lithium Producer"
+      }
+    ]
+  },
+  {
+    "name": "Southern Copper",
+    "ticker": "SCCO",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Mining and Metals"
+      }
+    ]
+  },
+  {
+    "name": "Teck Resources",
+    "ticker": "TECK",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Copper Miner"
+      }
+    ]
+  },
+  {
+    "name": "Schneider Electric",
+    "ticker": "SU.PAR",
     "exchange": "Euronext Paris",
     "theses": [
       {
         "thesis_name": "Electrification",
-        "company_type": "Energy Management & Automation"
+        "company_type": "Industrial Automation and Electrified Heat"
       }
     ]
   },
   {
-    "name": "ABB Ltd",
+    "name": "Vertiv",
+    "ticker": "VRT.NYSE",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "AI Power and Cooling Infrastructure"
+      }
+    ]
+  },
+  {
+    "name": "Prysmian Group",
+    "ticker": "PRY.BIT",
+    "exchange": "Borsa Italiana",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Cable Manufacturing and HVDC Interconnects"
+      }
+    ]
+  },
+  {
+    "name": "Atlas Copco",
+    "ticker": "ATCO-A.STO",
+    "exchange": "Nasdaq Stockholm",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Industrial Heat and Turbo-compression"
+      }
+    ]
+  },
+  {
+    "name": "Atlas Copco",
+    "ticker": "ATCO.STO",
+    "exchange": "Nasdaq Stockholm",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Industrial Equipment and Electrification Infrastructure"
+      }
+    ]
+  },
+  {
+    "name": "Prysmian Group",
+    "ticker": "PRY",
+    "exchange": "Borsa Italiana",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Cable and Energy Transmission Systems"
+      }
+    ]
+  },
+  {
+    "name": "Atlas Copco",
+    "ticker": "ATCO-A",
+    "exchange": "Nasdaq Stockholm",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Industrial Equipment and Electrification Infrastructure"
+      }
+    ]
+  },
+  {
+    "name": "Atlas Copco",
+    "ticker": "ATCO",
+    "exchange": "Nasdaq Stockholm",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Industrial Equipment and Electrification Infrastructure"
+      }
+    ]
+  },
+  {
+    "name": "BHP Group",
+    "ticker": "BHP",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Large-cap producer"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Diversified Miner"
+      }
+    ]
+  },
+  {
+    "name": "ABB",
     "ticker": "ABBN",
-    "exchange": "SIX",
+    "exchange": "SIX Swiss Exchange",
     "theses": [
       {
         "thesis_name": "Electrification",
-        "company_type": "Electrification & Automation Technology"
+        "company_type": "Power Grids and Electrification Technology"
       }
     ]
   },
   {
-    "name": "Quanta Services, Inc.",
-    "ticker": "PWR",
+    "name": "Siemens Energy",
+    "ticker": "ENR",
+    "exchange": "XETRA",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Energy Systems and Electrification"
+      }
+    ]
+  },
+  {
+    "name": "Goldman Sachs",
+    "ticker": "GS",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Electrification",
-        "company_type": "Electric Power Infrastructure Services"
+        "company_type": "Financial Services and Investment Banking"
       },
       {
         "thesis_name": "Reshoring",
-        "company_type": "Infrastructure Services / Grid Modernization for Reshoring"
+        "company_type": "Financial Services and Investment Research"
       }
     ]
   },
   {
-    "name": "Enphase Energy, Inc.",
-    "ticker": "ENPH",
-    "exchange": "NASDAQ",
+    "name": "Orion CMC",
+    "ticker": "ORION",
+    "exchange": "TSX",
     "theses": [
       {
         "thesis_name": "Electrification",
-        "company_type": "Solar Microinverters / Home Energy Management"
-      },
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Solar Microinverters / US Manufacturing Incentives"
+        "company_type": "Mining and Mineral Exploration"
       }
     ]
   },
   {
-    "name": "SolarEdge Technologies, Inc.",
-    "ticker": "SEDG",
-    "exchange": "NASDAQ",
+    "name": "Glencore",
+    "ticker": "GLEN",
+    "exchange": "LSE",
     "theses": [
       {
         "thesis_name": "Electrification",
-        "company_type": "Solar Inverters / Power Optimizers"
+        "company_type": "Mining and Commodity Trading"
       }
     ]
   },
   {
-    "name": "First Solar, Inc.",
-    "ticker": "FSLR",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Thin-Film Solar Module Manufacturer"
-      },
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Solar Module Manufacturing / US Domestic Supply Chain"
-      }
-    ]
-  },
-  {
-    "name": "Sunrun Inc.",
-    "ticker": "RUN",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Residential Solar & Storage"
-      }
-    ]
-  },
-  {
-    "name": "Generac Holdings Inc.",
-    "ticker": "GNRC",
+    "name": "Freeport-McMoRan",
+    "ticker": "FCX",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Electrification",
-        "company_type": "Backup Power / Home Energy Storage"
+        "company_type": "Copper Producer"
       }
     ]
   },
   {
-    "name": "Wolfspeed, Inc.",
-    "ticker": "WOLF",
+    "name": "Glencore",
+    "ticker": "GLNCY",
+    "exchange": "OTC",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Mining and Metals"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Cobalt Producer and Refiner"
+      }
+    ]
+  },
+  {
+    "name": "Pilbara Minerals",
+    "ticker": "PLS",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Lithium Producer"
+      }
+    ]
+  },
+  {
+    "name": "Hudbay Minerals",
+    "ticker": "HBM",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Electrification",
-        "company_type": "Silicon Carbide (SiC) Power Semiconductors"
-      },
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Silicon Carbide (SiC) Manufacturing / US Expansion"
+        "company_type": "Copper producer"
       }
     ]
   },
   {
-    "name": "ON Semiconductor Corporation",
-    "ticker": "ON",
+    "name": "Capstone Copper",
+    "ticker": "CS",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Copper producer"
+      }
+    ]
+  },
+  {
+    "name": "Sigma Lithium",
+    "ticker": "SGML",
     "exchange": "NASDAQ",
     "theses": [
       {
         "thesis_name": "Electrification",
-        "company_type": "Power Semiconductors for EVs & Industrial"
+        "company_type": "Lithium producer"
       }
     ]
   },
   {
-    "name": "STMicroelectronics N.V.",
-    "ticker": "STM",
+    "name": "Iluka Resources",
+    "ticker": "ILU",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Developer"
+      }
+    ]
+  },
+  {
+    "name": "Faraday Copper",
+    "ticker": "FDY",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Copper Developer"
+      }
+    ]
+  },
+  {
+    "name": "Platinum Group",
+    "ticker": "PTM",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Electrification",
-        "company_type": "Power Semiconductors / SiC Technology"
+        "company_type": "PGM and Nickel Developer"
       }
     ]
   },
   {
-    "name": "Newmont Corporation",
-    "ticker": "NEM",
+    "name": "DLP Resources",
+    "ticker": "DLP",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Copper and Molybdenum Developer"
+      }
+    ]
+  },
+  {
+    "name": "Aclara Resources",
+    "ticker": "ARA",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Rare Earths Developer"
+      }
+    ]
+  },
+  {
+    "name": "Stria Lithium",
+    "ticker": "SRA",
+    "exchange": "TSXV",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Lithium Exploration and Development"
+      },
+      {
+        "thesis_name": "Gold",
+        "company_type": "Lithium Exploration"
+      }
+    ]
+  },
+  {
+    "name": "Oreterra Metals",
+    "ticker": "OTMC",
+    "exchange": "TSXV",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Copper-Gold Exploration"
+      },
+      {
+        "thesis_name": "Gold",
+        "company_type": "Metals Exploration"
+      }
+    ]
+  },
+  {
+    "name": "NorthIsle",
+    "ticker": "NCX",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Copper-Gold Exploration and Development"
+      },
+      {
+        "thesis_name": "Gold",
+        "company_type": "Copper and Gold Exploration"
+      }
+    ]
+  },
+  {
+    "name": "Clean Air Metals",
+    "ticker": "AIR",
+    "exchange": "TSXV",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "PGM Exploration"
+      },
+      {
+        "thesis_name": "Gold",
+        "company_type": "Precious Metals Exploration"
+      }
+    ]
+  },
+  {
+    "name": "GoldHaven Resources",
+    "ticker": "GOH",
+    "exchange": "CSE",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Critical Minerals Exploration"
+      },
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Exploration"
+      }
+    ]
+  },
+  {
+    "name": "New Age Metals",
+    "ticker": "NAM",
+    "exchange": "TSXV",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "PGM and Nickel Exploration"
+      },
+      {
+        "thesis_name": "Gold",
+        "company_type": "Metals Exploration"
+      }
+    ]
+  },
+  {
+    "name": "Consolidated Lithium",
+    "ticker": "CLM",
+    "exchange": "TSXV",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Lithium Exploration"
+      },
+      {
+        "thesis_name": "Gold",
+        "company_type": "Lithium Exploration"
+      }
+    ]
+  },
+  {
+    "name": "EagleOne Metals",
+    "ticker": "EAGL",
+    "exchange": "CSE",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Critical Minerals Exploration and Development"
+      },
+      {
+        "thesis_name": "Gold",
+        "company_type": "Metals Exploration"
+      }
+    ]
+  },
+  {
+    "name": "GoldHaven",
+    "ticker": "GOH",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Junior explorer"
+      },
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Exploration"
+      }
+    ]
+  },
+  {
+    "name": "Oreterra",
+    "ticker": "ORE",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Junior explorer"
+      },
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Mining Company"
+      }
+    ]
+  },
+  {
+    "name": "Sprott Physical Gold Trust",
+    "ticker": "PHYS",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Gold",
-        "company_type": "Senior Gold Producer / Diversified Global Mining"
+        "company_type": "Gold ETF/Trust"
       }
     ]
   },
   {
-    "name": "Barrick Gold Corporation",
-    "ticker": "GOLD",
+    "name": "iShares Gold Trust",
+    "ticker": "IAU",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Gold",
-        "company_type": "Senior Gold Producer / Tier One Assets"
+        "company_type": "Gold ETF/Trust"
       }
     ]
   },
   {
-    "name": "Agnico Eagle Mines Limited",
+    "name": "SPDR Gold Shares",
+    "ticker": "GLD",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold ETF/Trust"
+      }
+    ]
+  },
+  {
+    "name": "Agnico Eagle Mines",
     "ticker": "AEM",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Gold",
-        "company_type": "Senior Gold Producer / Low-Risk Jurisdictions"
+        "company_type": "Gold Mining Company"
       }
     ]
   },
   {
-    "name": "AngloGold Ashanti plc",
+    "name": "Northern Star Resources",
+    "ticker": "NST",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Mining Company"
+      }
+    ]
+  },
+  {
+    "name": "Barrick Gold",
+    "ticker": "GOLD",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Mining Company"
+      }
+    ]
+  },
+  {
+    "name": "Franco-Nevada",
+    "ticker": "FNV",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Streaming/Royalty Company"
+      }
+    ]
+  },
+  {
+    "name": "Wheaton Precious Metals",
+    "ticker": "WPM",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Streaming/Royalty Company"
+      }
+    ]
+  },
+  {
+    "name": "Newmont",
+    "ticker": "NEM",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Mining Company"
+      }
+    ]
+  },
+  {
+    "name": "AngloGold Ashanti",
     "ticker": "AU",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Gold",
-        "company_type": "Senior Gold Producer / Emerging Markets Exposure"
+        "company_type": "Senior Gold Producer"
       }
     ]
   },
   {
-    "name": "Gold Fields Limited",
-    "ticker": "GFI",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Senior Gold Producer / Global Operations"
-      }
-    ]
-  },
-  {
-    "name": "Kinross Gold Corporation",
+    "name": "Kinross Gold",
     "ticker": "KGC",
     "exchange": "NYSE",
     "theses": [
@@ -1399,618 +1756,438 @@
     ]
   },
   {
-    "name": "Northern Star Resources Limited",
-    "ticker": "NST",
-    "exchange": "ASX",
+    "name": "Gold Fields",
+    "ticker": "GFI",
+    "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Gold",
-        "company_type": "Senior Gold Producer / Australian Focus"
+        "company_type": "Senior Gold Producer"
       }
     ]
   },
   {
-    "name": "Evolution Mining Limited",
+    "name": "Evolution Mining",
     "ticker": "EVN",
     "exchange": "ASX",
     "theses": [
       {
         "thesis_name": "Gold",
-        "company_type": "Mid-Tier Gold Producer / Australian Focus"
+        "company_type": "Intermediate Gold Producer"
       }
     ]
   },
   {
-    "name": "Endeavour Mining plc",
-    "ticker": "EDV",
-    "exchange": "LSE",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Senior Gold Producer / West African Focus"
-      }
-    ]
-  },
-  {
-    "name": "Alamos Gold Inc.",
+    "name": "Alamos Gold",
     "ticker": "AGI",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Gold",
-        "company_type": "Mid-Tier Gold Producer / North American Focus"
+        "company_type": "Intermediate Gold Producer"
       }
     ]
   },
   {
-    "name": "B2Gold Corp.",
+    "name": "B2Gold",
     "ticker": "BTG",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Gold",
-        "company_type": "Mid-Tier Gold Producer / International Operations"
+        "company_type": "Intermediate Gold Producer"
       }
     ]
   },
   {
-    "name": "IAMGOLD Corporation",
-    "ticker": "IAG",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Mid-Tier Gold Producer"
-      }
-    ]
-  },
-  {
-    "name": "Eldorado Gold Corporation",
-    "ticker": "EGO",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Mid-Tier Gold Producer"
-      }
-    ]
-  },
-  {
-    "name": "Equinox Gold Corp.",
-    "ticker": "EQX",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Mid-Tier Gold Producer / Americas Focus"
-      }
-    ]
-  },
-  {
-    "name": "Centerra Gold Inc.",
-    "ticker": "CGAU",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Mid-Tier Gold Producer"
-      }
-    ]
-  },
-  {
-    "name": "OceanaGold Corporation",
-    "ticker": "OGC",
+    "name": "Endeavour Mining",
+    "ticker": "EDV",
     "exchange": "TSX",
     "theses": [
       {
         "thesis_name": "Gold",
-        "company_type": "Mid-Tier Gold Producer"
+        "company_type": "Intermediate Gold Producer"
       }
     ]
   },
   {
-    "name": "Dundee Precious Metals Inc.",
-    "ticker": "DPM",
-    "exchange": "TSX",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Mid-Tier Gold Producer"
-      }
-    ]
-  },
-  {
-    "name": "Perseus Mining Limited",
-    "ticker": "PRU",
-    "exchange": "ASX",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Mid-Tier Gold Producer / African Focus"
-      }
-    ]
-  },
-  {
-    "name": "Regis Resources Limited",
-    "ticker": "RRL",
-    "exchange": "ASX",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Mid-Tier Gold Producer / Australian Focus"
-      }
-    ]
-  },
-  {
-    "name": "Franco-Nevada Corporation",
-    "ticker": "FNV",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Gold Royalty & Streaming / Large-Cap"
-      }
-    ]
-  },
-  {
-    "name": "Wheaton Precious Metals Corp.",
-    "ticker": "WPM",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Gold & Silver Streaming / Large-Cap"
-      }
-    ]
-  },
-  {
-    "name": "Royal Gold, Inc.",
-    "ticker": "RGLD",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Gold Royalty & Streaming"
-      }
-    ]
-  },
-  {
-    "name": "Osisko Gold Royalties Ltd",
-    "ticker": "OR",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Gold Royalty & Streaming / Intermediate"
-      }
-    ]
-  },
-  {
-    "name": "Sandstorm Gold Ltd.",
-    "ticker": "SAND",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Gold Royalty & Streaming / Intermediate"
-      }
-    ]
-  },
-  {
-    "name": "Triple Flag Precious Metals Corp.",
-    "ticker": "TFPM",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Gold Royalty & Streaming / Intermediate"
-      }
-    ]
-  },
-  {
-    "name": "Gold Royalty Corp.",
-    "ticker": "GROY",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Gold Royalty & Streaming / Junior"
-      }
-    ]
-  },
-  {
-    "name": "Victoria Gold Corp.",
-    "ticker": "VGCX",
-    "exchange": "TSX",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Junior Gold Producer / Yukon Focus"
-      }
-    ]
-  },
-  {
-    "name": "K92 Mining Inc.",
-    "ticker": "KNT",
-    "exchange": "TSX",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Junior Gold Producer / Papua New Guinea"
-      }
-    ]
-  },
-  {
-    "name": "Wesdome Gold Mines Ltd.",
-    "ticker": "WDO",
-    "exchange": "TSX",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Junior Gold Producer / Canadian Focus"
-      }
-    ]
-  },
-  {
-    "name": "Karora Resources Inc.",
-    "ticker": "KRR",
-    "exchange": "TSX",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Junior Gold Producer / Australian Focus"
-      }
-    ]
-  },
-  {
-    "name": "Calibre Mining Corp.",
-    "ticker": "CXB",
-    "exchange": "TSX",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Junior Gold Producer / Central America"
-      }
-    ]
-  },
-  {
-    "name": "Orla Mining Ltd.",
-    "ticker": "OLA",
-    "exchange": "TSX",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Junior Gold Producer / Mexico Focus"
-      }
-    ]
-  },
-  {
-    "name": "Lundin Gold Inc.",
+    "name": "Lundin Gold",
     "ticker": "LUG",
     "exchange": "TSX",
     "theses": [
       {
         "thesis_name": "Gold",
-        "company_type": "Junior Gold Producer / Ecuador Focus"
+        "company_type": "Intermediate Gold Producer"
       }
     ]
   },
   {
-    "name": "Skeena Resources Limited",
+    "name": "SSR Mining",
+    "ticker": "SSRM",
+    "exchange": "NASDAQ",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Intermediate Gold Producer"
+      }
+    ]
+  },
+  {
+    "name": "OceanaGold",
+    "ticker": "OGC",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Intermediate Gold Producer"
+      }
+    ]
+  },
+  {
+    "name": "Wesdome Gold Mines",
+    "ticker": "WDO",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Small-Cap Gold Producer"
+      }
+    ]
+  },
+  {
+    "name": "G Mining Ventures",
+    "ticker": "GMIN",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Small-Cap Gold Producer"
+      }
+    ]
+  },
+  {
+    "name": "Aura Minerals",
+    "ticker": "AUGO",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Small-Cap Gold Producer"
+      }
+    ]
+  },
+  {
+    "name": "Rio2 Ltd",
+    "ticker": "RIO",
+    "exchange": "TSX-V",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Small-Cap Gold Producer"
+      }
+    ]
+  },
+  {
+    "name": "Heliostar Metals",
+    "ticker": "HSTR",
+    "exchange": "TSX-V",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Small-Cap Gold Producer"
+      }
+    ]
+  },
+  {
+    "name": "1911 Gold",
+    "ticker": "AUMB",
+    "exchange": "TSX-V",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Small-Cap Gold Producer"
+      }
+    ]
+  },
+  {
+    "name": "Contango Ore",
+    "ticker": "CTGO",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Small-Cap Gold Producer"
+      }
+    ]
+  },
+  {
+    "name": "Discovery Silver",
+    "ticker": "DSV",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Small-Cap Gold Producer"
+      }
+    ]
+  },
+  {
+    "name": "Artemis Gold",
+    "ticker": "ARTG",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Developer"
+      }
+    ]
+  },
+  {
+    "name": "Skeena",
     "ticker": "SKE",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Gold Exploration & Development / Golden Triangle"
-      }
-    ]
-  },
-  {
-    "name": "Novagold Resources Inc.",
-    "ticker": "NG",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Gold Development / Donlin Gold Project"
-      }
-    ]
-  },
-  {
-    "name": "Seabridge Gold Inc.",
-    "ticker": "SA",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Gold Development / Large Resource Base"
-      }
-    ]
-  },
-  {
-    "name": "De Grey Mining Limited",
-    "ticker": "DEG",
-    "exchange": "ASX",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Gold Exploration & Development / Hemi Discovery"
-      }
-    ]
-  },
-  {
-    "name": "Bellevue Gold Limited",
-    "ticker": "BGL",
-    "exchange": "ASX",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Gold Development / High-Grade Australian Asset"
-      }
-    ]
-  },
-  {
-    "name": "Cameco Corporation",
-    "ticker": "CCJ",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Uranium Producer / Fuel Services"
-      }
-    ]
-  },
-  {
-    "name": "Kazatomprom",
-    "ticker": "KAP",
-    "exchange": "LSE",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Uranium Producer"
-      }
-    ]
-  },
-  {
-    "name": "NexGen Energy Ltd.",
-    "ticker": "NXE",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Uranium Development / Arrow Project"
-      }
-    ]
-  },
-  {
-    "name": "Denison Mines Corp.",
-    "ticker": "DNN",
-    "exchange": "NYSE American",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Uranium Development / Wheeler River"
-      }
-    ]
-  },
-  {
-    "name": "Fission Uranium Corp.",
-    "ticker": "FCU",
     "exchange": "TSX",
     "theses": [
       {
-        "thesis_name": "Nuclear",
-        "company_type": "Uranium Development / PLS Project"
+        "thesis_name": "Gold",
+        "company_type": "Developer"
       }
     ]
   },
   {
-    "name": "Energy Fuels Inc.",
-    "ticker": "UUUU",
-    "exchange": "NYSE American",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Uranium & Rare Earths Producer"
-      }
-    ]
-  },
-  {
-    "name": "Ur-Energy Inc.",
-    "ticker": "URG",
-    "exchange": "NYSE American",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Uranium Producer / ISR Mining"
-      }
-    ]
-  },
-  {
-    "name": "Uranium Energy Corp.",
-    "ticker": "UEC",
-    "exchange": "NYSE American",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Uranium Producer / ISR Mining"
-      }
-    ]
-  },
-  {
-    "name": "EnCore Energy Corp.",
-    "ticker": "EU",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Uranium Producer / ISR Mining"
-      }
-    ]
-  },
-  {
-    "name": "Paladin Energy Ltd",
-    "ticker": "PDN",
-    "exchange": "ASX",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Uranium Producer / Langer Heinrich Mine"
-      }
-    ]
-  },
-  {
-    "name": "Boss Energy Limited",
-    "ticker": "BOE",
-    "exchange": "ASX",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Uranium Producer / Honeymoon Project"
-      }
-    ]
-  },
-  {
-    "name": "Deep Yellow Limited",
-    "ticker": "DYL",
-    "exchange": "ASX",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Uranium Development / Tumas Project"
-      }
-    ]
-  },
-  {
-    "name": "Bannerman Energy Ltd",
-    "ticker": "BMN",
-    "exchange": "ASX",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Uranium Development / Etango Project"
-      }
-    ]
-  },
-  {
-    "name": "Lotus Resources Limited",
-    "ticker": "LOT",
-    "exchange": "ASX",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Uranium Development / Kayelekera Mine"
-      }
-    ]
-  },
-  {
-    "name": "Global Atomic Corporation",
-    "ticker": "GLO",
+    "name": "Cabral Gold",
+    "ticker": "CBR",
     "exchange": "TSX",
     "theses": [
       {
-        "thesis_name": "Nuclear",
-        "company_type": "Uranium Development / Dasa Project"
+        "thesis_name": "Gold",
+        "company_type": "Gold Developer"
       }
     ]
   },
   {
-    "name": "GoviEx Uranium Inc.",
-    "ticker": "GXU",
-    "exchange": "TSXV",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Uranium Exploration & Development"
-      }
-    ]
-  },
-  {
-    "name": "Forsys Metals Corp.",
-    "ticker": "FSY",
+    "name": "NexGold",
+    "ticker": "NEXG",
     "exchange": "TSX",
     "theses": [
       {
-        "thesis_name": "Nuclear",
-        "company_type": "Uranium Exploration & Development"
+        "thesis_name": "Gold",
+        "company_type": "Gold Developer"
       }
     ]
   },
   {
-    "name": "IsoEnergy Ltd.",
-    "ticker": "ISO",
-    "exchange": "TSXV",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Uranium Exploration / Hurricane Discovery"
-      }
-    ]
-  },
-  {
-    "name": "CanAlaska Uranium Ltd.",
-    "ticker": "CVV",
-    "exchange": "TSXV",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Uranium Exploration"
-      }
-    ]
-  },
-  {
-    "name": "Uranium Royalty Corp.",
-    "ticker": "UROY",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Uranium Royalty & Streaming"
-      }
-    ]
-  },
-  {
-    "name": "Yellow Cake plc",
-    "ticker": "YCA",
-    "exchange": "LSE",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Physical Uranium Investment Vehicle"
-      }
-    ]
-  },
-  {
-    "name": "Sprott Physical Uranium Trust",
-    "ticker": "U.UN",
+    "name": "Revival Gold",
+    "ticker": "RVG",
     "exchange": "TSX",
     "theses": [
       {
-        "thesis_name": "Nuclear",
-        "company_type": "Physical Uranium Investment Vehicle"
+        "thesis_name": "Gold",
+        "company_type": "Gold Developer"
       }
     ]
   },
   {
-    "name": "Centrus Energy Corp.",
+    "name": "First Mining Gold",
+    "ticker": "N/A",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Developer"
+      }
+    ]
+  },
+  {
+    "name": "Snowline Gold",
+    "ticker": "SGD",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Explorer"
+      }
+    ]
+  },
+  {
+    "name": "Tudor Gold",
+    "ticker": "TUD",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Exploration and Development"
+      }
+    ]
+  },
+  {
+    "name": "Dryden Gold",
+    "ticker": "DRY",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Exploration and Development"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Gold Exploration"
+      }
+    ]
+  },
+  {
+    "name": "Onyx Gold",
+    "ticker": "ONYX",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Exploration and Development"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Gold Exploration"
+      }
+    ]
+  },
+  {
+    "name": "Sitka Gold",
+    "ticker": "SIG",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Exploration"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Gold Exploration"
+      }
+    ]
+  },
+  {
+    "name": "Prospector Metals",
+    "ticker": "PPP",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Exploration"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Mineral Exploration"
+      }
+    ]
+  },
+  {
+    "name": "Lahontan Gold",
+    "ticker": "LG",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Exploration"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Mineral Exploration"
+      }
+    ]
+  },
+  {
+    "name": "Delta Resources",
+    "ticker": "DLTA",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Exploration"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Mineral Exploration"
+      }
+    ]
+  },
+  {
+    "name": "Fortune Bay",
+    "ticker": "FOR",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold and Uranium Exploration"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Mineral Exploration"
+      }
+    ]
+  },
+  {
+    "name": "Perseus Mining",
+    "ticker": "PRU",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Senior Producer"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Gold Mining"
+      }
+    ]
+  },
+  {
+    "name": "Vista Gold",
+    "ticker": "VGZ",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Developer"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Gold Mining"
+      }
+    ]
+  },
+  {
+    "name": "First Mining Gold",
+    "ticker": "FF",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Junior Developer"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Gold Mining"
+      }
+    ]
+  },
+  {
+    "name": "Centrus Energy",
     "ticker": "LEU",
-    "exchange": "NYSE American",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Nuclear Fuel Enrichment / HALEU Production"
-      }
-    ]
-  },
-  {
-    "name": "NuScale Power Corporation",
-    "ticker": "SMR",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Nuclear",
-        "company_type": "Small Modular Reactor (SMR) Design"
+        "company_type": "Nuclear Fuel Services"
+      }
+    ]
+  },
+  {
+    "name": "Constellation Energy",
+    "ticker": "CEG",
+    "exchange": "NASDAQ",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Nuclear Utility"
       }
     ]
   },
@@ -2021,422 +2198,814 @@
     "theses": [
       {
         "thesis_name": "Nuclear",
-        "company_type": "Advanced Fission / Micro-reactor Development"
+        "company_type": "Advanced Nuclear Reactor Developer"
       }
     ]
   },
   {
-    "name": "Constellation Energy Corporation",
-    "ticker": "CEG",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Nuclear Power Generation / Largest US Fleet"
-      }
-    ]
-  },
-  {
-    "name": "Vistra Corp.",
-    "ticker": "VST",
+    "name": "Cameco",
+    "ticker": "CCJ",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Nuclear",
-        "company_type": "Nuclear Power Generation / Integrated Utility"
+        "company_type": "Integrated Uranium Producer"
       }
     ]
   },
   {
-    "name": "Public Service Enterprise Group Incorporated",
-    "ticker": "PEG",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Nuclear Power Generation / Utility"
-      }
-    ]
-  },
-  {
-    "name": "Dominion Energy, Inc.",
-    "ticker": "D",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Nuclear Power Generation / Utility"
-      }
-    ]
-  },
-  {
-    "name": "Southern Company",
-    "ticker": "SO",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Nuclear Power Generation / Vogtle Plant Operator"
-      }
-    ]
-  },
-  {
-    "name": "Duke Energy Corporation",
-    "ticker": "DUK",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Nuclear Power Generation / Utility"
-      }
-    ]
-  },
-  {
-    "name": "Entergy Corporation",
-    "ticker": "ETR",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Nuclear Power Generation / Utility"
-      }
-    ]
-  },
-  {
-    "name": "Cameco Corporation",
-    "ticker": "CCO",
-    "exchange": "TSX",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Uranium Producer / Fuel Services"
-      }
-    ]
-  },
-  {
-    "name": "Orano SA",
-    "ticker": "ORANO",
-    "exchange": "Euronext Paris",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Nuclear Fuel Cycle / Enrichment & Recycling"
-      }
-    ]
-  },
-  {
-    "name": "Mitsubishi Heavy Industries, Ltd.",
-    "ticker": "7011",
-    "exchange": "TSE",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Nuclear Reactor Construction / SMR Development"
-      }
-    ]
-  },
-  {
-    "name": "Rolls-Royce Holdings plc",
-    "ticker": "RR.",
+    "name": "Kazatomprom",
+    "ticker": "KAP",
     "exchange": "LSE",
     "theses": [
       {
         "thesis_name": "Nuclear",
-        "company_type": "SMR Development / Nuclear Engineering"
+        "company_type": "Pure-Play Mining"
       }
     ]
   },
   {
-    "name": "GE Vernova Inc.",
+    "name": "Paladin Energy",
+    "ticker": "PDN",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Pure-Play Mining"
+      }
+    ]
+  },
+  {
+    "name": "Boss Energy",
+    "ticker": "BOE",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Miner"
+      }
+    ]
+  },
+  {
+    "name": "Energy Fuels",
+    "ticker": "UUUU",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Miner"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Midstream Re-Processor"
+      }
+    ]
+  },
+  {
+    "name": "Ur-Energy",
+    "ticker": "URG",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Miner"
+      }
+    ]
+  },
+  {
+    "name": "enCore Energy",
+    "ticker": "EU",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Miner"
+      }
+    ]
+  },
+  {
+    "name": "Lotus Resources",
+    "ticker": "LOT",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Miner"
+      }
+    ]
+  },
+  {
+    "name": "CGN Mining",
+    "ticker": "1164.HK",
+    "exchange": "HKEX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Miner"
+      }
+    ]
+  },
+  {
+    "name": "NexGen Energy",
+    "ticker": "NXE",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Developer"
+      }
+    ]
+  },
+  {
+    "name": "Denison Mines",
+    "ticker": "DNN",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Developer"
+      }
+    ]
+  },
+  {
+    "name": "Deep Yellow",
+    "ticker": "DYL",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Advanced Developers"
+      }
+    ]
+  },
+  {
+    "name": "Bannerman Energy",
+    "ticker": "BMN",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Developer"
+      }
+    ]
+  },
+  {
+    "name": "Global Atomic",
+    "ticker": "GLO",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Developer"
+      }
+    ]
+  },
+  {
+    "name": "Fission Uranium",
+    "ticker": "FCU",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Developer"
+      }
+    ]
+  },
+  {
+    "name": "IsoEnergy",
+    "ticker": "ISO",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
+  },
+  {
+    "name": "Aura Energy",
+    "ticker": "AEE",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Developer"
+      }
+    ]
+  },
+  {
+    "name": "Atomic Eagle",
+    "ticker": "AEU",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
+  },
+  {
+    "name": "Laramide",
+    "ticker": "LAM",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Developer"
+      }
+    ]
+  },
+  {
+    "name": "Peninsula Energy",
+    "ticker": "PEN",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Producer"
+      }
+    ]
+  },
+  {
+    "name": "Atha Energy",
+    "ticker": "SASK",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
+  },
+  {
+    "name": "Skyharbour Res.",
+    "ticker": "SYH",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Project Generator"
+      }
+    ]
+  },
+  {
+    "name": "CanAlaska Uranium",
+    "ticker": "CVV",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
+  },
+  {
+    "name": "Azincourt Energy",
+    "ticker": "AAZ",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
+  },
+  {
+    "name": "Baselode Energy",
+    "ticker": "FIND",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
+  },
+  {
+    "name": "F3 Uranium",
+    "ticker": "FUU",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
+  },
+  {
+    "name": "Elevate Uranium",
+    "ticker": "EL8",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
+  },
+  {
+    "name": "Alligator Energy",
+    "ticker": "AGE",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
+  },
+  {
+    "name": "Toro Energy",
+    "ticker": "TOE",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
+  },
+  {
+    "name": "Anfield Energy",
+    "ticker": "AEC",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer/Developer"
+      }
+    ]
+  },
+  {
+    "name": "Stallion Uranium",
+    "ticker": "STUD",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
+  },
+  {
+    "name": "Western Uranium",
+    "ticker": "WUC",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Producer"
+      }
+    ]
+  },
+  {
+    "name": "Uranium Royalty",
+    "ticker": "UROY",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Royalty Company"
+      }
+    ]
+  },
+  {
+    "name": "Constellation",
+    "ticker": "CEG",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Utilities"
+      }
+    ]
+  },
+  {
+    "name": "GE Vernova",
     "ticker": "GEV",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Nuclear",
-        "company_type": "Nuclear Reactor Technology / BWRX-300 SMR"
+        "company_type": "Nuclear EPC Services"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Original Equipment Manufacturer"
       }
     ]
   },
   {
-    "name": "Fluor Corporation",
-    "ticker": "FLR",
+    "name": "BWX Technologies",
+    "ticker": "BWXT",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Nuclear",
-        "company_type": "Nuclear Engineering & Construction / NuScale Partner"
-      },
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Engineering & Construction / Industrial Mega-projects"
+        "company_type": "Nuclear Components Manufacturer"
       }
     ]
   },
   {
-    "name": "Jacobs Solutions Inc.",
-    "ticker": "J",
+    "name": "Vistra Corp",
+    "ticker": "VST",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Nuclear",
-        "company_type": "Nuclear Engineering & Lifecycle Services"
-      },
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Engineering & Consulting / Advanced Manufacturing Facilities"
+        "company_type": "Anchor/Utility"
       }
     ]
   },
   {
-    "name": "Aecon Group Inc.",
-    "ticker": "ARE",
-    "exchange": "TSX",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Nuclear Refurbishment & Construction"
-      }
-    ]
-  },
-  {
-    "name": "AtkinsR\u00e9alis Group Inc.",
+    "name": "AtkinsRealis",
     "ticker": "ATRL",
     "exchange": "TSX",
     "theses": [
       {
         "thesis_name": "Nuclear",
-        "company_type": "CANDU Reactor Technology / Nuclear Services"
+        "company_type": "EPC"
       }
     ]
   },
   {
-    "name": "Texas Instruments Incorporated",
-    "ticker": "TXN",
+    "name": "Flowserve Corp",
+    "ticker": "FLS",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Nuclear EPC Services"
+      }
+    ]
+  },
+  {
+    "name": "Curtiss-Wright",
+    "ticker": "CW",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Components"
+      }
+    ]
+  },
+  {
+    "name": "NuScale Power",
+    "ticker": "SMR",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "High-Convexity Tech"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Small Modular Reactor Developer"
+      }
+    ]
+  },
+  {
+    "name": "ASP Isotopes",
+    "ticker": "ASPI",
+    "exchange": "NASDAQ",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Enrichment"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Nuclear Fuel Enrichment Technology"
+      }
+    ]
+  },
+  {
+    "name": "Nano Nuclear",
+    "ticker": "NNE",
+    "exchange": "NASDAQ",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "High-Convexity Tech"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Nuclear Energy Technology"
+      }
+    ]
+  },
+  {
+    "name": "Duke Energy",
+    "ticker": "DUK",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Anchor/Utility"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Utility Provider"
+      }
+    ]
+  },
+  {
+    "name": "NexGen Energy",
+    "ticker": "NXE",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Developer"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Uranium Mining"
+      }
+    ]
+  },
+  {
+    "name": "Denison Mines",
+    "ticker": "DNN",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Developer"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Uranium Mining"
+      }
+    ]
+  },
+  {
+    "name": "Aspira",
+    "ticker": "ASPI",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Enrichment Services"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Nuclear Fuel Enrichment Technology"
+      }
+    ]
+  },
+  {
+    "name": "Aterian",
+    "ticker": "ATRL",
+    "exchange": "NASDAQ",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Nuclear EPC Services"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Critical Minerals Exploration"
+      }
+    ]
+  },
+  {
+    "name": "Sprott Uranium Miners ETF",
+    "ticker": "URNM",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Thematic ETF"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Uranium Sector ETF"
+      }
+    ]
+  },
+  {
+    "name": "VanEck Uranium and Nuclear ETF",
+    "ticker": "NLR",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Thematic ETF"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Nuclear Sector ETF"
+      }
+    ]
+  },
+  {
+    "name": "Maersk",
+    "ticker": "AMKBY",
+    "exchange": "OTC",
+    "theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "International Shipping Company"
+      }
+    ]
+  },
+  {
+    "name": "Syrah Resources",
+    "ticker": "SYR",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Graphite producer for Western anode supply chain"
+      }
+    ]
+  },
+  {
+    "name": "Tesla",
+    "ticker": "TSLA",
     "exchange": "NASDAQ",
     "theses": [
       {
         "thesis_name": "Reshoring",
-        "company_type": "Analog & Embedded Processing / US Manufacturing Expansion"
+        "company_type": "Electric vehicle manufacturer and battery supply chain participant"
       }
     ]
   },
   {
-    "name": "KLA Corporation",
-    "ticker": "KLAC",
+    "name": "Western Magnesium",
+    "ticker": "WMG",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Magnesium Producer"
+      }
+    ]
+  },
+  {
+    "name": "Latrobe Magnesium",
+    "ticker": "LMG",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Magnesium Producer"
+      }
+    ]
+  },
+  {
+    "name": "Electra Battery Materials",
+    "ticker": "ELBM",
+    "exchange": "TSX",
+    "theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Midstream Re-Processor"
+      }
+    ]
+  },
+  {
+    "name": "Lynas Rare Earths",
+    "ticker": "LYC",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "National Security Anchor"
+      }
+    ]
+  },
+  {
+    "name": "Lynas",
+    "ticker": "LYC.AX",
+    "exchange": "ASX",
+    "theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Rare Earth Elements Producer"
+      }
+    ]
+  },
+  {
+    "name": "Cheniere Energy",
+    "ticker": "LNG",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Energy Geopolitics Proxy"
+      }
+    ]
+  },
+  {
+    "name": "Venture Global LNG",
+    "ticker": "PRIVATE",
+    "exchange": "N/A",
+    "theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Energy Infrastructure and LNG"
+      }
+    ]
+  },
+  {
+    "name": "Venture Global LNG",
+    "ticker": "VG",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "U.S. LNG exporter"
+      }
+    ]
+  },
+  {
+    "name": "Morgan Stanley",
+    "ticker": "MS",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Financial institution"
+      }
+    ]
+  },
+  {
+    "name": "Exxon Mobil",
+    "ticker": "XOM",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Energy producer"
+      }
+    ]
+  },
+  {
+    "name": "US Antimony",
+    "ticker": "USAR",
+    "exchange": "NYSE",
+    "theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Strategic mineral producer"
+      }
+    ]
+  },
+  {
+    "name": "Critical Metals Corp",
+    "ticker": "CRML",
     "exchange": "NASDAQ",
     "theses": [
       {
         "thesis_name": "Reshoring",
-        "company_type": "Process Control & Yield Management for Semiconductors"
+        "company_type": "Strategic mineral producer"
       }
     ]
   },
   {
-    "name": "GlobalFoundries Inc.",
-    "ticker": "GFS",
-    "exchange": "NASDAQ",
+    "name": "Ucore Rare Metals",
+    "ticker": "UCU",
+    "exchange": "TSX",
     "theses": [
       {
         "thesis_name": "Reshoring",
-        "company_type": "Specialty Semiconductor Foundry / US Operations"
+        "company_type": "Mine-to-Magnet operator"
       }
     ]
   },
   {
-    "name": "Nextracker Inc.",
-    "ticker": "NXT",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Solar Trackers / US Content & Manufacturing"
-      }
-    ]
-  },
-  {
-    "name": "Array Technologies, Inc.",
-    "ticker": "ARRY",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Solar Trackers / US Domestic Production"
-      }
-    ]
-  },
-  {
-    "name": "MP Materials Corp.",
-    "ticker": "MP",
+    "name": "Chevron",
+    "ticker": "CVX",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Reshoring",
-        "company_type": "Rare Earth Materials / US Mining & Separation"
+        "company_type": "Energy producer"
       }
     ]
   },
   {
-    "name": "Caterpillar Inc.",
-    "ticker": "CAT",
+    "name": "VanEck Rare Earth/Strategic Metals ETF",
+    "ticker": "SETM",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Reshoring",
-        "company_type": "Industrial Equipment / Construction for New US Factories"
+        "company_type": "Investment vehicle"
       }
     ]
   },
   {
-    "name": "Deere & Company",
-    "ticker": "DE",
+    "name": "Global X Uranium ETF",
+    "ticker": "URA",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Reshoring",
-        "company_type": "Industrial Equipment / Precision Manufacturing"
-      }
-    ]
-  },
-  {
-    "name": "Rockwell Automation, Inc.",
-    "ticker": "ROK",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Industrial Automation / Smart Manufacturing for Reshoring"
-      }
-    ]
-  },
-  {
-    "name": "Emerson Electric Co.",
-    "ticker": "EMR",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Industrial Automation / Process Control for US Industry"
-      }
-    ]
-  },
-  {
-    "name": "Parker-Hannifin Corporation",
-    "ticker": "PH",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Motion & Control Technologies / Industrial Components"
-      }
-    ]
-  },
-  {
-    "name": "Aecom",
-    "ticker": "ACM",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Infrastructure Consulting / Industrial Site Development"
-      }
-    ]
-  },
-  {
-    "name": "United Rentals, Inc.",
-    "ticker": "URI",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Equipment Rental / Support for US Factory Construction"
-      }
-    ]
-  },
-  {
-    "name": "Nucor Corporation",
-    "ticker": "NUE",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Steel Production / US Domestic Supply for Construction"
-      }
-    ]
-  },
-  {
-    "name": "Steel Dynamics, Inc.",
-    "ticker": "STLD",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Steel Production / US Domestic Supply"
-      }
-    ]
-  },
-  {
-    "name": "United States Steel Corporation",
-    "ticker": "X",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Steel Production / Strategic US Asset"
-      }
-    ]
-  },
-  {
-    "name": "Union Pacific Corporation",
-    "ticker": "UNP",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Logistics / Rail Transport for US Industrial Goods"
-      }
-    ]
-  },
-  {
-    "name": "CSX Corporation",
-    "ticker": "CSX",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Logistics / Rail Transport for Eastern US Industry"
-      }
-    ]
-  },
-  {
-    "name": "Old Dominion Freight Line, Inc.",
-    "ticker": "ODFL",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Logistics / Less-Than-Truckload Shipping for US Mfg"
-      }
-    ]
-  },
-  {
-    "name": "J.B. Hunt Transport Services, Inc.",
-    "ticker": "JBHT",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Logistics / Intermodal & Trucking for US Supply Chain"
-      }
-    ]
-  },
-  {
-    "name": "Prologis, Inc.",
-    "ticker": "PLD",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Industrial Real Estate / Logistics & Warehousing in US"
+        "company_type": "Investment vehicle"
       }
     ]
   }

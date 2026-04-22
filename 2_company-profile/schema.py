@@ -8,6 +8,7 @@ class InvestmentThesisReference(BaseModel):
 
 class CompanyProfile(BaseModel):
     name: str = Field(description="Full legal name of the company")
+    name_clean: Optional[str] = Field(description="Text friendly name of the company")
     ticker: str = Field(description="Stock ticker symbol")
     exchange: str = Field(description="Stock exchange")
     website: Optional[str] = Field(None, description="Official company website")

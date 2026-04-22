@@ -194,6 +194,37 @@ def update_company_profile(folder_path: str, logo_filename: str, logger: logging
                 except:
                     pass
 
+def update_profile_clean_name(folder_path: str, clean_name: str, logger: logging.Logger):
+    """Updates Profile.json with the cleaned search name."""
+    profile_path = os.path.join(folder_path, "Profile.json")
+    if os.path.exists(profile_path):
+        temp_path = None
+        try:
+            with open(profile_path, "r", encoding="utf-8") as f:
+                profile = json.load(f)
+            
+            if profile.get("name_clean") == clean_name:
+                return
+
+            profile["name_clean"] = clean_name
+            
+            dirname = os.path.dirname(profile_path)
+            fd, temp_path = tempfile.mkstemp(dir=dirname, suffix=".tmp", text=True)
+            
+            with os.fdopen(fd, 'w', encoding='utf-8') as f:
+                json.dump(profile, f, indent=2)
+            
+            os.replace(temp_path, profile_path)
+            logger.info(f"Updated Profile.json with name_clean: {clean_name}")
+            
+        except Exception as e:
+            logger.error(f"Error updating name_clean in Profile.json: {e}")
+            if temp_path and os.path.exists(temp_path):
+                try:
+                    os.remove(temp_path)
+                except:
+                    pass
+
 def download_image(url: str, folder_path: str, logger: logging.Logger, filename_prefix: str = "logo") -> Optional[str]:
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
     try:
@@ -232,14 +263,7 @@ def normalize_for_match(text: str) -> str:
     return normalized.lower().strip()
 
 def search_companieslogo_com(name: str, ticker: str, folder_path: str, website: Optional[str] = None) -> str:
-    """Mechanism 1: Search companieslogo.com for the logo. Best for public companies.
-    
-    Args:
-        name: Full company name.
-        ticker: Stock ticker.
-        folder_path: Path to save the logo.
-        website: Optional official website for better verification.
-    """
+    """Mechanism 1: Search companieslogo.com for the logo. Best for public companies."""
     logger = get_local_logger(folder_path)
     
     # Apply search override if available (TICKER.EXCHANGE)
@@ -248,8 +272,10 @@ def search_companieslogo_com(name: str, ticker: str, folder_path: str, website: 
     if search_name:
         print(f"    [Mechanism 1] Using search override for {ticker_exchange}: {search_name}")
         logger.info(f"Using search override for {ticker_exchange}: {search_name}")
-    else:
-        search_name = get_search_name(name)
+    core_parts = get_core_parts(name)
+    # Update Profile.json with cleaned name (all significant parts)
+    name_clean = " ".join(core_parts)
+    update_profile_clean_name(folder_path, name_clean, logger)
     
     print(f"    [Mechanism 1] Searching companieslogo.com for {search_name} ({ticker})...")
     logger.info(f"Starting Mechanism 1: companieslogo.com for {name} ({ticker})")
@@ -496,6 +522,7 @@ def broader_internet_search(name: str, website: str, folder_path: str) -> str:
     """Mechanism 3: Broader internet search."""
     logger = get_local_logger(folder_path)
     search_name = get_search_name(name)
+    
     ticker = ""
     ticker_match = re.search(r'[\\/]([^\\/]+)\.[^\\/]+$', folder_path)
     if ticker_match: ticker = ticker_match.group(1)

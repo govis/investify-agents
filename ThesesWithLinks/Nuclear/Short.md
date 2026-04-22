@@ -1,0 +1,9 @@
+# Nuclear Energy Renaissance in the "Age of Electricity"
+
+### Theme
+
+The structural shift toward a data-centric, electrified global economy has exposed a critical deficit in zero-carbon, high-uptime power generation that intermittent renewables cannot bridge. Nuclear energy is emerging as the essential "firm" asset class of the 21st century, underpinned by a generational supply-demand imbalance in the uranium fuel cycle and a technological pivot toward modularity and fuel circularity.
+
+### Executive Summary
+
+The convergence of decarbonization mandates and the exponential energy requirements of artificial intelligence (AI) has catalyzed a fundamental re-rating of nuclear energy within global capital markets. As global electricity demand is projected to rise by an unprecedented 3,500 TWh over the next three years, driven by the digital infrastructure boom and industrial onshoring, the inherent limitations of wind, solar, and hydro—specifically their low energy density and weather dependence—have made nuclear power the sole scalable solution for reliable baseload generation . This report articulates an investment thesis centered on the "Nuclear Renaissance," characterized by three primary vectors: the structural scarcity of uranium and enrichment services (SWU) resulting from geopolitical decoupling from Russia; the commercialization of Small Modular Reactors (SMRs) to meet localized hyperscale demand; and the rehabilitation of the nuclear supply chain after decades of stagnation. Institutional capital is now positioned to capture value across a bifurcated value chain where established utilities with existing "firm" capacity and integrated fuel service providers offer defensive growth, while advanced technology startups provide high-convexity exposure to the next generation of fission and fuel recycling.
