@@ -59,7 +59,7 @@ The global gold mining sector has entered a definitive structural bull market as
 | **Goldboro** | [NexGold](/company/NEXG.TSX) (NEXG) | NS, Canada | Late 2026 (Early Works) | 2027-2028 |
 | **Mercur Project** | [Revival Gold](/company/RVG.TSX) (RVG) | Utah, US | 2028 Decision | 2029 Targeted Startup |
 | **Lake Victoria** | Lake Victoria Gold | Tanzania | Late 2026 | 2027 First Production |
-| **Springpole** | [First Mining Gold](/company/N/A.TSX) | Ontario, CAN | 2027 (Permit pending) | TBD |
+| **Springpole** | [First Mining Gold](/company/FF.TSX) | Ontario, CAN | 2027 (Permit pending) | TBD |
 
 ## ---
 

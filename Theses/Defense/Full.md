@@ -89,7 +89,7 @@ The "Legacy Primes" (Lockheed Martin, RTX, Northrop Grumman) are the primary ben
 | **RTX Corporation** | RTX | $268 Billion | 42.68 | 1.28% | Tomahawk, AMRAAM, Patriot |
 | **Lockheed Martin** | LMT | $194 Billion | \~20-25 | 1.5%+ | F-35, Golden Dome, PAC-3 |
 | **Northrop Grumman** | NOC | $95.7 Billion | 25.95 | Consistent | B-21, Stealth, Space Sensors |
-| **BAE Systems** | BA. | \~£58 Billion | \~20 | \~2.5% | EW, Ground Forces, Eurofighter |
+| **BAE Systems** | BA | \~£58 Billion | \~20 | \~2.5% | EW, Ground Forces, Eurofighter |
 | **Rheinmetall** | RHM | €63.8 Billion | \~25 | \~2.0% | Tanks, Artillery, Ammunition |
 
 **RTX Corporation** holds an immense backlog of $268 billion, fueled by multi-year agreements to increase the production of Tomahawk and AMRAAM missile systems. Its Raytheon segment is the global leader in sensor and missile technologies, which are a top priority for defense ministries in both the Middle East and Europe.
