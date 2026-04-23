@@ -1,0 +1,26 @@
+{
+  "name": "Oreterra Limited",
+  "name_clean": "Oreterra Limited",
+  "ticker": "ORE",
+  "exchange": "ASX",
+  "website": "https://oreterra.com.au",
+  "logo_url": "https://oreterra.com.au/wp-content/uploads/2024/05/Oreterra-Logo-Horizontal-RGB-1.png",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "Australia",
+  "description": "Oreterra Limited is an Australian-based mineral exploration company focused on the discovery and development of high-value mineral deposits. The company primarily targets gold and critical minerals essential for the global energy transition, such as copper and lithium. With a strategic portfolio of projects located in prolific mining jurisdictions within Western Australia, Oreterra employs modern exploration techniques and geological modeling to unlock value for its shareholders. The company is committed to sustainable exploration practices and maintaining strong relationships with local communities and stakeholders while advancing its core assets toward potential production.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper",
+    "Lithium"
+  ],
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Junior explorer"
+    },
+    {
+      "thesis_name": "Gold",
+      "company_type": "Gold Mining Company"
+    }
+  ]
+}

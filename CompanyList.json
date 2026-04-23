@@ -749,116 +749,6 @@
     ]
   },
   {
-    "name": "Rolls-Royce",
-    "ticker": "RR.LSE",
-    "exchange": "LSE",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Aerospace and Defense"
-      }
-    ]
-  },
-  {
-    "name": "GE Aerospace",
-    "ticker": "GE.NYSE",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Aerospace and Defense"
-      }
-    ]
-  },
-  {
-    "name": "Boeing",
-    "ticker": "BA.NYSE",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Aerospace and Defense"
-      }
-    ]
-  },
-  {
-    "name": "BAE Systems",
-    "ticker": "BAE.LSE",
-    "exchange": "LSE",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Aerospace and Defense"
-      }
-    ]
-  },
-  {
-    "name": "Saab AB",
-    "ticker": "SAAB.STO",
-    "exchange": "STO",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Aerospace and Defense"
-      }
-    ]
-  },
-  {
-    "name": "Leonardo S.p.A.",
-    "ticker": "LDO.BIT",
-    "exchange": "BIT",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Aerospace and Defense"
-      }
-    ]
-  },
-  {
-    "name": "L3Harris Technologies",
-    "ticker": "LHX.NYSE",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Aerospace and Defense"
-      }
-    ]
-  },
-  {
-    "name": "Kratos Defense & Security Solutions",
-    "ticker": "KTOS.NASDAQ",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Aerospace and Defense"
-      }
-    ]
-  },
-  {
-    "name": "Rocket Lab",
-    "ticker": "RKLB.NASDAQ",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Aerospace and Defense"
-      }
-    ]
-  },
-  {
-    "name": "Teradyne",
-    "ticker": "TER.NASDAQ",
-    "exchange": "NASDAQ",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Industrial Automation and Testing"
-      }
-    ]
-  },
-  {
     "name": "Caterpillar",
     "ticker": "CAT",
     "exchange": "NYSE",
@@ -908,7 +798,7 @@
   },
   {
     "name": "Siemens Energy",
-    "ticker": "ENR.XETRA",
+    "ticker": "ENR",
     "exchange": "XETRA",
     "theses": [
       {
@@ -941,12 +831,20 @@
   },
   {
     "name": "GE Vernova",
-    "ticker": "GEV.NYSE",
+    "ticker": "GEV",
     "exchange": "NYSE",
     "theses": [
       {
         "thesis_name": "Electrification",
         "company_type": "Grid Software and Modernization"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Nuclear EPC Services"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Original Equipment Manufacturer"
       }
     ]
   },
@@ -1112,7 +1010,7 @@
     "theses": [
       {
         "thesis_name": "Electrification",
-        "company_type": "Data Center Infrastructure"
+        "company_type": "AI Power and Cooling Infrastructure"
       }
     ]
   },
@@ -1209,17 +1107,6 @@
     ]
   },
   {
-    "name": "Vertiv",
-    "ticker": "VRT.NYSE",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "AI Power and Cooling Infrastructure"
-      }
-    ]
-  },
-  {
     "name": "Prysmian Group",
     "ticker": "PRY.BIT",
     "exchange": "Borsa Italiana",
@@ -1308,17 +1195,6 @@
       {
         "thesis_name": "Electrification",
         "company_type": "Power Grids and Electrification Technology"
-      }
-    ]
-  },
-  {
-    "name": "Siemens Energy",
-    "ticker": "ENR",
-    "exchange": "XETRA",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Energy Systems and Electrification"
       }
     ]
   },
@@ -2577,21 +2453,6 @@
       {
         "thesis_name": "Nuclear",
         "company_type": "Utilities"
-      }
-    ]
-  },
-  {
-    "name": "GE Vernova",
-    "ticker": "GEV",
-    "exchange": "NYSE",
-    "theses": [
-      {
-        "thesis_name": "Nuclear",
-        "company_type": "Nuclear EPC Services"
-      },
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Original Equipment Manufacturer"
       }
     ]
   },

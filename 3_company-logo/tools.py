@@ -6,6 +6,7 @@ import re
 import logging
 import tempfile
 import unicodedata
+import base64
 from datetime import datetime
 from typing import Optional, List
 from ddgs import DDGS
@@ -31,6 +32,11 @@ try:
     exclude_end_words = json.loads(exclude_end_words_raw)
 except json.JSONDecodeError as e:
     raise ValueError(f"Failed to parse EXCLUDE_END_WORDS as JSON: {e}\nRaw value: {exclude_end_words_raw}")
+
+# Add common German legal suffixes if not present
+for g_word in ["Aktiengesellschaft", "GmbH"]:
+    if g_word not in exclude_end_words:
+        exclude_end_words.append(g_word)
 
 # Configuration: Noise words
 noise_words_raw = os.getenv("NOISE_WORDS")
@@ -226,15 +232,64 @@ def update_profile_clean_name(folder_path: str, clean_name: str, logger: logging
                     pass
 
 def download_image(url: str, folder_path: str, logger: logging.Logger, filename_prefix: str = "logo") -> Optional[str]:
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
+    """Downloads an image from a URL or decodes a data URI."""
+    if not url:
+        return None
+
+    # Handle Data URIs (e.g., data:image/png;base64,...)
+    if url.startswith('data:'):
+        try:
+            header, encoded = url.split(',', 1)
+            mime_type = header.split(':', 1)[1].split(';', 1)[0].lower()
+            
+            # Skip common dummy placeholders (e.g., 1x1 transparent GIFs/SVGs)
+            if len(encoded) < 100:
+                # Small data URIs are almost always placeholders or tiny icons
+                logger.info(f"Skipped small data URI (placeholder?): {url[:50]}...")
+                return None
+
+            data = base64.b64decode(encoded)
+            
+            ext = ".png"
+            if "svg" in mime_type: ext = ".svg"
+            elif "png" in mime_type: ext = ".png"
+            elif "jpg" in mime_type or "jpeg" in mime_type: ext = ".jpg"
+            elif "webp" in mime_type: ext = ".webp"
+            elif "gif" in mime_type: ext = ".gif"
+            
+            filename = f"{filename_prefix}{ext}"
+            path = os.path.join(folder_path, filename)
+            with open(path, "wb") as f:
+                f.write(data)
+            logger.info(f"Successfully decoded data URI to {filename}")
+            return filename
+        except Exception as e:
+            logger.error(f"Error decoding data URI: {e}")
+            return None
+
+    # Handle standard URLs
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+        'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Referer': urlparse(url).netloc
+    }
     try:
         response = requests.get(url, headers=headers, timeout=15, allow_redirects=True)
         if response.status_code == 200:
             content_type = response.headers.get('content-type', '').lower()
-            if not content_type.startswith('image/'):
-                logger.warning(f"Discarded {url}: Content-type is {content_type}, not an image.")
+            
+            # Some SVGs might return text/xml or image/svg+xml
+            if not any(x in content_type for x in ['image/', 'text/xml', 'application/xml', 'application/octet-stream']):
+                logger.warning(f"Discarded {url}: Content-type is {content_type}, likely not an image.")
                 return None
             
+            # Special case for application/octet-stream or xml - check extension
+            if 'image/' not in content_type:
+                if not any(url.lower().endswith(ext) for ext in ['.svg', '.png', '.jpg', '.jpeg', '.webp']):
+                    logger.warning(f"Discarded {url}: Content-type {content_type} and no image extension.")
+                    return None
+
             ext = ""
             if "svg" in content_type or url.lower().endswith(".svg"): ext = ".svg"
             elif "png" in content_type or url.lower().endswith(".png"): ext = ".png"
@@ -272,13 +327,16 @@ def search_companieslogo_com(name: str, ticker: str, folder_path: str, website: 
     if search_name:
         print(f"    [Mechanism 1] Using search override for {ticker_exchange}: {search_name}")
         logger.info(f"Using search override for {ticker_exchange}: {search_name}")
+    else:
+        search_name = get_search_name(name)
+
     core_parts = get_core_parts(name)
     # Update Profile.json with cleaned name (all significant parts)
     name_clean = " ".join(core_parts)
     update_profile_clean_name(folder_path, name_clean, logger)
     
-    print(f"    [Mechanism 1] Searching companieslogo.com for {search_name} ({ticker})...")
-    logger.info(f"Starting Mechanism 1: companieslogo.com for {name} ({ticker})")
+    print(f"    [Mechanism 1] Searching companieslogo.com for {search_name} ({ticker_exchange})...")
+    logger.info(f"Starting Mechanism 1: companieslogo.com for {name} ({ticker_exchange})")
     
     domain_main = ""
     if website:
@@ -295,12 +353,27 @@ def search_companieslogo_com(name: str, ticker: str, folder_path: str, website: 
 
     try:
         with DDGS() as ddgs:
+            # Generate multiple query variations for better coverage
             queries = [
                 f"site:companieslogo.com {search_name} {ticker} logo",
-                f"site:companieslogo.com {ticker} logo"
+                f"site:companieslogo.com {ticker} logo",
+                f"site:companieslogo.com {search_name} logo"
             ]
             
-            for query in queries:
+            # Add a variation with just the first word if name is multi-word
+            first_word = core_parts[0] if core_parts else ""
+            if first_word and first_word.lower() != search_name.lower():
+                queries.append(f"site:companieslogo.com {first_word} {ticker} logo")
+            
+            # Remove duplicates while preserving order
+            seen_queries = set()
+            unique_queries = []
+            for q in queries:
+                if q not in seen_queries:
+                    unique_queries.append(q)
+                    seen_queries.add(q)
+
+            for query in unique_queries:
                 print(f"    [Mechanism 1] Searching companieslogo.com for {query}...")
                 results = list(ddgs.text(query, max_results=10))
                 
@@ -319,21 +392,36 @@ def search_companieslogo_com(name: str, ticker: str, folder_path: str, website: 
                         # Strong signal: ticker match
                         ticker_lower = ticker.lower()
                         ticker_match = (re.search(rf'\b{re.escape(ticker_lower)}\b', norm_title) or 
+                                        re.search(rf'\b{re.escape(ticker_lower)}\b', norm_href) or
                                         f"({ticker_lower})" in norm_title or
                                         f"/{ticker_lower}/" in norm_href)
                         
                         # Strong signal: domain match
                         domain_match = domain_main and (domain_main in norm_href or domain_main in norm_title)
                         
-                        # Also match if title starts with our search name and contains 'logo'
-                        # Use first word of search name for prefix check
-                        first_part_norm = normalized_core_parts[0] if normalized_core_parts else ""
-                        name_match = first_part_norm and norm_title.startswith(first_part_norm) and "logo" in norm_title
+                        # Also match if title contains our search name and "logo"
+                        # Be careful with very short names
+                        name_match = False
+                        if search_name.lower() in norm_title and "logo" in norm_title:
+                            # If search name is very short (e.g. "LG"), require more evidence
+                            if len(search_name) <= 3:
+                                if domain_match or match_count >= 2:
+                                    name_match = True
+                            else:
+                                name_match = True
+                        elif first_word and first_word.lower() in norm_title and "logo" in norm_title:
+                            # Only trust first word match if it's long enough or domain also matches
+                            if len(first_word) >= 4 or domain_match:
+                                name_match = True
 
                         logger.info(f"Checking page: {href} Title: {title} TickerMatch: {ticker_match} DomainMatch: {domain_match} NameMatch: {name_match} CorePartsMatched: {match_count}/{len(core_parts)}")
                         
                         is_match = False
-                        if ticker_match or domain_match or name_match:
+                        # If ticker is very short, be stricter
+                        if ticker_match and len(ticker) <= 2:
+                            if domain_match or match_count >= 1 or name_match:
+                                is_match = True
+                        elif ticker_match or domain_match or name_match:
                             is_match = True
                         elif len(core_parts) >= 2:
                             if match_count >= 2: is_match = True
@@ -403,8 +491,17 @@ def verify_and_download_from_website(website: str, name: str, folder_path: str) 
     
     if not website.startswith("http"): website = "https://" + website
     
+    # Extract main domain for matching
+    parsed_ws = urlparse(website)
+    clean_ws = parsed_ws.netloc.lower().replace("www.", "")
+    domain_main = clean_ws.split('.')[0] # e.g. 'atkinsrealis' from 'atkinsrealis.com'
+
     try:
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.9'
+        }
         try:
             response = requests.get(website, headers=headers, timeout=15, allow_redirects=True)
         except requests.exceptions.RequestException as e:
@@ -436,75 +533,126 @@ def verify_and_download_from_website(website: str, name: str, folder_path: str) 
 
         # 2. Body Images
         core_parts = get_core_parts(name)
+        # Add domain part for matching if available
+        domain_parts = domain_main.split('-') if domain_main else []
+        match_terms = list(set([p.lower() for p in core_parts] + domain_parts))
+        
         header = soup.find('header')
-        header_imgs = header.find_all('img', src=True) if header else []
-        footer = soup.find('footer')
-        footer_imgs = footer.find_all('img', src=True) if footer else []
-        all_imgs = soup.find_all('img', src=True)
+        # Some sites use <div class="header"> instead of <header>
+        if not header:
+            header = soup.find(class_=re.compile(r'header|nav|topbar', re.I))
+            
+        header_imgs = header.find_all('img') if header else []
+        footer = soup.find('footer') or soup.find(class_=re.compile(r'footer', re.I))
+        footer_imgs = footer.find_all('img') if footer else []
+        all_imgs = soup.find_all('img')
         
         for idx, img in enumerate(all_imgs):
-            src = img['src'].lower()
+            # Check multiple attributes for the image source (handle lazy loading)
+            src_attrs = ['src', 'data-src', 'data-lazy-src', 'data-original', 'data-original-src', 'data-fallback-src']
+            best_src = None
+            
+            # Find the best source attribute for this image
+            for attr in src_attrs:
+                val = img.get(attr)
+                if val:
+                    # Prefer standard URLs over data URIs if both exist
+                    if not val.startswith('data:'):
+                        best_src = val
+                        break
+                    elif not best_src:
+                        best_src = val
+            
+            if not best_src:
+                # Check srcset as a fallback
+                srcset = img.get('srcset') or img.get('data-srcset')
+                if srcset:
+                    # Take the first (usually smallest or default) image from srcset
+                    best_src = srcset.split(',')[0].split(' ')[0]
+            
+            if not best_src:
+                continue
+
+            src_lower = best_src.lower()
             alt = (img.get('alt') or '').lower()
-            src_clean = src.replace('-', ' ').replace('_', ' ')
+            src_clean = src_lower.replace('-', ' ').replace('_', ' ')
             
             score = 0
-            # Name match scoring
-            match_count = sum(1 for part in core_parts if part in src_clean or part in alt)
+            # Name/Domain match scoring
+            match_count = sum(1 for part in match_terms if len(part) >= 3 and (part in src_clean or part in alt))
             if match_count > 0:
-                score += (match_count * 15)
-                if match_count == len(core_parts): score += 20
+                score += (match_count * 20)
+                if match_count == len(match_terms): score += 20
             
-            if 'logo' in src: score += 25
-            if 'logo' in alt: score += 15
+            if 'logo' in src_lower: score += 30
+            if 'logo' in alt: score += 20
             
             # Position/Context scoring
-            if img in header_imgs: score += 30
+            if img in header_imgs: score += 40
             if img in footer_imgs: score += 20
             
             # Check for link to homepage (very strong logo signal)
-            if img.parent and img.parent.name == 'a' and img.parent.get('href'):
-                href = img.parent['href'].lower()
+            parent_a = img.find_parent('a')
+            if parent_a and parent_a.get('href'):
+                href = parent_a['href'].lower()
                 # matches "/", "", "https://domain.com", "https://domain.com/"
-                if href in ['/', '', website.lower(), website.lower() + '/']:
-                    score += 40
+                if href in ['/', '', website.lower(), website.lower() + '/'] or \
+                   href == urljoin(website, '/') or href == urljoin(website, ''):
+                    score += 50
             
-            parent_id_class = (str(img.parent.get('id', '')) + str(img.parent.get('class', ''))).lower()
+            parent_id_class = ""
+            for p in img.parents:
+                parent_id_class += str(p.get('id', '')) + " " + " ".join(p.get('class', []) if isinstance(p.get('class'), list) else [str(p.get('class', ''))])
+                if p.name in ['header', 'nav']: break # Don't go too far up
+                if len(parent_id_class) > 200: break
+                
+            parent_id_class = parent_id_class.lower()
             if 'logo' in parent_id_class: score += 25
             
             # Format scoring
-            if '.svg' in src: score += 20
-            elif '.png' in src: score += 10
+            if '.svg' in src_lower: score += 25
+            elif '.png' in src_lower: score += 10
             
             # Penalize social media icons (very important)
-            social_keywords = ['twitter', 'facebook', 'linkedin', 'instagram', 'youtube', 'twiter', 'x.com']
-            if any(k in src or k in alt for k in social_keywords):
-                score -= 100
+            social_keywords = ['twitter', 'facebook', 'linkedin', 'instagram', 'youtube', 'twiter', 'x.com', 'threads.net', 'vimeo.com', 'pinterest', 'tiktok']
+            if any(k in src_lower or k in alt for k in social_keywords):
+                score -= 150
                 
             # Check if parent <a> link is social media
-            if img.parent and img.parent.name == 'a' and img.parent.get('href'):
-                href = img.parent['href'].lower()
+            if parent_a and parent_a.get('href'):
+                href = parent_a['href'].lower()
                 if any(k in href for k in social_keywords):
-                    score -= 100
+                    score -= 150
             
             # Penalize deep/plugin paths
-            if 'plugins/' in src or 'themes/' in src: score -= 10
+            if 'plugins/' in src_lower or 'themes/' in src_lower: score -= 10
             
-            # Penalize white-colored logos (less severe now)
-            is_white = 'white' in src or 'white' in alt
-            if is_white: score -= 15
+            # Penalize white-colored logos (less severe)
+            is_white = 'white' in src_lower or 'white' in alt
+            if is_white: score -= 10
             
             # Distance from top penalty (minor)
-            score -= (idx // 5)
+            score -= (idx // 3)
             
             if score > 20:
-                potential_logos.append((score, urljoin(website, img['src']), f"Img Tag (Score {score})", "white" if is_white else None))
+                potential_logos.append((score, urljoin(website, best_src), f"Img Tag (Score {score})", "white" if is_white else None))
 
         if potential_logos:
-            potential_logos.sort(key=lambda x: x[0], reverse=True)
-            logger.info(f"Found {len(potential_logos)} candidates. Top: {potential_logos[0][1]} Score: {potential_logos[0][0]}")
+            # Filter out duplicates and keep highest score for each URL
+            unique_potential = {}
+            for score, url, source, color in potential_logos:
+                if url not in unique_potential or score > unique_potential[url][0]:
+                    unique_potential[url] = (score, source, color)
             
-            for score, img_url, source_type, color in potential_logos:
-                if any(x in img_url.lower() for x in ['pixel', 'tracking', 'ads', 'google-analytics', 'facebook.com']): continue
+            sorted_logos = sorted([(s, u, src, c) for u, (s, src, c) in unique_potential.items()], key=lambda x: x[0], reverse=True)
+            logger.info(f"Found {len(sorted_logos)} candidates. Top: {sorted_logos[0][1]} Score: {sorted_logos[0][0]}")
+            
+            for score, img_url, source_type, color in sorted_logos:
+                # Blacklist tracking/junk (use word boundaries for 'ads' to avoid matching 'uploads')
+                blacklist = ['pixel', 'tracking', r'\bads\b', 'google-analytics', 'facebook.com', 'quantserve', 'doubleclick']
+                if any(re.search(pattern, img_url.lower()) if '\\b' in pattern else pattern in img_url.lower() for pattern in blacklist):
+                    logger.info(f"Skipping blacklisted URL: {img_url}")
+                    continue
                 
                 filename = download_image(img_url, folder_path, logger)
                 if filename:
@@ -523,11 +671,10 @@ def broader_internet_search(name: str, website: str, folder_path: str) -> str:
     logger = get_local_logger(folder_path)
     search_name = get_search_name(name)
     
-    ticker = ""
-    ticker_match = re.search(r'[\\/]([^\\/]+)\.[^\\/]+$', folder_path)
-    if ticker_match: ticker = ticker_match.group(1)
+    ticker_exchange = os.path.basename(folder_path)
+    ticker = ticker_exchange.split('.')[0] if '.' in ticker_exchange else ticker_exchange
 
-    logger.info(f"Starting Mechanism 3: Broader Internet Search for {name}")
+    logger.info(f"Starting Mechanism 3: Broader Internet Search for {name} ({ticker_exchange})")
     
     try:
         with DDGS() as ddgs:

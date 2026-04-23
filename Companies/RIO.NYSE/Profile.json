@@ -1,0 +1,22 @@
+{
+  "name": "Rio Tinto Group",
+  "name_clean": "Rio Tinto",
+  "ticker": "RIO",
+  "exchange": "NYSE",
+  "website": "https://www.riotinto.com",
+  "logo_url": "https://www.riotinto.com/assets/images/rio-tinto-logo.svg",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "United Kingdom",
+  "description": "Rio Tinto Group is a leading global mining and metals company that focuses on finding, mining, and processing the Earth's mineral resources. The company operates in approximately 35 countries and is primarily involved in the production of iron ore, aluminum, copper, and lithium. Rio Tinto is committed to providing the materials essential to human progress, including those necessary for the global transition to a low-carbon economy. With a history spanning over 150 years, the company maintains a diverse portfolio of world-class assets and is a major supplier to global industrial markets.",
+  "metals_and_minerals": [
+    "Iron Ore",
+    "Aluminum",
+    "Copper"
+  ],
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Diversified Miner"
+    }
+  ]
+}

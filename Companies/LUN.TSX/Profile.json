@@ -1,0 +1,22 @@
+{
+  "name": "Lundin Mining Corporation",
+  "name_clean": "Lundin Mining",
+  "ticker": "LUN",
+  "exchange": "TSX",
+  "website": "https://www.lundinmining.com",
+  "logo_url": "https://www.lundinmining.com/site/themes/lundin/img/logo.png",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "Canada",
+  "description": "Lundin Mining Corporation is a diversified Canadian base metals mining company with operations and projects in Argentina, Brazil, Chile, Portugal, Sweden, and the United States of America. The company primarily produces copper, zinc, gold, and nickel, which are essential for the global transition to a lower-carbon economy. Lundin Mining is committed to responsible mining practices and maintains a strong portfolio of high-quality assets, including the Candelaria and Caserones mines in Chile, the Neves-Corvo mine in Portugal, and the Eagle mine in the United States.",
+  "metals_and_minerals": [
+    "Copper",
+    "Zinc",
+    "Nickel"
+  ],
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Copper and zinc producer"
+    }
+  ]
+}

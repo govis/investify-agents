@@ -1,0 +1,22 @@
+{
+  "name": "BHP Group Limited",
+  "name_clean": "BHP Group Limited",
+  "ticker": "BHP",
+  "exchange": "NYSE",
+  "website": "https://www.bhp.com",
+  "logo_url": "https://www.bhp.com/-/media/project/bhp/bhp-com/images/logos/bhp-logo.png",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "Australia",
+  "description": "BHP Group Limited is a leading global resources company headquartered in Melbourne, Australia. As one of the world's largest mining entities, it focuses on the discovery, acquisition, development, and marketing of natural resources. The company's operations primarily involve the production of iron ore, copper, and metallurgical coal, which are essential for global infrastructure and energy transition. BHP is committed to sustainable practices and plays a critical role in supplying the raw materials necessary for modern economic growth and the shift toward a lower-carbon future.",
+  "metals_and_minerals": [
+    "Iron Ore",
+    "Copper",
+    "Metallurgical Coal"
+  ],
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Mining and Metals"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "SPDR Gold Trust",
+  "name_clean": "SPDR Gold Trust",
+  "ticker": "GLD",
+  "exchange": "NYSE",
+  "website": "https://www.spdrgoldshares.com",
+  "logo_url": "https://www.ssga.com/etc/designs/ssga/images/ssga-logo.svg",
+  "logo_local": "logo.jpg",
+  "country_of_domicile": "United States",
+  "description": "SPDR Gold Shares (GLD) is an investment trust that offers investors an efficient and secure way to access the gold market. Launched in 2004, it is designed to track the price of gold bullion, with each share representing a fractional interest in physical gold held in secure vaults. The trust provides a liquid and cost-effective alternative to buying, storing, and insuring physical gold directly. As one of the largest physically backed gold exchange-traded funds in the world, GLD is widely used by institutional and individual investors to hedge against inflation and diversify portfolios.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [
+    {
+      "thesis_name": "Gold",
+      "company_type": "Gold ETF/Trust"
+    }
+  ]
+}

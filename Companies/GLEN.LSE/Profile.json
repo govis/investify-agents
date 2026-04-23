@@ -1,0 +1,22 @@
+{
+  "name": "Glencore plc",
+  "name_clean": "Glencore",
+  "ticker": "GLEN",
+  "exchange": "LSE",
+  "website": "https://www.glencore.com",
+  "logo_url": "https://www.glencore.com/assets/images/glencore-logo.svg",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "Switzerland",
+  "description": "Glencore is one of the world's largest global diversified natural resource companies and a major producer and marketer of more than 60 commodities. The company's operations comprise around 150 mining and metallurgical sites and oil production assets. With a strong footprint in both established and emerging regions for natural resources, Glencore's activities span the production, sourcing, processing, refining, transporting, storage, financing, and supply of metals and minerals, energy products, and agricultural products to industrial consumers around the world.",
+  "metals_and_minerals": [
+    "Copper",
+    "Cobalt",
+    "Zinc"
+  ],
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Mining and Commodity Trading"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "JPMorgan Chase & Co.",
+  "name_clean": "JPMorgan Chase",
+  "ticker": "JPM",
+  "exchange": "NYSE",
+  "website": "https://www.jpmorganchase.com",
+  "logo_url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/logos/jpmc-logo-social.png",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "United States",
+  "description": "JPMorgan Chase & Co. is a leading global financial services firm and one of the largest banking institutions in the United States, with operations worldwide. The firm is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing, and asset management. A component of the Dow Jones Industrial Average, JPMorgan Chase & Co. serves millions of customers in the United States and many of the world's most prominent corporate, institutional, and government clients under its J.P. Morgan and Chase brands.",
+  "metals_and_minerals": null,
+  "investment_theses": [
+    {
+      "thesis_name": "AI",
+      "company_type": "Financial services and AI adopter"
+    },
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Financial institution"
+    }
+  ]
+}

@@ -161,14 +161,23 @@ async def process_file(pipeline, thesis_name, file_path, consolidated, base_thes
             # Update consolidated list
             found_companies = result_data.get("companies", [])
             for c in found_companies:
-                key = f"{c['ticker']}.{c['exchange']}".upper()
+                ticker = c['ticker'].strip()
+                exchange = c['exchange'].strip()
+                
+                # Sanitize ticker: remove exchange if it was included (e.g., "BA.NYSE" -> "BA")
+                if exchange and ticker.upper().endswith(f".{exchange.upper()}"):
+                    ticker = ticker[:-(len(exchange) + 1)]
+                elif exchange and ticker.upper().endswith(f":{exchange.upper()}"):
+                    ticker = ticker[:-(len(exchange) + 1)]
+
+                key = f"{ticker}.{exchange}".upper()
                 thesis_ref = {"thesis_name": thesis_name, "company_type": c['company_type']}
                 
                 if key not in consolidated:
                     consolidated[key] = {
                         "name": c['name'],
-                        "ticker": c['ticker'],
-                        "exchange": c['exchange'],
+                        "ticker": ticker,
+                        "exchange": exchange,
                         "theses": [thesis_ref]
                     }
                 else:

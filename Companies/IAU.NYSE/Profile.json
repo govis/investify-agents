@@ -1,0 +1,20 @@
+{
+  "name": "iShares Gold Trust",
+  "name_clean": "iShares Gold Trust",
+  "ticker": "IAU",
+  "exchange": "NYSE",
+  "website": "https://www.ishares.com/us/products/239561/ishares-gold-trust-fund",
+  "logo_url": "https://www.ishares.com/us/cache/v-1731002400000/images/ishares-logo-black.svg",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "United States",
+  "description": "The iShares Gold Trust (the 'Trust') seeks to reflect generally the performance of the price of gold. The Trust seeks to provide a convenient and cost-effective way for investors to monitor the price of gold and be able to buy and sell interests in gold without having to take physical delivery. The Trust's assets consist primarily of gold bullion held by a custodian on behalf of the Trust. As an exchange-traded product, IAU offers investors exposure to the day-to-day movement of the price of gold bullion in a liquid, securitized form.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [
+    {
+      "thesis_name": "Gold",
+      "company_type": "Gold ETF/Trust"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Clean Air Metals Inc.",
+  "name_clean": "Clean Air Metals",
+  "ticker": "AIR",
+  "exchange": "TSXV",
+  "website": "https://cleanairmetals.ca",
+  "logo_url": "https://cleanairmetals.ca/site/templates/images/logo.png",
+  "logo_local": "logo.png",
+  "country_of_domicile": "Canada",
+  "description": "Clean Air Metals Inc. is a Canadian-based platinum and palladium exploration company focused on the identification and development of high-quality precious and base metal projects. The company's flagship asset is the Thunder Bay North Project, located in the Thunder Bay region of Ontario, Canada. This project hosts significant platinum, palladium, copper, and nickel mineralization. Clean Air Metals is dedicated to advancing its mineral resources through sustainable exploration practices, aiming to provide essential metals required for the global transition to clean energy and the reduction of vehicle emissions.",
+  "metals_and_minerals": [
+    "Platinum",
+    "Palladium",
+    "Copper"
+  ],
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "PGM Exploration"
+    },
+    {
+      "thesis_name": "Gold",
+      "company_type": "Precious Metals Exploration"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Teck Resources Limited",
+  "name_clean": "Teck Resources",
+  "ticker": "TECK",
+  "exchange": "NYSE",
+  "website": "https://www.teck.com",
+  "logo_url": "https://www.teck.com/media/Teck-Logo.png",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "Canada",
+  "description": "Teck Resources Limited is a leading Canadian resource company focused on responsibly providing metals essential to the modern world. Headquartered in Vancouver, the company is one of Canada's largest diversified mining, mineral processing, and metallurgical companies. Teck's primary operations are centered on copper, zinc, and steelmaking coal, with a growing emphasis on copper to support the global transition to a low-carbon economy. The company is committed to sustainable development and operates several mines across the Americas, including significant assets in Canada, Chile, and Peru.",
+  "metals_and_minerals": [
+    "Copper",
+    "Zinc",
+    "Steelmaking Coal"
+  ],
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Copper Miner"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Lithium Americas Corp.",
+  "name_clean": "Lithium Americas",
+  "ticker": "LAC",
+  "exchange": "NYSE",
+  "website": "https://www.lithiumamericas.com",
+  "logo_url": "https://www.lithiumamericas.com/_resources/images/logo.svg",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "Canada",
+  "description": "Lithium Americas Corp. is a Canadian-based resource company focused on developing the Thacker Pass project in northwestern Nevada, the largest known lithium resource in the United States. Following its separation from its Argentinian assets in 2023, the company is dedicated to advancing Thacker Pass toward production to support the growing North American electric vehicle supply chain. The project aims to provide a secure, domestic source of high-quality lithium carbonate, essential for battery manufacturing and the broader transition to sustainable energy solutions.",
+  "metals_and_minerals": [
+    "Lithium"
+  ],
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Developer"
+    },
+    {
+      "thesis_name": "Reshoring",
+      "company_type": "Lithium Producer"
+    }
+  ]
+}

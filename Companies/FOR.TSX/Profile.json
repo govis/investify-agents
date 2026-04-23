@@ -1,0 +1,25 @@
+{
+  "name": "Fortune Bay Corp.",
+  "name_clean": "Fortune Bay",
+  "ticker": "FOR",
+  "exchange": "TSX",
+  "website": "https://fortunebaycorp.com",
+  "logo_url": "https://fortunebaycorp.com/site/themes/fortunebay/img/logo.png",
+  "logo_local": "logo.png",
+  "country_of_domicile": "Canada",
+  "description": "Fortune Bay Corp. is a Canadian mineral exploration and development company focused on advancing its portfolio of high-grade gold and uranium projects in Saskatchewan, Canada. The company's flagship asset is the Goldfields Project, which hosts the Box and Athona gold deposits with significant mineral resources. Additionally, Fortune Bay is actively exploring the Strike and Murmac Uranium Projects located in the Athabasca Basin, a premier district for high-grade uranium. The company aims to create shareholder value through strategic exploration, resource expansion, and the advancement of its core assets toward development.",
+  "metals_and_minerals": [
+    "Gold",
+    "Uranium"
+  ],
+  "investment_theses": [
+    {
+      "thesis_name": "Gold",
+      "company_type": "Gold and Uranium Exploration"
+    },
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Mineral Exploration"
+    }
+  ]
+}

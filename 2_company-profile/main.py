@@ -33,6 +33,17 @@ async def worker(queue, pipeline):
         try:
             result = await pipeline.run(company)
             if result:
+                # Ensure ticker and exchange match CompanyList.json
+                if hasattr(result, 'ticker'):
+                    result.ticker = ticker
+                elif isinstance(result, dict):
+                    result['ticker'] = ticker
+                    
+                if hasattr(result, 'exchange'):
+                    result.exchange = exchange
+                elif isinstance(result, dict):
+                    result['exchange'] = exchange
+
                 os.makedirs(folder, exist_ok=True)
                 with open(profile_path, "w", encoding="utf-8") as f:
                     if hasattr(result, 'model_dump_json'):

@@ -1,0 +1,26 @@
+{
+  "name": "New Age Metals Inc.",
+  "name_clean": "New Age Metals",
+  "ticker": "NAM",
+  "exchange": "TSXV",
+  "website": "https://newagemetals.com",
+  "logo_url": "https://newagemetals.com/wp-content/uploads/NAM-Logo-2017.png",
+  "logo_local": "logo.png",
+  "country_of_domicile": "Canada",
+  "description": "New Age Metals Inc. is a junior mineral exploration and development company focused on the discovery, exploration, and development of green metal projects in North America. The company's flagship project is the River Valley Palladium Project, located near Sudbury, Ontario, which is one of North America's largest primary platinum group metals (PGM) deposits. Additionally, New Age Metals is a significant landowner in the Winnipeg River Pegmatite Field in Manitoba, where it explores for lithium and other rare elements. The company aims to provide shareholder value through the advancement of its diverse portfolio of critical metal assets.",
+  "metals_and_minerals": [
+    "Palladium",
+    "Lithium",
+    "Platinum"
+  ],
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "PGM and Nickel Exploration"
+    },
+    {
+      "thesis_name": "Gold",
+      "company_type": "Metals Exploration"
+    }
+  ]
+}

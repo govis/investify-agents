@@ -1,0 +1,22 @@
+{
+  "name": "General Electric Company",
+  "name_clean": "General Electric Company",
+  "ticker": "GE",
+  "exchange": "NYSE",
+  "website": "https://www.geaerospace.com",
+  "logo_url": "https://www.geaerospace.com/themes/custom/ge_aerospace/logo.svg",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "United States",
+  "description": "GE Aerospace is a global leader in jet engines, components, and systems for commercial and military aircraft. Following its spin-off from General Electric's energy business in 2024, the company operates as a standalone entity focused on propulsion, services, and systems. With an installed base of approximately 44,000 commercial and 26,000 military aircraft engines, GE Aerospace plays a critical role in the global aviation industry, providing advanced technology and maintenance services that support the safety and efficiency of flight operations worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [
+    {
+      "thesis_name": "Defense",
+      "company_type": "Defense and Aerospace Propulsion"
+    },
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Aerospace and Defense"
+    }
+  ]
+}

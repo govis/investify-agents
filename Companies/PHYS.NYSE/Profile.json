@@ -1,0 +1,20 @@
+{
+  "name": "Sprott Physical Gold Trust",
+  "name_clean": "Sprott Physical Gold Trust",
+  "ticker": "PHYS",
+  "exchange": "NYSE",
+  "website": "https://sprott.com/investment-strategies/physical-bullion-trusts/gold/",
+  "logo_url": "https://sprott.com/media/1001/sprott-logo.png",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "Canada",
+  "description": "Sprott Physical Gold Trust (PHYS) is a closed-end trust that invests in unencumbered and fully allocated physical gold bullion. The Trust was created to provide a secure, convenient, and exchange-traded investment alternative for investors who want to hold physical gold without the inconvenience that is typical of a direct investment in physical gold bullion. PHYS offers a unique redemption feature, allowing unitholders to redeem their units for physical gold bullion on a monthly basis, subject to certain minimum requirements. The gold is held in custody by the Royal Canadian Mint, a Federal Crown Corporation of the Government of Canada.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [
+    {
+      "thesis_name": "Gold",
+      "company_type": "Gold ETF/Trust"
+    }
+  ]
+}

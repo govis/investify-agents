@@ -1,0 +1,26 @@
+{
+  "name": "Energy Fuels Inc.",
+  "name_clean": "Energy Fuels",
+  "ticker": "UUUU",
+  "exchange": "NYSE",
+  "website": "https://www.energyfuels.com",
+  "logo_url": "https://www.energyfuels.com/wp-content/uploads/2021/03/Energy-Fuels-Logo-2021.png",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "United States",
+  "description": "Energy Fuels Inc. is a leading United States-based critical minerals company focused on the production of uranium, vanadium, and rare earth elements. The company operates the White Mesa Mill in Utah, which is the only conventional uranium mill currently operating in the U.S. and serves as a strategic hub for processing various critical minerals. Energy Fuels is a major producer of uranium for the nuclear energy industry and is expanding its capabilities into high-purity rare earth element production and heavy mineral sands, positioning itself as a key player in the domestic supply chain for clean energy and advanced technologies.",
+  "metals_and_minerals": [
+    "Uranium",
+    "Vanadium",
+    "Rare Earth Elements"
+  ],
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Uranium Miner"
+    },
+    {
+      "thesis_name": "Reshoring",
+      "company_type": "Midstream Re-Processor"
+    }
+  ]
+}

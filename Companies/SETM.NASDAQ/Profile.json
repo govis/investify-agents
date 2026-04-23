@@ -1,0 +1,26 @@
+{
+  "name": "Sprott Energy Transition Materials ETF",
+  "name_clean": "Sprott Energy Transition Materials ETF",
+  "ticker": "SETM",
+  "exchange": "NASDAQ",
+  "website": "https://www.sprottetfs.com/setm-sprott-energy-transition-materials-etf/",
+  "logo_url": "https://www.sprottetfs.com/media/1001/sprott-logo.png",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "United States",
+  "description": "The Sprott Energy Transition Materials ETF (SETM) is an exchange-traded fund that seeks to provide investment results that correspond generally to the total return performance of the Nasdaq Sprott Energy Transition Materials Index. The Index is designed to track the performance of a selection of global securities in the energy transition materials industry, including producers, processors, and recyclers of elements such as copper, lithium, nickel, cobalt, graphite, manganese, rare earths, and silver. These materials are critical to the global transition toward cleaner energy sources and the electrification of the economy.",
+  "metals_and_minerals": [
+    "Copper",
+    "Lithium",
+    "Nickel"
+  ],
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Thematic Diversification"
+    },
+    {
+      "thesis_name": "Reshoring",
+      "company_type": "Investment Fund"
+    }
+  ]
+}

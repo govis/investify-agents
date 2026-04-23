@@ -1,0 +1,26 @@
+{
+  "name": "Glencore plc",
+  "name_clean": "Glencore",
+  "ticker": "GLNCY",
+  "exchange": "OTC",
+  "website": "https://www.glencore.com",
+  "logo_url": "https://www.glencore.com/.resources/glencore-theme/dist/images/glencore-logo.svg",
+  "logo_local": "logo.svg",
+  "country_of_domicile": "Switzerland",
+  "description": "Glencore plc is one of the world's largest global diversified natural resource companies and a major producer and marketer of more than 60 commodities. Founded in the 1970s as a trading company, it has grown to become a major producer and marketer of commodities - employing 140,000 people around the world. Glencore's operations comprise around 150 mining and metallurgical sites and oil production assets. The company's strategy is to be active at every stage of the commodity supply chain, from sourcing and processing to storage and transport, serving industrial consumers in sectors such as automotive, steel, power generation, battery manufacturing, and oil refining.",
+  "metals_and_minerals": [
+    "Copper",
+    "Cobalt",
+    "Zinc"
+  ],
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Mining and Metals"
+    },
+    {
+      "thesis_name": "Reshoring",
+      "company_type": "Cobalt Producer and Refiner"
+    }
+  ]
+}
