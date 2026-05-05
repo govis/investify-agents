@@ -1,0 +1,228 @@
+{
+  "executives": [
+    {
+      "name": "Jack Fusco",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Fusco has served as President and Chief Executive Officer since May 2016. He is also a director of Cheniere. Prior to joining Cheniere, he served as CEO of Calpine Corporation from 2008 to 2014 and as Executive Chairman from 2014 to 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2016-05-12",
+          "end_date": null
+        }
+      ],
+      "name_original": "Jack A. Fusco"
+    },
+    {
+      "name": "Zach Davis",
+      "age": 39,
+      "age_year": 2024,
+      "background": "Mr. Davis has served as Executive Vice President and Chief Financial Officer since February 2022. He previously served as Senior Vice President and CFO from August 2020 to February 2022, and as Vice President, Strategy and Budget from 2016 to 2020.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2022-02-24",
+          "end_date": null
+        },
+        {
+          "title": "Senior Vice President and Chief Financial Officer",
+          "start_date": "2020-08-03",
+          "end_date": "2022-02-24"
+        }
+      ],
+      "name_original": "Zach Davis"
+    },
+    {
+      "name": "Anatol Feygin",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Feygin has served as Executive Vice President and Chief Commercial Officer since September 2016. He joined Cheniere in 2014 as Senior Vice President, Strategy and Corporate Development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Commercial Officer",
+          "start_date": "2016-09-26",
+          "end_date": null
+        }
+      ],
+      "name_original": "Anatol Feygin"
+    },
+    {
+      "name": "Corey Grindal",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Grindal has served as Executive Vice President and Chief Operating Officer since January 2023. He previously served as Executive Vice President, Worldwide Trading from 2020 to 2023.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Operating Officer",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Corey Grindal"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Steven Farris",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Mr. Farris has served as Chairman of the Board since 2016. He was previously the Chairman and CEO of Apache Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board",
+          "start_date": "2016-05-12",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "G. Steven Farris"
+    },
+    {
+      "name": "Jack Fusco",
+      "age": 61,
+      "age_year": 2024,
+      "background": "President and CEO of Cheniere Energy, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2016-05-12",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Jack A. Fusco"
+    },
+    {
+      "name": "Vicky Bailey",
+      "age": 71,
+      "age_year": 2024,
+      "background": "President of Anderson Stratton Enterprises, LLC. Former Assistant Secretary for the Office of Policy and International Affairs at the U.S. Department of Energy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2006-03-21",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Nominating Committee",
+        "Sustainability and Corporate Responsibility Committee"
+      ],
+      "name_original": "Vicky A. Bailey"
+    },
+    {
+      "name": "Patricia Collawn",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Chairman and CEO of PNM Resources, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-07-12",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Patricia K. Collawn"
+    },
+    {
+      "name": "David Foley",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Senior Managing Director in the Private Equity Group at Blackstone and Global Head of Blackstone Energy Partners.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2012-08-15",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "David I. Foley"
+    },
+    {
+      "name": "Andrew Langham",
+      "age": 50,
+      "age_year": 2024,
+      "background": "General Counsel of Icahn Enterprises L.P.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-08-22",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Andrew Langham"
+    },
+    {
+      "name": "Courtney Mather",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Portfolio Manager at Icahn Capital LP.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2015-12-28",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "Courtney R. Mather"
+    },
+    {
+      "name": "Donald Robillard, Jr.",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Former Director, Executive Vice President and Chief Financial Officer of Hunt Consolidated, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2014-12-15",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Sustainability and Corporate Responsibility Committee"
+      ],
+      "name_original": "Donald F. Robillard, Jr."
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/3570/000000357024000037/lng-20240412.htm",
+      "source_description": "DEF 14A Proxy Statement",
+      "as_of_date": "2024-04-12"
+    },
+    {
+      "source_url": "https://www.cheniere.com/about/leadership",
+      "source_description": "Company Website Leadership Page",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

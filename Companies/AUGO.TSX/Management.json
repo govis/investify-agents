@@ -1,0 +1,155 @@
+{
+  "executives": [
+    {
+      "name": "Rodrigo Barbosa",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Mr. Barbosa has over 20 years of experience in finance, operations, and business development. He previously served as CFO of Aura Minerals and has held executive positions at various multinational companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Rodrigo Barbosa"
+    },
+    {
+      "name": "Kleber Cardoso",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Mr. Cardoso has extensive experience in financial management and the mining industry. He joined Aura in 2017 and has served in various senior financial roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Kleber Cardoso"
+    },
+    {
+      "name": "Tiago Vaz",
+      "age": 42,
+      "age_year": 2024,
+      "background": "Mr. Vaz is responsible for the company's operations and has a strong background in mining engineering and project management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Tiago Vaz"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Rodrigo Barbosa",
+      "age": 48,
+      "age_year": 2024,
+      "background": "President and CEO of Aura Minerals Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Rodrigo Barbosa"
+    },
+    {
+      "name": "Richmond Fenn",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Mr. Fenn has over 40 years of experience in the mining industry, including senior roles at Freeport-McMoRan.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Technical Committee"
+      ],
+      "name_original": "Richmond Fenn"
+    },
+    {
+      "name": "Stephen Quin",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Quin is a geologist with over 35 years of experience in the mining industry, including executive roles at Midas Gold and Capstone Mining.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Technical Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Stephen Quin"
+    },
+    {
+      "name": "Philip Reade",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Reade is a Managing Director at Northwestern Capital Partners and has extensive experience in investment banking and private equity.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Philip Reade"
+    },
+    {
+      "name": "Bruno Serapi\u00e3o",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Serapi\u00e3o is a partner at Northwestern Capital Partners and has significant experience in infrastructure and logistics.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Bruno Serapi\u00e3o"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://auraminerals.com/about-us/management-and-board/",
+      "source_description": "Aura Minerals Official Website - Management and Board Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca/",
+      "source_description": "Management Information Circular dated April 2024",
+      "as_of_date": "2024-04-15"
+    }
+  ]
+}

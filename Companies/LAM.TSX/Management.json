@@ -1,0 +1,136 @@
+{
+  "executives": [
+    {
+      "name": "Marc Henderson",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Henderson has more than 25 years of experience in the resource sector. He has been the President and CEO of Laramide since 2005. He is also a director of several other public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2005-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Marc Henderson"
+    },
+    {
+      "name": "Dennis Gibson",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Mr. Gibson is a CPA with over 30 years of experience in senior financial positions. He has been the CFO of Laramide since 2006.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2006-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Dennis Gibson"
+    },
+    {
+      "name": "Bryn Jones",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Mr. Jones is a chemical engineer with over 20 years of experience in the mining industry, specifically in the uranium sector. He joined Laramide as COO in 2014.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2014-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Bryn Jones"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Marc Henderson",
+      "age": 63,
+      "age_year": 2024,
+      "background": "President and CEO of Laramide Resources Ltd. since 2005.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2005-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Marc Henderson"
+    },
+    {
+      "name": "John Booth",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Booth is a lawyer and investment banker with over 30 years of experience in the resource sector. He is currently the Chairman of Laramide.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman and Independent Director",
+          "start_date": "2011-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "John Booth"
+    },
+    {
+      "name": "Raffi Babikian",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Babikian has over 15 years of experience in the uranium industry, including roles in investment banking and corporate development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Raffi Babikian"
+    },
+    {
+      "name": "Jacqueline Allison",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Dr. Allison has over 20 years of experience in the mining industry as a research analyst and investment manager.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Jacqueline Allison"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://laramide.com/about-us/management-board/",
+      "source_description": "Company Website - Management and Board Profiles",
+      "as_of_date": "2024-05-22"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "Management Information Circular dated May 15, 2024",
+      "as_of_date": "2024-05-15"
+    }
+  ]
+}

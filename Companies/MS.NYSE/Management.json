@@ -1,0 +1,209 @@
+{
+  "executives": [
+    {
+      "name": "Ted Pick",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Pick has served as Chief Executive Officer of Morgan Stanley since January 2024. He was previously Co-President of the Firm from 2021 to 2023 and Head of the Institutional Securities Group. He joined Morgan Stanley in 1990.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2024-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Co-President",
+          "start_date": "2021-06-01",
+          "end_date": "2023-12-31"
+        }
+      ],
+      "name_original": "Edward (Ted) Pick"
+    },
+    {
+      "name": "Sharon Yeshaya",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Ms. Yeshaya has served as Executive Vice President and Chief Financial Officer since June 2021. She previously served as Head of Investor Relations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2021-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Sharon Yeshaya"
+    },
+    {
+      "name": "James Gorman",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Gorman is the Executive Chairman of Morgan Stanley. He served as Chief Executive Officer from 2010 through 2023. He joined the Firm in 2006.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Chairman",
+          "start_date": "2024-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2010-01-01",
+          "end_date": "2023-12-31"
+        }
+      ],
+      "name_original": "James P. Gorman"
+    },
+    {
+      "name": "Dan Simkowitz",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Mr. Simkowitz has served as Co-President of Morgan Stanley since January 2024 and Head of Institutional Securities. He was previously Head of Investment Management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Co-President",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Dan Simkowitz"
+    },
+    {
+      "name": "Andy Saperstein",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Mr. Saperstein has served as Co-President of Morgan Stanley since January 2024 and Head of Wealth Management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Co-President",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Andy Saperstein"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "James Gorman",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Executive Chairman of Morgan Stanley. Former CEO.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Chairman",
+          "start_date": "2012-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "James P. Gorman"
+    },
+    {
+      "name": "Ted Pick",
+      "age": 55,
+      "age_year": 2024,
+      "background": "CEO of Morgan Stanley.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Edward (Ted) Pick"
+    },
+    {
+      "name": "Thomas Glocer",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former CEO of Thomson Reuters Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Lead Independent Director",
+          "start_date": "2013-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Operations and Technology Committee",
+        "Nominating and Governance Committee"
+      ],
+      "name_original": "Thomas H. Glocer"
+    },
+    {
+      "name": "Mary Schapiro",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Former Chair of the U.S. Securities and Exchange Commission.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nominating and Governance Committee",
+        "Risk Committee"
+      ],
+      "name_original": "Mary L. Schapiro"
+    },
+    {
+      "name": "Stephen Luczo",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Seagate Technology.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Operations and Technology Committee"
+      ],
+      "name_original": "Stephen J. Luczo"
+    },
+    {
+      "name": "Erika James",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Dean of the Wharton School of the University of Pennsylvania.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation, Management Development and Succession Committee"
+      ],
+      "name_original": "Erika H. James"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/895421/000119312524096945/d533031ddef14a.htm",
+      "source_description": "Morgan Stanley 2024 Proxy Statement (DEF 14A)",
+      "as_of_date": "2024-04-15"
+    },
+    {
+      "source_url": "https://www.morganstanley.com/about-us/governance/executive-officers",
+      "source_description": "Morgan Stanley Official Website - Executive Officers",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

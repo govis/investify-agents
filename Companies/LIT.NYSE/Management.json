@@ -1,0 +1,120 @@
+{
+  "executives": [
+    {
+      "name": "Ryan O'Connor",
+      "age": 40,
+      "age_year": 2024,
+      "background": "Chief Executive Officer of Global X Management Company LLC since April 2024. Previously held various leadership roles at Goldman Sachs Asset Management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2024-04-08",
+          "end_date": null
+        }
+      ],
+      "name_original": "Ryan O'Connor"
+    },
+    {
+      "name": "John Belanger",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Chief Operating Officer of Global X Management Company LLC since 2020. Previously served as Head of Product at Global X.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "John Belanger"
+    },
+    {
+      "name": "Alex Ashby",
+      "age": 37,
+      "age_year": 2024,
+      "background": "Head of Product Development at Global X Management Company LLC. Responsible for the design and management of the firm's ETF suite.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Head of Product Development",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Alex Ashby"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Charles Baker",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Independent Trustee. Formerly a partner at DLA Piper LLP (US).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Trustee",
+          "start_date": "2008-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Governance Committee"
+      ],
+      "name_original": "Charles A. Baker"
+    },
+    {
+      "name": "Susan Ciccarone",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Independent Trustee. Managing Director at Kapitus. Previously at Goldman Sachs.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Trustee",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Governance Committee"
+      ],
+      "name_original": "Susan M. Ciccarone"
+    },
+    {
+      "name": "Clifford Weber",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Independent Trustee. CEO of New York Digital Assets Group. Former Executive Vice President at the American Stock Exchange.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Trustee",
+          "start_date": "2008-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Governance Committee"
+      ],
+      "name_original": "Clifford J. Weber"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1432353/000113743924000654/gxf_485bpos.htm",
+      "source_description": "SEC Form 485BPOS - Global X Funds Post-Effective Amendment",
+      "as_of_date": "2024-03-01"
+    },
+    {
+      "source_url": "https://www.globalxetfs.com/funds/lit/",
+      "source_description": "Global X Lithium & Battery Tech ETF Official Website",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

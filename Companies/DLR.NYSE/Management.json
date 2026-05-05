@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Andrew P. Power",
+      "name": "Andrew Power",
       "age": 44,
       "age_year": 2024,
       "background": "Mr. Power has served as our President since 2021 and our Chief Executive Officer since 2022. He previously served as our Chief Financial Officer from 2015 to 2022. Prior to joining Digital Realty, he was Managing Director at Bank of America Merrill Lynch.",
@@ -22,7 +22,8 @@
           "start_date": "2015-05-01",
           "end_date": "2022-12-13"
         }
-      ]
+      ],
+      "name_original": "Andrew P. Power"
     },
     {
       "name": "Matt Mercier",
@@ -36,7 +37,8 @@
           "start_date": "2023-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Matt Mercier"
     },
     {
       "name": "Christopher Sharp",
@@ -50,7 +52,8 @@
           "start_date": "2015-05-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Christopher Sharp"
     },
     {
       "name": "Cindy Fiedelman",
@@ -64,7 +67,8 @@
           "start_date": "2016-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Cindy Fiedelman"
     },
     {
       "name": "Jeannie Lee",
@@ -78,7 +82,8 @@
           "start_date": "2022-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Jeannie Lee"
     }
   ],
   "board_of_directors": [
@@ -102,10 +107,11 @@
       ],
       "committees": [
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Mary Hogan Preusse"
     },
     {
-      "name": "Andrew P. Power",
+      "name": "Andrew Power",
       "age": 44,
       "age_year": 2024,
       "background": "Chief Executive Officer of Digital Realty Trust, Inc.",
@@ -117,10 +123,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Andrew P. Power"
     },
     {
-      "name": "Laurence A. Chapman",
+      "name": "Laurence Chapman",
       "age": 70,
       "age_year": 2024,
       "background": "Former Chief Financial Officer of Goodrich Corporation.",
@@ -134,7 +141,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Laurence A. Chapman"
     },
     {
       "name": "VeraLinn Jamieson",
@@ -151,10 +159,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "VeraLinn Jamieson"
     },
     {
-      "name": "Kevin J. Kennedy",
+      "name": "Kevin Kennedy",
       "age": 68,
       "age_year": 2024,
       "background": "Former President and Chief Executive Officer of Avaya Inc.",
@@ -168,10 +177,11 @@
       ],
       "committees": [
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Kevin J. Kennedy"
     },
     {
-      "name": "William G. LaPerch",
+      "name": "William LaPerch",
       "age": 68,
       "age_year": 2024,
       "background": "Former President and Chief Executive Officer of AboveNet, Inc.",
@@ -185,13 +195,14 @@
       ],
       "committees": [
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "William G. LaPerch"
     },
     {
-      "name": "Jean F.H.P. Mandeville",
+      "name": "Jean Mandeville",
       "age": 63,
       "age_year": 2024,
-      "background": "Former Chief Financial Officer of Mach S.à.r.l.",
+      "background": "Former Chief Financial Officer of Mach S.\u00e0.r.l.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -202,7 +213,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Jean F.H.P. Mandeville"
     },
     {
       "name": "Afhin Mohebbi",
@@ -219,10 +231,11 @@
       ],
       "committees": [
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Afhin Mohebbi"
     },
     {
-      "name": "Mark R. Patterson",
+      "name": "Mark Patterson",
       "age": 63,
       "age_year": 2024,
       "background": "Former Chairman of Boomerang Tube, LLC and Managing Director at Merrill Lynch.",
@@ -236,10 +249,11 @@
       ],
       "committees": [
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Mark R. Patterson"
     },
     {
-      "name": "David C. Singelyn",
+      "name": "David Singelyn",
       "age": 62,
       "age_year": 2024,
       "background": "Chief Executive Officer and Trustee of American Homes 4 Rent.",
@@ -253,7 +267,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "David C. Singelyn"
     }
   ],
   "sources": [

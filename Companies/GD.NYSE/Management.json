@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Phebe N. Novakovic",
+      "name": "Phebe Novakovic",
       "age": 66,
       "age_year": 2024,
       "background": "Ms. Novakovic has been Chairman and Chief Executive Officer of General Dynamics since January 2013. Previously, she served as President and Chief Operating Officer from May 2012 to December 2012 and as Executive Vice President, Marine Systems, from May 2010 to May 2012.",
@@ -17,10 +17,11 @@
           "start_date": "2012-05-01",
           "end_date": "2012-12-31"
         }
-      ]
+      ],
+      "name_original": "Phebe N. Novakovic"
     },
     {
-      "name": "Jason W. Aiken",
+      "name": "Jason Aiken",
       "age": 51,
       "age_year": 2024,
       "background": "Mr. Aiken has been Executive Vice President, Technologies, since January 2024. He previously served as Senior Vice President and Chief Financial Officer from January 2014 to December 2023.",
@@ -36,10 +37,11 @@
           "start_date": "2014-01-01",
           "end_date": "2023-12-31"
         }
-      ]
+      ],
+      "name_original": "Jason W. Aiken"
     },
     {
-      "name": "William A. Moss",
+      "name": "William Moss",
       "age": 54,
       "age_year": 2024,
       "background": "Mr. Moss has been Vice President and Controller since 2014. He joined General Dynamics in 2004 and has held various financial leadership roles.",
@@ -50,10 +52,11 @@
           "start_date": "2014-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "William A. Moss"
     },
     {
-      "name": "Kimberly A. Kuryea",
+      "name": "Kimberly Kuryea",
       "age": 57,
       "age_year": 2024,
       "background": "Ms. Kuryea has been Senior Vice President and Chief Financial Officer since January 2024. She previously served as Vice President and Controller from 2011 to 2014 and as Senior Vice President, Human Resources and Administration.",
@@ -64,12 +67,13 @@
           "start_date": "2024-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Kimberly A. Kuryea"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Phebe N. Novakovic",
+      "name": "Phebe Novakovic",
       "age": 66,
       "age_year": 2024,
       "background": "Chairman and CEO of General Dynamics. Former intelligence officer and Department of Defense official.",
@@ -81,10 +85,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Phebe N. Novakovic"
     },
     {
-      "name": "Richard D. Clarke",
+      "name": "Richard Clarke",
       "age": 61,
       "age_year": 2024,
       "background": "General, U.S. Army (Retired). Former Commander, U.S. Special Operations Command.",
@@ -99,10 +104,11 @@
       "committees": [
         "Audit",
         "Finance"
-      ]
+      ],
+      "name_original": "Richard D. Clarke"
     },
     {
-      "name": "James S. Crown",
+      "name": "James Crown",
       "age": 70,
       "age_year": 2023,
       "background": "Chairman and CEO of Henry Crown and Company. (Note: Deceased June 2023, but listed in 2023 proxy).",
@@ -114,10 +120,11 @@
           "end_date": "2023-06-25"
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "James S. Crown"
     },
     {
-      "name": "Rudy F. deLeon",
+      "name": "Rudy deLeon",
       "age": 71,
       "age_year": 2024,
       "background": "Senior Fellow at the Center for American Progress. Former Deputy Secretary of Defense.",
@@ -132,10 +139,11 @@
       "committees": [
         "Audit",
         "Sustainability"
-      ]
+      ],
+      "name_original": "Rudy F. deLeon"
     },
     {
-      "name": "Cecil D. Haney",
+      "name": "Cecil Haney",
       "age": 68,
       "age_year": 2024,
       "background": "Admiral, U.S. Navy (Retired). Former Commander, U.S. Strategic Command.",
@@ -150,10 +158,11 @@
       "committees": [
         "Compensation",
         "Finance"
-      ]
+      ],
+      "name_original": "Cecil D. Haney"
     },
     {
-      "name": "Mark M. Malcolm",
+      "name": "Mark Malcolm",
       "age": 70,
       "age_year": 2024,
       "background": "Former President and CEO of Tower International, Inc. Former executive at Ford Motor Company.",
@@ -168,10 +177,11 @@
       "committees": [
         "Audit",
         "Compensation"
-      ]
+      ],
+      "name_original": "Mark M. Malcolm"
     },
     {
-      "name": "James N. Mattis",
+      "name": "James Mattis",
       "age": 73,
       "age_year": 2024,
       "background": "General, U.S. Marine Corps (Retired). Former U.S. Secretary of Defense.",
@@ -186,10 +196,11 @@
       "committees": [
         "Governance",
         "Finance"
-      ]
+      ],
+      "name_original": "James N. Mattis"
     },
     {
-      "name": "Catherine B. Reynolds",
+      "name": "Catherine Reynolds",
       "age": 66,
       "age_year": 2024,
       "background": "Chairman and CEO of the Catherine B. Reynolds Foundation. Former CEO of Educap Inc.",
@@ -204,10 +215,11 @@
       "committees": [
         "Compensation",
         "Governance"
-      ]
+      ],
+      "name_original": "Catherine B. Reynolds"
     },
     {
-      "name": "Laura J. Schumacher",
+      "name": "Laura Schumacher",
       "age": 60,
       "age_year": 2024,
       "background": "Former Vice Chairman, External Affairs and Chief Legal Officer of AbbVie Inc.",
@@ -222,10 +234,11 @@
       "committees": [
         "Audit",
         "Governance"
-      ]
+      ],
+      "name_original": "Laura J. Schumacher"
     },
     {
-      "name": "Kevin M. Warren",
+      "name": "Kevin Warren",
       "age": 61,
       "age_year": 2024,
       "background": "Former Chief Marketing Officer of UPS. Former executive at Xerox Corporation.",
@@ -240,10 +253,11 @@
       "committees": [
         "Audit",
         "Finance"
-      ]
+      ],
+      "name_original": "Kevin M. Warren"
     },
     {
-      "name": "John G. Stratton",
+      "name": "John Stratton",
       "age": 62,
       "age_year": 2024,
       "background": "Executive Chairman of Frontier Communications. Former Executive Vice President of Verizon Communications.",
@@ -258,7 +272,8 @@
       "committees": [
         "Compensation",
         "Finance"
-      ]
+      ],
+      "name_original": "John G. Stratton"
     }
   ],
   "sources": [

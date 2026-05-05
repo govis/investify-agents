@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Scott C. Donnelly",
+      "name": "Scott Donnelly",
       "age": 62,
       "age_year": 2024,
       "background": "Mr. Donnelly has served as Chairman of the Board since September 2010 and as President and Chief Executive Officer since December 2009. He previously served as President and Chief Operating Officer from June 2008 to December 2009. Prior to joining Textron, he was President and CEO of GE Aviation.",
@@ -17,10 +17,11 @@
           "start_date": "2009-12-01",
           "end_date": "2010-09-01"
         }
-      ]
+      ],
+      "name_original": "Scott C. Donnelly"
     },
     {
-      "name": "Frank T. Connor",
+      "name": "Frank Connor",
       "age": 64,
       "age_year": 2024,
       "background": "Mr. Connor has served as Executive Vice President and Chief Financial Officer since August 2009. Before joining Textron, he was Managing Director and Head of Consolidated Corporate Finance at Goldman, Sachs & Co.",
@@ -31,10 +32,11 @@
           "start_date": "2009-08-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Frank T. Connor"
     },
     {
-      "name": "E. Robert Lupone",
+      "name": "Robert Lupone",
       "age": 59,
       "age_year": 2024,
       "background": "Mr. Lupone has served as Executive Vice President, General Counsel and Secretary since February 2012. Prior to joining Textron, he was Senior Vice President and General Counsel of Siemens Corporation.",
@@ -45,10 +47,11 @@
           "start_date": "2012-02-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "E. Robert Lupone"
     },
     {
-      "name": "Julie G. Duffy",
+      "name": "Julie Duffy",
       "age": 54,
       "age_year": 2024,
       "background": "Ms. Duffy has served as Executive Vice President, Human Resources since July 2017. She previously served as Vice President and Deputy General Counsel from 2011 to 2017.",
@@ -59,12 +62,13 @@
           "start_date": "2017-07-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Julie G. Duffy"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Richard F. Ambrose",
+      "name": "Richard Ambrose",
       "age": 65,
       "age_year": 2024,
       "background": "Former Executive Vice President, Space of Lockheed Martin Corporation. He served in various leadership roles at Lockheed Martin from 2000 to 2022.",
@@ -79,10 +83,11 @@
       "committees": [
         "Audit Committee",
         "Organization and Compensation Committee"
-      ]
+      ],
+      "name_original": "Richard F. Ambrose"
     },
     {
-      "name": "Heather J. Arnet",
+      "name": "Heather Arnet",
       "age": 48,
       "age_year": 2024,
       "background": "Chief Executive Officer of the Women's and Girls' Foundation. She has served in this role since 2004.",
@@ -96,10 +101,11 @@
       ],
       "committees": [
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Heather J. Arnet"
     },
     {
-      "name": "R. Kerry Clark",
+      "name": "Kerry Clark",
       "age": 71,
       "age_year": 2024,
       "background": "Retired Chairman and Chief Executive Officer of Cardinal Health, Inc. Former Vice Chairman of the Board of The Procter & Gamble Company.",
@@ -114,10 +120,11 @@
       "committees": [
         "Audit Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "R. Kerry Clark"
     },
     {
-      "name": "James T. Conway",
+      "name": "James Conway",
       "age": 76,
       "age_year": 2024,
       "background": "Retired General, U.S. Marine Corps. Served as the 34th Commandant of the Marine Corps from 2006 to 2010.",
@@ -132,10 +139,11 @@
       "committees": [
         "Audit Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "James T. Conway"
     },
     {
-      "name": "Scott C. Donnelly",
+      "name": "Scott Donnelly",
       "age": 62,
       "age_year": 2024,
       "background": "Chairman, President and Chief Executive Officer of Textron Inc.",
@@ -147,7 +155,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Scott C. Donnelly"
     },
     {
       "name": "Deborah Lee James",
@@ -165,10 +174,11 @@
       "committees": [
         "Audit Committee",
         "Organization and Compensation Committee"
-      ]
+      ],
+      "name_original": "Deborah Lee James"
     },
     {
-      "name": "Thomas A. Kennedy",
+      "name": "Thomas Kennedy",
       "age": 68,
       "age_year": 2024,
       "background": "Former Executive Chairman and CEO of Raytheon Technologies Corporation. Former Chairman and CEO of Raytheon Company.",
@@ -183,10 +193,11 @@
       "committees": [
         "Audit Committee",
         "Organization and Compensation Committee"
-      ]
+      ],
+      "name_original": "Thomas A. Kennedy"
     },
     {
-      "name": "Lionel L. Nowell III",
+      "name": "Lionel Nowell III",
       "age": 69,
       "age_year": 2024,
       "background": "Retired Senior Vice President and Treasurer of PepsiCo, Inc. Former Lead Director of Bank of America Corporation.",
@@ -201,10 +212,11 @@
       "committees": [
         "Audit Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Lionel L. Nowell III"
     },
     {
-      "name": "Maria S. Sastre",
+      "name": "Maria Sastre",
       "age": 68,
       "age_year": 2024,
       "background": "Former President and Chief Operating Officer of Signature Flight Support. Former Vice President, International Sales and Marketing of Royal Caribbean Cruises.",
@@ -219,7 +231,8 @@
       "committees": [
         "Organization and Compensation Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Maria S. Sastre"
     }
   ],
   "sources": [

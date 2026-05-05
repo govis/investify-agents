@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Thomas R. Palmer",
+      "name": "Thomas Palmer",
       "age": 57,
       "age_year": 2024,
       "background": "Mr. Palmer has served as President and Chief Executive Officer since October 2019 and as President since June 2019. Previously, he served as First Vice President and Chief Operating Officer from 2016 to 2019 and Senior Vice President, Asia Pacific from 2015 to 2016.",
@@ -22,10 +22,11 @@
           "start_date": "2016-01-01",
           "end_date": "2019-06-01"
         }
-      ]
+      ],
+      "name_original": "Thomas R. Palmer"
     },
     {
-      "name": "Kelli J. Ross",
+      "name": "Kelli Ross",
       "age": 51,
       "age_year": 2024,
       "background": "Ms. Ross has served as Executive Vice President and Chief Financial Officer since December 2023. Prior to joining Newmont, she served as Chief Financial Officer of Newcrest Mining Limited from 2021 to 2023.",
@@ -36,7 +37,8 @@
           "start_date": "2023-12-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Kelli J. Ross"
     },
     {
       "name": "Natascha Viljoen",
@@ -50,7 +52,8 @@
           "start_date": "2023-10-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Natascha Viljoen"
     },
     {
       "name": "Peter Toth",
@@ -64,12 +67,13 @@
           "start_date": "2022-07-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Peter Toth"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Gregory H. Boyce",
+      "name": "Gregory Boyce",
       "age": 69,
       "age_year": 2024,
       "background": "Mr. Boyce has served as Chair of the Board since 2021. He was previously the Executive Chairman of Peabody Energy Corporation.",
@@ -88,10 +92,11 @@
       ],
       "committees": [
         "Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Gregory H. Boyce"
     },
     {
-      "name": "Patrick G. Walta",
+      "name": "Patrick Walta",
       "age": 42,
       "age_year": 2024,
       "background": "Mr. Walta is a qualified metallurgist and mineral economist with over 20 years of experience in the mining industry. He was the Managing Director of Newcrest Mining Limited.",
@@ -105,10 +110,11 @@
       ],
       "committees": [
         "Safety and Sustainability Committee"
-      ]
+      ],
+      "name_original": "Patrick G. Walta"
     },
     {
-      "name": "Maura J. Clark",
+      "name": "Maura Clark",
       "age": 65,
       "age_year": 2024,
       "background": "Ms. Clark is a former Managing Director of Investment Banking at Goldman Sachs and has extensive experience in finance and capital markets.",
@@ -123,7 +129,8 @@
       "committees": [
         "Audit Committee",
         "Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Maura J. Clark"
     },
     {
       "name": "Emma FitzGerald",
@@ -141,7 +148,8 @@
       "committees": [
         "Leadership Development and Compensation Committee",
         "Safety and Sustainability Committee"
-      ]
+      ],
+      "name_original": "Emma FitzGerald"
     }
   ],
   "sources": [

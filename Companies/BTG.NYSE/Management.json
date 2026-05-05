@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Clive T. Johnson",
+      "name": "Clive Johnson",
       "age": 66,
       "age_year": 2024,
       "background": "Mr. Johnson is a founding director of B2Gold and has been the President and Chief Executive Officer since the company's inception in 2007. He was previously a founder of Bema Gold Corporation.",
@@ -12,7 +12,8 @@
           "start_date": "2007-11-30",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Clive T. Johnson"
     },
     {
       "name": "Michael Coudriet",
@@ -26,10 +27,11 @@
           "start_date": "2023-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Michael Coudriet"
     },
     {
-      "name": "Abhishek (Abby) Khandelwal",
+      "name": "Abby Khandelwal",
       "age": 44,
       "age_year": 2024,
       "background": "Mr. Khandelwal joined B2Gold in 2024 as Chief Financial Officer. He previously served as CFO of Pretium Resources Inc.",
@@ -40,7 +42,8 @@
           "start_date": "2024-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Abhishek (Abby) Khandelwal"
     },
     {
       "name": "Roger Richer",
@@ -54,7 +57,8 @@
           "start_date": "2007-11-30",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Roger Richer"
     },
     {
       "name": "Bill Lytle",
@@ -68,12 +72,13 @@
           "start_date": "2016-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Bill Lytle"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Clive T. Johnson",
+      "name": "Clive Johnson",
       "age": 66,
       "age_year": 2024,
       "background": "Founding director and CEO of B2Gold Corp.",
@@ -85,10 +90,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Clive T. Johnson"
     },
     {
-      "name": "Robert J. Gayton",
+      "name": "Robert Gayton",
       "age": 76,
       "age_year": 2024,
       "background": "Dr. Gayton is a Chartered Professional Accountant and has directed several public mining companies.",
@@ -103,7 +109,8 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Robert J. Gayton"
     },
     {
       "name": "George Johnson",
@@ -120,7 +127,8 @@
       ],
       "committees": [
         "Health, Safety, Environmental & Social Advisory Committee"
-      ]
+      ],
+      "name_original": "George Johnson"
     },
     {
       "name": "Jerry Korpan",
@@ -138,7 +146,8 @@
       "committees": [
         "Compensation Committee",
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Jerry Korpan"
     },
     {
       "name": "Kevin Bullock",
@@ -156,7 +165,8 @@
       "committees": [
         "Audit Committee",
         "Health, Safety, Environmental & Social Advisory Committee"
-      ]
+      ],
+      "name_original": "Kevin Bullock"
     },
     {
       "name": "Liane Kelly",
@@ -174,7 +184,8 @@
       "committees": [
         "Corporate Governance and Nominating Committee",
         "Health, Safety, Environmental & Social Advisory Committee"
-      ]
+      ],
+      "name_original": "Liane Kelly"
     },
     {
       "name": "Lisa Pankratz",
@@ -192,7 +203,8 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Lisa Pankratz"
     },
     {
       "name": "Thulani Mtshwene",
@@ -209,7 +221,8 @@
       ],
       "committees": [
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Thulani Mtshwene"
     }
   ],
   "sources": [

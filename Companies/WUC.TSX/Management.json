@@ -1,0 +1,107 @@
+{
+  "executives": [
+    {
+      "name": "George Glasier",
+      "age": 77,
+      "age_year": 2024,
+      "background": "Mr. Glasier is the founder of the Company and has over 40 years of experience in the uranium industry. He was the founder of Energy Fuels Inc. and served as its President and CEO. He has extensive experience in uranium exploration, development, and marketing.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2014-11-20",
+          "end_date": null
+        }
+      ],
+      "name_original": "George Glasier"
+    },
+    {
+      "name": "Robert Klein",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Klein has over 20 years of experience in the financial services industry. He previously served as a Vice President at Stifel Nicolaus and has significant experience in capital markets and corporate finance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2016-06-15",
+          "end_date": null
+        }
+      ],
+      "name_original": "Robert Klein"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "George Glasier",
+      "age": 77,
+      "age_year": 2024,
+      "background": "Founder of the Company with over 40 years of experience in the uranium industry, including founding Energy Fuels Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2014-11-20",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "George Glasier"
+    },
+    {
+      "name": "Bryan Murphy",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Murphy is a seasoned executive with over 30 years of experience in investment banking and corporate finance. He has held senior positions at several major financial institutions.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board and Independent Director",
+          "start_date": "2014-11-20",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Bryan Murphy"
+    },
+    {
+      "name": "Andrew Pollard",
+      "age": 40,
+      "age_year": 2024,
+      "background": "Mr. Pollard is the founder of Mining Plus and has extensive experience in the mining sector, specifically in corporate development and capital markets.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Andrew Pollard"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://western-uranium.com/management.html",
+      "source_description": "Company Website - Management Team",
+      "as_of_date": "2024-05-15"
+    },
+    {
+      "source_url": "https://western-uranium.com/board-of-directors.html",
+      "source_description": "Company Website - Board of Directors",
+      "as_of_date": "2024-05-15"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "Management Information Circular",
+      "as_of_date": "2024-06-30"
+    }
+  ]
+}

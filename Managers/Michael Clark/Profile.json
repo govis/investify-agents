@@ -1,0 +1,37 @@
+{
+  "name": "Michael Clark",
+  "first_name": "Michael",
+  "last_name": "Clark",
+  "age": 65,
+  "age_year": 2024,
+  "background": "President of B-Filer Inc. since 2012. Formerly Executive Vice President at Northern Trust.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Sprott Energy Transition Materials ETF",
+      "ticker": "SETM",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Trustee",
+      "start_date": "2018",
+      "end_date": null
+    },
+    {
+      "name": "Sprott Uranium Miners ETF",
+      "ticker": "URNM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Trustee",
+      "start_date": "2018-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ]
+}

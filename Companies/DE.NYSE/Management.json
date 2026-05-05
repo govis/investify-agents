@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "John C. May",
+      "name": "John May",
       "age": 55,
       "age_year": 2024,
       "background": "John C. May is Chairman of the Board of Directors and Chief Executive Officer of Deere & Company. He is responsible for leading the company's efforts to provide advanced equipment and technology solutions for customers in the agriculture, construction, and forestry industries. May joined John Deere in 1997 and has held various leadership roles across the company.",
@@ -17,7 +17,8 @@
           "start_date": "2019-11-04",
           "end_date": "2020-05-01"
         }
-      ]
+      ],
+      "name_original": "John C. May"
     },
     {
       "name": "Joshua Jepsen",
@@ -31,10 +32,11 @@
           "start_date": "2022-09-16",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Joshua Jepsen"
     },
     {
-      "name": "Cory J. Reed",
+      "name": "Cory Reed",
       "age": 53,
       "age_year": 2024,
       "background": "Cory J. Reed is President, Production & Precision Ag. He is responsible for the company's global production and precision agriculture business. Reed joined John Deere in 1998 and has held various leadership roles in marketing and sales.",
@@ -45,7 +47,8 @@
           "start_date": "2020-08-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Cory J. Reed"
     },
     {
       "name": "Justin Rose",
@@ -59,10 +62,11 @@
           "start_date": "2022-10-31",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Justin Rose"
     },
     {
-      "name": "Deanna M. Kovar",
+      "name": "Deanna Kovar",
       "age": 46,
       "age_year": 2024,
       "background": "Deanna M. Kovar is President, Agricultural, Turf & Orchard Solutions. She is responsible for the company's global small agriculture and turf business. Kovar joined John Deere in 2000 and has held various roles in sales, marketing, and product development.",
@@ -73,12 +77,13 @@
           "start_date": "2023-11-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Deanna M. Kovar"
     }
   ],
   "board_of_directors": [
     {
-      "name": "John C. May",
+      "name": "John May",
       "age": 55,
       "age_year": 2024,
       "background": "Chairman and CEO of Deere & Company.",
@@ -90,10 +95,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "John C. May"
     },
     {
-      "name": "Leanne G. Caret",
+      "name": "Leanne Caret",
       "age": 57,
       "age_year": 2024,
       "background": "Former Executive Vice President of The Boeing Company and President and CEO of Boeing Defense, Space & Security.",
@@ -108,10 +114,11 @@
       "committees": [
         "Audit Committee",
         "Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Leanne G. Caret"
     },
     {
-      "name": "Tamra A. Erwin",
+      "name": "Tamra Erwin",
       "age": 55,
       "age_year": 2024,
       "background": "Former Executive Vice President and CEO of Verizon Business.",
@@ -126,10 +133,11 @@
       "committees": [
         "Compensation Committee",
         "Finance Committee"
-      ]
+      ],
+      "name_original": "Tamra A. Erwin"
     },
     {
-      "name": "Alan C. Heuberger",
+      "name": "Alan Heuberger",
       "age": 51,
       "age_year": 2024,
       "background": "Senior Investment Manager at Cascade Asset Management Company.",
@@ -144,10 +152,11 @@
       "committees": [
         "Audit Committee",
         "Finance Committee"
-      ]
+      ],
+      "name_original": "Alan C. Heuberger"
     },
     {
-      "name": "Charles O. Holliday, Jr.",
+      "name": "Charles Holliday, Jr.",
       "age": 75,
       "age_year": 2024,
       "background": "Former Chairman of Royal Dutch Shell plc and former Chairman and CEO of DuPont.",
@@ -162,10 +171,11 @@
       "committees": [
         "Corporate Governance Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Charles O. Holliday, Jr."
     },
     {
-      "name": "Michael O. Johanns",
+      "name": "Michael Johanns",
       "age": 73,
       "age_year": 2024,
       "background": "Former U.S. Senator and former U.S. Secretary of Agriculture.",
@@ -180,10 +190,11 @@
       "committees": [
         "Corporate Governance Committee",
         "Finance Committee"
-      ]
+      ],
+      "name_original": "Michael O. Johanns"
     },
     {
-      "name": "Clayton M. Jones",
+      "name": "Clayton Jones",
       "age": 74,
       "age_year": 2024,
       "background": "Former Chairman and CEO of Rockwell Collins, Inc.",
@@ -198,10 +209,11 @@
       "committees": [
         "Compensation Committee",
         "Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Clayton M. Jones"
     },
     {
-      "name": "Gregory R. Page",
+      "name": "Gregory Page",
       "age": 72,
       "age_year": 2024,
       "background": "Former Chairman and CEO of Cargill, Inc.",
@@ -216,10 +228,11 @@
       "committees": [
         "Audit Committee",
         "Finance Committee"
-      ]
+      ],
+      "name_original": "Gregory R. Page"
     },
     {
-      "name": "Sherry M. Smith",
+      "name": "Sherry Smith",
       "age": 62,
       "age_year": 2024,
       "background": "Former Executive Vice President and CFO of Supervalu Inc.",
@@ -234,10 +247,11 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Sherry M. Smith"
     },
     {
-      "name": "Dmitri L. Stockton",
+      "name": "Dmitri Stockton",
       "age": 59,
       "age_year": 2024,
       "background": "Former Senior Vice President of General Electric Company and former Chairman, President, and CEO of GE Asset Management.",
@@ -252,10 +266,11 @@
       "committees": [
         "Audit Committee",
         "Finance Committee"
-      ]
+      ],
+      "name_original": "Dmitri L. Stockton"
     },
     {
-      "name": "Sheila G. Talton",
+      "name": "Sheila Talton",
       "age": 71,
       "age_year": 2024,
       "background": "President and CEO of Gray Matter Analytics.",
@@ -270,7 +285,8 @@
       "committees": [
         "Audit Committee",
         "Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Sheila G. Talton"
     }
   ],
   "sources": [

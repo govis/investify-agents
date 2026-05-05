@@ -1,0 +1,136 @@
+{
+  "executives": [
+    {
+      "name": "Jack Hamilton",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Hamilton has over 40 years of experience in the mining industry, including senior executive roles with major mining companies. He previously served as President and CEO of several exploration and development companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2021-05-15",
+          "end_date": null
+        }
+      ],
+      "name_original": "John J.S. (Jack) Hamilton"
+    },
+    {
+      "name": "Bob McKnight",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. McKnight is a professional engineer with over 35 years of experience in the mining industry, specializing in project evaluation, financial analysis, and corporate development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2022-02-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Robert (Bob) S. McKnight"
+    },
+    {
+      "name": "David Webb",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Dr. Webb is a professional geologist with over 30 years of experience in mineral exploration and development. He has been involved in the discovery and development of several mineral deposits in Canada and internationally.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Exploration",
+          "start_date": "2021-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Dr. David R. Webb"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jack Hamilton",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Hamilton has over 40 years of experience in the mining industry, including senior executive roles with major mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2021-05-15",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "John J.S. (Jack) Hamilton"
+    },
+    {
+      "name": "Joe Ovsenek",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Ovsenek is a professional engineer and lawyer with over 25 years of experience in the mining industry. He is currently the President and CEO of P2 Gold Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-05-15",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "W. Joseph (Joe) Ovsenek"
+    },
+    {
+      "name": "Ross McDonald",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Mr. McDonald is a Chartered Professional Accountant with over 40 years of experience in public accounting and financial management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-05-15",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)",
+        "Compensation Committee"
+      ],
+      "name_original": "G. Ross McDonald"
+    },
+    {
+      "name": "Michelle Tanguay",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Ms. Tanguay has over 25 years of experience in environmental management and regulatory affairs in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-06-20",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee (Chair)"
+      ],
+      "name_original": "Michelle Tanguay"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "Management Information Circular dated May 10, 2024",
+      "as_of_date": "2024-05-10"
+    },
+    {
+      "source_url": "https://orioncmc.com/about-us/management-and-directors/",
+      "source_description": "Company Website - Management and Directors Page",
+      "as_of_date": "2024-11-15"
+    }
+  ]
+}

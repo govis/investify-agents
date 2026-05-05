@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Robert J. Scaringe",
+      "name": "Robert Scaringe",
       "age": 41,
       "age_year": 2024,
       "background": "Dr. Scaringe is our founder and has served as our Chief Executive Officer and a member of our Board since our founding in 2009. Dr. Scaringe holds a B.S. in Mechanical Engineering from Rensselaer Polytechnic Institute and an M.S. and Ph.D. in Mechanical Engineering from the Massachusetts Institute of Technology.",
@@ -12,7 +12,8 @@
           "start_date": "2009-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Robert J. Scaringe"
     },
     {
       "name": "Claire McDonough",
@@ -26,7 +27,8 @@
           "start_date": "2021-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Claire McDonough"
     },
     {
       "name": "Kjell Gruner",
@@ -40,12 +42,13 @@
           "start_date": "2023-09-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Kjell Gruner"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Robert J. Scaringe",
+      "name": "Robert Scaringe",
       "age": 41,
       "age_year": 2024,
       "background": "Founder and CEO of Rivian.",
@@ -57,7 +60,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Robert J. Scaringe"
     },
     {
       "name": "Karen Boone",
@@ -75,7 +79,8 @@
       "committees": [
         "Audit Committee",
         "Nominating and Governance Committee"
-      ]
+      ],
+      "name_original": "Karen Boone"
     },
     {
       "name": "Sanford Schwartz",
@@ -92,7 +97,8 @@
       ],
       "committees": [
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Sanford Schwartz"
     },
     {
       "name": "Rose Marcario",
@@ -109,7 +115,8 @@
       ],
       "committees": [
         "Nominating and Governance Committee"
-      ]
+      ],
+      "name_original": "Rose Marcario"
     },
     {
       "name": "Jay Flatley",
@@ -127,7 +134,8 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Jay Flatley"
     },
     {
       "name": "John Krafcik",
@@ -144,7 +152,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "John Krafcik"
     }
   ],
   "sources": [

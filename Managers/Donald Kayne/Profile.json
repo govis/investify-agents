@@ -1,0 +1,35 @@
+{
+  "name": "Donald Kayne",
+  "first_name": "Donald",
+  "last_name": "Kayne",
+  "age": 65,
+  "age_year": 2023,
+  "background": "Donald Kayne is the President and CEO of Canfor Corporation and CEO of Canfor Pulp Products Inc. He has over 40 years of experience in the forest products industry.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCJ",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2016-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "start_date": "2016-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Human Resources and Compensation Committee",
+    "Nominating, Corporate Governance and Risk Committee"
+  ]
+}

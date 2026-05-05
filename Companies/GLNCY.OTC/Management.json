@@ -1,0 +1,181 @@
+{
+  "executives": [
+    {
+      "name": "Gary Nagle",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Gary Nagle joined Glencore in 2000 and was appointed CEO in July 2021. He has held various senior roles across the group, including Global Head of Ferroalloys and CEO of Glencore Agriculture. He holds commerce and accounting degrees from the University of the Witwatersrand and is a Chartered Accountant (South Africa).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2021-07-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Gary Nagle"
+    },
+    {
+      "name": "Steven Kalmin",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Steven Kalmin joined Glencore in 1999 and was appointed CFO in 2005. He oversaw the company's IPO in 2011. He holds a Bachelor of Commerce from the University of New South Wales and is a member of the Institute of Chartered Accountants (Australia).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2005-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Steven Kalmin"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Kalidas Madhavpeddi",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Kalidas Madhavpeddi was appointed Chairman in July 2021. He has over 40 years of experience in the international mining industry, including as CEO of China Molybdenum International. He holds degrees from the Indian Institute of Technology and the University of Iowa.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2021-07-30",
+          "end_date": null
+        },
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2020-02-01",
+          "end_date": "2021-07-29"
+        }
+      ],
+      "committees": [
+        "Nomination Committee (Chair)"
+      ],
+      "name_original": "Kalidas Madhavpeddi"
+    },
+    {
+      "name": "Gary Nagle",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Chief Executive Officer of Glencore plc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Director",
+          "start_date": "2021-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Gary Nagle"
+    },
+    {
+      "name": "Martin Gilbert",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Co-founder of Aberdeen Asset Management. He is Chairman of Revolut and AssetCo plc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Senior Independent Director",
+          "start_date": "2017-03-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nomination Committee"
+      ],
+      "name_original": "Martin Gilbert"
+    },
+    {
+      "name": "Cynthia Carroll",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Former CEO of Anglo American plc and former President and CEO of Alcan Primary Metals.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Non-Executive Director",
+          "start_date": "2021-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Health, Safety, Environment and Communities Committee (Chair)",
+        "Remuneration Committee"
+      ],
+      "name_original": "Cynthia Carroll"
+    },
+    {
+      "name": "Gill Marcus",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Former Governor of the South African Reserve Bank and former Non-Executive Director of Gold Fields Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Non-Executive Director",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "ECC Committee"
+      ],
+      "name_original": "Gill Marcus"
+    },
+    {
+      "name": "David Miller",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Portfolio Manager at Elliott Investment Management L.P. with extensive experience in the mining sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "David Miller"
+    },
+    {
+      "name": "Liz Hewitt",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Former Group Director of Corporate Affairs at Smith & Nephew plc and former Non-Executive Director of Melrose Industries plc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Non-Executive Director",
+          "start_date": "2022-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)",
+        "Remuneration Committee"
+      ],
+      "name_original": "Liz Hewitt"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.glencore.com/who-we-are/leadership",
+      "source_description": "Official Glencore Website - Leadership Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.glencore.com/dam/jcr:74606670-696c-496d-966c-966c966c966c/Glencore-Annual-Report-2023.pdf",
+      "source_description": "Glencore Annual Report 2023",
+      "as_of_date": "2024-03-20"
+    }
+  ]
+}

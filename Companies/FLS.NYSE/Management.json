@@ -1,0 +1,173 @@
+{
+  "executives": [
+    {
+      "name": "Scott Rowe",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Rowe has served as President and Chief Executive Officer since April 2017. Prior to joining Flowserve, he served as President of the Cameron Group, a segment of Schlumberger Limited, from April 2016 to April 2017. He previously served as President and CEO of Cameron International Corporation from October 2015 to April 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2017-04-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "R. Scott Rowe"
+    },
+    {
+      "name": "Amy Schwetz",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Ms. Schwetz has served as Senior Vice President and Chief Financial Officer since February 2020. Prior to joining Flowserve, she served as Executive Vice President and Chief Financial Officer of Peabody Energy Corporation from July 2015 to February 2020.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Financial Officer",
+          "start_date": "2020-02-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Amy B. Schwetz"
+    },
+    {
+      "name": "Lanesha Minnix",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Ms. Minnix has served as Senior Vice President, Chief Legal Officer and Corporate Secretary since June 2023. Prior to joining Flowserve, she served as Senior Vice President, General Counsel and Corporate Secretary of Ecolab Inc. from March 2022 to June 2023.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Chief Legal Officer and Corporate Secretary",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Lanesha T. Minnix"
+    },
+    {
+      "name": "Tamara Morytko",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Ms. Morytko has served as President, Pumps Division since January 2023. She previously served as President, Flow Control Division from September 2020 to January 2023. Prior to joining Flowserve, she was Chief Operating Officer of Nidec Motor Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Pumps Division",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Tamara M. Morytko"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Ruby Chandy",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Ms. Chandy was the President of the Industrial Division of Pall Corporation from 2012 to 2015. She previously served as Chief Marketing Officer of Rohm and Haas Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Corporate Governance & Nominating Committee"
+      ],
+      "name_original": "Ruby R. Chandy"
+    },
+    {
+      "name": "Gayla Delly",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Ms. Delly served as President and Chief Executive Officer of Benchmark Electronics Inc. from 2012 to 2016. She is a certified public accountant.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2011-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)",
+        "Finance Committee"
+      ],
+      "name_original": "Gayla J. Delly"
+    },
+    {
+      "name": "John Friedery",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Mr. Friedery served as Senior Vice President of Ball Corporation and President of Metal Beverage Packaging, Americas and Asia from 2008 to 2010.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2007-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Organization & Compensation Committee",
+        "Finance Committee"
+      ],
+      "name_original": "John R. Friedery"
+    },
+    {
+      "name": "Carlyn Taylor",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Ms. Taylor is a Global Co-Leader of Corporate Finance & Restructuring at FTI Consulting, Inc. and has served in various leadership roles there since 2002.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Finance Committee"
+      ],
+      "name_original": "Carlyn R. Taylor"
+    },
+    {
+      "name": "David Roberts",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Roberts served as President and Chief Executive Officer of Carlisle Companies Incorporated from 2007 to 2016 and as Chairman from 2014 to 2017.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Chairman",
+          "start_date": "2011-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Governance & Nominating Committee",
+        "Organization & Compensation Committee"
+      ],
+      "name_original": "David E. Roberts"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/30625/000003062524000031/fls-20240411.htm",
+      "source_description": "DEF 14A Proxy Statement",
+      "as_of_date": "2024-04-11"
+    },
+    {
+      "source_url": "https://www.flowserve.com/en/about-flowserve/leadership-team/",
+      "source_description": "Flowserve Official Website - Leadership Team",
+      "as_of_date": "2024-05-22"
+    }
+  ]
+}

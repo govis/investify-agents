@@ -1,0 +1,35 @@
+{
+  "name": "Bryn Jones",
+  "first_name": "Bryn",
+  "last_name": "Jones",
+  "age": 46,
+  "age_year": 2024,
+  "background": "Mr. Jones is an industrial chemist with over 20 years\u2019 experience in the mining industry, specifically in uranium. He is also a director of several other ASX-listed companies.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Boss Energy Limited",
+      "ticker": "BOE",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2019-09-18",
+      "end_date": null
+    },
+    {
+      "name": "Laramide Resources Ltd.",
+      "ticker": "LAM",
+      "exchange": "TSX",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2014-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ]
+}

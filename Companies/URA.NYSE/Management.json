@@ -1,0 +1,120 @@
+{
+  "executives": [
+    {
+      "name": "Ryan O'Connor",
+      "age": 40,
+      "age_year": 2024,
+      "background": "Chief Executive Officer of Global X Management Company LLC. Previously held various leadership roles at Goldman Sachs Asset Management, including Global Head of ETF Product.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2024-04-08",
+          "end_date": null
+        }
+      ],
+      "name_original": "Ryan O'Connor"
+    },
+    {
+      "name": "John Stevens",
+      "age": 52,
+      "age_year": 2023,
+      "background": "Chief Financial Officer of Global X Management Company LLC. Previously served as a Senior Vice President at Neuberger Berman.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "John J. Stevens"
+    },
+    {
+      "name": "Luis Berruga",
+      "age": 47,
+      "age_year": 2023,
+      "background": "Former CEO of Global X Management Company LLC. Previously served as COO and President.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2018-01-01",
+          "end_date": "2023-11-20"
+        }
+      ],
+      "name_original": "Luis Berruga"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Charles Baker",
+      "age": 68,
+      "age_year": 2023,
+      "background": "Independent Trustee. Formerly a Partner at DLA Piper LLP (US).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Trustee",
+          "start_date": "2008-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Governance Committee"
+      ],
+      "name_original": "Charles A. Baker"
+    },
+    {
+      "name": "Susan Ciccarone",
+      "age": 51,
+      "age_year": 2023,
+      "background": "Independent Trustee. Managing Director of Goldman Sachs & Co. LLC.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Trustee",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Governance Committee"
+      ],
+      "name_original": "Susan M. Ciccarone"
+    },
+    {
+      "name": "Clifford Weber",
+      "age": 63,
+      "age_year": 2023,
+      "background": "Independent Trustee. Formerly Executive Vice President at the American Stock Exchange.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Trustee",
+          "start_date": "2008-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Governance Committee"
+      ],
+      "name_original": "Clifford J. Weber"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1432353/000113752324000012/globalx-ncsr_103123.htm",
+      "source_description": "SEC Form N-CSR - Annual Report for Global X Funds",
+      "as_of_date": "2023-10-31"
+    },
+    {
+      "source_url": "https://www.globalxetfs.com/press-release/global-x-etfs-appoints-ryan-oconnor-as-ceo/",
+      "source_description": "Global X Press Release: Appointment of Ryan O'Connor as CEO",
+      "as_of_date": "2024-02-20"
+    }
+  ]
+}

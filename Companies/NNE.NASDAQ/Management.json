@@ -1,0 +1,133 @@
+{
+  "executives": [
+    {
+      "name": "Jay Jiang Yu",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Mr. Yu is the Founder and Executive Chairman of NANO Nuclear Energy Inc. He is a serial entrepreneur and has over 16 years of experience in capital markets and corporate restructuring. He has served as a consultant to several public companies and has been involved in numerous private and public financings.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Founder and Executive Chairman",
+          "start_date": "2022-04-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Jay Jiang Yu"
+    },
+    {
+      "name": "James Walker",
+      "age": 41,
+      "age_year": 2024,
+      "background": "Mr. Walker is the Chief Executive Officer and a Director of NANO Nuclear Energy Inc. He has over 15 years of experience in the nuclear industry, including roles in engineering, project management, and executive leadership. He previously served as the CEO of a private nuclear technology company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer and Director",
+          "start_date": "2022-04-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "James Walker"
+    },
+    {
+      "name": "Winston Chow",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Chow is the Chief Financial Officer of NANO Nuclear Energy Inc. He has over 25 years of experience in finance and accounting, including roles as CFO and Controller for several public and private companies. He is a Certified Public Accountant.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Winston Chow"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jay Jiang Yu",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Founder and Executive Chairman of NANO Nuclear Energy Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Chairman",
+          "start_date": "2022-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Jay Jiang Yu"
+    },
+    {
+      "name": "James Walker",
+      "age": 41,
+      "age_year": 2024,
+      "background": "Chief Executive Officer and Director of NANO Nuclear Energy Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "James Walker"
+    },
+    {
+      "name": "Lassina Zerbo",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Dr. Zerbo is the former Executive Secretary of the Comprehensive Nuclear-Test-Ban Treaty Organization (CTBTO) and has served as the Prime Minister of Burkina Faso. He is a renowned expert in nuclear non-proliferation and international diplomacy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Dr. Lassina Zerbo"
+    },
+    {
+      "name": "Robert Hill",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Hill has over 40 years of experience in the nuclear industry, including senior leadership roles at major nuclear engineering firms. He is an expert in nuclear reactor design and safety.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Corporate Governance Committee"
+      ],
+      "name_original": "Robert S. Hill"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1924111/000121390024041234/f10k2023_nanonuclear.htm",
+      "source_description": "SEC Form 10-K Annual Report for the fiscal year ended September 30, 2023",
+      "as_of_date": "2024-01-15"
+    },
+    {
+      "source_url": "https://nanonuclearenergy.com/about-us/leadership-team/",
+      "source_description": "Company Website - Leadership Team Page",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

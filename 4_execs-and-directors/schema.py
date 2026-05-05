@@ -3,6 +3,7 @@ from pydantic import BaseModel, Field
 
 class PersonInfo(BaseModel):
     name: str = Field(description="Full name of the person")
+    name_original: Optional[str] = Field(None, description="The original name as extracted from sources, before cleaning")
     age: Optional[int] = Field(None, description="Approximate age of the person")
     age_year: Optional[int] = Field(None, description="Year the age was estimated")
     background: Optional[str] = Field(None, description="Brief professional background")

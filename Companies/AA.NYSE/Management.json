@@ -1,0 +1,194 @@
+{
+  "executives": [
+    {
+      "name": "William Oplinger",
+      "age": 57,
+      "age_year": 2024,
+      "background": "William F. Oplinger is President and Chief Executive Officer of Alcoa Corporation. He has been with Alcoa since 2000 and previously served as Executive Vice President and Chief Operations Officer from February 2023 to September 2023, and as Executive Vice President and Chief Financial Officer from November 2016 to February 2023.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2023-09-24",
+          "end_date": null
+        },
+        {
+          "title": "Executive Vice President and Chief Operations Officer",
+          "start_date": "2023-02-01",
+          "end_date": "2023-09-23"
+        },
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2016-11-01",
+          "end_date": "2023-01-31"
+        }
+      ],
+      "name_original": "William F. Oplinger"
+    },
+    {
+      "name": "Molly Beerman",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Molly S. Beerman is Executive Vice President and Chief Financial Officer. She previously served as Senior Vice President and Controller from 2019 to 2023 and has held various financial leadership roles at Alcoa since 2001.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2023-02-01",
+          "end_date": null
+        },
+        {
+          "title": "Senior Vice President and Controller",
+          "start_date": "2019-12-01",
+          "end_date": "2023-01-31"
+        }
+      ],
+      "name_original": "Molly S. Beerman"
+    },
+    {
+      "name": "Renato Bacchi",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Renato Bacchi is Executive Vice President and Chief Commercial Officer. He joined Alcoa in 1997 and has held leadership positions in energy, treasury, and business development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Commercial Officer",
+          "start_date": "2023-02-01",
+          "end_date": null
+        },
+        {
+          "title": "Executive Vice President and Chief Strategy Officer",
+          "start_date": "2022-02-01",
+          "end_date": "2023-01-31"
+        }
+      ],
+      "name_original": "Renato Bacchi"
+    },
+    {
+      "name": "Andrew Hastings",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Andrew P. Hastings is Executive Vice President and General Counsel. He joined Alcoa in 2023 from Lundin Mining Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and General Counsel",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Andrew P. Hastings"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Steven Williams",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Steven W. Williams is the Non-Executive Chairman of the Board. He is the former President and CEO of Suncor Energy Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Chairman",
+          "start_date": "2023-05-01",
+          "end_date": null
+        },
+        {
+          "role": "Director",
+          "start_date": "2016-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "Steven W. Williams"
+    },
+    {
+      "name": "William Oplinger",
+      "age": 57,
+      "age_year": 2024,
+      "background": "President and CEO of Alcoa Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-09-24",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "William F. Oplinger"
+    },
+    {
+      "name": "James Nevels",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Founder and Chairman of The Swarthmore Group.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "James E. Nevels"
+    },
+    {
+      "name": "Carol Roberts",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former Senior Vice President and CFO of International Paper Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation and Benefits Committee"
+      ],
+      "name_original": "Carol L. Roberts"
+    },
+    {
+      "name": "Thomas Gorman",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former CEO of Brambles Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2017-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation and Benefits Committee",
+        "Safety, Sustainability and Public Issues Committee"
+      ],
+      "name_original": "Thomas J. Gorman"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1675149/000167514924000011/aa-20240319.htm",
+      "source_description": "Alcoa Corporation 2024 Proxy Statement (DEF 14A)",
+      "as_of_date": "2024-03-19"
+    },
+    {
+      "source_url": "https://www.alcoa.com/global/en/who-we-are/leadership/default.asp",
+      "source_description": "Alcoa Official Website - Leadership Page",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

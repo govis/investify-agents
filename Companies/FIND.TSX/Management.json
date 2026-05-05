@@ -1,0 +1,133 @@
+{
+  "executives": [
+    {
+      "name": "James Sykes",
+      "age": 43,
+      "age_year": 2024,
+      "background": "Mr. Sykes has over 15 years of uranium exploration and discovery experience in the Athabasca Basin. He was instrumental in the discovery of the Roughrider, Arrow, and Triple R deposits. He previously served as Vice President, Exploration for Appia Energy Corp. and has held roles with NexGen Energy, Hathor Exploration, and Rio Tinto.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer and President",
+          "start_date": "2020-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "James Sykes"
+    },
+    {
+      "name": "Kevin Ma",
+      "age": 42,
+      "age_year": 2024,
+      "background": "Mr. Ma is a senior financial professional with over 15 years of experience in corporate finance, financial reporting, and regulatory compliance. He is a Chartered Professional Accountant and has served as CFO for several publicly traded resource companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2020-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Kevin Ma"
+    },
+    {
+      "name": "Cameron McKay",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. McKay is a professional geologist with over 10 years of experience in uranium exploration. He has been involved in various stages of exploration from grassroots to resource definition in the Athabasca Basin.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Exploration",
+          "start_date": "2021-09-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Cameron McKay"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Stephen Stewart",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Mr. Stewart is the Chairman of the Orefinders Resources and Mistango River Resources. He has over 15 years of experience in the resource sector, focusing on corporate development and capital markets. He is also the founder of the Young Mining Professionals.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman and Director",
+          "start_date": "2020-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Stephen Stewart"
+    },
+    {
+      "name": "James Sykes",
+      "age": 43,
+      "age_year": 2024,
+      "background": "Mr. Sykes has over 15 years of uranium exploration and discovery experience in the Athabasca Basin. He was instrumental in the discovery of the Roughrider, Arrow, and Triple R deposits.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2020-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "James Sykes"
+    },
+    {
+      "name": "Charles Beaudry",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Beaudry is a professional geologist with more than 35 years of experience in mineral exploration and project development. He previously held senior roles with Noranda and Falconbridge.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Charles Beaudry"
+    },
+    {
+      "name": "Gabe Changy",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. de Changy has over 20 years of experience in the financial sector, specifically in investment banking and private equity. He has a strong background in M&A and capital raising for resource companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-05-12",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Michael G.S.S. (Gabe) de Changy"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://baselode.com/corporate/management-and-directors/",
+      "source_description": "Official Company Website - Management and Directors Page",
+      "as_of_date": "2024-05-22"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "Management Information Circular dated May 15, 2024",
+      "as_of_date": "2024-05-15"
+    }
+  ]
+}

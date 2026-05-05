@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Michael S. Dell",
+      "name": "Michael Dell",
       "age": 59,
       "age_year": 2024,
       "background": "Michael S. Dell is the Chairman of the Board and Chief Executive Officer of Dell Technologies. He has served as Chairman of the Board since Dell's inception in 1984 and as Chief Executive Officer since 2004. Mr. Dell also served as CEO from 1984 to 2004.",
@@ -17,7 +17,8 @@
           "start_date": "2004-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Michael S. Dell"
     },
     {
       "name": "Jeff Clarke",
@@ -31,7 +32,8 @@
           "start_date": "2017-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Jeff Clarke"
     },
     {
       "name": "Yvonne McGill",
@@ -45,12 +47,13 @@
           "start_date": "2023-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Yvonne McGill"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Michael S. Dell",
+      "name": "Michael Dell",
       "age": 59,
       "age_year": 2024,
       "background": "Founder, Chairman, and CEO of Dell Technologies.",
@@ -62,10 +65,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Michael S. Dell"
     },
     {
-      "name": "David W. Dorman",
+      "name": "David Dorman",
       "age": 70,
       "age_year": 2024,
       "background": "Former Chairman and CEO of AT&T Corp. and former Chairman of CVS Health Corporation.",
@@ -80,7 +84,8 @@
       "committees": [
         "Governance and Nominating Committee",
         "Audit Committee"
-      ]
+      ],
+      "name_original": "David W. Dorman"
     },
     {
       "name": "Egon Durban",
@@ -97,10 +102,11 @@
       ],
       "committees": [
         "Executive Committee"
-      ]
+      ],
+      "name_original": "Egon Durban"
     },
     {
-      "name": "William D. Green",
+      "name": "William Green",
       "age": 70,
       "age_year": 2024,
       "background": "Former Chairman and CEO of Accenture.",
@@ -115,7 +121,8 @@
       "committees": [
         "Audit Committee",
         "Leadership Development and Compensation Committee"
-      ]
+      ],
+      "name_original": "William D. Green"
     },
     {
       "name": "Simon Patterson",
@@ -132,7 +139,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Simon Patterson"
     },
     {
       "name": "Lynn Vojvodich Radakovich",
@@ -149,7 +157,8 @@
       ],
       "committees": [
         "Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Lynn Vojvodich Radakovich"
     }
   ],
   "sources": [

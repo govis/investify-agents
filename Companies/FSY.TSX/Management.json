@@ -1,10 +1,10 @@
 {
   "executives": [
     {
-      "name": "Mark J. Frewin",
+      "name": "Mark Frewin",
       "age": 70,
       "age_year": 2024,
-      "background": "Mr. Frewin is a lawyer with over 35 years of experience in the legal and mining sectors. He has held senior executive positions and directorships in several resource companies. He was previously a partner at McCarthy Tétrault LLP.",
+      "background": "Mr. Frewin is a lawyer with over 35 years of experience in the legal and mining sectors. He has held senior executive positions and directorships in several resource companies. He was previously a partner at McCarthy T\u00e9trault LLP.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -17,7 +17,8 @@
           "start_date": "2010-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Mark J. Frewin"
     },
     {
       "name": "Richard Parkhouse",
@@ -36,7 +37,8 @@
           "start_date": "2014-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Richard Parkhouse"
     },
     {
       "name": "Jorge Estepa",
@@ -50,7 +52,8 @@
           "start_date": "2004-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Jorge Estepa"
     },
     {
       "name": "Miles Thompson",
@@ -64,15 +67,16 @@
           "start_date": "2021-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Miles Thompson"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Mark J. Frewin",
+      "name": "Mark Frewin",
       "age": 70,
       "age_year": 2024,
-      "background": "Mr. Frewin is a lawyer with over 35 years of experience in the legal and mining sectors. He has held senior executive positions and directorships in several resource companies. He was previously a partner at McCarthy Tétrault LLP.",
+      "background": "Mr. Frewin is a lawyer with over 35 years of experience in the legal and mining sectors. He has held senior executive positions and directorships in several resource companies. He was previously a partner at McCarthy T\u00e9trault LLP.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -81,7 +85,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Mark J. Frewin"
     },
     {
       "name": "Richard Parkhouse",
@@ -98,7 +103,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Richard Parkhouse"
     },
     {
       "name": "Miles Thompson",
@@ -115,7 +121,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Miles Thompson"
     },
     {
       "name": "Martin Rowley",
@@ -132,7 +139,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Martin Rowley"
     }
   ],
   "sources": [

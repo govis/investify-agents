@@ -1,0 +1,119 @@
+{
+  "executives": [
+    {
+      "name": "Andrew Grove",
+      "age": null,
+      "age_year": null,
+      "background": "Mr Grove has over 30 years of experience in the mining industry, including 22 years with Macquarie Bank in mining finance and 8 years in senior executive roles at African-focused gold producers. He has significant experience in project development, operations, and corporate finance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Managing Director and CEO",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Andrew Grove"
+    },
+    {
+      "name": "Ross Armstrong",
+      "age": null,
+      "age_year": null,
+      "background": "Mr Armstrong is a finance professional with over 20 years of experience in the resources sector. He has held senior financial roles in several ASX-listed companies and has extensive experience in financial management, corporate governance, and project financing.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2024-05-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Ross Armstrong"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Phil Mitchell",
+      "age": null,
+      "age_year": null,
+      "background": "Mr Mitchell has over 40 years of experience in the mining industry, including senior executive roles at Rio Tinto and Anglo American. He has extensive experience in project development, operations, and corporate strategy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Chairman",
+          "start_date": "2021-12-21",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee",
+        "Remuneration and Nomination Committee"
+      ],
+      "name_original": "Philanthrope (Phil) Mitchell"
+    },
+    {
+      "name": "Andrew Grove",
+      "age": null,
+      "age_year": null,
+      "background": "Mr Grove has over 30 years of experience in the mining industry, including 22 years with Macquarie Bank in mining finance and 8 years in senior executive roles at African-focused gold producers.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Managing Director",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Andrew Grove"
+    },
+    {
+      "name": "Warren Mundine",
+      "age": null,
+      "age_year": null,
+      "background": "Mr Mundine is a prominent Australian businessman and political figure with extensive experience in the mining and resources sector, particularly in relation to Indigenous engagement and corporate governance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2021-12-21",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Remuneration and Nomination Committee"
+      ],
+      "name_original": "Warren Mundine"
+    },
+    {
+      "name": "Patrick Mutz",
+      "age": null,
+      "age_year": null,
+      "background": "Mr Mutz has over 40 years of experience in the mining industry, with a focus on uranium mining and processing. He has held senior executive roles in several uranium companies in the US and Australia.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2022-05-18",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee"
+      ],
+      "name_original": "Patrick Mutz"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://auraenergy.com.au/about-us/board-management/",
+      "source_description": "Official Aura Energy Board and Management page",
+      "as_of_date": "2024-10-27"
+    },
+    {
+      "source_url": "https://www.asx.com.au/asx/statistics/announcements.do?by=asxCode&asxCode=AEE&timeframe=D&period=M6",
+      "source_description": "ASX Announcements for Aura Energy Limited",
+      "as_of_date": "2024-10-27"
+    }
+  ]
+}

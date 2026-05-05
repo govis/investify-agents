@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Kathy J. Warden",
+      "name": "Kathy Warden",
       "age": 52,
       "age_year": 2024,
       "background": "Ms. Warden is Chair, Chief Executive Officer and President of Northrop Grumman Corporation. She has been CEO and President since January 2019 and was elected Chair of the Board in August 2019. Prior to becoming CEO and President, she served as President and Chief Operating Officer from 2018 to 2019.",
@@ -22,10 +22,11 @@
           "start_date": "2018-01-01",
           "end_date": "2018-12-31"
         }
-      ]
+      ],
+      "name_original": "Kathy J. Warden"
     },
     {
-      "name": "Kenneth L. Bedingfield",
+      "name": "Kenneth Bedingfield",
       "age": 51,
       "age_year": 2024,
       "background": "Mr. Bedingfield is Corporate Vice President and Chief Financial Officer of Northrop Grumman Corporation, a role he has held since 2015. He previously served as Corporate Vice President, Controller and Chief Accounting Officer.",
@@ -36,10 +37,11 @@
           "start_date": "2015-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Kenneth L. Bedingfield"
     },
     {
-      "name": "Mark A. Caylor",
+      "name": "Mark Caylor",
       "age": 59,
       "age_year": 2024,
       "background": "Mr. Caylor is Corporate Vice President and President, Mission Systems. He previously served as Corporate Vice President and President, Enterprise Services and Chief Strategy Officer.",
@@ -50,10 +52,11 @@
           "start_date": "2019-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Mark A. Caylor"
     },
     {
-      "name": "Sheila C. Cheston",
+      "name": "Sheila Cheston",
       "age": 61,
       "age_year": 2024,
       "background": "Ms. Cheston is Corporate Vice President and General Counsel. She has served in this role since 2010. Previously, she was General Counsel of BAE Systems, Inc.",
@@ -64,10 +67,11 @@
           "start_date": "2010-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Sheila C. Cheston"
     },
     {
-      "name": "Thomas H. Jones",
+      "name": "Thomas Jones",
       "age": 57,
       "age_year": 2024,
       "background": "Mr. Jones is Corporate Vice President and President, Aeronautics Systems. He previously served as Sector Vice President and General Manager, Airborne Sensors & Networks.",
@@ -78,12 +82,13 @@
           "start_date": "2021-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Thomas H. Jones"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Kathy J. Warden",
+      "name": "Kathy Warden",
       "age": 52,
       "age_year": 2024,
       "background": "Chair, Chief Executive Officer and President of Northrop Grumman Corporation.",
@@ -95,10 +100,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Kathy J. Warden"
     },
     {
-      "name": "David P. Abney",
+      "name": "David Abney",
       "age": 68,
       "age_year": 2024,
       "background": "Former Executive Chairman of the Board and Chief Executive Officer of United Parcel Service, Inc. (UPS).",
@@ -113,10 +119,11 @@
       "committees": [
         "Audit Committee",
         "Compensation and Management Development Committee"
-      ]
+      ],
+      "name_original": "David P. Abney"
     },
     {
-      "name": "Marianne C. Brown",
+      "name": "Marianne Brown",
       "age": 65,
       "age_year": 2024,
       "background": "Former Co-Chief Operating Officer, Global Financial Solutions of Fidelity National Information Services, Inc. (FIS).",
@@ -131,10 +138,11 @@
       "committees": [
         "Audit Committee",
         "Governance, Nominating and Sustainability Committee"
-      ]
+      ],
+      "name_original": "Marianne C. Brown"
     },
     {
-      "name": "Donald E. Felsinger",
+      "name": "Donald Felsinger",
       "age": 76,
       "age_year": 2024,
       "background": "Former Chairman and Chief Executive Officer of Sempra Energy. Lead Independent Director of Northrop Grumman.",
@@ -149,10 +157,11 @@
       "committees": [
         "Governance, Nominating and Sustainability Committee",
         "Compensation and Management Development Committee"
-      ]
+      ],
+      "name_original": "Donald E. Felsinger"
     },
     {
-      "name": "Ann M. Fudge",
+      "name": "Ann Fudge",
       "age": 72,
       "age_year": 2024,
       "background": "Former Chairman and Chief Executive Officer of Young & Rubicam Brands.",
@@ -167,10 +176,11 @@
       "committees": [
         "Compensation and Management Development Committee",
         "Governance, Nominating and Sustainability Committee"
-      ]
+      ],
+      "name_original": "Ann M. Fudge"
     },
     {
-      "name": "William H. Hernandez",
+      "name": "William Hernandez",
       "age": 75,
       "age_year": 2024,
       "background": "Former Senior Vice President and Chief Financial Officer of PPG Industries, Inc.",
@@ -185,10 +195,11 @@
       "committees": [
         "Audit Committee",
         "Governance, Nominating and Sustainability Committee"
-      ]
+      ],
+      "name_original": "William H. Hernandez"
     },
     {
-      "name": "Madeleine A. Kleiner",
+      "name": "Madeleine Kleiner",
       "age": 72,
       "age_year": 2024,
       "background": "Former Executive Vice President and General Counsel of Hilton Hotels Corporation.",
@@ -203,7 +214,8 @@
       "committees": [
         "Governance, Nominating and Sustainability Committee",
         "Compensation and Management Development Committee"
-      ]
+      ],
+      "name_original": "Madeleine A. Kleiner"
     },
     {
       "name": "Arvind Krishna",
@@ -220,10 +232,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Arvind Krishna"
     },
     {
-      "name": "Graham N. Robinson",
+      "name": "Graham Robinson",
       "age": 52,
       "age_year": 2024,
       "background": "President, Industrial Automation of Stanley Black & Decker, Inc.",
@@ -237,7 +250,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Graham N. Robinson"
     },
     {
       "name": "Gary Roughead",
@@ -255,10 +269,11 @@
       "committees": [
         "Governance, Nominating and Sustainability Committee",
         "Compensation and Management Development Committee"
-      ]
+      ],
+      "name_original": "Gary Roughead"
     },
     {
-      "name": "Thomas M. Schoewe",
+      "name": "Thomas Schoewe",
       "age": 71,
       "age_year": 2024,
       "background": "Former Executive Vice President and Chief Financial Officer of Wal-Mart Stores, Inc.",
@@ -273,10 +288,11 @@
       "committees": [
         "Audit Committee",
         "Compensation and Management Development Committee"
-      ]
+      ],
+      "name_original": "Thomas M. Schoewe"
     },
     {
-      "name": "James S. Turley",
+      "name": "James Turley",
       "age": 68,
       "age_year": 2024,
       "background": "Former Chairman and Chief Executive Officer of Ernst & Young.",
@@ -291,10 +307,11 @@
       "committees": [
         "Audit Committee",
         "Governance, Nominating and Sustainability Committee"
-      ]
+      ],
+      "name_original": "James S. Turley"
     },
     {
-      "name": "Mark A. Welsh III",
+      "name": "Mark Welsh III",
       "age": 70,
       "age_year": 2024,
       "background": "General, U.S. Air Force (Retired); President of Texas A&M University; former Chief of Staff of the U.S. Air Force.",
@@ -309,7 +326,8 @@
       "committees": [
         "Compensation and Management Development Committee",
         "Governance, Nominating and Sustainability Committee"
-      ]
+      ],
+      "name_original": "Mark A. Welsh III"
     }
   ],
   "sources": [

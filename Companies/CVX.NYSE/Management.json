@@ -1,0 +1,276 @@
+{
+  "executives": [
+    {
+      "name": "Michael Wirth",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Chairman of the Board and Chief Executive Officer since 2018. Previously Vice Chairman of the Board and Executive Vice President of Midstream and Development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2018-02-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Michael K. Wirth"
+    },
+    {
+      "name": "Eimear Bonner",
+      "age": 50,
+      "age_year": 2024,
+      "background": "Chief Financial Officer since April 2024. Previously Vice President and President of Chevron Technical Center.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2024-04-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Eimear P. Bonner"
+    },
+    {
+      "name": "Mark Nelson",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Vice Chairman since 2023. Previously Executive Vice President, Strategy, Policy & Development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice Chairman",
+          "start_date": "2023-02-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Mark A. Nelson"
+    },
+    {
+      "name": "Pierre Breber",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Former Vice President and Chief Financial Officer. Retired in 2024.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2019-04-01",
+          "end_date": "2024-03-31"
+        }
+      ],
+      "name_original": "Pierre R. Breber"
+    },
+    {
+      "name": "Clay Neff",
+      "age": 61,
+      "age_year": 2024,
+      "background": "President, Chevron International Exploration & Production since 2020.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Chevron International Exploration & Production",
+          "start_date": "2020-10-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Clay Neff"
+    },
+    {
+      "name": "Nigel Hearne",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Executive Vice President, Oil, Products & Gas since 2022.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, Oil, Products & Gas",
+          "start_date": "2022-10-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Nigel Hearne"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Wanda Austin",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former President and CEO of The Aerospace Corporation. Director since 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-12-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Board Governance Committee",
+        "Public Policy and Sustainability Committee"
+      ],
+      "name_original": "Wanda M. Austin"
+    },
+    {
+      "name": "John Frank",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Vice Chairman of Oaktree Capital Group, LLC. Director since 2017.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2017-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Management Compensation Committee"
+      ],
+      "name_original": "John B. Frank"
+    },
+    {
+      "name": "Alice Gast",
+      "age": 65,
+      "age_year": 2024,
+      "background": "President Emeritus of Imperial College London. Director since 2012.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2012-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Board Governance Committee",
+        "Public Policy and Sustainability Committee"
+      ],
+      "name_original": "Alice P. Gast"
+    },
+    {
+      "name": "Enrique Hernandez, Jr.",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Executive Chairman of Inter-Con Security Systems, Inc. Director since 2008.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2008-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Board Governance Committee",
+        "Management Compensation Committee"
+      ],
+      "name_original": "Enrique Hernandez, Jr."
+    },
+    {
+      "name": "Marillyn Hewson",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Chairman, President and CEO of Lockheed Martin Corporation. Director since 2021.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Management Compensation Committee"
+      ],
+      "name_original": "Marillyn A. Hewson"
+    },
+    {
+      "name": "Jon Huntsman, Jr.",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former U.S. Ambassador to Russia, China, and Singapore. Director since 2020.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Management Compensation Committee",
+        "Public Policy and Sustainability Committee"
+      ],
+      "name_original": "Jon M. Huntsman, Jr."
+    },
+    {
+      "name": "Charles Moorman",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Norfolk Southern Corporation. Director since 2012.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2012-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Board Governance Committee"
+      ],
+      "name_original": "Charles W. Moorman"
+    },
+    {
+      "name": "Mark Wirth",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Chevron Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2018-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Mark P. Wirth"
+    },
+    {
+      "name": "Dambisa Moyo",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Co-principal of Versaca Investments. Director since 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Public Policy and Sustainability Committee"
+      ],
+      "name_original": "Dambisa F. Moyo"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/93410/000119312524091300/d530116ddef14a.htm",
+      "source_description": "Chevron Corporation 2024 Proxy Statement (DEF 14A)",
+      "as_of_date": "2024-04-10"
+    },
+    {
+      "source_url": "https://www.chevron.com/about/leadership",
+      "source_description": "Chevron Official Website - Leadership Page",
+      "as_of_date": "2024-05-22"
+    }
+  ]
+}

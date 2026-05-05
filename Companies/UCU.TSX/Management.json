@@ -1,0 +1,159 @@
+{
+  "executives": [
+    {
+      "name": "Pat Ryan",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Ryan is a professional engineer with over 30 years of experience in the mining and automotive industries. He has held various executive positions and has been involved in the development of several mining projects.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2020-09-15",
+          "end_date": null
+        }
+      ],
+      "name_original": "Pat Ryan"
+    },
+    {
+      "name": "Peter Manuel",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Manuel is a Chartered Professional Accountant with over 25 years of experience in financial reporting, corporate finance, and strategic planning. He has served as CFO for several public companies in the resource sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President and Chief Financial Officer",
+          "start_date": "2006-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Peter Manuel"
+    },
+    {
+      "name": "Gareth Hatch",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Dr. Hatch has over 25 years of experience in the rare earth elements and strategic materials sectors. He is a co-founder of Innovation Metals Corp. and has extensive expertise in process technology and market analysis.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Technology Officer",
+          "start_date": "2020-05-11",
+          "end_date": null
+        }
+      ],
+      "name_original": "Gareth Hatch"
+    },
+    {
+      "name": "Mike Schrider",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Schrider is a professional engineer with over 30 years of experience in project management, engineering, and construction. He has led the development of complex industrial projects in North America.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Chief Operating Officer",
+          "start_date": "2021-02-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Mike Schrider"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Pat Ryan",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Ryan is a professional engineer with over 30 years of experience in the mining and automotive industries. He has held various executive positions and has been involved in the development of several mining projects.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2020-09-15",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Pat Ryan"
+    },
+    {
+      "name": "Steven Kay",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Mr. Kay has over 40 years of experience in the legal and corporate sectors. He has served as a director and officer of several public companies and has extensive experience in corporate governance and regulatory compliance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2011-05-18",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Steven J. Kay"
+    },
+    {
+      "name": "Geoffery Broomhead",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Broomhead has over 30 years of experience in the financial services and investment industries. He has held senior positions in investment banking and has been involved in numerous capital markets transactions.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-09-15",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Geoffery Broomhead"
+    },
+    {
+      "name": "Jared Lazerson",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Lazerson has over 20 years of experience in the resource and technology sectors. He has served as an executive and director of several public companies and has expertise in corporate development and strategic partnerships.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-09-15",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Jared Lazerson"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://ucore.com/corporate/management/",
+      "source_description": "Ucore Rare Metals Inc. - Management Team Website",
+      "as_of_date": "2024-05-24"
+    },
+    {
+      "source_url": "https://ucore.com/corporate/board-of-directors/",
+      "source_description": "Ucore Rare Metals Inc. - Board of Directors Website",
+      "as_of_date": "2024-05-24"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "Management Information Circular dated May 24, 2024",
+      "as_of_date": "2024-05-24"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
   "executives": [
     {
-      "name": "Christopher D. Kastner",
+      "name": "Christopher Kastner",
       "age": 60,
       "age_year": 2024,
-      "background": "Christopher D. Kastner is president and chief executive officer of HII. He was elected to this position and to the board of directors in March 2022. Kastner previously served as HII’s chief operating officer, executive vice president and chief financial officer, and corporate vice president and general manager of corporate development and strategy. He also served as vice president, business management, and chief financial officer for HII’s Ingalls Shipbuilding division.",
+      "background": "Christopher D. Kastner is president and chief executive officer of HII. He was elected to this position and to the board of directors in March 2022. Kastner previously served as HII\u2019s chief operating officer, executive vice president and chief financial officer, and corporate vice president and general manager of corporate development and strategy. He also served as vice president, business management, and chief financial officer for HII\u2019s Ingalls Shipbuilding division.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -22,13 +22,14 @@
           "start_date": "2016-03-01",
           "end_date": "2021-01-31"
         }
-      ]
+      ],
+      "name_original": "Christopher D. Kastner"
     },
     {
-      "name": "Thomas E. Stiehle",
+      "name": "Thomas Stiehle",
       "age": 58,
       "age_year": 2024,
-      "background": "Thomas E. Stiehle is executive vice president and chief financial officer of HII. He was elected to this position in February 2021. Stiehle previously served as vice president, business management, and chief financial officer for HII’s Ingalls Shipbuilding division. Prior to joining HII in 2011, he worked for Northrop Grumman.",
+      "background": "Thomas E. Stiehle is executive vice president and chief financial officer of HII. He was elected to this position in February 2021. Stiehle previously served as vice president, business management, and chief financial officer for HII\u2019s Ingalls Shipbuilding division. Prior to joining HII in 2011, he worked for Northrop Grumman.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -36,7 +37,8 @@
           "start_date": "2021-02-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Thomas E. Stiehle"
     },
     {
       "name": "Kari Wilkinson",
@@ -50,10 +52,11 @@
           "start_date": "2021-04-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Kari Wilkinson"
     },
     {
-      "name": "Jennifer R. Boykin",
+      "name": "Jennifer Boykin",
       "age": 59,
       "age_year": 2024,
       "background": "Jennifer R. Boykin is executive vice president of HII and president of Newport News Shipbuilding. She was elected to this position in July 2017. Boykin has held various leadership positions at Newport News Shipbuilding since joining the company in 1987.",
@@ -64,7 +67,8 @@
           "start_date": "2017-07-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Jennifer R. Boykin"
     },
     {
       "name": "Andy Green",
@@ -78,12 +82,13 @@
           "start_date": "2016-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Andy Green"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Kirkland H. Donald",
+      "name": "Kirkland Donald",
       "age": 70,
       "age_year": 2024,
       "background": "Admiral Kirkland H. Donald, U.S. Navy (Ret.), has served as Chairman of the Board since 2020. He was the President and Chief Executive Officer of Systems Planning and Analysis, Inc. and served as Director, Naval Nuclear Propulsion Program.",
@@ -102,10 +107,11 @@
       ],
       "committees": [
         "Executive Committee"
-      ]
+      ],
+      "name_original": "Kirkland H. Donald"
     },
     {
-      "name": "Augustus L. Collins",
+      "name": "Augustus Collins",
       "age": 66,
       "age_year": 2024,
       "background": "Major General Augustus L. Collins, Mississippi National Guard (Ret.), is the Chief Executive Officer of StudentFirst Academy and previously served as the Adjutant General of Mississippi.",
@@ -120,10 +126,11 @@
       "committees": [
         "Audit Committee",
         "Governance and Policy Committee"
-      ]
+      ],
+      "name_original": "Augustus L. Collins"
     },
     {
-      "name": "Victoria D. Harker",
+      "name": "Victoria Harker",
       "age": 59,
       "age_year": 2024,
       "background": "Victoria D. Harker served as Executive Vice President and Chief Financial Officer of TEGNA Inc. and previously as CFO of AES Corporation.",
@@ -138,10 +145,11 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Victoria D. Harker"
     },
     {
-      "name": "Christopher D. Kastner",
+      "name": "Christopher Kastner",
       "age": 60,
       "age_year": 2024,
       "background": "President and Chief Executive Officer of HII.",
@@ -155,10 +163,11 @@
       ],
       "committees": [
         "Executive Committee"
-      ]
+      ],
+      "name_original": "Christopher D. Kastner"
     },
     {
-      "name": "Anastasia D. Kelly",
+      "name": "Anastasia Kelly",
       "age": 68,
       "age_year": 2024,
       "background": "Anastasia D. Kelly is Executive Director, Client Relations at DLA Piper and previously served as Vice Chairman of American International Group (AIG).",
@@ -173,10 +182,11 @@
       "committees": [
         "Governance and Policy Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Anastasia D. Kelly"
     },
     {
-      "name": "Frank R. Jimenez",
+      "name": "Frank Jimenez",
       "age": 59,
       "age_year": 2024,
       "background": "Frank R. Jimenez is Group Vice President and General Counsel of GE HealthCare and previously served as General Counsel of the Navy.",
@@ -191,7 +201,8 @@
       "committees": [
         "Audit Committee",
         "Governance and Policy Committee"
-      ]
+      ],
+      "name_original": "Frank R. Jimenez"
     }
   ],
   "sources": [

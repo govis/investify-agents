@@ -1,0 +1,32 @@
+{
+  "name": "Peter Netupsky",
+  "first_name": "Peter",
+  "last_name": "Netupsky",
+  "age": 46,
+  "age_year": 2024,
+  "background": "Mr. Netupsky has over 15 years of experience in corporate development and investment banking, previously with Agnico Eagle Mines.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "IsoEnergy Ltd.",
+      "ticker": "ISO",
+      "exchange": "TSX",
+      "title_or_role": "Executive Vice President, Corporate Development",
+      "start_date": "2024-04-01",
+      "end_date": null
+    },
+    {
+      "name": "IsoEnergy Ltd.",
+      "ticker": "ISO",
+      "exchange": "TSXV",
+      "title_or_role": "Corporate Development, Director, Executive Vice President",
+      "start_date": "2023-12-05",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": []
+}

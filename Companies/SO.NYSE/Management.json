@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Christopher C. Womack",
+      "name": "Christopher Womack",
       "age": 66,
       "age_year": 2024,
       "background": "Mr. Womack is chairman, president and CEO of Southern Company. He previously served as president of Southern Company and chairman, president and CEO of Georgia Power. He has held numerous leadership roles across Southern Company since joining in 1988.",
@@ -17,10 +17,11 @@
           "start_date": "2023-03-31",
           "end_date": "2023-05-24"
         }
-      ]
+      ],
+      "name_original": "Christopher C. Womack"
     },
     {
-      "name": "Daniel S. Tucker",
+      "name": "Daniel Tucker",
       "age": 43,
       "age_year": 2024,
       "background": "Mr. Tucker is executive vice president and chief financial officer of Southern Company. He previously served as executive vice president and chief financial officer of Georgia Power and has held various roles in finance and treasury since joining in 2003.",
@@ -31,10 +32,11 @@
           "start_date": "2021-09-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Daniel S. Tucker"
     },
     {
-      "name": "James Y. Kerr II",
+      "name": "James Kerr II",
       "age": 60,
       "age_year": 2024,
       "background": "Mr. Kerr is chairman, president and CEO of Southern Company Gas and executive vice president of Southern Company. He previously served as chief legal officer and chief compliance officer.",
@@ -50,10 +52,11 @@
           "start_date": "2023-03-31",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "James Y. Kerr II"
     },
     {
-      "name": "Kimberly S. Greene",
+      "name": "Kimberly Greene",
       "age": 57,
       "age_year": 2024,
       "background": "Ms. Greene is chairman, president and CEO of Georgia Power. She previously served as chairman, president and CEO of Southern Company Gas and as Southern Company's chief operating officer.",
@@ -64,10 +67,11 @@
           "start_date": "2023-03-31",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Kimberly S. Greene"
     },
     {
-      "name": "Anthony L. Wilson",
+      "name": "Anthony Wilson",
       "age": 60,
       "age_year": 2024,
       "background": "Mr. Wilson is chairman, president and CEO of Mississippi Power. He has been with the Southern Company system since 1984.",
@@ -78,12 +82,13 @@
           "start_date": "2016-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Anthony L. Wilson"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Christopher C. Womack",
+      "name": "Christopher Womack",
       "age": 66,
       "age_year": 2024,
       "background": "Chairman, President and CEO of Southern Company.",
@@ -95,7 +100,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Christopher C. Womack"
     },
     {
       "name": "Janaki Akella",
@@ -113,10 +119,11 @@
       "committees": [
         "Operations, Environmental and Safety",
         "Audit"
-      ]
+      ],
+      "name_original": "Janaki Akella"
     },
     {
-      "name": "David J. Grain",
+      "name": "David Grain",
       "age": 61,
       "age_year": 2024,
       "background": "Founder and CEO of Grain Management, LLC. Former Lead Independent Director of Southern Company.",
@@ -132,10 +139,11 @@
         "Compensation and Management Succession (Chair)",
         "Finance",
         "Governance"
-      ]
+      ],
+      "name_original": "David J. Grain"
     },
     {
-      "name": "Colette D. Honorable",
+      "name": "Colette Honorable",
       "age": 54,
       "age_year": 2024,
       "background": "Partner at Reed Smith LLP. Former Commissioner of the Federal Energy Regulatory Commission (FERC).",
@@ -150,10 +158,11 @@
       "committees": [
         "Governance",
         "Operations, Environmental and Safety"
-      ]
+      ],
+      "name_original": "Colette D. Honorable"
     },
     {
-      "name": "Donald M. James",
+      "name": "Donald James",
       "age": 75,
       "age_year": 2024,
       "background": "Retired Chairman and CEO of Vulcan Materials Company.",
@@ -169,10 +178,11 @@
         "Governance (Chair)",
         "Compensation and Management Succession",
         "Finance"
-      ]
+      ],
+      "name_original": "Donald M. James"
     },
     {
-      "name": "John D. Johns",
+      "name": "John Johns",
       "age": 72,
       "age_year": 2024,
       "background": "Retired Chairman and CEO of Protective Life Corporation.",
@@ -188,10 +198,11 @@
         "Finance (Chair)",
         "Audit",
         "Compensation and Management Succession"
-      ]
+      ],
+      "name_original": "John D. Johns"
     },
     {
-      "name": "Dale E. Klein",
+      "name": "Dale Klein",
       "age": 76,
       "age_year": 2024,
       "background": "Professor Emeritus and former Associate Vice Chancellor at the University of Texas System. Former Chairman of the U.S. Nuclear Regulatory Commission.",
@@ -206,10 +217,11 @@
       "committees": [
         "Operations, Environmental and Safety (Chair)",
         "Audit"
-      ]
+      ],
+      "name_original": "Dale E. Klein"
     },
     {
-      "name": "Ernest J. Moniz",
+      "name": "Ernest Moniz",
       "age": 79,
       "age_year": 2024,
       "background": "CEO of the Energy Futures Initiative and the Nuclear Threat Initiative. Former U.S. Secretary of Energy.",
@@ -223,10 +235,11 @@
       ],
       "committees": [
         "Operations, Environmental and Safety"
-      ]
+      ],
+      "name_original": "Ernest J. Moniz"
     },
     {
-      "name": "William G. Smith, Jr.",
+      "name": "William Smith, Jr.",
       "age": 70,
       "age_year": 2024,
       "background": "Chairman, President and CEO of Capital City Bank Group, Inc.",
@@ -242,7 +255,8 @@
         "Audit (Chair)",
         "Finance",
         "Governance"
-      ]
+      ],
+      "name_original": "William G. Smith, Jr."
     },
     {
       "name": "Lizanne Thomas",
@@ -260,10 +274,11 @@
       "committees": [
         "Compensation and Management Succession",
         "Governance"
-      ]
+      ],
+      "name_original": "Lizanne Thomas"
     },
     {
-      "name": "David P. Abney",
+      "name": "David Abney",
       "age": 68,
       "age_year": 2024,
       "background": "Retired Executive Chairman and CEO of United Parcel Service, Inc. (UPS).",
@@ -278,7 +293,8 @@
       "committees": [
         "Audit",
         "Compensation and Management Succession"
-      ]
+      ],
+      "name_original": "David P. Abney"
     }
   ],
   "sources": [

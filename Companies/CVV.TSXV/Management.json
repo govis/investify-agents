@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Peter G. Dasler",
+      "name": "Peter Dasler",
       "age": 70,
       "age_year": 2024,
       "background": "Mr. Dasler has over 40 years of experience in the mining and exploration industry. He has been the President and CEO of CanAlaska since 2004. He is a professional geologist and has held various executive positions in several junior mining companies.",
@@ -17,7 +17,8 @@
           "start_date": "2004-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Peter G. Dasler"
     },
     {
       "name": "Cory Belyk",
@@ -36,7 +37,8 @@
           "start_date": "2021-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Cory Belyk"
     },
     {
       "name": "Harry Chan",
@@ -50,7 +52,8 @@
           "start_date": "2011-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Harry Chan"
     }
   ],
   "board_of_directors": [
@@ -70,10 +73,11 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Ambassador Thomas Graham, Jr."
     },
     {
-      "name": "Peter G. Dasler",
+      "name": "Peter Dasler",
       "age": 70,
       "age_year": 2024,
       "background": "Mr. Dasler is a professional geologist with over 40 years of experience in the mining industry.",
@@ -85,7 +89,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Peter G. Dasler"
     },
     {
       "name": "Karl Schimann",
@@ -100,7 +105,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Karl Schimann"
     },
     {
       "name": "Jean Luc Roy",
@@ -118,7 +124,8 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Jean Luc Roy"
     },
     {
       "name": "Geoff Gay",
@@ -135,7 +142,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Geoff Gay"
     }
   ],
   "sources": [

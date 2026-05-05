@@ -1,0 +1,164 @@
+{
+  "executives": [
+    {
+      "name": "Jordan Trimble",
+      "age": null,
+      "age_year": null,
+      "background": "Jordan Trimble is the President and CEO of Skyharbour Resources. He has worked in the resource industry in various capacities with numerous TSX Venture listed companies and has a background in corporate finance and management. He has been instrumental in the growth and development of Skyharbour and has helped raise significant capital for the company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and CEO",
+          "start_date": "2013-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Jordan Trimble"
+    },
+    {
+      "name": "Jim Pettit",
+      "age": null,
+      "age_year": null,
+      "background": "Jim Pettit is the Chairman of the Board and has over 30 years of experience in the resource industry specializing in finance, corporate governance, and management. He has served as a director and officer for several public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman of the Board",
+          "start_date": "2013-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Jim Pettit"
+    },
+    {
+      "name": "David Billard",
+      "age": null,
+      "age_year": null,
+      "background": "David Billard is a P.Geo. and the Head of Exploration for Skyharbour. He is a geologist with over 35 years of experience in exploration and development, particularly in the Athabasca Basin. He has worked with companies like Cameco and JNR Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Head of Exploration",
+          "start_date": "2013-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "David G. Billard"
+    },
+    {
+      "name": "Nicholas Revere",
+      "age": null,
+      "age_year": null,
+      "background": "Nicholas Revere is the VP of Corporate Development. He has experience in the financial markets and corporate communications within the resource sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "VP of Corporate Development",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Nicholas Revere"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jim Pettit",
+      "age": null,
+      "age_year": null,
+      "background": "Chairman of the Board with over 30 years of experience in the resource industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2013-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Jim Pettit"
+    },
+    {
+      "name": "Jordan Trimble",
+      "age": null,
+      "age_year": null,
+      "background": "President and CEO of Skyharbour Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2013-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Jordan Trimble"
+    },
+    {
+      "name": "Don Huston",
+      "age": null,
+      "age_year": null,
+      "background": "Don Huston has been associated with the mineral exploration industry for over 30 years and has extensive experience in field operations and management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2013-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Don Huston"
+    },
+    {
+      "name": "Amanda Chow",
+      "age": null,
+      "age_year": null,
+      "background": "Amanda Chow is a CPA, CMA with over 20 years of experience in the resource sector, focusing on financial reporting and compliance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2013-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Amanda Chow"
+    },
+    {
+      "name": "Joseph Gallucci",
+      "age": null,
+      "age_year": null,
+      "background": "Joseph Gallucci is a senior executive with over 20 years of experience in investment banking and capital markets, specifically in the mining sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Joseph Gallucci"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://skyharbourltd.com/about-us/management-and-directors/",
+      "source_description": "Company Management and Directors Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "SEDAR+ Filings for Skyharbour Resources Ltd.",
+      "as_of_date": "2023-10-27"
+    }
+  ]
+}

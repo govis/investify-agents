@@ -1,0 +1,117 @@
+{
+  "executives": [
+    {
+      "name": "John Ciampaglia",
+      "age": 53,
+      "age_year": 2023,
+      "background": "Chief Executive Officer of Sprott Asset Management LP since 2017. Previously, Senior Managing Director of Sprott Inc. and Chief Operating Officer of Sprott Asset Management LP.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "John Ciampaglia"
+    },
+    {
+      "name": "Varinder Bhathal",
+      "age": 52,
+      "age_year": 2023,
+      "background": "Chief Financial Officer of Sprott Asset Management LP since 2017. Managing Director, Corporate Finance and Investment Operations of Sprott Inc. since 2017.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Treasurer and Chief Financial Officer",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Varinder Bhathal"
+    },
+    {
+      "name": "Thomas Ulrich",
+      "age": 60,
+      "age_year": 2023,
+      "background": "Managing Director, General Counsel and Chief Compliance Officer of Sprott Asset Management LP since 2012.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Secretary and Chief Compliance Officer",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Thomas W. Ulrich"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "John Ciampaglia",
+      "age": 53,
+      "age_year": 2023,
+      "background": "President of the Trust and CEO of Sprott Asset Management LP.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Interested Trustee",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "John Ciampaglia"
+    },
+    {
+      "name": "Michael Clark",
+      "age": 64,
+      "age_year": 2023,
+      "background": "President of KBW Asset Management from 2010 to 2013. Previously, served as a Managing Director at Credit Suisse.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Trustee",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Governance Committee"
+      ],
+      "name_original": "Michael W. Clark"
+    },
+    {
+      "name": "Barbara Zvan",
+      "age": 52,
+      "age_year": 2023,
+      "background": "President and Chief Executive Officer of University Pension Plan Ontario since 2020. Previously, Chief Risk and Strategy Officer of Ontario Teachers' Pension Plan.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Trustee",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Governance Committee"
+      ],
+      "name_original": "Barbara J. Zvan"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1743781/000110465923105151/tm2327113d1_485bpos.htm",
+      "source_description": "Sprott Funds Trust Post-Effective Amendment No. 71 (Form N-1A/SAI)",
+      "as_of_date": "2023-09-28"
+    },
+    {
+      "source_url": "https://sprottetfs.com/urnm-sprott-uranium-miners-etf/",
+      "source_description": "Sprott Uranium Miners ETF Official Website",
+      "as_of_date": "2024-05-22"
+    }
+  ]
+}

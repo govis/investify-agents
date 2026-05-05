@@ -1,0 +1,172 @@
+{
+  "executives": [
+    {
+      "name": "Joseph Dominguez",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Joseph Dominguez is president and chief executive officer of Constellation. He previously served as CEO of ComEd, an Exelon company, from 2018 to 2022. Prior to that, he was executive vice president of governmental and regulatory affairs and public policy for Exelon.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2022-02-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Joseph Dominguez"
+    },
+    {
+      "name": "Daniel Eggers",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Daniel Eggers is executive vice president and chief financial officer of Constellation. He previously served as senior vice president of corporate finance for Exelon and was a managing director at Credit Suisse.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2022-02-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Daniel L. Eggers"
+    },
+    {
+      "name": "Bryan Wright",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Bryan Wright is senior vice president and chief accounting officer. He previously served as vice president and corporate controller for Exelon.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Accounting Officer",
+          "start_date": "2022-02-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Bryan P. Wright"
+    },
+    {
+      "name": "David McShea",
+      "age": 58,
+      "age_year": 2024,
+      "background": "David McShea is executive vice president and general counsel. He previously served as deputy general counsel for Exelon.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and General Counsel",
+          "start_date": "2022-02-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "David McShea"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Robert Lawless",
+      "age": 77,
+      "age_year": 2024,
+      "background": "Former Chairman, President and CEO of McCormick & Company, Inc. He has served on the boards of Exelon and Carpenter Technology Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board",
+          "start_date": "2022-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Governance Committee",
+        "Executive Committee"
+      ],
+      "name_original": "Robert J. Lawless"
+    },
+    {
+      "name": "Joseph Dominguez",
+      "age": 61,
+      "age_year": 2024,
+      "background": "President and CEO of Constellation Energy Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Executive Committee"
+      ],
+      "name_original": "Joseph Dominguez"
+    },
+    {
+      "name": "Laurie Brlas",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Executive Vice President and CFO of Newmont Mining Corporation. Previously served as CFO of Cliffs Natural Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Finance Committee"
+      ],
+      "name_original": "Laurie Brlas"
+    },
+    {
+      "name": "Yves de Balmann",
+      "age": 77,
+      "age_year": 2024,
+      "background": "Former Co-Chairman and Co-CEO of Banc of America Securities LLC. Former director of Exelon.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Finance Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Yves C. de Balmann"
+    },
+    {
+      "name": "Ashish Khandpur",
+      "age": 57,
+      "age_year": 2024,
+      "background": "President and CEO of Reliance Worldwide Corporation. Former President and CEO of Victaulic and former executive at 3M Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Corporate Governance Committee"
+      ],
+      "name_original": "Ashish S. Khandpur"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1868275/000186827524000019/ceg-20240325.htm",
+      "source_description": "DEF 14A Proxy Statement",
+      "as_of_date": "2024-03-25"
+    },
+    {
+      "source_url": "https://www.constellationenergy.com/our-company/leadership-and-governance.html",
+      "source_description": "Company Leadership Website",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "executives": [
+    {
+      "name": "Joseph Cavatoni",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Cavatoni is the Principal Executive Officer of World Gold Trust Services, LLC (the \"Sponsor\"). He has been with the World Gold Council since 2016 and previously held senior roles at BlackRock and UBS.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Principal Executive Officer",
+          "start_date": "2017-02-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Joseph R. Cavatoni"
+    },
+    {
+      "name": "Brandon Hall",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Hall is the Principal Financial and Accounting Officer of the Sponsor. He joined the World Gold Council in 2019 and was previously a Director at BlackRock.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Principal Financial and Accounting Officer",
+          "start_date": "2021-04-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Brandon Hall"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "David Tait",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Tait is the Chief Executive Officer of the World Gold Council and serves as a Director of the Sponsor. He has extensive experience in the financial services industry, including roles at Credit Suisse and UBS.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2018-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "David Tait"
+    },
+    {
+      "name": "Rocco Maggiotto",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Mr. Maggiotto is an Independent Director of the Sponsor. He is the CEO of Maggiotto & Partners and previously served as a senior partner at PwC.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Rocco Maggiotto"
+    },
+    {
+      "name": "Neal Wolkoff",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Mr. Wolkoff is an Independent Director of the Sponsor. He is the former CEO of the American Stock Exchange and the New York Board of Trade.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Neal Wolkoff"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1222333/000122233324000014/gld-20240930.htm",
+      "source_description": "SPDR Gold Trust Form 10-K for the fiscal year ended September 30, 2024",
+      "as_of_date": "2024-11-22"
+    },
+    {
+      "source_url": "https://www.spdrgoldshares.com/usa/management/",
+      "source_description": "Official SPDR Gold Shares Management and Governance Page",
+      "as_of_date": "2024-12-31"
+    }
+  ]
+}

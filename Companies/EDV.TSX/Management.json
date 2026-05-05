@@ -1,0 +1,266 @@
+{
+  "executives": [
+    {
+      "name": "Ian Cockerill",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Ian Cockerill has over 45 years of experience in the global natural resources industry. He previously served as CEO of Gold Fields and Anglo Coal, and as a non-executive director of BHP and Ivanhoe Mines. He was the Chair of Endeavour Mining before being appointed CEO in January 2024.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2024-01-04",
+          "end_date": null
+        },
+        {
+          "title": "Executive Director",
+          "start_date": "2024-01-04",
+          "end_date": null
+        }
+      ],
+      "name_original": "Ian Cockerill"
+    },
+    {
+      "name": "Guy Young",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Guy Young has over 25 years of experience in financial and operational roles. He was previously the CFO of Anglo American Platinum and has held various senior roles within the Anglo American Group.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2023-03-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Guy Young"
+    },
+    {
+      "name": "Mark Morcombe",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mark Morcombe has over 30 years of experience in the mining industry. Prior to joining Endeavour, he was the COO of Centamin plc and held senior roles at AngloGold Ashanti and Acadian Mining.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Mark Morcombe"
+    },
+    {
+      "name": "Morgan Carroll",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Morgan Carroll has over 20 years of experience in the mining and finance sectors. He previously worked at La Mancha and in investment banking at Lazard.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, Corporate Finance and General Counsel",
+          "start_date": "2016-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Morgan Carroll"
+    },
+    {
+      "name": "S\u00e9bastien de Montessus",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Former President and CEO. He was terminated for cause in January 2024 following an investigation into an irregular payment instruction.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2016-01-01",
+          "end_date": "2024-01-04"
+        }
+      ],
+      "name_original": "S\u00e9bastien de Montessus"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Srinivasan Venkatakrishnan",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Venkat has over 30 years of experience in the mining sector. He was previously the CEO of Vedanta Resources plc and AngloGold Ashanti Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chair",
+          "start_date": "2024-01-04",
+          "end_date": null
+        },
+        {
+          "role": "Independent Non-Executive Director",
+          "start_date": "2022-05-24",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Remuneration Committee",
+        "Nomination and Governance Committee"
+      ],
+      "name_original": "Srinivasan Venkatakrishnan"
+    },
+    {
+      "name": "Ian Cockerill",
+      "age": 70,
+      "age_year": 2024,
+      "background": "See Executive background.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Director",
+          "start_date": "2024-01-04",
+          "end_date": null
+        },
+        {
+          "role": "Chair",
+          "start_date": "2022-05-24",
+          "end_date": "2024-01-04"
+        }
+      ],
+      "committees": [],
+      "name_original": "Ian Cockerill"
+    },
+    {
+      "name": "Alison Baker",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Alison Baker has over 25 years of experience in the provision of audit, advisory and capital markets services. She was a partner at PwC and EY.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Non-Executive Director",
+          "start_date": "2020-03-23",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)",
+        "Technical, Health & Safety Committee"
+      ],
+      "name_original": "Alison Baker"
+    },
+    {
+      "name": "Cathia Lawson-Hall",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Cathia Lawson-Hall has over 25 years of experience in the financial sector, notably at Soci\u00e9t\u00e9 G\u00e9n\u00e9rale where she was Head of Coverage and Investment Banking for Africa.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Non-Executive Director",
+          "start_date": "2022-09-29",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "ESG Committee"
+      ],
+      "name_original": "Cathia Lawson-Hall"
+    },
+    {
+      "name": "Livia Mahler",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Livia Mahler has over 30 years of experience in the venture capital and mining sectors. She is the co-founder and CEO of Computational Geosciences Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Non-Executive Director",
+          "start_date": "2016-10-11",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Remuneration Committee (Chair)",
+        "Nomination and Governance Committee"
+      ],
+      "name_original": "Livia Mahler"
+    },
+    {
+      "name": "Tertius Zongo",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Tertius Zongo served as the Prime Minister of Burkina Faso from 2007 to 2011 and has held several ministerial positions.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Non-Executive Director",
+          "start_date": "2016-10-11",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "ESG Committee (Chair)",
+        "Technical, Health & Safety Committee"
+      ],
+      "name_original": "Tertius Zongo"
+    },
+    {
+      "name": "Patrick de Saint-Aignan",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Patrick de Saint-Aignan has over 40 years of experience in the financial services industry, primarily at Morgan Stanley.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Non-Executive Director",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Remuneration Committee"
+      ],
+      "name_original": "Patrick de Saint-Aignan"
+    },
+    {
+      "name": "Naguib Sawiris",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Naguib Sawiris is the Chairman of Orascom TMT Investments S.\u00e0 r.l. and has extensive experience in the telecommunications and mining sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2015-11-27",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nomination and Governance Committee"
+      ],
+      "name_original": "Naguib Sawiris"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.endeavourmining.com/about-us/leadership/executive-management",
+      "source_description": "Endeavour Mining Official Website - Executive Management Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.endeavourmining.com/about-us/leadership/board-directors",
+      "source_description": "Endeavour Mining Official Website - Board of Directors Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.endeavourmining.com/investors/annual-report-2023",
+      "source_description": "Endeavour Mining 2023 Annual Report and Accounts",
+      "as_of_date": "2024-03-27"
+    },
+    {
+      "source_url": "https://www.endeavourmining.com/news-releases/2024/endeavour-announces-termination-ceo-cause-and-appointment-ian-cockerill-ceo",
+      "source_description": "News Release: Endeavour Announces Termination of CEO for Cause and Appointment of Ian Cockerill as CEO",
+      "as_of_date": "2024-01-04"
+    }
+  ]
+}

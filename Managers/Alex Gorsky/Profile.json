@@ -1,0 +1,35 @@
+{
+  "name": "Alex Gorsky",
+  "first_name": "Alex",
+  "last_name": "Gorsky",
+  "age": 64,
+  "age_year": 2024,
+  "background": "Mr. Gorsky is the former Chairman and CEO of Johnson & Johnson, where he served as Chairman and CEO from 2012 to 2021 and Executive Chairman in 2022.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "start_date": "2021-11-09",
+      "end_date": null
+    },
+    {
+      "name": "International Business Machines Corporation",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "start_date": "2021-09-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Finance Committee"
+  ]
+}

@@ -17,7 +17,8 @@
           "start_date": "2013-01-01",
           "end_date": "2023-02-01"
         }
-      ]
+      ],
+      "name_original": "Walter Coles"
     },
     {
       "name": "Randy Reichert",
@@ -36,10 +37,11 @@
           "start_date": "2021-11-01",
           "end_date": "2023-02-01"
         }
-      ]
+      ],
+      "name_original": "Randy Reichert"
     },
     {
-      "name": "Andrew J. (Andrew) MacRitchie",
+      "name": "Andrew MacRitchie",
       "age": 52,
       "age_year": 2024,
       "background": "Mr. MacRitchie is a Chartered Professional Accountant with over 20 years of experience in the mining industry. He has served as CFO of Skeena since 2017 and was previously CFO of several other public mining companies.",
@@ -50,7 +52,8 @@
           "start_date": "2017-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Andrew J. (Andrew) MacRitchie"
     }
   ],
   "board_of_directors": [
@@ -67,7 +70,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Walter Coles"
     },
     {
       "name": "Randy Reichert",
@@ -82,7 +86,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Randy Reichert"
     },
     {
       "name": "Craig Parry",
@@ -100,7 +105,8 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Craig Parry"
     },
     {
       "name": "Judith Mazvihwa-Maclean",
@@ -118,7 +124,8 @@
       "committees": [
         "Audit Committee",
         "Sustainability Committee"
-      ]
+      ],
+      "name_original": "Judith Mazvihwa-Maclean"
     },
     {
       "name": "Borden Putnam III",
@@ -136,7 +143,8 @@
       "committees": [
         "Technical Committee",
         "Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Borden Putnam III"
     }
   ],
   "sources": [

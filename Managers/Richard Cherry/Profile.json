@@ -1,0 +1,36 @@
+{
+  "name": "Richard Cherry",
+  "first_name": "Richard",
+  "last_name": "Cherry",
+  "age": 72,
+  "age_year": 2024,
+  "background": "Mr. Cherry is a veteran executive in the nuclear industry, having served as President and CEO of Cotter Corporation and as a Vice President of General Atomics.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "enCore Energy Corp.",
+      "ticker": "EU",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "start_date": "2017-10-30",
+      "end_date": null
+    },
+    {
+      "name": "enCore Energy Corp.",
+      "ticker": "EU",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "start_date": "2014-10-30",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ]
+}

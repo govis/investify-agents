@@ -1,0 +1,37 @@
+{
+  "name": "Glenda Dorchak",
+  "first_name": "Glenda",
+  "last_name": "Dorchak",
+  "age": 69,
+  "age_year": 2024,
+  "background": "Former executive at IBM, Intel, and Spansion. She has significant experience in the semiconductor and technology sectors.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "GlobalFoundries Inc.",
+      "ticker": "GFS",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "start_date": "2019-06-01",
+      "end_date": null
+    },
+    {
+      "name": "Wolfspeed, Inc.",
+      "ticker": "WOLF",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2019-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Nominating Committee",
+    "Nominating and Corporate Governance Committee"
+  ]
+}

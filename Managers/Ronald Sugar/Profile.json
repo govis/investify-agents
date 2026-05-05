@@ -1,0 +1,27 @@
+{
+  "name": "Ronald Sugar",
+  "first_name": "Ronald",
+  "last_name": "Sugar",
+  "age": 75,
+  "age_year": 2024,
+  "background": "Dr. Sugar is the former Chairman and CEO of Northrop Grumman Corporation, where he served from 2003 to 2010.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "start_date": "2010-11-17",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Finance Committee",
+    "Nominating and Corporate Governance Committee"
+  ]
+}

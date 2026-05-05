@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Carey A. Smith",
+      "name": "Carey Smith",
       "age": 60,
       "age_year": 2024,
       "background": "Ms. Smith has served as our Chair, President and Chief Executive Officer since April 2022. She previously served as our President and Chief Executive Officer from July 2021 to April 2022, and as our President and Chief Operating Officer from 2018 to 2021. She joined Parsons in 2016 as President of the Federal Solutions business unit.",
@@ -22,10 +22,11 @@
           "start_date": "2018",
           "end_date": "2021"
         }
-      ]
+      ],
+      "name_original": "Carey A. Smith"
     },
     {
-      "name": "Matthew J. Ofilos",
+      "name": "Matthew Ofilos",
       "age": 44,
       "age_year": 2024,
       "background": "Mr. Ofilos has served as our Chief Financial Officer since July 2022. He joined Parsons in 2021 as Executive Vice President, Finance. Prior to joining Parsons, he held various leadership roles at Amazon Web Services and Lockheed Martin.",
@@ -41,10 +42,11 @@
           "start_date": "2021",
           "end_date": "2022-07"
         }
-      ]
+      ],
+      "name_original": "Matthew J. Ofilos"
     },
     {
-      "name": "Mark S. Van De Voorde",
+      "name": "Mark Van De Voorde",
       "age": 62,
       "age_year": 2024,
       "background": "Mr. Van De Voorde has served as our Chief Legal Officer and Corporate Secretary since 2017. Prior to joining Parsons, he was the Chief Legal Officer and Chief Administrative Officer of Victaulic Company.",
@@ -55,12 +57,13 @@
           "start_date": "2017",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Mark S. Van De Voorde"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Carey A. Smith",
+      "name": "Carey Smith",
       "age": 60,
       "age_year": 2024,
       "background": "Chair, President and Chief Executive Officer of Parsons Corporation.",
@@ -72,10 +75,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Carey A. Smith"
     },
     {
-      "name": "Letitia A. Long",
+      "name": "Letitia Long",
       "age": 65,
       "age_year": 2024,
       "background": "Former Director of the National Geospatial-Intelligence Agency. She has served on our board since 2015.",
@@ -90,10 +94,11 @@
       "committees": [
         "Compensation and Management Development Committee",
         "Corporate Governance and Responsibility Committee"
-      ]
+      ],
+      "name_original": "Letitia A. Long"
     },
     {
-      "name": "Steven F. Leer",
+      "name": "Steven Leer",
       "age": 71,
       "age_year": 2024,
       "background": "Former Chairman and CEO of Arch Coal, Inc. He has served on our board since 2013.",
@@ -108,10 +113,11 @@
       "committees": [
         "Audit Committee",
         "Corporate Governance and Responsibility Committee"
-      ]
+      ],
+      "name_original": "Steven F. Leer"
     },
     {
-      "name": "George L. Ball",
+      "name": "George Ball",
       "age": 85,
       "age_year": 2024,
       "background": "Chairman of Sanders Morris Harris. He has served on our board since 2012.",
@@ -126,10 +132,11 @@
       "committees": [
         "Audit Committee",
         "Compensation and Management Development Committee"
-      ]
+      ],
+      "name_original": "George L. Ball"
     },
     {
-      "name": "Mark K. Holdsworth",
+      "name": "Mark Holdsworth",
       "age": 58,
       "age_year": 2024,
       "background": "Co-Founder and Managing Partner of Tennenbaum Capital Partners. He has served on our board since 2019.",
@@ -144,7 +151,8 @@
       "committees": [
         "Audit Committee",
         "Corporate Governance and Responsibility Committee"
-      ]
+      ],
+      "name_original": "Mark K. Holdsworth"
     }
   ],
   "sources": [

@@ -1,0 +1,27 @@
+{
+  "name": "Bill Washington",
+  "first_name": "Bill",
+  "last_name": "Washington",
+  "age": 60,
+  "age_year": 2024,
+  "background": "Mr. Washington has over 30 years of experience in investment banking and the mining sector.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Wesdome Gold Mines Ltd.",
+      "ticker": "WDO",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "start_date": "2016-05-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee (Chair)"
+  ]
+}

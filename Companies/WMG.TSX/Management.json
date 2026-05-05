@@ -1,0 +1,140 @@
+{
+  "executives": [
+    {
+      "name": "Sam Ataya",
+      "age": 59,
+      "age_year": 2023,
+      "background": "Mr. Ataya has over 30 years of experience in the management and development of private and public companies. He has served as the Executive Chairman and CEO of Western Magnesium since 2018.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Chairman and Chief Executive Officer",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Sam Ataya"
+    },
+    {
+      "name": "Edward Lee",
+      "age": 55,
+      "age_year": 2023,
+      "background": "Mr. Lee is a Chartered Professional Accountant with over 25 years of experience in financial reporting and corporate finance for public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2021-05-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Edward S. Lee"
+    },
+    {
+      "name": "Paul Guedes",
+      "age": 52,
+      "age_year": 2023,
+      "background": "Mr. Guedes has over 20 years of experience in corporate communications and investor relations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Corporate Secretary",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Paul G.S. Guedes"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Sam Ataya",
+      "age": 59,
+      "age_year": 2023,
+      "background": "Executive Chairman and CEO of Western Magnesium.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Chairman",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Sam Ataya"
+    },
+    {
+      "name": "Rabih Ataya",
+      "age": 57,
+      "age_year": 2023,
+      "background": "Mr. Ataya has extensive experience in international business development and project management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Rabih Ataya"
+    },
+    {
+      "name": "Peter Bilodeau",
+      "age": 65,
+      "age_year": 2023,
+      "background": "Mr. Bilodeau has over 35 years of experience in the financial services industry and has served on several public company boards.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Peter J. Bilodeau"
+    },
+    {
+      "name": "Frank Hallam",
+      "age": 62,
+      "age_year": 2023,
+      "background": "Mr. Hallam is a Chartered Professional Accountant with extensive experience in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Frank J. Hallam"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://westernmagnesium.com/about-us/management-team/",
+      "source_description": "Company Website - Management Team",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://westernmagnesium.com/about-us/board-of-directors/",
+      "source_description": "Company Website - Board of Directors",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "SEDAR+ Filings - Management Information Circular",
+      "as_of_date": "2023-04-28"
+    }
+  ]
+}

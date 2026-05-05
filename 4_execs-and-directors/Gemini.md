@@ -37,3 +37,8 @@ Retrieve and verify information about C-suite executives and board of directors 
 - **End Date:** Must be identified and recorded if the person is no longer with the company/board.
 - **Sources Tracking:** All sources that provided data points must be added to the `sources` list in `Management.json`.
 - **Comprehensive Logging:** `Management.log` must capture the full extraction process, including successful hits and any errors encountered during the search.
+- **Name Cleaning Utility (`clean_names.py`):**
+  - An on-demand script used to normalize executive and director names.
+  - Normalizes names with initials or nicknames (e.g., "John S. (John) Doe" -> "John Doe").
+  - Preserves the original extracted name in the `name_original` field.
+  - Usage: `python clean_names.py [Company_Folder]` (Optional: provide a specific company folder name like `AAPL.NASDAQ` to process only that company).

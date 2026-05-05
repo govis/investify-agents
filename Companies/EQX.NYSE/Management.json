@@ -12,7 +12,8 @@
           "start_date": "2017-12-22",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Ross Beaty"
     },
     {
       "name": "Greg Smith",
@@ -31,7 +32,8 @@
           "start_date": "2021-03-01",
           "end_date": "2022-08-31"
         }
-      ]
+      ],
+      "name_original": "Greg Smith"
     },
     {
       "name": "Peter Hardie",
@@ -45,7 +47,8 @@
           "start_date": "2016-08-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Peter Hardie"
     },
     {
       "name": "Doug Reddy",
@@ -59,7 +62,8 @@
           "start_date": "2020-09-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Doug Reddy"
     },
     {
       "name": "Rhylin Bailie",
@@ -73,7 +77,8 @@
           "start_date": "2016-10-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Rhylin Bailie"
     }
   ],
   "board_of_directors": [
@@ -90,7 +95,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Ross Beaty"
     },
     {
       "name": "Greg Smith",
@@ -105,7 +111,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Greg Smith"
     },
     {
       "name": "Lenard Boggio",
@@ -123,7 +130,8 @@
       "committees": [
         "Audit Committee (Chair)",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Lenard Boggio"
     },
     {
       "name": "Wesley Clark",
@@ -141,7 +149,8 @@
       "committees": [
         "Social Responsibility and ESG Committee",
         "Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Wesley Clark"
     },
     {
       "name": "Marshall Koval",
@@ -159,10 +168,11 @@
       "committees": [
         "Technical Committee (Chair)",
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Marshall Koval"
     },
     {
-      "name": "Maryse Bélanger",
+      "name": "Maryse B\u00e9langer",
       "age": 62,
       "age_year": 2024,
       "background": "Over 30 years of experience in the mining sector. Former President and CEO of Augusta Gold and COO of Atlantic Gold.",
@@ -177,7 +187,8 @@
       "committees": [
         "Technical Committee",
         "Social Responsibility and ESG Committee"
-      ]
+      ],
+      "name_original": "Maryse B\u00e9langer"
     },
     {
       "name": "Neil Woodyer",
@@ -195,7 +206,8 @@
       "committees": [
         "Governance and Nominating Committee (Chair)",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Neil Woodyer"
     }
   ],
   "sources": [

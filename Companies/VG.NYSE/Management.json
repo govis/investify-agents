@@ -1,0 +1,125 @@
+{
+  "executives": [
+    {
+      "name": "Michael Sabel",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Michael Sabel is the Executive Co-Chairman and Chief Executive Officer of Venture Global LNG. He has been a key figure in the company's development and strategic direction since its inception.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Co-Chairman and Chief Executive Officer",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Michael Sabel"
+    },
+    {
+      "name": "Robert Pender",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Robert Pender is the Executive Co-Chairman of Venture Global LNG. He co-founded the company and previously served as Co-CEO alongside Michael Sabel.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Co-Chairman",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Robert Pender"
+    },
+    {
+      "name": "Jonathan Thier",
+      "age": null,
+      "age_year": null,
+      "background": "Jonathan Thier serves as the Chief Financial Officer of Venture Global LNG, overseeing the company's financial operations and capital markets activities.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Jonathan Thier"
+    },
+    {
+      "name": "Brian Cothran",
+      "age": null,
+      "age_year": null,
+      "background": "Brian Cothran is the Chief Operating Officer of Venture Global LNG. He joined the company with extensive experience in the energy and industrial sectors, including roles at GE and Baker Hughes.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Brian Cothran"
+    },
+    {
+      "name": "Tom Earl",
+      "age": null,
+      "age_year": null,
+      "background": "Tom Earl is the Chief Commercial Officer of Venture Global LNG, responsible for the company's commercial strategy and LNG marketing.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Commercial Officer",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Tom Earl"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Michael Sabel",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Executive Co-Chairman and CEO of Venture Global LNG.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Co-Chairman",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Michael Sabel"
+    },
+    {
+      "name": "Robert Pender",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Executive Co-Chairman and Co-Founder of Venture Global LNG.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Co-Chairman",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Robert Pender"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://venturegloballng.com/about/leadership/",
+      "source_description": "Venture Global LNG Official Leadership Page",
+      "as_of_date": "2024-11-20"
+    },
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1999406/000119312524274384/d812402ds1.htm",
+      "source_description": "SEC Form S-1 Registration Statement for Venture Global LNG, Inc.",
+      "as_of_date": "2024-11-20"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "executives": [
+    {
+      "name": "Morgan Lekstrom",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Lekstrom has 17 years of experience in the mining industry, including executive roles at Silver Hammer Mining Corp. and Kuya Silver Corp. He has a background in project management and operations, having worked with Freeport McMoran and Rio Tinto.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President",
+          "start_date": "2023-11-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2024-07-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Morgan Lekstrom"
+    },
+    {
+      "name": "Jeremy Brett",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Brett is a Professional Geoscientist with over 25 years of experience in the mineral exploration industry. He has consulted for over 100 companies globally and specializes in project management and technical due diligence.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Technology Officer",
+          "start_date": "2024-07-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Jeremy S. Brett"
+    },
+    {
+      "name": "Galen McNamara",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. McNamara is an entrepreneur and geoscientist with over 15 years of experience. He is the co-founder and CEO of Summa Silver Corp. and was previously the Senior Project Geologist at NexGen Energy Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Chairman",
+          "start_date": "2024-07-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Galen McNamara"
+    },
+    {
+      "name": "Brandon Macdonald",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Macdonald is a professional geologist and the CEO of Fireweed Metals Corp. He has extensive experience in capital markets and mineral exploration.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2024-07-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Brandon Macdonald"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Galen McNamara",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. McNamara is an entrepreneur and geoscientist with over 15 years of experience. He is the co-founder and CEO of Summa Silver Corp. and was previously the Senior Project Geologist at NexGen Energy Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Chairman",
+          "start_date": "2024-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Galen McNamara"
+    },
+    {
+      "name": "Brandon Macdonald",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Macdonald is a professional geologist and the CEO of Fireweed Metals Corp. He has extensive experience in capital markets and mineral exploration.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2024-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Brandon Macdonald"
+    },
+    {
+      "name": "Morgan Lekstrom",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Lekstrom has 17 years of experience in the mining industry, including executive roles at Silver Hammer Mining Corp. and Kuya Silver Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2024-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Morgan Lekstrom"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.nexgold.com/corporate/management-directors/",
+      "source_description": "NexGold Mining Corp. Official Website - Management & Directors Page",
+      "as_of_date": "2024-10-27"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "SEDAR+ Filing - Management Information Circular",
+      "as_of_date": "2024-06-14"
+    }
+  ]
+}

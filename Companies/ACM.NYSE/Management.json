@@ -4,7 +4,7 @@
       "name": "Troy Rudd",
       "age": 60,
       "age_year": 2024,
-      "background": "Troy Rudd is the Chief Executive Officer of AECOM. He previously served as AECOM’s Chief Financial Officer from 2015 to 2020. Since joining AECOM in 2009, he has held various leadership roles, including Treasurer and Vice President of Financial Planning and Analysis. Prior to AECOM, he spent 15 years at KPMG.",
+      "background": "Troy Rudd is the Chief Executive Officer of AECOM. He previously served as AECOM\u2019s Chief Financial Officer from 2015 to 2020. Since joining AECOM in 2009, he has held various leadership roles, including Treasurer and Vice President of Financial Planning and Analysis. Prior to AECOM, he spent 15 years at KPMG.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -17,13 +17,14 @@
           "start_date": "2015-10-01",
           "end_date": "2020-09-30"
         }
-      ]
+      ],
+      "name_original": "Troy Rudd"
     },
     {
       "name": "Lara Poloni",
       "age": 55,
       "age_year": 2024,
-      "background": "Lara Poloni is the President of AECOM. She previously served as Chief Executive of AECOM’s Europe, Middle East, and Africa (EMEA) region from 2017 to 2020 and as Chief Executive of the Australia-New Zealand region from 2014 to 2017. She has been with AECOM for over 25 years.",
+      "background": "Lara Poloni is the President of AECOM. She previously served as Chief Executive of AECOM\u2019s Europe, Middle East, and Africa (EMEA) region from 2017 to 2020 and as Chief Executive of the Australia-New Zealand region from 2014 to 2017. She has been with AECOM for over 25 years.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -36,7 +37,8 @@
           "start_date": "2017-01-01",
           "end_date": "2020-09-30"
         }
-      ]
+      ],
+      "name_original": "Lara Poloni"
     },
     {
       "name": "Gaurav Kapoor",
@@ -55,10 +57,11 @@
           "start_date": "2016-12-01",
           "end_date": "2020-09-30"
         }
-      ]
+      ],
+      "name_original": "Gaurav Kapoor"
     },
     {
-      "name": "David G. Gan",
+      "name": "David Gan",
       "age": 51,
       "age_year": 2024,
       "background": "David Gan is the Chief Legal Officer of AECOM. He joined AECOM in 2005 and has held several roles within the legal department, including Senior Vice President and Deputy General Counsel. Prior to AECOM, he was in private practice at Mayer Brown.",
@@ -69,7 +72,8 @@
           "start_date": "2020-10-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "David G. Gan"
     },
     {
       "name": "Shirley Adams",
@@ -83,12 +87,13 @@
           "start_date": "2020-10-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Shirley Adams"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Douglas W. Stotlar",
+      "name": "Douglas Stotlar",
       "age": 63,
       "age_year": 2024,
       "background": "Douglas Stotlar is the Independent Chairman of the Board. He is the former President and CEO of Con-way Inc. He also serves on the boards of LSC Communications and Reliance Steel & Aluminum Co.",
@@ -103,7 +108,8 @@
       "committees": [
         "Governance Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Douglas W. Stotlar"
     },
     {
       "name": "Troy Rudd",
@@ -118,10 +124,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Troy Rudd"
     },
     {
-      "name": "Bradley J. Bell",
+      "name": "Bradley Bell",
       "age": 71,
       "age_year": 2024,
       "background": "Bradley Bell is the former Executive Vice President and CFO of Nalco Holding Company. He has significant experience in corporate finance and strategic planning.",
@@ -135,10 +142,11 @@
       ],
       "committees": [
         "Audit Committee (Chair)"
-      ]
+      ],
+      "name_original": "Bradley J. Bell"
     },
     {
-      "name": "Lydia H. Kennard",
+      "name": "Lydia Kennard",
       "age": 69,
       "age_year": 2024,
       "background": "Lydia Kennard is the President and CEO of KDG Construction Consulting. She previously served as the Executive Director of Los Angeles World Airports.",
@@ -152,10 +160,11 @@
       ],
       "committees": [
         "Governance Committee (Chair)"
-      ]
+      ],
+      "name_original": "Lydia H. Kennard"
     },
     {
-      "name": "Robert J. Routs",
+      "name": "Robert Routs",
       "age": 77,
       "age_year": 2024,
       "background": "Robert Routs is the former Executive Director of Downstream Operations at Royal Dutch Shell plc. He has extensive global experience in the energy sector.",
@@ -169,7 +178,8 @@
       ],
       "committees": [
         "Compensation Committee (Chair)"
-      ]
+      ],
+      "name_original": "Robert J. Routs"
     },
     {
       "name": "Janet Wolfenbarger",
@@ -187,13 +197,14 @@
       "committees": [
         "Audit Committee",
         "Governance Committee"
-      ]
+      ],
+      "name_original": "Janet Wolfenbarger"
     },
     {
-      "name": "Sander van’t Noordende",
+      "name": "Sander van\u2019t Noordende",
       "age": 61,
       "age_year": 2024,
-      "background": "Sander van’t Noordende is the CEO of Randstad N.V. and former Group Chief Executive of the Products Operating Group at Accenture.",
+      "background": "Sander van\u2019t Noordende is the CEO of Randstad N.V. and former Group Chief Executive of the Products Operating Group at Accenture.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -204,7 +215,8 @@
       ],
       "committees": [
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Sander van\u2019t Noordende"
     }
   ],
   "sources": [

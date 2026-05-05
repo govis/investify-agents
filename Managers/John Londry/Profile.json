@@ -1,0 +1,27 @@
+{
+  "name": "John Londry",
+  "first_name": "John",
+  "last_name": "Londry",
+  "age": 71,
+  "age_year": 2024,
+  "background": "Mr. Londry is a professional geologist with over 40 years of experience in the mining industry, including senior roles with major mining companies.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "New Age Metals Inc.",
+      "ticker": "NAM",
+      "exchange": "TSXV",
+      "title_or_role": "Independent Director",
+      "start_date": "2017-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ]
+}

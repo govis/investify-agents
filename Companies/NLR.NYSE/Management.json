@@ -1,0 +1,153 @@
+{
+  "executives": [
+    {
+      "name": "Jan van Eck",
+      "age": 61,
+      "age_year": 2024,
+      "background": "President and Chief Executive Officer of Van Eck Associates Corporation, Van Eck Securities Corporation, and Van Eck Absolute Return Advisers, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Trustee",
+          "start_date": "2001-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2001-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Jan F. van Eck"
+    },
+    {
+      "name": "John Crimmins",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Senior Vice President of Van Eck Associates Corporation, Van Eck Securities Corporation, and Van Eck Absolute Return Advisers, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Treasurer and Chief Financial Officer",
+          "start_date": "2001-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "John J. Crimmins"
+    },
+    {
+      "name": "Andrew Murphy",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Vice President of Van Eck Associates Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Andrew J. Murphy"
+    },
+    {
+      "name": "Andrew Murphy",
+      "age": 39,
+      "age_year": 2024,
+      "background": "Vice President of Van Eck Associates Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Secretary",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Andrew J. Murphy"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jan van Eck",
+      "age": 61,
+      "age_year": 2024,
+      "background": "President and CEO of Van Eck Associates Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Interested Trustee",
+          "start_date": "2001-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Jan F. van Eck"
+    },
+    {
+      "name": "Kathleen LaBounty",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Independent consultant and former executive in the financial services industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Trustee",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Kathleen J. H. LaBounty"
+    },
+    {
+      "name": "Alastair Short",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Former executive at various financial institutions.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Trustee",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "R. Alastair Short"
+    },
+    {
+      "name": "Peter Sidebottom",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former executive and consultant in the asset management industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Trustee",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Peter J. Sidebottom"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736024000053/vanecketf-sai.htm",
+      "source_description": "VanEck ETF Trust Statement of Additional Information (SAI)",
+      "as_of_date": "2024-09-01"
+    },
+    {
+      "source_url": "https://www.vaneck.com/us/en/investments/uranium-nuclear-energy-etf-nlr/",
+      "source_description": "VanEck Uranium and Nuclear Energy ETF Official Website",
+      "as_of_date": "2024-10-27"
+    }
+  ]
+}

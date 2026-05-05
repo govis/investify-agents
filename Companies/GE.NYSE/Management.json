@@ -1,0 +1,220 @@
+{
+  "executives": [
+    {
+      "name": "Lawrence Culp, Jr.",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Culp has served as Chairman and CEO of GE since October 2018. He is also the CEO of GE Aerospace. Prior to joining GE, he served as President and CEO of Danaher Corporation from 2001 to 2014.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2018-10-01",
+          "end_date": null
+        },
+        {
+          "title": "CEO, GE Aerospace",
+          "start_date": "2022-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "H. Lawrence Culp, Jr."
+    },
+    {
+      "name": "Rahul Ghai",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Ghai has served as Senior Vice President and CFO of GE since September 2023, and CFO of GE Aerospace since August 2022. He previously served as CFO of Otis Worldwide Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Financial Officer",
+          "start_date": "2023-09-01",
+          "end_date": null
+        },
+        {
+          "title": "CFO, GE Aerospace",
+          "start_date": "2022-08-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Rahul Ghai"
+    },
+    {
+      "name": "Vic Abate",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Mr. Abate is the CEO of GE Aerospace's Wind and Gas Power businesses and has held various leadership roles at GE since 1990.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "CEO, Wind and Gas Power",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Vic Abate"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Lawrence Culp, Jr.",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Chairman and CEO of GE Aerospace.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2018-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "H. Lawrence Culp, Jr."
+    },
+    {
+      "name": "Stephen Angel",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Former CEO of Linde plc. He has extensive experience in industrial and global operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Lead Director",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Public Affairs Committee",
+        "Management Development and Compensation Committee"
+      ],
+      "name_original": "Stephen Angel"
+    },
+    {
+      "name": "S\u00e9bastien Bazin",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Accor. He brings significant international business and hospitality experience.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance and Public Affairs Committee"
+      ],
+      "name_original": "S\u00e9bastien Bazin"
+    },
+    {
+      "name": "Edward Garden",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Chief Investment Officer and Founding Partner of Trian Fund Management, L.P.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2017-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Management Development and Compensation Committee",
+        "Finance and Capital Allocation Committee"
+      ],
+      "name_original": "Edward Garden"
+    },
+    {
+      "name": "Isabella Goren",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former CFO of American Airlines and AMR Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2024-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Isabella Goren"
+    },
+    {
+      "name": "Thomas Horton",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of American Airlines.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Finance and Capital Allocation Committee"
+      ],
+      "name_original": "Thomas Horton"
+    },
+    {
+      "name": "Catherine Lesjak",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former CFO of HP Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Finance and Capital Allocation Committee"
+      ],
+      "name_original": "Catherine Lesjak"
+    },
+    {
+      "name": "Darren Walker",
+      "age": 64,
+      "age_year": 2024,
+      "background": "President of the Ford Foundation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2024-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Public Affairs Committee"
+      ],
+      "name_original": "Darren Walker"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/40545/000004054524000023/ge-20240311.htm",
+      "source_description": "GE 2024 Proxy Statement (DEF 14A)",
+      "as_of_date": "2024-03-11"
+    },
+    {
+      "source_url": "https://www.geaerospace.com/company/leadership",
+      "source_description": "GE Aerospace Official Leadership Page",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

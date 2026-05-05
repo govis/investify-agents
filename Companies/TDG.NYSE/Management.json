@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "W. Nicholas Howley",
+      "name": "Nicholas Howley",
       "age": 72,
       "age_year": 2024,
       "background": "Mr. Howley has served as Executive Chairman since 2018. He was Chairman and CEO from 2003 to 2018. He has been a director since 2003. He is also a director of Case Western Reserve University and the Rock & Roll Hall of Fame.",
@@ -17,7 +17,8 @@
           "start_date": "2003-07-01",
           "end_date": "2018-04-30"
         }
-      ]
+      ],
+      "name_original": "W. Nicholas Howley"
     },
     {
       "name": "Kevin Stein",
@@ -36,7 +37,8 @@
           "start_date": "2016-10-01",
           "end_date": "2018-04-30"
         }
-      ]
+      ],
+      "name_original": "Kevin Stein"
     },
     {
       "name": "Sarah Wynne",
@@ -55,7 +57,8 @@
           "start_date": "2018-10-01",
           "end_date": "2023-03-31"
         }
-      ]
+      ],
+      "name_original": "Sarah Wynne"
     },
     {
       "name": "Joel Reiss",
@@ -74,7 +77,8 @@
           "start_date": "2015-10-01",
           "end_date": "2023-03-31"
         }
-      ]
+      ],
+      "name_original": "Joel Reiss"
     },
     {
       "name": "Jessica Warren",
@@ -88,12 +92,13 @@
           "start_date": "2022-10-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Jessica Warren"
     }
   ],
   "board_of_directors": [
     {
-      "name": "W. Nicholas Howley",
+      "name": "Nicholas Howley",
       "age": 72,
       "age_year": 2024,
       "background": "Executive Chairman of TransDigm Group Incorporated. Co-founder of the company.",
@@ -105,7 +110,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "W. Nicholas Howley"
     },
     {
       "name": "Kevin Stein",
@@ -120,7 +126,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Kevin Stein"
     },
     {
       "name": "David Barr",
@@ -138,10 +145,11 @@
       "committees": [
         "Compensation Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "David Barr"
     },
     {
-      "name": "Jane M. Cronin",
+      "name": "Jane Cronin",
       "age": 56,
       "age_year": 2024,
       "background": "Former Senior Vice President, Corporate Controller of Sherwin-Williams Company.",
@@ -155,7 +163,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Jane M. Cronin"
     },
     {
       "name": "Mervin Dunn",
@@ -173,7 +182,8 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Mervin Dunn"
     },
     {
       "name": "Michael Graff",
@@ -191,10 +201,11 @@
       "committees": [
         "Compensation Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Michael Graff"
     },
     {
-      "name": "Sean P. Hennessy",
+      "name": "Sean Hennessy",
       "age": 66,
       "age_year": 2024,
       "background": "Former Senior Vice President, Corporate Planning, Development & Administration of Sherwin-Williams Company.",
@@ -208,10 +219,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Sean P. Hennessy"
     },
     {
-      "name": "Gary E. McCullough",
+      "name": "Gary McCullough",
       "age": 65,
       "age_year": 2024,
       "background": "Former President and CEO of ARI Packaging, Inc.",
@@ -226,7 +238,8 @@
       "committees": [
         "Audit Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Gary E. McCullough"
     },
     {
       "name": "Michele Santana",
@@ -243,10 +256,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Michele Santana"
     },
     {
-      "name": "Robert J. Small",
+      "name": "Robert Small",
       "age": 58,
       "age_year": 2024,
       "background": "Managing Director of Berkshire Partners LLC.",
@@ -261,7 +275,8 @@
       "committees": [
         "Compensation Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Robert J. Small"
     }
   ],
   "sources": [

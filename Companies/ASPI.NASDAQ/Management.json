@@ -1,0 +1,139 @@
+{
+  "executives": [
+    {
+      "name": "Paul Mann",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Mann has served as our Chairman and Chief Executive Officer since September 2021. He has over 20 years of experience in the financial industry and has held various senior positions at investment banks and hedge funds.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2021-09-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Paul Mann"
+    },
+    {
+      "name": "Bob Hassel",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Van Hassel has served as our Chief Financial Officer since September 2021. He has over 30 years of experience in finance and accounting, having served in various leadership roles at public and private companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2021-09-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Robert J. (Bob) Van Hassel"
+    },
+    {
+      "name": "Hendrik Strydom",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Dr. Strydom has served as our Chief Technology Officer since September 2021. He is a nuclear physicist with extensive experience in isotope separation and enrichment technologies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Technology Officer",
+          "start_date": "2021-09-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Hendrik Strydom"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Paul Mann",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Mann has served as our Chairman and Chief Executive Officer since September 2021.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board",
+          "start_date": "2021-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Paul Mann"
+    },
+    {
+      "name": "Duncan Moore",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Dr. Moore has served as a director since September 2021. He is a partner at East West Capital Partners and has extensive experience in the healthcare and life sciences sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ],
+      "name_original": "Duncan Moore"
+    },
+    {
+      "name": "Josh Mailman",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Mailman has served as a director since September 2021. He is an experienced investor and advocate for nuclear medicine and molecular imaging.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ],
+      "name_original": "Joshua S. (Josh) Mailman"
+    },
+    {
+      "name": "Todd Wider",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Dr. Wider has served as a director since September 2021. He is a surgeon and an Emmy and Academy Award-winning documentary film producer.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ],
+      "name_original": "Todd J. Wider"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1921030/000149315224012143/form10-k.htm",
+      "source_description": "ASP Isotopes Inc. Form 10-K for the fiscal year ended December 31, 2023",
+      "as_of_date": "2024-03-29"
+    },
+    {
+      "source_url": "https://aspisotopes.com/about-us/",
+      "source_description": "ASP Isotopes Inc. Official Website - About Us Section",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

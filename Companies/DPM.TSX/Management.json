@@ -17,7 +17,8 @@
           "start_date": "2012-01-01",
           "end_date": "2020-04-30"
         }
-      ]
+      ],
+      "name_original": "David Rae"
     },
     {
       "name": "Navin Dyal",
@@ -31,7 +32,8 @@
           "start_date": "2022-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Navin Dyal"
     },
     {
       "name": "Michael Dorfman",
@@ -45,7 +47,8 @@
           "start_date": "2018-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Michael Dorfman"
     }
   ],
   "board_of_directors": [
@@ -62,10 +65,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Jonathan Goodman"
     },
     {
-      "name": "R. Peter Gillin",
+      "name": "Peter Gillin",
       "age": 75,
       "age_year": 2024,
       "background": "Mr. Gillin is a corporate director and has served on several boards in the mining and financial sectors. He was previously Chairman and CEO of Tahera Diamond Corporation.",
@@ -80,13 +84,14 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "R. Peter Gillin"
     },
     {
       "name": "Marie-Anne Tawil",
       "age": 62,
       "age_year": 2024,
-      "background": "Ms. Tawil is a lawyer and strategic consultant with over 30 years of experience. She has served on various boards including Hydro-Québec.",
+      "background": "Ms. Tawil is a lawyer and strategic consultant with over 30 years of experience. She has served on various boards including Hydro-Qu\u00e9bec.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -98,10 +103,11 @@
       "committees": [
         "Governance and Nominating Committee",
         "Sustainability Committee"
-      ]
+      ],
+      "name_original": "Marie-Anne Tawil"
     },
     {
-      "name": "Anthony P. Walsh",
+      "name": "Anthony Walsh",
       "age": 69,
       "age_year": 2024,
       "background": "Mr. Walsh is a Chartered Professional Accountant with extensive experience in the mining industry, including serving as President and CEO of Miramar Mining Corporation.",
@@ -116,7 +122,8 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Anthony P. Walsh"
     }
   ],
   "sources": [

@@ -1,0 +1,28 @@
+{
+  "name": "Ben Fine",
+  "first_name": "Ben",
+  "last_name": "Fine",
+  "age": 45,
+  "age_year": 2024,
+  "background": "Mr. Fine has extensive experience in the uranium industry and corporate finance.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Energy Fuels Inc.",
+      "ticker": "UUUU",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2021-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee"
+  ]
+}

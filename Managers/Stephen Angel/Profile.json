@@ -1,0 +1,38 @@
+{
+  "name": "Stephen Angel",
+  "first_name": "Stephen",
+  "last_name": "Angel",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Former CEO of Linde plc. He has extensive experience in industrial and global operations.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Lead Director",
+      "start_date": "2022-01-01",
+      "end_date": null
+    },
+    {
+      "name": "GE Vernova Inc.",
+      "ticker": "GEV",
+      "exchange": "NYSE",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2024-04-02",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Defense",
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance & Public Affairs Committee",
+    "Governance and Public Affairs Committee",
+    "Management Development and Compensation Committee"
+  ]
+}

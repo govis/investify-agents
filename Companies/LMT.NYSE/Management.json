@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "James D. Taiclet",
+      "name": "James Taiclet",
       "age": 64,
       "age_year": 2024,
       "background": "Mr. Taiclet has served as Chairman, President and Chief Executive Officer of Lockheed Martin since June 2020. He previously served as Chairman, President and Chief Executive Officer of American Tower Corporation.",
@@ -12,7 +12,8 @@
           "start_date": "2020-06-15",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "James D. Taiclet"
     },
     {
       "name": "Jesus Malave",
@@ -26,10 +27,11 @@
           "start_date": "2022-02-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Jesus Malave"
     },
     {
-      "name": "Frank A. St. John",
+      "name": "Frank St. John",
       "age": 57,
       "age_year": 2024,
       "background": "Mr. St. John has served as Chief Operating Officer since June 2020. He has held various leadership roles at Lockheed Martin for over 30 years.",
@@ -40,7 +42,8 @@
           "start_date": "2020-06-15",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Frank A. St. John"
     },
     {
       "name": "Evan Scott",
@@ -54,12 +57,13 @@
           "start_date": "2023-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Evan Scott"
     }
   ],
   "board_of_directors": [
     {
-      "name": "James D. Taiclet",
+      "name": "James Taiclet",
       "age": 64,
       "age_year": 2024,
       "background": "Chairman, President and CEO of Lockheed Martin.",
@@ -71,10 +75,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "James D. Taiclet"
     },
     {
-      "name": "Daniel F. Akerson",
+      "name": "Daniel Akerson",
       "age": 75,
       "age_year": 2024,
       "background": "Former Chairman and CEO of General Motors Company.",
@@ -89,10 +94,11 @@
       "committees": [
         "Audit Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Daniel F. Akerson"
     },
     {
-      "name": "David B. Burritt",
+      "name": "David Burritt",
       "age": 68,
       "age_year": 2024,
       "background": "President and CEO of United States Steel Corporation.",
@@ -107,10 +113,11 @@
       "committees": [
         "Audit Committee",
         "Strategic Affairs Committee"
-      ]
+      ],
+      "name_original": "David B. Burritt"
     },
     {
-      "name": "Bruce A. Carlson",
+      "name": "Bruce Carlson",
       "age": 74,
       "age_year": 2024,
       "background": "Retired General, U.S. Air Force and former Director of the National Reconnaissance Office.",
@@ -125,10 +132,11 @@
       "committees": [
         "Classified Business and Security Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Bruce A. Carlson"
     },
     {
-      "name": "Joseph F. Dunford, Jr.",
+      "name": "Joseph Dunford, Jr.",
       "age": 68,
       "age_year": 2024,
       "background": "Retired General, U.S. Marine Corps and former Chairman of the Joint Chiefs of Staff.",
@@ -143,10 +151,11 @@
       "committees": [
         "Classified Business and Security Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Joseph F. Dunford, Jr."
     },
     {
-      "name": "Ilene S. Gordon",
+      "name": "Ilene Gordon",
       "age": 70,
       "age_year": 2024,
       "background": "Retired Chairman, President and CEO of Ingredion Incorporated.",
@@ -161,10 +170,11 @@
       "committees": [
         "Management Development and Compensation Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Ilene S. Gordon"
     },
     {
-      "name": "Vicki A. Hollub",
+      "name": "Vicki Hollub",
       "age": 64,
       "age_year": 2024,
       "background": "President and CEO of Occidental Petroleum Corporation.",
@@ -179,10 +189,11 @@
       "committees": [
         "Audit Committee",
         "Strategic Affairs Committee"
-      ]
+      ],
+      "name_original": "Vicki A. Hollub"
     },
     {
-      "name": "Jeh C. Johnson",
+      "name": "Jeh Johnson",
       "age": 66,
       "age_year": 2024,
       "background": "Partner at Paul, Weiss, Rifkind, Wharton & Garrison LLP and former U.S. Secretary of Homeland Security.",
@@ -197,10 +208,11 @@
       "committees": [
         "Classified Business and Security Committee",
         "Ethics and Sustainability Committee"
-      ]
+      ],
+      "name_original": "Jeh C. Johnson"
     },
     {
-      "name": "John M. Richardson",
+      "name": "John Richardson",
       "age": 63,
       "age_year": 2024,
       "background": "Retired Admiral, U.S. Navy and former Chief of Naval Operations.",
@@ -215,10 +227,11 @@
       "committees": [
         "Classified Business and Security Committee",
         "Strategic Affairs Committee"
-      ]
+      ],
+      "name_original": "John M. Richardson"
     },
     {
-      "name": "Patricia E. Yarrington",
+      "name": "Patricia Yarrington",
       "age": 68,
       "age_year": 2024,
       "background": "Retired Vice President and CFO of Chevron Corporation.",
@@ -233,7 +246,8 @@
       "committees": [
         "Audit Committee",
         "Management Development and Compensation Committee"
-      ]
+      ],
+      "name_original": "Patricia E. Yarrington"
     }
   ],
   "sources": [

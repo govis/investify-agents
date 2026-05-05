@@ -1,0 +1,174 @@
+{
+  "executives": [
+    {
+      "name": "Jim Gallagher",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Gallagher is a Professional Mining Engineer with over 35 years of experience in the mining industry. He was previously the President and CEO of North American Palladium and has held senior operational roles at Falconbridge and Xstrata.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Chair",
+          "start_date": "2023-05-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Jim Gallagher"
+    },
+    {
+      "name": "Mike Garbutt",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Garbutt is a Professional Engineer with over 25 years of experience in mining operations and project management. He previously served as Chief Operating Officer at Harte Gold and held senior roles at Glencore.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Mike Garbutt"
+    },
+    {
+      "name": "Kris Raffle",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Mr. Raffle is a Professional Geologist and a Principal of APEX Geoscience Ltd. He has over 20 years of experience in mineral exploration and project management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Exploration",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Krisko (Kris) J.S. Raffle"
+    },
+    {
+      "name": "Sandi Munroe",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Ms. Munroe is a Chartered Professional Accountant with over 30 years of experience in financial management and corporate governance in the mining sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2023-09-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Sandi J. Munroe"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jim Gallagher",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Professional Mining Engineer with over 35 years of experience. Former CEO of North American Palladium.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Chair",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Jim Gallagher"
+    },
+    {
+      "name": "Dean Chambers",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Professional Engineer and financial executive with over 35 years of experience. Former CFO of Sherritt International Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)",
+        "Compensation Committee"
+      ],
+      "name_original": "Dean Chambers"
+    },
+    {
+      "name": "Ewan Downie",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Experienced mining executive and founder of several successful exploration companies, including Wolfden Resources and Premier Gold Mines.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "Ewan Downie"
+    },
+    {
+      "name": "Maryann Mihychuk",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Geoscientist and former Canadian Member of Parliament and Minister of Natural Resources. Extensive experience in mineral policy and indigenous relations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Nominating Committee (Chair)",
+        "Audit Committee"
+      ],
+      "name_original": "Maryann Mihychuk"
+    },
+    {
+      "name": "Shimi Shah",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Venture capitalist and entrepreneur with over 20 years of experience in investing and corporate finance across various sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee (Chair)",
+        "Audit Committee"
+      ],
+      "name_original": "Shimi Shah"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://cleanairmetals.ca/corporate/management-and-directors/",
+      "source_description": "Clean Air Metals Official Website - Management and Directors Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "Management Information Circular dated May 15, 2024",
+      "as_of_date": "2024-05-15"
+    }
+  ]
+}

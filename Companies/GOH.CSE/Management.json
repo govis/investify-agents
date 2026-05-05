@@ -1,0 +1,118 @@
+{
+  "executives": [
+    {
+      "name": "Bonn Smith",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Smith has over 20 years of experience in the capital markets, specializing in corporate development and investor relations for resource companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2023-05-15",
+          "end_date": null
+        }
+      ],
+      "name_original": "Bonn Smith"
+    },
+    {
+      "name": "Sead Hamzagic",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Hamzagic is a Chartered Professional Accountant with over 30 years of experience in public practice and financial management for public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2020-02-20",
+          "end_date": null
+        }
+      ],
+      "name_original": "Sead Hamzagic"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Bonn Smith",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Smith has over 20 years of experience in the capital markets, specializing in corporate development and investor relations for resource companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-05-15",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Bonn Smith"
+    },
+    {
+      "name": "Scott Emerson",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Emerson has over 30 years of experience in the capital markets and has served as a director and officer of several public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2019-05-22",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Scott J. Emerson"
+    },
+    {
+      "name": "Jack Bal",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Bal has over 25 years of experience in the capital markets and has served as a director and officer of several public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2020-02-20",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Jack Bal"
+    },
+    {
+      "name": "David Smith",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Smith is a geologist with over 30 years of experience in the mining industry, specializing in exploration and development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2020-02-20",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "David S. Smith"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://goldhavenresources.com/about-us/management-directors/",
+      "source_description": "Company Website - Management & Directors Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "SEDAR+ Filing - Management Information Circular",
+      "as_of_date": "2023-11-15"
+    }
+  ]
+}

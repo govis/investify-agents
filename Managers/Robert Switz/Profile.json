@@ -1,0 +1,46 @@
+{
+  "name": "Robert Switz",
+  "first_name": "Robert",
+  "last_name": "Switz",
+  "age": 71,
+  "age_year": 2024,
+  "background": "Former Chairman, President and CEO of ADC Telecommunications.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Marvell Technology, Inc.",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "start_date": "2016-05-01",
+      "end_date": null
+    },
+    {
+      "name": "Micron Technology, Inc.",
+      "ticker": "MU",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2006-01-01",
+      "end_date": null
+    },
+    {
+      "name": "SentinelOne, Inc.",
+      "ticker": "S",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "start_date": "2021-04-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Governance and Sustainability Committee",
+    "Nominating and Corporate Governance Committee"
+  ]
+}

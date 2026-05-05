@@ -1,0 +1,100 @@
+{
+  "executives": [
+    {
+      "name": "Zula Kropivnitski",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Ms. Kropivnitski has over 15 years of experience in financial reporting and corporate compliance. She has served as CFO for several public companies listed on the TSX Venture Exchange and the CSE. She is a Certified Professional Accountant (CPA, CGA).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Zula Kropivnitski"
+    },
+    {
+      "name": "Amir Adnani",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Mr. Adnani is an entrepreneur and the founder of several public companies in the resource sector. He is the founder and CEO of Uranium Energy Corp and the Chairman of GoldMining Inc. He has extensive experience in capital markets and corporate development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Amir Adnani"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Amir Adnani",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Mr. Adnani is an entrepreneur and the founder of several public companies in the resource sector. He is the founder and CEO of Uranium Energy Corp and the Chairman of GoldMining Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Amir Adnani"
+    },
+    {
+      "name": "Garnet Dawson",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Dawson is a geologist with over 40 years of experience in the exploration and mining industry. He has held senior management positions with several public companies and has been involved in the discovery and development of several mineral deposits.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Garnet Dawson"
+    },
+    {
+      "name": "David Gower",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Gower has over 30 years of experience in the minerals industry, including senior positions with Falconbridge Ltd. and Noranda Inc. He is currently the CEO of Emerita Resources Corp. and serves on the boards of several public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "David Gower"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://eagleonemetals.com/about-us/management-directors/",
+      "source_description": "Company Website - Management and Directors Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "SEDAR+ Filing - Management Information Circular",
+      "as_of_date": "2023-10-15"
+    }
+  ]
+}

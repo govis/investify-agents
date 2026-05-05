@@ -1,0 +1,141 @@
+{
+  "executives": [
+    {
+      "name": "Frank Hallam",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Hallam is a co-founder of the Company and has served as President and CEO since 2022. He was previously CFO from 2002 to 2022. He is a Chartered Professional Accountant and has been involved in the mining industry for over 30 years.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2022-04-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2002-02-01",
+          "end_date": "2022-03-31"
+        }
+      ],
+      "name_original": "Frank R. Hallam"
+    },
+    {
+      "name": "Greg Hall",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Hall has over 30 years of experience in the mining industry. He has served as the Chief Financial Officer since April 2022. He was previously the Corporate Controller of the Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2022-04-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Greg S. Hall"
+    },
+    {
+      "name": "Kris Begic",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Begic has over 25 years of experience in the mining industry, specializing in corporate development and project evaluation. He joined the company in 2011.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Corporate Development",
+          "start_date": "2011-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Kris Begic"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Diana Walters",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Ms. Walters has over 30 years of experience in the natural resources sector. She is currently the Chair of the Board and has held various executive roles in investment and mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chair of the Board",
+          "start_date": "2014-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Diana Walters"
+    },
+    {
+      "name": "Frank Hallam",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Co-founder, President and CEO of the Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2002-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Frank R. Hallam"
+    },
+    {
+      "name": "Timothy Marlow",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Mr. Marlow is a mining engineer with over 40 years of experience in project management and operations globally.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2014-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance and Nomination Committee"
+      ],
+      "name_original": "Timothy S. Marlow"
+    },
+    {
+      "name": "Stuart Harshaw",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Mr. Harshaw is a seasoned mining executive with over 30 years of experience, including senior roles at Vale SA.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Governance and Nomination Committee"
+      ],
+      "name_original": "Stuart Harshaw"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1095052/000110465923120123/tm2331041d1_40f.htm",
+      "source_description": "SEC Form 40-F Annual Report",
+      "as_of_date": "2023-11-22"
+    },
+    {
+      "source_url": "https://www.platinumgroupmetals.net/about-us/management-and-directors/default.aspx",
+      "source_description": "Company Website - Management and Directors Page",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

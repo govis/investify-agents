@@ -1,0 +1,28 @@
+{
+  "name": "Mike Sheridan",
+  "first_name": "Mike",
+  "last_name": "Sheridan",
+  "age": 59,
+  "age_year": 2024,
+  "background": "Mr. Sheridan has served as a director since 2022. He has extensive experience in the energy and natural resources sectors.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "ASP Isotopes Inc.",
+      "ticker": "ASPI",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2022-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ]
+}

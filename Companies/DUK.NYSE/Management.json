@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Lynn J. Good",
+      "name": "Lynn Good",
       "age": 64,
       "age_year": 2024,
       "background": "Lynn J. Good is Chair, President and Chief Executive Officer of Duke Energy. She has served as CEO since 2013 and Chair since 2016. Previously, she served as Duke Energy's Executive Vice President and Chief Financial Officer.",
@@ -12,10 +12,11 @@
           "start_date": "2013-07-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Lynn J. Good"
     },
     {
-      "name": "Brian D. Savoy",
+      "name": "Brian Savoy",
       "age": 48,
       "age_year": 2024,
       "background": "Brian D. Savoy is Executive Vice President and Chief Financial Officer. He previously served as Executive Vice President, Chief Strategy and Commercial Officer.",
@@ -26,10 +27,11 @@
           "start_date": "2022-09-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Brian D. Savoy"
     },
     {
-      "name": "Dhiaa M. Jamil",
+      "name": "Dhiaa Jamil",
       "age": 67,
       "age_year": 2024,
       "background": "Dhiaa M. Jamil is Executive Vice President and Chief Operating Officer. He has held various leadership roles in nuclear and fossil generation.",
@@ -40,7 +42,8 @@
           "start_date": "2016-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Dhiaa M. Jamil"
     },
     {
       "name": "Kodwo Gharbi-Enchill",
@@ -54,12 +57,13 @@
           "start_date": "2021-08-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Kodwo Gharbi-Enchill"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Lynn J. Good",
+      "name": "Lynn Good",
       "age": 64,
       "age_year": 2024,
       "background": "Chair, President and Chief Executive Officer of Duke Energy Corporation.",
@@ -71,10 +75,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Lynn J. Good"
     },
     {
-      "name": "Annette K. Clayton",
+      "name": "Annette Clayton",
       "age": 60,
       "age_year": 2024,
       "background": "Former Chief Executive Officer and Chair of Schneider Electric North America.",
@@ -89,10 +94,11 @@
       "committees": [
         "Audit Committee",
         "Finance and Risk Management Committee"
-      ]
+      ],
+      "name_original": "Annette K. Clayton"
     },
     {
-      "name": "Theodore F. Craver, Jr.",
+      "name": "Theodore Craver, Jr.",
       "age": 72,
       "age_year": 2024,
       "background": "Retired Chairman, President and Chief Executive Officer of Edison International.",
@@ -107,10 +113,11 @@
       "committees": [
         "Audit Committee",
         "Finance and Risk Management Committee"
-      ]
+      ],
+      "name_original": "Theodore F. Craver, Jr."
     },
     {
-      "name": "Robert M. Davis",
+      "name": "Robert Davis",
       "age": 57,
       "age_year": 2024,
       "background": "Chairman, Chief Executive Officer and President of Merck & Co., Inc.",
@@ -125,7 +132,8 @@
       "committees": [
         "Compensation and People Development Committee",
         "Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Robert M. Davis"
     },
     {
       "name": "Caroline Dorsa",
@@ -143,10 +151,11 @@
       "committees": [
         "Audit Committee",
         "Finance and Risk Management Committee"
-      ]
+      ],
+      "name_original": "Caroline Dorsa"
     },
     {
-      "name": "W. Roy J. Bostock",
+      "name": "Roy Bostock",
       "age": 83,
       "age_year": 2024,
       "background": "Chairman of the Partnership for New York City and former Chairman of Yahoo! Inc.",
@@ -161,7 +170,8 @@
       "committees": [
         "Corporate Governance Committee",
         "Finance and Risk Management Committee"
-      ]
+      ],
+      "name_original": "W. Roy J. Bostock"
     }
   ],
   "sources": [

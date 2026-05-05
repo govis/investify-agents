@@ -1,0 +1,168 @@
+{
+  "executives": [
+    {
+      "name": "Troy Boisjoli",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Mr. Boisjoli has over 15 years of experience in the uranium industry. He previously served as Vice President, Operations and Project Development for NexGen Energy Ltd., where he led the development of the Rook I Project. He also held various roles at Cameco Corporation, including positions at the McArthur River and Key Lake operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2023-03-24",
+          "end_date": null
+        }
+      ],
+      "name_original": "Troy Boisjoli"
+    },
+    {
+      "name": "Mike Castanho",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Castanho is a co-founder of Atha Energy and has over 20 years of experience in the capital markets and resource sector. He has been involved in the founding and financing of several successful resource companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President",
+          "start_date": "2023-01-12",
+          "end_date": null
+        }
+      ],
+      "name_original": "Mike Castanho"
+    },
+    {
+      "name": "Akash Patel",
+      "age": 38,
+      "age_year": 2024,
+      "background": "Mr. Patel has over 10 years of experience in corporate finance and accounting. He has served as a director and officer of several public companies in the resource and technology sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2023-01-12",
+          "end_date": null
+        }
+      ],
+      "name_original": "Akash Patel"
+    },
+    {
+      "name": "Cliff Revering",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Revering is a Professional Geoscientist with over 25 years of experience in the mining industry, with a focus on uranium exploration and development. He previously held senior roles at Cameco Corporation and SRK Consulting.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Exploration",
+          "start_date": "2023-05-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Cliff Revering"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Troy Boisjoli",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Mr. Boisjoli has over 15 years of experience in the uranium industry. He previously served as Vice President, Operations and Project Development for NexGen Energy Ltd., where he led the development of the Rook I Project.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-03-24",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Troy Boisjoli"
+    },
+    {
+      "name": "Mike Castanho",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Castanho is a co-founder of Atha Energy and has over 20 years of experience in the capital markets and resource sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-01-12",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Mike Castanho"
+    },
+    {
+      "name": "Doug Adams",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Adams has over 25 years of experience in the investment industry, specializing in the resource sector. He has held senior positions at several Canadian investment dealers.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-01-12",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Doug Adams"
+    },
+    {
+      "name": "Sean Harquail",
+      "age": 41,
+      "age_year": 2024,
+      "background": "Mr. Harquail has over 15 years of experience in the mining and finance industries. He is currently a Managing Director at a private investment firm and has served on the boards of several public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-01-12",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Sean Harquail"
+    },
+    {
+      "name": "Jeffery Scott",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Scott has over 30 years of experience in the energy and resource sectors. He has served as a director and officer of numerous public and private companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-01-12",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Jeffery Scott"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.athaenergy.com/about-us/team/",
+      "source_description": "Atha Energy Corp. Official Website - Management and Board Profiles",
+      "as_of_date": "2024-05-22"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "Management Information Circular dated May 15, 2024",
+      "as_of_date": "2024-05-15"
+    }
+  ]
+}

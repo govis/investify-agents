@@ -1,0 +1,134 @@
+{
+  "executives": [
+    {
+      "name": "Ana Cabral-Gardner",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Co-founder of Sigma Lithium. Over 25 years of experience in capital markets and M&A. Previously at Goldman Sachs and Barclays.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer and Co-Chairperson",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Ana Cabral-Gardner"
+    },
+    {
+      "name": "Caio de Moraes",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Extensive experience in mining operations and project management in Brazil.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Caio de Moraes"
+    },
+    {
+      "name": "Matthew DeYoe",
+      "age": 40,
+      "age_year": 2024,
+      "background": "Former equity research analyst covering the chemicals and lithium sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, Corporate Strategy and Investor Relations",
+          "start_date": "2024-05-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Matthew DeYoe"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Ana Cabral-Gardner",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Co-founder and CEO of Sigma Lithium.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Co-Chairperson",
+          "start_date": "2018-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Ana Cabral-Gardner"
+    },
+    {
+      "name": "Marcelo Paiva",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Co-founder of A10 Capital. Extensive experience in private equity and capital markets.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Co-Chairperson",
+          "start_date": "2018-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Investment Committee"
+      ],
+      "name_original": "Marcelo Paiva"
+    },
+    {
+      "name": "Alexandre de L'Etraz",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Experienced in international finance and wealth management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Alexandre de L'Etraz"
+    },
+    {
+      "name": "Vicente Lobo",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Former Secretary of Geology, Mining and Mineral Processing of Brazil.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Technical Committee"
+      ],
+      "name_original": "Vicente Lobo"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1751788/000110465924076321/tm2418461d1_6k.htm",
+      "source_description": "SEC Form 6-K - Management Information Circular",
+      "as_of_date": "2024-06-30"
+    },
+    {
+      "source_url": "https://www.sigmalithiumresources.com/about-us/management-team/",
+      "source_description": "Company Website - Management Team",
+      "as_of_date": "2024-10-27"
+    }
+  ]
+}

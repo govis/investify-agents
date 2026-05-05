@@ -1,0 +1,28 @@
+{
+  "name": "Alan Bennett",
+  "first_name": "Alan",
+  "last_name": "Bennett",
+  "age": 73,
+  "age_year": 2024,
+  "background": "Former President and CEO of H&R Block, Inc. Former CFO of Aetna Inc.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2011-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Organization and Compensation Committee"
+  ]
+}

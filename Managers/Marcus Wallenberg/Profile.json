@@ -1,0 +1,35 @@
+{
+  "name": "Marcus Wallenberg",
+  "first_name": "Marcus",
+  "last_name": "Wallenberg",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Chairman of the Board. Chairman of SEB and FAM. Board member of AstraZeneca and Investor AB.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Saab AB",
+      "ticker": "SAAB-B",
+      "exchange": "STO",
+      "title_or_role": "Chairman",
+      "start_date": "2006-04-01",
+      "end_date": null
+    },
+    {
+      "name": "Saab Aktiebolag",
+      "ticker": "SAAB",
+      "exchange": "STO",
+      "title_or_role": "Chairman",
+      "start_date": "2006-04-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Remuneration Committee"
+  ]
+}

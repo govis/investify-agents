@@ -1,0 +1,191 @@
+{
+  "executives": [
+    {
+      "name": "Louis-Pierre Gignac",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Mr. Gignac has more than 20 years of experience in the mining industry. He is currently the President and Chief Executive Officer of G Mining Ventures. Prior to this, he was a co-founder of G Mining Services Inc. and held various senior roles in mining engineering and project management. He holds a Bachelor of Mining Engineering from McGill University and a Master of Applied Science from Polytechnique Montr\u00e9al.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President & Chief Executive Officer",
+          "start_date": "2020-11-25",
+          "end_date": null
+        }
+      ],
+      "name_original": "Louis-Pierre Gignac"
+    },
+    {
+      "name": "Marc-Antoine Audet",
+      "age": 39,
+      "age_year": 2024,
+      "background": "Mr. Audet has over 15 years of experience in finance and the mining industry. He previously served as Vice President, Corporate Development and Investor Relations at G Mining Ventures. He holds a Bachelor of Commerce from HEC Montr\u00e9al and is a CFA charterholder.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Marc-Antoine Audet"
+    },
+    {
+      "name": "Duane Lo",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Lo is a senior financial executive with over 25 years of experience in the mining industry. He was previously the CFO of Entr\u00e9e Resources Ltd. and Luna Gold Corp. He is a Chartered Professional Accountant.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2021-04-01",
+          "end_date": "2023-12-31"
+        }
+      ],
+      "name_original": "Duane Lo"
+    },
+    {
+      "name": "Eduardo Leao",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Leao has extensive experience in the Brazilian mining sector, having served as the Director of the National Mining Agency (ANM) in Brazil. He oversees the company's operations and sustainability initiatives in Brazil.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Sustainability & Brazil Country Manager",
+          "start_date": "2022-09-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Eduardo Leao"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Louis-Pierre Gignac",
+      "age": 46,
+      "age_year": 2024,
+      "background": "President and CEO of G Mining Ventures Corp. with over 20 years of experience in mining engineering and project development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2020-11-25",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Louis-Pierre Gignac"
+    },
+    {
+      "name": "Louis Gignac Sr.",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Chairman of G Mining Ventures. He was the founder of Cambior Inc. and has over 45 years of experience in the mining industry. He is a member of the Canadian Mining Hall of Fame.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman & Director",
+          "start_date": "2020-11-25",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Louis Gignac Sr."
+    },
+    {
+      "name": "David Fennell",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Fennell has been involved in the mining industry for over 35 years. He was the founder of Golden Star Resources Ltd. and has served on numerous boards of public mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-11-25",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "David Fennell"
+    },
+    {
+      "name": "Normand Champigny",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Champigny is a geological engineer with over 40 years of experience. He is currently the CEO of Quebec Precious Metals Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-11-25",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Normand Champigny"
+    },
+    {
+      "name": "Elif L\u00e9vesque",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Ms. L\u00e9vesque is a Chartered Professional Accountant with over 20 years of experience in finance and the mining industry. She was a founder of Nomad Royalty Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-06-22",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Elif L\u00e9vesque"
+    },
+    {
+      "name": "Jason Neal",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Neal was previously the President and CEO of TMAC Resources and Co-Head of Global Metals and Mining at BMO Capital Markets.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-05-15",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Nominating Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Jason Neal"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.gminingventures.com/en/governance/board-of-directors/",
+      "source_description": "Company Website - Board of Directors Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.gminingventures.com/en/governance/management-team/",
+      "source_description": "Company Website - Management Team Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "Management Information Circular dated May 10, 2024",
+      "as_of_date": "2024-05-10"
+    }
+  ]
+}

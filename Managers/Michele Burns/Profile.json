@@ -1,0 +1,40 @@
+{
+  "name": "Michele Burns",
+  "first_name": "Michele",
+  "last_name": "Burns",
+  "age": 66,
+  "age_year": 2024,
+  "background": "Former Chairman and CEO of Mercer LLC. Former CFO of Delta Air Lines, Inc. and Marsh & McLennan Companies, Inc.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "start_date": "2003-11-01",
+      "end_date": null
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2011-10-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Audit Committee",
+    "Governance",
+    "Nomination and Governance Committee",
+    "Risk"
+  ]
+}

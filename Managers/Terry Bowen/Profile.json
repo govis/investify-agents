@@ -1,0 +1,36 @@
+{
+  "name": "Terry Bowen",
+  "first_name": "Terry",
+  "last_name": "Bowen",
+  "age": 57,
+  "age_year": 2024,
+  "background": "Terry Bowen is a former Finance Director of Wesfarmers Limited. He has over 25 years' experience in senior financial and executive roles across various industries.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX",
+      "title_or_role": "Non-executive Director",
+      "start_date": "2017-09-01",
+      "end_date": null
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Non-executive Director",
+      "start_date": "2017-09-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Nomination and Governance Committee",
+    "Risk and Audit Committee (Chair)"
+  ]
+}

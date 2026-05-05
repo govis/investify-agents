@@ -1,0 +1,35 @@
+{
+  "name": "Sean Boyd",
+  "first_name": "Sean",
+  "last_name": "Boyd",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Mr. Boyd is the Executive Chair of the Board of Agnico Eagle. He served as Chief Executive Officer from 1998 to 2022 and has been with the company since 1985. He is a Chartered Professional Accountant.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Agnico Eagle Mines Limited",
+      "ticker": "AEM",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Chair, Director",
+      "start_date": "2022-02-23",
+      "end_date": null
+    },
+    {
+      "name": "Victoria Gold Corp.",
+      "ticker": "VGCX",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "start_date": "2018-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Technical Committee"
+  ]
+}

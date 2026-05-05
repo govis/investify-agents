@@ -1,0 +1,197 @@
+{
+  "executives": [
+    {
+      "name": "Mike Henry",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mike Henry has over 30 years' experience in the resources industry. He joined BHP in 2003 and has held various senior leadership roles including President Operations Minerals Australia and Chief Operating Officer. He was appointed Chief Executive Officer in January 2020.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2020-01-01",
+          "end_date": null
+        },
+        {
+          "title": "President Operations, Minerals Australia",
+          "start_date": "2016-01-01",
+          "end_date": "2019-12-31"
+        }
+      ],
+      "name_original": "Mike Henry"
+    },
+    {
+      "name": "Vandita Pant",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Vandita Pant was appointed Chief Financial Officer in March 2024. She previously served as Chief Commercial Officer and has extensive experience in banking and finance, having held roles at ABN Amro and RBS before joining BHP in 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2024-03-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Commercial Officer",
+          "start_date": "2019-07-01",
+          "end_date": "2024-02-29"
+        }
+      ],
+      "name_original": "Vandita Pant"
+    },
+    {
+      "name": "Edgar Basto",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Edgar Basto was appointed Chief Operating Officer in October 2022. He has been with BHP since 1989 and has held numerous leadership positions including President Minerals Australia and President Western Australia Iron Ore.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2022-10-01",
+          "end_date": null
+        },
+        {
+          "title": "President Minerals Australia",
+          "start_date": "2020-07-01",
+          "end_date": "2022-09-30"
+        }
+      ],
+      "name_original": "Edgar Basto"
+    },
+    {
+      "name": "Johan van Jaarsveld",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Johan van Jaarsveld was appointed Chief Technical Officer in September 2024. He previously served as Chief Development Officer and has a background in investment banking and resources strategy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Technical Officer",
+          "start_date": "2024-09-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Development Officer",
+          "start_date": "2020-09-01",
+          "end_date": "2024-08-31"
+        }
+      ],
+      "name_original": "Johan van Jaarsveld"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Ken MacKenzie",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Ken MacKenzie was appointed Chairman in September 2017. He was formerly the Managing Director and CEO of Amcor Limited. He has extensive global experience in complex manufacturing and supply chains.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2017-09-01",
+          "end_date": null
+        },
+        {
+          "role": "Non-executive Director",
+          "start_date": "2016-09-22",
+          "end_date": "2017-08-31"
+        }
+      ],
+      "committees": [
+        "Nomination and Governance Committee (Chair)"
+      ],
+      "name_original": "Ken MacKenzie"
+    },
+    {
+      "name": "Terry Bowen",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Terry Bowen is a former Finance Director of Wesfarmers Limited. He has over 25 years' experience in senior financial and executive roles across various industries including retail and mining.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Non-executive Director",
+          "start_date": "2017-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Risk and Audit Committee (Chair)",
+        "Nomination and Governance Committee"
+      ],
+      "name_original": "Terry Bowen"
+    },
+    {
+      "name": "Xiaoqun Clever",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Xiaoqun Clever has over 20 years' experience in technology and digital transformation. She has held senior roles at SAP SE and Ringier AG and currently serves on several international boards.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Non-executive Director",
+          "start_date": "2020-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Risk and Audit Committee",
+        "Sustainability Committee"
+      ],
+      "name_original": "Xiaoqun Clever"
+    },
+    {
+      "name": "Michelle Hinchliffe",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Michelle Hinchliffe was a partner at KPMG for 36 years, where she led the UK financial services practice. She has extensive experience in audit and financial services across the UK and Australia.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Non-executive Director",
+          "start_date": "2022-03-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Risk and Audit Committee",
+        "Remuneration Committee"
+      ],
+      "name_original": "Michelle Hinchliffe"
+    },
+    {
+      "name": "Christine O'Reilly",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Christine O'Reilly has over 30 years' experience in financial and infrastructure sectors. She was previously CEO of the GasNet Group and Co-Head of Unlisted Infrastructure at Colonial First State Global Asset Management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Non-executive Director",
+          "start_date": "2020-10-12",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Remuneration Committee (Chair)",
+        "Risk and Audit Committee"
+      ],
+      "name_original": "Christine O'Reilly"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/811809/000119312524212952/d814275d20f.htm",
+      "source_description": "BHP Group Limited Annual Report on Form 20-F for the fiscal year ended June 30, 2024",
+      "as_of_date": "2024-09-03"
+    },
+    {
+      "source_url": "https://www.bhp.com/about/our-leadership",
+      "source_description": "BHP Official Website - Leadership Team and Board of Directors",
+      "as_of_date": "2024-11-15"
+    }
+  ]
+}

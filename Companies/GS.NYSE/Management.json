@@ -1,0 +1,144 @@
+{
+  "executives": [
+    {
+      "name": "David Solomon",
+      "age": 62,
+      "age_year": 2024,
+      "background": "David M. Solomon is Chairman and Chief Executive Officer of The Goldman Sachs Group, Inc. He previously served as President and Chief Operating Officer and as Co-Head of the Investment Banking Division.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2018-10-01",
+          "end_date": null
+        },
+        {
+          "title": "President and Chief Operating Officer",
+          "start_date": "2017-01-01",
+          "end_date": "2018-09-30"
+        }
+      ],
+      "name_original": "David M. Solomon"
+    },
+    {
+      "name": "Denis Coleman",
+      "age": 50,
+      "age_year": 2024,
+      "background": "Denis Coleman is Chief Financial Officer of The Goldman Sachs Group, Inc. He previously served as Co-Head of the Global Financing Group and as a member of the Management Committee.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Denis Coleman"
+    },
+    {
+      "name": "John Waldron",
+      "age": 54,
+      "age_year": 2024,
+      "background": "John E. Waldron is President and Chief Operating Officer of The Goldman Sachs Group, Inc. He previously served as Co-Head of the Investment Banking Division.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Operating Officer",
+          "start_date": "2018-10-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "John E. Waldron"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "David Solomon",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Goldman Sachs.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "David M. Solomon"
+    },
+    {
+      "name": "Michele Burns",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Mercer LLC.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2011-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit",
+        "Governance",
+        "Risk"
+      ],
+      "name_original": "M. Michele Burns"
+    },
+    {
+      "name": "Jan Tighe",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Retired Vice Admiral, United States Navy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-12-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit",
+        "Governance",
+        "Risk"
+      ],
+      "name_original": "Jan E. Tighe"
+    },
+    {
+      "name": "Kevin Johnson",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former President and CEO of Starbucks Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation",
+        "Governance",
+        "Risk"
+      ],
+      "name_original": "Kevin R. Johnson"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/886982/000119312524071153/d538092ddef14a.htm",
+      "source_description": "SEC DEF 14A Proxy Statement",
+      "as_of_date": "2024-03-15"
+    },
+    {
+      "source_url": "https://www.goldmansachs.com/about-us/leadership/",
+      "source_description": "Goldman Sachs Official Leadership Page",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

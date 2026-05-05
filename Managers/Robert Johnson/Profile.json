@@ -1,0 +1,27 @@
+{
+  "name": "Robert Johnson",
+  "first_name": "Robert",
+  "last_name": "Johnson",
+  "age": 64,
+  "age_year": 2024,
+  "background": "Former executive at various technology firms and has served on the Viasat board since 1986.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Viasat, Inc.",
+      "ticker": "VSAT",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "start_date": "1986-05-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nomination, Governance and Redevelopment Committee"
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "executives": [
+    {
+      "name": "Peter Dasler",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Mr. Dasler has over 40 years of experience in the mining and exploration industry. He has been a director and officer of several public companies and has extensive experience in the management of exploration projects.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President",
+          "start_date": "2004-01-01",
+          "end_date": null
+        },
+        {
+          "title": "CEO",
+          "start_date": "2004-01-01",
+          "end_date": "2021-05-01"
+        }
+      ],
+      "name_original": "Peter Dasler"
+    },
+    {
+      "name": "Cory Belyk",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Belyk is a professional geologist with over 30 years of experience in the mining industry, including 25 years with Cameco Corporation in various senior roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "CEO",
+          "start_date": "2021-05-01",
+          "end_date": null
+        },
+        {
+          "title": "President",
+          "start_date": "2021-05-01",
+          "end_date": null
+        },
+        {
+          "title": "COO",
+          "start_date": "2019-01-01",
+          "end_date": "2021-05-01"
+        }
+      ],
+      "name_original": "Cory Belyk"
+    },
+    {
+      "name": "Harry Chan",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Chan is a Chartered Professional Accountant with over 20 years of experience in financial management and reporting for public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "CFO",
+          "start_date": "2011-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Harry Chan"
+    },
+    {
+      "name": "Nathan Bridge",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Bridge is a professional geologist with experience in uranium exploration in the Athabasca Basin.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Exploration",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Nathan Bridge"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Peter Dasler",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Mr. Dasler has over 40 years of experience in the mining and exploration industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2004-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Peter Dasler"
+    },
+    {
+      "name": "Cory Belyk",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Belyk is a professional geologist with over 30 years of experience.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2021-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Cory Belyk"
+    },
+    {
+      "name": "Ambassador Thomas Graham, Jr.",
+      "age": 90,
+      "age_year": 2024,
+      "background": "Ambassador Graham is a world-renowned expert on nuclear non-proliferation and has served under four US Presidents.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2007-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Ambassador Thomas Graham, Jr."
+    },
+    {
+      "name": "Karl Schimann",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Dr. Schimann is a professional geologist with over 40 years of experience, including significant work on the Cigar Lake uranium deposit.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2004-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Karl Schimann"
+    },
+    {
+      "name": "Jean Luc Roy",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Roy has over 30 years of experience in the mining industry, primarily in Africa.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2007-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Jean Luc Roy"
+    },
+    {
+      "name": "Geoffrey Gay",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Gay is the CEO of Athabasca Basin Development, an investment company owned by the seven communities in Northern Saskatchewan's Athabasca Basin.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Geoffrey Gay"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://canalaska.com/about-us/management/",
+      "source_description": "Company Website - Management Team",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://canalaska.com/about-us/directors/",
+      "source_description": "Company Website - Board of Directors",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca/",
+      "source_description": "SEDAR+ Filings - Management Information Circular",
+      "as_of_date": "2023-09-15"
+    }
+  ]
+}

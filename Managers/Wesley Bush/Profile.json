@@ -1,0 +1,38 @@
+{
+  "name": "Wesley Bush",
+  "first_name": "Wesley",
+  "last_name": "Bush",
+  "age": 63,
+  "age_year": 2024,
+  "background": "Former Chairman and CEO of Northrop Grumman Corporation.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "start_date": "2019-05-01",
+      "end_date": null
+    },
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2019-02-11",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation and Management Development Committee",
+    "Finance Committee"
+  ]
+}

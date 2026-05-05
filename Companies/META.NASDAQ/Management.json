@@ -12,7 +12,8 @@
           "start_date": "2004-02-04",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Mark Zuckerberg"
     },
     {
       "name": "Susan Li",
@@ -26,7 +27,8 @@
           "start_date": "2022-11-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Susan Li"
     },
     {
       "name": "Javier Olivan",
@@ -40,7 +42,8 @@
           "start_date": "2022-08-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Javier Olivan"
     },
     {
       "name": "Chris Cox",
@@ -54,7 +57,8 @@
           "start_date": "2020-06-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Chris Cox"
     },
     {
       "name": "Andrew Bosworth",
@@ -68,7 +72,8 @@
           "start_date": "2022-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Andrew Bosworth"
     }
   ],
   "board_of_directors": [
@@ -85,7 +90,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Mark Zuckerberg"
     },
     {
       "name": "Peggy Alford",
@@ -102,10 +108,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Peggy Alford"
     },
     {
-      "name": "Marc L. Andreessen",
+      "name": "Marc Andreessen",
       "age": 52,
       "age_year": 2024,
       "background": "Co-founder and General Partner of Andreessen Horowitz.",
@@ -119,10 +126,11 @@
       ],
       "committees": [
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Marc L. Andreessen"
     },
     {
-      "name": "Andrew W. Houston",
+      "name": "Andrew Houston",
       "age": 41,
       "age_year": 2024,
       "background": "Co-founder and CEO of Dropbox, Inc.",
@@ -136,7 +144,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Andrew W. Houston"
     },
     {
       "name": "Nancy Killefer",
@@ -154,10 +163,11 @@
       "committees": [
         "Audit Committee",
         "Governance Committee"
-      ]
+      ],
+      "name_original": "Nancy Killefer"
     },
     {
-      "name": "Robert M. Kimmitt",
+      "name": "Robert Kimmitt",
       "age": 76,
       "age_year": 2024,
       "background": "Senior International Counsel at WilmerHale.",
@@ -171,10 +181,11 @@
       ],
       "committees": [
         "Governance Committee"
-      ]
+      ],
+      "name_original": "Robert M. Kimmitt"
     },
     {
-      "name": "Sheryl K. Sandberg",
+      "name": "Sheryl Sandberg",
       "age": 54,
       "age_year": 2024,
       "background": "Former Chief Operating Officer of Meta Platforms, Inc.",
@@ -186,13 +197,14 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Sheryl K. Sandberg"
     },
     {
-      "name": "Tracey T. Travis",
+      "name": "Tracey Travis",
       "age": 61,
       "age_year": 2024,
-      "background": "Executive Vice President and CFO of The Estée Lauder Companies Inc.",
+      "background": "Executive Vice President and CFO of The Est\u00e9e Lauder Companies Inc.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -203,7 +215,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Tracey T. Travis"
     },
     {
       "name": "Tony Xu",
@@ -220,7 +233,8 @@
       ],
       "committees": [
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Tony Xu"
     }
   ],
   "sources": [

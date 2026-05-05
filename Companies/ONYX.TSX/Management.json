@@ -1,0 +1,133 @@
+{
+  "executives": [
+    {
+      "name": "Brock Colterjohn",
+      "age": 38,
+      "age_year": 2024,
+      "background": "Mr. Colterjohn has over 10 years of experience in the mining industry, including roles in corporate development and investor relations. He was previously with HighGold Mining Inc. and has a background in capital markets.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Brock Colterjohn"
+    },
+    {
+      "name": "Aris Morfopoulos",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Morfopoulos is a senior executive with over 30 years of experience in corporate management and finance. He has served as a director and officer for several public companies in the resource sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer and Corporate Secretary",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Aris Morfopoulos"
+    },
+    {
+      "name": "Nicole Brewster",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Ms. Brewster is the President and CEO of Canadian Silver Hunter Inc. and has extensive experience in mineral exploration and project management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Corporate Development",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Nicole G.S. Brewster"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Darwin Green",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Mr. Green is the President and CEO of HighGold Mining Inc. and has over 25 years of experience in the mining industry, specializing in exploration and project development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Chairman",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Darwin Green"
+    },
+    {
+      "name": "Brock Colterjohn",
+      "age": 38,
+      "age_year": 2024,
+      "background": "Mr. Colterjohn has over 10 years of experience in the mining industry, including roles in corporate development and investor relations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Brock Colterjohn"
+    },
+    {
+      "name": "Ian Slater",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Slater is an entrepreneur with over 25 years of experience in the mining industry. He is the founder and Chairman of Libero Copper & Gold Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Ian Slater"
+    },
+    {
+      "name": "Michael Gray",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Gray is a co-founder of Agentis Capital Mining Partners and has over 30 years of experience in the mining sector, including equity research and corporate development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Michael J. Gray"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://onyxgold.com/corporate/management-directors/",
+      "source_description": "Company Website - Management and Directors Page",
+      "as_of_date": "2024-05-22"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "Management Information Circular dated May 10, 2024",
+      "as_of_date": "2024-05-10"
+    }
+  ]
+}

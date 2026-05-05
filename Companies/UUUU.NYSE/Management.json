@@ -1,0 +1,217 @@
+{
+  "executives": [
+    {
+      "name": "Mark Chalmers",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Chalmers has served as the President and Chief Executive Officer of Energy Fuels since February 1, 2018. Prior to that, he served as the Chief Operating Officer of the Company from July 1, 2016 to January 31, 2018. He has over 40 years of experience in the mining industry, specifically in uranium and base metals.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2018-02-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2016-07-01",
+          "end_date": "2018-01-31"
+        }
+      ],
+      "name_original": "Mark S. Chalmers"
+    },
+    {
+      "name": "Tom Boron",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Boron has served as the Chief Financial Officer of Energy Fuels since May 2023. He has over 30 years of financial and accounting experience in the mining and natural resources sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2023-05-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Tom J. Boron"
+    },
+    {
+      "name": "David Frydenlund",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Frydenlund has served as the Executive Vice President, Chief Legal Officer and Corporate Secretary of Energy Fuels since 2012. He has been with the Company and its predecessors since 1997.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, Chief Legal Officer and Corporate Secretary",
+          "start_date": "2012-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "David C. Frydenlund"
+    },
+    {
+      "name": "Curtis Moore",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Moore has served as the Senior Vice President of Marketing and Corporate Development since 2012. He is responsible for uranium and vanadium sales and marketing.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President of Marketing and Corporate Development",
+          "start_date": "2012-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Curtis H. Moore"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Birks Bovaird",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Mr. Bovaird is the Chairman of the Board. He has been a director of the Company since 2006. He has extensive experience in corporate finance and the resource industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board",
+          "start_date": "2006-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "J. Birks Bovaird"
+    },
+    {
+      "name": "Mark Chalmers",
+      "age": 66,
+      "age_year": 2024,
+      "background": "President and CEO of Energy Fuels Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2018-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Mark S. Chalmers"
+    },
+    {
+      "name": "Barbara Filas",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Ms. Filas is a mining engineer with over 40 years of experience in the mining industry, including executive leadership and technical roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Environment, Health and Safety Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Barbara A. Filas"
+    },
+    {
+      "name": "Ben Fine",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Fine has extensive experience in the uranium industry and corporate finance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "Benjamin S. J. S. (Ben) Fine"
+    },
+    {
+      "name": "Robert Kirkwood",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Mr. Kirkwood has over 35 years of experience in the mining and energy industries.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2012-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Environment, Health and Safety Committee"
+      ],
+      "name_original": "Robert W. Kirkwood"
+    },
+    {
+      "name": "Alex Morrison",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Morrison is a CPA with over 30 years of experience in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Alexander G. (Alex) Morrison"
+    },
+    {
+      "name": "Ivy Estabrooke",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Dr. Estabrooke has a background in science and technology policy and innovation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Nominating Committee",
+        "Environment, Health and Safety Committee"
+      ],
+      "name_original": "Ivy S. Estabrooke"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1385849/000138584924000014/uuuu-20231231.htm",
+      "source_description": "Energy Fuels Inc. Form 10-K for the fiscal year ended December 31, 2023",
+      "as_of_date": "2024-02-23"
+    },
+    {
+      "source_url": "https://www.energyfuels.com/about-us/management-team/",
+      "source_description": "Energy Fuels Official Website - Management Team",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.energyfuels.com/about-us/board-of-directors/",
+      "source_description": "Energy Fuels Official Website - Board of Directors",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

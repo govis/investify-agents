@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Timothy M. Archer",
+      "name": "Timothy Archer",
       "age": 57,
       "age_year": 2024,
       "background": "Mr. Archer has been our President and Chief Executive Officer since December 2018. He joined Lam in 2012 in connection with the acquisition of Novellus Systems, Inc., where he served as Chief Operating Officer. He previously served as our President and Chief Operating Officer from January 2018 to December 2018 and as our Chief Operating Officer from June 2012 to January 2018.",
@@ -22,10 +22,11 @@
           "start_date": "2012-06-01",
           "end_date": "2018-01-01"
         }
-      ]
+      ],
+      "name_original": "Timothy M. Archer"
     },
     {
-      "name": "Douglas R. Bettinger",
+      "name": "Douglas Bettinger",
       "age": 57,
       "age_year": 2024,
       "background": "Mr. Bettinger has been our Executive Vice President and Chief Financial Officer since March 2013. Prior to joining Lam, he served as Senior Vice President and Chief Financial Officer of Avago Technologies Limited from 2008 to 2013.",
@@ -36,10 +37,11 @@
           "start_date": "2013-03-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Douglas R. Bettinger"
     },
     {
-      "name": "Patrick J. Lord",
+      "name": "Patrick Lord",
       "age": 58,
       "age_year": 2024,
       "background": "Dr. Lord has been our Executive Vice President and Chief Operating Officer since September 2023. He previously served as Executive Vice President, Customer Support Business Group and Global Operations from 2020 to 2023, and as Senior Vice President and General Manager of various business units since joining Lam in 2012.",
@@ -50,10 +52,11 @@
           "start_date": "2023-09-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Patrick J. Lord"
     },
     {
-      "name": "Ava M. Hahn",
+      "name": "Ava Hahn",
       "age": 54,
       "age_year": 2024,
       "background": "Ms. Hahn has been our Senior Vice President, Chief Legal Officer and Secretary since January 2020. Prior to joining Lam, she served as Executive Vice President, Chief Legal Officer and Secretary of CA Technologies from 2018 to 2019.",
@@ -64,7 +67,8 @@
           "start_date": "2020-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Ava M. Hahn"
     },
     {
       "name": "Mary Hassett",
@@ -78,12 +82,13 @@
           "start_date": "2020-05-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Mary Hassett"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Abhijit Y. Talwalkar",
+      "name": "Abhijit Talwalkar",
       "age": 60,
       "age_year": 2024,
       "background": "Mr. Talwalkar has been a director since 2011 and Chairman of the Board since 2019. He was President and CEO of LSI Corporation from 2005 to 2014.",
@@ -103,10 +108,11 @@
       "committees": [
         "Compensation and Human Resources Committee",
         "Nominating and Governance Committee"
-      ]
+      ],
+      "name_original": "Abhijit Y. Talwalkar"
     },
     {
-      "name": "Timothy M. Archer",
+      "name": "Timothy Archer",
       "age": 57,
       "age_year": 2024,
       "background": "Mr. Archer is our President and CEO. He has been a director since 2018.",
@@ -118,10 +124,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Timothy M. Archer"
     },
     {
-      "name": "Sohail U. Ahmed",
+      "name": "Sohail Ahmed",
       "age": 64,
       "age_year": 2024,
       "background": "Mr. Ahmed has been a director since 2019. He was Senior Vice President and General Manager of the Technology and Manufacturing Group at Intel Corporation.",
@@ -135,10 +142,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Sohail U. Ahmed"
     },
     {
-      "name": "Eric K. Brandt",
+      "name": "Eric Brandt",
       "age": 62,
       "age_year": 2024,
       "background": "Mr. Brandt has been a director since 2011. He was Executive Vice President and CFO of Broadcom Corporation.",
@@ -152,10 +160,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Eric K. Brandt"
     },
     {
-      "name": "Michael R. Cannon",
+      "name": "Michael Cannon",
       "age": 71,
       "age_year": 2024,
       "background": "Mr. Cannon has been a director since 2011. He was President of Global Operations at Dell Inc.",
@@ -169,10 +178,11 @@
       ],
       "committees": [
         "Compensation and Human Resources Committee"
-      ]
+      ],
+      "name_original": "Michael R. Cannon"
     },
     {
-      "name": "Bethany J. Mayer",
+      "name": "Bethany Mayer",
       "age": 62,
       "age_year": 2024,
       "background": "Ms. Mayer has been a director since 2019. She was President and CEO of Ixia.",
@@ -187,10 +197,11 @@
       "committees": [
         "Compensation and Human Resources Committee",
         "Nominating and Governance Committee"
-      ]
+      ],
+      "name_original": "Bethany J. Mayer"
     },
     {
-      "name": "Jyoti K. Mehetre",
+      "name": "Jyoti Mehetre",
       "age": 54,
       "age_year": 2024,
       "background": "Ms. Mehetre has been a director since 2021. She is a former executive at Microsoft and SAP.",
@@ -204,10 +215,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Jyoti K. Mehetre"
     },
     {
-      "name": "Lih Shyng (Rick) Tsai",
+      "name": "Rick Tsai",
       "age": 73,
       "age_year": 2024,
       "background": "Dr. Tsai has been a director since 2024. He is the Vice Chairman and CEO of MediaTek Inc.",
@@ -221,10 +233,11 @@
       ],
       "committees": [
         "Nominating and Governance Committee"
-      ]
+      ],
+      "name_original": "Lih Shyng (Rick) Tsai"
     },
     {
-      "name": "Leslie F. Varon",
+      "name": "Leslie Varon",
       "age": 67,
       "age_year": 2024,
       "background": "Ms. Varon has been a director since 2019. She was CFO of Xerox Corporation.",
@@ -238,7 +251,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Leslie F. Varon"
     }
   ],
   "sources": [

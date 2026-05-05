@@ -1,0 +1,193 @@
+{
+  "executives": [
+    {
+      "name": "Steven Dean",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Dean is a Fellow of the Australasian Institute of Mining and Metallurgy and a Member of the Institute of Chartered Accountants of Australia. He was formerly the Chairman and CEO of Atlantic Gold Corporation and President of Teck Resources Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2019-01-10",
+          "end_date": null
+        }
+      ],
+      "name_original": "Steven Dean"
+    },
+    {
+      "name": "Gerrie van der Westhuizen",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Mr. van der Westhuizen is a Chartered Accountant with over 20 years of experience in the mining industry. He was previously the VP Finance of Atlantic Gold Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer and Corporate Secretary",
+          "start_date": "2019-01-10",
+          "end_date": null
+        }
+      ],
+      "name_original": "Gerrie van der Westhuizen"
+    },
+    {
+      "name": "Jeremy Langford",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Langford is a mining engineer with over 25 years of experience in the mining industry. He was previously the COO of Endeavour Mining Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Operating Officer",
+          "start_date": "2022-09-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Jeremy Langford"
+    },
+    {
+      "name": "Candice Alderson",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Ms. Alderson is a lawyer with over 20 years of experience. She was previously the Senior Vice President, Infrastructure Strategy at Ledcor Group.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Corporate Affairs",
+          "start_date": "2021-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Candice Alderson"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Steven Dean",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Artemis Gold Inc. Former Chairman and CEO of Atlantic Gold Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2019-01-10",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Steven Dean"
+    },
+    {
+      "name": "Robert Atkinson",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Atkinson has over 35 years of experience in the investment industry. He was previously the President and CEO of Loewen, Ondaatje, McCutcheon & Co. Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-01-10",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Governance and Nomination Committee"
+      ],
+      "name_original": "Robert Atkinson"
+    },
+    {
+      "name": "Ryan Beedie",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Beedie is the President of Beedie, one of Western Canada's largest industrial and residential developers.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-01-10",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee"
+      ],
+      "name_original": "Ryan Beedie"
+    },
+    {
+      "name": "Janice Stairs",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Ms. Stairs is a lawyer with over 30 years of experience in the mining industry. She is currently the Chair of the Board of Trilogy Metals Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-01-10",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance and Nomination Committee"
+      ],
+      "name_original": "Janice Stairs"
+    },
+    {
+      "name": "William Armstrong",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Mr. Armstrong is a mining engineer with over 50 years of experience. He was previously the Director of Mineral Resources and Mine Development at Teck Resources Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-01-10",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Health, Safety, Environment and Social Performance Committee"
+      ],
+      "name_original": "William Armstrong"
+    },
+    {
+      "name": "Lisa Wade",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Ms. Wade is an environmental engineer with over 25 years of experience in the mining industry. She was previously the VP, Environmental, Social and Governance at Goldcorp Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Health, Safety, Environment and Social Performance Committee"
+      ],
+      "name_original": "Lisa Wade"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.artemisgoldinc.com/about/management/",
+      "source_description": "Company Website - Management Team",
+      "as_of_date": "2024-05-22"
+    },
+    {
+      "source_url": "https://www.artemisgoldinc.com/about/board-of-directors/",
+      "source_description": "Company Website - Board of Directors",
+      "as_of_date": "2024-05-22"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "Management Information Circular dated April 15, 2024",
+      "as_of_date": "2024-04-15"
+    }
+  ]
+}

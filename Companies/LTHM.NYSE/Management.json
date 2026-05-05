@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Paul W. Graves",
+      "name": "Paul Graves",
       "age": 52,
       "age_year": 2023,
       "background": "Mr. Graves has served as our President and Chief Executive Officer and as a director since May 2018. Before joining Livent, Mr. Graves was Executive Vice President and Chief Financial Officer of FMC from 2012 to 2018. He previously served as a partner in the Investment Banking Division at Goldman Sachs Group in Hong Kong and was co-head of Natural Resources in Asia.",
@@ -12,7 +12,8 @@
           "start_date": "2018-05-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Paul W. Graves"
     },
     {
       "name": "Gilberto Antoniazzi",
@@ -26,7 +27,8 @@
           "start_date": "2018-05-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Gilberto Antoniazzi"
     },
     {
       "name": "Sara Ponessa",
@@ -40,7 +42,8 @@
           "start_date": "2018-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Sara Ponessa"
     }
   ],
   "board_of_directors": [
@@ -59,10 +62,11 @@
       ],
       "committees": [
         "Compensation and Organization Committee"
-      ]
+      ],
+      "name_original": "Pierre Brondeau"
     },
     {
-      "name": "Andrea E. Utecht",
+      "name": "Andrea Utecht",
       "age": 74,
       "age_year": 2023,
       "background": "Ms. Utecht has served as a director since 2018. She was formerly Executive Vice President, General Counsel and Secretary of FMC Corporation from 2001 to 2018.",
@@ -77,10 +81,11 @@
       "committees": [
         "Nominating and Corporate Governance Committee",
         "Sustainability Committee"
-      ]
+      ],
+      "name_original": "Andrea E. Utecht"
     },
     {
-      "name": "Robert C. Pallash",
+      "name": "Robert Pallash",
       "age": 71,
       "age_year": 2023,
       "background": "Mr. Pallash has served as a director since 2018. He was formerly President, Global Customer Group and Senior Vice President of Visteon Corporation.",
@@ -95,10 +100,11 @@
       "committees": [
         "Audit Committee",
         "Compensation and Organization Committee"
-      ]
+      ],
+      "name_original": "Robert C. Pallash"
     },
     {
-      "name": "G. Steven Farris",
+      "name": "Steven Farris",
       "age": 75,
       "age_year": 2023,
       "background": "Mr. Farris has served as a director since 2018. He is the former Chairman and CEO of Apache Corporation.",
@@ -113,13 +119,14 @@
       "committees": [
         "Audit Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "G. Steven Farris"
     },
     {
-      "name": "Christina Lampe-Önnerud",
+      "name": "Christina Lampe-\u00d6nnerud",
       "age": 56,
       "age_year": 2023,
-      "background": "Dr. Lampe-Önnerud has served as a director since 2020. She is the founder and CEO of Cadenza Innovation, Inc. and was the founder of Boston-Power, Inc.",
+      "background": "Dr. Lampe-\u00d6nnerud has served as a director since 2020. She is the founder and CEO of Cadenza Innovation, Inc. and was the founder of Boston-Power, Inc.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -130,7 +137,8 @@
       ],
       "committees": [
         "Sustainability Committee"
-      ]
+      ],
+      "name_original": "Christina Lampe-\u00d6nnerud"
     }
   ],
   "sources": [

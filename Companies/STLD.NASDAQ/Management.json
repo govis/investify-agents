@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Mark D. Millett",
+      "name": "Mark Millett",
       "age": 64,
       "age_year": 2024,
       "background": "Co-founder of Steel Dynamics. Chairman of the Board since May 2021, Chief Executive Officer since 2012, and President since 2012. Previously served as President and Chief Operating Officer from 2011 to 2012.",
@@ -22,10 +22,11 @@
           "start_date": "2012-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Mark D. Millett"
     },
     {
-      "name": "Theresa E. Wagler",
+      "name": "Theresa Wagler",
       "age": 54,
       "age_year": 2024,
       "background": "Executive Vice President, Chief Financial Officer and Corporate Secretary since 2007. Joined the company in 1998 as Corporate Controller.",
@@ -36,10 +37,11 @@
           "start_date": "2007-05",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Theresa E. Wagler"
     },
     {
-      "name": "Barry T. Schneider",
+      "name": "Barry Schneider",
       "age": 52,
       "age_year": 2024,
       "background": "President and Chief Operating Officer since March 2023. Previously served as Senior Vice President, Flat Rolled Steel Group from 2016 to 2023.",
@@ -50,10 +52,11 @@
           "start_date": "2023-03",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Barry T. Schneider"
     },
     {
-      "name": "Christopher A. Graham",
+      "name": "Christopher Graham",
       "age": 50,
       "age_year": 2024,
       "background": "Senior Vice President, Long Products Steel Group since 2016. Previously served as Vice President and President of New Millennium Building Systems.",
@@ -64,10 +67,11 @@
           "start_date": "2016-02",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Christopher A. Graham"
     },
     {
-      "name": "Glenn A. Pushis",
+      "name": "Glenn Pushis",
       "age": 58,
       "age_year": 2024,
       "background": "Senior Vice President, Strategic Projects since 2016. Previously served as Vice President, Flat Rolled Steel Group.",
@@ -78,12 +82,13 @@
           "start_date": "2016-02",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Glenn A. Pushis"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Mark D. Millett",
+      "name": "Mark Millett",
       "age": 64,
       "age_year": 2024,
       "background": "Co-founder, Chairman and CEO of Steel Dynamics.",
@@ -100,10 +105,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Mark D. Millett"
     },
     {
-      "name": "Sheree L. Bargabos",
+      "name": "Sheree Bargabos",
       "age": 69,
       "age_year": 2024,
       "background": "Former President of the Roofing and Asphalt Division of Owens Corning.",
@@ -118,10 +124,11 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Sheree L. Bargabos"
     },
     {
-      "name": "Kenneth W. Cornew",
+      "name": "Kenneth Cornew",
       "age": 58,
       "age_year": 2024,
       "background": "Former Senior Executive Vice President and Chief Commercial Officer of Exelon Corporation.",
@@ -136,10 +143,11 @@
       "committees": [
         "Audit Committee",
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Kenneth W. Cornew"
     },
     {
-      "name": "Traci M. Dolan",
+      "name": "Traci Dolan",
       "age": 64,
       "age_year": 2024,
       "background": "Former Chief Administrative Officer of ExactTarget, Inc.",
@@ -154,10 +162,11 @@
       "committees": [
         "Audit Committee (Chair)",
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Traci M. Dolan"
     },
     {
-      "name": "James C. Marcuccilli",
+      "name": "James Marcuccilli",
       "age": 72,
       "age_year": 2024,
       "background": "President and Chief Executive Officer of STAR Financial Group.",
@@ -172,10 +181,11 @@
       "committees": [
         "Compensation Committee",
         "Corporate Governance and Nominating Committee (Chair)"
-      ]
+      ],
+      "name_original": "James C. Marcuccilli"
     },
     {
-      "name": "Bradley S. Seaman",
+      "name": "Bradley Seaman",
       "age": 64,
       "age_year": 2024,
       "background": "Managing Partner of Tricor Pacific Capital, Inc.",
@@ -195,10 +205,11 @@
       "committees": [
         "Compensation Committee (Chair)",
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Bradley S. Seaman"
     },
     {
-      "name": "Steven A. Sonnenberg",
+      "name": "Steven Sonnenberg",
       "age": 70,
       "age_year": 2024,
       "background": "Former Chairman of Emerson Process Management.",
@@ -213,10 +224,11 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Steven A. Sonnenberg"
     },
     {
-      "name": "Luis M. Vergara",
+      "name": "Luis Vergara",
       "age": 58,
       "age_year": 2024,
       "background": "Former Partner of Goldman Sachs & Co.",
@@ -231,7 +243,8 @@
       "committees": [
         "Audit Committee",
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Luis M. Vergara"
     }
   ],
   "sources": [

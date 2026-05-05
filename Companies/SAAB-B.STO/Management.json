@@ -1,0 +1,201 @@
+{
+  "executives": [
+    {
+      "name": "Micael Johansson",
+      "age": 64,
+      "age_year": 2024,
+      "background": "President and CEO since 2019. Joined Saab in 1985. Previously Senior Vice President and Deputy CEO. Holds a B.Sc. in Mathematics and Computer Science.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and CEO",
+          "start_date": "2019-10-23",
+          "end_date": null
+        },
+        {
+          "title": "Deputy CEO",
+          "start_date": "2017-01-01",
+          "end_date": "2019-10-22"
+        }
+      ],
+      "name_original": "Micael Johansson"
+    },
+    {
+      "name": "Christian Luiga",
+      "age": 56,
+      "age_year": 2024,
+      "background": "CFO and Deputy CEO. Joined Saab in 2020. Previously acting CEO and CFO at Telia Company. Holds a B.Sc. in Business Administration and Economics.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "CFO and Deputy CEO",
+          "start_date": "2020-09-16",
+          "end_date": null
+        }
+      ],
+      "name_original": "Christian Luiga"
+    },
+    {
+      "name": "Anders Carp",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Deputy CEO and Head of Group Channels. Joined Saab in 2001. Previously Head of Business Area Surveillance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Deputy CEO",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Anders Carp"
+    },
+    {
+      "name": "Sebastian Carlsson",
+      "age": 40,
+      "age_year": 2024,
+      "background": "Senior Vice President and Head of Group Communication. Joined Saab in 2012.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Head of Group Communication",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Sebastian Carlsson"
+    },
+    {
+      "name": "Viktor Wallstr\u00f6m",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Senior Vice President and Head of Group Communication and Sustainability. Joined Saab in 2022.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Head of Group Communication and Sustainability",
+          "start_date": "2022-10-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Viktor Wallstr\u00f6m"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Marcus Wallenberg",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Chairman of the Board. Chairman of SEB and FAM. Board member of AstraZeneca and Investor AB.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2006-04-01",
+          "end_date": null
+        },
+        {
+          "role": "Member of the Board",
+          "start_date": "1992-01-01",
+          "end_date": "2006-03-31"
+        }
+      ],
+      "committees": [
+        "Remuneration Committee"
+      ],
+      "name_original": "Marcus Wallenberg"
+    },
+    {
+      "name": "Bert Nordberg",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Deputy Chairman. Former Chairman of Vestas Wind Systems and CEO of Sony Mobile Communications.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Deputy Chairman",
+          "start_date": "2021-04-01",
+          "end_date": null
+        },
+        {
+          "role": "Member of the Board",
+          "start_date": "2016-01-01",
+          "end_date": "2021-03-31"
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Bert Nordberg"
+    },
+    {
+      "name": "Lena Erixon",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former Director General of the Swedish Transport Administration.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Member of the Board",
+          "start_date": "2022-04-06",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Lena Erixon"
+    },
+    {
+      "name": "Henrik Henriksson",
+      "age": 54,
+      "age_year": 2024,
+      "background": "CEO of H2 Green Steel. Former CEO of Scania.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Member of the Board",
+          "start_date": "2021-04-13",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Remuneration Committee"
+      ],
+      "name_original": "Henrik Henriksson"
+    },
+    {
+      "name": "Micael Johansson",
+      "age": 64,
+      "age_year": 2024,
+      "background": "President and CEO of Saab AB.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Member of the Board",
+          "start_date": "2020-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Micael Johansson"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.saab.com/about/corporate-governance/board-of-directors",
+      "source_description": "Official Saab AB Board of Directors page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.saab.com/about/corporate-governance/group-management",
+      "source_description": "Official Saab AB Group Management page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.saab.com/investors/reports-and-presentations/2024/annual-and-sustainability-report-2023",
+      "source_description": "Saab Annual and Sustainability Report 2023",
+      "as_of_date": "2024-02-29"
+    }
+  ]
+}

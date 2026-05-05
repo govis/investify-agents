@@ -1,0 +1,102 @@
+{
+  "executives": [
+    {
+      "name": "Murray Hill",
+      "age": null,
+      "age_year": null,
+      "background": "Mr Hill is a highly experienced mining executive with over 35 years' experience in the mining industry. He is a metallurgist and has extensive experience in the design, construction and operation of mining projects. He has held senior executive roles with several ASX listed companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Managing Director and Chief Executive Officer",
+          "start_date": "2012-05-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Murray Hill"
+    },
+    {
+      "name": "Shane McBride",
+      "age": null,
+      "age_year": null,
+      "background": "Mr McBride is a Fellow of CPA Australia, a Fellow of Governance Institute of Australia and a Member of the Australian Institute of Company Directors. He has over 40 years' experience in the mining industry in senior management and executive roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer and Company Secretary",
+          "start_date": "2018-11-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Shane McBride"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Andy Lloyd",
+      "age": null,
+      "age_year": null,
+      "background": "Mr Lloyd has over 30 years' experience in the mining and resources industry. He has held senior executive roles with Rio Tinto, including as Managing Director of Rio Tinto's uranium business. He is currently a non-executive director of several other ASX listed companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Chairman",
+          "start_date": "2018-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee",
+        "Remuneration and Nomination Committee"
+      ],
+      "name_original": "Andrew (Andy) Lloyd"
+    },
+    {
+      "name": "Murray Hill",
+      "age": null,
+      "age_year": null,
+      "background": "Mr Hill is a highly experienced mining executive with over 35 years' experience in the mining industry. He is a metallurgist and has extensive experience in the design, construction and operation of mining projects.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Managing Director",
+          "start_date": "2012-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Murray Hill"
+    },
+    {
+      "name": "Stephen Mann",
+      "age": null,
+      "age_year": null,
+      "background": "Mr Mann is a geologist with over 45 years' experience in the mining industry. He has held senior executive roles with several ASX listed companies, including as Managing Director of Areva Resources Australia.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2021-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee",
+        "Remuneration and Nomination Committee"
+      ],
+      "name_original": "Stephen Mann"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.elevateuranium.com.au/about-us/board-and-management/",
+      "source_description": "Official Company Website - Board and Management Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.elevateuranium.com.au/wp-content/uploads/2023/09/EL8-Annual-Report-2023.pdf",
+      "source_description": "Elevate Uranium Limited 2023 Annual Report",
+      "as_of_date": "2023-06-30"
+    }
+  ]
+}

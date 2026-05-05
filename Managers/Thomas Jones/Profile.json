@@ -1,0 +1,24 @@
+{
+  "name": "Thomas Jones",
+  "first_name": "Thomas",
+  "last_name": "Jones",
+  "age": 57,
+  "age_year": 2024,
+  "background": "Mr. Jones is Corporate Vice President and President, Aeronautics Systems. He previously served as Sector Vice President and General Manager, Airborne Sensors & Networks.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "title_or_role": "Corporate Vice President and President, Aeronautics Systems",
+      "start_date": "2021-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": []
+}

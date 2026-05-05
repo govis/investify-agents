@@ -1,0 +1,27 @@
+{
+  "name": "Sherry Smith",
+  "first_name": "Sherry",
+  "last_name": "Smith",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Former Executive Vice President and CFO of Supervalu Inc.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Deere & Company",
+      "ticker": "DE",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2011-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ]
+}

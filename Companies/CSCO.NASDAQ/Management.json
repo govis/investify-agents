@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Charles H. Robbins",
+      "name": "Charles Robbins",
       "age": 58,
       "age_year": 2024,
       "background": "Chuck Robbins is Chair and Chief Executive Officer of Cisco. He has served as CEO since July 2015 and was elected Chair of the Board in December 2017. Prior to that, he held various leadership positions at Cisco since joining in 1997, including Senior Vice President of Worldwide Field Operations.",
@@ -17,7 +17,8 @@
           "start_date": "2015-07-26",
           "end_date": "2017-12-01"
         }
-      ]
+      ],
+      "name_original": "Charles H. Robbins"
     },
     {
       "name": "Richard Heron",
@@ -31,7 +32,8 @@
           "start_date": "2024-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Richard Heron"
     },
     {
       "name": "Maria Martinez",
@@ -45,10 +47,11 @@
           "start_date": "2021-03-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Maria Martinez"
     },
     {
-      "name": "Jeffrey S. Sharritts",
+      "name": "Jeffrey Sharritts",
       "age": 57,
       "age_year": 2024,
       "background": "Jeff Sharritts is Executive Vice President and Chief Customer and Partner Officer. He has been with Cisco since 2000 in various sales leadership roles.",
@@ -59,7 +62,8 @@
           "start_date": "2022-05-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Jeffrey S. Sharritts"
     },
     {
       "name": "Dev Stahlkopf",
@@ -73,12 +77,13 @@
           "start_date": "2021-08-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Dev Stahlkopf"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Charles H. Robbins",
+      "name": "Charles Robbins",
       "age": 58,
       "age_year": 2024,
       "background": "Chair and CEO of Cisco Systems, Inc.",
@@ -95,10 +100,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Charles H. Robbins"
     },
     {
-      "name": "M. Michele Burns",
+      "name": "Michele Burns",
       "age": 66,
       "age_year": 2024,
       "background": "Former Chairman and CEO of Mercer LLC. Former CFO of Delta Air Lines, Inc. and Marsh & McLennan Companies, Inc.",
@@ -113,10 +119,11 @@
       "committees": [
         "Audit Committee",
         "Nomination and Governance Committee"
-      ]
+      ],
+      "name_original": "M. Michele Burns"
     },
     {
-      "name": "Wesley G. Bush",
+      "name": "Wesley Bush",
       "age": 63,
       "age_year": 2024,
       "background": "Former Chairman and CEO of Northrop Grumman Corporation.",
@@ -130,10 +137,11 @@
       ],
       "committees": [
         "Compensation and Management Development Committee"
-      ]
+      ],
+      "name_original": "Wesley G. Bush"
     },
     {
-      "name": "Michael D. Capellas",
+      "name": "Michael Capellas",
       "age": 70,
       "age_year": 2024,
       "background": "Founder and CEO of Capellas Strategic Partners. Former Chairman and CEO of First Data Corporation and Compaq Computer Corporation.",
@@ -148,7 +156,8 @@
       "committees": [
         "Finance Committee",
         "Nomination and Governance Committee"
-      ]
+      ],
+      "name_original": "Michael D. Capellas"
     },
     {
       "name": "Mark Garrett",
@@ -166,10 +175,11 @@
       "committees": [
         "Audit Committee",
         "Finance Committee"
-      ]
+      ],
+      "name_original": "Mark Garrett"
     },
     {
-      "name": "John D. Harris II",
+      "name": "John Harris II",
       "age": 63,
       "age_year": 2024,
       "background": "Former Vice President of Business Development for Raytheon Company and CEO of Raytheon International.",
@@ -183,10 +193,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "John D. Harris II"
     },
     {
-      "name": "Kristina M. Johnson",
+      "name": "Kristina Johnson",
       "age": 67,
       "age_year": 2024,
       "background": "Former President of The Ohio State University. Former Chancellor of the State University of New York.",
@@ -200,10 +211,11 @@
       ],
       "committees": [
         "Nomination and Governance Committee"
-      ]
+      ],
+      "name_original": "Kristina M. Johnson"
     },
     {
-      "name": "Roderick C. McGeary",
+      "name": "Roderick McGeary",
       "age": 74,
       "age_year": 2024,
       "background": "Former Chairman of BearingPoint, Inc. and former Co-Vice Chairman of KPMG LLP.",
@@ -217,10 +229,11 @@
       ],
       "committees": [
         "Compensation and Management Development Committee"
-      ]
+      ],
+      "name_original": "Roderick C. McGeary"
     },
     {
-      "name": "Sarah J. Miller",
+      "name": "Sarah Miller",
       "age": 65,
       "age_year": 2024,
       "background": "Former Chief Information Officer of Neiman Marcus Group.",
@@ -234,7 +247,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Sarah J. Miller"
     },
     {
       "name": "Nicole Piasecki",
@@ -251,7 +265,8 @@
       ],
       "committees": [
         "Compensation and Management Development Committee"
-      ]
+      ],
+      "name_original": "Nicole Piasecki"
     }
   ],
   "sources": [

@@ -4,7 +4,7 @@
       "name": "Olivier Pomel",
       "age": 47,
       "age_year": 2024,
-      "background": "Olivier Pomel is our co-founder and has served as our Chief Executive Officer and a member of our board of directors since our inception in 2010. Prior to founding Datadog, Mr. Pomel was a Vice President of Technology at Wireless Generation, a SaaS education company, until its acquisition by News Corp. Mr. Pomel holds an M.S. in Computer Science from the École Centrale Paris.",
+      "background": "Olivier Pomel is our co-founder and has served as our Chief Executive Officer and a member of our board of directors since our inception in 2010. Prior to founding Datadog, Mr. Pomel was a Vice President of Technology at Wireless Generation, a SaaS education company, until its acquisition by News Corp. Mr. Pomel holds an M.S. in Computer Science from the \u00c9cole Centrale Paris.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -12,13 +12,14 @@
           "start_date": "2010-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Olivier Pomel"
     },
     {
-      "name": "Alexis Lê-Quôc",
+      "name": "Alexis L\u00ea-Qu\u00f4c",
       "age": 49,
       "age_year": 2024,
-      "background": "Alexis Lê-Quôc is our co-founder and has served as our President, Chief Technology Officer and a member of our board of directors since our inception in 2010. Prior to founding Datadog, Mr. Lê-Quôc was a Director of Operations at Wireless Generation. Mr. Lê-Quôc holds an M.S. in Computer Science from the École Centrale Paris.",
+      "background": "Alexis L\u00ea-Qu\u00f4c is our co-founder and has served as our President, Chief Technology Officer and a member of our board of directors since our inception in 2010. Prior to founding Datadog, Mr. L\u00ea-Qu\u00f4c was a Director of Operations at Wireless Generation. Mr. L\u00ea-Qu\u00f4c holds an M.S. in Computer Science from the \u00c9cole Centrale Paris.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -26,7 +27,8 @@
           "start_date": "2010-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Alexis L\u00ea-Qu\u00f4c"
     },
     {
       "name": "David Obstler",
@@ -40,7 +42,8 @@
           "start_date": "2018-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "David Obstler"
     },
     {
       "name": "Adam Blitzer",
@@ -54,7 +57,8 @@
           "start_date": "2021-05-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Adam Blitzer"
     },
     {
       "name": "Laszlo Kopits",
@@ -68,7 +72,8 @@
           "start_date": "2017-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Laszlo Kopits"
     }
   ],
   "board_of_directors": [
@@ -85,10 +90,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Olivier Pomel"
     },
     {
-      "name": "Alexis Lê-Quôc",
+      "name": "Alexis L\u00ea-Qu\u00f4c",
       "age": 49,
       "age_year": 2024,
       "background": "Co-founder and CTO of Datadog.",
@@ -100,7 +106,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Alexis L\u00ea-Qu\u00f4c"
     },
     {
       "name": "Dev Ittycheria",
@@ -118,7 +125,8 @@
       "committees": [
         "Compensation Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Dev Ittycheria"
     },
     {
       "name": "Matthew Jacobson",
@@ -135,7 +143,8 @@
       ],
       "committees": [
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Matthew Jacobson"
     },
     {
       "name": "Julie Richardson",
@@ -152,7 +161,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Julie Richardson"
     },
     {
       "name": "Titi Cole",
@@ -169,7 +179,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Titi Cole"
     },
     {
       "name": "Michael Callahan",
@@ -186,7 +197,8 @@
       ],
       "committees": [
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Michael Callahan"
     }
   ],
   "sources": [

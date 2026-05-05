@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "William L. Ballhaus",
+      "name": "William Ballhaus",
       "age": 56,
       "age_year": 2023,
       "background": "Dr. Ballhaus has served as our President and Chief Executive Officer since August 2023. He previously served as Chairman and CEO of Blackboard Inc. and CEO of SRA International, Inc. He also held leadership roles at BAE Systems and Boeing.",
@@ -12,10 +12,11 @@
           "start_date": "2023-08-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "William L. Ballhaus"
     },
     {
-      "name": "David S. Farnsworth",
+      "name": "David Farnsworth",
       "age": 61,
       "age_year": 2023,
       "background": "Mr. Farnsworth has served as our Executive Vice President and Chief Financial Officer since July 2023. He previously served as CFO of Raytheon Technologies' Intelligence & Space business and held various senior finance roles at Raytheon Company.",
@@ -26,10 +27,11 @@
           "start_date": "2023-07-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "David S. Farnsworth"
     },
     {
-      "name": "Christopher C. Cambria",
+      "name": "Christopher Cambria",
       "age": 65,
       "age_year": 2023,
       "background": "Mr. Cambria has served as our Executive Vice President, General Counsel and Secretary since 2016. He previously served as Senior Vice President and General Counsel of L-3 Communications Holdings, Inc.",
@@ -40,10 +42,11 @@
           "start_date": "2016-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Christopher C. Cambria"
     },
     {
-      "name": "Michelle M. McCarthy",
+      "name": "Michelle McCarthy",
       "age": 54,
       "age_year": 2023,
       "background": "Ms. McCarthy has served as our Senior Vice President and Chief Accounting Officer since 2018. She previously served as Vice President and Corporate Controller of Analogic Corporation.",
@@ -54,12 +57,13 @@
           "start_date": "2018-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Michelle M. McCarthy"
     }
   ],
   "board_of_directors": [
     {
-      "name": "William L. Ballhaus",
+      "name": "William Ballhaus",
       "age": 56,
       "age_year": 2023,
       "background": "Dr. Ballhaus is the President and Chief Executive Officer of Mercury Systems. He has extensive experience in the aerospace and defense industry, having led several major technology companies.",
@@ -71,10 +75,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "William L. Ballhaus"
     },
     {
-      "name": "Mark S. Aslett",
+      "name": "Mark Aslett",
       "age": 55,
       "age_year": 2023,
       "background": "Mr. Aslett served as our President and CEO from 2007 until 2023. He has a background in technology and defense, previously serving in leadership roles at Enterasys Networks and Marconi plc.",
@@ -86,10 +91,11 @@
           "end_date": "2023-06-01"
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Mark S. Aslett"
     },
     {
-      "name": "Barry R. Nearhos",
+      "name": "Barry Nearhos",
       "age": 68,
       "age_year": 2023,
       "background": "Mr. Nearhos was a partner at PricewaterhouseCoopers LLP for over 25 years. He has extensive experience in accounting, auditing, and financial reporting.",
@@ -104,10 +110,11 @@
       "committees": [
         "Audit Committee",
         "Nominating and Governance Committee"
-      ]
+      ],
+      "name_original": "Barry R. Nearhos"
     },
     {
-      "name": "Linda A. Mills",
+      "name": "Linda Mills",
       "age": 73,
       "age_year": 2023,
       "background": "Ms. Mills previously served as Corporate Vice President of Operations for Northrop Grumman Corporation. She has significant experience in large-scale systems integration and operations.",
@@ -122,10 +129,11 @@
       "committees": [
         "Compensation Committee",
         "Nominating and Governance Committee"
-      ]
+      ],
+      "name_original": "Linda A. Mills"
     },
     {
-      "name": "Orlando P. Carvalho",
+      "name": "Orlando Carvalho",
       "age": 65,
       "age_year": 2023,
       "background": "Mr. Carvalho previously served as Executive Vice President of Lockheed Martin's Aeronautics business area. He has over 38 years of experience in the aerospace and defense industry.",
@@ -140,7 +148,8 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Orlando P. Carvalho"
     }
   ],
   "sources": [

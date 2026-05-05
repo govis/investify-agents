@@ -1,0 +1,25 @@
+{
+  "name": "John McNeice",
+  "first_name": "John",
+  "last_name": "McNeice",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Mr. McNeice is a Chartered Professional Accountant with over 25 years of experience in financial reporting and corporate governance for public companies in the resource sector.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Lahontan Gold Corp.",
+      "ticker": "LG",
+      "exchange": "TSX",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2022-04-06",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": []
+}

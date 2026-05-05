@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "David B. Burritt",
+      "name": "David Burritt",
       "age": 69,
       "age_year": 2024,
       "background": "Mr. Burritt was named President and Chief Executive Officer in May 2017. He joined U. S. Steel in September 2013 as Executive Vice President and Chief Financial Officer. Prior to that, he served as Chief Financial Officer at Caterpillar Inc.",
@@ -17,10 +17,11 @@
           "start_date": "2013-09-01",
           "end_date": "2017-05-01"
         }
-      ]
+      ],
+      "name_original": "David B. Burritt"
     },
     {
-      "name": "Jessica T. Graziano",
+      "name": "Jessica Graziano",
       "age": 52,
       "age_year": 2024,
       "background": "Ms. Graziano was appointed Senior Vice President and Chief Financial Officer in August 2022. Before joining U. S. Steel, she served as Executive Vice President and Chief Financial Officer of United Rentals, Inc.",
@@ -31,24 +32,26 @@
           "start_date": "2022-08-08",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Jessica T. Graziano"
     },
     {
-      "name": "James E. Bruno",
+      "name": "James Bruno",
       "age": 62,
       "age_year": 2024,
-      "background": "Mr. Bruno was appointed Senior Vice President - European Solutions and President of U. S. Steel Košice in 2018. He joined the company in 2014.",
+      "background": "Mr. Bruno was appointed Senior Vice President - European Solutions and President of U. S. Steel Ko\u0161ice in 2018. He joined the company in 2014.",
       "verified_current": true,
       "tenure_dates": [
         {
-          "title": "Senior Vice President - European Solutions and President of U. S. Steel Košice",
+          "title": "Senior Vice President - European Solutions and President of U. S. Steel Ko\u0161ice",
           "start_date": "2018-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "James E. Bruno"
     },
     {
-      "name": "Duane D. Holloway",
+      "name": "Duane Holloway",
       "age": 51,
       "age_year": 2024,
       "background": "Mr. Holloway was appointed Senior Vice President, General Counsel and Chief Ethics & Compliance Officer in April 2018. He previously served as Executive Vice President and General Counsel at Ascena Retail Group, Inc.",
@@ -59,10 +62,11 @@
           "start_date": "2018-04-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Duane D. Holloway"
     },
     {
-      "name": "Scott D. Buckiso",
+      "name": "Scott Buckiso",
       "age": 57,
       "age_year": 2024,
       "background": "Mr. Buckiso was appointed Senior Vice President and Chief Manufacturing Officer in 2021. He has held various leadership roles since joining the company in 1990.",
@@ -73,12 +77,13 @@
           "start_date": "2021-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Scott D. Buckiso"
     }
   ],
   "board_of_directors": [
     {
-      "name": "David S. Sutherland",
+      "name": "David Sutherland",
       "age": 74,
       "age_year": 2024,
       "background": "Retired President and Chief Executive Officer of IPSCO, Inc. He has served as Chairman of the Board of U. S. Steel since 2014.",
@@ -92,10 +97,11 @@
       ],
       "committees": [
         "Corporate Governance and Public Policy Committee"
-      ]
+      ],
+      "name_original": "David S. Sutherland"
     },
     {
-      "name": "Tracy A. Atkinson",
+      "name": "Tracy Atkinson",
       "age": 59,
       "age_year": 2024,
       "background": "Former Executive Vice President of State Street Corporation. She is a certified public accountant.",
@@ -109,10 +115,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Tracy A. Atkinson"
     },
     {
-      "name": "Andrea J. Ayers",
+      "name": "Andrea Ayers",
       "age": 60,
       "age_year": 2024,
       "background": "Former President and Chief Executive Officer of Convergys Corporation.",
@@ -126,10 +133,11 @@
       ],
       "committees": [
         "Compensation and Organization Committee"
-      ]
+      ],
+      "name_original": "Andrea J. Ayers"
     },
     {
-      "name": "David B. Burritt",
+      "name": "David Burritt",
       "age": 69,
       "age_year": 2024,
       "background": "President and Chief Executive Officer of United States Steel Corporation.",
@@ -141,10 +149,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "David B. Burritt"
     },
     {
-      "name": "Muriel M. Penicaud",
+      "name": "Muriel Penicaud",
       "age": 69,
       "age_year": 2024,
       "background": "Former Ambassador and Permanent Representative of France to the OECD and former Minister of Labour for France.",
@@ -158,7 +167,8 @@
       ],
       "committees": [
         "Corporate Governance and Public Policy Committee"
-      ]
+      ],
+      "name_original": "Muriel M. Penicaud"
     }
   ],
   "sources": [

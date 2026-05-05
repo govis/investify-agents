@@ -1,0 +1,173 @@
+{
+  "executives": [
+    {
+      "name": "Shaun Verner",
+      "age": 54,
+      "age_year": 2023,
+      "background": "Shaun Verner is a mining executive with over 30 years of experience in the resources industry. Prior to joining Syrah, he held senior roles at BHP, including in marketing, sales, and strategy. He has extensive experience in international markets and commodity trading.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Managing Director and Chief Executive Officer",
+          "start_date": "2017-02-03",
+          "end_date": null
+        }
+      ],
+      "name_original": "Shaun Verner"
+    },
+    {
+      "name": "Stephen Wells",
+      "age": 52,
+      "age_year": 2023,
+      "background": "Stephen Wells is a finance professional with over 25 years of experience in the mining and energy sectors. He has held senior finance roles at various ASX-listed companies and has expertise in financial management, corporate finance, and strategic planning.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2018-12-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Stephen Wells"
+    },
+    {
+      "name": "Melanie Leydin",
+      "age": null,
+      "age_year": null,
+      "background": "Melanie Leydin has over 25 years of experience in the accounting profession and has extensive experience in relation to public company responsibilities, including ASX and ASIC compliance, control and implementation of corporate governance, statutory financial reporting, and shareholder relations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Company Secretary",
+          "start_date": "2021-03-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Melanie Leydin"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "James Askew",
+      "age": 76,
+      "age_year": 2023,
+      "background": "James Askew is a mining engineer with over 40 years of experience in the resources industry. He has served as a director and executive for numerous international mining companies and has extensive experience in technical and corporate management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Chairman",
+          "start_date": "2014-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Remuneration and Nomination Committee",
+        "Audit and Risk Committee"
+      ],
+      "name_original": "James Askew"
+    },
+    {
+      "name": "Shaun Verner",
+      "age": 54,
+      "age_year": 2023,
+      "background": "Shaun Verner is a mining executive with over 30 years of experience in the resources industry. Prior to joining Syrah, he held senior roles at BHP, including in marketing, sales, and strategy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Managing Director",
+          "start_date": "2017-02-03",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Shaun Verner"
+    },
+    {
+      "name": "Jos\u00e9 Manuel Caldeira",
+      "age": 68,
+      "age_year": 2023,
+      "background": "Jos\u00e9 Manuel Caldeira is a highly experienced lawyer based in Mozambique. He is a senior partner at Sal & Caldeira Advogados, Lda, and has extensive experience in the mining and energy sectors in Mozambique.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2014-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Sustainability Committee"
+      ],
+      "name_original": "Jos\u00e9 Manuel Caldeira"
+    },
+    {
+      "name": "Lisa Bahash",
+      "age": 59,
+      "age_year": 2023,
+      "background": "Lisa Bahash has over 30 years of experience in the automotive and materials sectors. She has held senior executive roles at JCI and Ride Control, LLC, and has expertise in manufacturing, supply chain, and strategic growth.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2018-07-16",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Remuneration and Nomination Committee",
+        "Sustainability Committee"
+      ],
+      "name_original": "Lisa Bahash"
+    },
+    {
+      "name": "John Beevers",
+      "age": 64,
+      "age_year": 2023,
+      "background": "John Beevers has over 30 years of experience in the resources and chemical industries. He was previously the CEO of GroundProbe and has held senior executive roles at Orica.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2020-05-22",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee",
+        "Sustainability Committee"
+      ],
+      "name_original": "John Beevers"
+    },
+    {
+      "name": "Sara Watts",
+      "age": 57,
+      "age_year": 2023,
+      "background": "Sara Watts is an experienced director and executive with a strong background in finance, technology, and governance. She has held senior roles at IBM and has served on several boards in the education and health sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2019-06-03",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee",
+        "Remuneration and Nomination Committee"
+      ],
+      "name_original": "Sara Watts"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.syrahresources.com.au/wp-content/uploads/2024/03/Syrah-Resources-Annual-Report-2023.pdf",
+      "source_description": "Syrah Resources Limited Annual Report 2023",
+      "as_of_date": "2023-12-31"
+    },
+    {
+      "source_url": "https://www.syrahresources.com.au/about/board-and-management/",
+      "source_description": "Syrah Resources Official Website - Board and Management Page",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

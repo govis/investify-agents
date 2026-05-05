@@ -1,0 +1,134 @@
+{
+  "executives": [
+    {
+      "name": "Drew Zimmerman",
+      "age": 39,
+      "age_year": 2024,
+      "background": "Mr. Zimmerman has over 15 years of experience in the financial services and resource sectors. He previously served as a derivatives trader and has been involved in various capacities with public resource companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2021-04-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Drew Zimmerman"
+    },
+    {
+      "name": "Jay Shrewder",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Shrewder is a Chartered Professional Accountant with extensive experience in financial reporting and corporate finance for junior exploration companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2022-06-15",
+          "end_date": null
+        }
+      ],
+      "name_original": "Jay Shrewder"
+    },
+    {
+      "name": "Darren Hazelwood",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Hazelwood has over 20 years of experience in the mining industry, focusing on project management and corporate development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Corporate Development",
+          "start_date": "2023-01-10",
+          "end_date": null
+        }
+      ],
+      "name_original": "Darren Hazelwood"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Drew Zimmerman",
+      "age": 39,
+      "age_year": 2024,
+      "background": "Mr. Zimmerman is the CEO of the company and has a background in derivatives trading and resource sector finance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2021-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Drew Zimmerman"
+    },
+    {
+      "name": "Bill Sheriff",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Sheriff is a seasoned mining executive with over 30 years of experience. He was the founder and Chairman of Energy Metals Corp. and has held numerous board positions in the uranium sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2023-03-20",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "William (Bill) Sheriff"
+    },
+    {
+      "name": "Stephen Roman",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Mr. Roman is a prominent figure in the Canadian mining industry, having led several successful resource companies, including Global Atomic Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-05-15",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Stephen G. Roman"
+    },
+    {
+      "name": "Graham Downs",
+      "age": 50,
+      "age_year": 2024,
+      "background": "Mr. Downs has over 25 years of experience in the mineral exploration industry and is currently the CEO of Cascadia Minerals Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-08-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Graham Downs"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://stallionuranium.com/about/team/",
+      "source_description": "Company Website - Management and Board Team Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "SEDAR+ Management Information Circular",
+      "as_of_date": "2024-04-15"
+    }
+  ]
+}

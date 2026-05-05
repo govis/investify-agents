@@ -1,0 +1,159 @@
+{
+  "executives": [
+    {
+      "name": "Ken Konkin",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Konkin is a Professional Geologist with over 35 years of experience in exploration and mining. He was instrumental in the discovery of the Valley of the Kings deposit at Pretium Resources Inc. and has worked extensively in the Golden Triangle of British Columbia.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2022-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Vice President, Project Development",
+          "start_date": "2019-01-01",
+          "end_date": "2021-12-31"
+        }
+      ],
+      "name_original": "Ken Konkin"
+    },
+    {
+      "name": "Scott Davis",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Mr. Davis is a partner of Cross Davis & Company LLP, a firm focused on providing accounting and management services to publicly listed companies. He has over 20 years of experience in the financial sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2016-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Scott Davis"
+    },
+    {
+      "name": "Natalie Senger",
+      "age": 42,
+      "age_year": 2024,
+      "background": "Ms. Senger is a Professional Geoscientist with over 15 years of experience in the mining industry, specializing in project management and geological modeling.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Resource Development",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Natalie Senger"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Walter Storm",
+      "age": 94,
+      "age_year": 2024,
+      "background": "Mr. Storm is a successful entrepreneur with over 50 years of experience in the mining and oil and gas industries. He was a co-founder of Osisko Mining and has been involved in several major resource discoveries.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Chairman",
+          "start_date": "2016-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Walter Storm"
+    },
+    {
+      "name": "Ken Konkin",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Konkin is a Professional Geologist with over 35 years of experience in exploration and mining.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Ken Konkin"
+    },
+    {
+      "name": "Helmut Finger",
+      "age": 78,
+      "age_year": 2024,
+      "background": "Mr. Finger is a businessman with extensive experience in international trade and finance, particularly in the European markets.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Helmut Finger"
+    },
+    {
+      "name": "Ronald-Peter St\u00f6ferle",
+      "age": 43,
+      "age_year": 2024,
+      "background": "Mr. St\u00f6ferle is a Managing Partner and Fund Manager at Incrementum AG. He is well-known for his 'In Gold We Trust' report and has deep expertise in precious metals markets.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Ronald-Peter St\u00f6ferle"
+    },
+    {
+      "name": "Sean Pownall",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Pownall has been involved in the mineral exploration industry for over 30 years. He is the owner of More Core Diamond Drilling Services Ltd., which operates in North America and internationally.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Sean Pownall"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://tudor-gold.com/about-us/management/",
+      "source_description": "Company Website - Management Team Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://tudor-gold.com/about-us/board-of-directors/",
+      "source_description": "Company Website - Board of Directors Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca/",
+      "source_description": "Management Information Circular dated July 2023",
+      "as_of_date": "2023-07-15"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Rudi P. Fronk",
+      "name": "Rudi Fronk",
       "age": 61,
       "age_year": 2024,
       "background": "Mr. Fronk is a co-founder of Seabridge and has over 35 years of experience in the gold business, primarily as a senior executive in corporate development, bankable feasibility studies, and finance. Prior to Seabridge, he held senior positions with Greenstone Resources, Kirkwood Resources, and Amax Gold.",
@@ -12,7 +12,8 @@
           "start_date": "1999-06-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Rudi P. Fronk"
     },
     {
       "name": "Ryan Fowler",
@@ -26,7 +27,8 @@
           "start_date": "2023-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Ryan Fowler"
     },
     {
       "name": "Chris Reynolds",
@@ -40,10 +42,11 @@
           "start_date": "2007-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Chris Reynolds"
     },
     {
-      "name": "William E. Threlkeld",
+      "name": "William Threlkeld",
       "age": 68,
       "age_year": 2024,
       "background": "Mr. Threlkeld has over 40 years of experience in mineral exploration. He has been with Seabridge since 2000 and is responsible for the design and execution of the company's exploration programs.",
@@ -54,7 +57,8 @@
           "start_date": "2000-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "William E. Threlkeld"
     },
     {
       "name": "Bruce Scott",
@@ -68,12 +72,13 @@
           "start_date": "2011-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Bruce Scott"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Rudi P. Fronk",
+      "name": "Rudi Fronk",
       "age": 61,
       "age_year": 2024,
       "background": "Co-founder of Seabridge Gold. Over 35 years of experience in the gold business.",
@@ -85,7 +90,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Rudi P. Fronk"
     },
     {
       "name": "Tracey Meintjes",
@@ -102,7 +108,8 @@
       ],
       "committees": [
         "Technical Committee"
-      ]
+      ],
+      "name_original": "Tracey Meintjes"
     },
     {
       "name": "Jay Layman",
@@ -119,7 +126,8 @@
       ],
       "committees": [
         "Technical Committee"
-      ]
+      ],
+      "name_original": "Jay Layman"
     },
     {
       "name": "Eliseo Gonzalez-Urien",
@@ -137,7 +145,8 @@
       "committees": [
         "Technical Committee",
         "Sustainability Committee"
-      ]
+      ],
+      "name_original": "Eliseo Gonzalez-Urien"
     },
     {
       "name": "Melanie Miller",
@@ -155,7 +164,8 @@
       "committees": [
         "Audit Committee",
         "Governance Committee"
-      ]
+      ],
+      "name_original": "Melanie Miller"
     },
     {
       "name": "Clem Pelletier",
@@ -173,7 +183,8 @@
       "committees": [
         "Sustainability Committee",
         "Technical Committee"
-      ]
+      ],
+      "name_original": "Clem Pelletier"
     },
     {
       "name": "John Sabine",
@@ -191,7 +202,8 @@
       "committees": [
         "Governance Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "John Sabine"
     },
     {
       "name": "Gary Sugar",
@@ -209,7 +221,8 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Gary Sugar"
     },
     {
       "name": "Carol Willson",
@@ -227,7 +240,8 @@
       "committees": [
         "Audit Committee",
         "Governance Committee"
-      ]
+      ],
+      "name_original": "Carol Willson"
     }
   ],
   "sources": [

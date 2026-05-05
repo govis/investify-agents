@@ -1,0 +1,28 @@
+{
+  "name": "Malcolm Day",
+  "first_name": "Malcolm",
+  "last_name": "Day",
+  "age": 60,
+  "age_year": 2024,
+  "background": "Mr. Day has over 25 years of experience in the management of publicly listed companies. He is currently the Managing Director of Delecta Limited.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Critical Metals Corp.",
+      "ticker": "CRML",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "start_date": "2024-02-27",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "David Smith",
+  "first_name": "David",
+  "last_name": "Smith",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Mr. Smith is a geologist with over 30 years of experience in the mining industry, specializing in exploration and development.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "GoldHaven Resources Corp.",
+      "ticker": "GOH",
+      "exchange": "CSE",
+      "title_or_role": "Director",
+      "start_date": "2020-02-20",
+      "end_date": null
+    },
+    {
+      "name": "Hudbay Minerals Inc.",
+      "ticker": "HBM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2020-05-01",
+      "end_date": null
+    },
+    {
+      "name": "IAMGOLD Corporation",
+      "ticker": "IAG",
+      "exchange": "NYSE",
+      "title_or_role": "Chair of the Board",
+      "start_date": "2022-02-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee (Chair)",
+    "Governance and Nominating Committee"
+  ]
+}

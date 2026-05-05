@@ -1,0 +1,177 @@
+{
+  "executives": [
+    {
+      "name": "David Cates",
+      "age": 42,
+      "age_year": 2024,
+      "background": "Mr. Cates is the President and Chief Executive Officer of Denison and serves on the Board of Directors. He is a Chartered Professional Accountant (CPA, CA) and holds a Master of Accounting (MAcc) and a Bachelor of Arts (BA) degree from the University of Waterloo. Prior to his appointment as President and CEO, he served as Denison's Vice President Finance and Chief Financial Officer.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2015-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Vice President Finance and Chief Financial Officer",
+          "start_date": "2008-01-01",
+          "end_date": "2014-12-31"
+        }
+      ],
+      "name_original": "David D. Cates"
+    },
+    {
+      "name": "Elizabeth Freele",
+      "age": 38,
+      "age_year": 2024,
+      "background": "Ms. Freele is the Vice President, Sustainability and Chief ESG Officer. She is a sustainability professional with over 15 years of experience in the natural resources sector, specializing in ESG strategy, risk management, and stakeholder engagement.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Sustainability and Chief ESG Officer",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Elizabeth Freele"
+    },
+    {
+      "name": "Kevin Himbeault",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Himbeault is the Vice President, Operations and Regulatory Affairs. He has over 25 years of experience in the mining industry, with a focus on environmental management, regulatory compliance, and operations in the uranium sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Operations and Regulatory Affairs",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Kevin Himbeault"
+    },
+    {
+      "name": "Geoffrey Smith",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Smith is the Vice President, Corporate Development and Commercial. He is a corporate lawyer by training and has extensive experience in mergers and acquisitions, corporate finance, and commercial negotiations in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Corporate Development and Commercial",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Geoffrey Smith"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Ron Hochstein",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Hochstein is the Chair of the Board. He is currently the President and CEO of Lundin Gold Inc. and has over 30 years of experience in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chair of the Board",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Ron F. Hochstein"
+    },
+    {
+      "name": "David Cates",
+      "age": 42,
+      "age_year": 2024,
+      "background": "Mr. Cates is the President and CEO of the Company. See executive profile for further details.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "David D. Cates"
+    },
+    {
+      "name": "Brian Edgar",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Mr. Edgar is a lawyer and has served as a director of numerous public companies. He was the President and CEO of Dome Ventures Corp. until its merger with Vicuna Resources Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2005-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Brian D. Edgar"
+    },
+    {
+      "name": "Alice Wong",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Ms. Wong is a Senior Vice President and Chief Corporate Officer at Cameco Corporation. She has extensive experience in corporate strategy, investor relations, and sustainability.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Environment, Health, Safety and Sustainability Committee"
+      ],
+      "name_original": "Jun (Alice) Wong"
+    },
+    {
+      "name": "Jennifer Traub",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Ms. Traub is a partner at the law firm Cassels Brock & Blackwell LLP, where she co-chairs the Mining Group. She has extensive experience in corporate finance and M&A in the resource sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee"
+      ],
+      "name_original": "Jennifer Traub"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1235468/000110465924039534/tm249845d1_6k.htm",
+      "source_description": "SEC Form 6-K - Management Information Circular",
+      "as_of_date": "2024-03-27"
+    },
+    {
+      "source_url": "https://denisonmines.com/about/management/",
+      "source_description": "Company Website - Management Team",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://denisonmines.com/about/board-of-directors/",
+      "source_description": "Company Website - Board of Directors",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

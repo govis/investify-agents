@@ -1,0 +1,182 @@
+{
+  "executives": [
+    {
+      "name": "Jack Lundin",
+      "age": 35,
+      "age_year": 2024,
+      "background": "Mr. Lundin has over 15 years of experience in the natural resource sector. He was appointed President and CEO in December 2023. Previously, he served as President and CEO of Bluestone Resources Inc. and held various roles within the Lundin Group of companies, including at Lundin Gold Inc.'s Fruta del Norte project.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2023-12-04",
+          "end_date": null
+        },
+        {
+          "title": "President",
+          "start_date": "2023-09-01",
+          "end_date": "2023-12-03"
+        }
+      ],
+      "name_original": "Jack Lundin"
+    },
+    {
+      "name": "Teitur Poulsen",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Poulsen has over 25 years of experience in the resource industry. He joined Lundin Mining as Senior Vice President and Chief Financial Officer in 2023. Prior to this, he was CFO of Lundin Energy AB.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Financial Officer",
+          "start_date": "2023-09-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Teitur Poulsen"
+    },
+    {
+      "name": "Juan Roca",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Roca has over 25 years of experience in the mining industry. He was appointed Chief Operating Officer in 2023. He previously held senior operational roles at Freeport-McMoRan and other major mining firms.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2023-10-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Juan Roca"
+    },
+    {
+      "name": "Kristen Mariuzza",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Ms. Mariuzza has over 20 years of experience in the mining industry, specializing in environmental and regulatory affairs. She has held various leadership roles within Lundin Mining, including Managing Director of the Eagle Mine.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Sustainability, Health and Safety",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Kristen Mariuzza"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Adam Lundin",
+      "age": 37,
+      "age_year": 2024,
+      "background": "Mr. Lundin has many years of experience in the natural resource sector. He is the Chair of the Board and previously served as President and CEO of Josemaria Resources Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chair of the Board",
+          "start_date": "2022-05-01",
+          "end_date": null
+        },
+        {
+          "role": "Director",
+          "start_date": "2020-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Adam Lundin"
+    },
+    {
+      "name": "Jack Lundin",
+      "age": 35,
+      "age_year": 2024,
+      "background": "President and CEO of Lundin Mining. See executive profile for details.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-12-04",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Jack Lundin"
+    },
+    {
+      "name": "Donald Charter",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Mr. Charter is a professional director with extensive experience in the mining industry and capital markets. He has served on numerous public company boards.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2015-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Donald K. Charter"
+    },
+    {
+      "name": "Juliana Lam",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Ms. Lam is a Chartered Professional Accountant with over 30 years of experience in financial management and corporate strategy across various industries.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)",
+        "Human Resources and Compensation Committee"
+      ],
+      "name_original": "Juliana L. Lam"
+    },
+    {
+      "name": "Maria Olivia Recart",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Ms. Recart is an economist with significant experience in the mining sector and public policy, having served as Vice President at BHP and Undersecretary of Finance in Chile.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Sustainability Committee",
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Maria Olivia Recart"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.lundinmining.com/about-us/management/",
+      "source_description": "Lundin Mining Official Website - Management Team",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.lundinmining.com/about-us/board-of-directors/",
+      "source_description": "Lundin Mining Official Website - Board of Directors",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://sedarplus.ca",
+      "source_description": "Management Information Circular dated March 2024",
+      "as_of_date": "2024-03-28"
+    }
+  ]
+}

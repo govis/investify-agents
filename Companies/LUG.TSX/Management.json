@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Ron F. Hochstein",
+      "name": "Ron Hochstein",
       "age": 61,
       "age_year": 2024,
       "background": "Mr. Hochstein has been the President and Chief Executive Officer of the Company since 2014. He was previously the President and CEO of Denison Mines Corp. from 2009 to 2015 and served as President and COO from 2006 to 2009. He is a Professional Engineer and holds an MBA from the University of British Columbia.",
@@ -12,10 +12,11 @@
           "start_date": "2014-11-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Ron F. Hochstein"
     },
     {
-      "name": "Christopher J.S. Wood",
+      "name": "Christopher Wood",
       "age": 49,
       "age_year": 2024,
       "background": "Mr. Wood was appointed Chief Financial Officer in 2023. He previously served as Vice President, Finance of the Company since 2018. Prior to joining Lundin Gold, he held senior financial roles at various mining companies including Kinross Gold Corporation.",
@@ -31,7 +32,8 @@
           "start_date": "2018-01-01",
           "end_date": "2022-12-31"
         }
-      ]
+      ],
+      "name_original": "Christopher J.S. Wood"
     },
     {
       "name": "Nathan Monash",
@@ -45,7 +47,8 @@
           "start_date": "2015-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Nathan Monash"
     },
     {
       "name": "Sheila Colman",
@@ -59,7 +62,8 @@
           "start_date": "2015-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Sheila Colman"
     },
     {
       "name": "Andre Oliveira",
@@ -73,7 +77,8 @@
           "start_date": "2023-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Andre Oliveira"
     }
   ],
   "board_of_directors": [
@@ -90,10 +95,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Jack Lundin"
     },
     {
-      "name": "Ron F. Hochstein",
+      "name": "Ron Hochstein",
       "age": 61,
       "age_year": 2024,
       "background": "President and CEO of Lundin Gold Inc. See executive profile for details.",
@@ -105,7 +111,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Ron F. Hochstein"
     },
     {
       "name": "Carmel Daniele",
@@ -123,7 +130,8 @@
       "committees": [
         "Audit Committee",
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Carmel Daniele"
     },
     {
       "name": "Gillian Davidson",
@@ -141,7 +149,8 @@
       "committees": [
         "Health, Safety, Environment and Sustainability Committee",
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Gillian Davidson"
     },
     {
       "name": "Ian Gibbs",
@@ -159,7 +168,8 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Ian Gibbs"
     },
     {
       "name": "Ashley Heppenstall",
@@ -177,7 +187,8 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Ashley Heppenstall"
     },
     {
       "name": "Angelina Mehta",
@@ -194,7 +205,8 @@
       ],
       "committees": [
         "Health, Safety, Environment and Sustainability Committee"
-      ]
+      ],
+      "name_original": "Angelina Mehta"
     },
     {
       "name": "Scott McDonald",
@@ -212,7 +224,8 @@
       "committees": [
         "Compensation Committee",
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Scott McDonald"
     }
   ],
   "sources": [

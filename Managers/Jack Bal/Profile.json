@@ -1,0 +1,43 @@
+{
+  "name": "Jack Bal",
+  "first_name": "Jack",
+  "last_name": "Bal",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Mr. Bal has over 25 years of experience in the capital markets and has served as a director and officer of several public companies.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "GoldHaven Resources Corp.",
+      "ticker": "GOH",
+      "exchange": "CSE",
+      "title_or_role": "Director",
+      "start_date": "2020-02-20",
+      "end_date": null
+    },
+    {
+      "name": "GoldHaven Resources Corp.",
+      "ticker": "GOH",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "start_date": "2020-02-12",
+      "end_date": null
+    },
+    {
+      "name": "Oreterra Metals Corp.",
+      "ticker": "OTMC",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "start_date": "2021-06-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ]
+}

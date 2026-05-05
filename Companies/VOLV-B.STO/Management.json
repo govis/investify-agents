@@ -1,0 +1,196 @@
+{
+  "executives": [
+    {
+      "name": "Martin Lundstedt",
+      "age": 57,
+      "age_year": 2024,
+      "background": "President and CEO of AB Volvo since 2015. Previously President and CEO of Scania. Member of the Group Executive Board since 2015. Holds an MSc in Industrial Management and Technology.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and CEO",
+          "start_date": "2015-10-22",
+          "end_date": null
+        }
+      ],
+      "name_original": "Martin Lundstedt"
+    },
+    {
+      "name": "Mats Backman",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Chief Financial Officer of AB Volvo. Previously CFO of Trustly, Autoliv, and Sandvik. Member of the Group Executive Board since 2023.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2023-06-16",
+          "end_date": null
+        }
+      ],
+      "name_original": "Mats Backman"
+    },
+    {
+      "name": "Jan Ytterberg",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Senior Advisor. Previously CFO of AB Volvo and Scania. Member of the Group Executive Board since 2018.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Advisor",
+          "start_date": "2023-06-16",
+          "end_date": null
+        },
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2018-11-01",
+          "end_date": "2023-06-15"
+        }
+      ],
+      "name_original": "Jan Ytterberg"
+    },
+    {
+      "name": "Andrea Fuder",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Chief Purchasing Officer of the Volvo Group. Previously held senior positions at Scania and Volkswagen. Member of the Group Executive Board since 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Purchasing Officer",
+          "start_date": "2016-09-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Andrea Fuder"
+    },
+    {
+      "name": "Diana Niu",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Chief Human Resources Officer. Previously held various HR leadership roles within the Volvo Group in Asia. Member of the Group Executive Board since 2019.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Human Resources Officer",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Diana Niu"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "P\u00e4r Boman",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Chairman of the Board. Previously President and CEO of Handelsbanken. Chairman of Svenska Cellulosa Aktiebolaget SCA.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2024-03-27",
+          "end_date": null
+        },
+        {
+          "role": "Director",
+          "start_date": "2024-03-27",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Remuneration Committee (Chair)"
+      ],
+      "name_original": "P\u00e4r Boman"
+    },
+    {
+      "name": "Martin Lundstedt",
+      "age": 57,
+      "age_year": 2024,
+      "background": "President and CEO of AB Volvo. Member of the Board of Directors of Autoliv Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2016-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Martin Lundstedt"
+    },
+    {
+      "name": "Eric Elzvik",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former CFO of ABB Ltd. Director of LM Ericsson and Landis+Gyr Group AG.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2018-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)"
+      ],
+      "name_original": "Eric Elzvik"
+    },
+    {
+      "name": "Martha Brooks",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former President and COO of Novelis Inc. Director of Constellium SE.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2016-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Remuneration Committee"
+      ],
+      "name_original": "Martha Brooks"
+    },
+    {
+      "name": "Kurt Jofs",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Executive Vice President of Ericsson. Chairman of TietoEVRY.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2019-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Remuneration Committee"
+      ],
+      "name_original": "Kurt Jofs"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.volvogroup.com/en/about-us/corporate-governance/group-executive-board.html",
+      "source_description": "Official Volvo Group Executive Board page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.volvogroup.com/en/about-us/corporate-governance/board-of-directors.html",
+      "source_description": "Official Volvo Group Board of Directors page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.volvogroup.com/content/dam/volvo-group/markets/master/about-us/corporate-governance/annual-and-sustainability-reports/volvo-group-annual-and-sustainability-report-2023.pdf",
+      "source_description": "Volvo Group Annual and Sustainability Report 2023",
+      "as_of_date": "2024-02-29"
+    }
+  ]
+}

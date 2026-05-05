@@ -1,0 +1,190 @@
+{
+  "executives": [
+    {
+      "name": "Philip Williams",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Williams has over 20 years of experience in the mining and finance industries. He was previously the CEO of Consolidated Uranium Inc. before its merger with IsoEnergy. He has held various roles in equity research and investment banking.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Chief Executive Officer and Director",
+          "start_date": "2023-12-05",
+          "end_date": null
+        }
+      ],
+      "name_original": "Philip Williams"
+    },
+    {
+      "name": "Graham Long",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Long is a finance professional with experience in the mining sector, previously serving as CFO of Consolidated Uranium Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2023-12-05",
+          "end_date": null
+        }
+      ],
+      "name_original": "Graham Long"
+    },
+    {
+      "name": "Darryl Clark",
+      "age": null,
+      "age_year": null,
+      "background": "Dr. Clark is an exploration geologist with over 25 years of experience in the mining industry, including senior roles at Cameco and Rio Tinto.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, Exploration and Strategy",
+          "start_date": "2023-12-05",
+          "end_date": null
+        }
+      ],
+      "name_original": "Darryl Clark"
+    },
+    {
+      "name": "Peter Netupsky",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Netupsky has over 15 years of experience in corporate development and investment banking, previously with Agnico Eagle Mines.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, Corporate Development",
+          "start_date": "2024-04-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Peter J. Netupsky"
+    },
+    {
+      "name": "Marty Tunney",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Tunney is a mining engineer with over 20 years of experience in the resource sector, including roles at Newmont and CIBC.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2023-12-05",
+          "end_date": null
+        }
+      ],
+      "name_original": "Marty Tunney"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Richard Murphy",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Murphy is a geologist with over 30 years of experience in the mining industry. He is currently the President and CEO of Argonaut Gold.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman and Independent Director",
+          "start_date": "2016-02-02",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Richard Murphy"
+    },
+    {
+      "name": "Philip Williams",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Williams is the President and CEO of IsoEnergy and former CEO of Consolidated Uranium.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-12-05",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Philip Williams"
+    },
+    {
+      "name": "Leigh Curyer",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Curyer is the founder, President, and CEO of NexGen Energy Ltd. He has over 20 years of experience in the resources sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2016-02-02",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee"
+      ],
+      "name_original": "Leigh Curyer"
+    },
+    {
+      "name": "Christopher McFadden",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. McFadden is a lawyer with over 20 years of experience in the mining industry, currently serving as Chairman of NexGen Energy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-02-02",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Christopher J. McFadden"
+    },
+    {
+      "name": "Peter Hawley",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Hawley is a geologist with over 35 years of experience in the mining industry and is the founder of Sabina Gold & Silver Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-12-05",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Peter J. Hawley"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.isoenergy.ca/about/management/",
+      "source_description": "IsoEnergy Official Website - Management Team Page",
+      "as_of_date": "2024-05-22"
+    },
+    {
+      "source_url": "https://www.isoenergy.ca/about/board-of-directors/",
+      "source_description": "IsoEnergy Official Website - Board of Directors Page",
+      "as_of_date": "2024-05-22"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "Management Information Circular dated April 26, 2024",
+      "as_of_date": "2024-04-26"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "executives": [
+    {
+      "name": "William Sheriff",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Sheriff is the founder and Executive Chairman of enCore Energy Corp. He has over 30 years of experience in the minerals industry and was previously the Chairman and CEO of Uranium One Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Chairman",
+          "start_date": "2014-10-30",
+          "end_date": null
+        }
+      ],
+      "name_original": "William M. Sheriff"
+    },
+    {
+      "name": "Paul Goranson",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Goranson has over 30 years of experience in the uranium industry. He previously served as Chief Operating Officer of Energy Fuels Inc. and President of Cameco Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2020-10-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2020-10-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Paul Goranson"
+    },
+    {
+      "name": "Carrie Mierkey",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Ms. Mierkey is a Certified Public Accountant with over 15 years of experience in finance and accounting within the mining industry, including roles at Energy Fuels Inc. and Cameco Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2021-07-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Carrie Mierkey"
+    },
+    {
+      "name": "Peter Luthiger",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Luthiger has over 35 years of experience in the uranium industry, specializing in regulatory affairs, licensing, and environmental management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2022-03-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Peter Luthiger"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "William Sheriff",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Founder and Executive Chairman of the Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Chairman",
+          "start_date": "2014-10-30",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "William M. Sheriff"
+    },
+    {
+      "name": "Paul Goranson",
+      "age": 62,
+      "age_year": 2024,
+      "background": "CEO and Director of the Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2020-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Paul Goranson"
+    },
+    {
+      "name": "Richard Cherry",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Mr. Cherry is a veteran executive in the nuclear industry, having served as President and CEO of Cotter Corporation and as a Vice President of General Atomics.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2014-10-30",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Richard M. Cherry"
+    },
+    {
+      "name": "Mark Pelizza",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Pelizza has over 40 years of experience in the uranium industry, primarily with Uranium Resources, Inc. (now Westwater Resources).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2017-02-15",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Technical Committee"
+      ],
+      "name_original": "Mark Pelizza"
+    },
+    {
+      "name": "Susan Hoxie-Key",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Ms. Hoxie-Key is a nuclear engineer with over 30 years of experience in the nuclear fuel cycle, including a long career at Southern Nuclear Operating Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-06-21",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "Susan Hoxie-Key"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1725031/000106299324007354/form10k.htm",
+      "source_description": "SEC Form 10-K Annual Report for the fiscal year ended December 31, 2023",
+      "as_of_date": "2024-03-28"
+    },
+    {
+      "source_url": "https://encoreuranium.com/about-us/management-and-board/",
+      "source_description": "Official Company Website - Management and Board Page",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

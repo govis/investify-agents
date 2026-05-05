@@ -1,0 +1,224 @@
+{
+  "executives": [
+    {
+      "name": "Ajay Kochhar",
+      "age": 32,
+      "age_year": 2024,
+      "background": "Co-founder of Li-Cycle and has served as President, CEO and a director since the company's inception in 2016. Before Li-Cycle, he worked at Hatch in the industrial and clean tech sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Chief Executive Officer and Director",
+          "start_date": "2016-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Ajay Kochhar"
+    },
+    {
+      "name": "Craig MacPhail",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Appointed Interim Chief Financial Officer in November 2023. He is a Managing Director at Shorecrest Group and has over 30 years of experience in capital markets and investor relations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Interim Chief Financial Officer",
+          "start_date": "2023-11-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Craig MacPhail"
+    },
+    {
+      "name": "Tim Johnston",
+      "age": 37,
+      "age_year": 2024,
+      "background": "Co-founder of Li-Cycle and has served as Executive Chair since 2016. He was previously a Senior Consultant at Hatch.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Chair",
+          "start_date": "2016-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Tim Johnston"
+    },
+    {
+      "name": "Conor Spollen",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Joined Li-Cycle in 2022. Previously held senior leadership roles at Rio Tinto, including Chief Operating Officer of Iron & Titanium.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Conor Spollen"
+    },
+    {
+      "name": "Debbie Simpson",
+      "age": 56,
+      "age_year": 2023,
+      "background": "Former CFO of Li-Cycle. She stepped down in late 2023.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2022-01-01",
+          "end_date": "2023-11-01"
+        }
+      ],
+      "name_original": "Debbie Simpson"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Tim Johnston",
+      "age": 37,
+      "age_year": 2024,
+      "background": "Co-founder and Executive Chair of Li-Cycle.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Chair",
+          "start_date": "2016-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Tim Johnston"
+    },
+    {
+      "name": "Ajay Kochhar",
+      "age": 32,
+      "age_year": 2024,
+      "background": "Co-founder, President and CEO of Li-Cycle.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2016-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Ajay Kochhar"
+    },
+    {
+      "name": "Mark Jensen",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Managing Partner at M. Jensen Investment Management. Former partner at Deloitte.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-08-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Mark Jensen"
+    },
+    {
+      "name": "Judi Wood",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former executive at various energy and industrial companies. Expert in human resources and governance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-08-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Health, Safety, Environmental and Plant Operations Committee"
+      ],
+      "name_original": "Judith (Judi) Wood"
+    },
+    {
+      "name": "Scott Moore",
+      "age": 58,
+      "age_year": 2024,
+      "background": "CEO of Euro Manganese Inc. and has extensive experience in the mining and metals industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-08-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Health, Safety, Environmental and Plant Operations Committee"
+      ],
+      "name_original": "Scott Moore"
+    },
+    {
+      "name": "Susan Harper",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former Canadian Consul General in Miami and Dallas. Extensive experience in international trade and government relations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "Susan Harper"
+    },
+    {
+      "name": "Diane Sutherland",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Former partner at Ernst & Young LLP with over 30 years of experience in audit and advisory services.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "Diane Sutherland"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1853513/000185351324000008/licy-20231231.htm",
+      "source_description": "Li-Cycle Holdings Corp. Annual Report on Form 10-K for the fiscal year ended December 31, 2023",
+      "as_of_date": "2024-03-15"
+    },
+    {
+      "source_url": "https://li-cycle.com/about-us/leadership/",
+      "source_description": "Li-Cycle Official Website - Leadership Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://li-cycle.com/about-us/board-of-directors/",
+      "source_description": "Li-Cycle Official Website - Board of Directors Page",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

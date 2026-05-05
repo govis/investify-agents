@@ -1,0 +1,153 @@
+{
+  "executives": [
+    {
+      "name": "Jan van Eck",
+      "age": 61,
+      "age_year": 2024,
+      "background": "President and Chief Executive Officer of Van Eck Associates Corporation, Van Eck Securities Corporation and Van Eck Absolute Return Advisers, Inc. since 2010.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2010",
+          "end_date": null
+        },
+        {
+          "title": "Trustee",
+          "start_date": "2006",
+          "end_date": null
+        }
+      ],
+      "name_original": "Jan F. van Eck"
+    },
+    {
+      "name": "James Rathgey",
+      "age": 43,
+      "age_year": 2024,
+      "background": "Chief Operating Officer of Van Eck Associates Corporation since 2023; previously Head of Global Operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ],
+      "name_original": "James G. Rathgey"
+    },
+    {
+      "name": "John Crimmins",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Treasurer of Van Eck Associates Corporation, Van Eck Securities Corporation and Van Eck Absolute Return Advisers, Inc. since 2009.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Treasurer and Chief Financial Officer",
+          "start_date": "2009",
+          "end_date": null
+        }
+      ],
+      "name_original": "John J. Crimmins"
+    },
+    {
+      "name": "Jonathan Simon",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Senior Vice President and General Counsel of Van Eck Associates Corporation since 2014.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President and Secretary",
+          "start_date": "2014",
+          "end_date": null
+        }
+      ],
+      "name_original": "Jonathan R. Simon"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jan van Eck",
+      "age": 61,
+      "age_year": 2024,
+      "background": "President and CEO of Van Eck Associates Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Trustee",
+          "start_date": "2006",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Jan F. van Eck"
+    },
+    {
+      "name": "Kathleen LaBounty",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Independent Trustee; previously Managing Director at various financial institutions.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Trustee",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Kathleen J. H. LaBounty"
+    },
+    {
+      "name": "Alastair Short",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Independent Trustee; Consultant and former executive in the asset management industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Trustee",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "R. Alastair Short"
+    },
+    {
+      "name": "Peter Sidebottom",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Independent Trustee; Managing Partner of a strategic consulting firm.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Trustee",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Peter J. Sidebottom"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736024000045/vanecketf-sai.htm",
+      "source_description": "VanEck ETF Trust Statement of Additional Information (SAI)",
+      "as_of_date": "2024-05-01"
+    },
+    {
+      "source_url": "https://www.vaneck.com/us/en/investments/rare-earth-strategic-metals-etf-remx/",
+      "source_description": "VanEck Rare Earth/Strategic Metals ETF Official Website",
+      "as_of_date": "2024-10-27"
+    }
+  ]
+}

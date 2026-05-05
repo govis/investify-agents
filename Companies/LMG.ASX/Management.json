@@ -1,0 +1,141 @@
+{
+  "executives": [
+    {
+      "name": "David Paterson",
+      "age": 68,
+      "age_year": 2024,
+      "background": "David Paterson is a qualified chartered accountant and graduate of the University of Queensland. He has been involved in the corporate sector for over 40 years, with experience in corporate advisory, financial management, and the mining industry. He has held various directorships in listed and unlisted companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2002-08-23",
+          "end_date": null
+        }
+      ],
+      "name_original": "David Paterson"
+    },
+    {
+      "name": "John Quayle",
+      "age": 74,
+      "age_year": 2024,
+      "background": "John Quayle has over 40 years of experience in the mining and construction industries. He has held senior executive positions in several major Australian companies and has extensive experience in project management and corporate governance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "John S. J. G. (John) Quayle"
+    },
+    {
+      "name": "John Low",
+      "age": 65,
+      "age_year": 2024,
+      "background": "John Low is a qualified accountant with over 35 years of experience in financial management and corporate advisory. He has worked with various companies in the mining and resources sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "John J. (John) Low"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "John Quayle",
+      "age": 74,
+      "age_year": 2024,
+      "background": "John Quayle has over 40 years of experience in the mining and construction industries. He has held senior executive positions in several major Australian companies and has extensive experience in project management and corporate governance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Chairman",
+          "start_date": "2002-08-23",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Remuneration Committee"
+      ],
+      "name_original": "John S. J. G. (John) Quayle"
+    },
+    {
+      "name": "David Paterson",
+      "age": 68,
+      "age_year": 2024,
+      "background": "David Paterson is a qualified chartered accountant and graduate of the University of Queensland. He has been involved in the corporate sector for over 40 years, with experience in corporate advisory, financial management, and the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Director",
+          "start_date": "2002-08-23",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "David Paterson"
+    },
+    {
+      "name": "Kevin Torpey",
+      "age": 85,
+      "age_year": 2024,
+      "background": "Kevin Torpey is a graduate of the University of Sydney and has over 50 years of experience in the mining industry. He has held senior executive positions in several major Australian mining companies and has extensive experience in project development and management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2002-08-23",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Remuneration Committee"
+      ],
+      "name_original": "Kevin Torpey"
+    },
+    {
+      "name": "Philip Sansom",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Philip Sansom has over 40 years of experience in the mining and resources sector. He has held senior executive positions in several major Australian companies and has extensive experience in corporate governance and project management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2002-08-23",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Remuneration Committee"
+      ],
+      "name_original": "Philip J. (Philip) G. Sansom"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.latrobemagnesium.com/wp-content/uploads/2024/10/LMG-Annual-Report-2024.pdf",
+      "source_description": "Latrobe Magnesium Limited Annual Report 2024",
+      "as_of_date": "2024-06-30"
+    },
+    {
+      "source_url": "https://www.latrobemagnesium.com/about-us/board-of-directors/",
+      "source_description": "Latrobe Magnesium Limited Board of Directors Website Page",
+      "as_of_date": "2024-11-15"
+    },
+    {
+      "source_url": "https://www.latrobemagnesium.com/about-us/management-team/",
+      "source_description": "Latrobe Magnesium Limited Management Team Website Page",
+      "as_of_date": "2024-11-15"
+    }
+  ]
+}

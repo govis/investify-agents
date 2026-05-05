@@ -1,0 +1,27 @@
+{
+  "name": "Birks Bovaird",
+  "first_name": "Birks",
+  "last_name": "Bovaird",
+  "age": 75,
+  "age_year": 2024,
+  "background": "Mr. Bovaird is the Chairman of the Board. He has been a director of the Company since 2006. He has extensive experience in corporate finance and the resource industry.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Energy Fuels Inc.",
+      "ticker": "UUUU",
+      "exchange": "NYSE",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2006-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance and Nominating Committee"
+  ]
+}

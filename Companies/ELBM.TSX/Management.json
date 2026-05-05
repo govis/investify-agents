@@ -1,0 +1,170 @@
+{
+  "executives": [
+    {
+      "name": "Trent Mell",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. Mell is the founder of Electra and has over 20 years of experience in the mining industry. He has held executive roles at First Quantum Minerals, Sherritt International, and North American Palladium.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Chief Executive Officer and Director",
+          "start_date": "2017-02-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Trent Mell"
+    },
+    {
+      "name": "Peter Johnston",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Johnston is a Chartered Professional Accountant with over 15 years of financial experience in the mining and manufacturing sectors. He previously served as Corporate Controller for the Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2023-08-15",
+          "end_date": null
+        }
+      ],
+      "name_original": "Peter Johnston"
+    },
+    {
+      "name": "Mark Trevisiol",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Trevisiol has over 30 years of experience in mineral processing and refining. He previously held senior leadership roles at Vale (formerly Inco) and was the CEO of Silver Bullion.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Project Development",
+          "start_date": "2021-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Mark Trevisiol"
+    },
+    {
+      "name": "Michael Insulan",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Dr. Insulan has over 20 years of experience in the metals and mining industry, with a focus on battery materials. He previously worked at CRU Group and Eurasian Resources Group.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Commercial",
+          "start_date": "2021-10-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Michael Insulan"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "John Kanellitsas",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Kanellitsas has over 30 years of experience in the investment banking and asset management industries. He is the Executive Vice Chairman of Lithium Americas Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman and Independent Director",
+          "start_date": "2017-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "John Kanellitsas"
+    },
+    {
+      "name": "Trent Mell",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Founder and CEO of Electra Battery Materials Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2017-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Trent Mell"
+    },
+    {
+      "name": "Susan Uthayakumar",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Ms. Uthayakumar is the Chief Energy and Sustainability Officer at Prologis. She previously held senior executive roles at Schneider Electric.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "Susan Uthayakumar"
+    },
+    {
+      "name": "Beryl Fedoruk",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Ms. Fedoruk is a retired partner from KPMG with over 35 years of experience in auditing and advisory services for the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)",
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "Beryl Fedoruk"
+    },
+    {
+      "name": "Garett Macdonald",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Mr. Macdonald is a professional engineer with over 25 years of experience in mine development and operations. He is currently the President and CEO of Maritime Resources Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee (Chair)",
+        "Technical Committee"
+      ],
+      "name_original": "Garett Macdonald"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://electrabmc.com/about/team/",
+      "source_description": "Electra Battery Materials Corporation - Leadership Team Website",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca/",
+      "source_description": "Management Information Circular dated May 15, 2024",
+      "as_of_date": "2024-05-15"
+    }
+  ]
+}

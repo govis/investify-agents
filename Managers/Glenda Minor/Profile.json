@@ -1,0 +1,39 @@
+{
+  "name": "Glenda Minor",
+  "first_name": "Glenda",
+  "last_name": "Minor",
+  "age": 67,
+  "age_year": 2024,
+  "background": "Chief Executive Officer and Principal of Silket Advisory Services. Former SVP and Controller of Evraz North America Limited.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2019-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Curtiss-Wright Corporation",
+      "ticker": "CW",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2019-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Defense",
+    "Electrification",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Finance Committee",
+    "Nominating & Governance Committee"
+  ]
+}

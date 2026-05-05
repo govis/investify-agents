@@ -1,0 +1,36 @@
+{
+  "name": "Phebe Novakovic",
+  "first_name": "Phebe",
+  "last_name": "Novakovic",
+  "age": 66,
+  "age_year": 2024,
+  "background": "Ms. Novakovic has been Chairman and Chief Executive Officer of General Dynamics since January 2013. Previously, she served as President and Chief Operating Officer from May 2012 to December 2012 and as Executive Vice President, Marine Systems, from May 2010 to May 2012.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "General Dynamics Corporation",
+      "ticker": "GD",
+      "exchange": "NYSE",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "2013-01-01",
+      "end_date": null
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2020-12-07",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation & Management Development Committee"
+  ]
+}

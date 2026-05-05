@@ -1,10 +1,10 @@
 {
   "executives": [
     {
-      "name": "Earl C. \"Duke\" Austin, Jr.",
+      "name": "Earl \"Duke\" Austin, Jr.",
       "age": 55,
       "age_year": 2024,
-      "background": "Mr. Austin has served as President and Chief Executive Officer of Quanta since March 2016. He previously served as Chief Operating Officer from 2013 to 2016 and as President of Quanta’s Electric Power Division and Oil and Gas Division from 2011 to 2012. He has been with Quanta since 2001.",
+      "background": "Mr. Austin has served as President and Chief Executive Officer of Quanta since March 2016. He previously served as Chief Operating Officer from 2013 to 2016 and as President of Quanta\u2019s Electric Power Division and Oil and Gas Division from 2011 to 2012. He has been with Quanta since 2001.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -17,10 +17,11 @@
           "start_date": "2013-01-01",
           "end_date": "2016-03-01"
         }
-      ]
+      ],
+      "name_original": "Earl C. \"Duke\" Austin, Jr."
     },
     {
-      "name": "Jayshree S. Desai",
+      "name": "Jayshree Desai",
       "age": 53,
       "age_year": 2024,
       "background": "Ms. Desai has served as Chief Financial Officer of Quanta since July 2022. She previously served as Chief Corporate Development Officer from 2020 to 2022 and as Vice President of Corporate Development from 2010 to 2020.",
@@ -36,7 +37,8 @@
           "start_date": "2020-01-01",
           "end_date": "2022-07-01"
         }
-      ]
+      ],
+      "name_original": "Jayshree S. Desai"
     },
     {
       "name": "Redgie Probst",
@@ -55,7 +57,8 @@
           "start_date": "2019-01-01",
           "end_date": "2022-07-01"
         }
-      ]
+      ],
+      "name_original": "Redgie Probst"
     },
     {
       "name": "Paul Gregory",
@@ -69,7 +72,8 @@
           "start_date": "2019-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Paul Gregory"
     },
     {
       "name": "Donald Wayne",
@@ -83,12 +87,13 @@
           "start_date": "2017-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Donald Wayne"
     }
   ],
   "board_of_directors": [
     {
-      "name": "David M. McClanahan",
+      "name": "David McClanahan",
       "age": 74,
       "age_year": 2024,
       "background": "Mr. McClanahan has served as Chairman of the Board since May 2022. He was formerly the President and CEO of CenterPoint Energy, Inc. from 2002 to 2013.",
@@ -108,10 +113,11 @@
       "committees": [
         "Compensation Committee",
         "Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "David M. McClanahan"
     },
     {
-      "name": "Earl C. \"Duke\" Austin, Jr.",
+      "name": "Earl \"Duke\" Austin, Jr.",
       "age": 55,
       "age_year": 2024,
       "background": "President and CEO of Quanta Services. See executive profile for details.",
@@ -123,10 +129,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Earl C. \"Duke\" Austin, Jr."
     },
     {
-      "name": "Doyle N. Beneby",
+      "name": "Doyle Beneby",
       "age": 64,
       "age_year": 2024,
       "background": "Mr. Beneby is the former President and CEO of CPS Energy. He has extensive experience in the energy and utility sectors.",
@@ -141,10 +148,11 @@
       "committees": [
         "Audit Committee",
         "Investment Committee"
-      ]
+      ],
+      "name_original": "Doyle N. Beneby"
     },
     {
-      "name": "Vincent D. Foster",
+      "name": "Vincent Foster",
       "age": 67,
       "age_year": 2024,
       "background": "Mr. Foster is the Executive Chairman of Main Street Capital Corporation. He has significant financial and investment expertise.",
@@ -159,7 +167,8 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Vincent D. Foster"
     },
     {
       "name": "Bernard Fried",
@@ -177,10 +186,11 @@
       "committees": [
         "Audit Committee",
         "Investment Committee"
-      ]
+      ],
+      "name_original": "Bernard Fried"
     },
     {
-      "name": "Worthing F. Jackman",
+      "name": "Worthing Jackman",
       "age": 59,
       "age_year": 2024,
       "background": "Mr. Jackman is the President and CEO of Waste Connections, Inc. He brings extensive operational and financial experience.",
@@ -195,10 +205,11 @@
       "committees": [
         "Audit Committee",
         "Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Worthing F. Jackman"
     },
     {
-      "name": "Holli C. Ladhani",
+      "name": "Holli Ladhani",
       "age": 53,
       "age_year": 2024,
       "background": "Ms. Ladhani was formerly the President and CEO of Select Energy Services, Inc. She has significant experience in the energy services industry.",
@@ -213,10 +224,11 @@
       "committees": [
         "Audit Committee",
         "Investment Committee"
-      ]
+      ],
+      "name_original": "Holli C. Ladhani"
     },
     {
-      "name": "Martha B. Wyrsch",
+      "name": "Martha Wyrsch",
       "age": 66,
       "age_year": 2024,
       "background": "Ms. Wyrsch was formerly the General Counsel of Sempra Energy. She has extensive legal and regulatory experience in the energy sector.",
@@ -231,7 +243,8 @@
       "committees": [
         "Compensation Committee",
         "Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Martha B. Wyrsch"
     }
   ],
   "sources": [

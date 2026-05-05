@@ -1,0 +1,201 @@
+{
+  "executives": [
+    {
+      "name": "Walter Coles",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Coles was appointed Executive Chairman in 2023 and previously served as CEO from 2013 to 2023. He has over 25 years of experience in the mining and financial sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Chairman",
+          "start_date": "2023-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2013-01-01",
+          "end_date": "2023-01-01"
+        }
+      ],
+      "name_original": "Walter Coles"
+    },
+    {
+      "name": "Randy Reichert",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Reichert is a professional engineer with over 30 years of experience in the mining industry. He was appointed CEO in 2023 after serving as President since 2021.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President & Chief Executive Officer",
+          "start_date": "2023-01-01",
+          "end_date": null
+        },
+        {
+          "title": "President",
+          "start_date": "2021-11-01",
+          "end_date": "2023-01-01"
+        }
+      ],
+      "name_original": "Randy Reichert"
+    },
+    {
+      "name": "Andrew Sharp",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Mr. Sharp is a mining engineer with over 35 years of experience in the industry. He joined Skeena in 2021 and was appointed CFO in 2022.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Andrew G.S. Sharp"
+    },
+    {
+      "name": "Paul Geddes",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Mr. Geddes is a professional geologist with over 25 years of experience in mineral exploration and development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Exploration & Resource Development",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Paul Geddes"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Walter Coles",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Executive Chairman of the Board. Former CEO of Skeena Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Chairman",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Walter Coles"
+    },
+    {
+      "name": "Randy Reichert",
+      "age": 58,
+      "age_year": 2024,
+      "background": "President, CEO and Director. Over 30 years of mining experience.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Randy Reichert"
+    },
+    {
+      "name": "Borden Putnam III",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Putnam is a geologist with over 40 years of experience in the mining and investment industries.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Technical Committee"
+      ],
+      "name_original": "Borden Putnam III"
+    },
+    {
+      "name": "Paul Kostuik",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Kostuik is a mining engineer with over 35 years of experience in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Technical Committee"
+      ],
+      "name_original": "S. Paul G. Kostuik"
+    },
+    {
+      "name": "Judith Matkaluk",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Ms. Matkaluk is a lawyer with over 35 years of experience in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Nominating Committee",
+        "Audit Committee"
+      ],
+      "name_original": "Judith J.S. Matkaluk"
+    },
+    {
+      "name": "Lori McClenahan",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Ms. McClenahan has over 30 years of experience in the junior resource sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Nominating Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Lori McClenahan"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://skeenaresources.com/about/management/",
+      "source_description": "Company Website - Management Team",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://skeenaresources.com/about/board-of-directors/",
+      "source_description": "Company Website - Board of Directors",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "SEDAR+ Filings - Management Information Circular",
+      "as_of_date": "2024-05-15"
+    }
+  ]
+}

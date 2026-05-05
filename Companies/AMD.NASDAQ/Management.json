@@ -1,10 +1,10 @@
 {
   "executives": [
     {
-      "name": "Dr. Lisa T. Su",
+      "name": "Lisa Su",
       "age": 54,
       "age_year": 2024,
-      "background": "Dr. Su is AMD’s Chair, President and Chief Executive Officer. She has been AMD’s President and Chief Executive Officer since October 2014 and Chair of the Board since May 2022. Previously, she served as Senior Vice President and General Manager, Global Business Units from 2012 to 2014. Prior to joining AMD, Dr. Su served as Senior Vice President and General Manager, Networking and Multimedia at Freescale Semiconductor, Inc. and spent 13 years at IBM in various engineering and business leadership positions.",
+      "background": "Dr. Su is AMD\u2019s Chair, President and Chief Executive Officer. She has been AMD\u2019s President and Chief Executive Officer since October 2014 and Chair of the Board since May 2022. Previously, she served as Senior Vice President and General Manager, Global Business Units from 2012 to 2014. Prior to joining AMD, Dr. Su served as Senior Vice President and General Manager, Networking and Multimedia at Freescale Semiconductor, Inc. and spent 13 years at IBM in various engineering and business leadership positions.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -12,13 +12,14 @@
           "start_date": "2014-10-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Dr. Lisa T. Su"
     },
     {
       "name": "Jean Hu",
       "age": 60,
       "age_year": 2024,
-      "background": "Ms. Hu is AMD’s Executive Vice President, Chief Financial Officer and Treasurer. She joined AMD in January 2023. Previously, she served as Executive Vice President and Chief Financial Officer of Marvell Technology, Inc. from 2016 to 2023. She also held senior financial leadership roles at Qlogic and Conexant Systems.",
+      "background": "Ms. Hu is AMD\u2019s Executive Vice President, Chief Financial Officer and Treasurer. She joined AMD in January 2023. Previously, she served as Executive Vice President and Chief Financial Officer of Marvell Technology, Inc. from 2016 to 2023. She also held senior financial leadership roles at Qlogic and Conexant Systems.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -26,13 +27,14 @@
           "start_date": "2023-01-23",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Jean Hu"
     },
     {
-      "name": "Mark D. Papermaster",
+      "name": "Mark Papermaster",
       "age": 62,
       "age_year": 2024,
-      "background": "Mr. Papermaster is AMD’s Executive Vice President and Chief Technology Officer. He joined AMD in 2011. Previously, he was Vice President of the Silicon Engineering Group at Cisco Systems, Inc. and Senior Vice President of Devices Hardware Engineering at Apple Inc. He also spent 26 years at IBM.",
+      "background": "Mr. Papermaster is AMD\u2019s Executive Vice President and Chief Technology Officer. He joined AMD in 2011. Previously, he was Vice President of the Silicon Engineering Group at Cisco Systems, Inc. and Senior Vice President of Devices Hardware Engineering at Apple Inc. He also spent 26 years at IBM.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -40,13 +42,14 @@
           "start_date": "2011-10-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Mark D. Papermaster"
     },
     {
-      "name": "Forrest E. Norrod",
+      "name": "Forrest Norrod",
       "age": 58,
       "age_year": 2024,
-      "background": "Mr. Norrod is AMD’s Executive Vice President and General Manager, Data Center Solutions Business Group. He joined AMD in 2014. Previously, he was Vice President and General Manager of Dell’s server business.",
+      "background": "Mr. Norrod is AMD\u2019s Executive Vice President and General Manager, Data Center Solutions Business Group. He joined AMD in 2014. Previously, he was Vice President and General Manager of Dell\u2019s server business.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -54,13 +57,14 @@
           "start_date": "2014-11-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Forrest E. Norrod"
     },
     {
-      "name": "Harry A. Wolin",
+      "name": "Harry Wolin",
       "age": 61,
       "age_year": 2024,
-      "background": "Mr. Wolin is AMD’s Senior Vice President, General Counsel and Corporate Secretary. He has been with AMD since 2000 and was appointed General Counsel in 2003.",
+      "background": "Mr. Wolin is AMD\u2019s Senior Vice President, General Counsel and Corporate Secretary. He has been with AMD since 2000 and was appointed General Counsel in 2003.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -68,12 +72,13 @@
           "start_date": "2003-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Harry A. Wolin"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Dr. Lisa T. Su",
+      "name": "Lisa Su",
       "age": 54,
       "age_year": 2024,
       "background": "Chair, President and CEO of AMD. Joined the board in 2014.",
@@ -90,10 +95,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Dr. Lisa T. Su"
     },
     {
-      "name": "John E. Caldwell",
+      "name": "John Caldwell",
       "age": 74,
       "age_year": 2024,
       "background": "Former President and CEO of SMTC Corporation. Director since 2006. Lead Independent Director.",
@@ -108,10 +114,11 @@
       "committees": [
         "Audit and Risk Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "John E. Caldwell"
     },
     {
-      "name": "Nora M. Denzel",
+      "name": "Nora Denzel",
       "age": 61,
       "age_year": 2024,
       "background": "Former Interim CEO of Outerwall Inc. and former executive at Intuit and HP. Director since 2014.",
@@ -126,7 +133,8 @@
       "committees": [
         "Compensation and Leadership Resources Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Nora M. Denzel"
     },
     {
       "name": "Mark Durcan",
@@ -144,10 +152,11 @@
       "committees": [
         "Audit and Risk Committee",
         "Compensation and Leadership Resources Committee"
-      ]
+      ],
+      "name_original": "Mark Durcan"
     },
     {
-      "name": "Michael P. Gregoire",
+      "name": "Michael Gregoire",
       "age": 58,
       "age_year": 2024,
       "background": "Former CEO of CA Technologies and Taleo Corporation. Director since 2019.",
@@ -162,10 +171,11 @@
       "committees": [
         "Audit and Risk Committee",
         "Compensation and Leadership Resources Committee"
-      ]
+      ],
+      "name_original": "Michael P. Gregoire"
     },
     {
-      "name": "Joseph A. Householder",
+      "name": "Joseph Householder",
       "age": 68,
       "age_year": 2024,
       "background": "Former President and COO of Sempra Energy. Director since 2014.",
@@ -179,10 +189,11 @@
       ],
       "committees": [
         "Audit and Risk Committee"
-      ]
+      ],
+      "name_original": "Joseph A. Householder"
     },
     {
-      "name": "Jon A. Olson",
+      "name": "Jon Olson",
       "age": 70,
       "age_year": 2024,
       "background": "Former CFO of Xilinx, Inc. Joined AMD board following the Xilinx acquisition in 2022.",
@@ -196,10 +207,11 @@
       ],
       "committees": [
         "Audit and Risk Committee"
-      ]
+      ],
+      "name_original": "Jon A. Olson"
     },
     {
-      "name": "Abhi Y. Talwalkar",
+      "name": "Abhi Talwalkar",
       "age": 60,
       "age_year": 2024,
       "background": "Former President and CEO of LSI Corporation. Director since 2017.",
@@ -214,10 +226,11 @@
       "committees": [
         "Compensation and Leadership Resources Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Abhi Y. Talwalkar"
     },
     {
-      "name": "Elizabeth W. Vanderslice",
+      "name": "Elizabeth Vanderslice",
       "age": 60,
       "age_year": 2024,
       "background": "Former CEO of Wired Digital, Inc. Joined AMD board following the Xilinx acquisition in 2022.",
@@ -232,7 +245,8 @@
       "committees": [
         "Compensation and Leadership Resources Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Elizabeth W. Vanderslice"
     }
   ],
   "sources": [

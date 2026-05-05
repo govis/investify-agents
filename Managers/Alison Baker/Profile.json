@@ -1,0 +1,47 @@
+{
+  "name": "Alison Baker",
+  "first_name": "Alison",
+  "last_name": "Baker",
+  "age": 53,
+  "age_year": 2024,
+  "background": "Ms. Baker has over 25 years of experience in the provision of audit, capital markets and advisory services. She was previously a partner at PwC and EY.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "start_date": "2022-03-23",
+      "end_date": null
+    },
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "LSE",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2020-03-23",
+      "end_date": null
+    },
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "TSX",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2020-03-23",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Audit Committee (Chair)",
+    "ESG Committee",
+    "Human Resources and Compensation Committee",
+    "Technical, Health & Safety Committee"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Robert V. Pragada",
+      "name": "Robert Pragada",
       "age": 55,
       "age_year": 2024,
       "background": "Mr. Pragada has served as Chief Executive Officer since January 2023 and as a Director since joining the Board in 2022. He previously served as President and Chief Operating Officer from 2019 to 2023. He first joined Jacobs in 2006 and held several executive roles before a brief departure to serve as President and CEO of the Brock Group from 2014 to 2016, returning to Jacobs in 2016.",
@@ -17,7 +17,8 @@
           "start_date": "2019-01-01",
           "end_date": "2023-01-01"
         }
-      ]
+      ],
+      "name_original": "Robert V. Pragada"
     },
     {
       "name": "Claudia Jaramillo",
@@ -36,7 +37,8 @@
           "start_date": "2022-01-01",
           "end_date": "2023-08-01"
         }
-      ]
+      ],
+      "name_original": "Claudia Jaramillo"
     },
     {
       "name": "Justin Johnson",
@@ -50,10 +52,11 @@
           "start_date": "2023-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Justin Johnson"
     },
     {
-      "name": "William B. Griffith",
+      "name": "William Griffith",
       "age": 52,
       "age_year": 2024,
       "background": "Mr. Griffith has served as Senior Vice President and Chief Accounting Officer since 2021. He previously served as Vice President and Corporate Controller.",
@@ -64,12 +67,13 @@
           "start_date": "2021-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "William B. Griffith"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Stephen A. Arnette",
+      "name": "Stephen Arnette",
       "age": 54,
       "age_year": 2024,
       "background": "Mr. Arnette has served as a Director since 2024. He is currently the President of the Critical Mission Solutions business at Jacobs.",
@@ -81,10 +85,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Stephen A. Arnette"
     },
     {
-      "name": "Christopher M.B. Galvin",
+      "name": "Christopher Galvin",
       "age": 73,
       "age_year": 2024,
       "background": "Mr. Galvin has served as a Director since 2009. He is the former Chairman and CEO of Motorola, Inc. and is currently Chairman and Co-Founder of Harrison Street Real Estate Capital.",
@@ -99,10 +104,11 @@
       "committees": [
         "Audit Committee",
         "ESG and Risk Committee"
-      ]
+      ],
+      "name_original": "Christopher M.B. Galvin"
     },
     {
-      "name": "Georgette D. Kiser",
+      "name": "Georgette Kiser",
       "age": 56,
       "age_year": 2024,
       "background": "Ms. Kiser has served as a Director since 2019. She is an Operating Executive at The Carlyle Group and previously served as CIO of The Carlyle Group.",
@@ -117,7 +123,8 @@
       "committees": [
         "Audit Committee",
         "Human Resource and Compensation Committee"
-      ]
+      ],
+      "name_original": "Georgette D. Kiser"
     },
     {
       "name": "Barbara Loughran",
@@ -134,10 +141,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Barbara Loughran"
     },
     {
-      "name": "Robert A. McNamara",
+      "name": "Robert McNamara",
       "age": 69,
       "age_year": 2024,
       "background": "Mr. McNamara has served as a Director since 2017. He is the former Group Chief Risk Officer of Lendlease Corporation.",
@@ -152,10 +160,11 @@
       "committees": [
         "ESG and Risk Committee",
         "Human Resource and Compensation Committee"
-      ]
+      ],
+      "name_original": "Robert A. McNamara"
     },
     {
-      "name": "Peter J. Robertson",
+      "name": "Peter Robertson",
       "age": 77,
       "age_year": 2024,
       "background": "Mr. Robertson has served as a Director since 2009. He is the former Vice Chairman of the Board of Chevron Corporation.",
@@ -170,7 +179,8 @@
       "committees": [
         "Nominating and Corporate Governance Committee",
         "Human Resource and Compensation Committee"
-      ]
+      ],
+      "name_original": "Peter J. Robertson"
     }
   ],
   "sources": [

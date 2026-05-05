@@ -1,0 +1,182 @@
+{
+  "executives": [
+    {
+      "name": "Christian Klein",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Christian Klein is CEO and a member of the Executive Board of SAP SE. He has been with SAP since 1999 and has held various positions, including Chief Operating Officer and Chief Controlling Officer.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2019-10-10",
+          "end_date": null
+        },
+        {
+          "title": "Member of the Executive Board",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Christian Klein"
+    },
+    {
+      "name": "Dominik Asam",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Dominik Asam is CFO and a member of the Executive Board of SAP SE. Before joining SAP, he was CFO of Airbus and Infineon Technologies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2023-03-07",
+          "end_date": null
+        }
+      ],
+      "name_original": "Dominik Asam"
+    },
+    {
+      "name": "Muhammad Alam",
+      "age": 50,
+      "age_year": 2024,
+      "background": "Muhammad Alam is a member of the Executive Board of SAP SE, leading SAP Product Engineering. He joined SAP in 2022 from Microsoft.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Executive Board, SAP Product Engineering",
+          "start_date": "2024-04-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Muhammad Alam"
+    },
+    {
+      "name": "Juergen Mueller",
+      "age": 42,
+      "age_year": 2024,
+      "background": "Juergen Mueller was the Chief Technology Officer and a member of the Executive Board. He left the company in September 2024.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Technology Officer",
+          "start_date": "2019-01-01",
+          "end_date": "2024-09-30"
+        }
+      ],
+      "name_original": "Juergen Mueller"
+    },
+    {
+      "name": "Thomas Saueressig",
+      "age": 39,
+      "age_year": 2024,
+      "background": "Thomas Saueressig is a member of the Executive Board of SAP SE, leading Customer Services & Delivery. He has been with SAP since 2004.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Executive Board, Customer Services & Delivery",
+          "start_date": "2024-04-01",
+          "end_date": null
+        },
+        {
+          "title": "Member of the Executive Board, SAP Product Engineering",
+          "start_date": "2019-11-01",
+          "end_date": "2024-03-31"
+        }
+      ],
+      "name_original": "Thomas Saueressig"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Pekka Ala-Pietil\u00e4",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Pekka Ala-Pietil\u00e4 is the Chairman of the Supervisory Board. He was formerly the President of Nokia Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Supervisory Board",
+          "start_date": "2024-05-15",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "General and Compensation Committee",
+        "Strategy Committee"
+      ],
+      "name_original": "Pekka Ala-Pietil\u00e4"
+    },
+    {
+      "name": "Hasso Plattner",
+      "age": 80,
+      "age_year": 2024,
+      "background": "Hasso Plattner is a co-founder of SAP and served as Chairman of the Supervisory Board until May 2024.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Supervisory Board",
+          "start_date": "2003-05-01",
+          "end_date": "2024-05-15"
+        }
+      ],
+      "committees": [],
+      "name_original": "Hasso Plattner"
+    },
+    {
+      "name": "Ajei Gopal",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Ajei Gopal is the President and CEO of ANSYS, Inc. and serves as an independent member of the SAP Supervisory Board.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Member of the Supervisory Board",
+          "start_date": "2018-05-17",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Technology Committee"
+      ],
+      "name_original": "Ajei Gopal"
+    },
+    {
+      "name": "Punit Renjen",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Punit Renjen was the former CEO of Deloitte Global and was designated to succeed Hasso Plattner but stepped down before taking the role.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "role": "Member of the Supervisory Board",
+          "start_date": "2023-05-11",
+          "end_date": "2024-05-15"
+        }
+      ],
+      "committees": [],
+      "name_original": "Punit Renjen"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1000180/000110465924026140/sap-20231231x20f.htm",
+      "source_description": "SAP SE Annual Report on Form 20-F for the fiscal year ended December 31, 2023",
+      "as_of_date": "2024-02-22"
+    },
+    {
+      "source_url": "https://www.sap.com/about/governance/executive-board.html",
+      "source_description": "SAP Official Website - Executive Board Members",
+      "as_of_date": "2024-10-27"
+    },
+    {
+      "source_url": "https://www.sap.com/about/governance/supervisory-board.html",
+      "source_description": "SAP Official Website - Supervisory Board Members",
+      "as_of_date": "2024-10-27"
+    },
+    {
+      "source_url": "https://news.sap.com/2024/05/sap-annual-general-meeting-of-shareholders-2024/",
+      "source_description": "SAP News Release - Results of 2024 Annual General Meeting",
+      "as_of_date": "2024-05-15"
+    }
+  ]
+}

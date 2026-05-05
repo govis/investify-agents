@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Robert K. \"Kelly\" Ortberg",
+      "name": "Robert \"Kelly\" Ortberg",
       "age": 64,
       "age_year": 2024,
       "background": "Mr. Ortberg became President and Chief Executive Officer of Boeing in August 2024. He previously served as CEO of Rockwell Collins and later as CEO of Collins Aerospace after its acquisition by United Technologies.",
@@ -12,10 +12,11 @@
           "start_date": "2024-08-08",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Robert K. \"Kelly\" Ortberg"
     },
     {
-      "name": "Brian J. West",
+      "name": "Brian West",
       "age": 55,
       "age_year": 2024,
       "background": "Mr. West has served as Executive Vice President and Chief Financial Officer since August 2021. Prior to joining Boeing, he was CFO of Refinitiv and Oscar Health.",
@@ -26,7 +27,8 @@
           "start_date": "2021-08-27",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Brian J. West"
     },
     {
       "name": "Stephanie Pope",
@@ -45,7 +47,8 @@
           "start_date": "2024-01-01",
           "end_date": "2024-03-24"
         }
-      ]
+      ],
+      "name_original": "Stephanie Pope"
     },
     {
       "name": "Theodore \"Ted\" Colbert III",
@@ -59,7 +62,8 @@
           "start_date": "2022-04-01",
           "end_date": "2024-09-20"
         }
-      ]
+      ],
+      "name_original": "Theodore \"Ted\" Colbert III"
     },
     {
       "name": "Christopher Raymond",
@@ -73,12 +77,13 @@
           "start_date": "2024-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Christopher Raymond"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Steven M. Mollenkopf",
+      "name": "Steven Mollenkopf",
       "age": 55,
       "age_year": 2024,
       "background": "Independent Chair of the Board. Former CEO of Qualcomm Incorporated. He has extensive experience in engineering and technology leadership.",
@@ -98,10 +103,11 @@
       "committees": [
         "Governance & Public Policy (Chair)",
         "Compensation"
-      ]
+      ],
+      "name_original": "Steven M. Mollenkopf"
     },
     {
-      "name": "Robert K. \"Kelly\" Ortberg",
+      "name": "Robert \"Kelly\" Ortberg",
       "age": 64,
       "age_year": 2024,
       "background": "President and CEO of Boeing. Former CEO of Rockwell Collins.",
@@ -113,10 +119,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Robert K. \"Kelly\" Ortberg"
     },
     {
-      "name": "David L. Gitlin",
+      "name": "David Gitlin",
       "age": 54,
       "age_year": 2024,
       "background": "Chairman and CEO of Carrier Global Corporation. Former President of Collins Aerospace.",
@@ -131,10 +138,11 @@
       "committees": [
         "Audit",
         "Finance"
-      ]
+      ],
+      "name_original": "David L. Gitlin"
     },
     {
-      "name": "Lynn J. Good",
+      "name": "Lynn Good",
       "age": 61,
       "age_year": 2024,
       "background": "Chair, President and CEO of Duke Energy Corporation. Former CFO of Duke Energy.",
@@ -149,10 +157,11 @@
       "committees": [
         "Compensation (Chair)",
         "Audit"
-      ]
+      ],
+      "name_original": "Lynn J. Good"
     },
     {
-      "name": "Stayce D. Harris",
+      "name": "Stayce Harris",
       "age": 65,
       "age_year": 2024,
       "background": "Retired Lieutenant General of the U.S. Air Force. Former Inspector General of the Air Force.",
@@ -167,7 +176,8 @@
       "committees": [
         "Aerospace Safety",
         "Governance & Public Policy"
-      ]
+      ],
+      "name_original": "Stayce D. Harris"
     },
     {
       "name": "Akhil Johri",
@@ -185,10 +195,11 @@
       "committees": [
         "Audit (Chair)",
         "Finance"
-      ]
+      ],
+      "name_original": "Akhil Johri"
     },
     {
-      "name": "David A. Muilenburg",
+      "name": "David Muilenburg",
       "age": 60,
       "age_year": 2024,
       "background": "Former CEO of Boeing. Note: This entry is for historical context as he is no longer on the board.",
@@ -200,7 +211,8 @@
           "end_date": "2019-12-23"
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "David A. Muilenburg"
     },
     {
       "name": "Sabrina Soussan",
@@ -218,7 +230,8 @@
       "committees": [
         "Aerospace Safety",
         "Finance"
-      ]
+      ],
+      "name_original": "Sabrina Soussan"
     }
   ],
   "sources": [

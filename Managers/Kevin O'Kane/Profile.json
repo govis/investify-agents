@@ -1,0 +1,38 @@
+{
+  "name": "Kevin O'Kane",
+  "first_name": "Kevin",
+  "last_name": "O'Kane",
+  "age": 61,
+  "age_year": 2024,
+  "background": "Mr. O'Kane is a mining executive with over 35 years of experience, including senior roles at BHP Billiton and SSR Mining.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "IAMGOLD Corporation",
+      "ticker": "IAG",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2022-02-01",
+      "end_date": null
+    },
+    {
+      "name": "NorthIsle Copper and Gold Inc.",
+      "ticker": "NCX",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "start_date": "2021-05-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Nominating Committee",
+    "Human Resources and Compensation Committee",
+    "Safety, Environment and Sustainability Committee"
+  ]
+}

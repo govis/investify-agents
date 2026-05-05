@@ -1,0 +1,37 @@
+{
+  "name": "Duncan Moore",
+  "first_name": "Duncan",
+  "last_name": "Moore",
+  "age": 64,
+  "age_year": 2024,
+  "background": "Dr. Moore has served as a director since September 2021. He is a partner at East West Capital Partners and has extensive experience in the healthcare and life sciences sectors.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "ASP Isotopes Inc.",
+      "ticker": "ASPI",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "start_date": "2021-09-01",
+      "end_date": null
+    },
+    {
+      "name": "ASP Isotopes Inc.",
+      "ticker": "ASPI",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2022-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "executives": [
+    {
+      "name": "Dean Hanisch",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Hanisch has over 20 years of experience in the financial services industry, specifically in the areas of corporate finance, mergers and acquisitions, and capital markets. He has held various senior management positions with several public and private companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2022-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Dean Hanisch"
+    },
+    {
+      "name": "Robin Goad",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Goad is a professional geologist with over 30 years of experience in the mining and exploration industry. He is the President and CEO of Fortune Minerals Limited and has been involved in the discovery and development of several mineral deposits.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Chairman",
+          "start_date": "2022-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Robin S. Goad"
+    },
+    {
+      "name": "Judith Mazvihwa-MacLean",
+      "age": null,
+      "age_year": null,
+      "background": "Ms. Mazvihwa-MacLean is a geologist and a mining executive with over 20 years of experience in the mining industry. She has held various senior management positions with several public and private companies and is currently the CFO of Fortune Minerals Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2022-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Judith T. Mazvihwa-MacLean"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Dean Hanisch",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Hanisch has over 20 years of experience in the financial services industry, specifically in the areas of corporate finance, mergers and acquisitions, and capital markets.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Dean Hanisch"
+    },
+    {
+      "name": "Robin Goad",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Goad is a professional geologist with over 30 years of experience in the mining and exploration industry. He is the President and CEO of Fortune Minerals Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Robin S. Goad"
+    },
+    {
+      "name": "Jeffrey Goad",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Goad has over 25 years of experience in the financial services industry, specifically in the areas of corporate finance, mergers and acquisitions, and capital markets.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Jeffrey J.S. Goad"
+    },
+    {
+      "name": "Harry Burgess",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Burgess is a mining engineer with over 40 years of experience in the mining industry. He is a co-founder of Micon International Limited and has been involved in the evaluation and development of numerous mineral projects worldwide.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Harry J. Burgess"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://strialithium.com/about-us/management-directors/",
+      "source_description": "Stria Lithium Inc. Official Website - Management & Directors Page",
+      "as_of_date": "2024-05-22"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca/",
+      "source_description": "SEDAR+ Filing - Management Information Circular",
+      "as_of_date": "2023-11-15"
+    }
+  ]
+}

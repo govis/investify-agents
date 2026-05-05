@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Gary E. Dickerson",
+      "name": "Gary Dickerson",
       "age": 67,
       "age_year": 2024,
       "background": "Gary E. Dickerson has been President and Chief Executive Officer of Applied Materials since September 2013 and a member of the Board of Directors since June 2013. Prior to joining Applied, he served as Chief Executive Officer of Varian Semiconductor Equipment Associates, Inc. from 2004 until its acquisition by Applied in 2011. He also spent 18 years at KLA-Tencor Corporation in various leadership roles.",
@@ -12,7 +12,8 @@
           "start_date": "2013-09-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Gary E. Dickerson"
     },
     {
       "name": "Brice Hill",
@@ -26,7 +27,8 @@
           "start_date": "2022-03-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Brice Hill"
     },
     {
       "name": "Omkaram Nalamasu",
@@ -40,7 +42,8 @@
           "start_date": "2011-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Omkaram Nalamasu"
     },
     {
       "name": "Prabu Raja",
@@ -54,10 +57,11 @@
           "start_date": "2023-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Prabu Raja"
     },
     {
-      "name": "Terrell A. Spears",
+      "name": "Terrell Spears",
       "age": 58,
       "age_year": 2024,
       "background": "Terrell Spears is Senior Vice President, Global Operations and Corporate Quality. He joined Applied in 2008 and has led various manufacturing and supply chain organizations.",
@@ -68,12 +72,13 @@
           "start_date": "2020-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Terrell A. Spears"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Thomas J. Iannotti",
+      "name": "Thomas Iannotti",
       "age": 66,
       "age_year": 2024,
       "background": "Thomas Iannotti has been Chairman of the Board since 2017 and a director since 2011. He was previously Senior Vice President and General Manager, Enterprise Services at Hewlett-Packard Company.",
@@ -93,10 +98,11 @@
       "committees": [
         "Corporate Governance and Nominating Committee",
         "Human Resources and Compensation Committee"
-      ]
+      ],
+      "name_original": "Thomas J. Iannotti"
     },
     {
-      "name": "Gary E. Dickerson",
+      "name": "Gary Dickerson",
       "age": 67,
       "age_year": 2024,
       "background": "President and CEO of Applied Materials. See executive profile for details.",
@@ -108,7 +114,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Gary E. Dickerson"
     },
     {
       "name": "Judy Bruner",
@@ -126,10 +133,11 @@
       "committees": [
         "Audit Committee (Chair)",
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Judy Bruner"
     },
     {
-      "name": "Aart J. de Geus",
+      "name": "Aart de Geus",
       "age": 69,
       "age_year": 2024,
       "background": "Dr. de Geus is the co-founder and Executive Chair of Synopsys, Inc. He has served as Synopsys' CEO or co-CEO from 1994 to 2023.",
@@ -144,7 +152,8 @@
       "committees": [
         "Human Resources and Compensation Committee",
         "Investment Committee"
-      ]
+      ],
+      "name_original": "Aart J. de Geus"
     },
     {
       "name": "Rani Borkar",
@@ -162,7 +171,8 @@
       "committees": [
         "Audit Committee",
         "Strategy Committee"
-      ]
+      ],
+      "name_original": "Rani Borkar"
     },
     {
       "name": "Yvonne McGill",
@@ -180,10 +190,11 @@
       "committees": [
         "Audit Committee",
         "Human Resources and Compensation Committee"
-      ]
+      ],
+      "name_original": "Yvonne McGill"
     },
     {
-      "name": "Scott A. McGregor",
+      "name": "Scott McGregor",
       "age": 68,
       "age_year": 2024,
       "background": "Scott McGregor was President and CEO of Broadcom Corporation from 2005 to 2016. He also served as President and CEO of the Philips Semiconductors division of Royal Philips Electronics.",
@@ -198,7 +209,8 @@
       "committees": [
         "Audit Committee",
         "Investment Committee (Chair)"
-      ]
+      ],
+      "name_original": "Scott A. McGregor"
     }
   ],
   "sources": [

@@ -1,0 +1,172 @@
+{
+  "executives": [
+    {
+      "name": "Devinder Randhawa",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Randhawa is an experienced CEO and founder of several successful exploration companies. He was the founder and CEO of Fission Energy Corp. and Fission Uranium Corp. He has a background in finance and has been involved in the resource sector for over 35 years.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2022-11-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Devinder Randhawa"
+    },
+    {
+      "name": "Raymond Ashley",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Ashley has over 35 years of experience in the mineral exploration industry. He was formerly the Vice President, Exploration of Fission Uranium Corp. and Fission Energy Corp. He has been involved in several major uranium discoveries in the Athabasca Basin.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President",
+          "start_date": "2022-11-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Raymond Ashley"
+    },
+    {
+      "name": "Ryan Woodhouse",
+      "age": 41,
+      "age_year": 2024,
+      "background": "Mr. Woodhouse has over 15 years of experience in the mining industry, specializing in financial reporting and corporate compliance. He has served as CFO for several public companies in the resource sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2022-11-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Ryan G. S. J. Woodhouse"
+    },
+    {
+      "name": "Samir Patel",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Patel is a corporate and securities lawyer with over 15 years of experience in the resource sector. He has served as General Counsel and Corporate Secretary for several public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "General Counsel and Corporate Secretary",
+          "start_date": "2022-11-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Samir Patel"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Devinder Randhawa",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Founder and CEO of F3 Uranium Corp. with extensive experience in the uranium sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2022-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Devinder Randhawa"
+    },
+    {
+      "name": "Raymond Ashley",
+      "age": 65,
+      "age_year": 2024,
+      "background": "President of F3 Uranium Corp. and experienced geologist.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Raymond Ashley"
+    },
+    {
+      "name": "Nicky Grant",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Ms. Grant has over 25 years of experience in the financial services and resource sectors. She has held senior positions in corporate finance and investor relations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-05-15",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Nicky Grant"
+    },
+    {
+      "name": "William Marsh",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Marsh is a professional geologist with over 40 years of experience in the mining industry, including senior roles at major mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Technical Committee"
+      ],
+      "name_original": "William Marsh"
+    },
+    {
+      "name": "Richard Kusmirski",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Mr. Kusmirski has over 45 years of experience in the exploration industry and was formerly the President of JNR Resources Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Technical Committee"
+      ],
+      "name_original": "Richard Kusmirski"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://f3uranium.com/about-us/management/",
+      "source_description": "Company Website - Management Team Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://f3uranium.com/about-us/board-of-directors/",
+      "source_description": "Company Website - Board of Directors Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "Management Information Circular dated May 10, 2024",
+      "as_of_date": "2024-05-10"
+    }
+  ]
+}

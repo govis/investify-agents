@@ -1,0 +1,136 @@
+{
+  "executives": [
+    {
+      "name": "John Ciampaglia",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Chief Executive Officer of Sprott Asset Management LP since 2017. Previously, Chief Operating Officer of Sprott Asset Management LP.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ],
+      "name_original": "John Ciampaglia"
+    },
+    {
+      "name": "Varinder Bhathal",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Managing Director, Corporate Finance and Investment Operations of Sprott Inc. since 2017. Chief Financial Officer of Sprott Asset Management LP since 2018.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Treasurer and Chief Financial Officer",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ],
+      "name_original": "Varinder Bhathal"
+    },
+    {
+      "name": "Thomas Ulrich",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Managing Director, General Counsel and Chief Compliance Officer of Sprott Asset Management LP since 2012.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Secretary and Chief Compliance Officer",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ],
+      "name_original": "Thomas W. Ulrich"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "John Ciampaglia",
+      "age": 54,
+      "age_year": 2024,
+      "background": "President of the Trust and CEO of Sprott Asset Management LP.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Interested Trustee",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "John Ciampaglia"
+    },
+    {
+      "name": "Michael Clark",
+      "age": 65,
+      "age_year": 2024,
+      "background": "President of B-Filer Inc. since 2012. Formerly Executive Vice President at Northern Trust.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Trustee",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Governance Committee"
+      ],
+      "name_original": "Michael W. Clark"
+    },
+    {
+      "name": "Barbara Connolly Keady",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Director of New Business Development at Ceres Partners since 2010.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Trustee",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Governance Committee"
+      ],
+      "name_original": "Barbara J. Connolly Keady"
+    },
+    {
+      "name": "Peyton Muldoon",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Licensed Real Estate Salesperson at Sotheby's International Realty since 2011.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Trustee",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Governance Committee"
+      ],
+      "name_original": "Peyton T. Muldoon"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1743781/000113743924001123/sprott485bpos052024.htm",
+      "source_description": "Sprott ETF Trust Post-Effective Amendment No. 101 (Form 485BPOS)",
+      "as_of_date": "2024-05-28"
+    },
+    {
+      "source_url": "https://www.sprottetfs.com/setm-sprott-energy-transition-materials-etf/",
+      "source_description": "Sprott ETFs Official Website - SETM Fund Page",
+      "as_of_date": "2024-10-27"
+    }
+  ]
+}

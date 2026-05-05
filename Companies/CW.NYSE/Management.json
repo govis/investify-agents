@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Lynn M. Bamford",
+      "name": "Lynn Bamford",
       "age": 61,
       "age_year": 2024,
       "background": "Ms. Bamford has served as Chair of the Board of Directors since May 2022 and Chief Executive Officer since January 2021. She previously served as President and Chief Operating Officer from January 2020 to January 2021. She has been with the Company since 2004.",
@@ -22,10 +22,11 @@
           "start_date": "2021-01-01",
           "end_date": "2024-01-01"
         }
-      ]
+      ],
+      "name_original": "Lynn M. Bamford"
     },
     {
-      "name": "K. Christopher Farkas",
+      "name": "Christopher Farkas",
       "age": 55,
       "age_year": 2024,
       "background": "Mr. Farkas has served as Vice President and Chief Financial Officer since May 2021. He previously served as Vice President and Corporate Controller from 2014 to 2021.",
@@ -36,10 +37,11 @@
           "start_date": "2021-05-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "K. Christopher Farkas"
     },
     {
-      "name": "Paul J. Ferdenzi",
+      "name": "Paul Ferdenzi",
       "age": 59,
       "age_year": 2024,
       "background": "Mr. Ferdenzi has served as Vice President, General Counsel, and Corporate Secretary since 2011. He has been with the Company since 1999.",
@@ -50,12 +52,13 @@
           "start_date": "2011-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Paul J. Ferdenzi"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Lynn M. Bamford",
+      "name": "Lynn Bamford",
       "age": 61,
       "age_year": 2024,
       "background": "Chair and CEO of Curtiss-Wright Corporation.",
@@ -67,10 +70,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Lynn M. Bamford"
     },
     {
-      "name": "David C. Adams",
+      "name": "David Adams",
       "age": 70,
       "age_year": 2024,
       "background": "Former Chairman and CEO of Curtiss-Wright Corporation. He retired as CEO in 2021 and as Chairman in 2022.",
@@ -82,10 +86,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "David C. Adams"
     },
     {
-      "name": "Glenda J. Minor",
+      "name": "Glenda Minor",
       "age": 67,
       "age_year": 2024,
       "background": "Chief Executive Officer and Principal of Silket Advisory Services. Former Senior Vice President and CFO of Evraz North America Limited.",
@@ -100,10 +105,11 @@
       "committees": [
         "Audit Committee",
         "Finance Committee"
-      ]
+      ],
+      "name_original": "Glenda J. Minor"
     },
     {
-      "name": "Robert J. Rivet",
+      "name": "Robert Rivet",
       "age": 70,
       "age_year": 2024,
       "background": "Former Executive Vice President, Chief Operations and Administrative Officer of Advanced Micro Devices, Inc.",
@@ -118,10 +124,11 @@
       "committees": [
         "Audit Committee",
         "Executive Compensation Committee"
-      ]
+      ],
+      "name_original": "Robert J. Rivet"
     },
     {
-      "name": "Admiral (Ret.) Michelle J. Howard",
+      "name": "Michelle Howard",
       "age": 63,
       "age_year": 2024,
       "background": "Retired Admiral of the United States Navy. Former Commander of U.S. Naval Forces Europe and U.S. Naval Forces Africa.",
@@ -136,7 +143,8 @@
       "committees": [
         "Committee on Corporate Governance",
         "Finance Committee"
-      ]
+      ],
+      "name_original": "Admiral (Ret.) Michelle J. Howard"
     }
   ],
   "sources": [

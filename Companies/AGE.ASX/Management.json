@@ -1,0 +1,161 @@
+{
+  "executives": [
+    {
+      "name": "Greg Hall",
+      "age": null,
+      "age_year": null,
+      "background": "Greg Hall is a Mining Engineer with over 35 years' experience in the resources sector, specifically in uranium, copper, and gold. He has held senior executive roles at WMC Resources and Rio Tinto, including as Mine Manager of Olympic Dam and Ranger Uranium Mine. He was the founding CEO of Toro Energy Limited and has served as a director of the Australian Uranium Association.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2015-05-01",
+          "end_date": null
+        },
+        {
+          "title": "Managing Director",
+          "start_date": "2015-05-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Greg Hall"
+    },
+    {
+      "name": "Andrea Marsland-Smith",
+      "age": null,
+      "age_year": null,
+      "background": "Dr. Andrea Marsland-Smith is a geologist with over 20 years' experience in the uranium industry. She was previously the Head of Exploration for Heathgate Resources (owner of the Beverley Uranium Mine) and is credited with the discovery of the Four Mile uranium deposit in South Australia.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2024-02-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Andrea Marsland-Smith"
+    },
+    {
+      "name": "Simon Slesarewich",
+      "age": null,
+      "age_year": null,
+      "background": "Simon Slesarewich is a mining engineer with over 25 years' experience in the resources industry. He has held various executive and operational roles, including CEO of Northern Graphite and Boardwalk Resources. He has significant experience in project development and operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Development Officer",
+          "start_date": "2024-02-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Simon Slesarewich"
+    },
+    {
+      "name": "Andrea Betti",
+      "age": null,
+      "age_year": null,
+      "background": "Andrea Betti is an accounting and corporate governance professional with over 20 years' experience in the resources sector. she has acted as Company Secretary for several ASX-listed companies and has experience in corporate advisory and financial management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Company Secretary",
+          "start_date": "2023-10-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Andrea Betti"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Paul Lloyd",
+      "age": null,
+      "age_year": null,
+      "background": "Paul Lloyd is a Chartered Accountant with over 30 years' experience in corporate finance and the resources industry. He has been involved in the listing of several exploration and mining companies on the ASX and has served as a director and chairman of various listed entities.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Chairman",
+          "start_date": "2010-10-15",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee",
+        "Remuneration and Nomination Committee"
+      ],
+      "name_original": "Paul Lloyd"
+    },
+    {
+      "name": "Greg Hall",
+      "age": null,
+      "age_year": null,
+      "background": "Greg Hall is a Mining Engineer with over 35 years' experience in the resources sector, specifically in uranium, copper, and gold. He has held senior executive roles at WMC Resources and Rio Tinto, including as Mine Manager of Olympic Dam and Ranger Uranium Mine.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Managing Director",
+          "start_date": "2015-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Greg Hall"
+    },
+    {
+      "name": "Peter Wasow",
+      "age": null,
+      "age_year": null,
+      "background": "Peter Wasow has over 30 years' experience in the resources and energy sectors. He was previously the Managing Director and CEO of Alumina Limited and held senior executive roles at Santos Limited and BHP. He has extensive experience in financial management, strategy, and corporate governance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2020-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee (Chair)",
+        "Remuneration and Nomination Committee"
+      ],
+      "name_original": "Peter Wasow"
+    },
+    {
+      "name": "Fiona Nicholls",
+      "age": null,
+      "age_year": null,
+      "background": "Fiona Nicholls is an environmental scientist with over 30 years' experience in the resources sector, specifically in ESG, sustainability, and external relations. She held senior executive roles at Rio Tinto and has served on various government and industry advisory bodies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2022-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee",
+        "Remuneration and Nomination Committee (Chair)"
+      ],
+      "name_original": "Fiona Nicholls"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.alligatorenergy.com.au/about-us/board-management/",
+      "source_description": "Official Company Website - Board and Management Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.alligatorenergy.com.au/wp-content/uploads/2023/10/AGE-Annual-Report-2023.pdf",
+      "source_description": "Alligator Energy Limited Annual Report 2023",
+      "as_of_date": "2023-06-30"
+    },
+    {
+      "source_url": "https://www.asx.com.au/asx/statistics/announcements.do?by=asxCode&asxCode=AGE&timeframe=D&period=M6",
+      "source_description": "ASX Announcements for Alligator Energy Limited (AGE)",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

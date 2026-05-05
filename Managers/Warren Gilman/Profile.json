@@ -1,0 +1,46 @@
+{
+  "name": "Warren Gilman",
+  "first_name": "Warren",
+  "last_name": "Gilman",
+  "age": 64,
+  "age_year": 2023,
+  "background": "Chairman and CEO of Queen\u2019s Road Capital Investment Ltd. Former Chairman and CEO of CEF Holdings.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Gold Royalty Corp.",
+      "ticker": "GROY",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2020-06-23",
+      "end_date": null
+    },
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2017-01-01",
+      "end_date": null
+    },
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "start_date": "2017-05-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Governance Committee",
+    "Nominating and Corporate Governance Committee"
+  ]
+}

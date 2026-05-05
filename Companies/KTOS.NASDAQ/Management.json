@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Eric M. DeMarco",
+      "name": "Eric DeMarco",
       "age": 61,
       "age_year": 2024,
       "background": "Mr. DeMarco has served as our President and Chief Executive Officer since April 2004 and as a director since 2003. He previously served as President and COO of Titan Corporation.",
@@ -12,10 +12,11 @@
           "start_date": "2004-04-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Eric M. DeMarco"
     },
     {
-      "name": "Deanna H. Lund",
+      "name": "Deanna Lund",
       "age": 56,
       "age_year": 2024,
       "background": "Ms. Lund has served as our Executive Vice President and Chief Financial Officer since April 2004. She previously served as Vice President and Corporate Controller of Titan Corporation.",
@@ -26,10 +27,11 @@
           "start_date": "2004-04-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Deanna H. Lund"
     },
     {
-      "name": "Jonah J. Adelman",
+      "name": "Jonah Adelman",
       "age": 72,
       "age_year": 2024,
       "background": "Mr. Adelman has served as President of our Microwave Electronics Division since our acquisition of General Microwave Corporation in 2008.",
@@ -40,10 +42,11 @@
           "start_date": "2008-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Jonah J. Adelman"
     },
     {
-      "name": "Steven S. Fendley",
+      "name": "Steven Fendley",
       "age": 57,
       "age_year": 2024,
       "background": "Mr. Fendley has served as President of our Unmanned Systems Division since 2017. He previously served as Senior Vice President of General Atomics Aeronautical Systems.",
@@ -54,10 +57,11 @@
           "start_date": "2017-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Steven S. Fendley"
     },
     {
-      "name": "Phillip D. Carrai",
+      "name": "Phillip Carrai",
       "age": 62,
       "age_year": 2024,
       "background": "Mr. Carrai has served as President of our Space, Training and Cybersecurity Division since 2009. He previously served as CEO of Ai-Metrix.",
@@ -68,7 +72,8 @@
           "start_date": "2009-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Phillip D. Carrai"
     },
     {
       "name": "Marie Mendoza",
@@ -82,12 +87,13 @@
           "start_date": "2015-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Marie Mendoza"
     }
   ],
   "board_of_directors": [
     {
-      "name": "William H. Hoglund",
+      "name": "William Hoglund",
       "age": 70,
       "age_year": 2024,
       "background": "Mr. Hoglund has served as a director since 2001 and as Chairman of the Board since 2023. He is a retired executive from General Motors.",
@@ -107,10 +113,11 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "William H. Hoglund"
     },
     {
-      "name": "Eric M. DeMarco",
+      "name": "Eric DeMarco",
       "age": 61,
       "age_year": 2024,
       "background": "President and CEO of Kratos Defense & Security Solutions, Inc.",
@@ -122,7 +129,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Eric M. DeMarco"
     },
     {
       "name": "Scott Anderson",
@@ -140,10 +148,11 @@
       "committees": [
         "Audit Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Scott Anderson"
     },
     {
-      "name": "Jane E. Judd",
+      "name": "Jane Judd",
       "age": 65,
       "age_year": 2024,
       "background": "Ms. Judd has served as a director since 2012. She is a retired partner from KPMG LLP.",
@@ -157,10 +166,11 @@
       ],
       "committees": [
         "Audit Committee (Chair)"
-      ]
+      ],
+      "name_original": "Jane E. Judd"
     },
     {
-      "name": "Amy J. Zegart",
+      "name": "Amy Zegart",
       "age": 56,
       "age_year": 2024,
       "background": "Dr. Zegart has served as a director since 2014. She is a Senior Fellow at the Hoover Institution and a Professor of Political Science at Stanford University.",
@@ -174,10 +184,11 @@
       ],
       "committees": [
         "Nominating and Corporate Governance Committee (Chair)"
-      ]
+      ],
+      "name_original": "Amy J. Zegart"
     },
     {
-      "name": "Daniel M. Goure",
+      "name": "Daniel Goure",
       "age": 71,
       "age_year": 2024,
       "background": "Dr. Goure has served as a director since 2015. He is a Vice President at the Lexington Institute.",
@@ -191,10 +202,11 @@
       ],
       "committees": [
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Daniel M. Goure"
     },
     {
-      "name": "Samuel N. Grubbs",
+      "name": "Samuel Grubbs",
       "age": 68,
       "age_year": 2024,
       "background": "Mr. Grubbs has served as a director since 2018. He is a retired executive from the defense industry.",
@@ -208,7 +220,8 @@
       ],
       "committees": [
         "Compensation Committee (Chair)"
-      ]
+      ],
+      "name_original": "Samuel N. Grubbs"
     }
   ],
   "sources": [

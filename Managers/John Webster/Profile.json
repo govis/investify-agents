@@ -1,0 +1,27 @@
+{
+  "name": "John Webster",
+  "first_name": "John",
+  "last_name": "Webster",
+  "age": 71,
+  "age_year": 2024,
+  "background": "John Webster is a Chartered Professional Accountant and former partner at PricewaterhouseCoopers LLP with over 30 years of experience.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Eldorado Gold Corporation",
+      "ticker": "EGO",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2016-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ]
+}

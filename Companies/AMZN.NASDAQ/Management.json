@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Jeffrey P. Bezos",
+      "name": "Jeffrey Bezos",
       "age": 60,
       "age_year": 2024,
       "background": "Jeffrey P. Bezos is the founder of Amazon and has served as Executive Chair since July 2021. He founded the company in 1994 and served as CEO from then until July 2021.",
@@ -17,10 +17,11 @@
           "start_date": "1994-05-01",
           "end_date": "2021-07-05"
         }
-      ]
+      ],
+      "name_original": "Jeffrey P. Bezos"
     },
     {
-      "name": "Andrew R. Jassy",
+      "name": "Andrew Jassy",
       "age": 56,
       "age_year": 2024,
       "background": "Andrew R. Jassy has been President and CEO of Amazon since July 2021. He previously served as CEO of Amazon Web Services (AWS) from April 2016 to July 2021 and joined the company in 1997.",
@@ -36,10 +37,11 @@
           "start_date": "2016-04-01",
           "end_date": "2021-07-05"
         }
-      ]
+      ],
+      "name_original": "Andrew R. Jassy"
     },
     {
-      "name": "Douglas J. Herrington",
+      "name": "Douglas Herrington",
       "age": 57,
       "age_year": 2024,
       "background": "Douglas J. Herrington has been CEO of Worldwide Amazon Stores since July 2022. He joined Amazon in 2005 and previously served as Senior Vice President, North America Consumer.",
@@ -50,10 +52,11 @@
           "start_date": "2022-07-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Douglas J. Herrington"
     },
     {
-      "name": "Adam N. Selipsky",
+      "name": "Adam Selipsky",
       "age": 57,
       "age_year": 2024,
       "background": "Adam N. Selipsky was CEO of Amazon Web Services from May 2021 to June 2024. He previously served as President and CEO of Tableau Software.",
@@ -64,10 +67,11 @@
           "start_date": "2021-05-17",
           "end_date": "2024-06-03"
         }
-      ]
+      ],
+      "name_original": "Adam N. Selipsky"
     },
     {
-      "name": "Brian T. Olsavsky",
+      "name": "Brian Olsavsky",
       "age": 60,
       "age_year": 2024,
       "background": "Brian T. Olsavsky has been Senior Vice President and CFO since June 2015. He joined Amazon in 2002 and has held various financial leadership roles.",
@@ -78,10 +82,11 @@
           "start_date": "2015-06-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Brian T. Olsavsky"
     },
     {
-      "name": "David A. Zapolsky",
+      "name": "David Zapolsky",
       "age": 60,
       "age_year": 2024,
       "background": "David A. Zapolsky has been Senior Vice President, Global Public Policy and General Counsel since 2023. He joined Amazon in 1999.",
@@ -92,12 +97,13 @@
           "start_date": "2023-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "David A. Zapolsky"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Jeffrey P. Bezos",
+      "name": "Jeffrey Bezos",
       "age": 60,
       "age_year": 2024,
       "background": "Founder and Executive Chair of Amazon.com, Inc.",
@@ -109,10 +115,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Jeffrey P. Bezos"
     },
     {
-      "name": "Andrew R. Jassy",
+      "name": "Andrew Jassy",
       "age": 56,
       "age_year": 2024,
       "background": "President and CEO of Amazon.com, Inc.",
@@ -124,10 +131,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Andrew R. Jassy"
     },
     {
-      "name": "Keith B. Alexander",
+      "name": "Keith Alexander",
       "age": 72,
       "age_year": 2024,
       "background": "Former Director of the National Security Agency and former Commander of U.S. Cyber Command.",
@@ -141,10 +149,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Keith B. Alexander"
     },
     {
-      "name": "Edith W. Cooper",
+      "name": "Edith Cooper",
       "age": 62,
       "age_year": 2024,
       "background": "Co-founder of Medley and former Global Head of Human Capital Management at Goldman Sachs.",
@@ -158,10 +167,11 @@
       ],
       "committees": [
         "Leadership Development and Compensation Committee"
-      ]
+      ],
+      "name_original": "Edith W. Cooper"
     },
     {
-      "name": "Jamie S. Gorelick",
+      "name": "Jamie Gorelick",
       "age": 73,
       "age_year": 2024,
       "background": "Partner at Wilmer Cutler Pickering Hale and Dorr LLP and former Deputy Attorney General of the United States.",
@@ -175,10 +185,11 @@
       ],
       "committees": [
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Jamie S. Gorelick"
     },
     {
-      "name": "Daniel P. Huttenlocher",
+      "name": "Daniel Huttenlocher",
       "age": 65,
       "age_year": 2024,
       "background": "Dean of the MIT Schwarzman College of Computing.",
@@ -192,10 +203,11 @@
       ],
       "committees": [
         "Leadership Development and Compensation Committee"
-      ]
+      ],
+      "name_original": "Daniel P. Huttenlocher"
     },
     {
-      "name": "Judith A. McGrath",
+      "name": "Judith McGrath",
       "age": 71,
       "age_year": 2024,
       "background": "Former Chairman and CEO of MTV Networks.",
@@ -209,10 +221,11 @@
       ],
       "committees": [
         "Leadership Development and Compensation Committee"
-      ]
+      ],
+      "name_original": "Judith A. McGrath"
     },
     {
-      "name": "Indra K. Nooyi",
+      "name": "Indra Nooyi",
       "age": 68,
       "age_year": 2024,
       "background": "Former Chairman and CEO of PepsiCo, Inc.",
@@ -226,10 +239,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Indra K. Nooyi"
     },
     {
-      "name": "Jonathan J. Rubinstein",
+      "name": "Jonathan Rubinstein",
       "age": 67,
       "age_year": 2024,
       "background": "Former co-CEO of Bridgewater Associates and former Senior Vice President at Apple Inc.",
@@ -243,10 +257,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Jonathan J. Rubinstein"
     },
     {
-      "name": "Brad D. Smith",
+      "name": "Brad Smith",
       "age": 60,
       "age_year": 2024,
       "background": "President of Marshall University and former Chairman and CEO of Intuit Inc.",
@@ -260,10 +275,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Brad D. Smith"
     },
     {
-      "name": "Patricia Q. Stonesifer",
+      "name": "Patricia Stonesifer",
       "age": 67,
       "age_year": 2024,
       "background": "Former CEO of Martha's Table and former CEO of the Bill & Melinda Gates Foundation.",
@@ -277,10 +293,11 @@
       ],
       "committees": [
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Patricia Q. Stonesifer"
     },
     {
-      "name": "Wendell P. Weeks",
+      "name": "Wendell Weeks",
       "age": 64,
       "age_year": 2024,
       "background": "Chairman and CEO of Corning Incorporated.",
@@ -294,7 +311,8 @@
       ],
       "committees": [
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Wendell P. Weeks"
     }
   ],
   "sources": [

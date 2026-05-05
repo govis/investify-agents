@@ -1,0 +1,33 @@
+{
+  "name": "Bonn Smith",
+  "first_name": "Bonn",
+  "last_name": "Smith",
+  "age": 42,
+  "age_year": 2024,
+  "background": "Mr. Smith has over 20 years of experience in the capital markets, specializing in corporate development and investor relations for resource companies.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "GoldHaven Resources Corp.",
+      "ticker": "GOH",
+      "exchange": "CSE",
+      "title_or_role": "Chief Executive Officer, Director",
+      "start_date": "2023-05-15",
+      "end_date": null
+    },
+    {
+      "name": "GoldHaven Resources Corp.",
+      "ticker": "GOH",
+      "exchange": "TSX",
+      "title_or_role": "Chief Executive Officer, Director",
+      "start_date": "2023-05-15",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": []
+}

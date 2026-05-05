@@ -1,0 +1,35 @@
+{
+  "name": "Louis-Pierre Gignac",
+  "first_name": "Louis-Pierre",
+  "last_name": "Gignac",
+  "age": 48,
+  "age_year": 2024,
+  "background": "Mr. Gignac is the President and CEO of G Mining Ventures Corp. and has over 20 years of experience in the mining industry. He holds a degree in mining engineering from McGill University and an MBA from HEC Montreal.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Consolidated Lithium Metals Inc.",
+      "ticker": "CLM",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "start_date": "2022-11-01",
+      "end_date": null
+    },
+    {
+      "name": "G Mining Ventures Corp.",
+      "ticker": "GMIN",
+      "exchange": "TSX",
+      "title_or_role": "Director, President & Chief Executive Officer",
+      "start_date": "2020-11-25",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ]
+}

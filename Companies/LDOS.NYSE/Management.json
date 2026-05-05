@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Thomas A. Bell",
+      "name": "Thomas Bell",
       "age": 61,
       "age_year": 2024,
       "background": "Thomas A. Bell has served as our Chief Executive Officer since May 2023. Prior to joining Leidos, Mr. Bell was President of Defense at Rolls-Royce and Chairman and CEO of Rolls-Royce North America. He also previously served as Senior Vice President of Global Strategy and Business Development at Boeing Defense, Space & Security.",
@@ -12,10 +12,11 @@
           "start_date": "2023-05-03",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Thomas A. Bell"
     },
     {
-      "name": "Christopher R. Cage",
+      "name": "Christopher Cage",
       "age": 55,
       "age_year": 2024,
       "background": "Christopher R. Cage has served as our Chief Financial Officer since July 2022. He previously served as Senior Vice President and Chief Accounting Officer from 2016 to 2022. He has been with the company and its predecessor since 1996.",
@@ -31,10 +32,11 @@
           "start_date": "2016-01-01",
           "end_date": "2022-07-05"
         }
-      ]
+      ],
+      "name_original": "Christopher R. Cage"
     },
     {
-      "name": "Gerard A. Fasano",
+      "name": "Gerard Fasano",
       "age": 61,
       "age_year": 2024,
       "background": "Gerard A. Fasano has served as President of the Defense Systems Sector since January 2024. He previously served as President of the Defense Group from 2018 to 2023. He joined Leidos in 2016 following the Lockheed Martin IS&GS merger.",
@@ -50,10 +52,11 @@
           "start_date": "2018-01-01",
           "end_date": "2023-12-31"
         }
-      ]
+      ],
+      "name_original": "Gerard A. Fasano"
     },
     {
-      "name": "James G. Reagan",
+      "name": "James Reagan",
       "age": 61,
       "age_year": 2024,
       "background": "James G. Reagan has served as our Executive Vice President and General Counsel since 2017. Prior to joining Leidos, he was Senior Vice President and General Counsel at Vencore, Inc.",
@@ -64,12 +67,13 @@
           "start_date": "2017-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "James G. Reagan"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Robert S. Shapard",
+      "name": "Robert Shapard",
       "age": 68,
       "age_year": 2024,
       "background": "Robert S. Shapard has served as the independent Chairman of the Board since 2022. He was previously the Chairman and CEO of Oncor Electric Delivery Company LLC.",
@@ -83,10 +87,11 @@
       ],
       "committees": [
         "Corporate Governance and Ethics Committee"
-      ]
+      ],
+      "name_original": "Robert S. Shapard"
     },
     {
-      "name": "Thomas A. Bell",
+      "name": "Thomas Bell",
       "age": 61,
       "age_year": 2024,
       "background": "Thomas A. Bell is the Chief Executive Officer of Leidos. He joined the board upon his appointment as CEO in May 2023.",
@@ -98,10 +103,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Thomas A. Bell"
     },
     {
-      "name": "Gregory R. Dahlberg",
+      "name": "Gregory Dahlberg",
       "age": 72,
       "age_year": 2024,
       "background": "Gregory R. Dahlberg previously served as Senior Vice President for Strategic Planning at Lockheed Martin Corporation and as Under Secretary of the Army.",
@@ -116,10 +122,11 @@
       "committees": [
         "Audit Committee",
         "Finance Committee"
-      ]
+      ],
+      "name_original": "Gregory R. Dahlberg"
     },
     {
-      "name": "David G. Fubini",
+      "name": "David Fubini",
       "age": 70,
       "age_year": 2024,
       "background": "David G. Fubini is a Senior Lecturer at Harvard Business School and a Director Emeritus of McKinsey & Company.",
@@ -134,10 +141,11 @@
       "committees": [
         "Human Resources and Compensation Committee",
         "Corporate Governance and Ethics Committee"
-      ]
+      ],
+      "name_original": "David G. Fubini"
     },
     {
-      "name": "Miriam E. John",
+      "name": "Miriam John",
       "age": 75,
       "age_year": 2024,
       "background": "Dr. Miriam E. John is a retired Vice President of Sandia National Laboratories and serves on various government advisory boards.",
@@ -152,10 +160,11 @@
       "committees": [
         "Corporate Governance and Ethics Committee",
         "Technology and Information Security Committee"
-      ]
+      ],
+      "name_original": "Miriam E. John"
     },
     {
-      "name": "Surya N. Mohapatra",
+      "name": "Surya Mohapatra",
       "age": 74,
       "age_year": 2024,
       "background": "Dr. Surya N. Mohapatra was formerly the Chairman, President and CEO of Quest Diagnostics Incorporated.",
@@ -170,7 +179,8 @@
       "committees": [
         "Human Resources and Compensation Committee",
         "Finance Committee"
-      ]
+      ],
+      "name_original": "Surya N. Mohapatra"
     }
   ],
   "sources": [

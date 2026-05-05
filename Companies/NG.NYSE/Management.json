@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Gregory A. Lang",
+      "name": "Gregory Lang",
       "age": 63,
       "age_year": 2024,
       "background": "Mr. Lang has over 40 years of experience in the mining industry. Prior to joining NOVAGOLD, he served as President of Barrick Gold North America. He has held various senior executive positions at Barrick Gold Corporation and Homestake Mining Company.",
@@ -12,10 +12,11 @@
           "start_date": "2012-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Gregory A. Lang"
     },
     {
-      "name": "David A. Ottewell",
+      "name": "David Ottewell",
       "age": 56,
       "age_year": 2024,
       "background": "Mr. Ottewell has over 30 years of mining industry experience. Before joining NOVAGOLD, he was Vice President and Controller of Newmont Mining Corporation. He is a Certified Public Accountant.",
@@ -26,7 +27,8 @@
           "start_date": "2012-11-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "David A. Ottewell"
     },
     {
       "name": "Ron Rimelman",
@@ -40,7 +42,8 @@
           "start_date": "2011-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Ron Rimelman"
     },
     {
       "name": "Richard Williams",
@@ -54,7 +57,8 @@
           "start_date": "2014-10-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Richard Williams"
     },
     {
       "name": "Tricia Pannier",
@@ -68,12 +72,13 @@
           "start_date": "2014-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Tricia Pannier"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Thomas S. Kaplan",
+      "name": "Thomas Kaplan",
       "age": 61,
       "age_year": 2024,
       "background": "Dr. Kaplan is the Chairman of the Board and has been a director since 2008. He is an entrepreneur and investor in the natural resources sector and is the Chairman and CEO of The Electrum Group LLC.",
@@ -85,10 +90,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Thomas S. Kaplan"
     },
     {
-      "name": "Gregory A. Lang",
+      "name": "Gregory Lang",
       "age": 63,
       "age_year": 2024,
       "background": "Mr. Lang is the President and CEO of the Company and has over 40 years of experience in the mining industry.",
@@ -100,7 +106,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Gregory A. Lang"
     },
     {
       "name": "Elaine Dorward-King",
@@ -118,10 +125,11 @@
       "committees": [
         "Corporate Governance and Nominating Committee",
         "Health, Safety, Environment and Sustainability Committee"
-      ]
+      ],
+      "name_original": "Elaine Dorward-King"
     },
     {
-      "name": "Diane R. Garrett",
+      "name": "Diane Garrett",
       "age": 61,
       "age_year": 2024,
       "background": "Dr. Garrett has more than 25 years of experience in the mining industry. She is currently the President and CEO of Hycroft Mining Holding Corporation.",
@@ -136,10 +144,11 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Diane R. Garrett"
     },
     {
-      "name": "Christopher L. Mancini",
+      "name": "Christopher Mancini",
       "age": 65,
       "age_year": 2024,
       "background": "Mr. Mancini is a research analyst at Gabelli Funds with over 30 years of experience in the investment industry, focusing on the metals and mining sector.",
@@ -153,10 +162,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Christopher L. Mancini"
     },
     {
-      "name": "Kalidas V. Madhavpeddi",
+      "name": "Kalidas Madhavpeddi",
       "age": 68,
       "age_year": 2024,
       "background": "Mr. Madhavpeddi has over 40 years of experience in the international mining industry. He is the former CEO of China Molybdenum International and held senior roles at Phelps Dodge.",
@@ -171,7 +181,8 @@
       "committees": [
         "Compensation Committee",
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Kalidas V. Madhavpeddi"
     },
     {
       "name": "Ethan Schapira",
@@ -189,10 +200,11 @@
       "committees": [
         "Audit Committee",
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Ethan Schapira"
     },
     {
-      "name": "Anthony P. Walsh",
+      "name": "Anthony Walsh",
       "age": 69,
       "age_year": 2024,
       "background": "Mr. Walsh has over 35 years of experience in the mining industry and was the President and CEO of Miramar Mining Corporation.",
@@ -207,7 +219,8 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Anthony P. Walsh"
     },
     {
       "name": "Dawn Whittaker",
@@ -225,7 +238,8 @@
       "committees": [
         "Compensation Committee",
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Dawn Whittaker"
     }
   ],
   "sources": [

@@ -1,0 +1,192 @@
+{
+  "executives": [
+    {
+      "name": "Trey Wasser",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Wasser has over 40 years of experience in the financial services and mining industries. He is currently the CEO of Dryden Gold Corp. and was previously the President and CEO of Ely Gold Royalties Inc. until its acquisition by Gold Royalty Corp. in 2021. He has extensive experience in capital markets and corporate development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2022-10-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2022-10-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Trey Wasser"
+    },
+    {
+      "name": "Maura Kolb",
+      "age": 39,
+      "age_year": 2024,
+      "background": "Ms. Kolb is a professional geologist with over 15 years of experience in the mining industry. She previously served as the Director of Exploration for Treasury Metals and held various roles at Newmont's Musselwhite Mine. She holds a Master of Science in Geology.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President",
+          "start_date": "2023-08-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Maura Kolb"
+    },
+    {
+      "name": "Ashley Kirwan",
+      "age": 38,
+      "age_year": 2024,
+      "background": "Ms. Kirwan is a professional geologist with over 15 years of experience. She is the co-founder, President, and CEO of Orix Geoscience Inc. She has worked with numerous exploration and mining companies globally.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Exploration",
+          "start_date": "2022-10-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2022-10-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Ashley S.S.S. (Ashley) Kirwan"
+    },
+    {
+      "name": "Anais Sasseville",
+      "age": 35,
+      "age_year": 2024,
+      "background": "Ms. Sasseville has over 10 years of experience in corporate communications and investor relations within the mining sector. She previously worked with Ely Gold Royalties and Gold Royalty Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Corporate Communications",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Anais G. (Anais) Sasseville"
+    },
+    {
+      "name": "Steve Polakow",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Polakow has over 35 years of experience in financial management and corporate governance. He has served as CFO for several public and private companies in the resource sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2022-10-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Stephen J. (Steve) Polakow"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Trey Wasser",
+      "age": 64,
+      "age_year": 2024,
+      "background": "CEO of Dryden Gold Corp. and former CEO of Ely Gold Royalties Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Trey Wasser"
+    },
+    {
+      "name": "Ashley Kirwan",
+      "age": 38,
+      "age_year": 2024,
+      "background": "Co-founder and CEO of Orix Geoscience Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Ashley S.S.S. (Ashley) Kirwan"
+    },
+    {
+      "name": "Benoit Lafrance",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Dr. Lafrance is a geologist with over 25 years of experience in mineral exploration and academia. He is currently a Professor at Laurentian University and has served on the boards of several exploration companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Benoit Lafrance"
+    },
+    {
+      "name": "Rob Carpenter",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Dr. Carpenter is a professional geologist with over 30 years of experience. He was the co-founder and President/CEO of Kaminak Gold Corp., which was acquired by Goldcorp for $520 million.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Robert (Rob) J. (Rob) Carpenter"
+    },
+    {
+      "name": "Darwin Green",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Mr. Green is the President and CEO of HighGold Mining Inc. He has over 25 years of experience in the mining industry, specializing in exploration and project development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Darwin Green"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://drydengold.com/about-us/management-and-directors/",
+      "source_description": "Dryden Gold Corp. Official Website - Management and Directors Page",
+      "as_of_date": "2024-05-22"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "SEDAR+ Filing - Management Information Circular dated April 15, 2024",
+      "as_of_date": "2024-04-15"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Candace MacGibbon",
+  "first_name": "Candace",
+  "last_name": "MacGibbon",
+  "age": 52,
+  "age_year": 2024,
+  "background": "Ms. MacGibbon is a Chartered Professional Accountant with over 25 years of experience in the mining sector and capital markets.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "NorthIsle Copper and Gold Inc.",
+      "ticker": "NCX",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "start_date": "2023-06-01",
+      "end_date": null
+    },
+    {
+      "name": "Osisko Gold Royalties Ltd",
+      "ticker": "OR",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2021-05-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Human Resources Committee"
+  ]
+}

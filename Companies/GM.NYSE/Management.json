@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Mary T. Barra",
+      "name": "Mary Barra",
       "age": 62,
       "age_year": 2024,
       "background": "Mary T. Barra has been Chair and CEO of GM since 2016 and 2014, respectively. She has held various leadership positions at GM since 1980, including Executive Vice President, Global Product Development, Purchasing and Supply Chain.",
@@ -12,10 +12,11 @@
           "start_date": "2014-01-15",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Mary T. Barra"
     },
     {
-      "name": "Paul A. Jacobson",
+      "name": "Paul Jacobson",
       "age": 52,
       "age_year": 2024,
       "background": "Paul A. Jacobson is Executive Vice President and Chief Financial Officer of GM. Before joining GM in 2020, he served as CFO of Delta Air Lines.",
@@ -26,10 +27,11 @@
           "start_date": "2020-12-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Paul A. Jacobson"
     },
     {
-      "name": "Mark L. Reuss",
+      "name": "Mark Reuss",
       "age": 60,
       "age_year": 2024,
       "background": "Mark L. Reuss has been President of GM since 2019. He has held numerous roles at GM, including Executive Vice President, Global Product Group and Cadillac.",
@@ -40,7 +42,8 @@
           "start_date": "2019-01-03",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Mark L. Reuss"
     },
     {
       "name": "Julian Blissett",
@@ -54,7 +57,8 @@
           "start_date": "2024-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Julian Blissett"
     },
     {
       "name": "Craig Glidden",
@@ -68,12 +72,13 @@
           "start_date": "2015-03-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Craig Glidden"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Mary T. Barra",
+      "name": "Mary Barra",
       "age": 62,
       "age_year": 2024,
       "background": "Chair and CEO of General Motors Company.",
@@ -85,7 +90,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Mary T. Barra"
     },
     {
       "name": "Aneel Bhusri",
@@ -102,10 +108,11 @@
       ],
       "committees": [
         "Finance Committee"
-      ]
+      ],
+      "name_original": "Aneel Bhusri"
     },
     {
-      "name": "Wesley G. Bush",
+      "name": "Wesley Bush",
       "age": 63,
       "age_year": 2024,
       "background": "Former Chairman and CEO of Northrop Grumman Corporation.",
@@ -120,10 +127,11 @@
       "committees": [
         "Audit Committee",
         "Finance Committee"
-      ]
+      ],
+      "name_original": "Wesley G. Bush"
     },
     {
-      "name": "Joanne C. Crevoiserat",
+      "name": "Joanne Crevoiserat",
       "age": 60,
       "age_year": 2024,
       "background": "CEO of Tapestry, Inc.",
@@ -137,10 +145,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Joanne C. Crevoiserat"
     },
     {
-      "name": "Linda R. Gooden",
+      "name": "Linda Gooden",
       "age": 70,
       "age_year": 2024,
       "background": "Former Executive Vice President, Information Systems & Global Solutions of Lockheed Martin Corporation.",
@@ -155,7 +164,8 @@
       "committees": [
         "Audit Committee",
         "Governance and Corporate Responsibility Committee"
-      ]
+      ],
+      "name_original": "Linda R. Gooden"
     },
     {
       "name": "Joseph Jimenez",
@@ -173,10 +183,11 @@
       "committees": [
         "Compensation Committee",
         "Finance Committee"
-      ]
+      ],
+      "name_original": "Joseph Jimenez"
     },
     {
-      "name": "Judith A. Miscik",
+      "name": "Judith Miscik",
       "age": 65,
       "age_year": 2024,
       "background": "Former CEO and Vice Chairman of Kissinger Associates, Inc.",
@@ -191,10 +202,11 @@
       "committees": [
         "Governance and Corporate Responsibility Committee",
         "Finance Committee"
-      ]
+      ],
+      "name_original": "Judith A. Miscik"
     },
     {
-      "name": "Patricia F. Russo",
+      "name": "Patricia Russo",
       "age": 71,
       "age_year": 2024,
       "background": "Former CEO of Alcatel-Lucent.",
@@ -209,10 +221,11 @@
       "committees": [
         "Governance and Corporate Responsibility Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Patricia F. Russo"
     },
     {
-      "name": "Thomas M. Schoewe",
+      "name": "Thomas Schoewe",
       "age": 71,
       "age_year": 2024,
       "background": "Former Executive Vice President and CFO of Walmart Inc.",
@@ -227,10 +240,11 @@
       "committees": [
         "Audit Committee",
         "Finance Committee"
-      ]
+      ],
+      "name_original": "Thomas M. Schoewe"
     },
     {
-      "name": "Mark A. Tatum",
+      "name": "Mark Tatum",
       "age": 54,
       "age_year": 2024,
       "background": "Deputy Commissioner and COO of the National Basketball Association.",
@@ -244,10 +258,11 @@
       ],
       "committees": [
         "Governance and Corporate Responsibility Committee"
-      ]
+      ],
+      "name_original": "Mark A. Tatum"
     },
     {
-      "name": "Devin N. Wenig",
+      "name": "Devin Wenig",
       "age": 57,
       "age_year": 2024,
       "background": "Former President and CEO of eBay Inc.",
@@ -261,10 +276,11 @@
       ],
       "committees": [
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Devin N. Wenig"
     },
     {
-      "name": "Margaret C. Whitman",
+      "name": "Margaret Whitman",
       "age": 67,
       "age_year": 2024,
       "background": "U.S. Ambassador to Kenya; former CEO of Hewlett Packard Enterprise.",
@@ -278,7 +294,8 @@
       ],
       "committees": [
         "Governance and Corporate Responsibility Committee"
-      ]
+      ],
+      "name_original": "Margaret C. Whitman"
     }
   ],
   "sources": [

@@ -1,0 +1,149 @@
+{
+  "executives": [
+    {
+      "name": "Ian Gendall",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Gendall is a geologist with over 30 years of experience in the mineral exploration industry. He has held senior positions with several exploration companies and has been involved in the discovery and development of several mineral deposits in South America and Canada.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Chief Executive Officer",
+          "start_date": "2019-11-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Ian Gendall"
+    },
+    {
+      "name": "Robin Goad",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Goad is a professional geologist with over 35 years of experience in the mining and exploration industry. He is the President and CEO of Fortune Minerals Limited and has served as a director and officer of several other public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Chairman",
+          "start_date": "2019-11-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Robin S. Goad"
+    },
+    {
+      "name": "Jim Sullivan",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Sullivan is a Chartered Professional Accountant with over 30 years of experience in financial management and reporting for public and private companies. He has served as CFO for several junior exploration companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer, Corporate Secretary",
+          "start_date": "2019-11-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "James (Jim) S. Sullivan"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Robin Goad",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Goad is a professional geologist with over 35 years of experience in the mining and exploration industry. He is the President and CEO of Fortune Minerals Limited and has served as a director and officer of several other public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Chairman",
+          "start_date": "2019-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Robin S. Goad"
+    },
+    {
+      "name": "Ian Gendall",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Gendall is a geologist with over 30 years of experience in the mineral exploration industry. He has held senior positions with several exploration companies and has been involved in the discovery and development of several mineral deposits in South America and Canada.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2019-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Ian Gendall"
+    },
+    {
+      "name": "David Goad",
+      "age": 35,
+      "age_year": 2024,
+      "background": "Mr. Goad has over 10 years of experience in the financial services industry, specializing in corporate finance and investment management. He has worked with several investment firms and has experience in the resource sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "David J.S. Goad"
+    },
+    {
+      "name": "Bill Bennett",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Mr. Bennett is a former British Columbia Cabinet Minister who served as Minister of Energy and Mines and Minister Responsible for Core Review. He has extensive experience in government relations and the mining industry in British Columbia.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "William (Bill) Bennett"
+    },
+    {
+      "name": "John Goad",
+      "age": 33,
+      "age_year": 2024,
+      "background": "Mr. Goad has experience in business development and corporate communications. He has worked with several junior exploration companies in various capacities.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "John J.S. Goad"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://dlpresourcesinc.com/corporate/management-directors/",
+      "source_description": "Company Website - Management & Directors Page",
+      "as_of_date": "2024-05-22"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "SEDAR+ Management Information Circular",
+      "as_of_date": "2024-04-26"
+    }
+  ]
+}

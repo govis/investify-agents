@@ -1,0 +1,27 @@
+{
+  "name": "John Booth",
+  "first_name": "John",
+  "last_name": "Booth",
+  "age": 61,
+  "age_year": 2024,
+  "background": "Mr. Booth is a lawyer and investment banker with over 30 years of experience in the resource sector. He is currently the Chairman of Laramide.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Laramide Resources Ltd.",
+      "ticker": "LAM",
+      "exchange": "TSX",
+      "title_or_role": "Chairman and Independent Director",
+      "start_date": "2011-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ]
+}

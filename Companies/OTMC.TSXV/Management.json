@@ -1,0 +1,128 @@
+{
+  "executives": [
+    {
+      "name": "Chris Verrico",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Verrico has over 40 years of experience in the mining and exploration industry. He has served as a director and officer of several public companies, including Xiana Mining Inc. and various junior exploration companies. He has extensive experience in project management and corporate development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2021-06-01",
+          "end_date": null
+        },
+        {
+          "title": "President",
+          "start_date": "2021-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Chris S.S.S. (Chris) Verrico"
+    },
+    {
+      "name": "Aris Morfopoulos",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Morfopoulos is a corporate executive with over 30 years of experience in the management and administration of public companies. He has served as a director and officer of numerous companies listed on the TSX Venture Exchange and the Canadian Securities Exchange.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2021-06-01",
+          "end_date": null
+        },
+        {
+          "title": "Corporate Secretary",
+          "start_date": "2021-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Aris Morfopoulos"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Chris Verrico",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Verrico has over 40 years of experience in the mining and exploration industry. He has served as a director and officer of several public companies, including Xiana Mining Inc. and various junior exploration companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2021-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Chris S.S.S. (Chris) Verrico"
+    },
+    {
+      "name": "Aris Morfopoulos",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Morfopoulos is a corporate executive with over 30 years of experience in the management and administration of public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2021-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Aris Morfopoulos"
+    },
+    {
+      "name": "Larry Segerstrom",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Segerstrom is a professional geologist with over 35 years of experience in the mining industry. He was formerly COO of Paramount Gold and Silver Corp. and has held senior positions with Freeport-McMoRan.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2021-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Lawrence (Larry) Segerstrom"
+    },
+    {
+      "name": "Jack Bal",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. Bal has over 25 years of experience in the capital markets and has served as a director and officer of several public companies. He is currently the CEO of Goldeneye Resources Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2021-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "John (Jack) Bal"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://oreterra.com/about-us/management-directors/",
+      "source_description": "Company Website - Management and Directors Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "Management Information Circular dated May 15, 2024",
+      "as_of_date": "2024-05-15"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Gayla Delly",
+  "first_name": "Gayla",
+  "last_name": "Delly",
+  "age": 64,
+  "age_year": 2024,
+  "background": "Ms. Delly has served as a director since 2017. She was previously the President and CEO of Benchmark Electronics, Inc. She is a CPA and serves on the boards of Flowserve Corporation and National Instruments.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Broadcom Inc.",
+      "ticker": "AVGO",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "start_date": "2017-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Flowserve Corporation",
+      "ticker": "FLS",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2011-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Finance Committee"
+  ]
+}

@@ -4,7 +4,7 @@
       "name": "Lawrie Conway",
       "age": 55,
       "age_year": 2024,
-      "background": "Mr. Conway was appointed as Chief Executive Officer and Managing Director on 1 January 2023. He was previously Finance Director and Chief Financial Officer since 2014. He has more than 30 years’ experience in the resources sector across a diverse range of commercial, financial and operational activities.",
+      "background": "Mr. Conway was appointed as Chief Executive Officer and Managing Director on 1 January 2023. He was previously Finance Director and Chief Financial Officer since 2014. He has more than 30 years\u2019 experience in the resources sector across a diverse range of commercial, financial and operational activities.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -17,7 +17,8 @@
           "start_date": "2014-08-01",
           "end_date": "2022-12-31"
         }
-      ]
+      ],
+      "name_original": "Lawrie Conway"
     },
     {
       "name": "Barrie Van Der Merwe",
@@ -31,7 +32,8 @@
           "start_date": "2023-05-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Barrie Van Der Merwe"
     },
     {
       "name": "Attie Roux",
@@ -45,15 +47,16 @@
           "start_date": "2022-07-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Attie Roux"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Jacob (Jake) Klein",
+      "name": "Jake Klein",
       "age": 63,
       "age_year": 2024,
-      "background": "Mr. Klein was the founding Executive Chairman of Evolution Mining. He has over 25 years’ experience in the mining industry. He was previously President and CEO of Sino Gold Mining Limited.",
+      "background": "Mr. Klein was the founding Executive Chairman of Evolution Mining. He has over 25 years\u2019 experience in the mining industry. He was previously President and CEO of Sino Gold Mining Limited.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -62,13 +65,14 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Jacob (Jake) Klein"
     },
     {
-      "name": "James (Jim) Askew",
+      "name": "Jim Askew",
       "age": 76,
       "age_year": 2024,
-      "background": "Mr. Askew is a mining engineer with over 40 years’ experience as a Director and Chief Executive Officer of Australian and international publicly listed mining companies.",
+      "background": "Mr. Askew is a mining engineer with over 40 years\u2019 experience as a Director and Chief Executive Officer of Australian and international publicly listed mining companies.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -80,13 +84,14 @@
       "committees": [
         "Risk and Sustainability Committee (Chair)",
         "Nomination and Remuneration Committee"
-      ]
+      ],
+      "name_original": "James (Jim) Askew"
     },
     {
       "name": "Andrea Hall",
       "age": 57,
       "age_year": 2024,
-      "background": "Ms. Hall is a Chartered Accountant with over 30 years’ experience in the financial services and mining sectors. She was a partner at KPMG for 12 years.",
+      "background": "Ms. Hall is a Chartered Accountant with over 30 years\u2019 experience in the financial services and mining sectors. She was a partner at KPMG for 12 years.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -98,7 +103,8 @@
       "committees": [
         "Audit Committee (Chair)",
         "Risk and Sustainability Committee"
-      ]
+      ],
+      "name_original": "Andrea Hall"
     },
     {
       "name": "Jason Attew",
@@ -116,13 +122,14 @@
       "committees": [
         "Audit Committee",
         "Nomination and Remuneration Committee"
-      ]
+      ],
+      "name_original": "Jason Attew"
     },
     {
       "name": "Peter Smith",
       "age": 64,
       "age_year": 2024,
-      "background": "Mr. Smith is a senior mining executive with over 40 years’ experience in the resources sector, including senior roles at Rio Tinto and Kazzinc.",
+      "background": "Mr. Smith is a senior mining executive with over 40 years\u2019 experience in the resources sector, including senior roles at Rio Tinto and Kazzinc.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -134,13 +141,14 @@
       "committees": [
         "Risk and Sustainability Committee",
         "Nomination and Remuneration Committee"
-      ]
+      ],
+      "name_original": "Peter Smith"
     },
     {
       "name": "Vicky Binns",
       "age": 56,
       "age_year": 2024,
-      "background": "Ms. Binns has over 35 years’ experience in the global resources and financial services sectors, including 10 years at BHP in senior executive roles.",
+      "background": "Ms. Binns has over 35 years\u2019 experience in the global resources and financial services sectors, including 10 years at BHP in senior executive roles.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -152,7 +160,8 @@
       "committees": [
         "Audit Committee",
         "Nomination and Remuneration Committee (Chair)"
-      ]
+      ],
+      "name_original": "Vicky Binns"
     }
   ],
   "sources": [

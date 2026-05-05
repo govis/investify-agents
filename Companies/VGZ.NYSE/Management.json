@@ -1,0 +1,190 @@
+{
+  "executives": [
+    {
+      "name": "Frederick Earnest",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Earnest has served as President and Chief Executive Officer of Vista Gold Corp. since January 2012. He joined the company in 2006 as Senior Vice President and Project Manager, later becoming President and Chief Operating Officer in 2007. He has over 30 years of experience in the mining industry, including roles at Pacific Rim Mining Corp. and various engineering and management positions.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2012-01-01",
+          "end_date": null
+        },
+        {
+          "title": "President and Chief Operating Officer",
+          "start_date": "2007-08-01",
+          "end_date": "2012-01-01"
+        }
+      ],
+      "name_original": "Frederick H. Earnest"
+    },
+    {
+      "name": "Douglas Tobler",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Tobler has served as Chief Financial Officer of Vista Gold Corp. since July 2019. He has more than 35 years of financial management experience, including over 20 years in the mining industry. Previously, he served as CFO of Lydian International and Alacer Gold Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2019-07-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Douglas L. Tobler"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Michael Richings",
+      "age": 79,
+      "age_year": 2024,
+      "background": "Mr. Richings has been a director of Vista Gold Corp. since 1995. He served as Executive Chairman from 2012 to 2017 and as President and CEO from 2004 to 2012. He has extensive experience in the mining industry, having held senior positions with several mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board",
+          "start_date": "2017-01-01",
+          "end_date": null
+        },
+        {
+          "role": "Director",
+          "start_date": "1995-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Michael B. Richings"
+    },
+    {
+      "name": "Frederick Earnest",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Earnest is the President and CEO of Vista Gold Corp. and has been a director since 2007.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2007-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Frederick H. Earnest"
+    },
+    {
+      "name": "John Clark",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Clark is a Chartered Professional Accountant with over 30 years of experience in the mining industry. He is the President of Investment Management Services Inc. and serves on the boards of several other mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2001-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "John M. Clark"
+    },
+    {
+      "name": "Randy Eppler",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Mr. Eppler is a Managing Director at Milestone Capital Advisors. He has over 30 years of experience in the mining and finance industries, including senior roles at Newmont Mining Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2004-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Randy A. Eppler"
+    },
+    {
+      "name": "Deborah Friedman",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Ms. Friedman is a retired partner of Davis Graham & Stubbs LLP, where she practiced law for over 30 years, specializing in corporate finance and securities law with a focus on the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-03-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Deborah J. Friedman"
+    },
+    {
+      "name": "Douglas Kirwin",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Mr. Kirwin is an independent geologist with over 45 years of international experience. He was previously Executive Vice President of Ivanhoe Mines Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-03-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Douglas J. Kirwin"
+    },
+    {
+      "name": "Tracy Stevenson",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Mr. Stevenson is a senior mining executive with over 40 years of experience. He was a founding partner of Bedrock Resources and SOS Investors and held various senior positions at Rio Tinto.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2007-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Tracy A. Stevenson"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/783324/000110465924039121/tm244342d1_def14a.htm",
+      "source_description": "SEC DEF 14A Proxy Statement",
+      "as_of_date": "2024-03-26"
+    },
+    {
+      "source_url": "https://www.vistagold.com/about-us/management/",
+      "source_description": "Vista Gold Corp. Management Team Website",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.vistagold.com/about-us/board-of-directors/",
+      "source_description": "Vista Gold Corp. Board of Directors Website",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

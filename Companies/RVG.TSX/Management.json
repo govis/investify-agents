@@ -1,0 +1,205 @@
+{
+  "executives": [
+    {
+      "name": "Hugh Agro",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Agro is a mining executive with over 30 years of experience in the mining industry. He was previously Executive Vice President, Strategic Development with Kinross Gold Corporation. Prior to Kinross, Mr. Agro was a mining investment banker with Deutsche Bank and a management consultant with Placer Dome. He is a Director of Fortitude Gold Corp. and a former Director of Victoria Gold Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Chief Executive Officer and Director",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Hugh Agro"
+    },
+    {
+      "name": "Lisa Wade",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Ms. Wade is an environmental engineer with over 25 years of experience in the mining industry. She was previously Vice President, Environmental, Social and Governance with Goldcorp Inc. and Newmont Corporation. Ms. Wade has extensive experience in environmental management, permitting, and community relations in the Americas.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Environmental, Health & Safety",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Lisa Wade"
+    },
+    {
+      "name": "John Meyer",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Meyer is a mining engineer with over 30 years of experience in the mining industry. He was previously Vice President, Development with Kinross Gold Corporation and has held senior roles with Barrick Gold Corporation and Placer Dome. Mr. Meyer has extensive experience in project development and operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Engineering and Development",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "John Meyer"
+    },
+    {
+      "name": "Wayne Manson",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Manson is a geologist with over 35 years of experience in the mining industry. He was previously Vice President, Exploration with Kinross Gold Corporation and has held senior roles with Placer Dome. Mr. Manson has extensive experience in mineral exploration and resource estimation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Exploration",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Wayne Manson"
+    },
+    {
+      "name": "Adam Rochacewich",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Rochacewich is a Chartered Professional Accountant with over 20 years of experience in the mining industry. He was previously Chief Financial Officer of several junior mining companies and has held senior financial roles with Noranda Inc. and Falconbridge Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President and Chief Financial Officer",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Adam Rochacewich"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Wayne Hubert",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Hubert is a mining executive with over 30 years of experience. He was previously CEO of Andean Resources Ltd. and held senior roles with Meridian Gold Inc. He is currently Chairman of Cassiar Gold Corp. and a Director of Inmet Mining.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Chairman",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation, Governance and Nominating Committee"
+      ],
+      "name_original": "Wayne Hubert"
+    },
+    {
+      "name": "Hugh Agro",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Agro is a mining executive with over 30 years of experience in the mining industry. He was previously Executive Vice President, Strategic Development with Kinross Gold Corporation. Prior to Kinross, Mr. Agro was a mining investment banker with Deutsche Bank and a management consultant with Placer Dome.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Technical and Health, Safety, Environmental and Social Committee"
+      ],
+      "name_original": "Hugh Agro"
+    },
+    {
+      "name": "Don Birak",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Mr. Birak is a geologist with over 40 years of experience in the mining industry. He was previously Senior Vice President of Exploration with Coeur Mining, Inc. and held senior roles with AngloGold Ashanti and Homestake Mining Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Technical and Health, Safety, Environmental and Social Committee",
+        "Compensation, Governance and Nominating Committee"
+      ],
+      "name_original": "Don Birak"
+    },
+    {
+      "name": "Rob Chang",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Chang is a financial executive with over 25 years of experience. He is currently the CEO of Gryphon Digital Mining and was previously Managing Director and Head of Metals & Mining at Cantor Fitzgerald.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation, Governance and Nominating Committee"
+      ],
+      "name_original": "Rob Chang"
+    },
+    {
+      "name": "Maura Lendon",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Ms. Lendon is a legal executive with over 30 years of experience. She was previously Chief General Counsel and Senior Vice President with Hudbay Minerals Inc. and held senior roles with Primero Mining Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation, Governance and Nominating Committee"
+      ],
+      "name_original": "Maura Lendon"
+    },
+    {
+      "name": "Tim Warman",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Warman is a geologist with over 30 years of experience. He was previously CEO of Fiore Gold Ltd. and held senior roles with Dalradian Resources Inc. and Aurelian Resources Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Technical and Health, Safety, Environmental and Social Committee"
+      ],
+      "name_original": "Tim Warman"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://revival-gold.com/about/management-directors/",
+      "source_description": "Company Website - Management and Directors Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "SEDAR+ Filing - Management Information Circular",
+      "as_of_date": "2023-10-26"
+    }
+  ]
+}

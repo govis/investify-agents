@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Horacio D. Rozanski",
+      "name": "Horacio Rozanski",
       "age": 56,
       "age_year": 2024,
       "background": "Mr. Rozanski is our President and Chief Executive Officer. He has been our CEO since 2015 and President since 2014. He joined the firm in 1992 and has served in various roles including Chief Operating Officer and Chief Strategy and Talent Officer.",
@@ -17,10 +17,11 @@
           "start_date": "2014-01-01",
           "end_date": "2014-12-31"
         }
-      ]
+      ],
+      "name_original": "Horacio D. Rozanski"
     },
     {
-      "name": "Matthew A. Calderone",
+      "name": "Matthew Calderone",
       "age": 50,
       "age_year": 2024,
       "background": "Mr. Calderone is our Executive Vice President and Chief Financial Officer. He previously served as our Chief Strategy Officer from 2014 to 2022 and has been with the firm since 2000.",
@@ -36,7 +37,8 @@
           "start_date": "2014-01-01",
           "end_date": "2022-09-30"
         }
-      ]
+      ],
+      "name_original": "Matthew A. Calderone"
     },
     {
       "name": "Kristine Martin Anderson",
@@ -50,10 +52,11 @@
           "start_date": "2022-06-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Kristine Martin Anderson"
     },
     {
-      "name": "Nancy J. Laben",
+      "name": "Nancy Laben",
       "age": 60,
       "age_year": 2024,
       "background": "Ms. Laben is our Executive Vice President and Chief Legal Officer. She joined the firm in 2013 and previously served as General Counsel at AECOM.",
@@ -64,12 +67,13 @@
           "start_date": "2013-09-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Nancy J. Laben"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Ralph W. Shrader",
+      "name": "Ralph Shrader",
       "age": 79,
       "age_year": 2024,
       "background": "Dr. Shrader has served as Chairman of the Board since 2008. He was our CEO from 1999 to 2014 and has been with the firm for over 40 years.",
@@ -81,10 +85,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Ralph W. Shrader"
     },
     {
-      "name": "Michèle A. Flournoy",
+      "name": "Mich\u00e8le Flournoy",
       "age": 63,
       "age_year": 2024,
       "background": "Ms. Flournoy is Co-Founder and Managing Partner of WestExec Advisors. She previously served as U.S. Under Secretary of Defense for Policy.",
@@ -99,10 +104,11 @@
       "committees": [
         "Compensation Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Mich\u00e8le A. Flournoy"
     },
     {
-      "name": "Melody C. Barnes",
+      "name": "Melody Barnes",
       "age": 60,
       "age_year": 2024,
       "background": "Ms. Barnes is Executive Director of the Karsh Institute of Democracy at the University of Virginia. She was Director of the White House Domestic Policy Council.",
@@ -117,10 +123,11 @@
       "committees": [
         "Audit Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Melody C. Barnes"
     },
     {
-      "name": "Gretchen W. McClain",
+      "name": "Gretchen McClain",
       "age": 61,
       "age_year": 2024,
       "background": "Ms. McClain is an Operating Executive at The Carlyle Group and former CEO of Xylem Inc. She has extensive experience in technology and engineering.",
@@ -135,7 +142,8 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Gretchen W. McClain"
     }
   ],
   "sources": [

@@ -1,0 +1,135 @@
+{
+  "executives": [
+    {
+      "name": "Kimberly Ann",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Ms. Ann has over 30 years of experience in the mining industry, specializing in corporate finance, project development, and management. She was previously the CEO of Carube Copper Corp. and has held various executive roles in junior mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Chief Executive Officer and Director",
+          "start_date": "2022-04-06",
+          "end_date": null
+        }
+      ],
+      "name_original": "Kimberly Ann"
+    },
+    {
+      "name": "Brian Maher",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Maher is an economic geologist with over 40 years of experience in the international mining industry. He has held senior positions with ASARCO and Hochschild Mining and was the President and CEO of Prodigy Gold Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Exploration",
+          "start_date": "2022-04-06",
+          "end_date": null
+        }
+      ],
+      "name_original": "Brian J. Maher"
+    },
+    {
+      "name": "John McNeice",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. McNeice is a Chartered Professional Accountant with over 25 years of experience in financial reporting and corporate governance for public companies in the resource sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2022-04-06",
+          "end_date": null
+        }
+      ],
+      "name_original": "John McNeice"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Kimberly Ann",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Ms. Ann has over 30 years of experience in the mining industry, specializing in corporate finance, project development, and management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022-04-06",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Kimberly Ann"
+    },
+    {
+      "name": "Christopher Reynolds",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Reynolds has over 30 years of experience in the mining industry, specifically in the areas of corporate finance and administration. He is currently the CFO of Seabridge Gold Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022-04-06",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Christopher J. Reynolds"
+    },
+    {
+      "name": "Josh Serfass",
+      "age": 39,
+      "age_year": 2024,
+      "background": "Mr. Serfass is the Executive Vice President, Corporate Development and Investor Relations at Integra Resources Corp. He has extensive experience in capital markets and corporate strategy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022-04-06",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Josh Serfass"
+    },
+    {
+      "name": "Victoria McMillan",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Ms. McMillan is a finance professional with over 20 years of experience in the mining industry. She is currently the CFO of several junior exploration companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-06-15",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Victoria McMillan"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://lahontangoldcorp.com/corporate/management-directors/",
+      "source_description": "Lahontan Gold Corp. Official Website - Management and Directors Page",
+      "as_of_date": "2024-05-22"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca/",
+      "source_description": "Management Information Circular dated May 10, 2024",
+      "as_of_date": "2024-05-10"
+    }
+  ]
+}

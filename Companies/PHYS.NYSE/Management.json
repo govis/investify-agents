@@ -1,0 +1,111 @@
+{
+  "executives": [
+    {
+      "name": "John Ciampaglia",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. Ciampaglia is the Chief Executive Officer of Sprott Asset Management LP and a Senior Managing Director of Sprott Inc. He has more than 25 years of experience in the investment industry and has held senior positions at several Canadian investment firms.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "John Ciampaglia"
+    },
+    {
+      "name": "Varinder Bhathal",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Ms. Bhathal is the Chief Financial Officer of Sprott Asset Management LP and a Managing Director of Sprott Inc. She has over 20 years of experience in the financial services industry, specializing in investment funds and corporate finance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Varinder Bhathal"
+    },
+    {
+      "name": "Kevin Hibbert",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Hibbert is the Chief Financial Officer of Sprott Inc. and has extensive experience in financial reporting and regulatory compliance within the asset management sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Kevin Hibbert"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "John Ciampaglia",
+      "age": 54,
+      "age_year": 2024,
+      "background": "CEO of Sprott Asset Management LP and Senior Managing Director of Sprott Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "John Ciampaglia"
+    },
+    {
+      "name": "Kevin Hibbert",
+      "age": 52,
+      "age_year": 2024,
+      "background": "CFO of Sprott Inc. and Managing Director.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Kevin Hibbert"
+    },
+    {
+      "name": "Whitney George",
+      "age": 66,
+      "age_year": 2024,
+      "background": "CEO of Sprott Inc. and has over 30 years of experience in the investment industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Whitney George"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1479217/000110465924037346/tm249481d1_40f.htm",
+      "source_description": "SEC Form 40-F Annual Report for Sprott Physical Gold Trust",
+      "as_of_date": "2024-03-21"
+    },
+    {
+      "source_url": "https://sprott.com/investment-strategies/physical-bullion-trusts/gold/management-team/",
+      "source_description": "Sprott Physical Gold Trust Official Management Website",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

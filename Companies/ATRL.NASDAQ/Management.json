@@ -1,0 +1,101 @@
+{
+  "executives": [
+    {
+      "name": "Arturo Perper",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Arturo Perper has served as our Chief Executive Officer since July 2023. Prior to joining Aterian, Mr. Perper was the founder and CEO of various consumer product companies and has extensive experience in e-commerce and supply chain management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2023-07-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Arturo Perper"
+    },
+    {
+      "name": "Josh Goldin",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Josh Goldin has served as our Interim Chief Financial Officer since January 2024. He is a co-founder of Alliance Consumer Group and has significant experience in financial oversight and strategic planning for consumer brands.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Interim Chief Financial Officer",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Josh Goldin"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Arturo Perper",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Arturo Perper has served as a director since July 2023. He is also the company's Chief Executive Officer.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Arturo Perper"
+    },
+    {
+      "name": "William Arrington",
+      "age": 62,
+      "age_year": 2024,
+      "background": "William Arrington has served as a director since 2021. He has over 30 years of experience in retail and consumer products, having held senior leadership roles at several major retail corporations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "William Arrington"
+    },
+    {
+      "name": "Cynthia Williams",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Cynthia Williams joined the board in 2022. She currently serves as a senior executive at a leading technology firm and brings expertise in digital transformation and scaling operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nominating and Corporate Governance Committee"
+      ],
+      "name_original": "Cynthia Williams"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1757715/000162828024011234/atrl-20231231.htm",
+      "source_description": "Form 10-K Annual Report for the fiscal year ended December 31, 2023",
+      "as_of_date": "2024-03-15"
+    },
+    {
+      "source_url": "https://www.aterian.io/about-us/leadership",
+      "source_description": "Aterian, Inc. Official Website - Leadership Page",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "executives": [
+    {
+      "name": "John Cash",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Cash has served as Chairman of the Board since 2022 and as Chief Executive Officer and President since 2022. He previously served as Vice President of Regulatory Affairs, Exploration and Geology from 2011 to 2022. He has more than 30 years of experience in the uranium industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer and President",
+          "start_date": "2022-03-01",
+          "end_date": null
+        },
+        {
+          "title": "Chairman of the Board",
+          "start_date": "2022-03-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "John W. Cash"
+    },
+    {
+      "name": "Roger Smith",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Smith has served as Chief Financial Officer since 2007 and as Chief Administrative Officer since 2011. He has over 35 years of experience in finance and accounting, primarily in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2007-05-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Administrative Officer",
+          "start_date": "2011-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Roger L. Smith"
+    },
+    {
+      "name": "Steven Hatten",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Hatten has served as Chief Operating Officer since 2022. He previously served as Vice President of Operations from 2011 to 2022. He has over 30 years of experience in the uranium industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2022-03-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Steven M. Hatten"
+    },
+    {
+      "name": "Peni Goff-Snyder",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Ms. Goff-Snyder has served as General Counsel and Corporate Secretary since 2011. She has over 25 years of legal experience, with a focus on corporate and securities law.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "General Counsel and Corporate Secretary",
+          "start_date": "2011-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Penelope (Peni) Goff-Snyder"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "John Cash",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Cash has served as Chairman of the Board since 2022 and as Chief Executive Officer and President since 2022. He previously served as Vice President of Regulatory Affairs, Exploration and Geology from 2011 to 2022.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2022-03-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "John W. Cash"
+    },
+    {
+      "name": "Jeffrey Klenda",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Mr. Klenda is a co-founder of the Company and served as Chairman and CEO from 2015 to 2022. He has over 40 years of experience in the financial and mining sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2004-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Jeffrey T. Klenda"
+    },
+    {
+      "name": "William Boberg",
+      "age": 83,
+      "age_year": 2024,
+      "background": "Mr. Boberg is a co-founder of the Company and served as President and CEO from 2006 to 2011. He is a professional geologist with over 50 years of experience.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2004-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Technical Committee"
+      ],
+      "name_original": "W. William Boberg"
+    },
+    {
+      "name": "Thomas Parker",
+      "age": 81,
+      "age_year": 2024,
+      "background": "Mr. Parker has over 50 years of experience in the mining industry, including executive roles at High Plains Uranium and Anderson & Schwab.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2007-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "Thomas Parker"
+    },
+    {
+      "name": "Gary Huber",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Dr. Huber has over 40 years of experience in the natural resources industry and has served on several public company boards.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2007-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "Gary C. Huber"
+    },
+    {
+      "name": "Kathy Walker",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Ms. Walker is the President and CEO of Elm Street Resources Inc. and has over 35 years of experience in the energy industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "Kathy E. Walker"
+    },
+    {
+      "name": "Rob Chang",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Mr. Chang is the CEO of Gryphon Digital Mining and has over 25 years of experience in the financial and mining sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "Rob Chang"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1375201/000155837024002574/urg-20231231x10k.htm",
+      "source_description": "Ur-Energy Inc. Form 10-K for the fiscal year ended December 31, 2023",
+      "as_of_date": "2024-03-06"
+    },
+    {
+      "source_url": "https://www.ur-energy.com/about-us/management",
+      "source_description": "Ur-Energy Inc. Official Website - Management Team",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.ur-energy.com/about-us/board-of-directors",
+      "source_description": "Ur-Energy Inc. Official Website - Board of Directors",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

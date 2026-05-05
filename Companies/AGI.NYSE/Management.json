@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "John A. McCluskey",
+      "name": "John McCluskey",
       "age": 63,
       "age_year": 2024,
       "background": "Mr. McCluskey is the President and Chief Executive Officer of Alamos Gold Inc. and has been a Director since February 2003. He was a co-founder of the Company. Previously, he was the President and CEO of Grayd Resource Corporation.",
@@ -12,7 +12,8 @@
           "start_date": "2003-02-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "John A. McCluskey"
     },
     {
       "name": "Greg Fisher",
@@ -26,7 +27,8 @@
           "start_date": "2023-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Greg Fisher"
     },
     {
       "name": "Luc Guimond",
@@ -40,7 +42,8 @@
           "start_date": "2022-04-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Luc Guimond"
     },
     {
       "name": "Christine Barwell",
@@ -54,7 +57,8 @@
           "start_date": "2015-07-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Christine Barwell"
     },
     {
       "name": "Nils Engelstad",
@@ -68,12 +72,13 @@
           "start_date": "2015-04-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Nils Engelstad"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Paul J. Murphy",
+      "name": "Paul Murphy",
       "age": 71,
       "age_year": 2024,
       "background": "Mr. Murphy is the Chairman of the Board. He was previously a partner at PricewaterhouseCoopers LLP where he served as the National Mining Leader in Canada.",
@@ -93,10 +98,11 @@
       "committees": [
         "Audit Committee",
         "Technical and Sustainability Committee"
-      ]
+      ],
+      "name_original": "Paul J. Murphy"
     },
     {
-      "name": "John A. McCluskey",
+      "name": "John McCluskey",
       "age": 63,
       "age_year": 2024,
       "background": "President and CEO of Alamos Gold Inc. Co-founder of the Company.",
@@ -108,7 +114,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "John A. McCluskey"
     },
     {
       "name": "Elaine Ellingham",
@@ -126,7 +133,8 @@
       "committees": [
         "Technical and Sustainability Committee",
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Elaine Ellingham"
     },
     {
       "name": "David Fleck",
@@ -144,10 +152,11 @@
       "committees": [
         "Audit Committee",
         "Human Resources and Compensation Committee"
-      ]
+      ],
+      "name_original": "David Fleck"
     },
     {
-      "name": "F. Robert (Bob) G. Gorley",
+      "name": "Bob Gorley",
       "age": 73,
       "age_year": 2024,
       "background": "Mr. Gorley has over 40 years of experience in the financial services industry. He was previously Vice Chairman of Ernst & Young LLP (Canada).",
@@ -162,10 +171,11 @@
       "committees": [
         "Audit Committee",
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "F. Robert (Bob) G. Gorley"
     },
     {
-      "name": "Claire M. C. Kennedy",
+      "name": "Claire Kennedy",
       "age": 58,
       "age_year": 2024,
       "background": "Ms. Kennedy is Senior Advisor, Clients and Industries at Bennett Jones LLP and is a professional engineer.",
@@ -180,13 +190,14 @@
       "committees": [
         "Human Resources and Compensation Committee",
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Claire M. C. Kennedy"
     },
     {
-      "name": "Monique Régimbald-Zeigler",
+      "name": "Monique R\u00e9gimbald-Zeigler",
       "age": 68,
       "age_year": 2024,
-      "background": "Ms. Régimbald-Zeigler has over 30 years of experience in the mining and public sectors. She was previously a senior executive at Falconbridge Limited.",
+      "background": "Ms. R\u00e9gimbald-Zeigler has over 30 years of experience in the mining and public sectors. She was previously a senior executive at Falconbridge Limited.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -198,7 +209,8 @@
       "committees": [
         "Human Resources and Compensation Committee",
         "Technical and Sustainability Committee"
-      ]
+      ],
+      "name_original": "Monique R\u00e9gimbald-Zeigler"
     },
     {
       "name": "Shaun Usmar",
@@ -216,7 +228,8 @@
       "committees": [
         "Audit Committee",
         "Technical and Sustainability Committee"
-      ]
+      ],
+      "name_original": "Shaun Usmar"
     }
   ],
   "sources": [

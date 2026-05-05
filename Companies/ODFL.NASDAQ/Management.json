@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Kevin M. Freeman",
+      "name": "Kevin Freeman",
       "age": 57,
       "age_year": 2024,
       "background": "Kevin M. Freeman has served as President and Chief Executive Officer since July 2023. He previously served as President and Chief Operating Officer from May 2018 to June 2023, and as Executive Vice President and Chief Operating Officer from May 2011 to May 2018. He joined the Company in 1992.",
@@ -17,10 +17,11 @@
           "start_date": "2018-05-01",
           "end_date": "2023-06-30"
         }
-      ]
+      ],
+      "name_original": "Kevin M. Freeman"
     },
     {
-      "name": "Adam N. Satterfield",
+      "name": "Adam Satterfield",
       "age": 48,
       "age_year": 2024,
       "background": "Adam N. Satterfield has served as Executive Vice President, Finance, Chief Financial Officer and Assistant Secretary since January 2016. He joined the Company in 2004 and has held various financial leadership roles.",
@@ -31,10 +32,11 @@
           "start_date": "2016-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Adam N. Satterfield"
     },
     {
-      "name": "Christopher J. Brooks",
+      "name": "Christopher Brooks",
       "age": 53,
       "age_year": 2024,
       "background": "Christopher J. Brooks has served as Senior Vice President and Chief Operating Officer since July 2023. He previously served as Senior Vice President - Operations from May 2018 to June 2023.",
@@ -45,10 +47,11 @@
           "start_date": "2023-07-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Christopher J. Brooks"
     },
     {
-      "name": "Gregory B. Plemmons",
+      "name": "Gregory Plemmons",
       "age": 56,
       "age_year": 2024,
       "background": "Gregory B. Plemmons has served as Executive Vice President and Chief Operating Officer since July 2024. He previously served as Senior Vice President - Sales.",
@@ -59,12 +62,13 @@
           "start_date": "2024-07-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Gregory B. Plemmons"
     }
   ],
   "board_of_directors": [
     {
-      "name": "David S. Congdon",
+      "name": "David Congdon",
       "age": 67,
       "age_year": 2024,
       "background": "David S. Congdon has served as Executive Chairman of the Board since May 2018. He was Vice Chairman of the Board and Chief Executive Officer from January 2008 to May 2018. He has been with the Company since 1978.",
@@ -81,10 +85,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "David S. Congdon"
     },
     {
-      "name": "Earl E. Congdon",
+      "name": "Earl Congdon",
       "age": 93,
       "age_year": 2024,
       "background": "Earl E. Congdon is Senior Executive Chairman of the Board. He served as Executive Chairman from 2008 to 2018 and CEO from 1985 to 2008.",
@@ -96,10 +101,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Earl E. Congdon"
     },
     {
-      "name": "Greg C. Gantt",
+      "name": "Greg Gantt",
       "age": 68,
       "age_year": 2024,
       "background": "Greg C. Gantt served as President and CEO from 2018 until his retirement in June 2023. He remains a member of the Board.",
@@ -111,10 +117,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Greg C. Gantt"
     },
     {
-      "name": "Sherry A. Aaholm",
+      "name": "Sherry Aaholm",
       "age": 62,
       "age_year": 2024,
       "background": "Sherry A. Aaholm is the former Vice President and Chief Digital Officer of Cummins Inc. She joined the ODFL board in 2022.",
@@ -128,10 +135,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Sherry A. Aaholm"
     },
     {
-      "name": "John R. Congdon, Jr.",
+      "name": "John Congdon, Jr.",
       "age": 67,
       "age_year": 2024,
       "background": "John R. Congdon, Jr. has served as a director since 1998. He is the former Vice Chairman of Old Dominion Truck Leasing, Inc.",
@@ -143,10 +151,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "John R. Congdon, Jr."
     },
     {
-      "name": "Bradley R. Gabosch",
+      "name": "Bradley Gabosch",
       "age": 64,
       "age_year": 2024,
       "background": "Bradley R. Gabosch is a retired partner of Grant Thornton LLP. He joined the board in 2017.",
@@ -161,7 +170,8 @@
       "committees": [
         "Audit Committee",
         "Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Bradley R. Gabosch"
     }
   ],
   "sources": [

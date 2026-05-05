@@ -1,0 +1,176 @@
+{
+  "executives": [
+    {
+      "name": "David Cates",
+      "age": 42,
+      "age_year": 2024,
+      "background": "Mr. Cates is the President and CEO of Denison and also serves as a Director. He is a Chartered Professional Accountant (CPA, CA) and holds a Master of Accounting and a Bachelor of Arts degree from the University of Waterloo. He has been with Denison since 2008, previously serving as Vice President Finance, Tax and CFO.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2015-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2013-01-01",
+          "end_date": "2015-01-01"
+        }
+      ],
+      "name_original": "David D. Cates"
+    },
+    {
+      "name": "Elizabeth Freele",
+      "age": 38,
+      "age_year": 2024,
+      "background": "Ms. Freele is the Chief Sustainability Officer at Denison. She is a sustainability professional with over 15 years of experience in the extractive sector, specializing in ESG strategy, risk management, and stakeholder engagement.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Sustainability Officer",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Elizabeth Freele"
+    },
+    {
+      "name": "Kevin Himbeault",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Himbeault is the Vice President, Operations and Regulatory Affairs. He has over 30 years of experience in the mining industry, with a focus on environmental management and regulatory compliance in the uranium sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Operations and Regulatory Affairs",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Kevin Himbeault"
+    },
+    {
+      "name": "Geoff Smith",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Smith is the Vice President, Corporate Development & Commercial. He is a lawyer by training and has extensive experience in corporate finance, mergers and acquisitions, and commercial negotiations within the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Corporate Development & Commercial",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Geoff Smith"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Ron Hochstein",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Hochstein is the Chair of the Board. He is also the President and CEO of Lundin Gold Inc. He has over 30 years of experience in the mining industry and holds a B.Sc. in Metallurgical Engineering from the University of Alberta.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chair of the Board",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Ron F. Hochstein"
+    },
+    {
+      "name": "David Cates",
+      "age": 42,
+      "age_year": 2024,
+      "background": "Mr. Cates is the President and CEO of Denison. He has been a director since 2015.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "David D. Cates"
+    },
+    {
+      "name": "Brian Edgar",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Mr. Edgar is a director and has served as the Chairman of Silver Bull Resources Inc. He has over 30 years of experience in the junior resource sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2005-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Brian D. Edgar"
+    },
+    {
+      "name": "Junlin Huang",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Huang is a director and is the nominee of Beijing Sino-Can Uranium Resources Co. Ltd. He has extensive experience in the uranium industry in China.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Junlin Huang"
+    },
+    {
+      "name": "Patricia Volker",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Ms. Volker is a director and a CPA, CA. She has extensive experience in financial reporting and corporate governance, having served in senior roles at the Ontario Securities Commission.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2018-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Patricia M. Volker"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://denisonmines.com/about/management/",
+      "source_description": "Company Website - Management Team",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://denisonmines.com/about/board-of-directors/",
+      "source_description": "Company Website - Board of Directors",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "Management Information Circular dated March 2024",
+      "as_of_date": "2024-03-28"
+    }
+  ]
+}

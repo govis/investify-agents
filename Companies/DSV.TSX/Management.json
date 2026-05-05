@@ -1,0 +1,149 @@
+{
+  "executives": [
+    {
+      "name": "Tony Makuch",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Makuch is a professional engineer with over 40 years of experience in the mining industry. He previously served as President and CEO of Kirkland Lake Gold Ltd. from 2016 to 2022, where he led the company through significant growth and its eventual merger with Agnico Eagle Mines Limited. He has also held executive roles at Lake Shore Gold Corp. and FNX Mining Company Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2023-06-26",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2023-06-26",
+          "end_date": null
+        }
+      ],
+      "name_original": "Tony Makuch"
+    },
+    {
+      "name": "Andreas Rompel",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Dr. Rompel has over 30 years of experience in the exploration and mining industry. He has held various senior positions with Anglo American and has extensive experience in project management and exploration across several continents. He holds a PhD in Geology from the University of the Witwatersrand.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Andreas Rompel"
+    },
+    {
+      "name": "Forbes Gemmell",
+      "age": 42,
+      "age_year": 2024,
+      "background": "Mr. Gemmell has over 15 years of experience in the capital markets and mining industry. He previously served as Vice President, Corporate Development and Investor Relations at Discovery Silver. Prior to joining the company, he worked in equity research and investment banking focused on the mining sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2023-09-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Forbes Gemmell"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Murray John",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. John is a mining engineer with over 35 years of experience in the resource sector. He was formerly the President and CEO of Dundee Resources Limited and served as a director of several mining companies including Osisko Gold Royalties Ltd. and Alamos Gold Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2017-05-15",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Murray John"
+    },
+    {
+      "name": "Jeff Parr",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Parr is a Chartered Professional Accountant with over 30 years of experience in the mining industry. He was previously the CFO of Centerra Gold Inc. and has served on the boards of several mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-08-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)",
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "Jeff Parr"
+    },
+    {
+      "name": "Moira Smith",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Dr. Smith has over 30 years of experience in the mining industry, specializing in exploration and geology. She was previously the VP Exploration for Liberty Gold Corp. and has held senior positions with Teck Resources and Fronteer Gold.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-11-12",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Technical Committee (Chair)",
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "Moira Smith"
+    },
+    {
+      "name": "Daniel Naiberg",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Naiberg is a corporate lawyer with extensive experience in mergers and acquisitions and corporate finance within the mining sector. He is a partner at a leading Canadian law firm.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-06-24",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee (Chair)",
+        "Audit Committee"
+      ],
+      "name_original": "Daniel Naiberg"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://discoverysilver.com/about/management/",
+      "source_description": "Company Management Team Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://discoverysilver.com/about/board-of-directors/",
+      "source_description": "Company Board of Directors Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "Management Information Circular dated May 10, 2024",
+      "as_of_date": "2024-05-10"
+    }
+  ]
+}

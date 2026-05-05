@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Robert M. Blue",
+      "name": "Robert Blue",
       "age": 58,
       "age_year": 2024,
       "background": "Robert M. Blue is chair, president and chief executive officer of Dominion Energy. He has served as president and chief executive officer since October 2020 and was elected chair of the board in April 2021. Blue joined Dominion Energy in 2005 and has held a succession of executive roles.",
@@ -17,10 +17,11 @@
           "start_date": "2020-10-01",
           "end_date": "2021-03-31"
         }
-      ]
+      ],
+      "name_original": "Robert M. Blue"
     },
     {
-      "name": "Steven D. Ridge",
+      "name": "Steven Ridge",
       "age": 42,
       "age_year": 2024,
       "background": "Steven D. Ridge is executive vice president and chief financial officer of Dominion Energy. He assumed this role in November 2022. Previously, he served as vice president and general manager of eastern distribution operations for Dominion Energy Virginia.",
@@ -31,7 +32,8 @@
           "start_date": "2022-11-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Steven D. Ridge"
     },
     {
       "name": "Diane Leopold",
@@ -45,10 +47,11 @@
           "start_date": "2020-10-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Diane Leopold"
     },
     {
-      "name": "Carlos M. Brown",
+      "name": "Carlos Brown",
       "age": 53,
       "age_year": 2024,
       "background": "Carlos M. Brown is president of Dominion Energy Virginia. He assumed this role in January 2024. Previously, he served as senior vice president, chief legal officer and general counsel of Dominion Energy.",
@@ -64,12 +67,13 @@
           "start_date": "2019-01-01",
           "end_date": "2023-12-31"
         }
-      ]
+      ],
+      "name_original": "Carlos M. Brown"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Robert M. Blue",
+      "name": "Robert Blue",
       "age": 58,
       "age_year": 2024,
       "background": "Chair, President and Chief Executive Officer of Dominion Energy. Joined the board in 2020.",
@@ -86,10 +90,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Robert M. Blue"
     },
     {
-      "name": "James A. Bennett",
+      "name": "James Bennett",
       "age": 64,
       "age_year": 2024,
       "background": "South Carolina State President of First Citizens Bank & Trust Company. Director since 2023.",
@@ -104,10 +109,11 @@
       "committees": [
         "Audit Committee",
         "Finance and Risk Committee"
-      ]
+      ],
+      "name_original": "James A. Bennett"
     },
     {
-      "name": "D. Maybank Hagood",
+      "name": "Maybank Hagood",
       "age": 65,
       "age_year": 2024,
       "background": "Chief Executive Officer of Southern States Packaging Company. Director since 2019.",
@@ -122,10 +128,11 @@
       "committees": [
         "Audit Committee",
         "Sustainability and Corporate Responsibility Committee"
-      ]
+      ],
+      "name_original": "D. Maybank Hagood"
     },
     {
-      "name": "Ronald W. Jibson",
+      "name": "Ronald Jibson",
       "age": 70,
       "age_year": 2024,
       "background": "Retired Chairman, President and Chief Executive Officer of Questar Corporation. Director since 2016.",
@@ -140,10 +147,11 @@
       "committees": [
         "Finance and Risk Committee",
         "Sustainability and Corporate Responsibility Committee"
-      ]
+      ],
+      "name_original": "Ronald W. Jibson"
     },
     {
-      "name": "Mark J. Kington",
+      "name": "Mark Kington",
       "age": 64,
       "age_year": 2024,
       "background": "Managing Director of Kington Management, LP. Director since 2005.",
@@ -158,10 +166,11 @@
       "committees": [
         "Finance and Risk Committee",
         "Compensation and Talent Development Committee"
-      ]
+      ],
+      "name_original": "Mark J. Kington"
     },
     {
-      "name": "Joseph M. Rigby",
+      "name": "Joseph Rigby",
       "age": 67,
       "age_year": 2024,
       "background": "Retired Chairman, President and Chief Executive Officer of Pepco Holdings, Inc. Director since 2017.",
@@ -176,10 +185,11 @@
       "committees": [
         "Audit Committee",
         "Finance and Risk Committee"
-      ]
+      ],
+      "name_original": "Joseph M. Rigby"
     },
     {
-      "name": "Pamela J. Royal, M.D.",
+      "name": "Pamela Royal,",
       "age": 61,
       "age_year": 2024,
       "background": "President of Royal Dermatology and Aesthetic Center, P.C. Director since 2013.",
@@ -194,10 +204,11 @@
       "committees": [
         "Nominating and Corporate Governance Committee",
         "Sustainability and Corporate Responsibility Committee"
-      ]
+      ],
+      "name_original": "Pamela J. Royal, M.D."
     },
     {
-      "name": "Robert H. Spilman, Jr.",
+      "name": "Robert Spilman, Jr.",
       "age": 68,
       "age_year": 2024,
       "background": "Chairman, President and Chief Executive Officer of Bassett Furniture Industries, Incorporated. Lead Director since 2021. Director since 2009.",
@@ -217,10 +228,11 @@
       "committees": [
         "Compensation and Talent Development Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Robert H. Spilman, Jr."
     },
     {
-      "name": "Susan N. Story",
+      "name": "Susan Story",
       "age": 64,
       "age_year": 2024,
       "background": "Retired President and Chief Executive Officer of American Water Works Company, Inc. Director since 2017.",
@@ -235,10 +247,11 @@
       "committees": [
         "Audit Committee",
         "Sustainability and Corporate Responsibility Committee"
-      ]
+      ],
+      "name_original": "Susan N. Story"
     },
     {
-      "name": "Michael E. Szymanczyk",
+      "name": "Michael Szymanczyk",
       "age": 75,
       "age_year": 2024,
       "background": "Retired Chairman and Chief Executive Officer of Altria Group, Inc. Director since 2012.",
@@ -253,7 +266,8 @@
       "committees": [
         "Compensation and Talent Development Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Michael E. Szymanczyk"
     }
   ],
   "sources": [

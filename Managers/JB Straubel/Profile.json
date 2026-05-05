@@ -1,0 +1,36 @@
+{
+  "name": "JB Straubel",
+  "first_name": "JB",
+  "last_name": "Straubel",
+  "age": 48,
+  "age_year": 2024,
+  "background": "Co-founder and CEO of Redwood Materials. Co-founder and former CTO of Tesla.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "QuantumScape Corporation",
+      "ticker": "QS",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2019-12-01",
+      "end_date": null
+    },
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "start_date": "2023-05-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ]
+}

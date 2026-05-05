@@ -1,0 +1,169 @@
+{
+  "executives": [
+    {
+      "name": "Leigh Curyer",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Curyer has over 20 years of experience in the resources sector. He was previously the CFO of First Uranium Corporation and has held senior positions at Accord Nuclear Resources and Deloitte.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2011-12-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Leigh Curyer"
+    },
+    {
+      "name": "Benjamin Salter",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Salter is a Chartered Professional Accountant with over 15 years of experience in financial reporting and corporate finance within the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2023-09-05",
+          "end_date": null
+        }
+      ],
+      "name_original": "Benjamin Salter"
+    },
+    {
+      "name": "Travis McPherson",
+      "age": 36,
+      "age_year": 2024,
+      "background": "Mr. McPherson has been with NexGen since 2014 and has been involved in all aspects of the company's development, including corporate strategy and finance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Commercial Officer",
+          "start_date": "2022-04-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Travis McPherson"
+    },
+    {
+      "name": "Gillian McCombie",
+      "age": 50,
+      "age_year": 2024,
+      "background": "Ms. McCombie has over 25 years of experience in human resources and corporate operations, previously holding senior roles at various mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief People Officer",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Gillian McCombie"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Christopher McFadden",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. McFadden is a lawyer with extensive experience in the mining industry, particularly in corporate development and legal affairs. He was previously with Rio Tinto.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Christopher McFadden"
+    },
+    {
+      "name": "Leigh Curyer",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Founder and CEO of NexGen Energy Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2011-12-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Leigh Curyer"
+    },
+    {
+      "name": "Richard Patricio",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Mr. Patricio is the President and CEO of Mega Uranium Ltd. and has over 20 years of experience in the mining sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2013-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance Committee"
+      ],
+      "name_original": "Richard Patricio"
+    },
+    {
+      "name": "Trevor Thiele",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Thiele has over 30 years of experience in senior financial roles, including CFO positions in the resources sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2013-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)",
+        "Compensation Committee"
+      ],
+      "name_original": "Trevor Thiele"
+    },
+    {
+      "name": "Warren Gilman",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Gilman is the Chairman and CEO of Queen's Road Capital Investment Ltd. and has extensive experience in global mining finance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2017-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance Committee"
+      ],
+      "name_original": "Warren Gilman"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.nexgenenergy.ca/about/management-and-directors/",
+      "source_description": "Company Website - Management and Directors Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "Management Information Circular",
+      "as_of_date": "2024-04-15"
+    }
+  ]
+}

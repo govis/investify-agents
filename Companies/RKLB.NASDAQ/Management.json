@@ -17,7 +17,8 @@
           "start_date": "2021-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Peter Beck"
     },
     {
       "name": "Adam Spice",
@@ -31,13 +32,14 @@
           "start_date": "2018-05-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Adam Spice"
     },
     {
-      "name": "Shaun O’Donnell",
+      "name": "Shaun O\u2019Donnell",
       "age": 48,
       "age_year": 2024,
-      "background": "Mr. O’Donnell has served as the Chief Operating Officer since October 2017. Prior to that, he served as the Vice President of New Zealand Operations from June 2013 to October 2017. Before joining Rocket Lab, Mr. O’Donnell held various leadership roles in the telecommunications and technology sectors.",
+      "background": "Mr. O\u2019Donnell has served as the Chief Operating Officer since October 2017. Prior to that, he served as the Vice President of New Zealand Operations from June 2013 to October 2017. Before joining Rocket Lab, Mr. O\u2019Donnell held various leadership roles in the telecommunications and technology sectors.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -45,7 +47,8 @@
           "start_date": "2017-10-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Shaun O\u2019Donnell"
     }
   ],
   "board_of_directors": [
@@ -62,7 +65,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Peter Beck"
     },
     {
       "name": "David Falstrup",
@@ -80,7 +84,8 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "David Falstrup"
     },
     {
       "name": "Sven Ennerfelt",
@@ -97,7 +102,8 @@
       ],
       "committees": [
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Sven Ennerfelt"
     },
     {
       "name": "Michael Griffin",
@@ -114,7 +120,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Michael Griffin"
     },
     {
       "name": "Merline Saintil",
@@ -132,7 +139,8 @@
       "committees": [
         "Compensation Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Merline Saintil"
     },
     {
       "name": "Jon McNeill",
@@ -149,7 +157,8 @@
       ],
       "committees": [
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Jon McNeill"
     }
   ],
   "sources": [

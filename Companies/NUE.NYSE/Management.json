@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Leon J. Topalian",
+      "name": "Leon Topalian",
       "age": 56,
       "age_year": 2024,
       "background": "Mr. Topalian has served as Chair of the Board since September 2022, President and Chief Executive Officer since January 2020, and President and Chief Operating Officer from September 2019 to December 2019. He previously served as an Executive Vice President from 2017 to 2019 and a Vice President from 2013 to 2017. He has been with Nucor since 1996.",
@@ -17,10 +17,11 @@
           "start_date": "2020-01-01",
           "end_date": "2022-09-14"
         }
-      ]
+      ],
+      "name_original": "Leon J. Topalian"
     },
     {
-      "name": "Stephen D. Laxton",
+      "name": "Stephen Laxton",
       "age": 53,
       "age_year": 2024,
       "background": "Mr. Laxton has served as Chief Financial Officer, Treasurer and Executive Vice President since March 2022. He previously served as Vice President of Business Development and Strategic Planning from 2014 to 2022. He joined Nucor in 2003.",
@@ -31,10 +32,11 @@
           "start_date": "2022-03-06",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Stephen D. Laxton"
     },
     {
-      "name": "David A. Sumoski",
+      "name": "David Sumoski",
       "age": 57,
       "age_year": 2024,
       "background": "Mr. Sumoski has served as Chief Operating Officer and Executive Vice President since January 2021. He previously served as Executive Vice President from 2014 to 2020 and Vice President from 2010 to 2014. He has been with Nucor since 1987.",
@@ -45,10 +47,11 @@
           "start_date": "2021-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "David A. Sumoski"
     },
     {
-      "name": "Douglas J. Jellison",
+      "name": "Douglas Jellison",
       "age": 65,
       "age_year": 2024,
       "background": "Mr. Jellison has served as Executive Vice President since 2021. He previously served as Vice President from 2012 to 2020. He has been with Nucor since 1990.",
@@ -59,10 +62,11 @@
           "start_date": "2021-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Douglas J. Jellison"
     },
     {
-      "name": "Greg J. Murphy",
+      "name": "Greg Murphy",
       "age": 60,
       "age_year": 2024,
       "background": "Mr. Murphy has served as Executive Vice President of Business Services and General Counsel since 2021. He previously served as Vice President and General Counsel from 2015 to 2020.",
@@ -73,10 +77,11 @@
           "start_date": "2021-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Greg J. Murphy"
     },
     {
-      "name": "Daniel R. Needham",
+      "name": "Daniel Needham",
       "age": 58,
       "age_year": 2024,
       "background": "Mr. Needham has served as Executive Vice President since 2021. He previously served as Vice President from 2019 to 2021. He has been with Nucor since 1993.",
@@ -87,7 +92,8 @@
           "start_date": "2021-02-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Daniel R. Needham"
     },
     {
       "name": "Chad Utermark",
@@ -101,12 +107,13 @@
           "start_date": "2014-05-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Chad Utermark"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Leon J. Topalian",
+      "name": "Leon Topalian",
       "age": 56,
       "age_year": 2024,
       "background": "Chair, President and Chief Executive Officer of Nucor Corporation.",
@@ -123,10 +130,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Leon J. Topalian"
     },
     {
-      "name": "Norma B. Clayton",
+      "name": "Norma Clayton",
       "age": 65,
       "age_year": 2024,
       "background": "Former Vice President for Learning, Training and Development at The Boeing Company.",
@@ -141,10 +149,11 @@
       "committees": [
         "Governance and Nominating",
         "Audit"
-      ]
+      ],
+      "name_original": "Norma B. Clayton"
     },
     {
-      "name": "Patrick J. Dempsey",
+      "name": "Patrick Dempsey",
       "age": 59,
       "age_year": 2024,
       "background": "President and Chief Executive Officer of Barnes Group Inc.",
@@ -159,10 +168,11 @@
       "committees": [
         "Compensation and Executive Development",
         "Governance and Nominating"
-      ]
+      ],
+      "name_original": "Patrick J. Dempsey"
     },
     {
-      "name": "Christopher J. Kearney",
+      "name": "Christopher Kearney",
       "age": 68,
       "age_year": 2024,
       "background": "Former Chairman, President and Chief Executive Officer of SPX FLOW, Inc.",
@@ -182,10 +192,11 @@
       "committees": [
         "Governance and Nominating",
         "Compensation and Executive Development"
-      ]
+      ],
+      "name_original": "Christopher J. Kearney"
     },
     {
-      "name": "Laurette T. Koellner",
+      "name": "Laurette Koellner",
       "age": 69,
       "age_year": 2024,
       "background": "Former President of Boeing International.",
@@ -200,10 +211,11 @@
       "committees": [
         "Audit",
         "Governance and Nominating"
-      ]
+      ],
+      "name_original": "Laurette T. Koellner"
     },
     {
-      "name": "Joseph D. Rupp",
+      "name": "Joseph Rupp",
       "age": 69,
       "age_year": 2024,
       "background": "Former Chairman, President and Chief Executive Officer of Olin Corporation.",
@@ -218,10 +230,11 @@
       "committees": [
         "Compensation and Executive Development",
         "Governance and Nominating"
-      ]
+      ],
+      "name_original": "Joseph D. Rupp"
     },
     {
-      "name": "John H. Walker",
+      "name": "John Walker",
       "age": 66,
       "age_year": 2024,
       "background": "Former Chief Executive Officer of Global Brass and Copper Holdings, Inc.",
@@ -236,10 +249,11 @@
       "committees": [
         "Audit",
         "Governance and Nominating"
-      ]
+      ],
+      "name_original": "John H. Walker"
     },
     {
-      "name": "Nadja Y. West",
+      "name": "Nadja West",
       "age": 63,
       "age_year": 2024,
       "background": "Retired Lieutenant General in the United States Army and 44th Surgeon General of the U.S. Army.",
@@ -254,10 +268,11 @@
       "committees": [
         "Audit",
         "Governance and Nominating"
-      ]
+      ],
+      "name_original": "Nadja Y. West"
     },
     {
-      "name": "Michael W. Lamach",
+      "name": "Michael Lamach",
       "age": 61,
       "age_year": 2024,
       "background": "Former Executive Chair and Chief Executive Officer of Trane Technologies plc.",
@@ -272,7 +287,8 @@
       "committees": [
         "Audit",
         "Governance and Nominating"
-      ]
+      ],
+      "name_original": "Michael W. Lamach"
     }
   ],
   "sources": [

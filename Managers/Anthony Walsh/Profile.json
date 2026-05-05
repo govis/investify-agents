@@ -1,0 +1,35 @@
+{
+  "name": "Anthony Walsh",
+  "first_name": "Anthony",
+  "last_name": "Walsh",
+  "age": 69,
+  "age_year": 2024,
+  "background": "Mr. Walsh is a Chartered Professional Accountant with extensive experience in the mining industry, including serving as President and CEO of Miramar Mining Corporation.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Dundee Precious Metals Inc.",
+      "ticker": "DPM",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "start_date": "2011-01-01",
+      "end_date": null
+    },
+    {
+      "name": "NOVAGOLD RESOURCES INC.",
+      "ticker": "NG",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2011-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ]
+}

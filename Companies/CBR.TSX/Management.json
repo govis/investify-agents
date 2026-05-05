@@ -1,0 +1,136 @@
+{
+  "executives": [
+    {
+      "name": "Alan Carter",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Dr. Carter has over 30 years of experience in the exploration and mining industry. He was a co-founder of Peregrine Diamonds Ltd. and Magellan Minerals Ltd. He previously worked for Rio Tinto and BHP Billiton.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Chief Executive Officer and Director",
+          "start_date": "2016-02-11",
+          "end_date": null
+        }
+      ],
+      "name_original": "Alan Carter"
+    },
+    {
+      "name": "Paul Smith",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Smith is a Chartered Professional Accountant with over 30 years of experience in financial management and reporting. He has served as CFO for several public mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2017-10-30",
+          "end_date": null
+        }
+      ],
+      "name_original": "Paul G. Smith"
+    },
+    {
+      "name": "Guilherme Cavalcanti",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Cavalcanti has extensive experience in the Brazilian mining sector, having worked with major companies in project development and operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Corporate Development",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Guilherme Cavalcanti"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Alan Carter",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Dr. Carter has over 30 years of experience in the exploration and mining industry. He was a co-founder of Peregrine Diamonds Ltd. and Magellan Minerals Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2016-02-11",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Alan Carter"
+    },
+    {
+      "name": "Dennis Higginson",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Mr. Higginson has over 40 years of experience in the mining industry, specializing in exploration and project management. He has held senior positions with several junior mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2017-10-30",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Dennis Higginson"
+    },
+    {
+      "name": "Mark Smith",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Smith is a professional engineer with over 35 years of experience in the mining industry. He has served as CEO and Director of several public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2018-06-21",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Mark Smith"
+    },
+    {
+      "name": "Rodney Cooper",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Cooper is a mining engineer with over 35 years of experience in operations, project management, and corporate development. He was previously COO of Kinross Gold.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2021-06-24",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Rodney Cooper"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://cabralgold.com/corporate/management-and-directors/",
+      "source_description": "Company Website - Management and Directors Page",
+      "as_of_date": "2024-05-22"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "Management Information Circular dated May 22, 2024",
+      "as_of_date": "2024-05-22"
+    }
+  ]
+}

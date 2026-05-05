@@ -1,10 +1,10 @@
 {
   "executives": [
     {
-      "name": "John L. Hopkins",
+      "name": "John Hopkins",
       "age": 70,
       "age_year": 2024,
-      "background": "Mr. Hopkins has served as our President and Chief Executive Officer and as a member of our Board since May 2022. He previously served as the President and Chief Executive Officer of NuScale LLC from December 2012 to May 2022. Prior to joining NuScale LLC, Mr. Hopkins held several senior executive positions at Fluor Corporation, including Group President of Fluor’s Government Group and President of Fluor’s Global Corporate Development and New Ventures Group.",
+      "background": "Mr. Hopkins has served as our President and Chief Executive Officer and as a member of our Board since May 2022. He previously served as the President and Chief Executive Officer of NuScale LLC from December 2012 to May 2022. Prior to joining NuScale LLC, Mr. Hopkins held several senior executive positions at Fluor Corporation, including Group President of Fluor\u2019s Government Group and President of Fluor\u2019s Global Corporate Development and New Ventures Group.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -12,7 +12,8 @@
           "start_date": "2022-05-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "John L. Hopkins"
     },
     {
       "name": "Robert Hamady",
@@ -26,10 +27,11 @@
           "start_date": "2023-04-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Robert Hamady"
     },
     {
-      "name": "Carl J. (Chuck) Goodnight",
+      "name": "Chuck Goodnight",
       "age": 63,
       "age_year": 2024,
       "background": "Mr. Goodnight has served as our Chief Operating Officer since January 2024. He previously served as Vice President of Sales and Business Development for NuScale LLC.",
@@ -40,12 +42,13 @@
           "start_date": "2024-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Carl J. (Chuck) Goodnight"
     }
   ],
   "board_of_directors": [
     {
-      "name": "John L. Hopkins",
+      "name": "John Hopkins",
       "age": 70,
       "age_year": 2024,
       "background": "Mr. Hopkins has served as our President and Chief Executive Officer and as a member of our Board since May 2022. He previously served as the President and Chief Executive Officer of NuScale LLC from December 2012 to May 2022.",
@@ -57,10 +60,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "John L. Hopkins"
     },
     {
-      "name": "Alan L. Boeckmann",
+      "name": "Alan Boeckmann",
       "age": 75,
       "age_year": 2024,
       "background": "Mr. Boeckmann has served as a member of our Board since May 2022. He is the former Executive Chairman and CEO of Fluor Corporation.",
@@ -75,10 +79,11 @@
       "committees": [
         "Compensation Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Alan L. Boeckmann"
     },
     {
-      "name": "Alvin C. Collins III",
+      "name": "Alvin Collins III",
       "age": 57,
       "age_year": 2024,
       "background": "Mr. Collins has served as a member of our Board since May 2022. He is a retired executive from Fluor Corporation.",
@@ -92,10 +97,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Alvin C. Collins III"
     },
     {
-      "name": "James T. Hackett",
+      "name": "James Hackett",
       "age": 70,
       "age_year": 2024,
       "background": "Mr. Hackett has served as a member of our Board since May 2022. He is the former Executive Chairman of Anadarko Petroleum Corporation.",
@@ -110,7 +116,8 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "James T. Hackett"
     },
     {
       "name": "Kent Kresa",
@@ -127,7 +134,8 @@
       ],
       "committees": [
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Kent Kresa"
     }
   ],
   "sources": [

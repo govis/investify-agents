@@ -17,7 +17,8 @@
           "start_date": "2020-01-01",
           "end_date": "2023-03-31"
         }
-      ]
+      ],
+      "name_original": "Haviv Ilan"
     },
     {
       "name": "Rafael Lizardi",
@@ -31,13 +32,14 @@
           "start_date": "2017-02-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Rafael Lizardi"
     },
     {
       "name": "Ahmad Bahai",
       "age": 61,
       "age_year": 2024,
-      "background": "Ahmad Bahai is senior vice president and chief technology officer, responsible for guiding TI’s technology strategy and research.",
+      "background": "Ahmad Bahai is senior vice president and chief technology officer, responsible for guiding TI\u2019s technology strategy and research.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -45,7 +47,8 @@
           "start_date": "2018-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Ahmad Bahai"
     },
     {
       "name": "Mark Gary",
@@ -59,7 +62,8 @@
           "start_date": "2023-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Mark Gary"
     },
     {
       "name": "Cynthia Hoff Trochu",
@@ -73,12 +77,13 @@
           "start_date": "2015-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Cynthia Hoff Trochu"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Richard K. Templeton",
+      "name": "Richard Templeton",
       "age": 65,
       "age_year": 2024,
       "background": "Rich Templeton is chairman of the board. He served as TI's president and CEO from 2004 to 2023.",
@@ -90,7 +95,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Richard K. Templeton"
     },
     {
       "name": "Haviv Ilan",
@@ -105,10 +111,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Haviv Ilan"
     },
     {
-      "name": "Mark A. Blinn",
+      "name": "Mark Blinn",
       "age": 62,
       "age_year": 2024,
       "background": "Former President and CEO of Flowserve Corporation.",
@@ -123,10 +130,11 @@
       "committees": [
         "Audit Committee",
         "Governance and Stockholder Relations Committee"
-      ]
+      ],
+      "name_original": "Mark A. Blinn"
     },
     {
-      "name": "Janet F. Clark",
+      "name": "Janet Clark",
       "age": 69,
       "age_year": 2024,
       "background": "Former Executive Vice President and CFO of Marathon Oil Corporation.",
@@ -141,10 +149,11 @@
       "committees": [
         "Audit Committee",
         "Governance and Stockholder Relations Committee"
-      ]
+      ],
+      "name_original": "Janet F. Clark"
     },
     {
-      "name": "Carrie S. Cox",
+      "name": "Carrie Cox",
       "age": 66,
       "age_year": 2024,
       "background": "Former Chairman and CEO of Humacyte, Inc.",
@@ -159,10 +168,11 @@
       "committees": [
         "Compensation Committee",
         "Governance and Stockholder Relations Committee"
-      ]
+      ],
+      "name_original": "Carrie S. Cox"
     },
     {
-      "name": "Martin S. Craighead",
+      "name": "Martin Craighead",
       "age": 64,
       "age_year": 2024,
       "background": "Former Chairman and CEO of Baker Hughes Incorporated.",
@@ -177,10 +187,11 @@
       "committees": [
         "Compensation Committee",
         "Governance and Stockholder Relations Committee"
-      ]
+      ],
+      "name_original": "Martin S. Craighead"
     },
     {
-      "name": "Jean M. Hobby",
+      "name": "Jean Hobby",
       "age": 63,
       "age_year": 2024,
       "background": "Former Strategy Officer at PricewaterhouseCoopers, LLP.",
@@ -195,7 +206,8 @@
       "committees": [
         "Audit Committee",
         "Governance and Stockholder Relations Committee"
-      ]
+      ],
+      "name_original": "Jean M. Hobby"
     },
     {
       "name": "Ronald Kirk",
@@ -212,10 +224,11 @@
       ],
       "committees": [
         "Governance and Stockholder Relations Committee"
-      ]
+      ],
+      "name_original": "Ronald Kirk"
     },
     {
-      "name": "Pamela H. Patsley",
+      "name": "Pamela Patsley",
       "age": 67,
       "age_year": 2024,
       "background": "Former Executive Chairman of MoneyGram International, Inc.",
@@ -230,10 +243,11 @@
       "committees": [
         "Audit Committee",
         "Governance and Stockholder Relations Committee"
-      ]
+      ],
+      "name_original": "Pamela H. Patsley"
     },
     {
-      "name": "Robert E. Sanchez",
+      "name": "Robert Sanchez",
       "age": 59,
       "age_year": 2024,
       "background": "Chairman and CEO of Ryder System, Inc.",
@@ -248,7 +262,8 @@
       "committees": [
         "Compensation Committee",
         "Governance and Stockholder Relations Committee"
-      ]
+      ],
+      "name_original": "Robert E. Sanchez"
     }
   ],
   "sources": [

@@ -1,10 +1,10 @@
 {
   "executives": [
     {
-      "name": "Jennifer A. Parmentier",
+      "name": "Jennifer Parmentier",
       "age": 57,
       "age_year": 2024,
-      "background": "Ms. Parmentier has served as Chief Executive Officer since January 2023 and Chairman of the Board since January 2024. She previously served as Chief Operating Officer from 2021 to 2022 and Vice President and President – Motion Systems Group from 2019 to 2021.",
+      "background": "Ms. Parmentier has served as Chief Executive Officer since January 2023 and Chairman of the Board since January 2024. She previously served as Chief Operating Officer from 2021 to 2022 and Vice President and President \u2013 Motion Systems Group from 2019 to 2021.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -22,13 +22,14 @@
           "start_date": "2021-01-01",
           "end_date": "2022-12-31"
         }
-      ]
+      ],
+      "name_original": "Jennifer A. Parmentier"
     },
     {
-      "name": "Andrew D. Ross",
+      "name": "Andrew Ross",
       "age": 62,
       "age_year": 2024,
-      "background": "Mr. Ross has served as President and Chief Operating Officer since January 2023. He previously served as Vice President and President – Engineered Materials Group from 2015 to 2022.",
+      "background": "Mr. Ross has served as President and Chief Operating Officer since January 2023. He previously served as Vice President and President \u2013 Engineered Materials Group from 2015 to 2022.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -36,10 +37,11 @@
           "start_date": "2023-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Andrew D. Ross"
     },
     {
-      "name": "Todd M. Leombruno",
+      "name": "Todd Leombruno",
       "age": 54,
       "age_year": 2024,
       "background": "Mr. Leombruno has served as Executive Vice President and Chief Financial Officer since 2021. He previously served as Vice President and Controller from 2017 to 2021.",
@@ -50,12 +52,13 @@
           "start_date": "2021-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Todd M. Leombruno"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Jennifer A. Parmentier",
+      "name": "Jennifer Parmentier",
       "age": 57,
       "age_year": 2024,
       "background": "Chairman and Chief Executive Officer of Parker-Hannifin Corporation.",
@@ -67,10 +70,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Jennifer A. Parmentier"
     },
     {
-      "name": "Lee C. Banks",
+      "name": "Lee Banks",
       "age": 61,
       "age_year": 2024,
       "background": "Former Vice Chairman and President of Parker-Hannifin Corporation. He served as President and Chief Operating Officer from 2015 to 2022.",
@@ -82,10 +86,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Lee C. Banks"
     },
     {
-      "name": "Jillian C. Evanko",
+      "name": "Jillian Evanko",
       "age": 46,
       "age_year": 2024,
       "background": "President and Chief Executive Officer of Chart Industries, Inc.",
@@ -99,7 +104,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Jillian C. Evanko"
     },
     {
       "name": "Joseph Scaminace",
@@ -116,10 +122,11 @@
       ],
       "committees": [
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Joseph Scaminace"
     },
     {
-      "name": "James R. Verrier",
+      "name": "James Verrier",
       "age": 61,
       "age_year": 2024,
       "background": "Former President and Chief Executive Officer of BorgWarner Inc.",
@@ -133,7 +140,8 @@
       ],
       "committees": [
         "Human Resources and Compensation Committee"
-      ]
+      ],
+      "name_original": "James R. Verrier"
     }
   ],
   "sources": [

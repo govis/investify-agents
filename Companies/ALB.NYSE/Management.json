@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "J. Kent Masters",
+      "name": "Kent Masters",
       "age": 63,
       "age_year": 2024,
       "background": "Mr. Masters has served as Chairman, President and Chief Executive Officer of Albemarle since April 2020. He was previously a non-employee director of Albemarle from 2015 to 2020. Prior to joining Albemarle, he served as an Operating Partner of Advent International and as Chief Executive Officer of Foster Wheeler AG.",
@@ -12,7 +12,8 @@
           "start_date": "2020-04-20",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "J. Kent Masters"
     },
     {
       "name": "Neal Sheorey",
@@ -26,10 +27,11 @@
           "start_date": "2023-11-06",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Neal Sheorey"
     },
     {
-      "name": "Kristin M. Coleman",
+      "name": "Kristin Coleman",
       "age": 55,
       "age_year": 2024,
       "background": "Ms. Coleman has served as Executive Vice President, General Counsel and Corporate Secretary since November 2022. Prior to joining Albemarle, she served as Executive Vice President, General Counsel and Corporate Secretary of US Foods Holding Corp.",
@@ -40,7 +42,8 @@
           "start_date": "2022-11-28",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Kristin M. Coleman"
     },
     {
       "name": "Nneka Chiazor",
@@ -54,10 +57,11 @@
           "start_date": "2021-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Nneka Chiazor"
     },
     {
-      "name": "Stacy S. Ruley",
+      "name": "Stacy Ruley",
       "age": 54,
       "age_year": 2024,
       "background": "Ms. Ruley has served as Vice President, Chief Accounting Officer since 2021. She joined Albemarle in 2015 and has held various finance leadership roles.",
@@ -68,12 +72,13 @@
           "start_date": "2021-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Stacy S. Ruley"
     }
   ],
   "board_of_directors": [
     {
-      "name": "J. Kent Masters",
+      "name": "Kent Masters",
       "age": 63,
       "age_year": 2024,
       "background": "Chairman, President and Chief Executive Officer of Albemarle Corporation.",
@@ -85,10 +90,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "J. Kent Masters"
     },
     {
-      "name": "Ralf H. Cramer",
+      "name": "Ralf Cramer",
       "age": 57,
       "age_year": 2024,
       "background": "Former Member of the Executive Board of Continental AG and President and CEO of Continental China.",
@@ -103,10 +109,11 @@
       "committees": [
         "Audit Committee",
         "Health, Safety & Environmental Committee"
-      ]
+      ],
+      "name_original": "Ralf H. Cramer"
     },
     {
-      "name": "Glenda J. Minor",
+      "name": "Glenda Minor",
       "age": 67,
       "age_year": 2024,
       "background": "Chief Executive Officer and Principal of Silket Advisory Services. Former SVP and Controller of Evraz North America Limited.",
@@ -121,7 +128,8 @@
       "committees": [
         "Audit Committee",
         "Nominating & Governance Committee"
-      ]
+      ],
+      "name_original": "Glenda J. Minor"
     },
     {
       "name": "Jim O'Brien",
@@ -139,10 +147,11 @@
       "committees": [
         "Executive Committee",
         "Nominating & Governance Committee"
-      ]
+      ],
+      "name_original": "Jim O'Brien"
     },
     {
-      "name": "Diarmuid B. O'Connell",
+      "name": "Diarmuid O'Connell",
       "age": 60,
       "age_year": 2024,
       "background": "Former Vice President of Business Development at Tesla, Inc.",
@@ -157,10 +166,11 @@
       "committees": [
         "Capital Investment Committee",
         "Health, Safety & Environmental Committee"
-      ]
+      ],
+      "name_original": "Diarmuid B. O'Connell"
     },
     {
-      "name": "Dean L. Seavers",
+      "name": "Dean Seavers",
       "age": 63,
       "age_year": 2024,
       "background": "Former President and Executive Director of National Grid plc.",
@@ -175,10 +185,11 @@
       "committees": [
         "Capital Investment Committee",
         "Executive Compensation Committee"
-      ]
+      ],
+      "name_original": "Dean L. Seavers"
     },
     {
-      "name": "Gerald A. Steiner",
+      "name": "Gerald Steiner",
       "age": 68,
       "age_year": 2024,
       "background": "Former Executive Vice President, Sustainability and Corporate Affairs of Monsanto Company.",
@@ -193,10 +204,11 @@
       "committees": [
         "Executive Compensation Committee",
         "Health, Safety & Environmental Committee"
-      ]
+      ],
+      "name_original": "Gerald A. Steiner"
     },
     {
-      "name": "Holly A. Van Deursen",
+      "name": "Holly Van Deursen",
       "age": 65,
       "age_year": 2024,
       "background": "Former Group Vice President, Petrochemicals of BP plc.",
@@ -211,7 +223,8 @@
       "committees": [
         "Audit Committee",
         "Executive Compensation Committee"
-      ]
+      ],
+      "name_original": "Holly A. Van Deursen"
     }
   ],
   "sources": [

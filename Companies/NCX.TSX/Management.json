@@ -1,0 +1,155 @@
+{
+  "executives": [
+    {
+      "name": "Sam Rashkin",
+      "age": 41,
+      "age_year": 2024,
+      "background": "Mr. Rashkin is a geologist with over 15 years of experience in the mining industry. He has held various roles in exploration and development, including with major mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2020-11-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Sam Rashkin"
+    },
+    {
+      "name": "Nicholas Van Dyk",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Van Dyk is a public company executive with over 20 years of experience in corporate development, finance, and investor relations in the mining sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2020-11-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Nicholas Van Dyk"
+    },
+    {
+      "name": "Robin Goad",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Goad is a professional geologist with over 35 years of experience in the mining and exploration industry. He has been involved in the discovery and development of several mineral deposits.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Exploration",
+          "start_date": "2011-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Robin Goad"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Dale Corman",
+      "age": 86,
+      "age_year": 2024,
+      "background": "Mr. Corman has over 50 years of experience in mineral exploration and development. He was previously the Chairman and CEO of Western Silver Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2011-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Dale Corman"
+    },
+    {
+      "name": "Sam Rashkin",
+      "age": 41,
+      "age_year": 2024,
+      "background": "Mr. Rashkin is a geologist with over 15 years of experience in the mining industry. He has held various roles in exploration and development, including with major mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2020-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Sam Rashkin"
+    },
+    {
+      "name": "Martino De Ciccio",
+      "age": 42,
+      "age_year": 2024,
+      "background": "Mr. De Ciccio is a finance professional with extensive experience in the mining industry, particularly in corporate development and investor relations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "Martino De Ciccio"
+    },
+    {
+      "name": "Candace MacGibbon",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Ms. MacGibbon is a Chartered Professional Accountant with over 25 years of experience in the mining sector and capital markets.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Candace MacGibbon"
+    },
+    {
+      "name": "Kevin O'Kane",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Mr. O'Kane is a mining engineer with nearly 40 years of experience in the industry, including senior executive roles at BHP.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Nominating Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Kevin O'Kane"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.northisle.ca/about-us/management-and-directors/",
+      "source_description": "NorthIsle Copper and Gold Inc. Official Website - Management and Directors Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "SEDAR+ Management Information Circular",
+      "as_of_date": "2024-04-25"
+    }
+  ]
+}

@@ -12,7 +12,8 @@
           "start_date": "2010-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "John McConnell"
     },
     {
       "name": "Marty Rendall",
@@ -26,10 +27,11 @@
           "start_date": "2011-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Marty Rendall"
     },
     {
-      "name": "Mark J. Ayranto",
+      "name": "Mark Ayranto",
       "age": 52,
       "age_year": 2024,
       "background": "Mr. Ayranto has over 20 years of experience in the mining industry, specifically in the Yukon. He has been with Victoria Gold since 2009 and oversees corporate development and sustainability.",
@@ -40,10 +42,11 @@
           "start_date": "2021-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Mark J. Ayranto"
     },
     {
-      "name": "Dave S. Rouleau",
+      "name": "Dave Rouleau",
       "age": 61,
       "age_year": 2024,
       "background": "Mr. Rouleau has over 30 years of experience in mine operations and management. He joined Victoria Gold in 2017 and was previously Vice President, Operations at Taseko Mines Limited.",
@@ -54,12 +57,13 @@
           "start_date": "2017-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Dave S. Rouleau"
     }
   ],
   "board_of_directors": [
     {
-      "name": "T. Sean Harvey",
+      "name": "Sean Harvey",
       "age": 65,
       "age_year": 2024,
       "background": "Mr. Harvey has over 25 years of experience in the investment banking and mining industries. He has served as Chairman of Victoria Gold since 2007. He was previously President and CEO of Orvana Minerals Corp.",
@@ -74,7 +78,8 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "T. Sean Harvey"
     },
     {
       "name": "John McConnell",
@@ -91,10 +96,11 @@
       ],
       "committees": [
         "Technical Committee"
-      ]
+      ],
+      "name_original": "John McConnell"
     },
     {
-      "name": "Christopher J. Hill",
+      "name": "Christopher Hill",
       "age": 64,
       "age_year": 2024,
       "background": "Mr. Hill has over 30 years of experience in the mining industry, primarily in financial and corporate development roles. He was previously Treasurer of Kinross Gold Corporation.",
@@ -109,7 +115,8 @@
       "committees": [
         "Audit Committee (Chair)",
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Christopher J. Hill"
     },
     {
       "name": "Sean Boyd",
@@ -127,7 +134,8 @@
       "committees": [
         "Compensation Committee",
         "Technical Committee"
-      ]
+      ],
+      "name_original": "Sean Boyd"
     },
     {
       "name": "Leona Aglukkaq",
@@ -144,7 +152,8 @@
       ],
       "committees": [
         "Corporate Governance and Nominating Committee (Chair)"
-      ]
+      ],
+      "name_original": "Leona Aglukkaq"
     },
     {
       "name": "Joe Giuffre",
@@ -162,7 +171,8 @@
       "committees": [
         "Corporate Governance and Nominating Committee",
         "Compensation Committee (Chair)"
-      ]
+      ],
+      "name_original": "Joe Giuffre"
     }
   ],
   "sources": [

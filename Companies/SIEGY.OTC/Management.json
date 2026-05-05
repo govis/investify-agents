@@ -1,0 +1,260 @@
+{
+  "executives": [
+    {
+      "name": "Roland Busch",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Roland Busch is President and CEO of Siemens AG. He joined Siemens in 1994 and has held various leadership roles, including COO, CTO, and member of the Managing Board since 2011. He holds a PhD in Physics from the University of Erlangen-Nuremberg.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2021-02-01",
+          "end_date": null
+        },
+        {
+          "title": "Member of the Managing Board",
+          "start_date": "2011-04-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Roland Busch"
+    },
+    {
+      "name": "Ralf Thomas",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Ralf P. Thomas is the CFO of Siemens AG. He joined Siemens in 1995 and has served in various finance leadership roles, including CFO of the Industry Sector. He has been a member of the Managing Board since 2013.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2013-09-18",
+          "end_date": null
+        },
+        {
+          "title": "Member of the Managing Board",
+          "start_date": "2013-09-18",
+          "end_date": null
+        }
+      ],
+      "name_original": "Ralf P. Thomas"
+    },
+    {
+      "name": "Cedrik Neike",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Cedrik Neike is CEO of Digital Industries and a member of the Managing Board. He joined Siemens in 1997, spent time at Cisco Systems, and returned to Siemens in 2017.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "CEO Digital Industries",
+          "start_date": "2020-10-01",
+          "end_date": null
+        },
+        {
+          "title": "Member of the Managing Board",
+          "start_date": "2017-04-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Cedrik Neike"
+    },
+    {
+      "name": "Matthias Rebellius",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Matthias Rebellius is CEO of Smart Infrastructure and a member of the Managing Board. He has been with Siemens since 1988 in various management positions.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "CEO Smart Infrastructure",
+          "start_date": "2020-10-01",
+          "end_date": null
+        },
+        {
+          "title": "Member of the Managing Board",
+          "start_date": "2020-10-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Matthias Rebellius"
+    },
+    {
+      "name": "Judith Wiese",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Judith Wiese is Chief People and Sustainability Officer (CPSO) and a member of the Managing Board. She joined Siemens in 2020 from Mars Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief People and Sustainability Officer",
+          "start_date": "2020-10-01",
+          "end_date": null
+        },
+        {
+          "title": "Member of the Managing Board",
+          "start_date": "2020-10-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Judith Wiese"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jim Hagemann Snabe",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Chairman of the Supervisory Board of Siemens AG. Former Co-CEO of SAP SE. He serves on various boards including Northvolt AB.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Supervisory Board",
+          "start_date": "2018-02-01",
+          "end_date": null
+        },
+        {
+          "role": "Member of the Supervisory Board",
+          "start_date": "2013-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Chairman's Committee",
+        "Nominating Committee",
+        "Innovation and Finance Committee"
+      ],
+      "name_original": "Jim Hagemann Snabe"
+    },
+    {
+      "name": "Birgit Steinborn",
+      "age": 64,
+      "age_year": 2024,
+      "background": "First Deputy Chairwoman of the Supervisory Board. Chairwoman of the Central Works Council of Siemens AG.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "First Deputy Chairwoman",
+          "start_date": "2015-01-27",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Chairman's Committee",
+        "Audit Committee",
+        "Innovation and Finance Committee"
+      ],
+      "name_original": "Birgit Steinborn"
+    },
+    {
+      "name": "Werner Wenning",
+      "age": 77,
+      "age_year": 2024,
+      "background": "Second Deputy Chairman of the Supervisory Board. Former Chairman of the Board of Management of Bayer AG.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Second Deputy Chairman",
+          "start_date": "2013-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Chairman's Committee",
+        "Audit Committee",
+        "Nominating Committee"
+      ],
+      "name_original": "Werner Wenning"
+    },
+    {
+      "name": "Beno\u00eet Potier",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Chairman of the Board of Directors of Air Liquide S.A.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Member of the Supervisory Board",
+          "start_date": "2018-01-31",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nominating Committee"
+      ],
+      "name_original": "Beno\u00eet Potier"
+    },
+    {
+      "name": "Nathalie von Siemens",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Former Managing Director and spokesperson of the Board of Siemens Stiftung.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Member of the Supervisory Board",
+          "start_date": "2015-01-27",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Innovation and Finance Committee"
+      ],
+      "name_original": "Nathalie von Siemens"
+    },
+    {
+      "name": "Grazia Vittadini",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Former CTO of Airbus and Rolls-Royce. Expert in aerospace and technology.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Member of the Supervisory Board",
+          "start_date": "2021-02-03",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Innovation and Finance Committee"
+      ],
+      "name_original": "Grazia Vittadini"
+    },
+    {
+      "name": "Kasper R\u00f8rsted",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former CEO of Adidas AG and Henkel AG & Co. KGaA.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Member of the Supervisory Board",
+          "start_date": "2021-02-03",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Kasper R\u00f8rsted"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.siemens.com/global/en/company/about/corporate-governance/managing-board.html",
+      "source_description": "Official Siemens AG Managing Board Corporate Website",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.siemens.com/global/en/company/about/corporate-governance/supervisory-board.html",
+      "source_description": "Official Siemens AG Supervisory Board Corporate Website",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.siemens.com/global/en/company/investor-relations/events-publications-ad-hoc/annual-reports.html",
+      "source_description": "Siemens Annual Report 2023",
+      "as_of_date": "2023-11-16"
+    }
+  ]
+}

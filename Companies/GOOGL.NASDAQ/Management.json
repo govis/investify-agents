@@ -4,7 +4,7 @@
       "name": "Sundar Pichai",
       "age": 51,
       "age_year": 2024,
-      "background": "Sundar Pichai has served as the Chief Executive Officer of Alphabet since December 2019 and as the Chief Executive Officer of Google since October 2015. He has been a member of Alphabet’s Board of Directors since July 2017. Since joining Google in 2004, he has held various leadership roles, including overseeing product management and innovation for a suite of Google’s consumer and enterprise products.",
+      "background": "Sundar Pichai has served as the Chief Executive Officer of Alphabet since December 2019 and as the Chief Executive Officer of Google since October 2015. He has been a member of Alphabet\u2019s Board of Directors since July 2017. Since joining Google in 2004, he has held various leadership roles, including overseeing product management and innovation for a suite of Google\u2019s consumer and enterprise products.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -17,7 +17,8 @@
           "start_date": "2015-10-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Sundar Pichai"
     },
     {
       "name": "Ruth Porat",
@@ -36,7 +37,8 @@
           "start_date": "2015-05-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Ruth Porat"
     },
     {
       "name": "Prabhakar Raghavan",
@@ -50,7 +52,8 @@
           "start_date": "2020-06-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Prabhakar Raghavan"
     },
     {
       "name": "Philipp Schindler",
@@ -64,7 +67,8 @@
           "start_date": "2015-08-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Philipp Schindler"
     },
     {
       "name": "Kent Walker",
@@ -78,7 +82,8 @@
           "start_date": "2021-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Kent Walker"
     }
   ],
   "board_of_directors": [
@@ -86,7 +91,7 @@
       "name": "Larry Page",
       "age": 51,
       "age_year": 2024,
-      "background": "Larry Page co-founded Google in 1998 and served as Alphabet’s CEO from 2015 to 2019. He has been a member of the Board of Directors since 1998.",
+      "background": "Larry Page co-founded Google in 1998 and served as Alphabet\u2019s CEO from 2015 to 2019. He has been a member of the Board of Directors since 1998.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -95,13 +100,14 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Larry Page"
     },
     {
       "name": "Sergey Brin",
       "age": 50,
       "age_year": 2024,
-      "background": "Sergey Brin co-founded Google in 1998 and served as Alphabet’s President from 2015 to 2019. He has been a member of the Board of Directors since 1998.",
+      "background": "Sergey Brin co-founded Google in 1998 and served as Alphabet\u2019s President from 2015 to 2019. He has been a member of the Board of Directors since 1998.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -110,10 +116,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Sergey Brin"
     },
     {
-      "name": "John L. Hennessy",
+      "name": "John Hennessy",
       "age": 71,
       "age_year": 2024,
       "background": "John L. Hennessy has served as the Chair of the Board of Alphabet since 2018 and as a director since 2004. He was the President of Stanford University from 2000 to 2016.",
@@ -132,10 +139,11 @@
       ],
       "committees": [
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "John L. Hennessy"
     },
     {
-      "name": "Frances H. Arnold",
+      "name": "Frances Arnold",
       "age": 67,
       "age_year": 2024,
       "background": "Frances H. Arnold has been a director since 2019. She is the Linus Pauling Professor of Chemical Engineering, Bioengineering and Biochemistry at the California Institute of Technology and a Nobel Laureate in Chemistry.",
@@ -149,10 +157,11 @@
       ],
       "committees": [
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Frances H. Arnold"
     },
     {
-      "name": "L. John Doerr",
+      "name": "John Doerr",
       "age": 72,
       "age_year": 2024,
       "background": "L. John Doerr has been a director since 1999. He is the Chairman of Kleiner Perkins, a venture capital firm.",
@@ -166,10 +175,11 @@
       ],
       "committees": [
         "Leadership Development, Inclusion and Compensation Committee"
-      ]
+      ],
+      "name_original": "L. John Doerr"
     },
     {
-      "name": "Roger W. Ferguson, Jr.",
+      "name": "Roger Ferguson, Jr.",
       "age": 72,
       "age_year": 2024,
       "background": "Roger W. Ferguson, Jr. has been a director since 2016. He was the President and CEO of TIAA from 2008 to 2021 and served as Vice Chairman of the Board of Governors of the Federal Reserve System.",
@@ -183,7 +193,8 @@
       ],
       "committees": [
         "Audit and Compliance Committee"
-      ]
+      ],
+      "name_original": "Roger W. Ferguson, Jr."
     },
     {
       "name": "Ann Mather",
@@ -200,10 +211,11 @@
       ],
       "committees": [
         "Audit and Compliance Committee"
-      ]
+      ],
+      "name_original": "Ann Mather"
     },
     {
-      "name": "K. Ram Shriram",
+      "name": "Ram Shriram",
       "age": 67,
       "age_year": 2024,
       "background": "K. Ram Shriram has been a director since 1998. He is the managing director of Sherpalo Ventures, an angel investment firm.",
@@ -218,10 +230,11 @@
       "committees": [
         "Leadership Development, Inclusion and Compensation Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "K. Ram Shriram"
     },
     {
-      "name": "Robin L. Washington",
+      "name": "Robin Washington",
       "age": 61,
       "age_year": 2024,
       "background": "Robin L. Washington has been a director since 2019. She was the Executive Vice President and CFO of Gilead Sciences, Inc. from 2008 to 2019.",
@@ -236,7 +249,8 @@
       "committees": [
         "Audit and Compliance Committee",
         "Leadership Development, Inclusion and Compensation Committee"
-      ]
+      ],
+      "name_original": "Robin L. Washington"
     }
   ],
   "sources": [

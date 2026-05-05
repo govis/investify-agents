@@ -1,0 +1,143 @@
+{
+  "executives": [
+    {
+      "name": "Rob Carpenter",
+      "age": null,
+      "age_year": null,
+      "background": "Dr. Carpenter is a Professional Geoscientist (P.Geo) with over 30 years of experience in the mineral exploration industry. He was the co-founder and President and CEO of Kaminak Gold Corp. where he led the team to the multi-million ounce Coffee Gold discovery in the Yukon. He has a Ph.D. from Western University.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2024-03-11",
+          "end_date": null
+        }
+      ],
+      "name_original": "Rob Carpenter"
+    },
+    {
+      "name": "Alex Heath",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Heath has over 15 years of experience in the financial services and mining industries. He previously served as President and CEO of Ethos Gold Corp. (now Prospector Metals). He has also worked in investment banking with a focus on the mining sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Former CEO",
+          "start_date": "2021-04-01",
+          "end_date": "2024-03-11"
+        },
+        {
+          "title": "Director",
+          "start_date": "2021-04-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Alex Heath"
+    },
+    {
+      "name": "Danielle MacDonald",
+      "age": null,
+      "age_year": null,
+      "background": "Ms. MacDonald is a CPA, CA with over 15 years of experience in financial reporting and corporate compliance for public companies in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2022-05-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Danielle MacDonald"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Rob Carpenter",
+      "age": null,
+      "age_year": null,
+      "background": "Professional Geoscientist with over 30 years of experience, former CEO of Kaminak Gold Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2024-03-11",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Rob Carpenter"
+    },
+    {
+      "name": "Alex Heath",
+      "age": null,
+      "age_year": null,
+      "background": "Former CEO of Prospector Metals Corp. and investment banking professional.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2021-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Alex Heath"
+    },
+    {
+      "name": "Jo Price",
+      "age": null,
+      "age_year": null,
+      "background": "Ms. Price is a Professional Geoscientist with over 25 years of experience in the mining industry, including senior roles in exploration and corporate development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022-06-23",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Jo Price"
+    },
+    {
+      "name": "James Rogers",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Rogers is a resource professional with over 20 years of experience in the mining industry, specializing in project generation and exploration.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2021-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "James Rogers"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://prospectormetalscorp.com/about/management-directors/",
+      "source_description": "Company Website - Management and Directors Page",
+      "as_of_date": "2024-05-22"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "Management Information Circular dated May 15, 2023",
+      "as_of_date": "2023-05-15"
+    },
+    {
+      "source_url": "https://prospectormetalscorp.com/news/prospector-metals-announces-appointment-of-dr-rob-carpenter-as-ceo/",
+      "source_description": "News Release: Appointment of Dr. Rob Carpenter as CEO",
+      "as_of_date": "2024-03-11"
+    }
+  ]
+}

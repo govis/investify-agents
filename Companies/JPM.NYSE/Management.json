@@ -1,0 +1,284 @@
+{
+  "executives": [
+    {
+      "name": "James Dimon",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Dimon has been Chairman of the Board and Chief Executive Officer since December 2005 and President since 2004. He was President and Chief Operating Officer from 2004 to 2005. He was Chairman and Chief Executive Officer of Bank One Corporation from 2000 to 2004.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2005-12-31",
+          "end_date": null
+        },
+        {
+          "title": "President",
+          "start_date": "2004-07-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "James Dimon"
+    },
+    {
+      "name": "Jeremy Barnum",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Mr. Barnum has been Chief Financial Officer since May 2021. He previously served as Head of Global Research for the Corporate & Investment Bank from 2021 to 2021 and as Chief Financial Officer of the Corporate & Investment Bank from 2013 to 2021.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2021-05-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Jeremy Barnum"
+    },
+    {
+      "name": "Daniel Pinto",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Pinto has been President and Chief Operating Officer since January 2022. He was Co-President and Co-Chief Operating Officer from 2018 to 2021 and CEO of the Corporate & Investment Bank from 2014 to 2024.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Operating Officer",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Daniel Pinto"
+    },
+    {
+      "name": "Mary Erdoes",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Ms. Erdoes has been CEO of Asset & Wealth Management since 2009. She joined the firm in 1996 and has held various senior roles in the asset management business.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "CEO, Asset & Wealth Management",
+          "start_date": "2009-09-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Mary Erdoes"
+    },
+    {
+      "name": "Marianne Lake",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Ms. Lake has been CEO of Consumer & Community Banking since 2024. She was Co-CEO of Consumer & Community Banking from 2021 to 2024 and CEO of Consumer Lending from 2019 to 2021. She served as CFO of the firm from 2013 to 2019.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "CEO, Consumer & Community Banking",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Marianne Lake"
+    },
+    {
+      "name": "Jennifer Piepszak",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Ms. Piepszak has been Co-CEO of the Commercial & Investment Bank since 2024. She was Co-CEO of Consumer & Community Banking from 2021 to 2024 and CFO of the firm from 2019 to 2021.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Co-CEO, Commercial & Investment Bank",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Jennifer Piepszak"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Linda Bammann",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Retired Deputy Head of Risk Management at JPMorgan Chase. Former Vice Chair of Bank One Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2013-09-16",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Directors' Risk Policy Committee (Chair)",
+        "Regulatory Compliance & Public Responsibility Committee"
+      ],
+      "name_original": "Linda B. Bammann"
+    },
+    {
+      "name": "Stephen Burke",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former CEO of NBCUniversal and former COO of Comcast Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Lead Independent Director",
+          "start_date": "2004-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation & Management Development Committee (Chair)",
+        "Corporate Governance & Nominating Committee"
+      ],
+      "name_original": "Stephen B. Burke"
+    },
+    {
+      "name": "Todd Combs",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Investment Officer at Berkshire Hathaway Inc. and CEO of GEICO.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-09-19",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Directors' Risk Policy Committee"
+      ],
+      "name_original": "Todd A. Combs"
+    },
+    {
+      "name": "Alicia Boler Davis",
+      "age": 54,
+      "age_year": 2024,
+      "background": "CEO of Alto Pharmacy. Former Senior Vice President of Global Customer Fulfillment at Amazon.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-03-20",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Alicia Boler Davis"
+    },
+    {
+      "name": "Mellody Hobson",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Co-CEO and President of Ariel Investments, LLC. Chair of Starbucks Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2018-03-12",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Regulatory Compliance & Public Responsibility Committee (Chair)",
+        "Corporate Governance & Nominating Committee"
+      ],
+      "name_original": "Mellody Hobson"
+    },
+    {
+      "name": "Michael Neal",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Retired Vice Chairman of General Electric Company and former Chairman and CEO of GE Capital.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2014-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Directors' Risk Policy Committee"
+      ],
+      "name_original": "Michael Neal"
+    },
+    {
+      "name": "Phebe Novakovic",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Chairman and CEO of General Dynamics Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-12-07",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation & Management Development Committee"
+      ],
+      "name_original": "Phebe N. Novakovic"
+    },
+    {
+      "name": "Virginia Rometty",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Chairman, President and CEO of IBM.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-05-19",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation & Management Development Committee"
+      ],
+      "name_original": "Virginia M. Rometty"
+    },
+    {
+      "name": "Timothy Flynn",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Retired Chairman of KPMG International.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2012-05-15",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)",
+        "Corporate Governance & Nominating Committee"
+      ],
+      "name_original": "Timothy P. Flynn"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/19617/000001961724000269/jpm-20240408.htm",
+      "source_description": "JPMorgan Chase & Co. 2024 Proxy Statement (DEF 14A)",
+      "as_of_date": "2024-04-08"
+    },
+    {
+      "source_url": "https://www.jpmorganchase.com/about/governance/executive-committee",
+      "source_description": "JPMorgan Chase Official Website - Executive Committee",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.jpmorganchase.com/about/governance/board-of-directors",
+      "source_description": "JPMorgan Chase Official Website - Board of Directors",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

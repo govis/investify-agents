@@ -1,0 +1,190 @@
+{
+  "executives": [
+    {
+      "name": "Hiroyuki Ogawa",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Joined Komatsu in 1985. Served as President of Komatsu Mining Corp. and Senior Executive Officer before becoming President and CEO.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2019-04-01",
+          "end_date": null
+        },
+        {
+          "title": "Representative Director",
+          "start_date": "2018-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Hiroyuki Ogawa"
+    },
+    {
+      "name": "Takeshi Horikoshi",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Joined Komatsu in 1985. Extensive experience in finance and accounting. Previously served as General Manager of Corporate Controlling Department.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Executive Officer and Chief Financial Officer",
+          "start_date": "2022-04-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2022-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Takeshi Horikoshi"
+    },
+    {
+      "name": "Masayuki Moriyama",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Joined Komatsu in 1983. Expert in marketing and mining equipment. Previously President of Mining Business Division.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President",
+          "start_date": "2023-04-01",
+          "end_date": null
+        },
+        {
+          "title": "Representative Director",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Masayuki Moriyama"
+    },
+    {
+      "name": "Koichi Honda",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Joined Komatsu in 1985. Background in human resources and general affairs.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Executive Officer",
+          "start_date": "2022-04-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2024-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Koichi Honda"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Tetsuji Ohashi",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former President and CEO of Komatsu Ltd. (2013-2019). Joined the company in 1977.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board",
+          "start_date": "2019-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Tetsuji Ohashi"
+    },
+    {
+      "name": "Takeshi Kunibe",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Chairman of the Board of Sumitomo Mitsui Financial Group, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Outside Director",
+          "start_date": "2022-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nomination Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Takeshi Kunibe"
+    },
+    {
+      "name": "Arthur Mitchell",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Senior Counselor at White & Case LLP. Expert in international law and finance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Outside Director",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nomination Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Arthur M. Mitchell"
+    },
+    {
+      "name": "Naoko Saiki",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former Director-General of the Economic Affairs Bureau, Ministry of Foreign Affairs of Japan.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Outside Director",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nomination Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Naoko Saiki"
+    },
+    {
+      "name": "Michitaka Sawada",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Director, Chair of Kao Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Outside Director",
+          "start_date": "2024-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nomination Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Michitaka Sawada"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.komatsu.jp/en/ir/corporate-governance/structure",
+      "source_description": "Official Komatsu Corporate Governance - Directors and Officers page",
+      "as_of_date": "2024-06-21"
+    },
+    {
+      "source_url": "https://www.komatsu.jp/en/-/media/project/komatsujp/en/ir/library/annual/2024/komatsu_integrated_report2024_en.pdf",
+      "source_description": "Komatsu Integrated Report 2024",
+      "as_of_date": "2024-03-31"
+    }
+  ]
+}

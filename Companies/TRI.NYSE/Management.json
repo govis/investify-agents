@@ -1,0 +1,189 @@
+{
+  "executives": [
+    {
+      "name": "Steve Hasker",
+      "age": 55,
+      "age_year": 2024,
+      "background": "President and Chief Executive Officer of Thomson Reuters since March 2020. Previously served as CEO of CAA Global and held senior roles at Nielsen Holdings PLC and McKinsey & Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2020-03-15",
+          "end_date": null
+        }
+      ],
+      "name_original": "Steve Hasker"
+    },
+    {
+      "name": "Michael Eastwood",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Chief Financial Officer of Thomson Reuters since March 2020. Previously served as Senior Vice President and Head of Corporate Finance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2020-03-15",
+          "end_date": null
+        }
+      ],
+      "name_original": "Michael Eastwood"
+    },
+    {
+      "name": "Thomas Kim",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Chief Legal Officer and Company Secretary since 2019. Previously served as General Counsel for Global Regions at Baker Hughes.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Legal Officer and Company Secretary",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Thomas Kim"
+    },
+    {
+      "name": "Mary Alice Vuicic",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Chief People Officer since 2017. Previously served as Chief Human Resources Officer at L Brands and Shoppers Drug Mart.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief People Officer",
+          "start_date": "2017-11-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Mary Alice Vuicic"
+    },
+    {
+      "name": "David Wong",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Chief Product Officer since 2021. Previously held product leadership roles at Facebook and Microsoft.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Product Officer",
+          "start_date": "2021-07-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "David Wong"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "David Thomson",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Chairman of Thomson Reuters and Chairman of Woodbridge. He is a director of several other companies and active in the arts.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2008-04-17",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "David Thomson"
+    },
+    {
+      "name": "Linda Mason",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Chair and Founder of Bright Horizons Family Solutions. Former Chair of Mercy Corps.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2014-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Corporate Governance Committee"
+      ],
+      "name_original": "Linda J. Mason"
+    },
+    {
+      "name": "Kirk Koenigsbauer",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Chief Operating Officer and Corporate Vice President of Microsoft's Experiences and Devices Group.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-03-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Kirk E. Koenigsbauer"
+    },
+    {
+      "name": "Barry Salzberg",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Global CEO of Deloitte Touche Tohmatsu Limited. Professor at Columbia Business School.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2015-07-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)",
+        "Human Resources Committee"
+      ],
+      "name_original": "Barry Salzberg"
+    },
+    {
+      "name": "Edmund Clark",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Former President and CEO of TD Bank Group. Member of the Order of Canada.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2015-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Human Resources Committee (Chair)",
+        "Corporate Governance Committee"
+      ],
+      "name_original": "W. Edmund Clark"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1372807/000119312524090554/d745484ddef14a.htm",
+      "source_description": "Thomson Reuters 2024 Management Proxy Circular (DEF 14A)",
+      "as_of_date": "2024-04-09"
+    },
+    {
+      "source_url": "https://www.thomsonreuters.com/en/about-us/executive-leadership.html",
+      "source_description": "Thomson Reuters Official Website - Executive Leadership Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.thomsonreuters.com/en/about-us/board-of-directors.html",
+      "source_description": "Thomson Reuters Official Website - Board of Directors Page",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

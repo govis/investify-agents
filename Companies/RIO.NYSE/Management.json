@@ -1,0 +1,130 @@
+{
+  "executives": [
+    {
+      "name": "Jakob Stausholm",
+      "age": 55,
+      "age_year": 2023,
+      "background": "Jakob joined Rio Tinto in 2018 as Chief Financial Officer and became Chief Executive in January 2021. He has over 20 years of experience in senior finance and strategy roles at Shell and Maersk.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive",
+          "start_date": "2021-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2018-09-01",
+          "end_date": "2020-12-31"
+        }
+      ],
+      "name_original": "Jakob Stausholm"
+    },
+    {
+      "name": "Peter Cunningham",
+      "age": 57,
+      "age_year": 2023,
+      "background": "Peter was appointed Chief Financial Officer in 2021. He has been with Rio Tinto for 30 years in various senior financial and commercial roles across the Group.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2021-06-17",
+          "end_date": null
+        }
+      ],
+      "name_original": "Peter Cunningham"
+    },
+    {
+      "name": "Bold Baatar",
+      "age": 50,
+      "age_year": 2023,
+      "background": "Bold joined Rio Tinto in 2013 and was appointed Chief Commercial Officer in 2024. He previously served as Chief Executive Copper.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Commercial Officer",
+          "start_date": "2024-09-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Executive, Copper",
+          "start_date": "2021-01-01",
+          "end_date": "2024-08-31"
+        }
+      ],
+      "name_original": "Bold Baatar"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Dominic Barton",
+      "age": 61,
+      "age_year": 2023,
+      "background": "Dominic was appointed Chairman in 2022. He was previously the Global Managing Partner of McKinsey & Company and served as Canada's Ambassador to China.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2022-05-05",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Nominations Committee (Chair)"
+      ],
+      "name_original": "Dominic Barton"
+    },
+    {
+      "name": "Simon McKeon",
+      "age": 68,
+      "age_year": 2023,
+      "background": "Simon is a Non-executive Director and Senior Independent Director. He has extensive experience in the financial services sector and was previously Executive Chairman of Macquarie Group's Victorian office.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Senior Independent Director",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Remuneration Committee",
+        "Nominations Committee"
+      ],
+      "name_original": "Simon McKeon"
+    },
+    {
+      "name": "Dean Dalla Valle",
+      "age": 64,
+      "age_year": 2023,
+      "background": "Dean joined the Board in 2022. He has 40 years of experience in the resources sector, including senior roles at BHP and as CEO of Pacific National.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Non-executive Director",
+          "start_date": "2022-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Sustainability Committee",
+        "Remuneration Committee"
+      ],
+      "name_original": "Dean Dalla Valle"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/863064/000119312524040400/d523621d20f.htm",
+      "source_description": "Rio Tinto Annual Report 2023 (Form 20-F)",
+      "as_of_date": "2024-02-20"
+    },
+    {
+      "source_url": "https://www.riotinto.com/en/about/executive-team",
+      "source_description": "Rio Tinto Official Website - Executive Team",
+      "as_of_date": "2024-10-27"
+    }
+  ]
+}

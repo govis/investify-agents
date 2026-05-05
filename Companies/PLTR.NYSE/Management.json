@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Alexander C. Karp",
+      "name": "Alexander Karp",
       "age": 56,
       "age_year": 2024,
       "background": "Dr. Karp is one of our co-founders and has served as our Chief Executive Officer since 2004 and as a member of our Board since 2003. Dr. Karp holds a B.A. from Haverford College, a J.D. from Stanford University, and a Ph.D. from Goethe University in Frankfurt, Germany.",
@@ -17,7 +17,8 @@
           "start_date": "2003-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Alexander C. Karp"
     },
     {
       "name": "Stephen Cohen",
@@ -41,7 +42,8 @@
           "start_date": "2003-01-01",
           "end_date": "2020-12-31"
         }
-      ]
+      ],
+      "name_original": "Stephen Cohen"
     },
     {
       "name": "David Glazer",
@@ -55,7 +57,8 @@
           "start_date": "2020-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "David Glazer"
     },
     {
       "name": "Ryan Taylor",
@@ -74,7 +77,8 @@
           "start_date": "2020-01-01",
           "end_date": "2022-12-31"
         }
-      ]
+      ],
+      "name_original": "Ryan Taylor"
     },
     {
       "name": "Shyam Sankar",
@@ -93,7 +97,8 @@
           "start_date": "2010-01-01",
           "end_date": "2022-12-31"
         }
-      ]
+      ],
+      "name_original": "Shyam Sankar"
     }
   ],
   "board_of_directors": [
@@ -110,10 +115,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Peter Thiel"
     },
     {
-      "name": "Alexander C. Karp",
+      "name": "Alexander Karp",
       "age": 56,
       "age_year": 2024,
       "background": "Dr. Karp is one of our co-founders and has served as our Chief Executive Officer since 2004 and as a member of our Board since 2003.",
@@ -125,7 +131,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Alexander C. Karp"
     },
     {
       "name": "Stephen Cohen",
@@ -140,7 +147,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Stephen Cohen"
     },
     {
       "name": "Alexander Moore",
@@ -157,7 +165,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Alexander Moore"
     },
     {
       "name": "Eric Woersching",
@@ -175,7 +184,8 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Eric Woersching"
     },
     {
       "name": "Lauren Friedman Stat",
@@ -193,7 +203,8 @@
       "committees": [
         "Audit Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Lauren Friedman Stat"
     },
     {
       "name": "Heather Planishek",
@@ -210,7 +221,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Heather Planishek"
     }
   ],
   "sources": [

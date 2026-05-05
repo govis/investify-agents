@@ -1,0 +1,51 @@
+{
+  "name": "John Ciampaglia",
+  "first_name": "John",
+  "last_name": "Ciampaglia",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Mr. Ciampaglia is the Chief Executive Officer of Sprott Asset Management LP and a Senior Managing Director of Sprott Inc. He has more than 25 years of experience in the investment industry and has held senior positions at several Canadian investment firms.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Sprott Physical Gold Trust",
+      "ticker": "PHYS",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Executive Officer, Director",
+      "start_date": "2017-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Sprott Energy Transition Materials ETF",
+      "ticker": "SETM",
+      "exchange": "NASDAQ",
+      "title_or_role": "Interested Trustee, President",
+      "start_date": "2018",
+      "end_date": null
+    },
+    {
+      "name": "Sprott Physical Uranium Trust",
+      "ticker": "U",
+      "exchange": "UN.TSX",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2021-07-19",
+      "end_date": null
+    },
+    {
+      "name": "Sprott Uranium Miners ETF",
+      "ticker": "URNM",
+      "exchange": "NYSE",
+      "title_or_role": "Interested Trustee, President",
+      "start_date": "2018-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": []
+}

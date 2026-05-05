@@ -1,0 +1,228 @@
+{
+  "executives": [
+    {
+      "name": "John MacKenzie",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. MacKenzie has over 30 years of experience in the metals and mining industry. Prior to the business combination of Capstone Mining and Mantos Copper, he was the Executive Chairman of Mantos Copper. He previously served as CEO of Copper for Anglo American.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2022-03-23",
+          "end_date": null
+        }
+      ],
+      "name_original": "John MacKenzie"
+    },
+    {
+      "name": "Raman Randhawa",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Randhawa is a Chartered Professional Accountant with over 20 years of financial experience in the mining industry. He previously served as CFO of Capstone Mining and held senior roles at Goldcorp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Financial Officer",
+          "start_date": "2018-05-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Raman Randhawa"
+    },
+    {
+      "name": "Cashel Meagher",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Meagher has over 25 years of experience in the mining industry. He previously served as Senior Vice President and Chief Operating Officer of Hudbay Minerals Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Operating Officer",
+          "start_date": "2022-01-05",
+          "end_date": null
+        }
+      ],
+      "name_original": "Cashel Meagher"
+    },
+    {
+      "name": "Wendy King",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Ms. King has over 25 years of experience in legal and corporate secretary roles. She previously served as Senior Vice President, General Counsel and Corporate Secretary of Central GoldTrust and Silver Wheaton Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Risk, ESG and General Counsel",
+          "start_date": "2011-05-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Wendy King"
+    },
+    {
+      "name": "Jerrold Henniet",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Henniet has over 20 years of experience in human resources. He previously held senior HR roles at New Gold Inc. and Goldcorp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, People",
+          "start_date": "2022-03-23",
+          "end_date": null
+        }
+      ],
+      "name_original": "Jerrold Henniet"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "George Ireland",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Mr. Ireland has over 40 years of experience in the mining and financial sectors. He is the founder, CEO and CIO of Geologic Resource Partners LLC.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chair and Independent Director",
+          "start_date": "2011-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "George Ireland"
+    },
+    {
+      "name": "John MacKenzie",
+      "age": 55,
+      "age_year": 2024,
+      "background": "CEO of Capstone Copper Corp. with extensive experience in global copper mining operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022-03-23",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "John MacKenzie"
+    },
+    {
+      "name": "Alison Baker",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Ms. Baker has over 25 years of experience in the provision of audit, capital markets and advisory services. She was previously a partner at PwC and EY.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-03-23",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Human Resources and Compensation Committee"
+      ],
+      "name_original": "Alison Baker"
+    },
+    {
+      "name": "Bob Gallagher",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Mr. Gallagher has over 40 years of experience in the mining industry. He was previously the President and CEO of New Gold Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Technical and Operational Performance Committee",
+        "Human Resources and Compensation Committee"
+      ],
+      "name_original": "Bob Gallagher"
+    },
+    {
+      "name": "Anne Labelle",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Ms. Labelle is a geologist and lawyer with over 25 years of experience in the mining industry, specializing in exploration, environmental and legal matters.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-03-23",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Governance and Nominating Committee",
+        "Technical and Operational Performance Committee"
+      ],
+      "name_original": "Anne Labelle"
+    },
+    {
+      "name": "Peter Meredith",
+      "age": 80,
+      "age_year": 2024,
+      "background": "Mr. Meredith has over 40 years of experience in the mining industry and was previously the CFO of Ivanhoe Mines Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-03-23",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Governance and Nominating Committee"
+      ],
+      "name_original": "Peter Meredith"
+    },
+    {
+      "name": "Gillian Winckler",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Ms. Winckler is a former mining executive and investment banker with over 25 years of experience in the metals and mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-03-23",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Human Resources and Compensation Committee",
+        "Technical and Operational Performance Committee"
+      ],
+      "name_original": "Gillian Winckler"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://capstonecopper.com/about-us/leadership-and-governance/management/",
+      "source_description": "Capstone Copper Official Website - Management Team",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://capstonecopper.com/about-us/leadership-and-governance/board-of-directors/",
+      "source_description": "Capstone Copper Official Website - Board of Directors",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca/",
+      "source_description": "Management Information Circular dated March 27, 2024",
+      "as_of_date": "2024-03-27"
+    }
+  ]
+}

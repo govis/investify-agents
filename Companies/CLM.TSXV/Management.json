@@ -1,0 +1,133 @@
+{
+  "executives": [
+    {
+      "name": "Richard Quesnel",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Quesnel is a mining engineer with over 40 years of experience in the mining industry. He has held senior executive positions with several mining companies, including serving as President and CEO of Consolidated Thompson Iron Mines Ltd. and as a director of several other public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer and President",
+          "start_date": "2023-05-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Richard Quesnel"
+    },
+    {
+      "name": "Arvin Ramos",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Ramos holds a degree in commerce from the University of Windsor and is a member of the Chartered Professional Accountants of Ontario. He has over 15 years of experience in the mining industry and has served as CFO for several junior mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2021-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Arvin Ramos"
+    },
+    {
+      "name": "Roger Lemaitre",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Lemaitre is a Professional Engineer and Geologist with more than 30 years of experience in the mining industry. He has held senior positions with several mining companies, including serving as President and CEO of UEX Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Exploration",
+          "start_date": "2023-09-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Roger S. Lemaitre"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Richard Quesnel",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Quesnel is a mining engineer with over 40 years of experience in the mining industry. He has held senior executive positions with several mining companies, including serving as President and CEO of Consolidated Thompson Iron Mines Ltd. and as a director of several other public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Richard Quesnel"
+    },
+    {
+      "name": "Louis-Pierre Gignac",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Mr. Gignac is the President and CEO of G Mining Ventures Corp. and has over 20 years of experience in the mining industry. He holds a degree in mining engineering from McGill University and an MBA from HEC Montreal.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Louis-Pierre Gignac"
+    },
+    {
+      "name": "Mark Morabito",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. Morabito is the Chairman and CEO of King & Bay West Management Corp. and has over 20 years of experience in the mining industry. He has been involved in the founding and development of several successful mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2021-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Mark J. Morabito"
+    },
+    {
+      "name": "Jean-Philippe Mai",
+      "age": 42,
+      "age_year": 2024,
+      "background": "Mr. Mai is a Professional Geologist with over 15 years of experience in the mining industry. He is currently the President and CEO of Kanadario Gold Inc. and has held senior positions with several other mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2021-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Jean-Philippe Mai"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://consolidatedlithium.com/about-us/management-directors/",
+      "source_description": "Company Website - Management & Directors Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca/",
+      "source_description": "SEDAR+ Filing - Management Information Circular",
+      "as_of_date": "2023-11-15"
+    }
+  ]
+}

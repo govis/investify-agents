@@ -1,0 +1,28 @@
+{
+  "name": "John Clark",
+  "first_name": "John",
+  "last_name": "Clark",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Mr. Clark is a Chartered Professional Accountant with over 30 years of experience in the mining industry. He is the President of Investment Management Services Inc. and serves on the boards of several other mining companies.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Vista Gold Corp.",
+      "ticker": "VGZ",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2001-05-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ]
+}

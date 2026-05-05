@@ -1,0 +1,171 @@
+{
+  "executives": [
+    {
+      "name": "Daniel Wilton",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. Wilton has 30 years of experience in the mining sector. He was previously a Partner at Pacific Road Capital Management and has held senior roles at CIBC World Markets and Goldman Sachs.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer and Director",
+          "start_date": "2019-01-07",
+          "end_date": null
+        }
+      ],
+      "name_original": "Daniel W. Wilton"
+    },
+    {
+      "name": "Lisa Peterson",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Ms. Peterson is a CPA with over 15 years of experience in financial management and reporting. She previously served as Chief Financial Officer of several junior mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2022-09-16",
+          "end_date": null
+        }
+      ],
+      "name_original": "Lisa S. Peterson"
+    },
+    {
+      "name": "James Maxwell",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Mr. Maxwell is a professional geoscientist with over 20 years of experience in mineral exploration. He has held senior roles at Sabina Gold & Silver and Claude Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Exploration",
+          "start_date": "2019-02-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "James Maxwell"
+    },
+    {
+      "name": "Steve Lines",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Mr. Lines has over 20 years of experience in environmental management and permitting for mining projects. He previously worked at Fortune Minerals and De Beers.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Environment and Community Relations",
+          "start_date": "2021-08-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Steve Lines"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Keith Neumeyer",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Neumeyer has worked in the investment community since 1984. He is the founder and CEO of First Majestic Silver Corp. and was the founding President of First Quantum Minerals Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman and Director",
+          "start_date": "2015-03-30",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Keith Neumeyer"
+    },
+    {
+      "name": "Daniel Wilton",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. Wilton has 30 years of experience in the mining sector, including senior roles in investment banking and private equity.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2019-01-07",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Daniel W. Wilton"
+    },
+    {
+      "name": "Raymond Polman",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Mr. Polman is a CPA with over 30 years of public accounting and corporate finance experience. He was previously the CFO of First Majestic Silver Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2015-03-30",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Raymond Polman"
+    },
+    {
+      "name": "Richard Laganiere",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Laganiere is a professional engineer with over 40 years of experience in the mining industry, specializing in project development and operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2021-06-16",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Richard Laganiere"
+    },
+    {
+      "name": "Leanne Hall",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Ms. Hall is the CEO of Creative Fire and has extensive experience in Indigenous relations and corporate strategy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2021-06-16",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Leanne Hall"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://firstmininggold.com/corporate/board-of-directors/",
+      "source_description": "Company Website - Board of Directors Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://firstmininggold.com/corporate/management/",
+      "source_description": "Company Website - Management Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "Management Information Circular dated April 24, 2024",
+      "as_of_date": "2024-04-24"
+    }
+  ]
+}

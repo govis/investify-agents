@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Tim S. Gitzel",
+      "name": "Tim Gitzel",
       "age": 61,
       "age_year": 2023,
       "background": "Tim Gitzel is President and Chief Executive Officer of Cameco. He has more than 30 years of experience in the Canadian and international uranium mining industry. He joined Cameco in 2007 as Senior Vice-President and Chief Operating Officer and was appointed President in 2010 and CEO in 2011. Prior to joining Cameco, he was Executive Vice-President, mining business unit for AREVA in Paris, France.",
@@ -22,10 +22,11 @@
           "start_date": "2007-01-01",
           "end_date": "2010-04-30"
         }
-      ]
+      ],
+      "name_original": "Tim S. Gitzel"
     },
     {
-      "name": "Grant E. Isaac",
+      "name": "Grant Isaac",
       "age": 55,
       "age_year": 2023,
       "background": "Grant Isaac is Executive Vice-President and Chief Financial Officer. He joined Cameco in 2009 and has held various executive roles including Senior Vice-President, Corporate Strategy and Vice-President, Corporate Strategy and Business Development. Before joining Cameco, he was the Dean of the Edwards School of Business at the University of Saskatchewan.",
@@ -36,10 +37,11 @@
           "start_date": "2011-07-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Grant E. Isaac"
     },
     {
-      "name": "Brian P. Reilly",
+      "name": "Brian Reilly",
       "age": 63,
       "age_year": 2023,
       "background": "Brian Reilly is Senior Vice-President and Chief Operating Officer. He joined Cameco in 2011 as President of Cameco Resources and was appointed to his current role in 2017. He has over 35 years of experience in the mining industry, including roles with AREVA.",
@@ -50,10 +52,11 @@
           "start_date": "2017-07-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Brian P. Reilly"
     },
     {
-      "name": "Alice B. Wong",
+      "name": "Alice Wong",
       "age": 60,
       "age_year": 2023,
       "background": "Alice Wong is Senior Vice-President and Chief Corporate Officer. She has been with Cameco for over 30 years, holding various leadership positions in marketing, corporate responsibility, and human resources.",
@@ -64,10 +67,11 @@
           "start_date": "2011-07-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Alice B. Wong"
     },
     {
-      "name": "Sean A. Quinn",
+      "name": "Sean Quinn",
       "age": 63,
       "age_year": 2023,
       "background": "Sean Quinn is Senior Vice-President, Chief Legal Officer and Corporate Secretary. He joined Cameco in 1993 and has held various legal roles within the company.",
@@ -78,7 +82,8 @@
           "start_date": "2014-04-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Sean A. Quinn"
     }
   ],
   "board_of_directors": [
@@ -97,13 +102,14 @@
       ],
       "committees": [
         "Nominating, Corporate Governance and Risk Committee"
-      ]
+      ],
+      "name_original": "Ian Bruce"
     },
     {
       "name": "Daniel Camus",
       "age": 71,
       "age_year": 2023,
-      "background": "Daniel Camus is the former Group CFO and Head of Strategy and International Activities of Electricité de France (EDF). He has significant experience in the global energy sector.",
+      "background": "Daniel Camus is the former Group CFO and Head of Strategy and International Activities of Electricit\u00e9 de France (EDF). He has significant experience in the global energy sector.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -115,7 +121,8 @@
       "committees": [
         "Audit Committee",
         "Human Resources and Compensation Committee"
-      ]
+      ],
+      "name_original": "Daniel Camus"
     },
     {
       "name": "Donald Kayne",
@@ -133,7 +140,8 @@
       "committees": [
         "Human Resources and Compensation Committee",
         "Nominating, Corporate Governance and Risk Committee"
-      ]
+      ],
+      "name_original": "Donald Kayne"
     },
     {
       "name": "Kathryn Jackson",
@@ -151,13 +159,14 @@
       "committees": [
         "Safety, Health, Environment, Quality and Technical Committee",
         "Nominating, Corporate Governance and Risk Committee"
-      ]
+      ],
+      "name_original": "Kathryn Jackson"
     },
     {
-      "name": "Dominique Minière",
+      "name": "Dominique Mini\u00e8re",
       "age": 64,
       "age_year": 2023,
-      "background": "Dominique Minière is the former President of Nuclear and Chief Strategy Officer at Ontario Power Generation. He has extensive experience in nuclear operations.",
+      "background": "Dominique Mini\u00e8re is the former President of Nuclear and Chief Strategy Officer at Ontario Power Generation. He has extensive experience in nuclear operations.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -169,7 +178,8 @@
       "committees": [
         "Safety, Health, Environment, Quality and Technical Committee",
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Dominique Mini\u00e8re"
     }
   ],
   "sources": [

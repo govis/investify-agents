@@ -1,0 +1,38 @@
+{
+  "name": "James Turley",
+  "first_name": "James",
+  "last_name": "Turley",
+  "age": 69,
+  "age_year": 2024,
+  "background": "Former Chairman and CEO of Ernst & Young. He has served as Emerson's Chair of the Board since 2021.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Emerson Electric Co.",
+      "ticker": "EMR",
+      "exchange": "NYSE",
+      "title_or_role": "Chair of the Board",
+      "start_date": "2013-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2015-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Defense",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation",
+    "Executive",
+    "Governance, Nominating and Sustainability Committee"
+  ]
+}

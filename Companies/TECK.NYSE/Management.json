@@ -1,0 +1,154 @@
+{
+  "executives": [
+    {
+      "name": "Jonathan Price",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Jonathan Price was appointed President and Chief Executive Officer in September 2022. He previously served as Executive Vice President and Chief Financial Officer from October 2020 to September 2022. Before joining Teck, he was with BHP for 14 years in various senior roles including Chief Transformation Officer.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2022-09-30",
+          "end_date": null
+        },
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2020-10-01",
+          "end_date": "2022-09-30"
+        }
+      ],
+      "name_original": "Jonathan Price"
+    },
+    {
+      "name": "Crystal Prystai",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Crystal Prystai was appointed Senior Vice President and Chief Financial Officer in September 2022. She joined Teck in 2008 and has held progressively senior roles in finance, including Vice President and Corporate Controller.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Financial Officer",
+          "start_date": "2022-09-30",
+          "end_date": null
+        }
+      ],
+      "name_original": "Crystal Prystai"
+    },
+    {
+      "name": "Ian Anderson",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Ian Anderson is the Senior Vice President and Chief Commercial Officer. He is responsible for Teck\u2019s marketing and logistics activities globally.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Commercial Officer",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Ian Anderson"
+    },
+    {
+      "name": "Shehzad Bharmal",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Shehzad Bharmal is the Senior Vice President, Base Metals. He has been with Teck since 1992 and has held various operational and commercial leadership roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Base Metals",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Shehzad Bharmal"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Sheila Murray",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Sheila Murray is the Chair of the Board of Teck. She was previously President of CI Financial Corp. and is a corporate lawyer by training.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chair of the Board",
+          "start_date": "2018-04-25",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Sheila A. Murray"
+    },
+    {
+      "name": "Norman Keevil III",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Norman Keevil III is a professional engineer and has been a director of Teck since 1997. He is the Vice Chair of the Board.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Vice Chair of the Board",
+          "start_date": "1997-04-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Safety and Sustainability Committee"
+      ],
+      "name_original": "Norman B. Keevil III"
+    },
+    {
+      "name": "Jonathan Price",
+      "age": 48,
+      "age_year": 2024,
+      "background": "President and CEO of Teck Resources Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2022-09-30",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Jonathan Price"
+    },
+    {
+      "name": "Sarah Strunk",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Sarah Strunk is Chair of the Board of Directors of Fennemore Craig, P.C., a law firm. She has extensive experience in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-04-26",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Sarah A. Strunk"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/886986/000119312524061555/d745672d6k.htm",
+      "source_description": "Teck Resources Limited Management Proxy Circular (Form 6-K)",
+      "as_of_date": "2024-03-07"
+    },
+    {
+      "source_url": "https://www.teck.com/about/leadership/",
+      "source_description": "Teck Resources Official Website - Leadership Team",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "James A. Burke",
+      "name": "James Burke",
       "age": 55,
       "age_year": 2024,
       "background": "Mr. Burke has served as President and Chief Executive Officer of Vistra since August 2022. He previously served as President and Chief Financial Officer from December 2020 to August 2022, and as Executive Vice President and Chief Operating Officer from October 2016 to December 2020. Prior to the Vistra reorganization, he served as Chairman and CEO of TXU Energy.",
@@ -22,10 +22,11 @@
           "start_date": "2016-10-01",
           "end_date": "2020-12-01"
         }
-      ]
+      ],
+      "name_original": "James A. Burke"
     },
     {
-      "name": "Kristopher E. Moldovan",
+      "name": "Kristopher Moldovan",
       "age": 51,
       "age_year": 2024,
       "background": "Mr. Moldovan has served as Executive Vice President and Chief Financial Officer since August 2022. He previously served as Senior Vice President and Treasurer from 2017 to 2022. He joined the company in 2006 and has held various leadership roles in finance and legal.",
@@ -41,10 +42,11 @@
           "start_date": "2017-01-01",
           "end_date": "2022-08-01"
         }
-      ]
+      ],
+      "name_original": "Kristopher E. Moldovan"
     },
     {
-      "name": "Stephen J. Muscato",
+      "name": "Stephen Muscato",
       "age": 53,
       "age_year": 2024,
       "background": "Mr. Muscato has served as Executive Vice President and Chief Commercial Officer since December 2020. He previously served as Senior Vice President and Chief Commercial Officer from 2016 to 2020. He is responsible for the company's commercial operations, including power marketing and fuel supply.",
@@ -55,7 +57,8 @@
           "start_date": "2020-12-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Stephen J. Muscato"
     },
     {
       "name": "Stephanie Zapata Moore",
@@ -69,10 +72,11 @@
           "start_date": "2016-10-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Stephanie Zapata Moore"
     },
     {
-      "name": "Scott A. Hudson",
+      "name": "Scott Hudson",
       "age": 60,
       "age_year": 2024,
       "background": "Mr. Hudson has served as President of Vistra Retail since 2016. He is responsible for the company's retail brands, including TXU Energy. He previously held leadership roles at TXU Energy and in the consulting industry.",
@@ -83,12 +87,13 @@
           "start_date": "2016-10-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Scott A. Hudson"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Scott B. Helm",
+      "name": "Scott Helm",
       "age": 59,
       "age_year": 2024,
       "background": "Mr. Helm has served as Chairman of the Board since 2022 and as a director since 2016. He is a private investor and was previously a co-founder of Helm, Cullar & Hanley, LLC.",
@@ -107,10 +112,11 @@
       ],
       "committees": [
         "Executive Committee"
-      ]
+      ],
+      "name_original": "Scott B. Helm"
     },
     {
-      "name": "James A. Burke",
+      "name": "James Burke",
       "age": 55,
       "age_year": 2024,
       "background": "Mr. Burke is the President and CEO of Vistra. He joined the board in 2022 upon his appointment as CEO.",
@@ -124,7 +130,8 @@
       ],
       "committees": [
         "Executive Committee"
-      ]
+      ],
+      "name_original": "James A. Burke"
     },
     {
       "name": "Arcilia Acosta",
@@ -142,7 +149,8 @@
       "committees": [
         "Audit Committee",
         "Social Responsibility and Compensation Committee"
-      ]
+      ],
+      "name_original": "Arcilia Acosta"
     },
     {
       "name": "Lisa Crutchfield",
@@ -160,10 +168,11 @@
       "committees": [
         "Audit Committee",
         "Sustainability and Relevant Public Policy Committee"
-      ]
+      ],
+      "name_original": "Lisa Crutchfield"
     },
     {
-      "name": "Julie A. Lagacy",
+      "name": "Julie Lagacy",
       "age": 57,
       "age_year": 2024,
       "background": "Ms. Lagacy previously served as Chief Sustainability and Strategy Officer at Caterpillar Inc. She joined the board in 2023.",
@@ -178,10 +187,11 @@
       "committees": [
         "Audit Committee",
         "Sustainability and Relevant Public Policy Committee"
-      ]
+      ],
+      "name_original": "Julie A. Lagacy"
     },
     {
-      "name": "John R. (Jack) Miller",
+      "name": "Jack Miller",
       "age": 73,
       "age_year": 2024,
       "background": "Mr. Miller is the retired Chairman and CEO of North American Coffee Partnership. He has served on the board since 2016.",
@@ -196,7 +206,8 @@
       "committees": [
         "Social Responsibility and Compensation Committee",
         "Nominating and Governance Committee"
-      ]
+      ],
+      "name_original": "John R. (Jack) Miller"
     }
   ],
   "sources": [

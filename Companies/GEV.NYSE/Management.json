@@ -1,10 +1,10 @@
 {
   "executives": [
     {
-      "name": "Scott L. Strazik",
+      "name": "Scott Strazik",
       "age": 44,
       "age_year": 2024,
-      "background": "Scott Strazik is the Chief Executive Officer of GE Vernova. He has more than 20 years of operations and leadership experience. Prior to his current role, he served as CEO of GE’s Gas Power business and later as CEO of GE’s Power portfolio. He joined GE in 2000 and has held various leadership roles in finance, operations, and general management.",
+      "background": "Scott Strazik is the Chief Executive Officer of GE Vernova. He has more than 20 years of operations and leadership experience. Prior to his current role, he served as CEO of GE\u2019s Gas Power business and later as CEO of GE\u2019s Power portfolio. He joined GE in 2000 and has held various leadership roles in finance, operations, and general management.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -12,7 +12,8 @@
           "start_date": "2024-04-02",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Scott L. Strazik"
     },
     {
       "name": "Ken Parks",
@@ -26,13 +27,14 @@
           "start_date": "2023-10-02",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Ken Parks"
     },
     {
       "name": "Vic Abate",
       "age": 59,
       "age_year": 2024,
-      "background": "Vic Abate is the CEO of GE Vernova’s Wind segment. He has over 30 years of experience at GE, having served as GE’s Chief Technology Officer and CEO of GE’s Renewable Energy and Gas Power businesses.",
+      "background": "Vic Abate is the CEO of GE Vernova\u2019s Wind segment. He has over 30 years of experience at GE, having served as GE\u2019s Chief Technology Officer and CEO of GE\u2019s Renewable Energy and Gas Power businesses.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -40,7 +42,8 @@
           "start_date": "2024-04-02",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Vic Abate"
     }
   ],
   "board_of_directors": [
@@ -59,10 +62,11 @@
       ],
       "committees": [
         "Governance & Public Affairs Committee"
-      ]
+      ],
+      "name_original": "Stephen Angel"
     },
     {
-      "name": "Scott L. Strazik",
+      "name": "Scott Strazik",
       "age": 44,
       "age_year": 2024,
       "background": "Scott Strazik is the CEO of GE Vernova and a member of the Board. He has led GE's energy businesses since 2018.",
@@ -74,10 +78,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Scott L. Strazik"
     },
     {
-      "name": "Arnold W. Donald",
+      "name": "Arnold Donald",
       "age": 69,
       "age_year": 2024,
       "background": "Arnold Donald is the former President and CEO of Carnival Corporation & plc. He has extensive experience in global operations and corporate governance.",
@@ -92,7 +97,8 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Arnold W. Donald"
     },
     {
       "name": "Paula Rosput Reynolds",
@@ -110,7 +116,8 @@
       "committees": [
         "Audit Committee",
         "Governance & Public Affairs Committee"
-      ]
+      ],
+      "name_original": "Paula Rosput Reynolds"
     }
   ],
   "sources": [

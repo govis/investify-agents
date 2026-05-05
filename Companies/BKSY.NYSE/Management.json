@@ -1,10 +1,10 @@
 {
   "executives": [
     {
-      "name": "Brian E. O’Toole",
+      "name": "Brian O\u2019Toole",
       "age": 59,
       "age_year": 2024,
-      "background": "Mr. O’Toole has served as our President and Chief Executive Officer and as a member of our Board since September 2021. Previously, Mr. O’Toole served as Chief Executive Officer of Legacy BlackSky from February 2019 to September 2021 and as President of Legacy BlackSky from 2016 to February 2019. Prior to joining Legacy BlackSky, Mr. O’Toole was the Chief Technology Officer of GeoEye, Inc. and also held senior leadership roles at GE Aerospace and Hewlett-Packard.",
+      "background": "Mr. O\u2019Toole has served as our President and Chief Executive Officer and as a member of our Board since September 2021. Previously, Mr. O\u2019Toole served as Chief Executive Officer of Legacy BlackSky from February 2019 to September 2021 and as President of Legacy BlackSky from 2016 to February 2019. Prior to joining Legacy BlackSky, Mr. O\u2019Toole was the Chief Technology Officer of GeoEye, Inc. and also held senior leadership roles at GE Aerospace and Hewlett-Packard.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -12,10 +12,11 @@
           "start_date": "2021-09-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Brian E. O\u2019Toole"
     },
     {
-      "name": "Henry E. Dubois",
+      "name": "Henry Dubois",
       "age": 61,
       "age_year": 2024,
       "background": "Mr. Dubois has served as our Chief Financial Officer since September 2021. Previously, Mr. Dubois served as Chief Financial Officer of Legacy BlackSky from August 2021 to September 2021 and as a consultant to Legacy BlackSky from December 2020 to August 2021. Prior to joining Legacy BlackSky, Mr. Dubois served as Managing Director of HED Consulting from 2013 to 2021 and held executive roles at GeoEye, Inc. and DigitalGlobe, Inc.",
@@ -26,10 +27,11 @@
           "start_date": "2021-09-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Henry E. Dubois"
     },
     {
-      "name": "Christiana L. Lin",
+      "name": "Christiana Lin",
       "age": 52,
       "age_year": 2024,
       "background": "Ms. Lin has served as our General Counsel and Corporate Secretary since September 2021. Previously, Ms. Lin served as General Counsel of Legacy BlackSky from 2018 to September 2021. Prior to joining Legacy BlackSky, Ms. Lin served as General Counsel and Chief Privacy Officer of Rubicon Project, Inc. and held various roles at AOL Inc.",
@@ -40,15 +42,16 @@
           "start_date": "2021-09-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Christiana L. Lin"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Brian E. O’Toole",
+      "name": "Brian O\u2019Toole",
       "age": 59,
       "age_year": 2024,
-      "background": "Mr. O’Toole has served as our President and Chief Executive Officer and as a member of our Board since September 2021. Previously, Mr. O’Toole served as Chief Executive Officer of Legacy BlackSky from February 2019 to September 2021 and as President of Legacy BlackSky from 2016 to February 2019.",
+      "background": "Mr. O\u2019Toole has served as our President and Chief Executive Officer and as a member of our Board since September 2021. Previously, Mr. O\u2019Toole served as Chief Executive Officer of Legacy BlackSky from February 2019 to September 2021 and as President of Legacy BlackSky from 2016 to February 2019.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -57,10 +60,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Brian E. O\u2019Toole"
     },
     {
-      "name": "Timothy J. Harvey",
+      "name": "Timothy Harvey",
       "age": 56,
       "age_year": 2024,
       "background": "Mr. Harvey has served as a member of our Board since September 2021. Mr. Harvey is currently an Executive Partner at Silversmith Capital Partners. Previously, he served as President of Commercial Solutions at BAE Systems and held leadership roles at Vastera, Inc.",
@@ -75,10 +79,11 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Timothy J. Harvey"
     },
     {
-      "name": "Magid M. Abraham, Ph.D.",
+      "name": "Magid Abraham, Ph.",
       "age": 66,
       "age_year": 2024,
       "background": "Dr. Abraham has served as a member of our Board since September 2021. Dr. Abraham is the founder and CEO of Neurawell Therapeutics. He previously co-founded and served as CEO of comScore, Inc. and was a founder of Paragren Technologies.",
@@ -93,10 +98,11 @@
       "committees": [
         "Audit Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Magid M. Abraham, Ph.D."
     },
     {
-      "name": "Susan M. Gordon",
+      "name": "Susan Gordon",
       "age": 65,
       "age_year": 2024,
       "background": "Ms. Gordon has served as a member of our Board since September 2021. Ms. Gordon served as the Principal Deputy Director of National Intelligence from 2017 to 2019 and as Deputy Director of the National Geospatial-Intelligence Agency from 2015 to 2017.",
@@ -110,10 +116,11 @@
       ],
       "committees": [
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Susan M. Gordon"
     },
     {
-      "name": "James M. Johnston III",
+      "name": "James Johnston III",
       "age": 75,
       "age_year": 2024,
       "background": "Mr. Johnston has served as a member of our Board since September 2021. He was previously a member of the board of directors of Legacy BlackSky from 2015 to September 2021. Mr. Johnston is a retired partner of the law firm Sutherland Asbill & Brennan LLP.",
@@ -127,7 +134,8 @@
       ],
       "committees": [
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "James M. Johnston III"
     }
   ],
   "sources": [

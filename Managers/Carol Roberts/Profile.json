@@ -1,0 +1,33 @@
+{
+  "name": "Carol Roberts",
+  "first_name": "Carol",
+  "last_name": "Roberts",
+  "age": 64,
+  "age_year": 2024,
+  "background": "Former Senior Vice President and CFO of International Paper Company.",
+  "picture_url": "https://media-exp1.licdn.com/dms/image/C5622AQHbYJS1AzrwcA/feedshare-shrink_800/0/1654794020230?e=2147483647&v=beta&t=AGzG20X_vh6_mbe8tIVLudDxy62l9kQdb5XjcFyCR0s",
+  "commpanies": [
+    {
+      "name": "Alcoa Corporation",
+      "ticker": "AA",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2016-11-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/carol-roberts-22001131"
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation and Benefits Committee"
+  ],
+  "enrichment_status": "success"
+}

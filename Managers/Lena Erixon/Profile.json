@@ -1,0 +1,35 @@
+{
+  "name": "Lena Erixon",
+  "first_name": "Lena",
+  "last_name": "Erixon",
+  "age": 64,
+  "age_year": 2024,
+  "background": "Former Director General of the Swedish Transport Administration.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Saab AB",
+      "ticker": "SAAB-B",
+      "exchange": "STO",
+      "title_or_role": "Member of the Board",
+      "start_date": "2022-04-06",
+      "end_date": null
+    },
+    {
+      "name": "Saab Aktiebolag",
+      "ticker": "SAAB",
+      "exchange": "STO",
+      "title_or_role": "Member of the Board",
+      "start_date": "2022-04-06",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ]
+}

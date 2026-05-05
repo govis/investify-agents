@@ -1,10 +1,10 @@
 {
   "executives": [
     {
-      "name": "Patrick P. Gelsinger",
+      "name": "Patrick Gelsinger",
       "age": 63,
       "age_year": 2024,
-      "background": "Patrick P. Gelsinger has been a director and Intel’s CEO since February 2021. He has over 40 years of technology and leadership experience, including 30 years at Intel in various engineering and leadership roles. Prior to returning to Intel, he served as CEO of VMware, Inc. from 2012 to 2021 and as President and COO of EMC Corp.’s Information Infrastructure Products business from 2009 to 2012.",
+      "background": "Patrick P. Gelsinger has been a director and Intel\u2019s CEO since February 2021. He has over 40 years of technology and leadership experience, including 30 years at Intel in various engineering and leadership roles. Prior to returning to Intel, he served as CEO of VMware, Inc. from 2012 to 2021 and as President and COO of EMC Corp.\u2019s Information Infrastructure Products business from 2009 to 2012.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -12,13 +12,14 @@
           "start_date": "2021-02-15",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Patrick P. Gelsinger"
     },
     {
-      "name": "David A. Zinsner",
+      "name": "David Zinsner",
       "age": 55,
       "age_year": 2024,
-      "background": "David A. Zinsner has been Intel’s Executive Vice President and CFO since January 2022. Before joining Intel, he was Executive Vice President and CFO at Micron Technology, Inc. from 2018 to 2022. He also served as President and COO of Affirmed Networks and held CFO roles at Analog Devices and Intersil Corp.",
+      "background": "David A. Zinsner has been Intel\u2019s Executive Vice President and CFO since January 2022. Before joining Intel, he was Executive Vice President and CFO at Micron Technology, Inc. from 2018 to 2022. He also served as President and COO of Affirmed Networks and held CFO roles at Analog Devices and Intersil Corp.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -26,7 +27,8 @@
           "start_date": "2022-01-17",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "David A. Zinsner"
     },
     {
       "name": "Michelle Johnston Holthaus",
@@ -40,7 +42,8 @@
           "start_date": "2022-04-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Michelle Johnston Holthaus"
     },
     {
       "name": "Christoph Schell",
@@ -54,7 +57,8 @@
           "start_date": "2022-03-14",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Christoph Schell"
     },
     {
       "name": "Safroadu Yeboah-Kodie",
@@ -68,12 +72,13 @@
           "start_date": "2020-06-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Safroadu Yeboah-Kodie"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Frank D. Yeary",
+      "name": "Frank Yeary",
       "age": 60,
       "age_year": 2024,
       "background": "Frank D. Yeary has been a director since 2009 and Chairman since January 2023. He is Principal of Darwin Capital Advisors, LLC and was previously Executive Vice Chairman of CamberView Partners, LLC and Vice Chancellor of UC Berkeley.",
@@ -92,10 +97,11 @@
       ],
       "committees": [
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Frank D. Yeary"
     },
     {
-      "name": "James J. Goetz",
+      "name": "James Goetz",
       "age": 58,
       "age_year": 2024,
       "background": "James J. Goetz has been a director since 2019. He is a Partner at Sequoia Capital, a venture capital firm, which he joined in 2004. He previously held leadership positions at Entrust and VitalSigns Software.",
@@ -110,7 +116,8 @@
       "committees": [
         "Compensation Committee",
         "Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "James J. Goetz"
     },
     {
       "name": "Alyssa Henry",
@@ -127,7 +134,8 @@
       ],
       "committees": [
         "Audit & Finance Committee"
-      ]
+      ],
+      "name_original": "Alyssa Henry"
     },
     {
       "name": "Omar Ishrak",
@@ -144,7 +152,8 @@
       ],
       "committees": [
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Omar Ishrak"
     },
     {
       "name": "Risa Lavizzo-Mourey",
@@ -162,10 +171,11 @@
       "committees": [
         "Corporate Governance and Nominating Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Risa Lavizzo-Mourey"
     },
     {
-      "name": "Barbara G. Novick",
+      "name": "Barbara Novick",
       "age": 63,
       "age_year": 2024,
       "background": "Barbara G. Novick has been a director since 2022. She is a co-founder of BlackRock, Inc. and served as Vice Chairman until 2021.",
@@ -179,10 +189,11 @@
       ],
       "committees": [
         "Audit & Finance Committee"
-      ]
+      ],
+      "name_original": "Barbara G. Novick"
     },
     {
-      "name": "Gregory D. Smith",
+      "name": "Gregory Smith",
       "age": 57,
       "age_year": 2024,
       "background": "Gregory D. Smith has been a director since 2021. He was previously CFO and Executive Vice President of Enterprise Operations at The Boeing Company.",
@@ -196,7 +207,8 @@
       ],
       "committees": [
         "Audit & Finance Committee"
-      ]
+      ],
+      "name_original": "Gregory D. Smith"
     },
     {
       "name": "Lip-Bu Tan",
@@ -213,10 +225,11 @@
       ],
       "committees": [
         "M&A Committee"
-      ]
+      ],
+      "name_original": "Lip-Bu Tan"
     },
     {
-      "name": "Dion J. Weisler",
+      "name": "Dion Weisler",
       "age": 56,
       "age_year": 2024,
       "background": "Dion J. Weisler has been a director since 2020. He was President and CEO of HP Inc. from 2015 to 2019.",
@@ -230,7 +243,8 @@
       ],
       "committees": [
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Dion J. Weisler"
     }
   ],
   "sources": [

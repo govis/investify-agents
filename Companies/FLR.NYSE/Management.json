@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "David E. Constable",
+      "name": "David Constable",
       "age": 62,
       "age_year": 2024,
       "background": "Mr. Constable has served as Chairman and Chief Executive Officer of Fluor since January 2021. He previously served as Chief Executive Officer of Sasol Ltd from 2011 to 2016. He was also a director of ABB Ltd and Rio Tinto.",
@@ -12,10 +12,11 @@
           "start_date": "2021-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "David E. Constable"
     },
     {
-      "name": "Joseph L. Brennan",
+      "name": "Joseph Brennan",
       "age": 57,
       "age_year": 2024,
       "background": "Mr. Brennan has served as Chief Financial Officer since July 2020. He previously served as Senior Vice President, Controller and Chief Accounting Officer.",
@@ -26,10 +27,11 @@
           "start_date": "2020-07-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Joseph L. Brennan"
     },
     {
-      "name": "John R. Reynolds",
+      "name": "John Reynolds",
       "age": 56,
       "age_year": 2024,
       "background": "Mr. Reynolds has served as Chief Legal Officer and Secretary since January 2021. He joined Fluor in 1985 and has held various legal positions.",
@@ -40,10 +42,11 @@
           "start_date": "2021-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "John R. Reynolds"
     },
     {
-      "name": "Stacy L. MacDiarmid",
+      "name": "Stacy MacDiarmid",
       "age": 51,
       "age_year": 2024,
       "background": "Ms. MacDiarmid has served as Chief Human Resources Officer since January 2021. She has been with Fluor since 1998.",
@@ -54,12 +57,13 @@
           "start_date": "2021-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Stacy L. MacDiarmid"
     }
   ],
   "board_of_directors": [
     {
-      "name": "David E. Constable",
+      "name": "David Constable",
       "age": 62,
       "age_year": 2024,
       "background": "Chairman and CEO of Fluor Corporation. Former CEO of Sasol Ltd.",
@@ -71,10 +75,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "David E. Constable"
     },
     {
-      "name": "Alan M. Bennett",
+      "name": "Alan Bennett",
       "age": 73,
       "age_year": 2024,
       "background": "Former President and CEO of H&R Block, Inc. Former CFO of Aetna Inc.",
@@ -89,10 +94,11 @@
       "committees": [
         "Audit Committee",
         "Organization and Compensation Committee"
-      ]
+      ],
+      "name_original": "Alan M. Bennett"
     },
     {
-      "name": "Rosemary T. Berkery",
+      "name": "Rosemary Berkery",
       "age": 70,
       "age_year": 2024,
       "background": "Former Chairman of UBS Bank USA and Vice Chairman of UBS Wealth Management Americas.",
@@ -107,10 +113,11 @@
       "committees": [
         "Audit Committee",
         "Governance Committee"
-      ]
+      ],
+      "name_original": "Rosemary T. Berkery"
     },
     {
-      "name": "H. Paulett Eberhart",
+      "name": "Paulett Eberhart",
       "age": 70,
       "age_year": 2024,
       "background": "CEO of HMS Ventures. Former President and CEO of Invensys Process Systems.",
@@ -125,10 +132,11 @@
       "committees": [
         "Audit Committee",
         "Organization and Compensation Committee"
-      ]
+      ],
+      "name_original": "H. Paulett Eberhart"
     },
     {
-      "name": "James T. Hackett",
+      "name": "James Hackett",
       "age": 70,
       "age_year": 2024,
       "background": "President of Tessellation Services, LLC. Former Executive Chairman of Anadarko Petroleum Corporation.",
@@ -143,10 +151,11 @@
       "committees": [
         "Organization and Compensation Committee",
         "Governance Committee"
-      ]
+      ],
+      "name_original": "James T. Hackett"
     },
     {
-      "name": "Gerard J. Arpey",
+      "name": "Gerard Arpey",
       "age": 65,
       "age_year": 2024,
       "background": "Former Chairman and CEO of AMR Corporation and American Airlines, Inc.",
@@ -161,10 +170,11 @@
       "committees": [
         "Audit Committee",
         "Governance Committee"
-      ]
+      ],
+      "name_original": "Gerard J. Arpey"
     },
     {
-      "name": "Thomas C. Leppert",
+      "name": "Thomas Leppert",
       "age": 69,
       "age_year": 2024,
       "background": "Former Chairman and CEO of The Turner Corporation. Former Mayor of Dallas.",
@@ -179,10 +189,11 @@
       "committees": [
         "Audit Committee",
         "Organization and Compensation Committee"
-      ]
+      ],
+      "name_original": "Thomas C. Leppert"
     },
     {
-      "name": "Teri P. McClure",
+      "name": "Teri McClure",
       "age": 60,
       "age_year": 2024,
       "background": "Former Chief Human Resources Officer and Senior Vice President of Labor of United Parcel Service, Inc.",
@@ -197,7 +208,8 @@
       "committees": [
         "Organization and Compensation Committee",
         "Governance Committee"
-      ]
+      ],
+      "name_original": "Teri P. McClure"
     }
   ],
   "sources": [

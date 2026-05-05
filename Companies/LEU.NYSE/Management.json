@@ -1,0 +1,179 @@
+{
+  "executives": [
+    {
+      "name": "Amir Vexler",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Vexler has served as President and Chief Executive Officer since January 2024. Previously, he served as President of Orano USA from 2021 to 2023 and held various leadership roles at GE-Hitachi Nuclear Energy, including CEO of Global Nuclear Fuel.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Amir Vexler"
+    },
+    {
+      "name": "Kevin Harrill",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. Harrill has served as Senior Vice President, Chief Financial Officer, and Treasurer since 2023. He previously served as Vice President and Controller of the Company from 2018 to 2023.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Chief Financial Officer, and Treasurer",
+          "start_date": "2023-05-01",
+          "end_date": null
+        },
+        {
+          "title": "Vice President and Controller",
+          "start_date": "2018-01-01",
+          "end_date": "2023-05-01"
+        }
+      ],
+      "name_original": "Kevin J. Harrill"
+    },
+    {
+      "name": "Dennis Scott",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Scott has served as Senior Vice President, General Counsel, and Secretary since 2021. He joined the Company in 2015 and previously served as Deputy General Counsel.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, General Counsel, and Secretary",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Dennis J. Scott"
+    },
+    {
+      "name": "Larry Cutlip",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Cutlip has served as Senior Vice President, Field Operations since 2021. He has been with the Company and its predecessor since 1981, holding various management positions at the Portsmouth and Paducah sites.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Field Operations",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Larry B. Cutlip"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Mikel Williams",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Mr. Williams has served as Chairman of the Board since 2021. He was previously the CEO of JPS Industries, Inc. and DDi Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board",
+          "start_date": "2014-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Mikel H. Williams"
+    },
+    {
+      "name": "Amir Vexler",
+      "age": 56,
+      "age_year": 2024,
+      "background": "President and CEO of Centrus Energy Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Amir Vexler"
+    },
+    {
+      "name": "Bradley Sawatzke",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former CEO of Energy Northwest. He has extensive experience in nuclear power plant operations and management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Bradley J. Sawatzke"
+    },
+    {
+      "name": "Tina Jonas",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former Under Secretary of Defense (Comptroller) and CFO for the Department of Defense. She has held senior positions at United Technologies and Lumina Analytics.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Governance Committee"
+      ],
+      "name_original": "Tina W. Jonas"
+    },
+    {
+      "name": "William Madia",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Former Director of Oak Ridge National Laboratory and Pacific Northwest National Laboratory. He is a Vice President Emeritus at Stanford University.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2014-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Nominating and Governance Committee"
+      ],
+      "name_original": "William J. Madia"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1058811/000105881124000018/leu-20231231.htm",
+      "source_description": "Centrus Energy Corp. Form 10-K for the fiscal year ended December 31, 2023",
+      "as_of_date": "2024-02-21"
+    },
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1058811/000119312524111304/d783100ddef14a.htm",
+      "source_description": "Centrus Energy Corp. Definitive Proxy Statement (DEF 14A)",
+      "as_of_date": "2024-04-24"
+    },
+    {
+      "source_url": "https://www.centrusenergy.com/about-us/leadership-governance/",
+      "source_description": "Centrus Energy Corp. Official Website - Leadership and Governance",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

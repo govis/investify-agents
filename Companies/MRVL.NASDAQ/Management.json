@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Matthew J. Murphy",
+      "name": "Matthew Murphy",
       "age": 50,
       "age_year": 2024,
       "background": "Mr. Murphy has served as our President and Chief Executive Officer since July 2016 and as a director since July 2016. He was appointed Chairman of the Board in June 2021. Prior to joining Marvell, Mr. Murphy worked at Maxim Integrated, where he held several executive roles, including Executive Vice President, Business Units, Sales and Marketing.",
@@ -17,10 +17,11 @@
           "start_date": "2021-06-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Matthew J. Murphy"
     },
     {
-      "name": "Willem A. Meintjes",
+      "name": "Willem Meintjes",
       "age": 48,
       "age_year": 2024,
       "background": "Mr. Meintjes has served as our Chief Financial Officer since January 2023. He previously served as our Chief Accounting Officer from June 2016 to January 2023 and as our Treasurer from March 2018 to January 2023. Before joining Marvell, he was Vice President and Corporate Controller at Newport Corporation.",
@@ -36,10 +37,11 @@
           "start_date": "2016-06-01",
           "end_date": "2023-01-01"
         }
-      ]
+      ],
+      "name_original": "Willem A. Meintjes"
     },
     {
-      "name": "Dr. Loi Nguyen",
+      "name": "Loi Nguyen",
       "age": 62,
       "age_year": 2024,
       "background": "Dr. Nguyen has served as our Executive Vice President, Optical and Copper Connectivity Group since April 2021. He co-founded Inphi Corporation and served as its Senior Vice President, Optical Interconnect from 2000 until its acquisition by Marvell in 2021.",
@@ -50,7 +52,8 @@
           "start_date": "2021-04-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Dr. Loi Nguyen"
     },
     {
       "name": "Chris Koopmans",
@@ -64,7 +67,8 @@
           "start_date": "2023-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Chris Koopmans"
     },
     {
       "name": "Mitchell Gaynor",
@@ -78,12 +82,13 @@
           "start_date": "2023-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Mitchell Gaynor"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Matthew J. Murphy",
+      "name": "Matthew Murphy",
       "age": 50,
       "age_year": 2024,
       "background": "President and CEO of Marvell. Chairman of the Board since 2021.",
@@ -102,7 +107,8 @@
       ],
       "committees": [
         "Executive Committee"
-      ]
+      ],
+      "name_original": "Matthew J. Murphy"
     },
     {
       "name": "Ford Tamer",
@@ -119,7 +125,8 @@
       ],
       "committees": [
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Ford Tamer"
     },
     {
       "name": "Sara Andrews",
@@ -136,7 +143,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Sara Andrews"
     },
     {
       "name": "Brad Buss",
@@ -154,7 +162,8 @@
       "committees": [
         "Audit Committee",
         "Executive Committee"
-      ]
+      ],
+      "name_original": "Brad Buss"
     },
     {
       "name": "Edward Frank",
@@ -172,7 +181,8 @@
       "committees": [
         "Executive Compensation Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Edward Frank"
     },
     {
       "name": "Richard Hill",
@@ -189,7 +199,8 @@
       ],
       "committees": [
         "Executive Compensation Committee"
-      ]
+      ],
+      "name_original": "Richard Hill"
     },
     {
       "name": "Rebecca House",
@@ -206,7 +217,8 @@
       ],
       "committees": [
         "Executive Compensation Committee"
-      ]
+      ],
+      "name_original": "Rebecca House"
     },
     {
       "name": "Michael Strachan",
@@ -223,7 +235,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Michael Strachan"
     },
     {
       "name": "Robert Switz",
@@ -241,7 +254,8 @@
       "committees": [
         "Audit Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Robert Switz"
     }
   ],
   "sources": [

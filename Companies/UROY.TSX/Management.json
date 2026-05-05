@@ -1,0 +1,160 @@
+{
+  "executives": [
+    {
+      "name": "Scott Melbye",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Melbye is a 40-year veteran of the nuclear energy industry having held numerous senior management and board positions in the uranium mining industry. He is currently the Executive Vice President of Uranium Energy Corp. and was formerly the President of the Uranium Producers of America. He also serves as an advisor to the CEO of Kazatomprom.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2019-10-01",
+          "end_date": null
+        },
+        {
+          "title": "President",
+          "start_date": "2019-10-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Scott Melbye"
+    },
+    {
+      "name": "Josephine Man",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Ms. Man has over 20 years of experience in finance and accounting. She was previously the Chief Financial Officer of several publicly traded companies and has extensive experience in financial reporting, internal controls, and corporate finance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2018-08-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Josephine Man"
+    },
+    {
+      "name": "Samuel Sharratt",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Sharratt has experience in corporate development and investor relations within the mining sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Corporate Development",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Samuel Sharratt"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Amir Adnani",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Mr. Adnani is the founder and Chairman of Uranium Royalty Corp. He is also the President, CEO, and a director of Uranium Energy Corp. and the Chairman of GoldMining Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2017-08-23",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Amir Adnani"
+    },
+    {
+      "name": "Scott Melbye",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Melbye is the CEO and a director of the Company. He has extensive experience in the uranium industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2019-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Scott Melbye"
+    },
+    {
+      "name": "Vina Celina",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Ms. Celina is a Chartered Professional Accountant with over 15 years of experience in financial reporting and corporate governance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ],
+      "name_original": "Vina Celina"
+    },
+    {
+      "name": "Neil Gregson",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Gregson is a qualified mining engineer with over 30 years of experience in the resources sector, including roles at J.P. Morgan Asset Management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ],
+      "name_original": "Neil Gregson"
+    },
+    {
+      "name": "Geoffrey Kritzinger",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Kritzinger is a Chartered Professional Accountant with over 30 years of experience in the investment industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2019-10-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ],
+      "name_original": "Geoffrey Kritzinger"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.uraniumroyalty.com/_resources/sedar/Management-Information-Circular-2024.pdf",
+      "source_description": "Management Information Circular dated August 28, 2024",
+      "as_of_date": "2024-08-28"
+    },
+    {
+      "source_url": "https://www.uraniumroyalty.com/corporate/team/",
+      "source_description": "Company Website - Management and Board Profiles",
+      "as_of_date": "2024-10-27"
+    }
+  ]
+}

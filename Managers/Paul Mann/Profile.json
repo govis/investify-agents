@@ -1,0 +1,33 @@
+{
+  "name": "Paul Mann",
+  "first_name": "Paul",
+  "last_name": "Mann",
+  "age": 52,
+  "age_year": 2024,
+  "background": "Mr. Mann has served as our Chairman and Chief Executive Officer since September 2021. He has over 20 years of experience in the financial industry and has held various senior positions at investment banks and hedge funds.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "ASP Isotopes Inc.",
+      "ticker": "ASPI",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chairman and Chief Executive Officer, Chairman of the Board",
+      "start_date": "2021-09-01",
+      "end_date": null
+    },
+    {
+      "name": "ASP Isotopes Inc.",
+      "ticker": "ASPI",
+      "exchange": "NYSE",
+      "title_or_role": "Chairman and Chief Executive Officer, Chairman of the Board",
+      "start_date": "2021-09-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": []
+}

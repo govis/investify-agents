@@ -1,0 +1,141 @@
+{
+  "executives": [
+    {
+      "name": "Paul Mann",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Mann has served as our Chairman and Chief Executive Officer since September 2021. He has over 20 years of experience in the investment management industry and has served as a portfolio manager and analyst at various investment firms. He was previously the CFO of PolarityTE, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2021-09-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Paul Mann"
+    },
+    {
+      "name": "Bob Fogarty",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Fogarty has served as our Chief Financial Officer since June 2022. He has over 30 years of experience in finance and accounting, including serving as CFO for several public and private companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2022-06-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Robert J. (Bob) Fogarty"
+    },
+    {
+      "name": "Hendrik Strydom",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Dr. Strydom has served as our Chief Technology Officer since September 2021. He has extensive experience in the development and commercialization of isotope separation technologies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Technology Officer",
+          "start_date": "2021-09-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Hendrik Strydom"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Paul Mann",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Chairman and CEO of ASP Isotopes Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board",
+          "start_date": "2021-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Paul Mann"
+    },
+    {
+      "name": "Duncan Moore",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Dr. Moore has served as a director since 2022. He is a partner at East West Capital Partners and has extensive experience in the healthcare and life sciences sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Duncan Moore"
+    },
+    {
+      "name": "Josh Donfeld",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Mr. Donfeld has served as a director since 2022. He has over 20 years of experience in the investment industry, including roles at Soros Fund Management and Canyon Partners.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Nominating and Corporate Governance Committee"
+      ],
+      "name_original": "Joshua S. (Josh) Donfeld"
+    },
+    {
+      "name": "Mike Sheridan",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Mr. Sheridan has served as a director since 2022. He has extensive experience in the energy and natural resources sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ],
+      "name_original": "Michael J. (Mike) G. S. Sheridan"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1921085/000121390024026601/f10k2023_aspisotopes.htm",
+      "source_description": "ASP Isotopes Inc. Form 10-K for the fiscal year ended December 31, 2023",
+      "as_of_date": "2024-03-27"
+    },
+    {
+      "source_url": "https://aspisotopes.com/about-us/management-team/",
+      "source_description": "ASP Isotopes Official Website - Management Team",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://aspisotopes.com/about-us/board-of-directors/",
+      "source_description": "ASP Isotopes Official Website - Board of Directors",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

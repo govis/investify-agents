@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "William M. Sheriff",
+      "name": "William Sheriff",
       "age": 68,
       "age_year": 2024,
       "background": "Mr. Sheriff is the Executive Chairman of the Company. He has over 30 years of experience in the minerals industry and was a co-founder of Energy Metals Corp. and served as its Chairman and CEO.",
@@ -12,7 +12,8 @@
           "start_date": "2017-10-30",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "William M. Sheriff"
     },
     {
       "name": "Paul Goranson",
@@ -26,7 +27,8 @@
           "start_date": "2020-10-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Paul Goranson"
     },
     {
       "name": "Carrie Mierkey",
@@ -40,10 +42,11 @@
           "start_date": "2021-07-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Carrie Mierkey"
     },
     {
-      "name": "Peter W. Luthiger",
+      "name": "Peter Luthiger",
       "age": 63,
       "age_year": 2024,
       "background": "Mr. Luthiger is the Chief Operating Officer of the Company. He has over 35 years of experience in the uranium industry, specializing in in-situ recovery (ISR) operations.",
@@ -54,12 +57,13 @@
           "start_date": "2022-03-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Peter W. Luthiger"
     }
   ],
   "board_of_directors": [
     {
-      "name": "William M. Sheriff",
+      "name": "William Sheriff",
       "age": 68,
       "age_year": 2024,
       "background": "Executive Chairman of the Company with extensive experience in mineral exploration and corporate development.",
@@ -71,7 +75,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "William M. Sheriff"
     },
     {
       "name": "Paul Goranson",
@@ -86,10 +91,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Paul Goranson"
     },
     {
-      "name": "Richard M. Cherry",
+      "name": "Richard Cherry",
       "age": 72,
       "age_year": 2024,
       "background": "Mr. Cherry is a veteran executive in the nuclear industry, having served as President and CEO of Cotter Corporation and as a Vice President of General Atomics.",
@@ -105,10 +111,11 @@
         "Audit Committee",
         "Compensation Committee",
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Richard M. Cherry"
     },
     {
-      "name": "Mark S. Pelizza",
+      "name": "Mark Pelizza",
       "age": 71,
       "age_year": 2024,
       "background": "Mr. Pelizza has over 40 years of experience in the uranium industry, specifically in ISR uranium production and licensing.",
@@ -124,10 +131,11 @@
         "Audit Committee",
         "Compensation Committee",
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Mark S. Pelizza"
     },
     {
-      "name": "Susan L. J. Mackenzie",
+      "name": "Susan Mackenzie",
       "age": 63,
       "age_year": 2024,
       "background": "Ms. Mackenzie is a professional engineer with over 30 years of experience in the energy sector, including senior roles at Petro-Canada.",
@@ -143,7 +151,8 @@
         "Audit Committee",
         "Compensation Committee",
         "Corporate Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Susan L. J. Mackenzie"
     }
   ],
   "sources": [

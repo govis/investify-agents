@@ -1,0 +1,105 @@
+{
+  "executives": [
+    {
+      "name": "Richard Homsany",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr Homsany is an experienced corporate lawyer and has over 30 years\u2019 experience in the resources sector. He is the Executive Chairman of Toro Energy Limited and also serves as the Chairman of Healthia Limited and Galan Lithium Limited. He has extensive experience in corporate law, finance, and management within the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Chairman",
+          "start_date": "2013-12-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Richard Homsany"
+    },
+    {
+      "name": "Katherine Irelan",
+      "age": null,
+      "age_year": null,
+      "background": "Ms Irelan is a Chartered Accountant with over 20 years of experience in the resource sector, specializing in financial management, corporate governance, and statutory reporting. She has held various senior financial roles in ASX-listed companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2016-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Company Secretary",
+          "start_date": "2016-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Katherine Irelan"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Richard Homsany",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr Homsany is an experienced corporate lawyer and has over 30 years\u2019 experience in the resources sector. He is the Executive Chairman of Toro Energy Limited and also serves as the Chairman of Healthia Limited and Galan Lithium Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Chairman",
+          "start_date": "2013-12-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Richard Homsany"
+    },
+    {
+      "name": "Richard Patricio",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Mr Patricio is a lawyer and the President and CEO of Mega Uranium Ltd. He has over 20 years of experience in the mining sector, specifically in uranium. He serves on the boards of several publicly listed companies including NexGen Energy Ltd and ISOEnergy Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2015-12-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee"
+      ],
+      "name_original": "Richard Patricio"
+    },
+    {
+      "name": "Michel Marier",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Mr Marier is a co-founder and partner of Integrated Asset Management (IAM). He has extensive experience in private equity and infrastructure investments. He previously held senior positions at Sentient Asset Management Canada.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2015-12-22",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee"
+      ],
+      "name_original": "Michel Marier"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.toroenergy.com.au/about-toro/board-management/",
+      "source_description": "Official Company Website - Board and Management Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.asx.com.au/asx/statistics/displayAnnouncement.do?display=pdf&idsId=02717845",
+      "source_description": "Toro Energy Limited Annual Report 2023",
+      "as_of_date": "2023-09-28"
+    }
+  ]
+}

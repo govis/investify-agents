@@ -1,0 +1,183 @@
+{
+  "executives": [
+    {
+      "name": "Wayne Heili",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Heili has spent over 30 years in the uranium mining industry. He previously served as President and CEO of Ur-Energy Inc. and held various operations and engineering roles at the Smith Ranch-Highland ISR uranium project.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Managing Director and Chief Executive Officer",
+          "start_date": "2017-04-03",
+          "end_date": null
+        }
+      ],
+      "name_original": "Wayne Heili"
+    },
+    {
+      "name": "Rachel Rees",
+      "age": null,
+      "age_year": null,
+      "background": "Ms. Rees is a Fellow of the Governance Institute of Australia and a Graduate of the Australian Institute of Company Directors. She has over 25 years of experience in senior executive roles in multinational listed and unlisted companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer and Joint Company Secretary",
+          "start_date": "2022-02-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Rachel Rees"
+    },
+    {
+      "name": "Jon Winter",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Winter has over 30 years of experience in the uranium industry, specifically in ISR operations. He has held senior management positions with Uranium One and Power Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President - US Operations",
+          "start_date": "2013-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Jonathan L. (Jon) Winter"
+    },
+    {
+      "name": "Ralph Knode",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Knode has over 30 years of experience in the uranium industry, including senior roles at Uranium One and Cameco Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer - Strata Energy Inc.",
+          "start_date": "2011-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Ralph Knode"
+    },
+    {
+      "name": "Jonathan Whyte",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Whyte is a Chartered Accountant with over 25 years of experience in the resources sector. He has held various company secretarial and financial management roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Joint Company Secretary",
+          "start_date": "2014-04-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Jonathan Whyte"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "John Harrison",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Harrison has over 45 years of experience in the financial services, mining, and energy sectors. He was previously a Managing Director at Woodside Energy and has held senior roles at various investment banks.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Chairman",
+          "start_date": "2014-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Management Committee",
+        "Remuneration and Nomination Committee"
+      ],
+      "name_original": "John Harrison"
+    },
+    {
+      "name": "Wayne Heili",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Heili has spent over 30 years in the uranium mining industry. He previously served as President and CEO of Ur-Energy Inc. and held various operations and engineering roles at the Smith Ranch-Highland ISR uranium project.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Managing Director",
+          "start_date": "2017-04-03",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Wayne Heili"
+    },
+    {
+      "name": "Mark Barker",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Barker has over 40 years of experience in the uranium industry, including senior roles at Cameco Corporation and Areva. He is a recognized expert in uranium marketing and contracting.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2015-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Remuneration and Nomination Committee (Chair)"
+      ],
+      "name_original": "Harrison (Mark) Barker"
+    },
+    {
+      "name": "Michelle Jenkins",
+      "age": null,
+      "age_year": null,
+      "background": "Ms. Jenkins is a Chartered Accountant with over 25 years of experience in the mining sector. She has held senior financial and executive roles at various mining companies, including Bullion Resources and Kumba Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2022-06-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Management Committee (Chair)"
+      ],
+      "name_original": "Michelle Jenkins"
+    },
+    {
+      "name": "Wally Graham",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Graham has over 35 years of experience in the mining and energy sectors, with a focus on project development and operations. He has held senior roles at various mining companies, including Rio Tinto and BHP.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2023-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Management Committee",
+        "Remuneration and Nomination Committee"
+      ],
+      "name_original": "David (Wally) Graham"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.pel.net.au/about-us/board-management/",
+      "source_description": "Official Company Website - Board and Management Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.pel.net.au/wp-content/uploads/2023/09/Annual-Report-to-shareholders-30-June-2023.pdf",
+      "source_description": "Peninsula Energy Limited 2023 Annual Report",
+      "as_of_date": "2023-09-29"
+    }
+  ]
+}

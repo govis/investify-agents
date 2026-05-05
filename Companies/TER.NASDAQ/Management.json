@@ -1,0 +1,219 @@
+{
+  "executives": [
+    {
+      "name": "Gregory Smith",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Gregory S. Smith has been President and Chief Executive Officer since February 2023. He previously served as President of the Industrial Automation Group from 2020 to 2023 and President of the Semiconductor Test Division from 2016 to 2020. He joined Teradyne in 2006.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2023-02-01",
+          "end_date": null
+        },
+        {
+          "title": "President, Industrial Automation Group",
+          "start_date": "2020-01-01",
+          "end_date": "2023-01-31"
+        }
+      ],
+      "name_original": "Gregory S. Smith"
+    },
+    {
+      "name": "Sanjay Mehta",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Sanjay Mehta has been Vice President and Chief Financial Officer since 2019. Prior to joining Teradyne, he served in various financial leadership roles at Qualcomm, including Senior Vice President and CFO of Qualcomm CDMA Technologies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President and Chief Financial Officer",
+          "start_date": "2019-04-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Sanjay Mehta"
+    },
+    {
+      "name": "Charles Gray",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Charles J. Gray has been Vice President and President of the Semiconductor Test Division since 2020. He joined Teradyne in 1993 and has held various management positions in engineering and marketing.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President and President, Semiconductor Test Division",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Charles J. Gray"
+    },
+    {
+      "name": "Vaughn Andrews",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Vaughn E. Andrews has been Vice President, General Counsel and Secretary since 2021. He joined Teradyne in 2005 and previously served as Deputy General Counsel.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, General Counsel and Secretary",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Vaughn E. Andrews"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Paul Tufano",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Paul J. Tufano has been a director since 2005 and Chairman of the Board since 2023. He was formerly the President and CEO of Benchmark Electronics, Inc. and CFO of Alcatel-Lucent.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board",
+          "start_date": "2023-02-01",
+          "end_date": null
+        },
+        {
+          "role": "Independent Director",
+          "start_date": "2005-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ],
+      "name_original": "Paul J. Tufano"
+    },
+    {
+      "name": "Gregory Smith",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Gregory S. Smith is the President and CEO of Teradyne. He joined the board upon his appointment as CEO in 2023.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2023-02-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Gregory S. Smith"
+    },
+    {
+      "name": "Mercedes Johnson",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Mercedes Johnson has been a director since 2014. She was formerly the Senior Vice President and CFO of Avago Technologies Limited and CFO of Lam Research Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2014-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Mercedes Johnson"
+    },
+    {
+      "name": "Edwin Gillis",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Edwin J. Gillis has been a director since 2006. He was formerly the CFO of Veritas Software Corporation and CFO of PTC Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2006-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Edwin J. Gillis"
+    },
+    {
+      "name": "Timothy Guertin",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Timothy E. Guertin has been a director since 2011. He was formerly the President and CEO of Varian Medical Systems, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2011-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ],
+      "name_original": "Timothy E. Guertin"
+    },
+    {
+      "name": "Marilyn Matz",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Marilyn Matz has been a director since 2017. She is the co-founder and former CEO of mabl Inc. and was a co-founder of Cognex Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee"
+      ],
+      "name_original": "Marilyn Matz"
+    },
+    {
+      "name": "Kavitha Mariappan",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Kavitha Mariappan has been a director since 2022. She is the Executive Vice President, Customer Experience and Transformation at Zscaler, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Kavitha Mariappan"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/97210/000009721024000014/ter-20231231.htm",
+      "source_description": "Teradyne, Inc. Form 10-K for the fiscal year ended December 31, 2023",
+      "as_of_date": "2024-02-23"
+    },
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/97210/000119312524080123/d546255ddef14a.htm",
+      "source_description": "Teradyne, Inc. Definitive Proxy Statement (DEF 14A)",
+      "as_of_date": "2024-03-28"
+    },
+    {
+      "source_url": "https://www.teradyne.com/about-teradyne/leadership/",
+      "source_description": "Teradyne Official Website - Leadership Page",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

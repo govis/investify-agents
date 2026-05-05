@@ -1,0 +1,149 @@
+{
+  "executives": [
+    {
+      "name": "Gary Evans",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Mr. Evans has served as a director since 2023 and was appointed Chairman and CEO in 2024. He previously served as Chairman and CEO of Evergreen Corporation and has over 40 years of experience in the energy and natural resources sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2024-02-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Gary C. Evans"
+    },
+    {
+      "name": "Joe Giamunno",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Giamunno was appointed CFO in 2024. He has over 30 years of financial management experience, including roles at various public and private companies in the mining and energy sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2024-03-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Joseph S. J. (Joe) Giamunno"
+    },
+    {
+      "name": "Russell Lawrence",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Lawrence has served as President of the company's antimony operations and was previously the CEO of the company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President of Antimony Operations",
+          "start_date": "2024-02-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2021-01-01",
+          "end_date": "2024-02-01"
+        }
+      ],
+      "name_original": "Russell Lawrence"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Gary Evans",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Chairman and CEO of United States Antimony Corporation. Former Chairman and CEO of Evergreen Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman of the Board",
+          "start_date": "2023-08-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Gary C. Evans"
+    },
+    {
+      "name": "Hart Baitis",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Professional geologist with over 40 years of experience in mineral exploration and development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-05-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ],
+      "name_original": "Hart W. Baitis"
+    },
+    {
+      "name": "Timothy Hasara",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Managing Partner and Chief Investment Officer of Sinnet Capital. Over 30 years of experience in investment management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-08-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ],
+      "name_original": "Timothy Hasara"
+    },
+    {
+      "name": "Michael Neufeld",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Extensive experience in corporate finance and strategic planning within the natural resources industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-08-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ],
+      "name_original": "Michael J. Neufeld"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/101538/000149315224015183/form10-k.htm",
+      "source_description": "SEC Form 10-K Annual Report for the fiscal year ended December 31, 2023",
+      "as_of_date": "2024-04-16"
+    },
+    {
+      "source_url": "https://www.usantimony.com/management",
+      "source_description": "Company Website - Management Team Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.usantimony.com/board-of-directors",
+      "source_description": "Company Website - Board of Directors Page",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

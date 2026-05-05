@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Richard C. Adkerson",
+      "name": "Richard Adkerson",
       "age": 77,
       "age_year": 2024,
       "background": "Mr. Adkerson has served as Chairman of the Board since 2021 and Chief Executive Officer since 2003. He has been a director of the company since 2006. He previously served as President from 2008 to 2021 and Chief Financial Officer from 2000 to 2003.",
@@ -17,10 +17,11 @@
           "start_date": "2003-12-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Richard C. Adkerson"
     },
     {
-      "name": "Kathleen L. Quirk",
+      "name": "Kathleen Quirk",
       "age": 60,
       "age_year": 2024,
       "background": "Ms. Quirk has served as President since 2021 and was appointed Chief Executive Officer effective June 2024. She previously served as Chief Financial Officer from 2003 to 2022 and has been with the company since 1989.",
@@ -36,10 +37,11 @@
           "start_date": "2024-06-11",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Kathleen L. Quirk"
     },
     {
-      "name": "Marelee J. Felton",
+      "name": "Marelee Felton",
       "age": 54,
       "age_year": 2024,
       "background": "Ms. Felton has served as Executive Vice President and Chief Financial Officer since 2022. She previously served as Senior Vice President and Controller from 2013 to 2022.",
@@ -50,10 +52,11 @@
           "start_date": "2022-03-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Marelee J. Felton"
     },
     {
-      "name": "Douglas N. Currault II",
+      "name": "Douglas Currault II",
       "age": 55,
       "age_year": 2024,
       "background": "Mr. Currault has served as Senior Vice President and General Counsel since 2021. He joined the company in 2011 and has held various legal roles.",
@@ -64,12 +67,13 @@
           "start_date": "2021-02-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Douglas N. Currault II"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Richard C. Adkerson",
+      "name": "Richard Adkerson",
       "age": 77,
       "age_year": 2024,
       "background": "Chairman of the Board and CEO of Freeport-McMoRan Inc.",
@@ -86,10 +90,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Richard C. Adkerson"
     },
     {
-      "name": "Dustan E. McCoy",
+      "name": "Dustan McCoy",
       "age": 74,
       "age_year": 2024,
       "background": "Former Chairman and CEO of Brunswick Corporation. Lead Independent Director of FCX.",
@@ -109,10 +114,11 @@
       "committees": [
         "Corporate Responsibility",
         "Governance"
-      ]
+      ],
+      "name_original": "Dustan E. McCoy"
     },
     {
-      "name": "David P. Abney",
+      "name": "David Abney",
       "age": 68,
       "age_year": 2024,
       "background": "Former Executive Chairman and CEO of United Parcel Service, Inc. (UPS).",
@@ -127,10 +133,11 @@
       "committees": [
         "Audit",
         "Compensation"
-      ]
+      ],
+      "name_original": "David P. Abney"
     },
     {
-      "name": "Lydia H. Kennard",
+      "name": "Lydia Kennard",
       "age": 69,
       "age_year": 2024,
       "background": "President and CEO of KDG Construction Consulting. Former Executive Director of Los Angeles World Airports.",
@@ -145,10 +152,11 @@
       "committees": [
         "Audit",
         "Corporate Responsibility"
-      ]
+      ],
+      "name_original": "Lydia H. Kennard"
     },
     {
-      "name": "Ryan M. Lance",
+      "name": "Ryan Lance",
       "age": 61,
       "age_year": 2024,
       "background": "Chairman and CEO of ConocoPhillips.",
@@ -163,7 +171,8 @@
       "committees": [
         "Compensation",
         "Governance"
-      ]
+      ],
+      "name_original": "Ryan M. Lance"
     },
     {
       "name": "Sara Grootwassink Lewis",
@@ -181,10 +190,11 @@
       "committees": [
         "Audit",
         "Governance"
-      ]
+      ],
+      "name_original": "Sara Grootwassink Lewis"
     },
     {
-      "name": "Kathleen L. Quirk",
+      "name": "Kathleen Quirk",
       "age": 60,
       "age_year": 2024,
       "background": "President and incoming CEO of Freeport-McMoRan Inc.",
@@ -196,10 +206,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Kathleen L. Quirk"
     },
     {
-      "name": "John J. Stephens",
+      "name": "John Stephens",
       "age": 64,
       "age_year": 2024,
       "background": "Former Senior Executive Vice President and CFO of AT&T Inc.",
@@ -214,7 +225,8 @@
       "committees": [
         "Audit",
         "Compensation"
-      ]
+      ],
+      "name_original": "John J. Stephens"
     },
     {
       "name": "Frances Fragos Townsend",
@@ -232,7 +244,8 @@
       "committees": [
         "Corporate Responsibility",
         "Governance"
-      ]
+      ],
+      "name_original": "Frances Fragos Townsend"
     }
   ],
   "sources": [

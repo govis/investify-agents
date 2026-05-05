@@ -1,0 +1,36 @@
+{
+  "name": "William Marsh",
+  "first_name": "William",
+  "last_name": "Marsh",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Geologist with over 40 years of experience in the uranium industry, including senior roles at Cameco Corp.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Fission Uranium Corp.",
+      "ticker": "FCU",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "start_date": "2013-02-13",
+      "end_date": null
+    },
+    {
+      "name": "F3 Uranium Corp.",
+      "ticker": "FUU",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "start_date": "2022-11-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Technical Committee"
+  ]
+}

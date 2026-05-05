@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Rex D. Geveden",
+      "name": "Rex Geveden",
       "age": 62,
       "age_year": 2024,
       "background": "Mr. Geveden has served as President and Chief Executive Officer of BWXT since 2017. He joined the company in 2015 as Chief Operating Officer. Previously, he was Executive Vice President at Teledyne Technologies Incorporated.",
@@ -17,10 +17,11 @@
           "start_date": "2015-10-01",
           "end_date": "2016-12-31"
         }
-      ]
+      ],
+      "name_original": "Rex D. Geveden"
     },
     {
-      "name": "Robb A. LeMasters",
+      "name": "Robb LeMasters",
       "age": 46,
       "age_year": 2024,
       "background": "Mr. LeMasters has served as Senior Vice President and Chief Financial Officer since 2021. He previously served as Senior Vice President, Strategy and Corporate Development from 2020 to 2021 and was a member of the Board of Directors from 2015 to 2020.",
@@ -36,10 +37,11 @@
           "start_date": "2020-07-01",
           "end_date": "2021-11-14"
         }
-      ]
+      ],
+      "name_original": "Robb A. LeMasters"
     },
     {
-      "name": "Kevin M. McCoy",
+      "name": "Kevin McCoy",
       "age": 63,
       "age_year": 2024,
       "background": "Vice Admiral McCoy (Ret.) has served as President of BWXT Government Operations since 2022. He previously served as President of Irving Shipbuilding Inc. and had a 36-year career in the U.S. Navy.",
@@ -50,10 +52,11 @@
           "start_date": "2022-03-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Kevin M. McCoy"
     },
     {
-      "name": "John R. MacQuarrie",
+      "name": "John MacQuarrie",
       "age": 57,
       "age_year": 2024,
       "background": "Mr. MacQuarrie has served as President of BWXT Commercial Operations since 2022. He previously served as President of BWXT Canada Ltd. since 2013.",
@@ -64,12 +67,13 @@
           "start_date": "2022-03-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "John R. MacQuarrie"
     }
   ],
   "board_of_directors": [
     {
-      "name": "John A. Fees",
+      "name": "John Fees",
       "age": 66,
       "age_year": 2024,
       "background": "Mr. Fees has served as the non-executive Chairman of the Board since 2010. He was previously the Chief Executive Officer of McDermott International, Inc.",
@@ -81,10 +85,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "John A. Fees"
     },
     {
-      "name": "Jan A. Bertsch",
+      "name": "Jan Bertsch",
       "age": 67,
       "age_year": 2024,
       "background": "Ms. Bertsch served as Senior Vice President and Chief Financial Officer of Owens-Illinois, Inc. from 2015 to 2019.",
@@ -99,10 +104,11 @@
       "committees": [
         "Audit Committee",
         "Governance Committee"
-      ]
+      ],
+      "name_original": "Jan A. Bertsch"
     },
     {
-      "name": "Gerhard F. Burbach",
+      "name": "Gerhard Burbach",
       "age": 62,
       "age_year": 2024,
       "background": "Mr. Burbach served as President, Chief Executive Officer and Director of Thoratec Corporation from 2006 to 2014.",
@@ -117,10 +123,11 @@
       "committees": [
         "Compensation Committee",
         "Governance Committee"
-      ]
+      ],
+      "name_original": "Gerhard F. Burbach"
     },
     {
-      "name": "Barbara A. Niland",
+      "name": "Barbara Niland",
       "age": 64,
       "age_year": 2024,
       "background": "Ms. Niland served as Corporate Vice President and Chief Financial Officer of Huntington Ingalls Industries, Inc. from 2011 to 2016.",
@@ -135,10 +142,11 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Barbara A. Niland"
     },
     {
-      "name": "Robert L. Nardelli",
+      "name": "Robert Nardelli",
       "age": 75,
       "age_year": 2024,
       "background": "Mr. Nardelli is the founder of XLR-8, LLC and previously served as Chairman and CEO of Chrysler LLC and The Home Depot, Inc.",
@@ -153,7 +161,8 @@
       "committees": [
         "Compensation Committee",
         "Governance Committee"
-      ]
+      ],
+      "name_original": "Robert L. Nardelli"
     }
   ],
   "sources": [

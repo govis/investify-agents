@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Christopher E. Kubasik",
+      "name": "Christopher Kubasik",
       "age": 62,
       "age_year": 2024,
       "background": "Mr. Kubasik has served as Chair and Chief Executive Officer since June 2022. He previously served as Vice Chair, President and Chief Executive Officer from June 2021 to June 2022, and as Vice Chair, President and Chief Operating Officer from June 2019 to June 2021. Prior to the L3Harris merger, he was Chairman, President and CEO of L3 Technologies.",
@@ -22,10 +22,11 @@
           "start_date": "2019-06-29",
           "end_date": "2021-06-29"
         }
-      ]
+      ],
+      "name_original": "Christopher E. Kubasik"
     },
     {
-      "name": "Kenneth L. Bedingfield",
+      "name": "Kenneth Bedingfield",
       "age": 51,
       "age_year": 2024,
       "background": "Mr. Bedingfield has served as Senior Vice President and Chief Financial Officer since April 2024. Prior to joining L3Harris, he served as President and Chief Operating Officer of Epirus, Inc. and previously as CFO of Northrop Grumman Corporation.",
@@ -36,10 +37,11 @@
           "start_date": "2024-04-08",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Kenneth L. Bedingfield"
     },
     {
-      "name": "Scott T. Mikuen",
+      "name": "Scott Mikuen",
       "age": 60,
       "age_year": 2024,
       "background": "Mr. Mikuen has served as Senior Vice President, General Counsel and Secretary since June 2019. Prior to the merger, he served as Senior Vice President, General Counsel and Secretary of Harris Corporation since 2010.",
@@ -50,12 +52,13 @@
           "start_date": "2019-06-29",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Scott T. Mikuen"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Christopher E. Kubasik",
+      "name": "Christopher Kubasik",
       "age": 62,
       "age_year": 2024,
       "background": "Chair and Chief Executive Officer of L3Harris. Former Chairman, President and CEO of L3 Technologies.",
@@ -72,10 +75,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Christopher E. Kubasik"
     },
     {
-      "name": "Sallie B. Bailey",
+      "name": "Sallie Bailey",
       "age": 64,
       "age_year": 2024,
       "background": "Former Executive Vice President and Chief Financial Officer of Louisiana-Pacific Corporation. Former VP and CFO of Ferro Corporation.",
@@ -90,10 +94,11 @@
       "committees": [
         "Audit Committee",
         "Finance Committee"
-      ]
+      ],
+      "name_original": "Sallie B. Bailey"
     },
     {
-      "name": "William H. Swanson",
+      "name": "William Swanson",
       "age": 75,
       "age_year": 2024,
       "background": "Former Chairman and CEO of Raytheon Company. Served as Raytheon CEO from 2004 to 2014.",
@@ -108,10 +113,11 @@
       "committees": [
         "Nominating and Governance Committee",
         "Finance Committee"
-      ]
+      ],
+      "name_original": "William H. Swanson"
     },
     {
-      "name": "Roger B. Fradin",
+      "name": "Roger Fradin",
       "age": 70,
       "age_year": 2024,
       "background": "Former Vice Chairman of Honeywell International Inc. Current Chairman of Resideo Technologies, Inc.",
@@ -126,10 +132,11 @@
       "committees": [
         "Compensation Committee",
         "Finance Committee"
-      ]
+      ],
+      "name_original": "Roger B. Fradin"
     },
     {
-      "name": "Joanna L. Geraghty",
+      "name": "Joanna Geraghty",
       "age": 51,
       "age_year": 2024,
       "background": "Chief Executive Officer of JetBlue Airways Corporation. Previously served as President and COO of JetBlue.",
@@ -144,7 +151,8 @@
       "committees": [
         "Compensation Committee",
         "Nominating and Governance Committee"
-      ]
+      ],
+      "name_original": "Joanna L. Geraghty"
     }
   ],
   "sources": [

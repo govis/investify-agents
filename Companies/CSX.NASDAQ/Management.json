@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Joseph R. Hinrichs",
+      "name": "Joseph Hinrichs",
       "age": 57,
       "age_year": 2024,
       "background": "President and Chief Executive Officer of CSX since September 2022. Previously served as President, Automotive at Ford Motor Company from 2019 to 2020.",
@@ -12,10 +12,11 @@
           "start_date": "2022-09-26",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Joseph R. Hinrichs"
     },
     {
-      "name": "Sean R. Pelkey",
+      "name": "Sean Pelkey",
       "age": 44,
       "age_year": 2024,
       "background": "Executive Vice President and Chief Financial Officer since 2022. Previously served as Vice President and Treasurer.",
@@ -26,10 +27,11 @@
           "start_date": "2022-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Sean R. Pelkey"
     },
     {
-      "name": "Michael J. Cory",
+      "name": "Michael Cory",
       "age": 61,
       "age_year": 2024,
       "background": "Executive Vice President and Chief Operating Officer since September 2023. Former Executive Vice President and Chief Operating Officer of Canadian National Railway Company.",
@@ -40,10 +42,11 @@
           "start_date": "2023-09-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Michael J. Cory"
     },
     {
-      "name": "Kevin S. Boone",
+      "name": "Kevin Boone",
       "age": 46,
       "age_year": 2024,
       "background": "Executive Vice President and Chief Commercial Officer since September 2023. Previously served as Executive Vice President of Sales and Marketing.",
@@ -54,10 +57,11 @@
           "start_date": "2023-09-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Kevin S. Boone"
     },
     {
-      "name": "Nathan D. Goldman",
+      "name": "Nathan Goldman",
       "age": 66,
       "age_year": 2024,
       "background": "Executive Vice President and Chief Legal Officer and Corporate Secretary since 2017.",
@@ -68,12 +72,13 @@
           "start_date": "2017-11-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Nathan D. Goldman"
     }
   ],
   "board_of_directors": [
     {
-      "name": "John J. Zillmer",
+      "name": "John Zillmer",
       "age": 68,
       "age_year": 2024,
       "background": "Chairman of the Board of CSX. Chief Executive Officer of Aramark.",
@@ -88,10 +93,11 @@
       "committees": [
         "Executive Committee",
         "Governance and Sustainability Committee"
-      ]
+      ],
+      "name_original": "John J. Zillmer"
     },
     {
-      "name": "Donna M. Abbott",
+      "name": "Donna Abbott",
       "age": 69,
       "age_year": 2024,
       "background": "Former Vice President and Controller of Eastman Chemical Company.",
@@ -105,10 +111,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Donna M. Abbott"
     },
     {
-      "name": "James M. Bernhard, Jr.",
+      "name": "James Bernhard, Jr.",
       "age": 70,
       "age_year": 2024,
       "background": "Founder and Managing Partner of Bernhard Capital Partners.",
@@ -123,10 +130,11 @@
       "committees": [
         "Compensation and Talent Management Committee",
         "Governance and Sustainability Committee"
-      ]
+      ],
+      "name_original": "James M. Bernhard, Jr."
     },
     {
-      "name": "Stanislav J. Galiev",
+      "name": "Stanislav Galiev",
       "age": 55,
       "age_year": 2024,
       "background": "Former CEO of various logistics firms.",
@@ -140,10 +148,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Stanislav J. Galiev"
     },
     {
-      "name": "Joseph R. Hinrichs",
+      "name": "Joseph Hinrichs",
       "age": 57,
       "age_year": 2024,
       "background": "President and CEO of CSX.",
@@ -157,7 +166,8 @@
       ],
       "committees": [
         "Executive Committee"
-      ]
+      ],
+      "name_original": "Joseph R. Hinrichs"
     }
   ],
   "sources": [

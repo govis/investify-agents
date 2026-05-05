@@ -4,7 +4,7 @@
       "name": "Satya Nadella",
       "age": 57,
       "age_year": 2024,
-      "background": "Satya Nadella is Chairman and Chief Executive Officer of Microsoft. Before being named CEO in February 2014, Nadella held leadership roles in both enterprise and consumer businesses across the company. Joining Microsoft in 1992, he quickly became known as a leader who could span a breadth of technologies and businesses to transform some of Microsoft’s biggest product offerings.",
+      "background": "Satya Nadella is Chairman and Chief Executive Officer of Microsoft. Before being named CEO in February 2014, Nadella held leadership roles in both enterprise and consumer businesses across the company. Joining Microsoft in 1992, he quickly became known as a leader who could span a breadth of technologies and businesses to transform some of Microsoft\u2019s biggest product offerings.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -12,13 +12,14 @@
           "start_date": "2014-02-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Satya Nadella"
     },
     {
-      "name": "Amy E. Hood",
+      "name": "Amy Hood",
       "age": 52,
       "age_year": 2024,
-      "background": "Amy Hood is Microsoft’s executive vice president and chief financial officer. She is responsible for leading the company’s worldwide finance organization, including acquisitions, treasury activities, tax planning, accounting and reporting, and internal audit and investor relations.",
+      "background": "Amy Hood is Microsoft\u2019s executive vice president and chief financial officer. She is responsible for leading the company\u2019s worldwide finance organization, including acquisitions, treasury activities, tax planning, accounting and reporting, and internal audit and investor relations.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -26,13 +27,14 @@
           "start_date": "2013-05-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Amy E. Hood"
     },
     {
-      "name": "Bradford L. Smith",
+      "name": "Bradford Smith",
       "age": 65,
       "age_year": 2024,
-      "background": "Brad Smith is Microsoft’s vice chair and president. He leads a team of more than 1,500 business, legal and corporate affairs professionals located in 54 countries and operating in more than 120 nations.",
+      "background": "Brad Smith is Microsoft\u2019s vice chair and president. He leads a team of more than 1,500 business, legal and corporate affairs professionals located in 54 countries and operating in more than 120 nations.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -45,13 +47,14 @@
           "start_date": "2015-09-01",
           "end_date": "2021-09-01"
         }
-      ]
+      ],
+      "name_original": "Bradford L. Smith"
     },
     {
       "name": "Judson Althoff",
       "age": 51,
       "age_year": 2024,
-      "background": "Judson Althoff is executive vice president and chief commercial officer at Microsoft. He is responsible for the sales strategy, execution and revenue growth of the company’s commercial business, which spans enterprise, public sector, small and medium businesses, services, and developer and partner communities.",
+      "background": "Judson Althoff is executive vice president and chief commercial officer at Microsoft. He is responsible for the sales strategy, execution and revenue growth of the company\u2019s commercial business, which spans enterprise, public sector, small and medium businesses, services, and developer and partner communities.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -59,13 +62,14 @@
           "start_date": "2021-07-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Judson Althoff"
     },
     {
-      "name": "Christopher C. Capossela",
+      "name": "Christopher Capossela",
       "age": 54,
       "age_year": 2024,
-      "background": "Chris Capossela is executive vice president and chief marketing officer at Microsoft. He leads the company’s worldwide marketing and consumer business, which includes advertising, brand, communications, research as well as Microsoft’s retail stores.",
+      "background": "Chris Capossela is executive vice president and chief marketing officer at Microsoft. He leads the company\u2019s worldwide marketing and consumer business, which includes advertising, brand, communications, research as well as Microsoft\u2019s retail stores.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -73,7 +77,8 @@
           "start_date": "2014-03-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Christopher C. Capossela"
     }
   ],
   "board_of_directors": [
@@ -95,10 +100,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Satya Nadella"
     },
     {
-      "name": "Sandra E. Peterson",
+      "name": "Sandra Peterson",
       "age": 65,
       "age_year": 2024,
       "background": "Operating Partner at Clayton, Dubilier & Rice. Former Group Worldwide Chairman of Johnson & Johnson.",
@@ -118,10 +124,11 @@
       "committees": [
         "Governance and Nominating Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Sandra E. Peterson"
     },
     {
-      "name": "Reid G. Hoffman",
+      "name": "Reid Hoffman",
       "age": 57,
       "age_year": 2024,
       "background": "Partner at Greylock Partners. Co-founder of LinkedIn.",
@@ -135,10 +142,11 @@
       ],
       "committees": [
         "Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Reid G. Hoffman"
     },
     {
-      "name": "Hugh F. Johnston",
+      "name": "Hugh Johnston",
       "age": 63,
       "age_year": 2024,
       "background": "Senior Executive Vice President and Chief Financial Officer of The Walt Disney Company. Former Vice Chairman and CFO of PepsiCo.",
@@ -152,10 +160,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Hugh F. Johnston"
     },
     {
-      "name": "Teri L. List",
+      "name": "Teri List",
       "age": 61,
       "age_year": 2024,
       "background": "Former Executive Vice President and Chief Financial Officer of Gap Inc.",
@@ -169,10 +178,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Teri L. List"
     },
     {
-      "name": "Penny S. Pritzker",
+      "name": "Penny Pritzker",
       "age": 65,
       "age_year": 2024,
       "background": "Founder and Chairman of PSP Partners. Former U.S. Secretary of Commerce.",
@@ -186,10 +196,11 @@
       ],
       "committees": [
         "Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Penny S. Pritzker"
     },
     {
-      "name": "Carlos A. Rodriguez",
+      "name": "Carlos Rodriguez",
       "age": 60,
       "age_year": 2024,
       "background": "Executive Chair of ADP, Inc. Former CEO of ADP.",
@@ -203,10 +214,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Carlos A. Rodriguez"
     },
     {
-      "name": "Charles W. Scharf",
+      "name": "Charles Scharf",
       "age": 59,
       "age_year": 2024,
       "background": "CEO and President of Wells Fargo & Company.",
@@ -220,10 +232,11 @@
       ],
       "committees": [
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Charles W. Scharf"
     },
     {
-      "name": "John W. Stanton",
+      "name": "John Stanton",
       "age": 69,
       "age_year": 2024,
       "background": "Chairman of Trilogy Search Partners. Former Chairman and CEO of Western Wireless.",
@@ -238,10 +251,11 @@
       "committees": [
         "Governance and Nominating Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "John W. Stanton"
     },
     {
-      "name": "Emma N. Walmsley",
+      "name": "Emma Walmsley",
       "age": 55,
       "age_year": 2024,
       "background": "CEO of GSK plc.",
@@ -255,7 +269,8 @@
       ],
       "committees": [
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "Emma N. Walmsley"
     },
     {
       "name": "Catherine MacGregor",
@@ -272,7 +287,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Catherine MacGregor"
     }
   ],
   "sources": [

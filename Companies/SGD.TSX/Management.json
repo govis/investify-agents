@@ -1,0 +1,189 @@
+{
+  "executives": [
+    {
+      "name": "Scott Berdahl",
+      "age": 38,
+      "age_year": 2024,
+      "background": "Mr. Berdahl is a professional geologist with over 15 years of experience in the mineral exploration industry. He has been involved in the discovery and development of several mineral deposits in the Yukon and elsewhere in Canada. He holds a B.Sc. in Geology from the University of British Columbia and an M.Sc. in Earth Science from the University of Waterloo.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer and Director",
+          "start_date": "2020-11-27",
+          "end_date": null
+        }
+      ],
+      "name_original": "Scott Berdahl"
+    },
+    {
+      "name": "Matthew Roma",
+      "age": 36,
+      "age_year": 2024,
+      "background": "Mr. Roma is a Chartered Professional Accountant (CPA) with over 10 years of experience in financial reporting and corporate finance. He has served as CFO for several publicly traded companies in the resource sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer and Corporate Secretary",
+          "start_date": "2021-02-25",
+          "end_date": null
+        }
+      ],
+      "name_original": "Matthew Roma"
+    },
+    {
+      "name": "Thomas Branson",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Branson is a professional geologist with over 25 years of experience in mineral exploration and development. He has held senior management positions with several exploration companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Exploration",
+          "start_date": "2023-05-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Thomas Branson"
+    },
+    {
+      "name": "Sergio Gamonal",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Gamonal has over 15 years of experience in the mining industry, specializing in project management and corporate development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Corporate Development",
+          "start_date": "2023-09-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Sergio Gamonal"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Craig Hart",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Dr. Hart is a world-renowned scholar on gold deposits and regional metallogeny. He was previously the Director of the Mineral Deposit Research Unit (MDRU) at the University of British Columbia.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Chairman",
+          "start_date": "2020-11-27",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Craig Hart"
+    },
+    {
+      "name": "Scott Berdahl",
+      "age": 38,
+      "age_year": 2024,
+      "background": "Mr. Berdahl is a professional geologist with over 15 years of experience in the mineral exploration industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2020-11-27",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Scott Berdahl"
+    },
+    {
+      "name": "Sarah Weber",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Ms. Weber is a Professional Geoscientist with over 20 years of experience in the resource sector. She is the President and CEO of C3 Alliance Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2021-02-25",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Sarah Weber"
+    },
+    {
+      "name": "Gunther Roehlig",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. Roehlig has over 25 years of experience in the financial and investment industry, with a focus on the resource sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-11-27",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Gunther Roehlig"
+    },
+    {
+      "name": "Stephanie Anderson",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Ms. Anderson is a senior executive with over 30 years of experience in the mining industry, including roles as CFO for several major mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2023-06-15",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Stephanie J. Anderson"
+    },
+    {
+      "name": "Calum Morrison",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Morrison is a senior executive with extensive experience in corporate strategy and finance within the mining sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2024-01-15",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Calum Morrison"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://snowlinegold.com/corporate/team/",
+      "source_description": "Company Website - Management and Board Team Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca",
+      "source_description": "Management Information Circular dated May 10, 2024",
+      "as_of_date": "2024-05-10"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
   "executives": [
     {
-      "name": "Ian L. Edwards",
+      "name": "Ian Edwards",
       "age": 62,
       "age_year": 2024,
-      "background": "Ian L. Edwards was appointed President and Chief Executive Officer of AtkinsRéalis in October 2019. He joined the company in 2014 and has over 30 years of experience in the global engineering and construction industry.",
+      "background": "Ian L. Edwards was appointed President and Chief Executive Officer of AtkinsR\u00e9alis in October 2019. He joined the company in 2014 and has over 30 years of experience in the global engineering and construction industry.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -22,13 +22,14 @@
           "start_date": "2019-01-28",
           "end_date": "2019-06-10"
         }
-      ]
+      ],
+      "name_original": "Ian L. Edwards"
     },
     {
       "name": "Jeff Bell",
       "age": 56,
       "age_year": 2024,
-      "background": "Jeff Bell was appointed Chief Financial Officer in April 2020. Prior to joining AtkinsRéalis, he was Group CFO at Centrica plc.",
+      "background": "Jeff Bell was appointed Chief Financial Officer in April 2020. Prior to joining AtkinsR\u00e9alis, he was Group CFO at Centrica plc.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -36,7 +37,8 @@
           "start_date": "2020-04-14",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Jeff Bell"
     },
     {
       "name": "Philip Hoare",
@@ -50,7 +52,8 @@
           "start_date": "2019-05-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Philip Hoare"
     },
     {
       "name": "Joe St. Julian",
@@ -64,13 +67,14 @@
           "start_date": "2022-04-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Joe St. Julian"
     },
     {
-      "name": "Andrée-Claude Bérubé",
+      "name": "Andr\u00e9e-Claude B\u00e9rub\u00e9",
       "age": 50,
       "age_year": 2024,
-      "background": "Andrée-Claude Bérubé is Executive Vice-President and General Counsel. She joined the company in 2020 and was previously at Sherritt International.",
+      "background": "Andr\u00e9e-Claude B\u00e9rub\u00e9 is Executive Vice-President and General Counsel. She joined the company in 2020 and was previously at Sherritt International.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -78,12 +82,13 @@
           "start_date": "2022-11-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Andr\u00e9e-Claude B\u00e9rub\u00e9"
     }
   ],
   "board_of_directors": [
     {
-      "name": "William L. Young",
+      "name": "William Young",
       "age": 68,
       "age_year": 2024,
       "background": "William L. Young is the Chair of the Board. He is a corporate director and was previously a co-founder and partner of Monitor Clipper Partners.",
@@ -102,13 +107,14 @@
       ],
       "committees": [
         "Governance, Ethics and Sustainability Committee"
-      ]
+      ],
+      "name_original": "William L. Young"
     },
     {
-      "name": "Ian L. Edwards",
+      "name": "Ian Edwards",
       "age": 62,
       "age_year": 2024,
-      "background": "President and Chief Executive Officer of AtkinsRéalis.",
+      "background": "President and Chief Executive Officer of AtkinsR\u00e9alis.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -117,7 +123,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Ian L. Edwards"
     },
     {
       "name": "Mary-Ann Bell",
@@ -135,7 +142,8 @@
       "committees": [
         "Audit and Risk Committee",
         "Human Resources Committee"
-      ]
+      ],
+      "name_original": "Mary-Ann Bell"
     },
     {
       "name": "Ruby McGregor-Smith",
@@ -153,10 +161,11 @@
       "committees": [
         "Audit and Risk Committee",
         "Governance, Ethics and Sustainability Committee"
-      ]
+      ],
+      "name_original": "Ruby McGregor-Smith"
     },
     {
-      "name": "Robert Paré",
+      "name": "Robert Par\u00e9",
       "age": 70,
       "age_year": 2024,
       "background": "Strategic Advisor at Fasken Martineau DuMoulin LLP.",
@@ -171,18 +180,19 @@
       "committees": [
         "Governance, Ethics and Sustainability Committee",
         "Human Resources Committee"
-      ]
+      ],
+      "name_original": "Robert Par\u00e9"
     }
   ],
   "sources": [
     {
       "source_url": "https://www.atkinsrealis.com/en/about/leadership-and-governance/executive-committee",
-      "source_description": "AtkinsRéalis Executive Committee Website",
+      "source_description": "AtkinsR\u00e9alis Executive Committee Website",
       "as_of_date": "2024-05-20"
     },
     {
       "source_url": "https://www.atkinsrealis.com/en/about/leadership-and-governance/board-of-directors",
-      "source_description": "AtkinsRéalis Board of Directors Website",
+      "source_description": "AtkinsR\u00e9alis Board of Directors Website",
       "as_of_date": "2024-05-20"
     },
     {

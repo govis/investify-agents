@@ -1,0 +1,27 @@
+{
+  "name": "Charles Main",
+  "first_name": "Charles",
+  "last_name": "Main",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Mr. Main is a Chartered Professional Accountant with over 30 years of experience in the mining sector, including as CFO of Yamana Gold.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Wesdome Gold Mines Ltd.",
+      "ticker": "WDO",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "start_date": "2017-06-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Compensation Committee"
+  ]
+}

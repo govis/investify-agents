@@ -1,0 +1,36 @@
+{
+  "name": "Martin Gilbert",
+  "first_name": "Martin",
+  "last_name": "Gilbert",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Martin Gilbert was the co-founder and CEO of Aberdeen Asset Management. He is currently Chairman of Revolut and AssetCo plc.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Glencore plc",
+      "ticker": "GLEN",
+      "exchange": "LSE",
+      "title_or_role": "Senior Independent Non-Executive Director",
+      "start_date": "2017-05-24",
+      "end_date": null
+    },
+    {
+      "name": "Glencore plc",
+      "ticker": "GLNCY",
+      "exchange": "OTC",
+      "title_or_role": "Senior Independent Director",
+      "start_date": "2017-03-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nomination Committee"
+  ]
+}

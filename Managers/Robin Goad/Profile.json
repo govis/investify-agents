@@ -1,0 +1,41 @@
+{
+  "name": "Robin Goad",
+  "first_name": "Robin",
+  "last_name": "Goad",
+  "age": 66,
+  "age_year": 2024,
+  "background": "Mr. Goad is a professional geologist with over 35 years of experience in the mining and exploration industry. He is the President and CEO of Fortune Minerals Limited and has served as a director and officer of several other public companies.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "DLP Resources Inc.",
+      "ticker": "DLP",
+      "exchange": "TSX",
+      "title_or_role": "Executive Chairman",
+      "start_date": "2019-11-01",
+      "end_date": null
+    },
+    {
+      "name": "NorthIsle Copper and Gold Inc.",
+      "ticker": "NCX",
+      "exchange": "TSX",
+      "title_or_role": "Vice President, Exploration",
+      "start_date": "2011-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Stria Lithium Inc.",
+      "ticker": "SRA",
+      "exchange": "TSXV",
+      "title_or_role": "Director, Executive Chairman",
+      "start_date": "2022-06-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": []
+}

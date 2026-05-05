@@ -1,0 +1,147 @@
+{
+  "executives": [
+    {
+      "name": "Rick Van Nieuwenhuyse",
+      "age": 68,
+      "age_year": 2023,
+      "background": "Mr. Van Nieuwenhuyse has served as our President and Chief Executive Officer since January 2020. He has over 40 years of experience in the natural resource sector. He was previously the President and CEO of Trilogy Metals Inc. and the founder of NovaGold Resources Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Rick Van Nieuwenhuyse"
+    },
+    {
+      "name": "Jack Kerin",
+      "age": 42,
+      "age_year": 2023,
+      "background": "Mr. Kerin has served as our Chief Financial Officer since September 2023. Prior to joining the Company, he served as the Corporate Controller for NovaGold Resources Inc. from 2018 to 2023.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2023-09-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Jack J. Kerin"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Brad Juneau",
+      "age": 64,
+      "age_year": 2023,
+      "background": "Mr. Juneau has served as Executive Chairman of the Board since January 2020 and was previously our President and CEO. He is the sole manager of Juneau Exploration, L.P.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Chairman",
+          "start_date": "2020-01-01",
+          "end_date": null
+        },
+        {
+          "role": "Director",
+          "start_date": "2010-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Brad Juneau"
+    },
+    {
+      "name": "Rick Van Nieuwenhuyse",
+      "age": 68,
+      "age_year": 2023,
+      "background": "Mr. Van Nieuwenhuyse has served as a director since January 2020. He is also the President and CEO of the Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Rick Van Nieuwenhuyse"
+    },
+    {
+      "name": "Joseph Compofelice",
+      "age": 74,
+      "age_year": 2023,
+      "background": "Mr. Compofelice has served as a director since 2010. He is currently the Chairman and CEO of Modelpoint, Inc. and has extensive experience in the energy and service industries.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2010-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Joseph S. Compofelice"
+    },
+    {
+      "name": "Richard Shortz",
+      "age": 78,
+      "age_year": 2023,
+      "background": "Mr. Shortz has served as a director since 2010. He was previously a partner at Morgan, Lewis & Bockius LLP and served as an executive at Tosco Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2010-09-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Richard A. Shortz"
+    },
+    {
+      "name": "William Zisch",
+      "age": 65,
+      "age_year": 2023,
+      "background": "Mr. Zisch has served as a director since 2020. He has over 40 years of experience in the mining industry, including roles at Newmont and Argonaut Gold.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "William M. Zisch"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1502300/000155837023016834/ctgo-20231114xdef14a.htm",
+      "source_description": "DEF 14A Proxy Statement",
+      "as_of_date": "2023-11-14"
+    },
+    {
+      "source_url": "https://www.contangoore.com/about-us/management",
+      "source_description": "Company Website - Management Page",
+      "as_of_date": "2024-05-22"
+    },
+    {
+      "source_url": "https://www.contangoore.com/about-us/board-of-directors",
+      "source_description": "Company Website - Board of Directors Page",
+      "as_of_date": "2024-05-22"
+    }
+  ]
+}

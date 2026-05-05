@@ -1,0 +1,141 @@
+{
+  "executives": [
+    {
+      "name": "Tony Sage",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Sage has over 35 years of experience in the fields of corporate advisory services, funds management, and capital markets. He is the Executive Chairman of European Lithium Ltd and has served as a director of several ASX-listed companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer and Executive Chairman",
+          "start_date": "2024-02-27",
+          "end_date": null
+        }
+      ],
+      "name_original": "Tony Sage"
+    },
+    {
+      "name": "Paul Lloyd",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. Lloyd is a Chartered Accountant with over 30 years of experience in corporate finance and management of publicly listed companies. He has served as a director and CFO for several mining and exploration companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2024-02-27",
+          "end_date": null
+        }
+      ],
+      "name_original": "Paul Lloyd"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Tony Sage",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Executive Chairman of European Lithium Ltd with extensive experience in capital markets and corporate advisory.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Executive Chairman",
+          "start_date": "2024-02-27",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Tony Sage"
+    },
+    {
+      "name": "Dietrich Wanke",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Wanke has over 30 years of experience in the mining industry. He has held senior management roles at various mining operations globally and is the CEO of European Lithium Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2024-02-27",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Dietrich Wanke"
+    },
+    {
+      "name": "Malcolm Day",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Mr. Day has over 25 years of experience in the management of publicly listed companies. He is currently the Managing Director of Delecta Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2024-02-27",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ],
+      "name_original": "Malcolm Day"
+    },
+    {
+      "name": "Mykhailo Zhernov",
+      "age": 42,
+      "age_year": 2024,
+      "background": "Mr. Zhernov is the Managing Partner of Millstone & Co, an investment and financial group. He has extensive experience in investment banking and private equity.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2024-02-27",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Mykhailo Zhernov"
+    },
+    {
+      "name": "Bakhrom Saydivaliev",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Saydivaliev has over 20 years of experience in finance and investment. He has held various senior positions in financial institutions and investment firms.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2024-02-27",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee",
+        "Nominating and Corporate Governance Committee"
+      ],
+      "name_original": "Bakhrom Saydivaliev"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1954057/000121390024017849/f424b30224_criticalmetals.htm",
+      "source_description": "SEC Form 424B3 Prospectus",
+      "as_of_date": "2024-02-28"
+    },
+    {
+      "source_url": "https://criticalmetalscorp.com/about-us/board-of-directors/",
+      "source_description": "Company Website - Board of Directors",
+      "as_of_date": "2024-05-22"
+    },
+    {
+      "source_url": "https://criticalmetalscorp.com/about-us/management/",
+      "source_description": "Company Website - Management Team",
+      "as_of_date": "2024-05-22"
+    }
+  ]
+}

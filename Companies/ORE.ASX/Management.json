@@ -1,0 +1,102 @@
+{
+  "executives": [
+    {
+      "name": "Matthew Salthouse",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Salthouse is an experienced mining executive with over 25 years of experience in the resources sector. He has held senior roles in corporate finance, commercial, and business development with several ASX-listed companies, including roles at Gindalbie Metals and Karara Mining.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Managing Director",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Matthew Salthouse"
+    },
+    {
+      "name": "Henko Vos",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Vos is a member of the Governance Institute of Australia and the South African Institute of Chartered Accountants. He has more than 20 years of experience in public practice and management within the mining and resources sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Company Secretary",
+          "start_date": "2023-11-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Henko Vos"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Matthew Salthouse",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Salthouse is an experienced mining executive with over 25 years of experience in the resources sector. He has held senior roles in corporate finance, commercial, and business development with several ASX-listed companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Managing Director",
+          "start_date": "2024-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Matthew Salthouse"
+    },
+    {
+      "name": "Barnaby Egerton-Warburton",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Egerton-Warburton has over 25 years of experience in investment banking, international investment, and market experience. He has held positions at various investment banks including JP Morgan and BNP Paribas.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Chairman",
+          "start_date": "2023-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee",
+        "Remuneration and Nomination Committee"
+      ],
+      "name_original": "Barnaby Egerton-Warburton"
+    },
+    {
+      "name": "Dudley Kingsnorth",
+      "age": null,
+      "age_year": null,
+      "background": "Professor Kingsnorth is a metallurgist with over 50 years of experience in the international mining industry. He is a globally recognized expert in the rare earths industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Non-Executive Director",
+          "start_date": "2023-11-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit and Risk Committee",
+        "Remuneration and Nomination Committee"
+      ],
+      "name_original": "Dudley Kingsnorth"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://oreterra.com.au/about-us/#board-management",
+      "source_description": "Official Company Website - Board and Management Section",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.asx.com.au/asx/statistics/announcements.do?by=asxCode&asxCode=ORE&timeframe=D&period=M6",
+      "source_description": "ASX Announcements for Oreterra Limited (ORE)",
+      "as_of_date": "2024-05-20"
+    }
+  ]
+}

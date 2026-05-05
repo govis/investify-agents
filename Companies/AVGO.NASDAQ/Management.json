@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Hock E. Tan",
+      "name": "Hock Tan",
       "age": 72,
       "age_year": 2024,
       "background": "Mr. Tan has served as President, Chief Executive Officer and a director of Broadcom since March 2006. From September 2005 to January 2008, he served as Chairman of the Board of Integrated Device Technology, Inc. Prior to that, he was President and CEO of Integrated Circuit Systems, Inc. from June 1999 to September 2005. He has also held senior executive positions at Commodore International, Ltd., PepsiCo, Inc. and General Motors Corporation.",
@@ -12,10 +12,11 @@
           "start_date": "2006-03-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Hock E. Tan"
     },
     {
-      "name": "Kirsten M. Spears",
+      "name": "Kirsten Spears",
       "age": 58,
       "age_year": 2024,
       "background": "Ms. Spears has served as Chief Financial Officer and Chief Accounting Officer since December 2020. She previously served as Vice President and Corporate Controller from May 2014 to December 2020. Prior to joining Broadcom, she was Vice President and Corporate Controller at LSI Corporation.",
@@ -26,10 +27,11 @@
           "start_date": "2020-12-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Kirsten M. Spears"
     },
     {
-      "name": "Charlie B. Kawwas, Ph.D.",
+      "name": "Charlie Kawwas, Ph.",
       "age": 53,
       "age_year": 2024,
       "background": "Dr. Kawwas has served as President, Semiconductor Solutions Group since July 2022. He previously served as Chief Operating Officer from December 2020 to July 2022 and as Senior Vice President, Sales from May 2014 to December 2020.",
@@ -40,10 +42,11 @@
           "start_date": "2022-07-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Charlie B. Kawwas, Ph.D."
     },
     {
-      "name": "Mark D. Brazeal",
+      "name": "Mark Brazeal",
       "age": 54,
       "age_year": 2024,
       "background": "Mr. Brazeal has served as Chief Legal and Corporate Affairs Officer since June 2021. He joined Broadcom as Chief Legal Officer in December 2016. Prior to that, he was Chief Legal Officer and Senior Vice President, IP Licensing at SanDisk Corporation.",
@@ -54,12 +57,13 @@
           "start_date": "2021-06-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Mark D. Brazeal"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Henry Samueli, Ph.D.",
+      "name": "Henry Samueli, Ph.",
       "age": 69,
       "age_year": 2024,
       "background": "Dr. Samueli has served as Chairman of the Board since 2018. He co-founded Broadcom Corporation in 1991 and served as its Chief Technical Officer and a director until its acquisition by Broadcom Inc. in 2016. He is a Fellow of the IEEE and a member of the National Academy of Engineering.",
@@ -71,10 +75,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Henry Samueli, Ph.D."
     },
     {
-      "name": "Diane M. Bryant",
+      "name": "Diane Bryant",
       "age": 62,
       "age_year": 2024,
       "background": "Ms. Bryant has served as a director since January 2019. She was previously the Chairman and CEO of NovaSignal Corp. and served as COO of Google Cloud. She spent 32 years at Intel Corporation, most recently as Group President of the Data Center Group.",
@@ -88,10 +93,11 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Diane M. Bryant"
     },
     {
-      "name": "Gayla J. Delly",
+      "name": "Gayla Delly",
       "age": 64,
       "age_year": 2024,
       "background": "Ms. Delly has served as a director since 2017. She was previously the President and CEO of Benchmark Electronics, Inc. She is a CPA and serves on the boards of Flowserve Corporation and National Instruments.",
@@ -105,7 +111,8 @@
       ],
       "committees": [
         "Audit Committee (Chair)"
-      ]
+      ],
+      "name_original": "Gayla J. Delly"
     },
     {
       "name": "Check Kian Low",
@@ -123,10 +130,11 @@
       "committees": [
         "Compensation Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Check Kian Low"
     },
     {
-      "name": "Eddy W. Hartenstein",
+      "name": "Eddy Hartenstein",
       "age": 73,
       "age_year": 2024,
       "background": "Mr. Hartenstein has served as a director since 2016. He was previously the CEO of the Los Angeles Times and Chairman and CEO of DIRECTV, Inc. He serves on the boards of Sirius XM Holdings and TiVo Corporation.",
@@ -141,10 +149,11 @@
       "committees": [
         "Compensation Committee (Chair)",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Eddy W. Hartenstein"
     },
     {
-      "name": "Harry L. You",
+      "name": "Harry You",
       "age": 64,
       "age_year": 2024,
       "background": "Mr. You has served as a director since 2019. He is the co-founder and Vice Chairman of dMY Technology Group. He previously served as CFO of EMC Corporation and EVP at Oracle Corporation.",
@@ -158,7 +167,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Harry L. You"
     }
   ],
   "sources": [

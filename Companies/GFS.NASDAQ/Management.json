@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Dr. Thomas Caulfield",
+      "name": "Thomas Caulfield",
       "age": 64,
       "age_year": 2024,
       "background": "Dr. Caulfield is the President and Chief Executive Officer of GlobalFoundries. He joined the company in 2014 and was appointed CEO in 2018. Prior to GF, he served as President and COO of Soraa and held executive positions at Ausra and Novellus Systems. He spent 17 years at IBM in various leadership roles.",
@@ -17,7 +17,8 @@
           "start_date": "2014-05-01",
           "end_date": "2018-03-01"
         }
-      ]
+      ],
+      "name_original": "Dr. Thomas Caulfield"
     },
     {
       "name": "John Hollister",
@@ -31,7 +32,8 @@
           "start_date": "2024-02-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "John Hollister"
     },
     {
       "name": "Niels Anderskouv",
@@ -45,7 +47,8 @@
           "start_date": "2023-09-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Niels Anderskouv"
     },
     {
       "name": "Pradip Singh",
@@ -59,7 +62,8 @@
           "start_date": "2022-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Pradip Singh"
     }
   ],
   "board_of_directors": [
@@ -78,10 +82,11 @@
       ],
       "committees": [
         "Strategy Committee"
-      ]
+      ],
+      "name_original": "Ahmed Yahia Al Idrissi"
     },
     {
-      "name": "Dr. Thomas Caulfield",
+      "name": "Thomas Caulfield",
       "age": 64,
       "age_year": 2024,
       "background": "President and CEO of GlobalFoundries. Member of the board since 2018.",
@@ -93,7 +98,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Dr. Thomas Caulfield"
     },
     {
       "name": "Bobby Yerramilli-Rao",
@@ -110,7 +116,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Bobby Yerramilli-Rao"
     },
     {
       "name": "Glenda Dorchak",
@@ -128,7 +135,8 @@
       "committees": [
         "Compensation Committee",
         "Nominating and Corporate Governance Committee"
-      ]
+      ],
+      "name_original": "Glenda Dorchak"
     },
     {
       "name": "Jack Lazar",
@@ -145,7 +153,8 @@
       ],
       "committees": [
         "Audit Committee (Chair)"
-      ]
+      ],
+      "name_original": "Jack Lazar"
     }
   ],
   "sources": [

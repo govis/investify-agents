@@ -1,0 +1,36 @@
+{
+  "name": "Brian Edgar",
+  "first_name": "Brian",
+  "last_name": "Edgar",
+  "age": 73,
+  "age_year": 2024,
+  "background": "Mr. Edgar is a lawyer and has served as a director of numerous public companies. He was the President and CEO of Dome Ventures Corp. until its merger with Vicuna Resources Inc.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DNN",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2005-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DNN",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "start_date": "2005-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ]
+}

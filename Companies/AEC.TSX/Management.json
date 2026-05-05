@@ -1,0 +1,133 @@
+{
+  "executives": [
+    {
+      "name": "Corey Dias",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Dias has over 20 years of experience in the capital markets and has held senior positions at several investment banks. He has also served as a director and officer of several public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Corey Dias"
+    },
+    {
+      "name": "Peter Smerchanski",
+      "age": 78,
+      "age_year": 2024,
+      "background": "Mr. Smerchanski is a professional engineer with over 40 years of experience in the mining industry. He has served as a director and officer of several public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Peter G.S. Smerchanski"
+    },
+    {
+      "name": "Teresa Cherry",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Ms. Cherry has over 20 years of experience in the mining industry and has held senior positions at several public companies. She is a Chartered Professional Accountant.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Teresa Cherry"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Corey Dias",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Dias has over 20 years of experience in the capital markets and has held senior positions at several investment banks. He has also served as a director and officer of several public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [],
+      "name_original": "Corey Dias"
+    },
+    {
+      "name": "Peter Smerchanski",
+      "age": 78,
+      "age_year": 2024,
+      "background": "Mr. Smerchanski is a professional engineer with over 40 years of experience in the mining industry. He has served as a director and officer of several public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Peter G.S. Smerchanski"
+    },
+    {
+      "name": "Douglas Smerchanski",
+      "age": 50,
+      "age_year": 2024,
+      "background": "Mr. Smerchanski has over 20 years of experience in the mining industry and has held senior positions at several public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Douglas J.S. Smerchanski"
+    },
+    {
+      "name": "Douglas Smerchanski",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Mr. Smerchanski has over 20 years of experience in the mining industry and has held senior positions at several public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Director",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee"
+      ],
+      "name_original": "Douglas J.S. Smerchanski"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://anfieldenergy.com/about-us/management-and-directors/",
+      "source_description": "Anfield Energy Inc. Website - Management and Directors",
+      "as_of_date": "2024-05-22"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca/",
+      "source_description": "SEDAR+ Filing - Management Information Circular",
+      "as_of_date": "2023-06-15"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Ewan Downie",
+  "first_name": "Ewan",
+  "last_name": "Downie",
+  "age": 56,
+  "age_year": 2024,
+  "background": "Experienced mining executive and founder of several successful exploration companies, including Wolfden Resources and Premier Gold Mines.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Clean Air Metals Inc.",
+      "ticker": "AIR",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "start_date": "2020-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Franco-Nevada Corporation",
+      "ticker": "FNV",
+      "exchange": "NYSE",
+      "title_or_role": "Senior Vice President, Mining",
+      "start_date": "2023-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance and Nominating Committee"
+  ]
+}

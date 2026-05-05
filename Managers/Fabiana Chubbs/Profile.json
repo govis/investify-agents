@@ -1,0 +1,37 @@
+{
+  "name": "Fabiana Chubbs",
+  "first_name": "Fabiana",
+  "last_name": "Chubbs",
+  "age": 59,
+  "age_year": 2024,
+  "background": "Ms. Chubbs was the CFO of Eldorado Gold Corporation from 2011 to 2018. She is a Chartered Professional Accountant.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Lithium Americas Corp.",
+      "ticker": "LAC",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "start_date": "2023-10-04",
+      "end_date": null
+    },
+    {
+      "name": "Royal Gold, Inc.",
+      "ticker": "RGLD",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "start_date": "2020-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Audit Committee (Chair)"
+  ]
+}

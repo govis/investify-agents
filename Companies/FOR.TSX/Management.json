@@ -1,0 +1,120 @@
+{
+  "executives": [
+    {
+      "name": "Dale Verran",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Mr. Verran is a Professional Geoscientist with over 20 years of experience in the mining industry. He was previously Vice President, Exploration for Denison Mines Corp. and has held senior roles with various exploration and mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2019-10-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Dale Verran"
+    },
+    {
+      "name": "Gareth Thomas",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Thomas has over 18 years of experience in the mining industry, specializing in project development and operations. He was previously with Wesdome Gold Mines Ltd. and has held various technical and management roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President",
+          "start_date": "2023-05-01",
+          "end_date": null
+        }
+      ],
+      "name_original": "Gareth Thomas"
+    },
+    {
+      "name": "Sarah Williams",
+      "age": 42,
+      "age_year": 2024,
+      "background": "Ms. Williams is a Chartered Professional Accountant with over 15 years of financial management experience in the resource sector. She has served as CFO for several publicly traded exploration companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2021-03-15",
+          "end_date": null
+        }
+      ],
+      "name_original": "Sarah Williams"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Wade Dawe",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. Dawe is an experienced entrepreneur and financier based in Halifax, Nova Scotia. He has founded and served as an executive and director of several successful companies in the mining and technology sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Chairman",
+          "start_date": "2016-02-04",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee",
+        "Compensation Committee"
+      ],
+      "name_original": "Wade Dawe"
+    },
+    {
+      "name": "Derrick Gill",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Gill has over 35 years of experience in the mining and construction industries. He has held senior executive positions with major international mining companies and has extensive experience in project management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2016-02-04",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Audit Committee (Chair)",
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Derrick Gill"
+    },
+    {
+      "name": "Melinda Montgomery",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Ms. Montgomery is a legal professional with over 30 years of experience in corporate law and securities regulation. She has served as a director for several TSX-listed companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "role": "Independent Director",
+          "start_date": "2020-06-25",
+          "end_date": null
+        }
+      ],
+      "committees": [
+        "Compensation Committee (Chair)",
+        "Corporate Governance and Nominating Committee"
+      ],
+      "name_original": "Melinda Montgomery"
+    }
+  ],
+  "sources": [
+    {
+      "source_url": "https://fortunebaycorp.com/corporate/management-directors/",
+      "source_description": "Company Website - Management and Directors Page",
+      "as_of_date": "2024-05-20"
+    },
+    {
+      "source_url": "https://www.sedarplus.ca/",
+      "source_description": "Management Information Circular dated April 26, 2024",
+      "as_of_date": "2024-04-26"
+    }
+  ]
+}

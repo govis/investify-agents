@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Blake D. Moret",
+      "name": "Blake Moret",
       "age": 61,
       "age_year": 2024,
       "background": "Blake D. Moret is Chairman and Chief Executive Officer of Rockwell Automation. He has been with the company for over 35 years, serving in various leadership roles across the business.",
@@ -12,7 +12,8 @@
           "start_date": "2016-07-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Blake D. Moret"
     },
     {
       "name": "Christian Rothe",
@@ -26,10 +27,11 @@
           "start_date": "2023-11-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Christian Rothe"
     },
     {
-      "name": "Rebecca W. House",
+      "name": "Rebecca House",
       "age": 52,
       "age_year": 2024,
       "background": "Rebecca W. House is Senior Vice President, Chief People and Legal Officer, and Secretary. She joined the company in 2017.",
@@ -40,7 +42,8 @@
           "start_date": "2017-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Rebecca W. House"
     },
     {
       "name": "Cyril Perducat",
@@ -54,10 +57,11 @@
           "start_date": "2021-07-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Cyril Perducat"
     },
     {
-      "name": "Tessa M. Myers",
+      "name": "Tessa Myers",
       "age": 48,
       "age_year": 2024,
       "background": "Tessa M. Myers is Senior Vice President, Intelligent Devices. She has held various leadership roles in sales and product management during her tenure at Rockwell.",
@@ -68,12 +72,13 @@
           "start_date": "2022-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Tessa M. Myers"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Blake D. Moret",
+      "name": "Blake Moret",
       "age": 61,
       "age_year": 2024,
       "background": "Chairman and CEO of Rockwell Automation.",
@@ -85,10 +90,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Blake D. Moret"
     },
     {
-      "name": "William P. Gipson",
+      "name": "William Gipson",
       "age": 66,
       "age_year": 2024,
       "background": "Retired President, Enterprise Packaging Transformation, The Procter & Gamble Company.",
@@ -103,7 +109,8 @@
       "committees": [
         "Audit Committee",
         "Technology Committee"
-      ]
+      ],
+      "name_original": "William P. Gipson"
     },
     {
       "name": "Pamela Murphy",
@@ -121,10 +128,11 @@
       "committees": [
         "Audit Committee",
         "Technology Committee"
-      ]
+      ],
+      "name_original": "Pamela Murphy"
     },
     {
-      "name": "Alice L. Peterson",
+      "name": "Alice Peterson",
       "age": 64,
       "age_year": 2024,
       "background": "President, Syrus Global.",
@@ -139,7 +147,8 @@
       "committees": [
         "Audit Committee",
         "Governance and Corporate Responsibility Committee"
-      ]
+      ],
+      "name_original": "Alice L. Peterson"
     },
     {
       "name": "Robert Talbert",
@@ -157,7 +166,8 @@
       "committees": [
         "Compensation and Talent Management Committee",
         "Technology Committee"
-      ]
+      ],
+      "name_original": "Robert Talbert"
     }
   ],
   "sources": [

@@ -1,10 +1,10 @@
 {
   "executives": [
     {
-      "name": "Laurans A. Mendelson",
+      "name": "Laurans Mendelson",
       "age": 85,
       "age_year": 2024,
-      "background": "Laurans A. Mendelson has served as HEICO’s Chairman of the Board and Chief Executive Officer since 1990 and as its President from 1991 to 2024. He is also the father of Eric A. Mendelson and Victor H. Mendelson.",
+      "background": "Laurans A. Mendelson has served as HEICO\u2019s Chairman of the Board and Chief Executive Officer since 1990 and as its President from 1991 to 2024. He is also the father of Eric A. Mendelson and Victor H. Mendelson.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -17,13 +17,14 @@
           "start_date": "1991",
           "end_date": "2024"
         }
-      ]
+      ],
+      "name_original": "Laurans A. Mendelson"
     },
     {
-      "name": "Eric A. Mendelson",
+      "name": "Eric Mendelson",
       "age": 58,
       "age_year": 2024,
-      "background": "Eric A. Mendelson has served as HEICO’s Co-President since 2024 and previously as Co-President from 2009 to 2024. He has been the President of HEICO’s Flight Support Group since 1993.",
+      "background": "Eric A. Mendelson has served as HEICO\u2019s Co-President since 2024 and previously as Co-President from 2009 to 2024. He has been the President of HEICO\u2019s Flight Support Group since 1993.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -36,13 +37,14 @@
           "start_date": "1993",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Eric A. Mendelson"
     },
     {
-      "name": "Victor H. Mendelson",
+      "name": "Victor Mendelson",
       "age": 56,
       "age_year": 2024,
-      "background": "Victor H. Mendelson has served as HEICO’s Co-President since 2024 and previously as Co-President from 2009 to 2024. He has been the President of HEICO’s Electronic Technologies Group since 1996.",
+      "background": "Victor H. Mendelson has served as HEICO\u2019s Co-President since 2024 and previously as Co-President from 2009 to 2024. He has been the President of HEICO\u2019s Electronic Technologies Group since 1996.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -55,13 +57,14 @@
           "start_date": "1996",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Victor H. Mendelson"
     },
     {
-      "name": "Carlos L. Macau, Jr.",
+      "name": "Carlos Macau, Jr.",
       "age": 55,
       "age_year": 2024,
-      "background": "Carlos L. Macau, Jr. has served as HEICO’s Executive Vice President and Chief Financial Officer since 2012. Prior to joining HEICO, he was a partner at Deloitte & Touche LLP.",
+      "background": "Carlos L. Macau, Jr. has served as HEICO\u2019s Executive Vice President and Chief Financial Officer since 2012. Prior to joining HEICO, he was a partner at Deloitte & Touche LLP.",
       "verified_current": true,
       "tenure_dates": [
         {
@@ -69,12 +72,13 @@
           "start_date": "2012",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Carlos L. Macau, Jr."
     }
   ],
   "board_of_directors": [
     {
-      "name": "Laurans A. Mendelson",
+      "name": "Laurans Mendelson",
       "age": 85,
       "age_year": 2024,
       "background": "Chairman of the Board and Chief Executive Officer of HEICO since 1990.",
@@ -86,10 +90,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Laurans A. Mendelson"
     },
     {
-      "name": "Eric A. Mendelson",
+      "name": "Eric Mendelson",
       "age": 58,
       "age_year": 2024,
       "background": "Co-President of HEICO and President of the Flight Support Group.",
@@ -101,10 +106,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Eric A. Mendelson"
     },
     {
-      "name": "Victor H. Mendelson",
+      "name": "Victor Mendelson",
       "age": 56,
       "age_year": 2024,
       "background": "Co-President of HEICO and President of the Electronic Technologies Group.",
@@ -116,7 +122,8 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Victor H. Mendelson"
     },
     {
       "name": "Alan Schriesheim",
@@ -135,10 +142,11 @@
         "Audit Committee",
         "Compensation Committee",
         "Finance Committee"
-      ]
+      ],
+      "name_original": "Alan Schriesheim"
     },
     {
-      "name": "Frank J. Schwitter",
+      "name": "Frank Schwitter",
       "age": 88,
       "age_year": 2024,
       "background": "Retired Partner of Arthur Andersen LLP. He has served on the HEICO board since 2001.",
@@ -154,10 +162,11 @@
         "Audit Committee",
         "Compensation Committee",
         "Finance Committee"
-      ]
+      ],
+      "name_original": "Frank J. Schwitter"
     },
     {
-      "name": "Mark H. Hildebrandt",
+      "name": "Mark Hildebrandt",
       "age": 68,
       "age_year": 2024,
       "background": "Managing Member of Waldman Trigoboff Hildebrandt & Calnan, P.A. He has served on the HEICO board since 2008.",
@@ -173,7 +182,8 @@
         "Audit Committee",
         "Compensation Committee",
         "Finance Committee"
-      ]
+      ],
+      "name_original": "Mark H. Hildebrandt"
     },
     {
       "name": "Adolfo Henriques",
@@ -192,7 +202,8 @@
         "Audit Committee",
         "Compensation Committee",
         "Finance Committee"
-      ]
+      ],
+      "name_original": "Adolfo Henriques"
     }
   ],
   "sources": [

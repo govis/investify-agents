@@ -1,7 +1,7 @@
 {
   "executives": [
     {
-      "name": "Gregg A. Lowe",
+      "name": "Gregg Lowe",
       "age": 62,
       "age_year": 2024,
       "background": "Gregg A. Lowe joined Wolfspeed in September 2017 as President and Chief Executive Officer and a member of the Board of Directors. Prior to joining Wolfspeed, Mr. Lowe served as President and Chief Executive Officer of Freescale Semiconductor, Ltd. from 2012 until its merger with NXP Semiconductors N.V. in 2015. He previously held various executive positions at Texas Instruments Incorporated.",
@@ -12,10 +12,11 @@
           "start_date": "2017-09-27",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Gregg A. Lowe"
     },
     {
-      "name": "Neill P. Reynolds",
+      "name": "Neill Reynolds",
       "age": 54,
       "age_year": 2024,
       "background": "Neill P. Reynolds joined Wolfspeed in August 2018 as Executive Vice President and Chief Financial Officer. Prior to joining Wolfspeed, Mr. Reynolds served as Senior Vice President of Finance, Strategy and Corporate Development at NXP Semiconductors N.V. and held various finance leadership roles at General Electric Company.",
@@ -26,7 +27,8 @@
           "start_date": "2018-08-27",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Neill P. Reynolds"
     },
     {
       "name": "Elif Balkas",
@@ -40,10 +42,11 @@
           "start_date": "2022-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Elif Balkas"
     },
     {
-      "name": "Bradley D. Kohn",
+      "name": "Bradley Kohn",
       "age": 55,
       "age_year": 2024,
       "background": "Bradley D. Kohn joined Wolfspeed in 2013 and serves as General Counsel and Secretary. Prior to joining Wolfspeed, he was General Counsel at Solarflare Communications and held legal roles at Broadcom Corporation.",
@@ -54,12 +57,13 @@
           "start_date": "2013-01-01",
           "end_date": null
         }
-      ]
+      ],
+      "name_original": "Bradley D. Kohn"
     }
   ],
   "board_of_directors": [
     {
-      "name": "Thomas H. Werner",
+      "name": "Thomas Werner",
       "age": 64,
       "age_year": 2024,
       "background": "Thomas H. Werner has served as Chairman of the Board since 2023. He was previously the CEO of SunPower Corporation and held leadership roles at Silicon Light Machines and 3Com Corporation.",
@@ -73,10 +77,11 @@
       ],
       "committees": [
         "Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Thomas H. Werner"
     },
     {
-      "name": "Gregg A. Lowe",
+      "name": "Gregg Lowe",
       "age": 62,
       "age_year": 2024,
       "background": "Gregg A. Lowe joined Wolfspeed in September 2017 as President and Chief Executive Officer and a member of the Board of Directors.",
@@ -88,10 +93,11 @@
           "end_date": null
         }
       ],
-      "committees": []
+      "committees": [],
+      "name_original": "Gregg A. Lowe"
     },
     {
-      "name": "Glenda M. Dorchak",
+      "name": "Glenda Dorchak",
       "age": 69,
       "age_year": 2024,
       "background": "Glenda M. Dorchak has served as a director since 2019. She has held executive positions at Spansion, Inc., QLogic Corporation, and Intel Corporation.",
@@ -106,10 +112,11 @@
       "committees": [
         "Compensation Committee",
         "Governance and Nominating Committee"
-      ]
+      ],
+      "name_original": "Glenda M. Dorchak"
     },
     {
-      "name": "John B. Replogle",
+      "name": "John Replogle",
       "age": 58,
       "age_year": 2024,
       "background": "John B. Replogle has served as a director since 2014. He is a partner at Raleigh Group and previously served as CEO of Seventh Generation, Inc. and Burt's Bees.",
@@ -124,10 +131,11 @@
       "committees": [
         "Audit Committee",
         "Compensation Committee"
-      ]
+      ],
+      "name_original": "John B. Replogle"
     },
     {
-      "name": "Stacy J. Smith",
+      "name": "Stacy Smith",
       "age": 61,
       "age_year": 2024,
       "background": "Stacy J. Smith joined the board in 2023. He previously served as Executive Chairman of Autodesk, Inc. and was the CFO of Intel Corporation.",
@@ -141,7 +149,8 @@
       ],
       "committees": [
         "Audit Committee"
-      ]
+      ],
+      "name_original": "Stacy J. Smith"
     }
   ],
   "sources": [

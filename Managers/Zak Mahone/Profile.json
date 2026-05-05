@@ -1,0 +1,27 @@
+{
+  "name": "Zak Mahone",
+  "first_name": "Zak",
+  "last_name": "Mahone",
+  "age": 38,
+  "age_year": 2024,
+  "background": "Mr. Mahone is a Managing Director at Geologic Resource Partners LLC.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Lithium Americas Corp.",
+      "ticker": "LAC",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "start_date": "2023-10-04",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance and Nomination Committee"
+  ]
+}

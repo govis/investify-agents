@@ -1,0 +1,37 @@
+{
+  "name": "John Thornton",
+  "first_name": "John",
+  "last_name": "Thornton",
+  "age": 70,
+  "age_year": 2024,
+  "background": "Executive Chairman, Barrick Gold Corporation; Former President, Goldman Sachs.",
+  "picture_url": null,
+  "commpanies": [
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "title_or_role": "Lead Independent Director",
+      "start_date": "1996-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "GOLD",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Chairman",
+      "start_date": "2012-02-15",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Finance Committee",
+    "Nominating and Governance Committee"
+  ]
+}
