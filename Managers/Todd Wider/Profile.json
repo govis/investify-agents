@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Dr. Wider has served as a director since September 2021. He is a surgeon and an Emmy and Academy Award-winning documentary film producer.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "ASP Isotopes Inc.",
-      "ticker": "ASPI",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-09-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Nuclear",
     "Reshoring"
@@ -25,5 +15,15 @@
     "Audit Committee",
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
+    {
+      "name": "ASP Isotopes Inc.",
+      "ticker": "ASPI",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "start_date": "2021-09-01",
+      "end_date": null
+    }
   ]
 }

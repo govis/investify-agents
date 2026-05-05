@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Naiberg is a corporate lawyer with extensive experience in mergers and acquisitions and corporate finance within the mining sector. He is a partner at a leading Canadian law firm.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee (Chair)"
+  ],
+  "companies": [
     {
       "name": "Discovery Silver Corp.",
       "ticker": "DSV",
@@ -15,13 +23,5 @@
       "start_date": "2021-06-24",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee (Chair)"
   ]
 }

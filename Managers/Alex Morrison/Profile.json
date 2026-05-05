@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Mr. Morrison is a CPA with over 30 years of experience in the mining industry.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Energy Fuels Inc.",
-      "ticker": "UUUU",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2023-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Nuclear",
     "Reshoring"
@@ -24,5 +14,15 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
+  ],
+  "companies": [
+    {
+      "name": "Energy Fuels Inc.",
+      "ticker": "UUUU",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2023-01-01",
+      "end_date": null
+    }
   ]
 }

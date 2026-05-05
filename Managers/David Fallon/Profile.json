@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "David Fallon is the Chief Financial Officer of Vertiv, a position he has held since July 2017. Prior to joining Vertiv, he served as CFO at Noble International and held financial leadership roles at Textron Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Vertiv Holdings Co",
       "ticker": "VRT",
@@ -15,11 +21,5 @@
       "start_date": "2017-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

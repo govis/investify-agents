@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "CEO of Aris Mining. Founder and former CEO of Endeavour Mining and Leagold Mining.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Nominating Committee (Chair)"
+  ],
+  "companies": [
     {
       "name": "Equinox Gold Corp.",
       "ticker": "EQX",
@@ -15,13 +23,5 @@
       "start_date": "2020-03-10",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Governance and Nominating Committee (Chair)"
   ]
 }

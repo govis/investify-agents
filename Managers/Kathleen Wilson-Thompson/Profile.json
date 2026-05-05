@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Kathleen Wilson-Thompson has been a member of the Board since December 2018. She was formerly the Executive Vice President and Global Chief Human Resources Officer of Walgreens Boots Alliance, Inc.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Tesla, Inc.",
-      "ticker": "TSLA",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2018-12-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -24,5 +14,15 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
+  ],
+  "companies": [
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "start_date": "2018-12-01",
+      "end_date": null
+    }
   ]
 }

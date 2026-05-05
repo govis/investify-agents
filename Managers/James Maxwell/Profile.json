@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Maxwell is a professional geoscientist with over 20 years of experience in mineral exploration. He has held senior roles at Sabina Gold & Silver and Claude Resources.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "First Mining Gold Corp.",
       "ticker": "FF",
@@ -15,11 +21,5 @@
       "start_date": "2019-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

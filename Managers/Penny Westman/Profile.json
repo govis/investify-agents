@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Westman is a lawyer with over 35 years of experience in the mining industry, including senior roles at Barrick Gold Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Environmental and Sustainability Committee",
+    "Governance and Nomination Committee"
+  ],
+  "companies": [
     {
       "name": "Osisko Gold Royalties Ltd",
       "ticker": "OR",
@@ -15,13 +23,5 @@
       "start_date": "2023-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Environmental and Sustainability Committee",
-    "Governance and Nomination Committee"
   ]
 }

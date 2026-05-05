@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Kriens has served as Chairman of the Board since 1996. He served as our CEO from 1996 to 2008.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Juniper Networks, Inc.",
       "ticker": "JNPR",
@@ -15,10 +20,5 @@
       "start_date": "1996-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

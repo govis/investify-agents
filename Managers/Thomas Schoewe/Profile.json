@@ -6,7 +6,18 @@
   "age_year": 2024,
   "background": "Former Executive Vice President and CFO of Walmart Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense",
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation and Management Development Committee",
+    "Finance Committee"
+  ],
+  "companies": [
     {
       "name": "General Motors Company",
       "ticker": "GM",
@@ -23,16 +34,5 @@
       "start_date": "2011-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense",
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation and Management Development Committee",
-    "Finance Committee"
   ]
 }

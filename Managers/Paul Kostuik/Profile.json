@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Kostuik is a mining engineer with over 35 years of experience in the mining industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Technical Committee"
+  ],
+  "companies": [
     {
       "name": "Skeena Resources Limited",
       "ticker": "SKE",
@@ -15,13 +23,5 @@
       "start_date": "2020-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Technical Committee"
   ]
 }

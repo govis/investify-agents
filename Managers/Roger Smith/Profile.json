@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Smith has served as Chief Financial Officer since 2007 and as Chief Administrative Officer since 2011. He has over 35 years of experience in finance and accounting, primarily in the mining industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Ur-Energy Inc.",
       "ticker": "URG",
@@ -15,10 +20,5 @@
       "start_date": "2007-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

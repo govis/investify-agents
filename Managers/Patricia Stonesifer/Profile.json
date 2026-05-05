@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former CEO of Martha's Table and former CEO of the Bill & Melinda Gates Foundation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Amazon.com, Inc.",
       "ticker": "AMZN",
@@ -15,13 +23,5 @@
       "start_date": "1997-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Nominating and Corporate Governance Committee"
   ]
 }

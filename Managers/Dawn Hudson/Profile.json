@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Former Chief Marketing Officer of the National Football League and former President and CEO of Pepsi-Cola North America.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "NVIDIA Corporation",
-      "ticker": "NVDA",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2013-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "AI",
     "Defense",
@@ -24,5 +14,15 @@
   "socials": [],
   "committees": [
     "Compensation Committee"
+  ],
+  "companies": [
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "start_date": "2013-01-01",
+      "end_date": null
+    }
   ]
 }

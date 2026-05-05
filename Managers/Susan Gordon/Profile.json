@@ -6,7 +6,16 @@
   "age_year": 2024,
   "background": "Ms. Gordon has served as a member of our Board since September 2021. Ms. Gordon served as the Principal Deputy Director of National Intelligence from 2017 to 2019 and as Deputy Director of the National Geospatial-Intelligence Agency from 2015 to 2017.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee",
+    "Security and Risk Assessment Committee"
+  ],
+  "companies": [
     {
       "name": "BlackSky Technology Inc.",
       "ticker": "BKSY",
@@ -23,14 +32,5 @@
       "start_date": "2020-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nominating and Corporate Governance Committee",
-    "Security and Risk Assessment Committee"
   ]
 }

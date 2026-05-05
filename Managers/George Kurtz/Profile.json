@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "George Kurtz is our co-founder and has served as our President and Chief Executive Officer and as a member of our board of directors since November 2011. From October 2009 to September 2011, Mr. Kurtz served as Worldwide Chief Technology Officer of McAfee, Inc., a computer security software company. Prior to that, Mr. Kurtz served in various other positions at McAfee, including Senior Vice President and General Manager, Risk Management from October 2005 to October 2009. Mr. Kurtz co-founded Foundstone, Inc., a worldwide security products and services company, and served as its Chief Executive Officer from October 1999 until its acquisition by McAfee in October 2004.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "CrowdStrike Holdings, Inc.",
       "ticker": "CRWD",
@@ -15,11 +21,5 @@
       "start_date": "2011-11-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

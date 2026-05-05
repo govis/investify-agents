@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Chairman of Thomson Reuters and Chairman of Woodbridge. He is a director of several other companies and active in the arts.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Thomson Reuters Corporation",
       "ticker": "TRI",
@@ -15,10 +20,5 @@
       "start_date": "2008-04-17",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

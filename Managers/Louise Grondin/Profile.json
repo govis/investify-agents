@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Grondin has over 30 years of experience in the mining industry, specializing in environment and sustainability, notably at Agnico Eagle.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Sustainability Committee (Chair)",
+    "Technical Committee"
+  ],
+  "companies": [
     {
       "name": "Wesdome Gold Mines Ltd.",
       "ticker": "WDO",
@@ -15,13 +23,5 @@
       "start_date": "2022-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Sustainability Committee (Chair)",
-    "Technical Committee"
   ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Miller has over 25 years of experience in the mining and financial sectors. She is currently an independent consultant.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Seabridge Gold Inc.",
       "ticker": "SA",
@@ -15,13 +23,5 @@
       "start_date": "2020-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Governance Committee"
   ]
 }

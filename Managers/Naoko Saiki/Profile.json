@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former Director-General of the Economic Affairs Bureau, Ministry of Foreign Affairs of Japan.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nomination Committee"
+  ],
+  "companies": [
     {
       "name": "Komatsu Ltd.",
       "ticker": "KMTUY",
@@ -15,13 +23,5 @@
       "start_date": "2023-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Nomination Committee"
   ]
 }

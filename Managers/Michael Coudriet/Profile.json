@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Coudriet joined B2Gold in 2014 and has held various senior management roles. He was appointed Chief Operating Officer in 2023.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "B2Gold Corp.",
       "ticker": "BTG",
@@ -15,10 +20,5 @@
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

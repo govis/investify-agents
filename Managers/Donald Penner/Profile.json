@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Penner is a Professional Geologist with over 40 years of experience in the mineral exploration industry. He has worked for both major and junior mining companies and has been involved in the discovery and development of several mineral deposits. He has served as a director and officer of several public mining companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Sitka Gold Corp.",
       "ticker": "SIG",
@@ -15,11 +21,5 @@
       "start_date": "2024-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

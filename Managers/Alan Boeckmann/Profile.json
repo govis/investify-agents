@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Boeckmann has served as a member of our Board since May 2022. He is the former Executive Chairman and CEO of Fluor Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "NuScale Power Corporation",
       "ticker": "SMR",
@@ -15,13 +23,5 @@
       "start_date": "2022-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Nominating and Corporate Governance Committee"
   ]
 }

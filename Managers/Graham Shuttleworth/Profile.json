@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Graham Shuttleworth was appointed Senior Executive Vice-President and Chief Financial Officer of Barrick in January 2019. He previously served as the CFO of Randgold Resources from 2007 until the merger. He is a Chartered Accountant.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Barrick Gold Corporation",
       "ticker": "GOLD",
@@ -15,10 +20,5 @@
       "start_date": "2019-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

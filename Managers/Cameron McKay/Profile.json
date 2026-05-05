@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Mr. McKay is a professional geologist with over 10 years of experience in uranium exploration. He has been involved in various stages of exploration from grassroots to resource definition in the Athabasca Basin.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Baselode Energy Corp.",
       "ticker": "FIND",
@@ -15,10 +20,5 @@
       "start_date": "2021-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Tessier has over 35 years of experience in the mining industry. He has held various executive positions and has been involved in several mineral discoveries. He is a Professional Geologist and holds a B.Sc. in Geology from the University of Montreal and an M.Sc. in Economic Geology from Queen's University.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Delta Resources Limited",
       "ticker": "DLTA",
@@ -15,11 +21,5 @@
       "start_date": "2019-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

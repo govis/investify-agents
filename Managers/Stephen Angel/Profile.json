@@ -6,7 +6,18 @@
   "age_year": 2024,
   "background": "Former CEO of Linde plc. He has extensive experience in industrial and global operations.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense",
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance & Public Affairs Committee",
+    "Governance and Public Affairs Committee",
+    "Management Development and Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "General Electric Company",
       "ticker": "GE",
@@ -23,16 +34,5 @@
       "start_date": "2024-04-02",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense",
-    "Electrification",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Governance & Public Affairs Committee",
-    "Governance and Public Affairs Committee",
-    "Management Development and Compensation Committee"
   ]
 }

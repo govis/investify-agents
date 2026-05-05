@@ -6,7 +6,15 @@
   "age_year": null,
   "background": "Peter Wasow has over 30 years' experience in the resources and energy sectors. He was previously the Managing Director and CEO of Alumina Limited and held senior executive roles at Santos Limited and BHP. He has extensive experience in financial management, strategy, and corporate governance.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee (Chair)",
+    "Remuneration and Nomination Committee"
+  ],
+  "companies": [
     {
       "name": "Alligator Energy Limited",
       "ticker": "AGE",
@@ -16,12 +24,6 @@
       "end_date": null
     }
   ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee (Chair)",
-    "Remuneration and Nomination Committee"
-  ]
+  "picture_local": null,
+  "enrichment_status": "success"
 }

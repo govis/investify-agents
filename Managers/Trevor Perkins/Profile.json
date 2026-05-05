@@ -5,8 +5,18 @@
   "age": 54,
   "age_year": 2024,
   "background": "Mr. Perkins is a professional geologist with over 25 years of experience in mineral exploration, including 10 years with Cameco Corporation.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://cdn.theorg.com/5b1ab4cc-9c8c-4010-aa74-4ca3bb1cb59a_thumb.jpg",
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/c-trevor-perkins-a33b0040"
+    }
+  ],
+  "committees": [],
+  "companies": [
     {
       "name": "Azincourt Energy Corp.",
       "ticker": "AAZ",
@@ -16,9 +26,6 @@
       "end_date": null
     }
   ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  "picture_local": "Picture.jpg",
+  "enrichment_status": "success"
 }

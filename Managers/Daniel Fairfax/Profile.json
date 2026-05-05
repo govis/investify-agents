@@ -6,7 +6,15 @@
   "age_year": 2023,
   "background": "Former CFO of Brocade Communications Systems. Held executive roles at Foundry Networks and GoRemote Health. Financial expert with extensive public company experience.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Super Micro Computer, Inc.",
       "ticker": "SMCI",
@@ -15,13 +23,5 @@
       "start_date": "2019-03-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee (Chair)",
-    "Compensation Committee"
   ]
 }

@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Chief Purchasing Officer of the Volvo Group. Previously held senior positions at Scania and Volkswagen. Member of the Group Executive Board since 2016.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "AB Volvo",
       "ticker": "VOLV-B",
@@ -15,10 +20,5 @@
       "start_date": "2016-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

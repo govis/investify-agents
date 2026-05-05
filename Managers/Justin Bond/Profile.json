@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Bond has over 20 years of experience in the mining industry, specializing in corporate finance, mergers and acquisitions, and investor relations. He previously held senior roles at several Canadian mining companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "K92 Mining Inc.",
       "ticker": "KNT",
@@ -15,10 +20,5 @@
       "start_date": "2016-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

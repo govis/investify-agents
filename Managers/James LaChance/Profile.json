@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Founder and CEO of Discovery Capital Management. He has over 25 years of experience in investment management and corporate restructuring.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Terran Orbital Corporation",
       "ticker": "LLAP",
@@ -15,13 +23,5 @@
       "start_date": "2022-03-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

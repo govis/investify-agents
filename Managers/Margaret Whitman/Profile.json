@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "U.S. Ambassador to Kenya; former CEO of Hewlett Packard Enterprise.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance and Corporate Responsibility Committee"
+  ],
+  "companies": [
     {
       "name": "General Motors Company",
       "ticker": "GM",
@@ -15,13 +23,5 @@
       "start_date": "2021-02-09",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Governance and Corporate Responsibility Committee"
   ]
 }

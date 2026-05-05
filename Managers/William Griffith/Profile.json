@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Griffith has served as Senior Vice President and Chief Accounting Officer since 2021. He previously served as Vice President and Corporate Controller.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Jacobs Solutions Inc.",
       "ticker": "J",
@@ -15,11 +21,5 @@
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

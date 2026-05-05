@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "President and CEO of JAMM Ventures.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Leadership Development and Compensation Committee",
+    "Nominating and Governance Committee"
+  ],
+  "companies": [
     {
       "name": "ServiceNow, Inc.",
       "ticker": "NOW",
@@ -15,13 +23,5 @@
       "start_date": "2011-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Leadership Development and Compensation Committee",
-    "Nominating and Governance Committee"
   ]
 }

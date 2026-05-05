@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Former Group President of Caterpillar Inc. Lead Independent Director of Entergy.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Entergy Corporation",
-      "ticker": "ETR",
-      "exchange": "NYSE",
-      "title_or_role": "Lead Independent Director",
-      "start_date": "2005-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -24,5 +14,15 @@
     "Corporate Governance",
     "Executive",
     "Personnel"
+  ],
+  "companies": [
+    {
+      "name": "Entergy Corporation",
+      "ticker": "ETR",
+      "exchange": "NYSE",
+      "title_or_role": "Lead Independent Director",
+      "start_date": "2005-01-01",
+      "end_date": null
+    }
   ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former Secretary of the Air Force. Former President of the Technical and Engineering Sector of Science Applications International Corporation (SAIC).",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Organization and Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Textron Inc.",
       "ticker": "TXT",
@@ -15,13 +23,5 @@
       "start_date": "2017-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Organization and Compensation Committee"
   ]
 }

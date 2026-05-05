@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Planishek has served as a member of our Board since 2022. She was previously the Chief Accounting Officer of GoDaddy Inc. Ms. Planishek holds a B.S. in Accounting from the University of San Francisco.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Palantir Technologies Inc.",
       "ticker": "PLTR",
@@ -15,13 +23,5 @@
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

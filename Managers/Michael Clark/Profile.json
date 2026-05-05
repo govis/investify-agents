@@ -6,7 +6,17 @@
   "age_year": 2024,
   "background": "President of B-Filer Inc. since 2012. Formerly Executive Vice President at Northern Trust.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Sprott Energy Transition Materials ETF",
       "ticker": "SETM",
@@ -23,15 +33,5 @@
       "start_date": "2018-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nominating and Governance Committee"
   ]
 }

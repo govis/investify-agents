@@ -6,7 +6,15 @@
   "age_year": null,
   "background": "Ms Robertson has over 40 years\u2019 experience in corporate finance, investment banking, and the resource sector. She has held senior roles at Chase Manhattan Bank and Delta Gold.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee (Chair)",
+    "Nomination and Remuneration Committee"
+  ],
+  "companies": [
     {
       "name": "Bellevue Gold Limited",
       "ticker": "BGL",
@@ -15,13 +23,5 @@
       "start_date": "2020-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee (Chair)",
-    "Nomination and Remuneration Committee"
   ]
 }

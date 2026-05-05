@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Founder, Chairman and CEO of Ampere Computing and former President of Intel Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Oracle Corporation",
       "ticker": "ORCL",
@@ -15,13 +23,5 @@
       "start_date": "2015-12-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee"
   ]
 }

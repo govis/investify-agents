@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Smith is a professional engineer with over 35 years of experience in the mining industry. He has served as CEO and Director of several public companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Cabral Gold Inc.",
       "ticker": "CBR",
@@ -15,13 +23,5 @@
       "start_date": "2018-06-21",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

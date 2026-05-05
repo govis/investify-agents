@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Corbett is the Chief Financial Officer of MP Materials. Prior to joining MP Materials, he was a Managing Director at JHL Capital Group LLC. Before JHL, he was an investment professional at King Street Capital Management and an investment banking analyst at Morgan Stanley.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "MP Materials Corp.",
       "ticker": "MP",
@@ -15,10 +20,5 @@
       "start_date": "2020-11-17",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

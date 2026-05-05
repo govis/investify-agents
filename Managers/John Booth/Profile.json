@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Booth is a lawyer and investment banker with over 30 years of experience in the resource sector. He is currently the Chairman of Laramide.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Laramide Resources Ltd.",
       "ticker": "LAM",
@@ -15,13 +23,5 @@
       "start_date": "2011-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

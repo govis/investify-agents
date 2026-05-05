@@ -6,7 +6,17 @@
   "age_year": 2024,
   "background": "Former Executive Vice President of State Street Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Audit Committee",
+    "Finance"
+  ],
+  "companies": [
     {
       "name": "RTX Corporation",
       "ticker": "RTX",
@@ -23,15 +33,5 @@
       "start_date": "2020-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit",
-    "Audit Committee",
-    "Finance"
   ]
 }

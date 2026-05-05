@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Schingler is a co-founder of Planet and has served as our Chief Strategy Officer since December 2010 and as a member of our board of directors since December 2010. Prior to Planet, Mr. Schingler was a Presidential Management Fellow at NASA Ames Research Center from 2005 to 2010. Mr. Schingler holds an M.B.A. from Georgetown University and a B.S. in Engineering Physics from Santa Clara University.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Planet Labs PBC",
       "ticker": "PL",
@@ -15,10 +20,5 @@
       "start_date": "2010-12-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

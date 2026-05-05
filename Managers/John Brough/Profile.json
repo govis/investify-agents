@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Brough was previously the President of Wittington Properties Limited and has extensive experience in real estate and finance.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Human Resources Committee"
+  ],
+  "companies": [
     {
       "name": "Wheaton Precious Metals Corp.",
       "ticker": "WPM",
@@ -15,13 +23,5 @@
       "start_date": "2004-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Human Resources Committee"
   ]
 }

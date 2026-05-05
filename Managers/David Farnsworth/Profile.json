@@ -6,7 +6,12 @@
   "age_year": 2023,
   "background": "Mr. Farnsworth has served as our Executive Vice President and Chief Financial Officer since July 2023. He previously served as CFO of Raytheon Technologies' Intelligence & Space business and held various senior finance roles at Raytheon Company.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Mercury Systems, Inc.",
       "ticker": "MRCY",
@@ -15,10 +20,5 @@
       "start_date": "2023-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

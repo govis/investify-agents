@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Quesnel is a mining engineer with over 40 years of experience in the mining industry. He has held senior executive positions with several mining companies, including serving as President and CEO of Consolidated Thompson Iron Mines Ltd. and as a director of several other public companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Consolidated Lithium Metals Inc.",
       "ticker": "CLM",
@@ -15,11 +21,5 @@
       "start_date": "2023-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

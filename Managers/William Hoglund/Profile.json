@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Hoglund has served as a director since 2001 and as Chairman of the Board since 2023. He is a retired executive from General Motors.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Kratos Defense & Security Solutions, Inc.",
       "ticker": "KTOS",
@@ -15,13 +23,5 @@
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

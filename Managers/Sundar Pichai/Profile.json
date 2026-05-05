@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Sundar Pichai has served as the Chief Executive Officer of Alphabet since December 2019 and as the Chief Executive Officer of Google since October 2015. He has been a member of Alphabet\u2019s Board of Directors since July 2017. Since joining Google in 2004, he has held various leadership roles, including overseeing product management and innovation for a suite of Google\u2019s consumer and enterprise products.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Alphabet Inc.",
       "ticker": "GOOGL",
@@ -15,11 +21,5 @@
       "start_date": "2019-12-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

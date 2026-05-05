@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Layman was formerly the President and COO of Seabridge Gold. He has over 40 years of experience in the mining industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Technical Committee"
+  ],
+  "companies": [
     {
       "name": "Seabridge Gold Inc.",
       "ticker": "SA",
@@ -15,12 +22,5 @@
       "start_date": "2011-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Technical Committee"
   ]
 }

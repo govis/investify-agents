@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Ms. Desai has served as Chief Financial Officer of Quanta since July 2022. She previously served as Chief Corporate Development Officer from 2020 to 2022 and as Vice President of Corporate Development from 2010 to 2020.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Quanta Services, Inc.",
       "ticker": "PWR",
@@ -15,11 +21,5 @@
       "start_date": "2022-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

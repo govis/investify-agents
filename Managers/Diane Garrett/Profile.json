@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Dr. Garrett has more than 25 years of experience in the mining industry. She is currently the President and CEO of Hycroft Mining Holding Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "NOVAGOLD RESOURCES INC.",
       "ticker": "NG",
@@ -15,13 +23,5 @@
       "start_date": "2018-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Licensed Real Estate Salesperson at Sotheby's International Realty since 2011.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Sprott Energy Transition Materials ETF",
-      "ticker": "SETM",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Trustee",
-      "start_date": "2018",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -24,5 +14,15 @@
   "committees": [
     "Audit Committee",
     "Nominating and Governance Committee"
+  ],
+  "companies": [
+    {
+      "name": "Sprott Energy Transition Materials ETF",
+      "ticker": "SETM",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Trustee",
+      "start_date": "2018",
+      "end_date": null
+    }
   ]
 }

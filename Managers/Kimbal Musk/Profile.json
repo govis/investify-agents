@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Kimbal Musk has been a member of the Board since April 2004. He is a co-founder of The Kitchen Restaurant Group and Big Green, a non-profit organization.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Tesla, Inc.",
       "ticker": "TSLA",
@@ -15,11 +21,5 @@
       "start_date": "2004-04-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

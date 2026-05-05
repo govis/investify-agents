@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "President and CEO, Leggett & Platt.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and Talent Management Committee",
+    "Technology Committee"
+  ],
+  "companies": [
     {
       "name": "Rockwell Automation, Inc.",
       "ticker": "ROK",
@@ -15,13 +23,5 @@
       "start_date": "2023-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation and Talent Management Committee",
-    "Technology Committee"
   ]
 }

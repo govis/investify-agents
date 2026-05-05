@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Ellingham is a geologist with over 30 years of experience in the mining industry. She has held senior positions with the Toronto Stock Exchange.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee",
+    "Technical and Sustainability Committee"
+  ],
+  "companies": [
     {
       "name": "Alamos Gold Inc.",
       "ticker": "AGI",
@@ -15,13 +23,5 @@
       "start_date": "2018-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Corporate Governance and Nominating Committee",
-    "Technical and Sustainability Committee"
   ]
 }

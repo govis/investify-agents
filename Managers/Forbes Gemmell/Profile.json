@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Gemmell has over 15 years of experience in the capital markets and mining industry. He previously served as Vice President, Corporate Development and Investor Relations at Discovery Silver. Prior to joining the company, he worked in equity research and investment banking focused on the mining sector.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Discovery Silver Corp.",
       "ticker": "DSV",
@@ -15,10 +20,5 @@
       "start_date": "2023-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "CEO of MEG Energy Corp. and former CEO of Pengrowth Energy Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Franco-Nevada Corporation",
       "ticker": "FNV",
@@ -15,13 +23,5 @@
       "start_date": "2008-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

@@ -6,7 +6,17 @@
   "age_year": 2024,
   "background": "Ms. Chubbs was the CFO of Eldorado Gold Corporation from 2011 to 2018. She is a Chartered Professional Accountant.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Gold",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Audit Committee (Chair)"
+  ],
+  "companies": [
     {
       "name": "Lithium Americas Corp.",
       "ticker": "LAC",
@@ -23,15 +33,5 @@
       "start_date": "2020-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Gold",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Audit Committee (Chair)"
   ]
 }

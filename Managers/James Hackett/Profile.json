@@ -6,7 +6,18 @@
   "age_year": 2024,
   "background": "President of Tessellation Services, LLC. Former Executive Chairman of Anadarko Petroleum Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Governance Committee",
+    "Organization and Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Fluor Corporation",
       "ticker": "FLR",
@@ -23,16 +34,5 @@
       "start_date": "2022-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee",
-    "Governance Committee",
-    "Organization and Compensation Committee"
   ]
 }

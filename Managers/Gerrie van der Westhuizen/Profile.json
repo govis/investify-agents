@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. van der Westhuizen is a Chartered Accountant with over 20 years of experience in the mining industry. He was previously the VP Finance of Atlantic Gold Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Artemis Gold Inc.",
       "ticker": "ARTG",
@@ -15,10 +20,5 @@
       "start_date": "2019-01-10",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

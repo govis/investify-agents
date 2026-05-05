@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Schapira is a founding partner of M. Schapira & Co. Inc. and has extensive experience in corporate finance and strategic advisory.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "NOVAGOLD RESOURCES INC.",
       "ticker": "NG",
@@ -15,13 +23,5 @@
       "start_date": "2013-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Corporate Governance and Nominating Committee"
   ]
 }

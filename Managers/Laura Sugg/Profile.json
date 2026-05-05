@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Retired executive of ConocoPhillips.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Executive",
+    "Finance (Chair)"
+  ],
+  "companies": [
     {
       "name": "Public Service Enterprise Group Incorporated",
       "ticker": "PEG",
@@ -15,13 +23,5 @@
       "start_date": "2019-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Executive",
-    "Finance (Chair)"
   ]
 }

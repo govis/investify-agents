@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Zimmerman has over 15 years of experience in the financial services and resource sectors. He previously served as a derivatives trader and has been involved in various capacities with public resource companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Stallion Uranium Corp.",
       "ticker": "STUD",
@@ -15,10 +20,5 @@
       "start_date": "2021-04-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

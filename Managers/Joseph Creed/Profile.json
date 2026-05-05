@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Joe Creed is president and chief operating officer of Caterpillar Inc. He joined the company in 1997 and has held various leadership positions in finance and operations, including serving as CFO of the Energy & Transportation segment.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Caterpillar Inc.",
       "ticker": "CAT",
@@ -15,10 +20,5 @@
       "start_date": "2024-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

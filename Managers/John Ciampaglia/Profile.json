@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Ciampaglia is the Chief Executive Officer of Sprott Asset Management LP and a Senior Managing Director of Sprott Inc. He has more than 25 years of experience in the investment industry and has held senior positions at several Canadian investment firms.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Gold",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Sprott Physical Gold Trust",
       "ticker": "PHYS",
@@ -39,13 +47,5 @@
       "start_date": "2018-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Gold",
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

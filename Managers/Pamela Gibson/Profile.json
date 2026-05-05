@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Pamela Gibson is a former partner at Shearman & Sterling LLP with extensive experience in international corporate finance and M&A.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "Eldorado Gold Corporation",
       "ticker": "EGO",
@@ -15,13 +23,5 @@
       "start_date": "2014-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Corporate Governance and Nominating Committee"
   ]
 }

@@ -6,7 +6,16 @@
   "age_year": 2024,
   "background": "Ms. Delly has served as a director since 2017. She was previously the President and CEO of Benchmark Electronics, Inc. She is a CPA and serves on the boards of Flowserve Corporation and National Instruments.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Finance Committee"
+  ],
+  "companies": [
     {
       "name": "Broadcom Inc.",
       "ticker": "AVGO",
@@ -23,14 +32,5 @@
       "start_date": "2011-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee (Chair)",
-    "Finance Committee"
   ]
 }

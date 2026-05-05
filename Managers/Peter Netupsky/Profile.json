@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Netupsky has over 15 years of experience in corporate development and investment banking, previously with Agnico Eagle Mines.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "IsoEnergy Ltd.",
       "ticker": "ISO",
@@ -23,10 +28,5 @@
       "start_date": "2023-12-05",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

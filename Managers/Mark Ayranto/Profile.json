@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Ayranto has over 20 years of experience in the mining industry, specifically in the Yukon. He has been with Victoria Gold since 2009 and oversees corporate development and sustainability.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Victoria Gold Corp.",
       "ticker": "VGCX",
@@ -15,10 +20,5 @@
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

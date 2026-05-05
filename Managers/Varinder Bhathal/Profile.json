@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Bhathal is the Chief Financial Officer of Sprott Asset Management LP and a Managing Director of Sprott Inc. She has over 20 years of experience in the financial services industry, specializing in investment funds and corporate finance.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Gold",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Sprott Physical Gold Trust",
       "ticker": "PHYS",
@@ -31,13 +39,5 @@
       "start_date": "2018-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Gold",
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

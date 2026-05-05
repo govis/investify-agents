@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Bass has served as a member of our board of directors since December 2021. Mr. Bass served as the President and Chief Executive Officer of Autodesk, Inc. from 2006 to 2017.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Planet Labs PBC",
       "ticker": "PL",
@@ -15,12 +22,5 @@
       "start_date": "2021-12-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee"
   ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Yurkovich is the Senior Vice President, Strategy at Canfor Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Human Resources and Compensation Committee (Chair)",
+    "Sustainable Development Committee"
+  ],
+  "companies": [
     {
       "name": "Centerra Gold Inc.",
       "ticker": "CGAU",
@@ -15,13 +23,5 @@
       "start_date": "2020-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Human Resources and Compensation Committee (Chair)",
-    "Sustainable Development Committee"
   ]
 }

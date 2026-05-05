@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Mr. Beneby is the former President and CEO of CPS Energy. He has extensive experience in the energy and utility sectors.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Quanta Services, Inc.",
-      "ticker": "PWR",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2016-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -24,5 +14,15 @@
   "committees": [
     "Audit Committee",
     "Investment Committee"
+  ],
+  "companies": [
+    {
+      "name": "Quanta Services, Inc.",
+      "ticker": "PWR",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2016-01-01",
+      "end_date": null
+    }
   ]
 }

@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Professional Engineer and financial executive with over 35 years of experience. Former CFO of Sherritt International Corporation.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Clean Air Metals Inc.",
-      "ticker": "AIR",
-      "exchange": "TSXV",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Electrification",
     "Gold"
@@ -24,5 +14,15 @@
   "committees": [
     "Audit Committee (Chair)",
     "Compensation Committee"
+  ],
+  "companies": [
+    {
+      "name": "Clean Air Metals Inc.",
+      "ticker": "AIR",
+      "exchange": "TSXV",
+      "title_or_role": "Independent Director",
+      "start_date": "2020-01-01",
+      "end_date": null
+    }
   ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Gerald Risk has served as a member of our Board since 2014. He is the Vice Chairman of Asurion and previously served as its President.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Sunrun Inc.",
       "ticker": "RUN",
@@ -15,13 +23,5 @@
       "start_date": "2014-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nominating and Corporate Governance Committee"
   ]
 }

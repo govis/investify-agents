@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Mr. Galvin has served as a Director since 2009. He is the former Chairman and CEO of Motorola, Inc. and is currently Chairman and Co-Founder of Harrison Street Real Estate Capital.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Jacobs Solutions Inc.",
-      "ticker": "J",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2009-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Nuclear",
     "Reshoring"
@@ -24,5 +14,15 @@
   "committees": [
     "Audit Committee",
     "ESG and Risk Committee"
+  ],
+  "companies": [
+    {
+      "name": "Jacobs Solutions Inc.",
+      "ticker": "J",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "start_date": "2009-01-01",
+      "end_date": null
+    }
   ]
 }

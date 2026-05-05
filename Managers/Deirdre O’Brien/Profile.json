@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Deirdre O\u2019Brien is Apple\u2019s senior vice president of Retail, reporting to CEO Tim Cook. Deirdre leads Apple\u2019s retail and online stores, focusing on the connection between customers and the people and products they love.",
   "picture_url": "https://www.apple.com/leadership/images/bio/Deirdre-O-Brien_bio.png.og.jpg?1736784026586",
-  "commpanies": [
-    {
-      "name": "Apple Inc.",
-      "ticker": "AAPL",
-      "exchange": "NASDAQ",
-      "title_or_role": "Senior Vice President, Retail",
-      "start_date": "2019-02-05",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -26,5 +16,15 @@
     }
   ],
   "committees": [],
-  "enrichment_status": "success"
+  "enrichment_status": "success",
+  "companies": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "exchange": "NASDAQ",
+      "title_or_role": "Senior Vice President, Retail",
+      "start_date": "2019-02-05",
+      "end_date": null
+    }
+  ]
 }

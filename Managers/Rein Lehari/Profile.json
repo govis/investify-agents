@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Lehari is a Chartered Professional Accountant and was formerly a partner with PricewaterhouseCoopers LLP. He has over 30 years of experience in the mining industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Global Atomic Corporation",
       "ticker": "GLO",
@@ -15,10 +20,5 @@
       "start_date": "2017-12-22",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

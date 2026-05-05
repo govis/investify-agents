@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Fleck is a seasoned executive with over 30 years of experience in the investment industry. He was formerly Co-CEO of BMO Capital Markets.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Human Resources and Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Alamos Gold Inc.",
       "ticker": "AGI",
@@ -15,13 +23,5 @@
       "start_date": "2015-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Human Resources and Compensation Committee"
   ]
 }

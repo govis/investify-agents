@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former Executive Vice President and CEO of Verizon Business.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Finance Committee"
+  ],
+  "companies": [
     {
       "name": "Deere & Company",
       "ticker": "DE",
@@ -15,13 +23,5 @@
       "start_date": "2020-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Finance Committee"
   ]
 }

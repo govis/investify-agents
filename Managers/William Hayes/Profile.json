@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Hayes has been a director since 2008 and Chairman of the Board since 2014. He was previously an executive at Placer Dome Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation, Nominating and Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Royal Gold, Inc.",
       "ticker": "RGLD",
@@ -15,12 +22,5 @@
       "start_date": "2014-05-22",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation, Nominating and Governance Committee"
   ]
 }

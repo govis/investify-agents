@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former U.S. Secretary of Defense and former Director of the Central Intelligence Agency.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Nomination and Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Oracle Corporation",
       "ticker": "ORCL",
@@ -15,13 +23,5 @@
       "start_date": "2015-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Nomination and Governance Committee"
   ]
 }

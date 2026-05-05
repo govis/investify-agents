@@ -5,8 +5,26 @@
   "age": 65,
   "age_year": 2024,
   "background": "Ms. Jung has served as the President and CEO of Grameen America, a non-profit microfinance organization, since 2014. She previously served as Chairman and CEO of Avon Products, Inc.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://media.licdn.com/dms/image/v2/C4E03AQEq8FI6BNVSRw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1644538609802?e=2147483647&v=beta&t=kfNNSOjzFws-VxFOswCxstWrD4imjr2QYN526thuPjU",
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andrea-jung-442a7b9b"
+    },
+    {
+      "name": "X (Twitter)",
+      "url": "https://x.com/AndreaJung__"
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "picture_local": "Picture.jpg",
+  "enrichment_status": "success",
+  "companies": [
     {
       "name": "Apple Inc.",
       "ticker": "AAPL",
@@ -15,12 +33,5 @@
       "start_date": "2008-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee"
   ]
 }

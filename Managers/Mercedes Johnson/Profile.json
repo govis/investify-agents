@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mercedes Johnson has been a director since 2014. She was formerly the Senior Vice President and CFO of Avago Technologies Limited and CFO of Lam Research Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Teradyne, Inc.",
       "ticker": "TER",
@@ -15,13 +23,5 @@
       "start_date": "2014-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense",
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

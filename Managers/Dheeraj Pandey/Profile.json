@@ -5,8 +5,24 @@
   "age": 48,
   "age_year": 2024,
   "background": "Co-founder and CEO of DevRev. Former CEO of Nutanix. Director since 2021.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://www.eu-startups.com/wp-content/uploads/2024/03/EU-Startups-Summit-DevRev-Dheeraj-1-1024x674.png",
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dpandey"
+    },
+    {
+      "name": "X (Twitter)",
+      "url": "https://x.com/dheeraj"
+    }
+  ],
+  "committees": [
+    "Governance and Sustainability Committee"
+  ],
+  "companies": [
     {
       "name": "Adobe Inc.",
       "ticker": "ADBE",
@@ -16,11 +32,6 @@
       "end_date": null
     }
   ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Governance and Sustainability Committee"
-  ]
+  "picture_local": "Picture.png",
+  "enrichment_status": "success"
 }

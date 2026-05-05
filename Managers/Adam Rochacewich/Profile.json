@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Rochacewich is a Chartered Professional Accountant with over 20 years of experience in the mining industry. He was previously Chief Financial Officer of several junior mining companies and has held senior financial roles with Noranda Inc. and Falconbridge Limited.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Revival Gold Inc.",
       "ticker": "RVG",
@@ -15,10 +20,5 @@
       "start_date": "2017-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

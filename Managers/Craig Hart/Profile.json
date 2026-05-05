@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Dr. Hart is a world-renowned scholar on gold deposits and regional metallogeny. He was previously the Director of the Mineral Deposit Research Unit (MDRU) at the University of British Columbia.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Snowline Gold Corp.",
-      "ticker": "SGD",
-      "exchange": "TSX",
-      "title_or_role": "Independent Chairman",
-      "start_date": "2020-11-27",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Gold"
   ],
@@ -24,5 +14,15 @@
     "Audit Committee",
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
+    {
+      "name": "Snowline Gold Corp.",
+      "ticker": "SGD",
+      "exchange": "TSX",
+      "title_or_role": "Independent Chairman",
+      "start_date": "2020-11-27",
+      "end_date": null
+    }
   ]
 }

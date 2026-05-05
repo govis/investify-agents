@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Fisher was appointed Chief Financial Officer in 2023. He joined the Company in 2010 and has held various senior financial roles, including Senior Vice President, Finance.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Alamos Gold Inc.",
       "ticker": "AGI",
@@ -15,10 +20,5 @@
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

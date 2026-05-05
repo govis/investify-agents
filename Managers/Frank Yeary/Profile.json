@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Frank D. Yeary has been a director since 2009 and Chairman since January 2023. He is Principal of Darwin Capital Advisors, LLC and was previously Executive Vice Chairman of CamberView Partners, LLC and Vice Chancellor of UC Berkeley.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "Intel Corporation",
       "ticker": "INTC",
@@ -15,13 +23,5 @@
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Corporate Governance and Nominating Committee"
   ]
 }

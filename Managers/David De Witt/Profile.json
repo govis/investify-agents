@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Chairman of Pathway Capital Ltd. and a director of several public companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "Sandstorm Gold Ltd.",
       "ticker": "SAND",
@@ -15,13 +23,5 @@
       "start_date": "2008-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Corporate Governance and Nominating Committee"
   ]
 }

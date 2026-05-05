@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Taylor has served as our Chief Revenue Officer and Chief Legal Officer since 2022. He previously served as our Chief Legal Officer and Business Affairs Officer from 2020 to 2022. Mr. Taylor joined Palantir in 2010. Mr. Taylor holds a B.S. and M.S. in Management Science & Engineering from Stanford University and a J.D. from Harvard Law School.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Palantir Technologies Inc.",
       "ticker": "PLTR",
@@ -15,11 +21,5 @@
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

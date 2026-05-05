@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Simkowitz has served as Co-President of Morgan Stanley since January 2024 and Head of Institutional Securities. He was previously Head of Investment Management.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Morgan Stanley",
       "ticker": "MS",
@@ -15,10 +20,5 @@
       "start_date": "2024-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

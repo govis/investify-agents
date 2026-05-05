@@ -6,7 +6,16 @@
   "age_year": 2024,
   "background": "Mr. Hallam is a co-founder of the Company and has served as President and CEO since 2022. He was previously CFO from 2002 to 2022. He is a Chartered Professional Accountant and has been involved in the mining industry for over 30 years.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Platinum Group Metals Ltd.",
       "ticker": "PTM",
@@ -23,14 +32,5 @@
       "start_date": "2020-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

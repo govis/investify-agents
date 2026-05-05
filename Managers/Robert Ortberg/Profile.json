@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former CEO of Rockwell Collins and former Special Advisor to the Office of the CEO of RTX.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Finance"
+  ],
+  "companies": [
     {
       "name": "RTX Corporation",
       "ticker": "RTX",
@@ -15,13 +23,5 @@
       "start_date": "2020-04-03",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit",
-    "Finance"
   ]
 }

@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Former Provost of Stanford University and former Director of the SLAC National Accelerator Laboratory.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "NVIDIA Corporation",
-      "ticker": "NVDA",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2015-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "AI",
     "Defense",
@@ -24,5 +14,15 @@
   "socials": [],
   "committees": [
     "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "start_date": "2015-01-01",
+      "end_date": null
+    }
   ]
 }

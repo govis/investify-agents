@@ -5,8 +5,18 @@
   "age": null,
   "age_year": null,
   "background": "Mr El-Sayed is a Certified Practising Accountant and a Director of Multi-Purpose Business Solutions, a boutique accounting and business advisory firm. He has over 20 years of experience in the areas of corporate compliance, financial accounting, and taxation. He is also a Non-Executive Director of several ASX-listed companies.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://multiplant.com.au/wp-content/uploads/2023/12/Nader-Elsayed-0165.jpg",
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "url": "https://au.linkedin.com/in/nader-el-sayed-9a41447a",
+      "name": "LinkedIn"
+    }
+  ],
+  "committees": [],
+  "companies": [
     {
       "name": "Atomic Eagle Limited",
       "ticker": "AEU",
@@ -16,9 +26,6 @@
       "end_date": null
     }
   ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  "picture_local": "Picture.jpg",
+  "enrichment_status": "success"
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Grant has over 25 years of experience in the financial services and resource sectors. She has held senior positions in corporate finance and investor relations.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "F3 Uranium Corp.",
       "ticker": "FUU",
@@ -15,13 +23,5 @@
       "start_date": "2023-05-15",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

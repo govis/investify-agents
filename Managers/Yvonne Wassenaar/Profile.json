@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former CEO of Puppet. Former executive at Airware, New Relic, and VMware. Director at Forrester Research and JFrog.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Arista Networks, Inc.",
       "ticker": "ANET",
@@ -15,13 +23,5 @@
       "start_date": "2022-12-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

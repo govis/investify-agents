@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Ozols has been a director since 2022. He is a citizen of Australia and holds a Bachelor of Commerce from the University of New South Wales. He has extensive experience in the mining and finance sectors.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Sociedad Qu\u00edmica y Minera de Chile S.A.",
       "ticker": "SQM",
@@ -15,10 +20,5 @@
       "start_date": "2022-04-26",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

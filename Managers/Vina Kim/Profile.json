@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Kim is a lawyer with over 15 years of experience in corporate and securities law. She has served as legal counsel for several mining companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Uranium Royalty Corp.",
       "ticker": "UROY",
@@ -15,13 +23,5 @@
       "start_date": "2019-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nominating and Corporate Governance Committee"
   ]
 }

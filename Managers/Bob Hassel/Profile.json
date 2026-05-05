@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Van Hassel has served as our Chief Financial Officer since September 2021. He has over 30 years of experience in finance and accounting, having served in various leadership roles at public and private companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "ASP Isotopes Inc.",
       "ticker": "ASPI",
@@ -15,11 +21,5 @@
       "start_date": "2021-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

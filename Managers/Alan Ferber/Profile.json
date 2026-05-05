@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Alan Ferber has served as a member of our Board since 2018. He previously served as the Chief Executive Officer of TI Automotive and held various executive roles at US Cellular.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Sunrun Inc.",
       "ticker": "RUN",
@@ -15,13 +23,5 @@
       "start_date": "2018-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

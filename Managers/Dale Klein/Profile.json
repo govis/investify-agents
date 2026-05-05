@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Professor Emeritus and former Associate Vice Chancellor at the University of Texas System. Former Chairman of the U.S. Nuclear Regulatory Commission.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Operations, Environmental and Safety (Chair)"
+  ],
+  "companies": [
     {
       "name": "The Southern Company",
       "ticker": "SO",
@@ -15,13 +23,5 @@
       "start_date": "2010-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit",
-    "Operations, Environmental and Safety (Chair)"
   ]
 }

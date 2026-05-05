@@ -6,7 +6,16 @@
   "age_year": 2024,
   "background": "Mr. Jeannes is a mining industry veteran, formerly the President and CEO of Goldcorp Inc. from 2008 to 2016.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Environmental, Sustainability, Health & Safety Committee",
+    "Governance and Nominating Committee",
+    "Sustainability Committee"
+  ],
+  "companies": [
     {
       "name": "Orla Mining Ltd.",
       "ticker": "OLA",
@@ -23,14 +32,5 @@
       "start_date": "2016-11-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Environmental, Sustainability, Health & Safety Committee",
-    "Governance and Nominating Committee",
-    "Sustainability Committee"
   ]
 }

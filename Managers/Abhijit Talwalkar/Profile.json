@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Mr. Talwalkar has been a director since 2011 and Chairman of the Board since 2019. He was President and CEO of LSI Corporation from 2005 to 2014.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Lam Research Corporation",
-      "ticker": "LRCX",
-      "exchange": "NASDAQ",
-      "title_or_role": "Chairman of the Board, Director",
-      "start_date": "2019-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "AI",
     "Reshoring"
@@ -24,5 +14,15 @@
   "committees": [
     "Compensation and Human Resources Committee",
     "Nominating and Governance Committee"
+  ],
+  "companies": [
+    {
+      "name": "Lam Research Corporation",
+      "ticker": "LRCX",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chairman of the Board, Director",
+      "start_date": "2019-01-01",
+      "end_date": null
+    }
   ]
 }

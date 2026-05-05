@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Senior Fellow at the Center for American Progress. Former Deputy Secretary of Defense.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Sustainability"
+  ],
+  "companies": [
     {
       "name": "General Dynamics Corporation",
       "ticker": "GD",
@@ -15,13 +23,5 @@
       "start_date": "2014-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit",
-    "Sustainability"
   ]
 }

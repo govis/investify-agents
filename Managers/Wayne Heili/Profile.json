@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Mr. Heili has spent over 30 years in the uranium mining industry. He previously served as President and CEO of Ur-Energy Inc. and held various operations and engineering roles at the Smith Ranch-Highland ISR uranium project.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Peninsula Energy Limited",
       "ticker": "PEN",
@@ -15,10 +20,5 @@
       "start_date": "2017-04-03",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

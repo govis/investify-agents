@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Gauthier has over 25 years of experience in human resources and organizational development, primarily in the mining sector.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Orla Mining Ltd.",
       "ticker": "OLA",
@@ -15,10 +20,5 @@
       "start_date": "2021-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

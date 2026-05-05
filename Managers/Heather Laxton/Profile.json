@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Ms. Laxton has over 20 years of experience in corporate governance and legal affairs within the mining industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Wesdome Gold Mines Ltd.",
       "ticker": "WDO",
@@ -15,10 +20,5 @@
       "start_date": "2018-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

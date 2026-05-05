@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Dr. FitzGerald was the CEO of Puma Energy and has held senior leadership positions at Royal Dutch Shell.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Leadership Development and Compensation Committee",
+    "Safety and Sustainability Committee"
+  ],
+  "companies": [
     {
       "name": "Newmont Corporation",
       "ticker": "NEM",
@@ -15,13 +23,5 @@
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Leadership Development and Compensation Committee",
-    "Safety and Sustainability Committee"
   ]
 }

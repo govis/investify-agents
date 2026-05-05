@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Mr Hill is a highly experienced mining executive with over 35 years' experience in the mining industry. He is a metallurgist and has extensive experience in the design, construction and operation of mining projects. He has held senior executive roles with several ASX listed companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Elevate Uranium Limited",
       "ticker": "EL8",
@@ -15,10 +20,5 @@
       "start_date": "2012-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

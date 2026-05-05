@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Ferdenzi has served as Vice President, General Counsel, and Corporate Secretary since 2011. He has been with the Company since 1999.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Curtiss-Wright Corporation",
       "ticker": "CW",
@@ -15,11 +21,5 @@
       "start_date": "2011-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

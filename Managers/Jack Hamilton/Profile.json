@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Hamilton has over 40 years of experience in the mining industry, including senior executive roles with major mining companies. He previously served as President and CEO of several exploration and development companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Orion Copper Mining Corp.",
       "ticker": "ORION",
@@ -15,10 +20,5 @@
       "start_date": "2021-05-15",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

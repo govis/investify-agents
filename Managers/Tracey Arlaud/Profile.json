@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Arlaud is a mining engineer with over 25 years of experience in the mining industry. She is currently the CEO of I-80 Gold Corp.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Technical Committee"
+  ],
+  "companies": [
     {
       "name": "Global Atomic Corporation",
       "ticker": "GLO",
@@ -15,13 +23,5 @@
       "start_date": "2022-06-23",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Technical Committee"
   ]
 }

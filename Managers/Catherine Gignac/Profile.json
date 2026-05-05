@@ -6,7 +6,19 @@
   "age_year": 2024,
   "background": "Catherine Gignac is a corporate director with more than 30 years of experience in capital markets and the mining industry as a mining equity research analyst and geologist.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Finance Committee",
+    "Audit and Risk Committee",
+    "Governance and Nominating Committee (Chair)",
+    "Governance and Nomination Committee",
+    "Nominating, Corporate Governance and Risk Committee"
+  ],
+  "companies": [
     {
       "name": "Cameco Corporation",
       "ticker": "CCO",
@@ -31,17 +43,5 @@
       "start_date": "2019-08-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Finance Committee",
-    "Audit and Risk Committee",
-    "Governance and Nominating Committee (Chair)",
-    "Governance and Nomination Committee",
-    "Nominating, Corporate Governance and Risk Committee"
   ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Hole was the Chairman of Lockerbie & Hole Inc. prior to its acquisition by Aecon in 2009. He has extensive experience in the industrial construction sector.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Environmental, Health and Safety Committee",
+    "Management Resources and Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Aecon Group Inc.",
       "ticker": "ARE",
@@ -15,13 +23,5 @@
       "start_date": "2009-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Environmental, Health and Safety Committee",
-    "Management Resources and Compensation Committee"
   ]
 }

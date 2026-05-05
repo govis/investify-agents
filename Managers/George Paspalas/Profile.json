@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Paspalas is the President and CEO of MAG Silver Corp. He has over 30 years of experience in the mining industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Technical Committee"
+  ],
+  "companies": [
     {
       "name": "Hudbay Minerals Inc.",
       "ticker": "HBM",
@@ -15,13 +23,5 @@
       "start_date": "2023-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Technical Committee"
   ]
 }

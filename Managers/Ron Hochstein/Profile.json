@@ -6,7 +6,16 @@
   "age_year": 2024,
   "background": "Mr. Hochstein is the Chair of the Board. He is currently the President and CEO of Lundin Gold Inc. and has over 30 years of experience in the mining industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "Denison Mines Corp.",
       "ticker": "DNN",
@@ -31,14 +40,5 @@
       "start_date": "2014-11-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold",
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Corporate Governance and Nominating Committee"
   ]
 }

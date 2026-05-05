@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "President Emeritus of Imperial College London. Director since 2012.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Board Governance Committee",
+    "Public Policy and Sustainability Committee"
+  ],
+  "companies": [
     {
       "name": "Chevron Corporation",
       "ticker": "CVX",
@@ -15,13 +23,5 @@
       "start_date": "2012-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Board Governance Committee",
-    "Public Policy and Sustainability Committee"
   ]
 }

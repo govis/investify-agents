@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Former Chairman of BearingPoint, Inc. and former Co-Vice Chairman of KPMG LLP.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and Management Development Committee"
+  ],
+  "companies": [
     {
       "name": "Cisco Systems, Inc.",
       "ticker": "CSCO",
@@ -15,12 +22,5 @@
       "start_date": "2003-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation and Management Development Committee"
   ]
 }

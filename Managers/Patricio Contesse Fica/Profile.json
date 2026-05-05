@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Contesse Fica has been a director since 2013 and Vice Chairman of the Board since 2022. He is a lawyer and holds a law degree from the Pontificia Universidad Cat\u00f3lica de Chile.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Sociedad Qu\u00edmica y Minera de Chile S.A.",
       "ticker": "SQM",
@@ -15,10 +20,5 @@
       "start_date": "2022-04-26",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

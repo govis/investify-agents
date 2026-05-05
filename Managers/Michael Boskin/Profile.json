@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Tully M. Friedman Professor of Economics and Senior Fellow, Hoover Institution, Stanford University.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Nomination and Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Oracle Corporation",
       "ticker": "ORCL",
@@ -15,13 +23,5 @@
       "start_date": "1994-04-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Nomination and Governance Committee"
   ]
 }

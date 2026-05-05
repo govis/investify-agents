@@ -5,8 +5,23 @@
   "age": 69,
   "age_year": 2024,
   "background": "Dr. Austin is the former President and CEO of The Aerospace Corporation, a leading architect for the nation\u2019s national security space programs. She served in this role from 2008 to 2016.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://savoynetwork.com/wp-content/uploads/2022/05/Wanda-Austin.jpeg",
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/wandamaustin"
+    }
+  ],
+  "committees": [
+    "Audit and Finance Committee",
+    "Board Governance Committee",
+    "Public Policy and Sustainability Committee"
+  ],
+  "companies": [
     {
       "name": "Apple Inc.",
       "ticker": "AAPL",
@@ -24,14 +39,6 @@
       "end_date": null
     }
   ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Finance Committee",
-    "Board Governance Committee",
-    "Public Policy and Sustainability Committee"
-  ]
+  "picture_local": "Picture.jpg",
+  "enrichment_status": "success"
 }

@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Mr. Gamonal has over 15 years of experience in the mining industry, specializing in project management and corporate development.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Snowline Gold Corp.",
       "ticker": "SGD",
@@ -15,10 +20,5 @@
       "start_date": "2023-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

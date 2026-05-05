@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Paton has over 30 years of experience in public policy and government relations. He was the President and CEO of the Chemistry Industry Association of Canada.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance and Nomination Committee",
+    "Sustainability Committee"
+  ],
+  "companies": [
     {
       "name": "NexGen Energy Ltd.",
       "ticker": "NXE",
@@ -15,13 +23,5 @@
       "start_date": "2014-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Governance and Nomination Committee",
-    "Sustainability Committee"
   ]
 }

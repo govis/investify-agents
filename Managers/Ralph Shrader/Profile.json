@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Dr. Shrader has served as Chairman of the Board since 2008. He was our CEO from 1999 to 2014 and has been with the firm for over 40 years.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Booz Allen Hamilton Holding Corporation",
       "ticker": "BAH",
@@ -15,10 +20,5 @@
       "start_date": "2008-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

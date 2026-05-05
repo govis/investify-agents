@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Former Chairman and CEO of Brunswick Corporation. Lead Independent Director of FCX.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Freeport-McMoRan Inc.",
-      "ticker": "FCX",
-      "exchange": "NYSE",
-      "title_or_role": "Lead Independent Director, Director",
-      "start_date": "2021-02-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -24,5 +14,15 @@
   "committees": [
     "Corporate Responsibility",
     "Governance"
+  ],
+  "companies": [
+    {
+      "name": "Freeport-McMoRan Inc.",
+      "ticker": "FCX",
+      "exchange": "NYSE",
+      "title_or_role": "Lead Independent Director, Director",
+      "start_date": "2021-02-01",
+      "end_date": null
+    }
   ]
 }

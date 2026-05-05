@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Mr. Hill has over 40 years of experience in the nuclear industry, including senior leadership roles at major nuclear engineering firms. He is an expert in nuclear reactor design and safety.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "NANO Nuclear Energy Inc.",
-      "ticker": "NNE",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2023-05-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Nuclear",
     "Reshoring"
@@ -24,5 +14,15 @@
   "committees": [
     "Audit Committee",
     "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
+    {
+      "name": "NANO Nuclear Energy Inc.",
+      "ticker": "NNE",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "start_date": "2023-05-01",
+      "end_date": null
+    }
   ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ajei Gopal is the President and CEO of ANSYS, Inc. and serves as an independent member of the SAP Supervisory Board.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Technology Committee"
+  ],
+  "companies": [
     {
       "name": "SAP SE",
       "ticker": "SAP",
@@ -15,13 +23,5 @@
       "start_date": "2018-05-17",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Technology Committee"
   ]
 }

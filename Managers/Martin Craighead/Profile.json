@@ -6,7 +6,17 @@
   "age_year": 2024,
   "background": "Former Chairman and CEO of Baker Hughes Incorporated.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Compensation",
+    "Compensation Committee",
+    "Governance and Stockholder Relations Committee"
+  ],
+  "companies": [
     {
       "name": "Emerson Electric Co.",
       "ticker": "EMR",
@@ -23,15 +33,5 @@
       "start_date": "2016-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit",
-    "Compensation",
-    "Compensation Committee",
-    "Governance and Stockholder Relations Committee"
   ]
 }

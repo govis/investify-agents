@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Benoit Dageville is one of our co-founders and has served as our President, Product since July 2019 and as a member of our board of directors since 2012. From 2012 to 2019, Mr. Dageville served as our Chief Technology Officer. Prior to that, he held various engineering roles at Oracle Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Snowflake Inc.",
       "ticker": "SNOW",
@@ -15,10 +20,5 @@
       "start_date": "2019-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

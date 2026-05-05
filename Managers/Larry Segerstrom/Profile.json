@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Segerstrom is a professional geologist with over 35 years of experience in the mining industry. He was formerly COO of Paramount Gold and Silver Corp. and has held senior positions with Freeport-McMoRan.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Oreterra Metals Corp.",
       "ticker": "OTMC",
@@ -15,13 +23,5 @@
       "start_date": "2021-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

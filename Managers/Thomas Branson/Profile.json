@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Mr. Branson is a professional geologist with over 25 years of experience in mineral exploration and development. He has held senior management positions with several exploration companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Snowline Gold Corp.",
       "ticker": "SGD",
@@ -15,10 +20,5 @@
       "start_date": "2023-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

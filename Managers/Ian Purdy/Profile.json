@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr Purdy is a highly-respected executive with over 30 years\u2019 experience within Australian and international resources companies. He has gained significant experience in the uranium industry through his roles as CFO of Paladin Energy and as a non-executive director of several uranium companies. He has also held senior executive roles with Quadrant Energy, Brookfield Asset Management, Wesfarmers, North Ltd and Mobil Oil Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Paladin Energy Ltd",
       "ticker": "PDN",
@@ -15,10 +20,5 @@
       "start_date": "2020-02-04",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

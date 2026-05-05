@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Heppenstall has over 30 years of experience in the oil and gas and resource sectors. He was the President and CEO of Lundin Petroleum AB from 2002 to 2015.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Lundin Gold Inc.",
       "ticker": "LUG",
@@ -15,13 +23,5 @@
       "start_date": "2015-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

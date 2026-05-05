@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Curyer is the founder, President, and CEO of NexGen Energy Ltd. He has over 20 years of experience in the resources sector.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "IsoEnergy Ltd.",
       "ticker": "ISO",
@@ -39,13 +47,5 @@
       "start_date": "2011-12-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

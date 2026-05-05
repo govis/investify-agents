@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former Minister of State for Trade and Export Promotion in the United Kingdom.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Oracle Corporation",
       "ticker": "ORCL",
@@ -15,13 +23,5 @@
       "start_date": "2019-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

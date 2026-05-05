@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Gary Nagle joined Glencore in 2000 and was appointed Chief Executive Officer in July 2021. He has held various senior roles across the group, including CEO of Glencore's coal assets in Australia and head of the ferroalloys marketing business in Switzerland. He holds commerce and accounting degrees from the University of the Witwatersrand and is a Chartered Accountant in South Africa.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Glencore plc",
       "ticker": "GLEN",
@@ -23,11 +29,5 @@
       "start_date": "2021-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

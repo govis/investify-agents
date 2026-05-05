@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Morfopoulos is a senior executive with over 30 years of experience in corporate management and finance. He has served as a director and officer for several public companies in the resource sector.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Onyx Gold Corp.",
       "ticker": "ONYX",
@@ -23,12 +30,5 @@
       "start_date": "2021-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

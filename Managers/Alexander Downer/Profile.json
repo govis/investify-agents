@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Alexander was Australia's longest-serving Minister for Foreign Affairs and later served as the Australian High Commissioner to the UK. He has extensive experience in international relations and global politics.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Yellow Cake plc",
-      "ticker": "YCA",
-      "exchange": "LSE",
-      "title_or_role": "Independent Non-Executive Director",
-      "start_date": "2018-06-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -24,5 +14,15 @@
     "Audit Committee",
     "Nomination Committee",
     "Remuneration Committee (Chair)"
+  ],
+  "companies": [
+    {
+      "name": "Yellow Cake plc",
+      "ticker": "YCA",
+      "exchange": "LSE",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2018-06-01",
+      "end_date": null
+    }
   ]
 }

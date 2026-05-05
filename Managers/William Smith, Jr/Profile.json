@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Chairman, President and CEO of Capital City Bank Group, Inc.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "The Southern Company",
-      "ticker": "SO",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2006-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -24,5 +14,15 @@
     "Audit (Chair)",
     "Finance",
     "Governance"
+  ],
+  "companies": [
+    {
+      "name": "The Southern Company",
+      "ticker": "SO",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2006-01-01",
+      "end_date": null
+    }
   ]
 }

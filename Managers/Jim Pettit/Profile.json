@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Jim Pettit is the Chairman of the Board and has over 30 years of experience in the resource industry specializing in finance, corporate governance, and management. He has served as a director and officer for several public companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Skyharbour Resources Ltd.",
       "ticker": "SYH",
@@ -15,10 +20,5 @@
       "start_date": "2013-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

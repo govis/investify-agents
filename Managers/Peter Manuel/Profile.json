@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Manuel is a Chartered Professional Accountant with over 25 years of experience in financial reporting, corporate finance, and strategic planning. He has served as CFO for several public companies in the resource sector.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Ucore Rare Metals Inc.",
       "ticker": "UCU",
@@ -15,10 +20,5 @@
       "start_date": "2006-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

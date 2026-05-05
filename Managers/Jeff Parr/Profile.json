@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Parr is a Chartered Professional Accountant with over 30 years of experience in the mining industry. He was previously the CFO of Centerra Gold Inc. and has served on the boards of several mining companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "Discovery Silver Corp.",
       "ticker": "DSV",
@@ -15,13 +23,5 @@
       "start_date": "2019-08-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee (Chair)",
-    "Governance and Nominating Committee"
   ]
 }

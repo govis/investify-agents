@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Coe is a Professional Geologist (P.Geo.) and a Mining Technologist with over 35 years of experience in the mining industry. He has been involved in all aspects of mineral exploration and development, from project generation to mine production. He has served as a director and officer of several public mining companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Sitka Gold Corp.",
       "ticker": "SIG",
@@ -15,11 +21,5 @@
       "start_date": "2015-01-13",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

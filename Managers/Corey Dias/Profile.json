@@ -5,8 +5,18 @@
   "age": 52,
   "age_year": 2024,
   "background": "Mr. Dias has over 20 years of experience in the capital markets and has held senior positions at several investment banks. He has also served as a director and officer of several public companies.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://dms.licdn.com/playlist/vid/v2/D5605AQGhW1DX0-HA_g/thumbnail-with-play-button-overlay-high/B56ZXStPUWGsDY-/0/1742996837254?e=2147483647&v=beta&t=ZZ0ocwQcOKzF_AEjZLUXGew5R1eyMfXE7lluizN76SE",
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/corey-dias-123156"
+    }
+  ],
+  "committees": [],
+  "companies": [
     {
       "name": "Anfield Energy Inc.",
       "ticker": "AEC",
@@ -16,9 +26,6 @@
       "end_date": null
     }
   ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  "picture_local": "Picture.jpg",
+  "enrichment_status": "success"
 }

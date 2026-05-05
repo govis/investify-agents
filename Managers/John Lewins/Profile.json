@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Lewins is a Mineral Engineer with over 35 years of experience in the mining industry, including senior management roles in Australia, Africa, and Asia. He has been involved in the development and operation of numerous gold and base metal mines.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "K92 Mining Inc.",
       "ticker": "KNT",
@@ -15,10 +20,5 @@
       "start_date": "2017-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

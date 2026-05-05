@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former executive at various technology firms and has served on the Viasat board since 1986.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nomination, Governance and Redevelopment Committee"
+  ],
+  "companies": [
     {
       "name": "Viasat, Inc.",
       "ticker": "VSAT",
@@ -15,13 +23,5 @@
       "start_date": "1986-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nomination, Governance and Redevelopment Committee"
   ]
 }

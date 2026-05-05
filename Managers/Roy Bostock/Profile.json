@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Chairman of the Partnership for New York City and former Chairman of Yahoo! Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance Committee",
+    "Finance and Risk Management Committee"
+  ],
+  "companies": [
     {
       "name": "Duke Energy Corporation",
       "ticker": "DUK",
@@ -15,13 +23,5 @@
       "start_date": "2012-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Corporate Governance Committee",
-    "Finance and Risk Management Committee"
   ]
 }

@@ -5,8 +5,21 @@
   "age": null,
   "age_year": null,
   "background": "Mr Mitchell has over 40 years of experience in the mining industry, including senior executive roles at Rio Tinto and Anglo American. He has extensive experience in project development, operations, and corporate strategy.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://auraenergy.com.au/wp-content/uploads/2023/06/file-cover-1.jpg",
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "url": "https://uk.linkedin.com/in/philip-mitchell-a155662",
+      "name": "LinkedIn"
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "companies": [
     {
       "name": "Aura Energy Limited",
       "ticker": "AEE",
@@ -16,12 +29,6 @@
       "end_date": null
     }
   ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee",
-    "Remuneration and Nomination Committee"
-  ]
+  "picture_local": null,
+  "enrichment_status": "success"
 }

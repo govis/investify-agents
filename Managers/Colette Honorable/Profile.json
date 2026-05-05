@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Partner at Reed Smith LLP. Former Commissioner of the Federal Energy Regulatory Commission (FERC).",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance",
+    "Operations, Environmental and Safety"
+  ],
+  "companies": [
     {
       "name": "The Southern Company",
       "ticker": "SO",
@@ -15,13 +23,5 @@
       "start_date": "2020-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Governance",
-    "Operations, Environmental and Safety"
   ]
 }

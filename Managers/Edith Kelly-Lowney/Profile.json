@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former Senior Vice President and Chief Financial Officer of Dial Corporation. Extensive experience in finance and accounting.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Personnel"
+  ],
+  "companies": [
     {
       "name": "Entergy Corporation",
       "ticker": "ETR",
@@ -15,13 +23,5 @@
       "start_date": "2015-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit",
-    "Personnel"
   ]
 }

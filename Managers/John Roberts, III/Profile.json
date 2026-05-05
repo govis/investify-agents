@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "John Roberts served as Chief Executive Officer from 2011 until July 2024, when he transitioned to Executive Chairman of the Board. He has been with J.B. Hunt since 1989.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "J.B. Hunt Transport Services, Inc.",
       "ticker": "JBHT",
@@ -15,10 +20,5 @@
       "start_date": "2024-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

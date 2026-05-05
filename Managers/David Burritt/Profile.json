@@ -6,7 +6,16 @@
   "age_year": 2024,
   "background": "President and CEO of United States Steel Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Strategic Affairs Committee"
+  ],
+  "companies": [
     {
       "name": "Lockheed Martin Corporation",
       "ticker": "LMT",
@@ -23,14 +32,5 @@
       "start_date": "2017-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Strategic Affairs Committee"
   ]
 }

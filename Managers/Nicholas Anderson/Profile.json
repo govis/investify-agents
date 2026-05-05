@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Nicholas is the Group Chief Executive of Spirax-Sarco Engineering plc. He brings significant international engineering and operational experience.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominations Committee"
+  ],
+  "companies": [
     {
       "name": "BAE Systems plc",
       "ticker": "BA",
@@ -15,13 +23,5 @@
       "start_date": "2020-11-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nominations Committee"
   ]
 }

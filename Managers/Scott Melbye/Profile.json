@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Melbye is a 40-year veteran of the nuclear energy industry having held leadership positions in major uranium mining companies. He is also the Executive Vice President of Uranium Energy Corp. and has served as President of the Uranium Producers of America.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Uranium Royalty Corp.",
       "ticker": "UROY",
@@ -23,10 +28,5 @@
       "start_date": "2019-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

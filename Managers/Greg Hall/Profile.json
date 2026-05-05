@@ -5,8 +5,19 @@
   "age": 61,
   "age_year": 2024,
   "background": "Greg Hall is a Mining Engineer with over 35 years' experience in the resources sector, specifically in uranium, copper, and gold. He has held senior executive roles at WMC Resources and Rio Tinto, including as Mine Manager of Olympic Dam and Ranger Uranium Mine. He was the founding CEO of Toro Energy Limited and has served as a director of the Australian Uranium Association.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://media.licdn.com/dms/image/v2/D5603AQGT0OGdvAJg2Q/profile-displayphoto-shrink_200_200/B56ZW95I5SHoAc-/0/1742647628890?e=2147483647&amp;v=beta&amp;t=V5YaZlBI7Cm928HfTawZamuwfQ0k4JX1Rr-wuNv7ItQ",
+  "investment_theses": [
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/greg-hall-1072a7119"
+    }
+  ],
+  "committees": [],
+  "companies": [
     {
       "name": "Alligator Energy Limited",
       "ticker": "AGE",
@@ -24,10 +35,6 @@
       "end_date": null
     }
   ],
-  "investment_theses": [
-    "Electrification",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  "picture_local": "Picture.jpg",
+  "enrichment_status": "success"
 }

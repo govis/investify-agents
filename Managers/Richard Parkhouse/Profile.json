@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Parkhouse has over 30 years of experience in the financial services and resource sectors. He has held various senior management roles and has extensive experience in corporate finance and investor relations.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Forsys Metals Corp.",
       "ticker": "FSY",
@@ -15,10 +20,5 @@
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

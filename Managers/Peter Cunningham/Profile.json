@@ -6,7 +6,12 @@
   "age_year": 2023,
   "background": "Peter was appointed Chief Financial Officer in 2021. He has been with Rio Tinto for 30 years in various senior financial and commercial roles across the Group.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Rio Tinto Group",
       "ticker": "RIO",
@@ -15,10 +20,5 @@
       "start_date": "2021-06-17",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

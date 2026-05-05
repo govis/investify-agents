@@ -6,7 +6,15 @@
   "age_year": null,
   "background": "Mr. Harrison has over 45 years of experience in the financial services, mining, and energy sectors. He was previously a Managing Director at Woodside Energy and has held senior roles at various investment banks.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Management Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "companies": [
     {
       "name": "Peninsula Energy Limited",
       "ticker": "PEN",
@@ -15,13 +23,5 @@
       "start_date": "2014-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Management Committee",
-    "Remuneration and Nomination Committee"
   ]
 }

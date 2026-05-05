@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Ms. Jaramillo has served as Executive Vice President and Chief Financial Officer since August 2023. She joined Jacobs in 2022 as Executive Vice President, Strategy and Corporate Development. Prior to Jacobs, she spent over 20 years at Schlumberger in various senior financial and operational leadership roles.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Jacobs Solutions Inc.",
       "ticker": "J",
@@ -15,11 +21,5 @@
       "start_date": "2023-08-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

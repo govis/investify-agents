@@ -6,7 +6,16 @@
   "age_year": 2024,
   "background": "Mr. Gregson has over 30 years of experience in the investment management industry, specializing in the mining and energy sectors. He was previously a portfolio manager at J.P. Morgan Asset Management.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Uranium Royalty Corp.",
       "ticker": "UROY",
@@ -23,14 +32,5 @@
       "start_date": "2019-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee",
-    "Nominating and Corporate Governance Committee"
   ]
 }

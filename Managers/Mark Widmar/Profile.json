@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Widmar has served as our Chief Executive Officer since July 2016 and as a member of our board of directors since joining the company in 2011. He previously served as our Chief Financial Officer from 2011 to 2016.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "First Solar, Inc.",
       "ticker": "FSLR",
@@ -15,11 +21,5 @@
       "start_date": "2016-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

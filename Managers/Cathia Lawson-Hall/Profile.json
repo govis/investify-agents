@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Cathia Lawson-Hall has over 25 years of experience in the financial sector, specifically in investment banking and corporate finance in Africa.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "ESG Committee"
+  ],
+  "companies": [
     {
       "name": "Endeavour Mining plc",
       "ticker": "EDV",
@@ -23,13 +31,5 @@
       "start_date": "2022-09-29",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "ESG Committee"
   ]
 }

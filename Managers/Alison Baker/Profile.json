@@ -6,7 +6,19 @@
   "age_year": 2024,
   "background": "Ms. Baker has over 25 years of experience in the provision of audit, capital markets and advisory services. She was previously a partner at PwC and EY.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Audit Committee (Chair)",
+    "ESG Committee",
+    "Human Resources and Compensation Committee",
+    "Technical, Health & Safety Committee"
+  ],
+  "companies": [
     {
       "name": "Capstone Copper Corp.",
       "ticker": "CS",
@@ -31,17 +43,5 @@
       "start_date": "2020-03-23",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Audit Committee (Chair)",
-    "ESG Committee",
-    "Human Resources and Compensation Committee",
-    "Technical, Health & Safety Committee"
   ]
 }

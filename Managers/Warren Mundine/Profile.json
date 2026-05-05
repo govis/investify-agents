@@ -5,8 +5,24 @@
   "age": null,
   "age_year": null,
   "background": "Mr Mundine is a prominent Australian businessman and political figure with extensive experience in the mining and resources sector, particularly in relation to Indigenous engagement and corporate governance.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://auraenergy.com.au/wp-content/uploads/2024/10/WMundine_web.gif",
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "url": "https://au.linkedin.com/in/nyunggai",
+      "name": "LinkedIn"
+    },
+    {
+      "url": "https://x.com/nyunggai",
+      "name": "X (Twitter)"
+    }
+  ],
+  "committees": [
+    "Remuneration and Nomination Committee"
+  ],
+  "companies": [
     {
       "name": "Aura Energy Limited",
       "ticker": "AEE",
@@ -16,11 +32,6 @@
       "end_date": null
     }
   ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Remuneration and Nomination Committee"
-  ]
+  "picture_local": null,
+  "enrichment_status": "success"
 }

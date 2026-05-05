@@ -6,7 +6,17 @@
   "age_year": 2024,
   "background": "Mr. Gillin is a corporate director and has served on several boards in the mining and financial sectors. He was previously Chairman and CEO of Tahera Diamond Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Governance and Nominating Committee",
+    "Human Resources Committee"
+  ],
+  "companies": [
     {
       "name": "Dundee Precious Metals Inc.",
       "ticker": "DPM",
@@ -23,15 +33,5 @@
       "start_date": "2004-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee",
-    "Governance and Nominating Committee",
-    "Human Resources Committee"
   ]
 }

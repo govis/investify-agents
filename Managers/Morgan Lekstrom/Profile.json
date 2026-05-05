@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Mr. Lekstrom has 17 years of experience in the mining industry, including executive roles at Silver Hammer Mining Corp. and Kuya Silver Corp. He has a background in project management and operations, having worked with Freeport McMoran and Rio Tinto.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "NexGold Mining Corp.",
       "ticker": "NEXG",
@@ -15,10 +20,5 @@
       "start_date": "2023-11-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

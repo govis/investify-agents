@@ -6,7 +6,15 @@
   "age_year": 2023,
   "background": "Ms. Mills previously served as Corporate Vice President of Operations for Northrop Grumman Corporation. She has significant experience in large-scale systems integration and operations.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Mercury Systems, Inc.",
       "ticker": "MRCY",
@@ -15,13 +23,5 @@
       "start_date": "2018-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Nominating and Governance Committee"
   ]
 }

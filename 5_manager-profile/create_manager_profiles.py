@@ -67,14 +67,14 @@ def create_manager_profiles():
             "age_year": None,
             "background": None,
             "picture_url": None,
-            "commpanies": [],
+            "companies": [],
             "investment_theses": person_summary.get("investment_theses", []),
             "socials": [],
             "committees": set()
         }
         
         # Populate company specific details and biographical info
-        for comp_brief in person_summary.get("commpanies", []):
+        for comp_brief in person_summary.get("companies", []):
             ticker = comp_brief["ticker"]
             exchange = comp_brief["exchange"]
             
@@ -109,7 +109,7 @@ def create_manager_profiles():
                         company_entry["end_date"] = t.get("end_date")
                         break
             
-            profile["commpanies"].append(company_entry)
+            profile["companies"].append(company_entry)
             
         profile["committees"] = sorted(list(profile["committees"]))
         

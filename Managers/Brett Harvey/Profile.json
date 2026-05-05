@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Brett Harvey is the Lead Independent Director. He was formerly the Chairman and CEO of CONSOL Energy Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit & Risk Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Barrick Gold Corporation",
       "ticker": "GOLD",
@@ -15,13 +23,5 @@
       "start_date": "2005-12-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit & Risk Committee",
-    "Compensation Committee"
   ]
 }

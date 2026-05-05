@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Chairman and CEO of Medtronic plc. Director since 2023.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation",
+    "Governance & Nominating"
+  ],
+  "companies": [
     {
       "name": "NextEra Energy, Inc.",
       "ticker": "NEE",
@@ -15,13 +23,5 @@
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation",
-    "Governance & Nominating"
   ]
 }

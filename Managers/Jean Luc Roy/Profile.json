@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Roy has over 30 years of experience in the mining industry, primarily in Africa.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "CanAlaska Uranium Ltd.",
       "ticker": "CVV",
@@ -23,13 +31,5 @@
       "start_date": "2007-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

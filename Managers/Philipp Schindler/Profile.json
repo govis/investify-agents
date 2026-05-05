@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Philipp Schindler has served as Senior Vice President, Chief Business Officer of Google since August 2015. He has held various leadership positions at Google since joining in 2005, including overseeing global sales and operations.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Alphabet Inc.",
       "ticker": "GOOGL",
@@ -15,11 +21,5 @@
       "start_date": "2015-08-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

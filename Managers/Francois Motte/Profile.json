@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Motte has over 15 years of experience in financial management and corporate finance, previously serving in senior roles at Hochschild Mining.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Aclara Resources Inc.",
       "ticker": "ARA",
@@ -15,10 +20,5 @@
       "start_date": "2021-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

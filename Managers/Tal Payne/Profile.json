@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Ms. Payne has served as a director since 2015. She is the Chief Financial and Operations Officer of Check Point Software Technologies Ltd.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "SolarEdge Technologies, Inc.",
       "ticker": "SEDG",
@@ -15,12 +22,5 @@
       "start_date": "2015-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

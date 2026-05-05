@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Macdonald is a professional engineer with over 25 years of experience in mine development and operations. He is currently the President and CEO of Maritime Resources Corp.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee (Chair)",
+    "Technical Committee"
+  ],
+  "companies": [
     {
       "name": "Electra Battery Materials Corporation",
       "ticker": "ELBM",
@@ -15,13 +23,5 @@
       "start_date": "2018-11-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee (Chair)",
-    "Technical Committee"
   ]
 }

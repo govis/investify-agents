@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Jason Child is our Chief Financial Officer and has served on our board since November 2022.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Arm Holdings plc",
       "ticker": "ARM",
@@ -15,10 +20,5 @@
       "start_date": "2022-11-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

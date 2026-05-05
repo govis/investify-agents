@@ -6,7 +6,18 @@
   "age_year": 2024,
   "background": "Former Vice Chairman of Honeywell International Inc. Current Chairman of Resideo Technologies, Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Finance Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "L3Harris Technologies, Inc.",
       "ticker": "LHX",
@@ -23,16 +34,5 @@
       "start_date": "2020-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense",
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Finance Committee",
-    "Nominating and Corporate Governance Committee"
   ]
 }

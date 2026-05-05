@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Ms. Mayer has been a director since 2019. She was President and CEO of Ixia.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Lam Research Corporation",
-      "ticker": "LRCX",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2019-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "AI",
     "Reshoring"
@@ -24,5 +14,15 @@
   "committees": [
     "Compensation and Human Resources Committee",
     "Nominating and Governance Committee"
+  ],
+  "companies": [
+    {
+      "name": "Lam Research Corporation",
+      "ticker": "LRCX",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "start_date": "2019-01-01",
+      "end_date": null
+    }
   ]
 }

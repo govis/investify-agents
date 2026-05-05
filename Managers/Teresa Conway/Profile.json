@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Teresa Conway is a former executive with over 25 years of experience in the energy sector, including as President and CEO of Powerex Corp.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "Eldorado Gold Corporation",
       "ticker": "EGO",
@@ -15,13 +23,5 @@
       "start_date": "2018-06-21",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Corporate Governance and Nominating Committee"
   ]
 }

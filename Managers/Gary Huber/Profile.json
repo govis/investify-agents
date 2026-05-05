@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Dr. Huber has over 40 years of experience in the natural resources industry and has served on several public company boards.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Ur-Energy Inc.",
-      "ticker": "URG",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2007-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -24,5 +14,15 @@
     "Audit Committee",
     "Compensation Committee",
     "Governance and Nominating Committee"
+  ],
+  "companies": [
+    {
+      "name": "Ur-Energy Inc.",
+      "ticker": "URG",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2007-01-01",
+      "end_date": null
+    }
   ]
 }

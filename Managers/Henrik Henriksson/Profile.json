@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "CEO of H2 Green Steel. Former CEO of Scania.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Remuneration Committee"
+  ],
+  "companies": [
     {
       "name": "Saab AB",
       "ticker": "SAAB-B",
@@ -23,13 +31,5 @@
       "start_date": "2021-04-13",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense",
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Remuneration Committee"
   ]
 }

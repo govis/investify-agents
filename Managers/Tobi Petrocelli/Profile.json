@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Director of Environmental, Social, and Governance (ESG) Strategy at Mitsubishi UFJ Financial Group. Expert in corporate sustainability and governance.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Terran Orbital Corporation",
       "ticker": "LLAP",
@@ -15,13 +23,5 @@
       "start_date": "2022-03-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nominating and Corporate Governance Committee"
   ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Pettersson has served as a non-executive director since 2021. He was previously the CEO of Thule Group and has held various board positions at companies like ZetaDisplay AB and Purem GmbH.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Wallbox N.V.",
       "ticker": "WBX",
@@ -15,13 +23,5 @@
       "start_date": "2021-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nominating and Corporate Governance Committee"
   ]
 }

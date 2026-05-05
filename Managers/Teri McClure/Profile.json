@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Former Chief Human Resources Officer and Senior Vice President of Labor of United Parcel Service, Inc.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Fluor Corporation",
-      "ticker": "FLR",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Nuclear",
     "Reshoring"
@@ -24,5 +14,15 @@
   "committees": [
     "Governance Committee",
     "Organization and Compensation Committee"
+  ],
+  "companies": [
+    {
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2020-01-01",
+      "end_date": null
+    }
   ]
 }

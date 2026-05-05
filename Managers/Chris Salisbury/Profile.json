@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Salisbury is a highly experienced mining executive with over 30 years' experience across senior operational and strategic leadership roles. He was previously Chief Executive of Rio Tinto Iron Ore.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Remuneration Committee"
+  ],
+  "companies": [
     {
       "name": "Deep Yellow Limited",
       "ticker": "DYL",
@@ -15,13 +23,5 @@
       "start_date": "2021-05-12",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Remuneration Committee"
   ]
 }

@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Timothy Garvin has over 30 years of experience in the mining industry, specializing in legal, commercial, and corporate secretarial matters. He joined Eldorado in 2011.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Eldorado Gold Corporation",
       "ticker": "EGO",
@@ -15,10 +20,5 @@
       "start_date": "2011-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

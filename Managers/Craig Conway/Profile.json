@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Former President and CEO of PeopleSoft, Inc. He has served as a Director since 2005.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Salesforce, Inc.",
       "ticker": "CRM",
@@ -15,12 +22,5 @@
       "start_date": "2005-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee"
   ]
 }

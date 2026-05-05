@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Walters has over 30 years of experience in the natural resources sector. She is currently the Chair of the Board and has held various executive roles in investment and mining companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Platinum Group Metals Ltd.",
       "ticker": "PTM",
@@ -15,13 +23,5 @@
       "start_date": "2014-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

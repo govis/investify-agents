@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former chairman and CEO of Utilities, Inc. Director since 2002.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Nuclear"
+  ],
+  "companies": [
     {
       "name": "NextEra Energy, Inc.",
       "ticker": "NEE",
@@ -15,13 +23,5 @@
       "start_date": "2002-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit",
-    "Nuclear"
   ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Gonzales was formerly the COO of Buenaventura and Barrick Gold. He has over 35 years of experience in the mining industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Environmental, Health, Safety and Sustainability Committee (Chair)",
+    "Technical Committee"
+  ],
+  "companies": [
     {
       "name": "Hudbay Minerals Inc.",
       "ticker": "HBM",
@@ -15,13 +23,5 @@
       "start_date": "2013-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Environmental, Health, Safety and Sustainability Committee (Chair)",
-    "Technical Committee"
   ]
 }

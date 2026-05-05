@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Ms. Hassett has been our Senior Vice President and Chief Human Resources Officer since May 2020. Prior to joining Lam, she spent 25 years at Hewlett Packard Enterprise in various HR leadership roles.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Lam Research Corporation",
       "ticker": "LRCX",
@@ -15,11 +21,5 @@
       "start_date": "2020-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

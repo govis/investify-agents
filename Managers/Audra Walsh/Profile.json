@@ -6,7 +6,18 @@
   "age_year": 2024,
   "background": "Ms. Walsh is a professional engineer with over 25 years of experience in the mining industry. She has held executive roles at Minas de Aguas Te\u00f1idas and Newmont.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Health, Safety, Environmental and Sustainability Committee (Chair)",
+    "Technical Committee"
+  ],
+  "companies": [
     {
       "name": "Calibre Mining Corp.",
       "ticker": "CXB",
@@ -23,16 +34,5 @@
       "start_date": "2022-04-21",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee",
-    "Health, Safety, Environmental and Sustainability Committee (Chair)",
-    "Technical Committee"
   ]
 }

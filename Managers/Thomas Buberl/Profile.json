@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Thomas Buberl has been the Chief Executive Officer and a director of AXA S.A. since 2016.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "International Business Machines Corporation",
       "ticker": "IBM",
@@ -15,12 +22,5 @@
       "start_date": "2020-04-28",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

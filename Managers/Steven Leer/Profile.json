@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former Chairman and CEO of Arch Coal, Inc. He has served on our board since 2013.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Responsibility Committee"
+  ],
+  "companies": [
     {
       "name": "Parsons Corporation",
       "ticker": "PSN",
@@ -15,13 +23,5 @@
       "start_date": "2013",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Corporate Governance and Responsibility Committee"
   ]
 }

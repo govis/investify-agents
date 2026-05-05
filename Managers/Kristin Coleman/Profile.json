@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Ms. Coleman has served as Executive Vice President, General Counsel and Corporate Secretary since November 2022. Prior to joining Albemarle, she served as Executive Vice President, General Counsel and Corporate Secretary of US Foods Holding Corp.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Albemarle Corporation",
       "ticker": "ALB",
@@ -15,11 +21,5 @@
       "start_date": "2022-11-28",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

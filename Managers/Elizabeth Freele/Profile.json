@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Ms. Freele is the Vice President, Sustainability and Chief ESG Officer. She is a sustainability professional with over 15 years of experience in the natural resources sector, specializing in ESG strategy, risk management, and stakeholder engagement.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Denison Mines Corp.",
       "ticker": "DNN",
@@ -23,11 +29,5 @@
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

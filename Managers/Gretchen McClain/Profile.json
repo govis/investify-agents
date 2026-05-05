@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. McClain is an Operating Executive at The Carlyle Group and former CEO of Xylem Inc. She has extensive experience in technology and engineering.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Booz Allen Hamilton Holding Corporation",
       "ticker": "BAH",
@@ -15,13 +23,5 @@
       "start_date": "2014-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Ms. Johnson is a professional geologist with over 12 years of experience in the mining industry. She was previously VP Corporate Development at Silvercorp Metals and has held roles at SSR Mining and Calibre Mining.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Faraday Copper Corp.",
       "ticker": "FDY",
@@ -15,10 +20,5 @@
       "start_date": "2022-08-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

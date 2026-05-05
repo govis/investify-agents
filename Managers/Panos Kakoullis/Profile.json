@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Panos joined the Board in May 2021. He was previously a partner at Deloitte where he spent over 30 years, including as Managing Director of the Global Audit & Assurance business.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Rolls-Royce Holdings plc",
-      "ticker": "RR",
-      "exchange": "LSE",
-      "title_or_role": "Independent Non-Executive Director",
-      "start_date": "2021-05-03",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Defense",
     "Electrification"
@@ -24,5 +14,15 @@
   "committees": [
     "Audit Committee (Chair)",
     "Nominations & Governance Committee"
+  ],
+  "companies": [
+    {
+      "name": "Rolls-Royce Holdings plc",
+      "ticker": "RR",
+      "exchange": "LSE",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2021-05-03",
+      "end_date": null
+    }
   ]
 }

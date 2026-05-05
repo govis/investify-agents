@@ -6,7 +6,18 @@
   "age_year": 2024,
   "background": "Former U.S. Ambassador to Russia, China, and Singapore. Director since 2020.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Management Compensation Committee",
+    "Public Policy and Sustainability Committee",
+    "Sustainability, Innovation and Policy Committee"
+  ],
+  "companies": [
     {
       "name": "Chevron Corporation",
       "ticker": "CVX",
@@ -23,16 +34,5 @@
       "start_date": "2020-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Management Compensation Committee",
-    "Public Policy and Sustainability Committee",
-    "Sustainability, Innovation and Policy Committee"
   ]
 }

@@ -6,7 +6,17 @@
   "age_year": 2024,
   "background": "Dr. Catharine Farrow is a professional geoscientist with over 25 years of experience in the mining industry. She was previously the CEO of TMAC Resources Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "ESG Committee",
+    "Sustainability Committee"
+  ],
+  "companies": [
     {
       "name": "Eldorado Gold Corporation",
       "ticker": "EGO",
@@ -23,15 +33,5 @@
       "start_date": "2015-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee",
-    "ESG Committee",
-    "Sustainability Committee"
   ]
 }

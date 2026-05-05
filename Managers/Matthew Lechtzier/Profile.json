@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Mr. Lechtzier is a senior advisor with Ivanhoe Capital Corporation and has over 30 years of experience in corporate finance and international business development. He has served on the boards of several public companies.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "GoviEx Uranium Inc.",
-      "ticker": "GXU",
-      "exchange": "TSXV",
-      "title_or_role": "Independent Director",
-      "start_date": "2011-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -24,5 +14,15 @@
     "Audit Committee",
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
+    {
+      "name": "GoviEx Uranium Inc.",
+      "ticker": "GXU",
+      "exchange": "TSXV",
+      "title_or_role": "Independent Director",
+      "start_date": "2011-01-01",
+      "end_date": null
+    }
   ]
 }

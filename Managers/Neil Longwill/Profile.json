@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Neil Longwill is an Independent Non-Executive Director. He has over 30 years of experience in the international oil and gas industry, including senior roles at BP. He brings expertise in operations, safety, and project management.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Health, Safety, Environment and Sustainability Committee"
+  ],
+  "companies": [
     {
       "name": "National Atomic Company Kazatomprom JSC",
       "ticker": "KAP",
@@ -15,13 +23,5 @@
       "start_date": "2018-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Health, Safety, Environment and Sustainability Committee"
   ]
 }

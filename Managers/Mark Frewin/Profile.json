@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Frewin is a lawyer with over 35 years of experience in the legal and mining sectors. He has held senior executive positions and directorships in several resource companies. He was previously a partner at McCarthy T\u00e9trault LLP.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Forsys Metals Corp.",
       "ticker": "FSY",
@@ -15,10 +20,5 @@
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

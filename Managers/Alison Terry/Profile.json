@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Alison Terry is an experienced corporate executive with a background in sustainability, corporate affairs, and legal. She previously held senior executive roles at Fortescue Metals Group.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "companies": [
     {
       "name": "Bannerman Energy Ltd",
       "ticker": "BMN",
@@ -15,13 +23,5 @@
       "start_date": "2022-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Remuneration and Nomination Committee"
   ]
 }

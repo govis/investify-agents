@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Burnett is a geologist with over 30 years of experience in the mining industry, including senior roles at Newmont and Sipa Resources.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "companies": [
     {
       "name": "Regis Resources Limited",
       "ticker": "RRL",
@@ -15,13 +23,5 @@
       "start_date": "2022-03-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Remuneration and Nomination Committee"
   ]
 }

@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Arturo Perper has served as our Chief Executive Officer since July 2023. Prior to joining Aterian, Mr. Perper was the founder and CEO of various consumer product companies and has extensive experience in e-commerce and supply chain management.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Aterian, Inc.",
       "ticker": "ATRL",
@@ -15,11 +21,5 @@
       "start_date": "2023-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Gorley has over 40 years of experience in the financial services industry. He was previously Vice Chairman of Ernst & Young LLP (Canada).",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "Alamos Gold Inc.",
       "ticker": "AGI",
@@ -15,13 +23,5 @@
       "start_date": "2015-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Corporate Governance and Nominating Committee"
   ]
 }

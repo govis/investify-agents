@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Goranson is the Chief Executive Officer and a Director of the Company. He has over 30 years of experience in the uranium industry, including roles at Energy Fuels Inc. and Cameco Resources.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "enCore Energy Corp.",
       "ticker": "EU",
@@ -23,10 +28,5 @@
       "start_date": "2020-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

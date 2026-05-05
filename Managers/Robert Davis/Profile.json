@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Chairman, Chief Executive Officer and President of Merck & Co., Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and People Development Committee",
+    "Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Duke Energy Corporation",
       "ticker": "DUK",
@@ -15,13 +23,5 @@
       "start_date": "2018-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation and People Development Committee",
-    "Corporate Governance Committee"
   ]
 }

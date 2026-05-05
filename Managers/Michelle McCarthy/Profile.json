@@ -6,7 +6,12 @@
   "age_year": 2023,
   "background": "Ms. McCarthy has served as our Senior Vice President and Chief Accounting Officer since 2018. She previously served as Vice President and Corporate Controller of Analogic Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Mercury Systems, Inc.",
       "ticker": "MRCY",
@@ -15,10 +20,5 @@
       "start_date": "2018-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

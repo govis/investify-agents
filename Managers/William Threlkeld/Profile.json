@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Threlkeld has over 40 years of experience in mineral exploration. He has been with Seabridge since 2000 and is responsible for the design and execution of the company's exploration programs.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Seabridge Gold Inc.",
       "ticker": "SA",
@@ -15,10 +20,5 @@
       "start_date": "2000-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

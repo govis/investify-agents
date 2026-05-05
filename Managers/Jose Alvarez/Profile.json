@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Jose B. Alvarez is a member of the faculty at Harvard Business School and former President and CEO of Stop & Shop/Giant-Landover.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Strategy Committee"
+  ],
+  "companies": [
     {
       "name": "United Rentals, Inc.",
       "ticker": "URI",
@@ -15,13 +23,5 @@
       "start_date": "2009-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Strategy Committee"
   ]
 }

@@ -6,7 +6,12 @@
   "age_year": 2023,
   "background": "Mr. Aslett served as our President and CEO from 2007 until 2023. He has a background in technology and defense, previously serving in leadership roles at Enterasys Networks and Marconi plc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Mercury Systems, Inc.",
       "ticker": "MRCY",
@@ -15,10 +20,5 @@
       "start_date": null,
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Mr. Bittar has over 20 years' experience in public and private markets, mergers and acquisitions and capital markets in the resources, technology and energy sectors. He has extensive experience in the uranium sector, having been a director of several uranium companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Lotus Resources Limited",
       "ticker": "LOT",
@@ -15,10 +20,5 @@
       "start_date": "2024-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

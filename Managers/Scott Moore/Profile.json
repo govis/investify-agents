@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "CEO of Euro Manganese Inc. and has extensive experience in the mining and metals industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Health, Safety, Environmental and Plant Operations Committee"
+  ],
+  "companies": [
     {
       "name": "Li-Cycle Holdings Corp.",
       "ticker": "LICY",
@@ -15,13 +23,5 @@
       "start_date": "2021-08-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Health, Safety, Environmental and Plant Operations Committee"
   ]
 }

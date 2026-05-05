@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. McKnight is a professional engineer with over 35 years of experience in the mining industry, specializing in project evaluation, financial analysis, and corporate development.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Orion Copper Mining Corp.",
       "ticker": "ORION",
@@ -15,10 +20,5 @@
       "start_date": "2022-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

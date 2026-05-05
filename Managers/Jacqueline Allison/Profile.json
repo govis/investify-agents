@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Dr. Allison has over 20 years of experience in the mining industry as a research analyst and investment manager.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Laramide Resources Ltd.",
       "ticker": "LAM",
@@ -15,13 +23,5 @@
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

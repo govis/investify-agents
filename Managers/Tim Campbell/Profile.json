@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Campbell has over 25 years of experience in the mining sector, focusing on corporate development, regulatory compliance, and investor relations.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Global Atomic Corporation",
       "ticker": "GLO",
@@ -15,10 +20,5 @@
       "start_date": "2017-12-22",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

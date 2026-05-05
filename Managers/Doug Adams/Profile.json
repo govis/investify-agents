@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Adams has over 25 years of experience in the investment industry, specializing in the resource sector. He has held senior positions at several Canadian investment dealers.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Atha Energy Corp.",
       "ticker": "SASK",
@@ -15,13 +23,5 @@
       "start_date": "2023-01-12",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

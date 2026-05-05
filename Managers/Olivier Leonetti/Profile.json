@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Olivier Leonetti is Executive Vice President and Chief Financial Officer of Eaton. He joined Eaton in 2024. Prior to joining Eaton, he served as Executive Vice President and Chief Financial Officer of Johnson Controls International plc from 2020 to 2024. He also served as CFO of Zebra Technologies and Western Digital.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Eaton Corporation plc",
       "ticker": "ETN",
@@ -15,11 +21,5 @@
       "start_date": "2024-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

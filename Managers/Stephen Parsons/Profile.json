@@ -6,7 +6,14 @@
   "age_year": null,
   "background": "Mr Parsons is an experienced geologist and mining executive. He was previously the Managing Director of Gryphon Minerals.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Health, Safety and Sustainability Committee"
+  ],
+  "companies": [
     {
       "name": "Bellevue Gold Limited",
       "ticker": "BGL",
@@ -15,12 +22,5 @@
       "start_date": "2023-03-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Health, Safety and Sustainability Committee"
   ]
 }

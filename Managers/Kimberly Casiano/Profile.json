@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Former President and COO of Casiano Communications, Inc.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Ford Motor Company",
-      "ticker": "F",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2003-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -24,5 +14,15 @@
   "committees": [
     "Audit Committee",
     "Sustainability, Innovation and Policy Committee"
+  ],
+  "companies": [
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2003-01-01",
+      "end_date": null
+    }
   ]
 }

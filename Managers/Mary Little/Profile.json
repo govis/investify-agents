@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Geologist with over 30 years of experience in the mining industry, including positions with WMC, Newmont, and Cyprus Amax.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "Sandstorm Gold Ltd.",
       "ticker": "SAND",
@@ -15,13 +23,5 @@
       "start_date": "2017-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Corporate Governance and Nominating Committee"
   ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Dodds has over 25 years of experience in operational and financial roles across various industries including infrastructure and mining services.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and People Committee"
+  ],
+  "companies": [
     {
       "name": "OceanaGold Corporation",
       "ticker": "OGC",
@@ -15,13 +23,5 @@
       "start_date": "2022-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee",
-    "Remuneration and People Committee"
   ]
 }

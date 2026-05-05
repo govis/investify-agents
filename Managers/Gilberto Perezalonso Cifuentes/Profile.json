@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Director since 2002. Former CEO of Aeromexico and former CFO of Grupo Televisa.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Southern Copper Corporation",
-      "ticker": "SCCO",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2002-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -24,5 +14,15 @@
     "Audit Committee",
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
+    {
+      "name": "Southern Copper Corporation",
+      "ticker": "SCCO",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2002-01-01",
+      "end_date": null
+    }
   ]
 }

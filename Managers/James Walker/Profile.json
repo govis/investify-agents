@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Walker is the Chief Executive Officer and a Director of NANO Nuclear Energy Inc. He has over 15 years of experience in the nuclear industry, including roles in engineering, project management, and executive leadership. He previously served as the CEO of a private nuclear technology company.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "NANO Nuclear Energy Inc.",
       "ticker": "NNE",
@@ -15,11 +21,5 @@
       "start_date": "2022-04-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

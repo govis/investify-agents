@@ -6,7 +6,17 @@
   "age_year": 2024,
   "background": "Mr. Pelizza has over 40 years of experience in the uranium industry, specifically in ISR uranium production and licensing.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee",
+    "Technical Committee"
+  ],
+  "companies": [
     {
       "name": "enCore Energy Corp.",
       "ticker": "EU",
@@ -23,15 +33,5 @@
       "start_date": "2017-02-15",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee",
-    "Corporate Governance and Nominating Committee",
-    "Technical Committee"
   ]
 }

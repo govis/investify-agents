@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Palmer has served as President and Chief Executive Officer since October 2019 and as President since June 2019. Previously, he served as First Vice President and Chief Operating Officer from 2016 to 2019 and Senior Vice President, Asia Pacific from 2015 to 2016.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Newmont Corporation",
       "ticker": "NEM",
@@ -15,10 +20,5 @@
       "start_date": "2019-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

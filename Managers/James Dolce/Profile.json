@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Dolce is the CEO of Lookout, Inc. and has extensive experience in the networking industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Juniper Networks, Inc.",
       "ticker": "JNPR",
@@ -15,12 +22,5 @@
       "start_date": "2015-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

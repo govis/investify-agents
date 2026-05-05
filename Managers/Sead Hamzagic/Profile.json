@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Hamzagic is a Chartered Professional Accountant with over 30 years of experience in public practice and financial management for public companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "GoldHaven Resources Corp.",
       "ticker": "GOH",
@@ -23,11 +29,5 @@
       "start_date": "2020-02-12",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

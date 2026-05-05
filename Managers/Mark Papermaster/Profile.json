@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Papermaster is AMD\u2019s Executive Vice President and Chief Technology Officer. He joined AMD in 2011. Previously, he was Vice President of the Silicon Engineering Group at Cisco Systems, Inc. and Senior Vice President of Devices Hardware Engineering at Apple Inc. He also spent 26 years at IBM.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Advanced Micro Devices, Inc.",
       "ticker": "AMD",
@@ -15,10 +20,5 @@
       "start_date": "2011-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

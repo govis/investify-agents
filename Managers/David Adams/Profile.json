@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Former Chairman and CEO of Curtiss-Wright Corporation. He retired as CEO in 2021 and as Chairman in 2022.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Curtiss-Wright Corporation",
       "ticker": "CW",
@@ -15,11 +21,5 @@
       "start_date": "2013-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

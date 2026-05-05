@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Mr. Macdonald is a professional geologist and the CEO of Fireweed Metals Corp. He has extensive experience in capital markets and mineral exploration.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "NexGold Mining Corp.",
       "ticker": "NEXG",
@@ -15,10 +20,5 @@
       "start_date": "2024-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

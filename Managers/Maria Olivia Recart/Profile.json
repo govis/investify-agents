@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Recart is an economist with significant experience in the mining sector and public policy, having served as Vice President at BHP and Undersecretary of Finance in Chile.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee",
+    "Sustainability Committee"
+  ],
+  "companies": [
     {
       "name": "Lundin Mining Corporation",
       "ticker": "LUN",
@@ -15,13 +23,5 @@
       "start_date": "2023-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Corporate Governance and Nominating Committee",
-    "Sustainability Committee"
   ]
 }

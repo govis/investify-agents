@@ -39,7 +39,8 @@ Each manager has a subfolder in `Managers/` named "First Last Name". Inside, a `
   "age_year": 2024,
   "background": "...",
   "picture_url": "https://...",
-  "commpanies": [
+  "picture_local": "Picture.jpg",
+  "companies": [
     {
       "name": "Company Name",
       "ticker": "TICKER",

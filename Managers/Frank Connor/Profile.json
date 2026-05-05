@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Connor has served as Executive Vice President and Chief Financial Officer since August 2009. Before joining Textron, he was Managing Director and Head of Consolidated Corporate Finance at Goldman, Sachs & Co.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Textron Inc.",
       "ticker": "TXT",
@@ -15,10 +20,5 @@
       "start_date": "2009-08-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Gundermann is the President and CEO of Astronics Corporation. He has served as a director since 2014.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Executive Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Moog Inc.",
       "ticker": "MOG",
@@ -15,13 +23,5 @@
       "start_date": "2014",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Executive Compensation Committee"
   ]
 }

@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Richings has been a director of Vista Gold Corp. since 1995. He served as Executive Chairman from 2012 to 2017 and as President and CEO from 2004 to 2012. He has extensive experience in the mining industry, having held senior positions with several mining companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Vista Gold Corp.",
       "ticker": "VGZ",
@@ -15,11 +21,5 @@
       "start_date": "2017-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

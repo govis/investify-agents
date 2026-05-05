@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Vaibhav Taneja has served as our Chief Financial Officer since August 2023 and as our Chief Accounting Officer since March 2019. He previously served in various finance and accounting roles at Tesla and SolarCity.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Tesla, Inc.",
       "ticker": "TSLA",
@@ -15,11 +21,5 @@
       "start_date": "2023-08-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

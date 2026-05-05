@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Ralf P. Thomas is the CFO of Siemens AG. He joined Siemens in 1995 and has served in various finance leadership roles, including CFO of the Industry Sector. He has been a member of the Managing Board since 2013.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Siemens Aktiengesellschaft",
       "ticker": "SIEGY",
@@ -15,10 +20,5 @@
       "start_date": "2013-09-18",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

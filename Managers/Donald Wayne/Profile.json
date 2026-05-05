@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Wayne has served as Executive Vice President and General Counsel since 2017. Prior to joining Quanta, he served as Senior Vice President and General Counsel of Archrock, Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Quanta Services, Inc.",
       "ticker": "PWR",
@@ -15,11 +21,5 @@
       "start_date": "2017-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

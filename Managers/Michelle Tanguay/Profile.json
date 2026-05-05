@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Tanguay has over 25 years of experience in environmental management and regulatory affairs in the mining industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee (Chair)"
+  ],
+  "companies": [
     {
       "name": "Orion Copper Mining Corp.",
       "ticker": "ORION",
@@ -15,13 +23,5 @@
       "start_date": "2023-06-20",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee (Chair)"
   ]
 }

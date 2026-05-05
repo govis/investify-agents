@@ -6,7 +6,20 @@
   "age_year": 2024,
   "background": "Former Chairman and CEO of Mercer LLC. Former CFO of Delta Air Lines, Inc. and Marsh & McLennan Companies, Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Audit Committee",
+    "Governance",
+    "Nomination and Governance Committee",
+    "Risk"
+  ],
+  "companies": [
     {
       "name": "Cisco Systems, Inc.",
       "ticker": "CSCO",
@@ -23,18 +36,5 @@
       "start_date": "2011-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit",
-    "Audit Committee",
-    "Governance",
-    "Nomination and Governance Committee",
-    "Risk"
   ]
 }

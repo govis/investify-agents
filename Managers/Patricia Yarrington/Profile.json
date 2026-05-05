@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Retired Vice President and CFO of Chevron Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Management Development and Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Lockheed Martin Corporation",
       "ticker": "LMT",
@@ -15,13 +23,5 @@
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Management Development and Compensation Committee"
   ]
 }

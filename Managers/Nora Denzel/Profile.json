@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former Interim CEO of Outerwall Inc. and former executive at Intuit and HP. Director since 2014.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and Leadership Resources Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Advanced Micro Devices, Inc.",
       "ticker": "AMD",
@@ -15,13 +23,5 @@
       "start_date": "2014-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation and Leadership Resources Committee",
-    "Nominating and Corporate Governance Committee"
   ]
 }

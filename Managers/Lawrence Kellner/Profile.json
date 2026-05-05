@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "President of Emerald Creek Group, LLC and former Chairman and CEO of Continental Airlines, Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Finance Committee"
+  ],
+  "companies": [
     {
       "name": "Exxon Mobil Corporation",
       "ticker": "XOM",
@@ -15,13 +23,5 @@
       "start_date": "2023-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Finance Committee"
   ]
 }

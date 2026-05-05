@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Chief Financial Officer of AB Volvo. Previously CFO of Trustly, Autoliv, and Sandvik. Member of the Group Executive Board since 2023.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "AB Volvo",
       "ticker": "VOLV-B",
@@ -15,10 +20,5 @@
       "start_date": "2023-06-16",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Bedingfield has served as Senior Vice President and Chief Financial Officer since April 2024. Prior to joining L3Harris, he served as President and Chief Operating Officer of Epirus, Inc. and previously as CFO of Northrop Grumman Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "L3Harris Technologies, Inc.",
       "ticker": "LHX",
@@ -23,10 +28,5 @@
       "start_date": "2015-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

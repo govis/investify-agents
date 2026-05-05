@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Ms. Musca is a Chartered Accountant with over 15 years of experience in financial management and reporting within the mining sector. She previously held senior financial roles at Gascoyne Resources and other ASX-listed entities.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Karora Resources Inc.",
       "ticker": "KRR",
@@ -15,10 +20,5 @@
       "start_date": "2023-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

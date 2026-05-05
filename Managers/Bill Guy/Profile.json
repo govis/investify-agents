@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Mr Guy is a geologist with over 30 years\u2019 experience in exploration and resource development. He has held senior executive positions with several ASX-listed companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Bellevue Gold Limited",
       "ticker": "BGL",
@@ -15,10 +20,5 @@
       "start_date": "2023-03-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

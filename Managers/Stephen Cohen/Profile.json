@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Cohen is one of our co-founders and has served as our President since 2020 and as a member of our Board since 2003. He previously served as our Secretary from 2003 to 2020. Mr. Cohen holds a B.S. in Computer Science from Stanford University.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Palantir Technologies Inc.",
       "ticker": "PLTR",
@@ -15,11 +21,5 @@
       "start_date": "2020-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

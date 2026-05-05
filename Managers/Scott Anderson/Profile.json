@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Anderson has served as a director since 2011. He is the President and CEO of Northeast Securities, Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Kratos Defense & Security Solutions, Inc.",
       "ticker": "KTOS",
@@ -15,13 +23,5 @@
       "start_date": "2011-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nominating and Corporate Governance Committee"
   ]
 }

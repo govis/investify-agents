@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Klenda is a co-founder of the Company and served as Chairman and CEO from 2015 to 2022. He has over 40 years of experience in the financial and mining sectors.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Ur-Energy Inc.",
       "ticker": "URG",
@@ -15,10 +20,5 @@
       "start_date": "2004-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

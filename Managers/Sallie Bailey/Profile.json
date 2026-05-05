@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former Executive Vice President and Chief Financial Officer of Louisiana-Pacific Corporation. Former VP and CFO of Ferro Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Finance Committee"
+  ],
+  "companies": [
     {
       "name": "L3Harris Technologies, Inc.",
       "ticker": "LHX",
@@ -15,13 +23,5 @@
       "start_date": "2019-06-29",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Finance Committee"
   ]
 }

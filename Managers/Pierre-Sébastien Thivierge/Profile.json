@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Thivierge is a lawyer and has held various senior positions in the mining industry and legal practice.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Environmental and Sustainability Committee"
+  ],
+  "companies": [
     {
       "name": "Osisko Gold Royalties Ltd",
       "ticker": "OR",
@@ -15,13 +23,5 @@
       "start_date": "2020-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Environmental and Sustainability Committee"
   ]
 }

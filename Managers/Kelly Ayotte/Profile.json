@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former U.S. Senator for New Hampshire and former Attorney General of New Hampshire.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Public Policy and Sustainability Committee"
+  ],
+  "companies": [
     {
       "name": "Caterpillar Inc.",
       "ticker": "CAT",
@@ -15,13 +23,5 @@
       "start_date": "2017-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Public Policy and Sustainability Committee"
   ]
 }

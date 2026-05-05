@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Himbeault is the Vice President, Operations and Regulatory Affairs. He has over 25 years of experience in the mining industry, with a focus on environmental management, regulatory compliance, and operations in the uranium sector.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Denison Mines Corp.",
       "ticker": "DNN",
@@ -23,11 +29,5 @@
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

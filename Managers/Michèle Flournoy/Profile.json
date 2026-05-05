@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Flournoy is Co-Founder and Managing Partner of WestExec Advisors. She previously served as U.S. Under Secretary of Defense for Policy.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Booz Allen Hamilton Holding Corporation",
       "ticker": "BAH",
@@ -15,13 +23,5 @@
       "start_date": "2020-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Nominating and Corporate Governance Committee"
   ]
 }

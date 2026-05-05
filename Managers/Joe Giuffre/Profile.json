@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Giuffre is a lawyer with over 30 years of experience in corporate and securities law. He is currently a partner at a law firm in Vancouver.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee (Chair)",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "Victoria Gold Corp.",
       "ticker": "VGCX",
@@ -15,13 +23,5 @@
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee (Chair)",
-    "Corporate Governance and Nominating Committee"
   ]
 }

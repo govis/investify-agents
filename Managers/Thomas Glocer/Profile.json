@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former CEO of Thomson Reuters Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Governance Committee",
+    "Operations and Technology Committee"
+  ],
+  "companies": [
     {
       "name": "Morgan Stanley",
       "ticker": "MS",
@@ -15,13 +23,5 @@
       "start_date": "2013-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Nominating and Governance Committee",
-    "Operations and Technology Committee"
   ]
 }

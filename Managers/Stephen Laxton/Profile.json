@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Laxton has served as Chief Financial Officer, Treasurer and Executive Vice President since March 2022. He previously served as Vice President of Business Development and Strategic Planning from 2014 to 2022. He joined Nucor in 2003.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Nucor Corporation",
       "ticker": "NUE",
@@ -15,10 +20,5 @@
       "start_date": "2022-03-06",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

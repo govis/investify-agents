@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Rahim has served as our Chief Executive Officer since November 2014. He has been with Juniper since 1997, serving in various roles including Executive Vice President and General Manager of the Development and Innovation organization.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Juniper Networks, Inc.",
       "ticker": "JNPR",
@@ -15,10 +20,5 @@
       "start_date": "2014-11-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

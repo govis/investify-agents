@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Kimberly A. Fontan is Executive Vice President and Chief Financial Officer. She previously served as Senior Vice President and Chief Accounting Officer from 2019 to 2022. She has been with Entergy since 1996.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Entergy Corporation",
       "ticker": "ETR",
@@ -15,10 +20,5 @@
       "start_date": "2022-11-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

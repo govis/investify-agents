@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Dr. Surya N. Mohapatra was formerly the Chairman, President and CEO of Quest Diagnostics Incorporated.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Finance Committee",
+    "Human Resources and Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Leidos Holdings, Inc.",
       "ticker": "LDOS",
@@ -15,13 +23,5 @@
       "start_date": "2016-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Finance Committee",
-    "Human Resources and Compensation Committee"
   ]
 }

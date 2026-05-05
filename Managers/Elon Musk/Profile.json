@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Elon Musk has served as our Chief Executive Officer since October 2008 and as a member of the Board since April 2004. He is also the founder and CEO of SpaceX, and the owner and executive chairman of X (formerly Twitter).",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Tesla, Inc.",
       "ticker": "TSLA",
@@ -15,11 +21,5 @@
       "start_date": "2008-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

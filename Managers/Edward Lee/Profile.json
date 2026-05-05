@@ -6,7 +6,12 @@
   "age_year": 2023,
   "background": "Mr. Lee is a Chartered Professional Accountant with over 25 years of experience in financial reporting and corporate finance for public companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Western Magnesium Corporation",
       "ticker": "WMG",
@@ -15,10 +20,5 @@
       "start_date": "2021-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

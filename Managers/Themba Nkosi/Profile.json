@@ -6,7 +6,12 @@
   "age_year": 2023,
   "background": "Themba Nkosi is the Chief Sustainability Officer. He joined Sibanye-Stillwater in 2016 and has extensive experience in human resources and corporate affairs.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Sibanye Stillwater Limited",
       "ticker": "SBSW",
@@ -15,10 +20,5 @@
       "start_date": "2016-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

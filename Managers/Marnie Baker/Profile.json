@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms Baker has over 30 years\u2019 experience in the financial services industry. She is currently the Managing Director of Bendigo and Adelaide Bank.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "ESG Committee"
+  ],
+  "companies": [
     {
       "name": "Northern Star Resources Limited",
       "ticker": "NST",
@@ -15,13 +23,5 @@
       "start_date": "2022-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee",
-    "ESG Committee"
   ]
 }

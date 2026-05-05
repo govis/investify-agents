@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Judson Althoff is executive vice president and chief commercial officer at Microsoft. He is responsible for the sales strategy, execution and revenue growth of the company\u2019s commercial business, which spans enterprise, public sector, small and medium businesses, services, and developer and partner communities.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Microsoft Corporation",
       "ticker": "MSFT",
@@ -15,11 +21,5 @@
       "start_date": "2021-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

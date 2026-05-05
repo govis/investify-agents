@@ -6,7 +6,19 @@
   "age_year": 2024,
   "background": "Chief Executive Officer and Principal of Silket Advisory Services. Former SVP and Controller of Evraz North America Limited.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense",
+    "Electrification",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Finance Committee",
+    "Nominating & Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Albemarle Corporation",
       "ticker": "ALB",
@@ -23,17 +35,5 @@
       "start_date": "2019-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense",
-    "Electrification",
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Finance Committee",
-    "Nominating & Governance Committee"
   ]
 }

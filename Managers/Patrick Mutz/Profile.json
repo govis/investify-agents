@@ -5,8 +5,20 @@
   "age": null,
   "age_year": null,
   "background": "Mr Mutz has over 40 years of experience in the mining industry, with a focus on uranium mining and processing. He has held senior executive roles in several uranium companies in the US and Australia.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://auraenergy.com.au/wp-content/uploads/2024/10/PMutz_web.png",
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "url": "https://au.linkedin.com/in/patrick-mutz-25528989",
+      "name": "LinkedIn"
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee"
+  ],
+  "companies": [
     {
       "name": "Aura Energy Limited",
       "ticker": "AEE",
@@ -16,11 +28,6 @@
       "end_date": null
     }
   ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee"
-  ]
+  "picture_local": null,
+  "enrichment_status": "success"
 }

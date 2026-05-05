@@ -5,8 +5,18 @@
   "age": 51,
   "age_year": 2024,
   "background": "David Gan is the Chief Legal Officer of AECOM. He joined AECOM in 2005 and has held several roles within the legal department, including Senior Vice President and Deputy General Counsel. Prior to AECOM, he was in private practice at Mayer Brown.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://media.licdn.com/dms/image/v2/C5603AQHWV8DnzAP_fg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1576706490204?e=2147483647&v=beta&t=-HFBfAE9pHTs_TIzc-4NHrDu6Lrlcx_nJE5cHmeX_vM",
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "url": "https://www.linkedin.com/in/davidgan",
+      "name": "LinkedIn"
+    }
+  ],
+  "committees": [],
+  "companies": [
     {
       "name": "AECOM",
       "ticker": "ACM",
@@ -16,9 +26,6 @@
       "end_date": null
     }
   ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  "picture_local": "Picture.jpg",
+  "enrichment_status": "success"
 }

@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Ellison has been Oracle\u2019s Chairman of the Board and Chief Technology Officer since September 2014. He served as Oracle\u2019s Chief Executive Officer from June 1977, when he founded Oracle, until September 2014.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Oracle Corporation",
       "ticker": "ORCL",
@@ -15,11 +21,5 @@
       "start_date": "2014-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

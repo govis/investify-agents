@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former Director of the National Security Agency and former Commander of U.S. Cyber Command.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Amazon.com, Inc.",
       "ticker": "AMZN",
@@ -15,13 +23,5 @@
       "start_date": "2020-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

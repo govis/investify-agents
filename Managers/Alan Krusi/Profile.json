@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Independent Director. Former executive at AECOM and Realogy Holdings Corp.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee",
+    "Technical Committee"
+  ],
+  "companies": [
     {
       "name": "SSR Mining Inc.",
       "ticker": "SSRM",
@@ -15,13 +23,5 @@
       "start_date": "2020-09-16",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Corporate Governance and Nominating Committee",
-    "Technical Committee"
   ]
 }

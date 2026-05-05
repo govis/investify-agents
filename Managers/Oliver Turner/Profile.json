@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Mr. Turner has over 15 years of experience in the mining industry, specifically in capital markets and corporate development. Prior to Karora, he was Senior Vice President at a Canadian precious metals producer.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Karora Resources Inc.",
       "ticker": "KRR",
@@ -15,10 +20,5 @@
       "start_date": "2020-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

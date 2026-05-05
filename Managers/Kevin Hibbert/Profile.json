@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Hibbert is the Chief Financial Officer of Sprott Inc. and has extensive experience in financial reporting and regulatory compliance within the asset management sector.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Sprott Physical Gold Trust",
       "ticker": "PHYS",
@@ -23,11 +29,5 @@
       "start_date": "2021-07-19",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

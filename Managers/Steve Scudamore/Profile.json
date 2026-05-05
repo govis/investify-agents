@@ -6,7 +6,18 @@
   "age_year": 2024,
   "background": "Steve Scudamore is an experienced non-executive director with a background in chartered accounting. He was a partner at KPMG for 28 years and specializes in audit, risk management, and corporate governance.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Audit and Risk Committee (Chair)",
+    "People and Culture Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "companies": [
     {
       "name": "Pilbara Minerals Limited",
       "ticker": "PLS",
@@ -23,16 +34,5 @@
       "start_date": "2019-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee (Chair)",
-    "Audit and Risk Committee (Chair)",
-    "People and Culture Committee",
-    "Remuneration and Nomination Committee"
   ]
 }

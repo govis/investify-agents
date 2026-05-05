@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "President and CEO of Reliance Worldwide Corporation. Former President and CEO of Victaulic and former executive at 3M Company.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Constellation Energy Corporation",
       "ticker": "CEG",
@@ -15,13 +23,5 @@
       "start_date": "2022-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Corporate Governance Committee"
   ]
 }

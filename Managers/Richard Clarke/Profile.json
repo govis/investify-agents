@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "General, U.S. Army (Retired). Former Commander, U.S. Special Operations Command.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Finance"
+  ],
+  "companies": [
     {
       "name": "General Dynamics Corporation",
       "ticker": "GD",
@@ -15,13 +23,5 @@
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit",
-    "Finance"
   ]
 }

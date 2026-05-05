@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Mann has served as our Chairman and Chief Executive Officer since September 2021. He has over 20 years of experience in the financial industry and has held various senior positions at investment banks and hedge funds.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "ASP Isotopes Inc.",
       "ticker": "ASPI",
@@ -23,11 +29,5 @@
       "start_date": "2021-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

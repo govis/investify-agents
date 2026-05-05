@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Mr. Mariage is a partner at Fasken Martineau DuMoulin LLP, specializing in securities law and mining law. He has been recognized as a leading lawyer in the mining sector.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Delta Resources Limited",
-      "ticker": "DLTA",
-      "exchange": "TSX",
-      "title_or_role": "Chairman of the Board and Independent Director",
-      "start_date": "2019-07-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
@@ -24,5 +14,15 @@
   "committees": [
     "Audit Committee",
     "Corporate Governance and Compensation Committee"
+  ],
+  "companies": [
+    {
+      "name": "Delta Resources Limited",
+      "ticker": "DLTA",
+      "exchange": "TSX",
+      "title_or_role": "Chairman of the Board and Independent Director",
+      "start_date": "2019-07-01",
+      "end_date": null
+    }
   ]
 }

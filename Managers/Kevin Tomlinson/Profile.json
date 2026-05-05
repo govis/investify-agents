@@ -6,7 +6,15 @@
   "age_year": null,
   "background": "Mr Tomlinson is a highly experienced mining executive and investment banker with over 35 years\u2019 experience in the global resources sector. He has held directorships with several ASX, TSX, and LSE-listed companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Nomination and Remuneration Committee"
+  ],
+  "companies": [
     {
       "name": "Bellevue Gold Limited",
       "ticker": "BGL",
@@ -15,13 +23,5 @@
       "start_date": "2017-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee",
-    "Nomination and Remuneration Committee"
   ]
 }

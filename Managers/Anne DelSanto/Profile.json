@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. DelSanto is a former Executive Vice President at Salesforce.com, Inc. She joined the board in 2021.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Juniper Networks, Inc.",
       "ticker": "JNPR",
@@ -15,13 +23,5 @@
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Nominating and Corporate Governance Committee"
   ]
 }

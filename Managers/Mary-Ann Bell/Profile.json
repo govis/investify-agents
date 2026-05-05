@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Corporate director and former executive at Bell Aliant Regional Communications.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Human Resources Committee"
+  ],
+  "companies": [
     {
       "name": "AtkinsR\u00e9alis Group Inc.",
       "ticker": "ATRL",
@@ -15,13 +23,5 @@
       "start_date": "2019-08-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee",
-    "Human Resources Committee"
   ]
 }

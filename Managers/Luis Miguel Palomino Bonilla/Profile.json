@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Director since 2004. Chairman of the Board of Directors of the Peruvian Institute of Economics and Director of the Central Reserve Bank of Peru.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Southern Copper Corporation",
-      "ticker": "SCCO",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2004-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -24,5 +14,15 @@
     "Audit Committee",
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
+    {
+      "name": "Southern Copper Corporation",
+      "ticker": "SCCO",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2004-01-01",
+      "end_date": null
+    }
   ]
 }

@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Mr. Craib is a highly experienced mining executive with over 20 years\u2019 experience in the mining industry. He was previously Finance Director of Swakop Uranium (Pty) Ltd and was involved in the US$2.5 billion development of the Husab Uranium Project in Namibia.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Boss Energy Limited",
       "ticker": "BOE",
@@ -15,10 +20,5 @@
       "start_date": "2017-01-09",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

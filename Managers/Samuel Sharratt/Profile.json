@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Mr. Sharratt has experience in corporate development and investor relations within the mining sector.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Uranium Royalty Corp.",
       "ticker": "UROY",
@@ -15,10 +20,5 @@
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

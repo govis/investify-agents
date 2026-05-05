@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Morgan is a chartered engineer with over 25 years of experience in the mining industry, including project management and executive leadership roles.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "companies": [
     {
       "name": "Regis Resources Limited",
       "ticker": "RRL",
@@ -15,13 +23,5 @@
       "start_date": "2016-02-22",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Remuneration and Nomination Committee"
   ]
 }

@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Thompson is a geologist with over 30 years of experience in the mining industry. He is the founder and Chairman of Lara Exploration Ltd. and has been involved in the discovery and development of several mineral deposits.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Forsys Metals Corp.",
       "ticker": "FSY",
@@ -15,10 +20,5 @@
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

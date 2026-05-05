@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Illanes joined the Company in 2006. He has served as our Chief Financial Officer since January 1, 2019. Previously, he served as our Vice President of Finance and as our Finance Manager. He is a Chilean citizen and holds a degree in industrial engineering from the Pontificia Universidad Cat\u00f3lica de Chile.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Sociedad Qu\u00edmica y Minera de Chile S.A.",
       "ticker": "SQM",
@@ -15,10 +20,5 @@
       "start_date": "2019-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

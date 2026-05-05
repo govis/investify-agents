@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Major is a mining engineer from the Camborne School of Mines in the UK. His career spans over 30 years in the mining industry where he has established a solid track record in all aspects of the mining business, including operations, project management, and corporate finance. He has worked for Rio Tinto at the Rossing Uranium Mine in Namibia and for several junior mining companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "GoviEx Uranium Inc.",
       "ticker": "GXU",
@@ -15,10 +20,5 @@
       "start_date": "2012-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

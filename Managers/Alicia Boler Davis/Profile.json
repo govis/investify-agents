@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "CEO of Alto Pharmacy. Former Senior Vice President of Global Customer Fulfillment at Amazon.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "JPMorgan Chase & Co.",
       "ticker": "JPM",
@@ -15,13 +23,5 @@
       "start_date": "2023-03-20",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. More has served as a director since 2006. He is a Venture Partner at Menlo Ventures and was the founder and CEO of CompuCom Systems.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "SolarEdge Technologies, Inc.",
       "ticker": "SEDG",
@@ -15,13 +23,5 @@
       "start_date": "2006-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Nominating and Corporate Governance Committee"
   ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Daniele is the founder and CIO of CD Capital. She has over 25 years of experience in natural resources investment and investment banking.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "Lundin Gold Inc.",
       "ticker": "LUG",
@@ -15,13 +23,5 @@
       "start_date": "2014-11-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Corporate Governance and Nominating Committee"
   ]
 }

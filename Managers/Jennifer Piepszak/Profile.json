@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Ms. Piepszak has been Co-CEO of the Commercial & Investment Bank since 2024. She was Co-CEO of Consumer & Community Banking from 2021 to 2024 and CFO of the firm from 2019 to 2021.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "JPMorgan Chase & Co.",
       "ticker": "JPM",
@@ -15,11 +21,5 @@
       "start_date": "2024-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

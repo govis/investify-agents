@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Hicks is a corporate director with over 15 years of experience in the resource sector, specifically in corporate finance and M&A.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Sprott Physical Uranium Trust",
       "ticker": "U",
@@ -15,12 +22,5 @@
       "start_date": "2021-07-19",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

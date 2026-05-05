@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former CFO of American Airlines and AMR Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "General Electric Company",
       "ticker": "GE",
@@ -15,13 +23,5 @@
       "start_date": "2024-04-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense",
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Connor is a retired audit partner from KPMG LLP with over 38 years of experience.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Risk Committee"
+  ],
+  "companies": [
     {
       "name": "Centerra Gold Inc.",
       "ticker": "CGAU",
@@ -15,13 +23,5 @@
       "start_date": "2012-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee (Chair)",
-    "Risk Committee"
   ]
 }

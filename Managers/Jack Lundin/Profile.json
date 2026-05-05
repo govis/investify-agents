@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Lundin is the Chair of the Board. He is currently the President and CEO of Lundin Mining Corporation. He has extensive experience in the resource industry and holds a Master of Engineering degree.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Lundin Gold Inc.",
       "ticker": "LUG",
@@ -23,11 +29,5 @@
       "start_date": "2023-12-04",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

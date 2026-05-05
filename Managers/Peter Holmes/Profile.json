@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Mr. Holmes is a mining engineer with over 30 years' experience in the gold industry. He has held senior roles with Barrick Gold and Placer Dome, with significant experience in project studies and operations.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "De Grey Mining Limited",
       "ticker": "DEG",
@@ -15,10 +20,5 @@
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Roman is an entrepreneur who has successfully identified, financed, developed, and operated several mining and oil and gas projects. He was formerly the Chairman, President and CEO of Gold Eagle Mines Ltd. and Harte Gold Corp.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Global Atomic Corporation",
       "ticker": "GLO",
@@ -23,13 +31,5 @@
       "start_date": "2023-05-15",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Cooper is a mining engineer with over 35 years of experience in operations, project management, and corporate development. He was previously COO of Kinross Gold.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Cabral Gold Inc.",
       "ticker": "CBR",
@@ -15,13 +23,5 @@
       "start_date": "2021-06-24",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

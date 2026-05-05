@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Mr. Quin is a geologist with over 35 years of experience in the mining industry, including executive roles at Midas Gold and Capstone Mining.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Aura Minerals Inc.",
-      "ticker": "AUGO",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2018-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Gold"
   ],
@@ -24,5 +14,15 @@
     "Audit Committee",
     "Compensation Committee",
     "Technical Committee"
+  ],
+  "companies": [
+    {
+      "name": "Aura Minerals Inc.",
+      "ticker": "AUGO",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "start_date": "2018-01-01",
+      "end_date": null
+    }
   ]
 }

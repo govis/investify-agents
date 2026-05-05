@@ -6,7 +6,16 @@
   "age_year": 2024,
   "background": "Mr. Hoke has served as a director since 2023. He is the CEO of Volocopter GmbH and was previously the CEO of Airbus Defence and Space.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "SolarEdge Technologies, Inc.",
       "ticker": "SEDG",
@@ -23,14 +32,5 @@
       "start_date": "2021-11-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense",
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nominating and Corporate Governance Committee"
   ]
 }

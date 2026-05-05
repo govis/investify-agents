@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Roberts served as President and Chief Executive Officer of Carlisle Companies Incorporated from 2007 to 2016 and as Chairman from 2014 to 2017.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance & Nominating Committee",
+    "Organization & Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Flowserve Corporation",
       "ticker": "FLS",
@@ -15,13 +23,5 @@
       "start_date": "2011-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Corporate Governance & Nominating Committee",
-    "Organization & Compensation Committee"
   ]
 }

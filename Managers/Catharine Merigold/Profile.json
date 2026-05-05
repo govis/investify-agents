@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Merigold has served as a director since 2015. She is the founder and a Managing Partner of Vista Ventures, a venture capital firm.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "AeroVironment, Inc.",
       "ticker": "AVAV",
@@ -15,13 +23,5 @@
       "start_date": "2015-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

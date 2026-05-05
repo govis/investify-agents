@@ -6,7 +6,15 @@
   "age_year": 2023,
   "background": "Alice Wong is Senior Vice-President and Chief Corporate Officer. She has been with Cameco for over 30 years, holding various leadership positions in marketing, corporate responsibility, and human resources.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Environment, Health, Safety and Sustainability Committee"
+  ],
+  "companies": [
     {
       "name": "Cameco Corporation",
       "ticker": "CCJ",
@@ -31,13 +39,5 @@
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Environment, Health, Safety and Sustainability Committee"
   ]
 }

@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Sankar has served as our Chief Technology Officer since 2022. He previously served as our Chief Operating Officer from 2010 to 2022. Mr. Sankar joined Palantir in 2006. Mr. Sankar holds a B.S. in Electrical and Computer Engineering from Cornell University and an M.S. in Management Science and Engineering from Stanford University.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Palantir Technologies Inc.",
       "ticker": "PLTR",
@@ -15,11 +21,5 @@
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

@@ -6,7 +6,14 @@
   "age_year": 2023,
   "background": "Ian Bruce is the Chair of the Board. He is the former President and CEO of Peters & Co. Limited, an investment firm. He has extensive experience in investment banking and the oil and gas industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating, Corporate Governance and Risk Committee"
+  ],
+  "companies": [
     {
       "name": "Cameco Corporation",
       "ticker": "CCJ",
@@ -23,12 +30,5 @@
       "start_date": "2018-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Nominating, Corporate Governance and Risk Committee"
   ]
 }

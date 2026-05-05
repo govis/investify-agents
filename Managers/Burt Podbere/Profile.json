@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Burt W. Podbere has served as our Chief Financial Officer since September 2015. From February 2011 to September 2015, Mr. Podbere served as Chief Financial Officer of OpenDNS, Inc., a cloud-delivered security company. From September 2010 to February 2011, Mr. Podbere served as Chief Financial Officer of Net Optics, Inc., a network visibility solutions company.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "CrowdStrike Holdings, Inc.",
       "ticker": "CRWD",
@@ -15,11 +21,5 @@
       "start_date": "2015-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

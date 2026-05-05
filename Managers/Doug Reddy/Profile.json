@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Reddy is a professional geologist with over 35 years of experience in the mining industry. He has held senior roles at Endeavour Mining and Endeavour Financial.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Equinox Gold Corp.",
       "ticker": "EQX",
@@ -15,10 +20,5 @@
       "start_date": "2020-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

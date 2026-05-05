@@ -6,7 +6,15 @@
   "age_year": 2023,
   "background": "Former President and CEO of ESS Technology. Extensive experience in the semiconductor industry and executive management.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee (Chair)",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Super Micro Computer, Inc.",
       "ticker": "SMCI",
@@ -15,13 +23,5 @@
       "start_date": "2021-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee (Chair)",
-    "Nominating and Corporate Governance Committee"
   ]
 }

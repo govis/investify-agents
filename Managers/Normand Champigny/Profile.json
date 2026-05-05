@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Champigny is a geological engineer with over 40 years of experience. He is currently the CEO of Quebec Precious Metals Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "G Mining Ventures Corp.",
       "ticker": "GMIN",
@@ -15,13 +23,5 @@
       "start_date": "2020-11-25",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

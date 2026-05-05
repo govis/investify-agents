@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Reade is a Managing Director at Northwestern Capital Partners and has extensive experience in investment banking and private equity.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "Aura Minerals Inc.",
       "ticker": "AUGO",
@@ -15,13 +23,5 @@
       "start_date": "2017-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Corporate Governance and Nominating Committee"
   ]
 }

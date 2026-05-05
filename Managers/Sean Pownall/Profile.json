@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Pownall has been involved in the mineral exploration industry for over 30 years. He is the owner of More Core Diamond Drilling Services Ltd., which operates in North America and internationally.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Tudor Gold Corp.",
       "ticker": "TUD",
@@ -15,12 +22,5 @@
       "start_date": "2017-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

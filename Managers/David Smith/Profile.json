@@ -6,7 +6,17 @@
   "age_year": 2024,
   "background": "Mr. Smith is a geologist with over 30 years of experience in the mining industry, specializing in exploration and development.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee (Chair)",
+    "Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "GoldHaven Resources Corp.",
       "ticker": "GOH",
@@ -31,15 +41,5 @@
       "start_date": "2022-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee (Chair)",
-    "Governance and Nominating Committee"
   ]
 }

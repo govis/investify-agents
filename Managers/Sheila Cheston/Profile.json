@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Ms. Cheston is Corporate Vice President and General Counsel. She has served in this role since 2010. Previously, she was General Counsel of BAE Systems, Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Northrop Grumman Corporation",
       "ticker": "NOC",
@@ -15,10 +20,5 @@
       "start_date": "2010-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

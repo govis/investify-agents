@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Ms. Seetaroo is an investment banker and lawyer with over 20 years of experience in the natural resources sector in Africa. She is the co-founder and CEO of Cashew Coast and has held senior roles at several investment firms.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "GoviEx Uranium Inc.",
       "ticker": "GXU",
@@ -15,12 +22,5 @@
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

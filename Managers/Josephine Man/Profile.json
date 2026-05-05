@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Ms. Man has over 20 years of experience in finance and accounting. She has served as the Chief Financial Officer of several publicly traded companies in the mining and technology sectors.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Uranium Royalty Corp.",
       "ticker": "UROY",
@@ -23,10 +28,5 @@
       "start_date": "2018-08-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

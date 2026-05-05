@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Molly S. Beerman is Executive Vice President and Chief Financial Officer. She previously served as Senior Vice President and Controller from 2019 to 2023 and has held various financial leadership roles at Alcoa since 2001.",
   "picture_url": "https://www.alcircle.com/api/media/1673440056.31137_Alcoa_restructures_its_Executive_Leadership_Team_0_0.jpg",
-  "commpanies": [
-    {
-      "name": "Alcoa Corporation",
-      "ticker": "AA",
-      "exchange": "NYSE",
-      "title_or_role": "Executive Vice President and Chief Financial Officer",
-      "start_date": "2023-02-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -26,5 +16,15 @@
     }
   ],
   "committees": [],
-  "enrichment_status": "success"
+  "enrichment_status": "success",
+  "companies": [
+    {
+      "name": "Alcoa Corporation",
+      "ticker": "AA",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2023-02-01",
+      "end_date": null
+    }
+  ]
 }

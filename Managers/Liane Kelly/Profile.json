@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Kelly is a Corporate Social Responsibility professional with extensive experience in the mining sector.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee",
+    "Health, Safety, Environmental & Social Advisory Committee"
+  ],
+  "companies": [
     {
       "name": "B2Gold Corp.",
       "ticker": "BTG",
@@ -15,13 +23,5 @@
       "start_date": "2020-06-12",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Corporate Governance and Nominating Committee",
-    "Health, Safety, Environmental & Social Advisory Committee"
   ]
 }

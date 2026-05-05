@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Hong is the Chief Legal Officer and Corporate Secretary. He joined Franco-Nevada in 2012. He was previously a partner at a major Canadian law firm.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Franco-Nevada Corporation",
       "ticker": "FNV",
@@ -15,10 +20,5 @@
       "start_date": "2012-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

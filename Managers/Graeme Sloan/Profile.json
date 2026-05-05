@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Sloan is a mining engineer with over 35 years of experience in project development and operations. He was previously Managing Director of Karora and has held senior roles at several Australian mining companies including Tanami Gold NL and Herencia Resources PLC.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Karora Resources Inc.",
       "ticker": "KRR",
@@ -15,10 +20,5 @@
       "start_date": "2019-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

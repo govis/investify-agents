@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Chairman and CEO of Carrier Global Corporation. Former President of Collins Aerospace.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Finance"
+  ],
+  "companies": [
     {
       "name": "The Boeing Company",
       "ticker": "BA",
@@ -15,13 +23,5 @@
       "start_date": "2022-06-21",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit",
-    "Finance"
   ]
 }

@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Johnson has served as Executive Vice President and Chief People and Communications Officer since 2023. He joined Jacobs in 2016 and has held various leadership roles in HR and communications.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Jacobs Solutions Inc.",
       "ticker": "J",
@@ -15,11 +21,5 @@
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Michaud has over 30 years of experience in gold exploration and mining. He has been with Wesdome since 2017.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Wesdome Gold Mines Ltd.",
       "ticker": "WDO",
@@ -15,10 +20,5 @@
       "start_date": "2017-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

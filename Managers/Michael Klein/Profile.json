@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Michael Klein served as the Chairman and Chief Executive Officer of AltC. He is the founder and managing partner of M. Klein and Company. He was previously at Citigroup.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Oklo Inc.",
       "ticker": "OKLO",
@@ -15,13 +23,5 @@
       "start_date": "2021-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Nominating and Corporate Governance Committee"
   ]
 }

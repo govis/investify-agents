@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Vice President, Finance and Chief Financial Officer since April 2013. Previously served as Director of Investor Relations from 2000 to 2013.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Southern Copper Corporation",
       "ticker": "SCCO",
@@ -15,10 +20,5 @@
       "start_date": "2013-04-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

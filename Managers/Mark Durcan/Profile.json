@@ -6,7 +6,18 @@
   "age_year": 2024,
   "background": "Former CEO of Micron Technology, Inc. Director since 2017.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Compensation and Leadership Resources Committee",
+    "Remuneration Committee",
+    "Technology Committee"
+  ],
+  "companies": [
     {
       "name": "Advanced Micro Devices, Inc.",
       "ticker": "AMD",
@@ -23,16 +34,5 @@
       "start_date": "2020-04-22",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee",
-    "Compensation and Leadership Resources Committee",
-    "Remuneration Committee",
-    "Technology Committee"
   ]
 }

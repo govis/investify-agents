@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Retired Chairman, President and Chief Executive Officer of Questar Corporation. Director since 2016.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Finance and Risk Committee",
+    "Sustainability and Corporate Responsibility Committee"
+  ],
+  "companies": [
     {
       "name": "Dominion Energy, Inc.",
       "ticker": "D",
@@ -15,13 +23,5 @@
       "start_date": "2016-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Finance and Risk Committee",
-    "Sustainability and Corporate Responsibility Committee"
   ]
 }

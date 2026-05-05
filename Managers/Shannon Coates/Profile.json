@@ -6,7 +6,15 @@
   "age_year": null,
   "background": "Ms Coates is a qualified lawyer with over 25 years\u2019 experience in corporate law and compliance. she has provided company secretarial and corporate advisory services to numerous ASX-listed companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Nomination and Remuneration Committee (Chair)"
+  ],
+  "companies": [
     {
       "name": "Bellevue Gold Limited",
       "ticker": "BGL",
@@ -15,13 +23,5 @@
       "start_date": "2020-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee",
-    "Nomination and Remuneration Committee (Chair)"
   ]
 }

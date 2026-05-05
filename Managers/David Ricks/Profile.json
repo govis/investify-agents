@@ -5,8 +5,20 @@
   "age": 56,
   "age_year": 2024,
   "background": "Chair and CEO of Eli Lilly and Company. Director since 2018.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://cdn.theorg.com/401b1c73-7d82-4831-a028-62c712fd053a_medium.jpg",
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "url": "https://www.linkedin.com/in/davearicks",
+      "name": "LinkedIn"
+    }
+  ],
+  "committees": [
+    "Executive Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Adobe Inc.",
       "ticker": "ADBE",
@@ -16,11 +28,6 @@
       "end_date": null
     }
   ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Executive Compensation Committee"
-  ]
+  "picture_local": "Picture.jpg",
+  "enrichment_status": "success"
 }

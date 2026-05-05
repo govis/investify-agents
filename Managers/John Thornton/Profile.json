@@ -6,7 +6,17 @@
   "age_year": 2024,
   "background": "Executive Chairman, Barrick Gold Corporation; Former President, Goldman Sachs.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Gold",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Finance Committee",
+    "Nominating and Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Ford Motor Company",
       "ticker": "F",
@@ -23,15 +33,5 @@
       "start_date": "2012-02-15",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Gold",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Finance Committee",
-    "Nominating and Governance Committee"
   ]
 }

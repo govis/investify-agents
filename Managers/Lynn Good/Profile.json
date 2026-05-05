@@ -6,7 +6,16 @@
   "age_year": 2024,
   "background": "Chair, President and CEO of Duke Energy Corporation. Former CFO of Duke Energy.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Compensation (Chair)"
+  ],
+  "companies": [
     {
       "name": "The Boeing Company",
       "ticker": "BA",
@@ -23,14 +32,5 @@
       "start_date": "2013-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit",
-    "Compensation (Chair)"
   ]
 }

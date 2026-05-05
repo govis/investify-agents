@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Mr. Stevenson is a senior mining executive with over 40 years of experience. He was a founding partner of Bedrock Resources and SOS Investors and held various senior positions at Rio Tinto.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Vista Gold Corp.",
-      "ticker": "VGZ",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2007-11-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
@@ -24,5 +14,15 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
+  ],
+  "companies": [
+    {
+      "name": "Vista Gold Corp.",
+      "ticker": "VGZ",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2007-11-01",
+      "end_date": null
+    }
   ]
 }

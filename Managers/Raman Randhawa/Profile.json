@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Randhawa is a Chartered Professional Accountant with over 20 years of financial experience in the mining industry. He previously served as CFO of Capstone Mining and held senior roles at Goldcorp.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Capstone Copper Corp.",
       "ticker": "CS",
@@ -15,10 +20,5 @@
       "start_date": "2018-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

@@ -6,7 +6,17 @@
   "age_year": 2024,
   "background": "Gregory D. Smith has been a director since 2021. He was previously CFO and Executive Vice President of Enterprise Operations at The Boeing Company.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense",
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit & Finance Committee"
+  ],
+  "companies": [
     {
       "name": "Intel Corporation",
       "ticker": "INTC",
@@ -23,15 +33,5 @@
       "start_date": "2023-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense",
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit & Finance Committee"
   ]
 }

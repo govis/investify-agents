@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Dasler is a Professional Geologist with over 40 years of experience in the mineral exploration and mining industry. He has served as a director and officer of several public mining companies and was the President and CEO of Canex Metals Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Sitka Gold Corp.",
       "ticker": "SIG",
@@ -15,13 +23,5 @@
       "start_date": "2020-06-22",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

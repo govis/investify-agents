@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Hoxie-Key is a nuclear engineer with over 30 years of experience in the nuclear fuel cycle, including a long career at Southern Nuclear Operating Company.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "enCore Energy Corp.",
       "ticker": "EU",
@@ -15,13 +23,5 @@
       "start_date": "2023-06-21",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Governance and Nominating Committee"
   ]
 }

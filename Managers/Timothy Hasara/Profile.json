@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Managing Partner and Chief Investment Officer of Sinnet Capital. Over 30 years of experience in investment management.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "United States Antimony Corporation",
-      "ticker": "USAR",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2023-08-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -24,5 +14,15 @@
     "Audit Committee",
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
+    {
+      "name": "United States Antimony Corporation",
+      "ticker": "USAR",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2023-08-01",
+      "end_date": null
+    }
   ]
 }

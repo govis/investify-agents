@@ -6,7 +6,14 @@
   "age_year": null,
   "background": "Mr. Lill has over 35 years' experience in stockbroking, capital raising, management, and business development in the manufacturing and resources sectors. He has been a Director of several ASX listed companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Remuneration and Nomination Committee"
+  ],
+  "companies": [
     {
       "name": "De Grey Mining Limited",
       "ticker": "DEG",
@@ -15,12 +22,5 @@
       "start_date": "2013-10-03",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Remuneration and Nomination Committee"
   ]
 }

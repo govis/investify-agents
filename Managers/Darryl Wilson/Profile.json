@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Founder, chairman and president of The Wilson Collective. Director since 2022.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation",
+    "Nuclear"
+  ],
+  "companies": [
     {
       "name": "NextEra Energy, Inc.",
       "ticker": "NEE",
@@ -15,13 +23,5 @@
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation",
-    "Nuclear"
   ]
 }

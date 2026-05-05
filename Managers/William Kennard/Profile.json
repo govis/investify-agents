@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Former Chairman of the U.S. Federal Communications Commission (FCC).",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Ford Motor Company",
-      "ticker": "F",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2015-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -24,5 +14,15 @@
   "committees": [
     "Finance Committee",
     "Nominating and Governance Committee"
+  ],
+  "companies": [
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2015-01-01",
+      "end_date": null
+    }
   ]
 }

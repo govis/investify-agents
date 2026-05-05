@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Morabito is the Chairman and CEO of King & Bay West Management Corp. and has over 20 years of experience in the mining industry. He has been involved in the founding and development of several successful mining companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Consolidated Lithium Metals Inc.",
       "ticker": "CLM",
@@ -15,13 +23,5 @@
       "start_date": "2021-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

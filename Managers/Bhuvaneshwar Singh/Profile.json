@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Singh joined OceanaGold in 2023. He has over 25 years of experience in the mining industry, specializing in technical services, project development, and operations, with previous roles at Newcrest Mining.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "OceanaGold Corporation",
       "ticker": "OGC",
@@ -15,10 +20,5 @@
       "start_date": "2023-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

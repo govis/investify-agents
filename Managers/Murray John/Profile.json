@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. John is a mining engineer with over 35 years of experience in the resource sector. He was formerly the President and CEO of Dundee Resources Limited and served as a director of several mining companies including Osisko Gold Royalties Ltd. and Alamos Gold Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Discovery Silver Corp.",
       "ticker": "DSV",
@@ -15,13 +23,5 @@
       "start_date": "2017-05-15",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Platzer is a co-founder of Spire and has served as our Chief Executive Officer and a member of our board of directors since September 2012. Prior to that, he served as a Senior Portfolio Manager at Vega Asset Management and a Managing Director at Deutsche Bank. He holds an M.S. in Physics from the Technical University of Vienna, an M.B.A. from Harvard Business School, and an M.Sc. in Space Studies from the International Space University.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Spire Global, Inc.",
       "ticker": "SPIR",
@@ -15,10 +20,5 @@
       "start_date": "2012-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

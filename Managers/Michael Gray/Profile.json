@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Gray is a co-founder of Agentis Capital Mining Partners and has over 30 years of experience in the mining sector, including equity research and corporate development.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Onyx Gold Corp.",
       "ticker": "ONYX",
@@ -15,13 +23,5 @@
       "start_date": "2023-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

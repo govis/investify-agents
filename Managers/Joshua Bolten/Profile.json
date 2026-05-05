@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "President and CEO of Business Roundtable and former White House Chief of Staff.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating",
+    "Finance"
+  ],
+  "companies": [
     {
       "name": "Emerson Electric Co.",
       "ticker": "EMR",
@@ -15,13 +23,5 @@
       "start_date": "2012-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Corporate Governance and Nominating",
-    "Finance"
   ]
 }

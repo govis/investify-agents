@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Meredith has over 40 years of experience in the mining industry and was previously the CFO of Ivanhoe Mines Ltd.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "Capstone Copper Corp.",
       "ticker": "CS",
@@ -15,13 +23,5 @@
       "start_date": "2022-03-23",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Governance and Nominating Committee"
   ]
 }

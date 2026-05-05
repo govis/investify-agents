@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Fendley has served as President of our Unmanned Systems Division since 2017. He previously served as Senior Vice President of General Atomics Aeronautical Systems.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Kratos Defense & Security Solutions, Inc.",
       "ticker": "KTOS",
@@ -15,10 +20,5 @@
       "start_date": "2017-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

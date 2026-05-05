@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Chris Capossela is executive vice president and chief marketing officer at Microsoft. He leads the company\u2019s worldwide marketing and consumer business, which includes advertising, brand, communications, research as well as Microsoft\u2019s retail stores.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Microsoft Corporation",
       "ticker": "MSFT",
@@ -15,11 +21,5 @@
       "start_date": "2014-03-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Mr. Kirwin is an independent geologist with over 45 years of international experience. He was previously Executive Vice President of Ivanhoe Mines Limited.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Vista Gold Corp.",
-      "ticker": "VGZ",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-03-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
@@ -24,5 +14,15 @@
   "committees": [
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
+    {
+      "name": "Vista Gold Corp.",
+      "ticker": "VGZ",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2019-03-01",
+      "end_date": null
+    }
   ]
 }

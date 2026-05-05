@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mike Fraser was appointed as CEO and Executive Director of Gold Fields effective 1 January 2024. Prior to joining Gold Fields, he was the CEO of Chaarat Gold Holdings and previously served as Chief Operating Officer at South32.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Gold Fields Limited",
       "ticker": "GFI",
@@ -15,10 +20,5 @@
       "start_date": "2024-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

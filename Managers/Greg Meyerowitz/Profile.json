@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Meyerowitz was a senior audit partner at EY for 26 years. He has extensive experience in the resources sector and is a member of the Australian Institute of Company Directors.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Remuneration Committee"
+  ],
+  "companies": [
     {
       "name": "Deep Yellow Limited",
       "ticker": "DYL",
@@ -15,13 +23,5 @@
       "start_date": "2022-12-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee (Chair)",
-    "Remuneration Committee"
   ]
 }

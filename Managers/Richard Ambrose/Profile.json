@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former Executive Vice President, Space of Lockheed Martin Corporation. He served in various leadership roles at Lockheed Martin from 2000 to 2022.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Organization and Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Textron Inc.",
       "ticker": "TXT",
@@ -15,13 +23,5 @@
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Organization and Compensation Committee"
   ]
 }

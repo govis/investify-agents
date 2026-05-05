@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Ms. Mierkey is the Chief Financial Officer of the Company. She is a Certified Public Accountant with over 15 years of experience in finance and accounting, primarily in the mining industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "enCore Energy Corp.",
       "ticker": "EU",
@@ -23,10 +28,5 @@
       "start_date": "2021-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

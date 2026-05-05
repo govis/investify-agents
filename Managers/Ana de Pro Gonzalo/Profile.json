@@ -6,7 +6,14 @@
   "age_year": 2023,
   "background": "Ana de Pro Gonzalo has been a member of the Supervisory Board since 2020. She was the Chief Financial Officer of Amadeus IT Group and has held various senior financial roles at Metrovacesa and Arthur Andersen.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "STMicroelectronics N.V.",
       "ticker": "STM",
@@ -15,12 +22,5 @@
       "start_date": "2020-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

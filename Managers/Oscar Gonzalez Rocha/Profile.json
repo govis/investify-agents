@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "President since December 1999 and Chief Executive Officer since October 2004. Director since November 1999. Director and Chief Executive Officer of Americas Mining Corporation since 2002. Director and President of Grupo Mexico since 2002.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Southern Copper Corporation",
       "ticker": "SCCO",
@@ -15,10 +20,5 @@
       "start_date": "1999-12-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

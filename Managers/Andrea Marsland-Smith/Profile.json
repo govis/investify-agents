@@ -5,8 +5,18 @@
   "age": null,
   "age_year": null,
   "background": "Dr. Andrea Marsland-Smith is a geologist with over 20 years' experience in the uranium industry. She was previously the Head of Exploration for Heathgate Resources (owner of the Beverley Uranium Mine) and is credited with the discovery of the Four Mile uranium deposit in South Australia.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://pbs.twimg.com/amplify_video_thumb/1944673554429272064/img/uGUPaTgNDCSB--lY.jpg",
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/amarslandsmith"
+    }
+  ],
+  "committees": [],
+  "companies": [
     {
       "name": "Alligator Energy Limited",
       "ticker": "AGE",
@@ -16,9 +26,6 @@
       "end_date": null
     }
   ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  "picture_local": "Picture.jpg",
+  "enrichment_status": "success"
 }

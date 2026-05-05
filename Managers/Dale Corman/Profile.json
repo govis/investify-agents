@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Mr. Corman has over 50 years of experience in mineral exploration and development. He was previously the Chairman and CEO of Western Silver Corporation.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "NorthIsle Copper and Gold Inc.",
-      "ticker": "NCX",
-      "exchange": "TSX",
-      "title_or_role": "Chairman",
-      "start_date": "2011-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Electrification",
     "Gold"
@@ -24,5 +14,15 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
+  ],
+  "companies": [
+    {
+      "name": "NorthIsle Copper and Gold Inc.",
+      "ticker": "NCX",
+      "exchange": "TSX",
+      "title_or_role": "Chairman",
+      "start_date": "2011-01-01",
+      "end_date": null
+    }
   ]
 }

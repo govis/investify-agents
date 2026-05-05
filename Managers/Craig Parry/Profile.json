@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Geologist and co-founder of Inventa Capital. Former CEO of IsoEnergy and co-founder of NexGen Energy.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Skeena Resources Limited",
       "ticker": "SKE",
@@ -15,13 +23,5 @@
       "start_date": "2017-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

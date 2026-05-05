@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Paul J. Tufano has been a director since 2005 and Chairman of the Board since 2023. He was formerly the President and CEO of Benchmark Electronics, Inc. and CFO of Alcatel-Lucent.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Teradyne, Inc.",
-      "ticker": "TER",
-      "exchange": "NASDAQ",
-      "title_or_role": "Chairman of the Board, Independent Director",
-      "start_date": "2023-02-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Defense",
     "Electrification"
@@ -24,5 +14,15 @@
   "committees": [
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
+    {
+      "name": "Teradyne, Inc.",
+      "ticker": "TER",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chairman of the Board, Independent Director",
+      "start_date": "2023-02-01",
+      "end_date": null
+    }
   ]
 }

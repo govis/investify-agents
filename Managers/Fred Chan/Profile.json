@@ -6,7 +6,15 @@
   "age_year": 2023,
   "background": "Former Chairman of the Board of ESS Technology, Inc. and former CEO of various technology companies. Expert in semiconductor and system design.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Super Micro Computer, Inc.",
       "ticker": "SMCI",
@@ -15,13 +23,5 @@
       "start_date": "2020-11-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

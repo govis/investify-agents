@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Gregory R. Dahlberg previously served as Senior Vice President for Strategic Planning at Lockheed Martin Corporation and as Under Secretary of the Army.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Finance Committee"
+  ],
+  "companies": [
     {
       "name": "Leidos Holdings, Inc.",
       "ticker": "LDOS",
@@ -15,13 +23,5 @@
       "start_date": "2016-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Finance Committee"
   ]
 }

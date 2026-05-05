@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Flood is a professional geologist with over 15 years of experience in mineral exploration. He is a co-founder of Kenorland Minerals Ltd. and has worked with Ivanhoe Mines and Rio Tinto.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Faraday Copper Corp.",
       "ticker": "FDY",
@@ -15,10 +20,5 @@
       "start_date": "2021-03-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

@@ -6,7 +6,18 @@
   "age_year": 2024,
   "background": "Former Chairman and CEO of Northrop Grumman Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation and Management Development Committee",
+    "Finance Committee"
+  ],
+  "companies": [
     {
       "name": "Cisco Systems, Inc.",
       "ticker": "CSCO",
@@ -23,16 +34,5 @@
       "start_date": "2019-02-11",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation and Management Development Committee",
-    "Finance Committee"
   ]
 }

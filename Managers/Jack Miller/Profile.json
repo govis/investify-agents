@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Miller is the retired Chairman and CEO of North American Coffee Partnership. He has served on the board since 2016.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Governance Committee",
+    "Social Responsibility and Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Vistra Corp.",
       "ticker": "VST",
@@ -15,13 +23,5 @@
       "start_date": "2016-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Nominating and Governance Committee",
-    "Social Responsibility and Compensation Committee"
   ]
 }

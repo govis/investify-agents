@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Ms. Stockdale has served as our Chief Human Resources Officer since 2017. She has extensive experience in HR leadership across various industries.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "First Solar, Inc.",
       "ticker": "FSLR",
@@ -15,11 +21,5 @@
       "start_date": "2017-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Staffan Bohman is a Director with extensive experience in industrial management and board work in several listed companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Atlas Copco AB",
       "ticker": "ATCO",
@@ -15,12 +22,5 @@
       "start_date": "2003-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

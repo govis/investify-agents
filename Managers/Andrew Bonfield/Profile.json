@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Andrew Bonfield is chief financial officer of Caterpillar Inc. Before joining Caterpillar in 2018, he served as CFO of National Grid plc and held senior finance roles at Cadbury plc, Bristol-Myers Squibb, and SmithKline Beecham.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Caterpillar Inc.",
       "ticker": "CAT",
@@ -15,10 +20,5 @@
       "start_date": "2018-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

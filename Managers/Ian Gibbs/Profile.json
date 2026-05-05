@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Gibbs is a Canadian Chartered Professional Accountant with over 25 years of experience in the resource sector. He has served as CFO for several public companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Lundin Gold Inc.",
       "ticker": "LUG",
@@ -15,13 +23,5 @@
       "start_date": "2014-11-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

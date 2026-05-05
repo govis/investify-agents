@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Chief Investment Officer and Founding Partner of Trian Fund Management, L.P.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "General Electric Company",
-      "ticker": "GE",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2017-10-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Defense",
     "Electrification"
@@ -24,5 +14,15 @@
   "committees": [
     "Finance and Capital Allocation Committee",
     "Management Development and Compensation Committee"
+  ],
+  "companies": [
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2017-10-01",
+      "end_date": null
+    }
   ]
 }

@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Hudson has served as President of Vistra Retail since 2016. He is responsible for the company's retail brands, including TXU Energy. He previously held leadership roles at TXU Energy and in the consulting industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Vistra Corp.",
       "ticker": "VST",
@@ -15,10 +20,5 @@
       "start_date": "2016-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

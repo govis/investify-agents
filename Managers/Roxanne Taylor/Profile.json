@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Ms. Taylor has served as a member of our Board since 2020. She is the Chief Marketing and Communications Officer at Memorial Sloan Kettering Cancer Center and previously served as Chief Marketing and Communications Officer at Accenture.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Pure Storage, Inc.",
       "ticker": "PSTG",
@@ -15,12 +22,5 @@
       "start_date": "2020",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee"
   ]
 }

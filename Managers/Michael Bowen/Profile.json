@@ -6,7 +6,15 @@
   "age_year": null,
   "background": "Mr. Bowen is a partner at a major Australian law firm and has over 35 years' experience in corporate, commercial and securities law with a focus on the resources sector.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "companies": [
     {
       "name": "Lotus Resources Limited",
       "ticker": "LOT",
@@ -15,13 +23,5 @@
       "start_date": "2021-02-22",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee",
-    "Remuneration and Nomination Committee"
   ]
 }

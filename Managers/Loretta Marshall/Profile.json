@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Loretta Marshall is a senior executive with experience in finance and corporate governance.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit & Risk Committee"
+  ],
+  "companies": [
     {
       "name": "Barrick Gold Corporation",
       "ticker": "GOLD",
@@ -15,12 +22,5 @@
       "start_date": "2020-02-12",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit & Risk Committee"
   ]
 }

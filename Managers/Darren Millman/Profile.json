@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Millman was appointed Vice President and Chief Financial Officer in April 2016. He joined Centerra in 2013 as Treasurer. Prior to Centerra, he held various senior financial positions at Ivanhoe Mines.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Centerra Gold Inc.",
       "ticker": "CGAU",
@@ -15,10 +20,5 @@
       "start_date": "2016-04-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "President and CEO since 2019. Joined Saab in 1985. Previously Senior Vice President and Deputy CEO. Holds a B.Sc. in Mathematics and Computer Science.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Saab AB",
       "ticker": "SAAB-B",
@@ -23,11 +29,5 @@
       "start_date": "2019-10-23",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense",
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

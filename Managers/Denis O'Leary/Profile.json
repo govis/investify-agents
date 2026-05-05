@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Private investor. Former executive at J.P. Morgan Chase & Co.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "CrowdStrike Holdings, Inc.",
       "ticker": "CRWD",
@@ -15,13 +23,5 @@
       "start_date": "2012-04-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

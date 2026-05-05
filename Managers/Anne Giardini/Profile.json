@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Giardini is a lawyer and executive with over 30 years of experience in the resource sector. She was previously President of Weyerhaeuser Company Limited and serves on several boards.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "K92 Mining Inc.",
       "ticker": "KNT",
@@ -15,13 +23,5 @@
       "start_date": "2021-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Corporate Governance and Nominating Committee"
   ]
 }

@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Howley has served as Executive Chairman since 2018. He was Chairman and CEO from 2003 to 2018. He has been a director since 2003. He is also a director of Case Western Reserve University and the Rock & Roll Hall of Fame.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "TransDigm Group Incorporated",
       "ticker": "TDG",
@@ -15,10 +20,5 @@
       "start_date": "2018-04-30",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

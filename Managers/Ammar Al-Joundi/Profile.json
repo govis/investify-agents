@@ -5,8 +5,18 @@
   "age": 59,
   "age_year": 2024,
   "background": "Mr. Al-Joundi was appointed President and Chief Executive Officer of Agnico Eagle in February 2022. He previously served as President from 2015 to 2022 and as Chief Financial Officer from 2010 to 2012 and 2015. He has over 20 years of experience in finance and business strategy in the mining industry.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://cdn.comparably.com/24749373/p/86038/bg.jpg",
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "url": "https://ca.linkedin.com/in/ammar-aljoundi-36167330",
+      "name": "LinkedIn"
+    }
+  ],
+  "committees": [],
+  "companies": [
     {
       "name": "Agnico Eagle Mines Limited",
       "ticker": "AEM",
@@ -16,9 +26,6 @@
       "end_date": null
     }
   ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  "picture_local": "Picture.jpg",
+  "enrichment_status": "success"
 }

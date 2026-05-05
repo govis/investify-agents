@@ -6,7 +6,16 @@
   "age_year": 2024,
   "background": "Cynthia Carroll was previously the CEO of Anglo American plc and has held senior executive roles at Alcan. She is a geologist by training.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Health, Safety, Environment and Communities Committee (Chair)",
+    "Remuneration Committee"
+  ],
+  "companies": [
     {
       "name": "Glencore plc",
       "ticker": "GLEN",
@@ -23,14 +32,5 @@
       "start_date": "2021-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Health, Safety, Environment and Communities Committee (Chair)",
-    "Remuneration Committee"
   ]
 }

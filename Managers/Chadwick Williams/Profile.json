@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Williams is the founder and President of Red Cloud Securities Inc. He has extensive experience in mining finance and capital markets.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee (Chair)"
+  ],
+  "companies": [
     {
       "name": "Karora Resources Inc.",
       "ticker": "KRR",
@@ -15,13 +23,5 @@
       "start_date": "2020-06-18",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Corporate Governance and Nominating Committee (Chair)"
   ]
 }

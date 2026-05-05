@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Lawrence has served as President of the company's antimony operations and was previously the CEO of the company.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "United States Antimony Corporation",
       "ticker": "USAR",
@@ -15,10 +20,5 @@
       "start_date": "2024-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

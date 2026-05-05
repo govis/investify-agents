@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Long has over 40 years of experience in the mining and finance industries. He was previously CEO of Lydian International and has held senior roles at the International Finance Corporation (IFC).",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and Nominating Committee",
+    "Technical Committee"
+  ],
+  "companies": [
     {
       "name": "Faraday Copper Corp.",
       "ticker": "FDY",
@@ -15,13 +23,5 @@
       "start_date": "2022-04-21",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation and Nominating Committee",
-    "Technical Committee"
   ]
 }

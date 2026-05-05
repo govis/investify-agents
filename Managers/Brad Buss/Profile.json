@@ -6,7 +6,17 @@
   "age_year": 2024,
   "background": "Former CFO of SolarCity and Cypress Semiconductor. Director at Tesla and Advance Auto Parts.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Executive Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Marvell Technology, Inc.",
       "ticker": "MRVL",
@@ -23,15 +33,5 @@
       "start_date": "2020-11-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Executive Committee",
-    "Nominating and Corporate Governance Committee"
   ]
 }

@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Mr. Kay has over 40 years of experience in the legal and corporate sectors. He has served as a director and officer of several public companies and has extensive experience in corporate governance and regulatory compliance.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Ucore Rare Metals Inc.",
-      "ticker": "UCU",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2011-05-18",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -24,5 +14,15 @@
     "Audit Committee",
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
+    {
+      "name": "Ucore Rare Metals Inc.",
+      "ticker": "UCU",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "start_date": "2011-05-18",
+      "end_date": null
+    }
   ]
 }

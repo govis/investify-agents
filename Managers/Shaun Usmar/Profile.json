@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Usmar is the Founder and CEO of Triple Flag Precious Metals Corp. and was previously CFO of Barrick Gold Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Technical and Sustainability Committee"
+  ],
+  "companies": [
     {
       "name": "Alamos Gold Inc.",
       "ticker": "AGI",
@@ -23,13 +31,5 @@
       "start_date": "2016-04-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Technical and Sustainability Committee"
   ]
 }

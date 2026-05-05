@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Bryan Wright is senior vice president and chief accounting officer of Constellation. He previously served as senior vice president and corporate controller for Exelon.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Constellation Energy Corporation",
       "ticker": "CEG",
@@ -23,10 +28,5 @@
       "start_date": "2022-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

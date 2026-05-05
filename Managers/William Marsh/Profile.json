@@ -6,7 +6,16 @@
   "age_year": 2024,
   "background": "Geologist with over 40 years of experience in the uranium industry, including senior roles at Cameco Corp.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Technical Committee"
+  ],
+  "companies": [
     {
       "name": "Fission Uranium Corp.",
       "ticker": "FCU",
@@ -23,14 +32,5 @@
       "start_date": "2022-11-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee",
-    "Technical Committee"
   ]
 }

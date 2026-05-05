@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Cheryl Johnson is chief human resources officer of Caterpillar Inc. She joined the company in 2017 from Textron Inc., where she served as vice president of human resources.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Caterpillar Inc.",
       "ticker": "CAT",
@@ -15,10 +20,5 @@
       "start_date": "2017-07-24",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

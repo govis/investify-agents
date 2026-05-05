@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Rosemary Schooler has served as a member of our board of directors since 2022. She was previously a Corporate Vice President at Intel Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Arm Holdings plc",
       "ticker": "ARM",
@@ -15,12 +22,5 @@
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

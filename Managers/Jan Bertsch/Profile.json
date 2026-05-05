@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Ms. Bertsch served as Senior Vice President and Chief Financial Officer of Owens-Illinois, Inc. from 2015 to 2019.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "BWX Technologies, Inc.",
-      "ticker": "BWXT",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2013-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Defense",
     "Nuclear"
@@ -24,5 +14,15 @@
   "committees": [
     "Audit Committee",
     "Governance Committee"
+  ],
+  "companies": [
+    {
+      "name": "BWX Technologies, Inc.",
+      "ticker": "BWXT",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2013-01-01",
+      "end_date": null
+    }
   ]
 }

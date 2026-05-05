@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Founder of Fission Uranium and Fission Energy. Experienced in corporate finance and resource company management.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Fission Uranium Corp.",
       "ticker": "FCU",
@@ -23,10 +28,5 @@
       "start_date": "2022-11-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

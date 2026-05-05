@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Chuck Robbins is Chair and Chief Executive Officer of Cisco. He has served as CEO since July 2015 and was elected Chair of the Board in December 2017. Prior to that, he held various leadership positions at Cisco since joining in 1997, including Senior Vice President of Worldwide Field Operations.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Cisco Systems, Inc.",
       "ticker": "CSCO",
@@ -15,10 +20,5 @@
       "start_date": "2017-12-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

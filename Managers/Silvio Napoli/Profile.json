@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Executive Chairman of the Board of Directors of Schindler Holding Ltd. since 2017. He has held various leadership roles at Schindler since 1994.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Eaton Corporation plc",
-      "ticker": "ETN",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -24,5 +14,15 @@
   "committees": [
     "Compensation and Organization",
     "Finance"
+  ],
+  "companies": [
+    {
+      "name": "Eaton Corporation plc",
+      "ticker": "ETN",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2019-01-01",
+      "end_date": null
+    }
   ]
 }

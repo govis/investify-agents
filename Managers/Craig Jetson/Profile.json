@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Mr. Jetson is a highly experienced career miner and executive with more than 40 years' experience in the mining industry. He was previously Executive General Manager at Newcrest Mining and CEO of St Barbara Limited.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "De Grey Mining Limited",
       "ticker": "DEG",
@@ -15,10 +20,5 @@
       "start_date": "2024-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

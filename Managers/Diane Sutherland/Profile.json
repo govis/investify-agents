@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former partner at Ernst & Young LLP with over 30 years of experience in audit and advisory services.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "Li-Cycle Holdings Corp.",
       "ticker": "LICY",
@@ -15,13 +23,5 @@
       "start_date": "2023-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Governance and Nominating Committee"
   ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Gonzalez-Urien is a geologist with over 50 years of experience. He was formerly the President of Placer Dome Exploration.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Sustainability Committee",
+    "Technical Committee"
+  ],
+  "companies": [
     {
       "name": "Seabridge Gold Inc.",
       "ticker": "SA",
@@ -15,13 +23,5 @@
       "start_date": "2006-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Sustainability Committee",
-    "Technical Committee"
   ]
 }

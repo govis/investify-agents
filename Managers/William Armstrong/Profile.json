@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Armstrong is a mining engineer with over 50 years of experience. He was previously the Director of Mineral Resources and Mine Development at Teck Resources Ltd.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Health, Safety, Environment and Social Performance Committee"
+  ],
+  "companies": [
     {
       "name": "Artemis Gold Inc.",
       "ticker": "ARTG",
@@ -15,13 +23,5 @@
       "start_date": "2019-01-10",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Health, Safety, Environment and Social Performance Committee"
   ]
 }

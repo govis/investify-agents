@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Verran is a Professional Geoscientist with over 20 years of experience in the mining industry. He was previously Vice President, Exploration for Denison Mines Corp. and has held senior roles with various exploration and mining companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Fortune Bay Corp.",
       "ticker": "FOR",
@@ -15,11 +21,5 @@
       "start_date": "2019-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Senior Vice President of Van Eck Associates Corporation, Van Eck Securities Corporation, and Van Eck Absolute Return Advisers, Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "VanEck Uranium and Nuclear Energy ETF",
       "ticker": "NLR",
@@ -23,11 +29,5 @@
       "start_date": "2009",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

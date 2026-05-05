@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mark was formerly Cabinet Secretary and National Security Adviser. He has extensive experience in national security, international relations, and public policy.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "ESG Committee",
+    "Nominations Committee"
+  ],
+  "companies": [
     {
       "name": "BAE Systems plc",
       "ticker": "BA",
@@ -15,13 +23,5 @@
       "start_date": "2022-11-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "ESG Committee",
-    "Nominations Committee"
   ]
 }

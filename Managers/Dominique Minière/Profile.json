@@ -6,7 +6,16 @@
   "age_year": 2023,
   "background": "Dominique Mini\u00e8re is the former President of Nuclear and Chief Strategy Officer at Ontario Power Generation. He has extensive experience in nuclear operations.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Safety, Health, Environment, Quality and Technical Committee",
+    "Safety, Health, Environment, Sustainability and Technical Committee"
+  ],
+  "companies": [
     {
       "name": "Cameco Corporation",
       "ticker": "CCJ",
@@ -23,14 +32,5 @@
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Safety, Health, Environment, Quality and Technical Committee",
-    "Safety, Health, Environment, Sustainability and Technical Committee"
   ]
 }

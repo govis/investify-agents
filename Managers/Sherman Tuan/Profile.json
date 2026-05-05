@@ -6,7 +6,15 @@
   "age_year": 2023,
   "background": "Founder and CEO of PurpleComm, Inc. Previously founded FVC.com. Extensive experience in the technology industry and corporate strategy.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Super Micro Computer, Inc.",
       "ticker": "SMCI",
@@ -15,13 +23,5 @@
       "start_date": "2007-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nominating and Corporate Governance Committee"
   ]
 }

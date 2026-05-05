@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "David G. Fubini is a Senior Lecturer at Harvard Business School and a Director Emeritus of McKinsey & Company.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Ethics Committee",
+    "Human Resources and Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Leidos Holdings, Inc.",
       "ticker": "LDOS",
@@ -15,13 +23,5 @@
       "start_date": "2013-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Corporate Governance and Ethics Committee",
-    "Human Resources and Compensation Committee"
   ]
 }

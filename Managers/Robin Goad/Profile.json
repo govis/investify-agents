@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Goad is a professional geologist with over 35 years of experience in the mining and exploration industry. He is the President and CEO of Fortune Minerals Limited and has served as a director and officer of several other public companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "DLP Resources Inc.",
       "ticker": "DLP",
@@ -31,11 +37,5 @@
       "start_date": "2022-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

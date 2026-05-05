@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Miller is a corporate director and former Vice President, General Counsel and Corporate Secretary of Newmont Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance and Nominating Committee",
+    "Safety, Environment and Sustainability Committee"
+  ],
+  "companies": [
     {
       "name": "IAMGOLD Corporation",
       "ticker": "IAG",
@@ -15,13 +23,5 @@
       "start_date": "2022-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Governance and Nominating Committee",
-    "Safety, Environment and Sustainability Committee"
   ]
 }

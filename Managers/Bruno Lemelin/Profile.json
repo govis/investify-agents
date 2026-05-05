@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Lemelin has over 25 years of experience in the mining industry. He joined IAMGOLD in 2014 and has held various senior operational roles, including Senior Vice President, Operations and Projects.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "IAMGOLD Corporation",
       "ticker": "IAG",
@@ -15,10 +20,5 @@
       "start_date": "2024-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

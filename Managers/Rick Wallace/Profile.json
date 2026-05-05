@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Rick Wallace is the Chief Executive Officer of KLA Corporation. He has been with the company since 1988 and has held various leadership roles, including President and Chief Operating Officer. He was appointed CEO in 2006.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "KLA Corporation",
       "ticker": "KLAC",
@@ -15,10 +20,5 @@
       "start_date": "2006-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

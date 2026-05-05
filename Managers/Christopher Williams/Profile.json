@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Chairman of Siebert Williams Shank & Co., LLC.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation and Benefits Committee"
+  ],
+  "companies": [
     {
       "name": "Union Pacific Corporation",
       "ticker": "UNP",
@@ -15,13 +23,5 @@
       "start_date": "2019-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation and Benefits Committee"
   ]
 }

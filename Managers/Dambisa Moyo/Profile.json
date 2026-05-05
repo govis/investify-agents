@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Co-principal of Versaca Investments. Director since 2016.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Public Policy and Sustainability Committee"
+  ],
+  "companies": [
     {
       "name": "Chevron Corporation",
       "ticker": "CVX",
@@ -15,13 +23,5 @@
       "start_date": "2016-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Public Policy and Sustainability Committee"
   ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms Adams has over 30 years\u2019 experience in the resources and energy sectors. She has held senior executive and board positions with several ASX-listed companies, including Woodside Energy and several mining companies. She has extensive experience in human resources and corporate affairs.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "companies": [
     {
       "name": "Paladin Energy Ltd",
       "ticker": "PDN",
@@ -15,13 +23,5 @@
       "start_date": "2023-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee",
-    "Remuneration and Nomination Committee"
   ]
 }

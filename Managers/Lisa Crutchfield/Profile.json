@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Crutchfield is the Managing Principal of Hudson Strategic Advisers, LLC. She has served on the board since 2023.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Sustainability and Relevant Public Policy Committee"
+  ],
+  "companies": [
     {
       "name": "Vistra Corp.",
       "ticker": "VST",
@@ -15,13 +23,5 @@
       "start_date": "2023-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Sustainability and Relevant Public Policy Committee"
   ]
 }

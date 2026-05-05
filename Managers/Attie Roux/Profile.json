@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Roux is the Chief Projects Officer. He has over 40 years of experience in the mining industry, specializing in project development and operational management.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Evolution Mining Limited",
       "ticker": "EVN",
@@ -15,10 +20,5 @@
       "start_date": "2022-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

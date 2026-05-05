@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Chairman of Sanders Morris Harris. He has served on our board since 2012.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation and Management Development Committee"
+  ],
+  "companies": [
     {
       "name": "Parsons Corporation",
       "ticker": "PSN",
@@ -15,13 +23,5 @@
       "start_date": "2012",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation and Management Development Committee"
   ]
 }

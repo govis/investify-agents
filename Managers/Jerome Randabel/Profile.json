@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Randabel is a geologist with over 25 years of experience in the mining industry. He has extensive experience in uranium exploration and has worked on projects across Africa and Australia.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "GoviEx Uranium Inc.",
       "ticker": "GXU",
@@ -15,10 +20,5 @@
       "start_date": "2010-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

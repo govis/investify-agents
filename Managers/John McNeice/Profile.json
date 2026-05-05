@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. McNeice is a Chartered Professional Accountant with over 25 years of experience in financial reporting and corporate governance for public companies in the resource sector.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Lahontan Gold Corp.",
       "ticker": "LG",
@@ -15,11 +21,5 @@
       "start_date": "2022-04-06",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

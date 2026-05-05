@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Davis has served as Executive Vice President and Chief Financial Officer since February 2022. He previously served as Senior Vice President and CFO from August 2020 to February 2022, and as Vice President, Strategy and Budget from 2016 to 2020.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Cheniere Energy, Inc.",
       "ticker": "LNG",
@@ -15,10 +20,5 @@
       "start_date": "2022-02-24",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

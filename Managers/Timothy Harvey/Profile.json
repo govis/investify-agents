@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Harvey has served as a member of our Board since September 2021. Mr. Harvey is currently an Executive Partner at Silversmith Capital Partners. Previously, he served as President of Commercial Solutions at BAE Systems and held leadership roles at Vastera, Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "BlackSky Technology Inc.",
       "ticker": "BKSY",
@@ -15,13 +23,5 @@
       "start_date": "2021-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

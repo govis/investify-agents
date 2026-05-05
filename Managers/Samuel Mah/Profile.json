@@ -6,7 +6,12 @@
   "age_year": 2023,
   "background": "Mr. Mah has served as our Vice President, Evaluations since September 2020. He is a professional engineer with over 25 years of experience in the mining industry, including roles at Goldcorp Inc. and AMEC Americas Limited.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Gold Royalty Corp.",
       "ticker": "GROY",
@@ -15,10 +20,5 @@
       "start_date": "2020-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

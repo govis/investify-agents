@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Lytle has been with B2Gold since 2007 and was appointed Senior Vice President, Operations in 2016.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "B2Gold Corp.",
       "ticker": "BTG",
@@ -15,10 +20,5 @@
       "start_date": "2016-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

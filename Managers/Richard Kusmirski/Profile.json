@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Kusmirski has over 45 years of experience in the exploration industry and was formerly the President of JNR Resources Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Technical Committee"
+  ],
+  "companies": [
     {
       "name": "F3 Uranium Corp.",
       "ticker": "FUU",
@@ -15,13 +23,5 @@
       "start_date": "2022-11-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Technical Committee"
   ]
 }

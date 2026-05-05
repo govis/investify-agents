@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Dominik Asam is CFO and a member of the Executive Board of SAP SE. Before joining SAP, he was CFO of Airbus and Infineon Technologies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "SAP SE",
       "ticker": "SAP",
@@ -15,11 +21,5 @@
       "start_date": "2023-03-07",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

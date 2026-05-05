@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Dr. Griffin has served as a member of the Board since 2020. He previously served as the Under Secretary of Defense for Research and Engineering and was the Administrator of NASA from 2005 to 2009.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Rocket Lab USA, Inc.",
       "ticker": "RKLB",
@@ -15,12 +22,5 @@
       "start_date": "2020-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

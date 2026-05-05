@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Flatley has served as a member of our Board since 2021. He is the former Chairman and CEO of Illumina, Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Rivian Automotive, Inc.",
       "ticker": "RIVN",
@@ -15,13 +23,5 @@
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

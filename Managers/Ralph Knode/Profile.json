@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Mr. Knode has over 30 years of experience in the uranium industry, including senior roles at Uranium One and Cameco Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Peninsula Energy Limited",
       "ticker": "PEN",
@@ -15,10 +20,5 @@
       "start_date": "2011-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

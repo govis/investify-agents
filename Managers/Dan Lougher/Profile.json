@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Lougher is a highly experienced mining executive with over 40 years of experience in the industry, including as CEO of Western Areas Limited.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Technical Committee (Chair)"
+  ],
+  "companies": [
     {
       "name": "Perseus Mining Limited",
       "ticker": "PRU",
@@ -15,13 +23,5 @@
       "start_date": "2022-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee",
-    "Technical Committee (Chair)"
   ]
 }

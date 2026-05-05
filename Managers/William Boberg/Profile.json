@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Boberg is a co-founder of the Company and served as President and CEO from 2006 to 2011. He is a professional geologist with over 50 years of experience.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Technical Committee"
+  ],
+  "companies": [
     {
       "name": "Ur-Energy Inc.",
       "ticker": "URG",
@@ -15,12 +22,5 @@
       "start_date": "2004-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Technical Committee"
   ]
 }

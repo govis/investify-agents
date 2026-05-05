@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "General Counsel of Icahn Enterprises L.P.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Cheniere Energy, Inc.",
       "ticker": "LNG",
@@ -15,13 +23,5 @@
       "start_date": "2016-08-22",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

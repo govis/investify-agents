@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former Director, Investor Relations, Ford Motor Company. Son of Edsel B. Ford II.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Sustainability, Innovation and Policy Committee"
+  ],
+  "companies": [
     {
       "name": "Ford Motor Company",
       "ticker": "F",
@@ -15,13 +23,5 @@
       "start_date": "2021-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Sustainability, Innovation and Policy Committee"
   ]
 }

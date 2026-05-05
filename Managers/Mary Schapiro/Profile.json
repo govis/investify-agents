@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former Chair of the U.S. Securities and Exchange Commission.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Governance Committee",
+    "Risk Committee"
+  ],
+  "companies": [
     {
       "name": "Morgan Stanley",
       "ticker": "MS",
@@ -15,13 +23,5 @@
       "start_date": "2018-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Nominating and Governance Committee",
-    "Risk Committee"
   ]
 }

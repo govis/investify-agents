@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Gold is the CEO and Managing Partner of QVT Financial LP. He has been a director of various companies in the biotech and shipping industries.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "MP Materials Corp.",
       "ticker": "MP",
@@ -15,12 +22,5 @@
       "start_date": "2020-11-17",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

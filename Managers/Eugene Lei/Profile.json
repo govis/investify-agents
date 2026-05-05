@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Lei was appointed Chief Financial Officer in 2022. He joined Hudbay in 2012 and has held progressively senior roles in corporate development and strategy. Prior to Hudbay, he was an investment banker at a major Canadian bank.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Hudbay Minerals Inc.",
       "ticker": "HBM",
@@ -15,10 +20,5 @@
       "start_date": "2022-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

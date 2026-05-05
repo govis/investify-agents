@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Hubert is a mining executive with over 30 years of experience. He was previously CEO of Andean Resources Ltd. and held senior roles with Meridian Gold Inc. He is currently Chairman of Cassiar Gold Corp. and a Director of Inmet Mining.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation, Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "Revival Gold Inc.",
       "ticker": "RVG",
@@ -15,13 +23,5 @@
       "start_date": "2017-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation, Governance and Nominating Committee"
   ]
 }

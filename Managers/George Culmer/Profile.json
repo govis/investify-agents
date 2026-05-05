@@ -6,7 +6,15 @@
   "age_year": 2023,
   "background": "George Culmer joined the Board in 2020. He was previously CFO of Lloyds Banking Group and RSA Insurance Group. He is also Chair of Aviva plc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Nominations & Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Rolls-Royce Holdings plc",
       "ticker": "RR",
@@ -15,13 +23,5 @@
       "start_date": "2020-01-02",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee (Chair)",
-    "Nominations & Governance Committee"
   ]
 }

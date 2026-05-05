@@ -5,8 +5,25 @@
   "age": 69,
   "age_year": 2024,
   "background": "Lydia Kennard is the President and CEO of KDG Construction Consulting. She previously served as the Executive Director of Los Angeles World Airports.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://media.licdn.com/dms/image/v2/C5603AQGOdDcdbtLo-g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1625616117923?e=2147483647&v=beta&t=r1KNgttWU8fz7SrdKQv8rujmbdsaQSBDc7ljgCK8a4w",
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "url": "https://www.linkedin.com/in/lydia-kennard-26427b63",
+      "name": "LinkedIn"
+    }
+  ],
+  "committees": [
+    "Audit",
+    "Corporate Responsibility",
+    "Governance Committee (Chair)",
+    "Governance and Nomination Committee",
+    "Talent and Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "AECOM",
       "ticker": "ACM",
@@ -32,16 +49,6 @@
       "end_date": null
     }
   ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit",
-    "Corporate Responsibility",
-    "Governance Committee (Chair)",
-    "Governance and Nomination Committee",
-    "Talent and Compensation Committee"
-  ]
+  "picture_local": "Picture.jpg",
+  "enrichment_status": "success"
 }

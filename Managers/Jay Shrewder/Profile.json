@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Shrewder is a Chartered Professional Accountant with extensive experience in financial reporting and corporate finance for junior exploration companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Stallion Uranium Corp.",
       "ticker": "STUD",
@@ -15,10 +20,5 @@
       "start_date": "2022-06-15",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

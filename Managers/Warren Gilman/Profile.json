@@ -6,7 +6,18 @@
   "age_year": 2023,
   "background": "Chairman and CEO of Queen\u2019s Road Capital Investment Ltd. Former Chairman and CEO of CEF Holdings.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Governance Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Gold Royalty Corp.",
       "ticker": "GROY",
@@ -31,16 +42,5 @@
       "start_date": "2017-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee",
-    "Governance Committee",
-    "Nominating and Corporate Governance Committee"
   ]
 }

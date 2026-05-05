@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Ashley has over 35 years of experience in the mineral exploration industry. He was formerly the Vice President, Exploration of Fission Uranium Corp. and Fission Energy Corp. He has been involved in several major uranium discoveries in the Athabasca Basin.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "F3 Uranium Corp.",
       "ticker": "FUU",
@@ -15,10 +20,5 @@
       "start_date": "2022-11-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

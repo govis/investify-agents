@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Ms. Greene is chairman, president and CEO of Georgia Power. She previously served as chairman, president and CEO of Southern Company Gas and as Southern Company's chief operating officer.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "The Southern Company",
       "ticker": "SO",
@@ -15,10 +20,5 @@
       "start_date": "2023-03-31",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

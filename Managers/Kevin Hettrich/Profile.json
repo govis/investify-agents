@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Hettrich has served as our Chief Financial Officer since 2018. He joined QuantumScape in 2012 and has held various roles in finance and product management. Prior to QuantumScape, he worked at Bain & Company and the U.S. Department of Energy.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "QuantumScape Corporation",
       "ticker": "QS",
@@ -15,10 +20,5 @@
       "start_date": "2018-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Former CFO of GoPro and Atheros Communications. He serves on several public company boards.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)"
+  ],
+  "companies": [
     {
       "name": "GlobalFoundries Inc.",
       "ticker": "GFS",
@@ -15,12 +22,5 @@
       "start_date": "2021-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee (Chair)"
   ]
 }

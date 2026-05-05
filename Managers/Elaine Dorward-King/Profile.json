@@ -6,7 +6,18 @@
   "age_year": 2024,
   "background": "Dr. Dorward-King has over 30 years of experience in the mining and chemical industries, with a focus on sustainability and environmental strategy. She previously held senior roles at Newmont and Rio Tinto.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee",
+    "Health, Safety, Environment and Sustainability Committee",
+    "Safety and Health Committee",
+    "Social, Ethics and Sustainability Committee"
+  ],
+  "companies": [
     {
       "name": "NOVAGOLD RESOURCES INC.",
       "ticker": "NG",
@@ -23,16 +34,5 @@
       "start_date": "2020-03-27",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Corporate Governance and Nominating Committee",
-    "Health, Safety, Environment and Sustainability Committee",
-    "Safety and Health Committee",
-    "Social, Ethics and Sustainability Committee"
   ]
 }

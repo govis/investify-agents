@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Operating Partner at Clayton, Dubilier & Rice. Former Group Worldwide Chairman of Johnson & Johnson.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Microsoft Corporation",
-      "ticker": "MSFT",
-      "exchange": "NASDAQ",
-      "title_or_role": "Lead Independent Director, Independent Director",
-      "start_date": "2021-12-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "AI",
     "Defense"
@@ -24,5 +14,15 @@
   "committees": [
     "Compensation Committee",
     "Governance and Nominating Committee"
+  ],
+  "companies": [
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "title_or_role": "Lead Independent Director, Independent Director",
+      "start_date": "2021-12-01",
+      "end_date": null
+    }
   ]
 }

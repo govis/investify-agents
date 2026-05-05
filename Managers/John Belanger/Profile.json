@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Chief Operating Officer of Global X Management Company LLC since 2020. Previously served as Head of Product at Global X.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Global X Lithium & Battery Tech ETF",
       "ticker": "LIT",
@@ -15,10 +20,5 @@
       "start_date": "2020-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

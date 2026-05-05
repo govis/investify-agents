@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Chapdelaine is a Professional Geologist with over 25 years of experience in mineral exploration and development, particularly in Quebec and Ontario.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Delta Resources Limited",
       "ticker": "DLTA",
@@ -15,11 +21,5 @@
       "start_date": "2019-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

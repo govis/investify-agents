@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Simon Keeton has served as our Executive Vice President and General Manager, Power Solutions Group since January 2019. He previously served as Senior Vice President and General Manager of the MOSFET business unit from 2016 to 2019.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "ON Semiconductor Corporation",
       "ticker": "ON",
@@ -15,10 +20,5 @@
       "start_date": "2019-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

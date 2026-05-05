@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Kayser is the retired President and CEO of Seneca Foods Corporation. He has served as a director since 2011.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Moog Inc.",
       "ticker": "MOG",
@@ -15,13 +23,5 @@
       "start_date": "2011",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nominating and Governance Committee"
   ]
 }

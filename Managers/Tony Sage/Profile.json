@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Sage has over 35 years of experience in the fields of corporate advisory services, funds management, and capital markets. He is the Executive Chairman of European Lithium Ltd and has served as a director of several ASX-listed companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Critical Metals Corp.",
       "ticker": "CRML",
@@ -15,10 +20,5 @@
       "start_date": "2024-02-27",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

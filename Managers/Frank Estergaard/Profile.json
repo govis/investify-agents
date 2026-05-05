@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Chartered Professional Accountant and former partner at KPMG. Extensive experience in auditing and financial consulting for public companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "Fission Uranium Corp.",
       "ticker": "FCU",
@@ -15,13 +23,5 @@
       "start_date": "2013-02-13",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Corporate Governance and Nominating Committee"
   ]
 }

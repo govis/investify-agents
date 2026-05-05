@@ -5,7 +5,8 @@ from pipeline import ManagerEnrichmentPipeline
 from tools import populate_base_profile
 from dotenv import load_dotenv, find_dotenv
 
-load_dotenv(find_dotenv(), override=True)
+load_dotenv(os.path.join("..", ".env")) # Load global keys from parent
+load_dotenv(find_dotenv(), override=True) # Load/Override with local settings
 
 # Configuration
 CONCURRENCY_LIMIT = int(os.getenv("CONCURRENCY_LIMIT", "1"))

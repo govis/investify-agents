@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Tomory was appointed President and Chief Executive Officer of Centerra Gold in May 2023. Prior to joining Centerra, he served as Executive Vice President and Chief Technical Officer at Kinross Gold Corporation from 2017 to 2023. He has over 25 years of experience in the mining industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Centerra Gold Inc.",
       "ticker": "CGAU",
@@ -15,10 +20,5 @@
       "start_date": "2023-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

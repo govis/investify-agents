@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "CEO of PowerCo SE, the battery company of Volkswagen Group. He has held various senior positions at Volkswagen AG since 2017.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "QuantumScape Corporation",
       "ticker": "QS",
@@ -15,10 +20,5 @@
       "start_date": "2020-11-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

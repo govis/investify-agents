@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Atkinson was previously the President and CEO of Centerra Gold Inc. and has extensive experience in the mining industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Technical Committee"
+  ],
+  "companies": [
     {
       "name": "Kinross Gold Corporation",
       "ticker": "KGC",
@@ -15,13 +23,5 @@
       "start_date": "2016-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee",
-    "Technical Committee"
   ]
 }

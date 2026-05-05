@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Retired Chairman, President and Chief Executive Officer of Edison International.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Finance and Risk Management Committee"
+  ],
+  "companies": [
     {
       "name": "Duke Energy Corporation",
       "ticker": "DUK",
@@ -15,13 +23,5 @@
       "start_date": "2017-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Finance and Risk Management Committee"
   ]
 }

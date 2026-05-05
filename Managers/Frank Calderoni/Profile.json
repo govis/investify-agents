@@ -5,8 +5,20 @@
   "age": 66,
   "age_year": 2024,
   "background": "Former Chairman and CEO of Anaplan, Inc. Director since 2012.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://wwwimages2.adobe.com/content/dam/acom/en/leaders/images/Calderoni-Frank_450x650.jpg",
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "url": "https://www.linkedin.com/in/frankacalderoni",
+      "name": "LinkedIn"
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Adobe Inc.",
       "ticker": "ADBE",
@@ -16,11 +28,6 @@
       "end_date": null
     }
   ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ]
+  "picture_local": "Picture.jpg",
+  "enrichment_status": "success"
 }

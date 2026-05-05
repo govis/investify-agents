@@ -6,7 +6,16 @@
   "age_year": 2024,
   "background": "Geologist and former investment professional with M&G Investments. Extensive experience in mineral exploration and technical evaluation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee",
+    "Technical Committee"
+  ],
+  "companies": [
     {
       "name": "Skeena Resources Limited",
       "ticker": "SKE",
@@ -23,14 +32,5 @@
       "start_date": "2016-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Governance and Nominating Committee",
-    "Technical Committee"
   ]
 }

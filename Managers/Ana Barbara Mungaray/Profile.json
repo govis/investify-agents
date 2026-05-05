@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Mungaray is an economist with extensive experience in the Mexican public sector, including the Ministry of Economy.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance & Nominating Committee",
+    "Environmental, Sustainability, Health & Safety Committee"
+  ],
+  "companies": [
     {
       "name": "Orla Mining Ltd.",
       "ticker": "OLA",
@@ -15,13 +23,5 @@
       "start_date": "2023-05-11",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Corporate Governance & Nominating Committee",
-    "Environmental, Sustainability, Health & Safety Committee"
   ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Independent Director. Senior Vice President at The Mosaic Company with over 25 years of experience in the mining industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Environmental, Health, Safety and Sustainability Committee",
+    "Technical Committee"
+  ],
+  "companies": [
     {
       "name": "SSR Mining Inc.",
       "ticker": "SSRM",
@@ -15,13 +23,5 @@
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Environmental, Health, Safety and Sustainability Committee",
-    "Technical Committee"
   ]
 }

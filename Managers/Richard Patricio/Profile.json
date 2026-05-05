@@ -6,7 +6,16 @@
   "age_year": 2024,
   "background": "Mr. Patricio is the President and CEO of Mega Uranium Ltd. and has over 20 years of experience in the mining sector.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Audit and Risk Committee",
+    "Governance Committee"
+  ],
+  "companies": [
     {
       "name": "NexGen Energy Ltd.",
       "ticker": "NXE",
@@ -23,14 +32,5 @@
       "start_date": "2015-12-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Audit and Risk Committee",
-    "Governance Committee"
   ]
 }

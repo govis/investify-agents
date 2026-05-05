@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Yu is the Founder and Executive Chairman of NANO Nuclear Energy Inc. He is a serial entrepreneur and has over 16 years of experience in capital markets and corporate restructuring. He has served as a consultant to several public companies and has been involved in numerous private and public financings.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "NANO Nuclear Energy Inc.",
       "ticker": "NNE",
@@ -15,11 +21,5 @@
       "start_date": "2022-04-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

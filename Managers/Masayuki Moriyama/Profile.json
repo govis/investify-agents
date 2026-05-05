@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Joined Komatsu in 1983. Expert in marketing and mining equipment. Previously President of Mining Business Division.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Komatsu Ltd.",
       "ticker": "KMTUY",
@@ -15,10 +20,5 @@
       "start_date": "2023-04-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

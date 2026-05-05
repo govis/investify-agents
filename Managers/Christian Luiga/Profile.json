@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "CFO and Deputy CEO. Joined Saab in 2020. Previously acting CEO and CFO at Telia Company. Holds a B.Sc. in Business Administration and Economics.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Saab AB",
       "ticker": "SAAB-B",
@@ -23,11 +29,5 @@
       "start_date": "2020-09-16",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense",
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

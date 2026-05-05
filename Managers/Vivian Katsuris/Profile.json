@@ -5,8 +5,20 @@
   "age": 56,
   "age_year": 2024,
   "background": "Ms. Katsuris has over 25 years of experience in the brokerage industry and the junior capital markets. She has served as a director and officer of several public companies.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://i.pinimg.com/originals/00/62/87/006287d3aa9c240f2ca4fdfe90d67a39.jpg",
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/vivian-katsuris-56984361"
+    }
+  ],
+  "committees": [],
+  "picture_local": "Picture.jpg",
+  "enrichment_status": "success",
+  "companies": [
     {
       "name": "Azincourt Energy Corp.",
       "ticker": "AAZ",
@@ -15,10 +27,5 @@
       "start_date": "2017-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Dawson is a geologist with over 40 years of experience in the exploration and mining industry. He has held senior management positions with several public companies and has been involved in the discovery and development of several mineral deposits.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "EagleOne Metals Corp.",
       "ticker": "EAGL",
@@ -15,13 +23,5 @@
       "start_date": "2023-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

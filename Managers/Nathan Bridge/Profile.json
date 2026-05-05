@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Mr. Bridge is a professional geologist with experience in uranium exploration in the Athabasca Basin.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "CanAlaska Uranium Ltd.",
       "ticker": "CVV",
@@ -15,10 +20,5 @@
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

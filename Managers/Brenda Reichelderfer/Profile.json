@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Reichelderfer is a Senior Vice President and Managing Director at TriVista. She has served as a director since 2013.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Executive Compensation Committee",
+    "Nominating and Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Moog Inc.",
       "ticker": "MOG",
@@ -15,13 +23,5 @@
       "start_date": "2013",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Executive Compensation Committee",
-    "Nominating and Governance Committee"
   ]
 }

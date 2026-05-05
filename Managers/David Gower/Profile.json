@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Gower has over 30 years of experience in the minerals industry, including senior positions with Falconbridge Ltd. and Noranda Inc. He is currently the CEO of Emerita Resources Corp. and serves on the boards of several public companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "EagleOne Metals Corp.",
       "ticker": "EAGL",
@@ -15,13 +23,5 @@
       "start_date": "2023-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

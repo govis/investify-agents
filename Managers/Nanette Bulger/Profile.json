@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Bulger has over 30 years of experience in strategic planning, marketing, and business development. She has held executive roles in various industries including technology and resources.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee (Chair)"
+  ],
+  "companies": [
     {
       "name": "K92 Mining Inc.",
       "ticker": "KNT",
@@ -15,13 +23,5 @@
       "start_date": "2023-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee (Chair)"
   ]
 }

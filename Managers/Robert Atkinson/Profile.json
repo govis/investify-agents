@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Mr. Atkinson has over 35 years of experience in the investment industry. He was previously the President and CEO of Loewen, Ondaatje, McCutcheon & Co. Ltd.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Artemis Gold Inc.",
-      "ticker": "ARTG",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-01-10",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Gold"
   ],
@@ -24,5 +14,15 @@
     "Audit Committee",
     "Compensation Committee",
     "Governance and Nomination Committee"
+  ],
+  "companies": [
+    {
+      "name": "Artemis Gold Inc.",
+      "ticker": "ARTG",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "start_date": "2019-01-10",
+      "end_date": null
+    }
   ]
 }

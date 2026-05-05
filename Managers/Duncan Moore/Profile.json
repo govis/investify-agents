@@ -6,7 +6,17 @@
   "age_year": 2024,
   "background": "Dr. Moore has served as a director since September 2021. He is a partner at East West Capital Partners and has extensive experience in the healthcare and life sciences sectors.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "ASP Isotopes Inc.",
       "ticker": "ASPI",
@@ -23,15 +33,5 @@
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee",
-    "Nominating and Corporate Governance Committee"
   ]
 }

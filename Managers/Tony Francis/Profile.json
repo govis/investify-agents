@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Mr. Francis is a finance professional with over 20 years of experience in the resources sector, including roles at various ASX-listed mining companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Regis Resources Limited",
       "ticker": "RRL",
@@ -15,10 +20,5 @@
       "start_date": "2023-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

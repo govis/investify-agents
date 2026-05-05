@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Mell is the founder of Electra and has over 20 years of experience in the mining industry. He has held executive roles at First Quantum Minerals, Sherritt International, and North American Palladium.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Electra Battery Materials Corporation",
       "ticker": "ELBM",
@@ -15,10 +20,5 @@
       "start_date": "2017-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

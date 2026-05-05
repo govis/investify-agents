@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former executive at various energy and industrial companies. Expert in human resources and governance.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Health, Safety, Environmental and Plant Operations Committee"
+  ],
+  "companies": [
     {
       "name": "Li-Cycle Holdings Corp.",
       "ticker": "LICY",
@@ -15,13 +23,5 @@
       "start_date": "2021-08-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Health, Safety, Environmental and Plant Operations Committee"
   ]
 }

@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Ms. Lund has served as our Executive Vice President and Chief Financial Officer since April 2004. She previously served as Vice President and Corporate Controller of Titan Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Kratos Defense & Security Solutions, Inc.",
       "ticker": "KTOS",
@@ -15,10 +20,5 @@
       "start_date": "2004-04-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

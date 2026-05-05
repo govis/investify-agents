@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Gregory has served as President of the Pipeline and Industrial Division since 2019. He joined Quanta in 2015 and has held various leadership roles within the division.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Quanta Services, Inc.",
       "ticker": "PWR",
@@ -15,11 +21,5 @@
       "start_date": "2019-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

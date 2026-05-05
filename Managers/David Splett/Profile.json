@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Splett has over 25 years of experience in the mining industry. He previously served as CFO for Latin America at Goldcorp and has held senior financial roles at Teck Resources.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Calibre Mining Corp.",
       "ticker": "CXB",
@@ -15,10 +20,5 @@
       "start_date": "2022-03-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

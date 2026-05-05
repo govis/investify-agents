@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Barnum has been Chief Financial Officer since May 2021. He previously served as Head of Global Research for the Corporate & Investment Bank from 2021 to 2021 and as Chief Financial Officer of the Corporate & Investment Bank from 2013 to 2021.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "JPMorgan Chase & Co.",
       "ticker": "JPM",
@@ -15,11 +21,5 @@
       "start_date": "2021-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

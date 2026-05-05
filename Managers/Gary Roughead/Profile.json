@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Admiral, U.S. Navy (Retired); former Chief of Naval Operations.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and Management Development Committee",
+    "Governance, Nominating and Sustainability Committee"
+  ],
+  "companies": [
     {
       "name": "Northrop Grumman Corporation",
       "ticker": "NOC",
@@ -15,13 +23,5 @@
       "start_date": "2012-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation and Management Development Committee",
-    "Governance, Nominating and Sustainability Committee"
   ]
 }

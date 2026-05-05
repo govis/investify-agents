@@ -6,7 +6,17 @@
   "age_year": 2024,
   "background": "Ms. Whittaker is a senior lawyer with over 30 years of experience in corporate law, mergers and acquisitions, and corporate governance.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Compensation and ESG Committee",
+    "Corporate Governance and Nominating Committee",
+    "Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "NOVAGOLD RESOURCES INC.",
       "ticker": "NG",
@@ -23,15 +33,5 @@
       "start_date": "2019-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Compensation and ESG Committee",
-    "Corporate Governance and Nominating Committee",
-    "Governance and Nominating Committee"
   ]
 }

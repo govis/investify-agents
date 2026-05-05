@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Founder and Chairman of The Swarthmore Group.",
   "picture_url": "https://www.inquirer.com/resizer/v2/YDBT7VCH5NEZ5MFGKHF7VIWCVY.jpg?auth=319eb243c77300fd79fe7503664d24dc66cb24448540f7ee9e21abbd539a8a67&width=760&height=507&smart=true",
-  "commpanies": [
-    {
-      "name": "Alcoa Corporation",
-      "ticker": "AA",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2016-11-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -24,5 +14,15 @@
     "Audit Committee",
     "Governance and Nominating Committee"
   ],
-  "enrichment_status": "success"
+  "enrichment_status": "success",
+  "companies": [
+    {
+      "name": "Alcoa Corporation",
+      "ticker": "AA",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2016-11-01",
+      "end_date": null
+    }
+  ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Acosta is the President and CEO of CARCON Industries and Construction. She has served on the board since 2020.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Social Responsibility and Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Vistra Corp.",
       "ticker": "VST",
@@ -15,13 +23,5 @@
       "start_date": "2020-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Social Responsibility and Compensation Committee"
   ]
 }

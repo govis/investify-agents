@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Brian Greenspun is the Chairman and CEO of Greenspun Media Group and has been a director of Barrick since 2014.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Environmental, Social and Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Barrick Gold Corporation",
       "ticker": "GOLD",
@@ -15,13 +23,5 @@
       "start_date": "2014-04-30",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Environmental, Social and Governance Committee"
   ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Dion J. Weisler has been a director since 2020. He was President and CEO of HP Inc. from 2015 to 2019.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Intel Corporation",
       "ticker": "INTC",
@@ -15,13 +23,5 @@
       "start_date": "2020-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee"
   ]
 }

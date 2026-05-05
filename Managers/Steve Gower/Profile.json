@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Gower has over 30 years of experience in the financial services and mining industries. He has served as a director and officer of several public mining companies and has been involved in the financing and development of numerous mineral projects.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Sitka Gold Corp.",
       "ticker": "SIG",
@@ -15,11 +21,5 @@
       "start_date": "2015-01-13",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

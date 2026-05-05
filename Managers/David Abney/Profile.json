@@ -6,7 +6,21 @@
   "age_year": 2024,
   "background": "Former Executive Chairman and CEO of United Parcel Service, Inc. (UPS).",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense",
+    "Electrification",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Audit Committee",
+    "Compensation",
+    "Compensation and Management Development Committee",
+    "Compensation and Management Succession"
+  ],
+  "companies": [
     {
       "name": "Freeport-McMoRan Inc.",
       "ticker": "FCX",
@@ -31,19 +45,5 @@
       "start_date": "2020-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense",
-    "Electrification",
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit",
-    "Audit Committee",
-    "Compensation",
-    "Compensation and Management Development Committee",
-    "Compensation and Management Succession"
   ]
 }

@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Mr. Davey is a mining engineer with over 30 years' experience in the mining industry. He has been involved in the development and operation of several mining projects in Africa and Australia.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Lotus Resources Limited",
       "ticker": "LOT",
@@ -15,10 +20,5 @@
       "start_date": "2019-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

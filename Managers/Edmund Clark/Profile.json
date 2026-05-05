@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former President and CEO of TD Bank Group. Member of the Order of Canada.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance Committee",
+    "Human Resources Committee (Chair)"
+  ],
+  "companies": [
     {
       "name": "Thomson Reuters Corporation",
       "ticker": "TRI",
@@ -15,13 +23,5 @@
       "start_date": "2015-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Corporate Governance Committee",
-    "Human Resources Committee (Chair)"
   ]
 }

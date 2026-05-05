@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Mr. You has served as a director since 2019. He is the co-founder and Vice Chairman of dMY Technology Group. He previously served as CFO of EMC Corporation and EVP at Oracle Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Broadcom Inc.",
       "ticker": "AVGO",
@@ -15,12 +22,5 @@
       "start_date": "2019-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

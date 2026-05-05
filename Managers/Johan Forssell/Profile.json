@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Johan Forssell is a Director and the President and CEO of Investor AB.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Remuneration Committee"
+  ],
+  "companies": [
     {
       "name": "Atlas Copco AB",
       "ticker": "ATCO",
@@ -15,12 +22,5 @@
       "start_date": "2017-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Remuneration Committee"
   ]
 }

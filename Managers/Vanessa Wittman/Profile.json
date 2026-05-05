@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Vanessa Wittman has served as a member of our board of directors since May 2021. Ms. Wittman served as the Chief Financial Officer of Glossier, Inc. from April 2019 to May 2022.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Fastly, Inc.",
       "ticker": "FSLY",
@@ -15,13 +23,5 @@
       "start_date": "2021-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Juergen Mueller was the Chief Technology Officer and a member of the Executive Board. He left the company in September 2024.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "SAP SE",
       "ticker": "SAP",
@@ -15,11 +21,5 @@
       "start_date": null,
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

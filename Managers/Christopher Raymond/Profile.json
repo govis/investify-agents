@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Raymond is President and CEO of Boeing Global Services. He previously served as Boeing's Chief Sustainability Officer.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "The Boeing Company",
       "ticker": "BA",
@@ -15,10 +20,5 @@
       "start_date": "2024-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

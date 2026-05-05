@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Safroadu Yeboah-Kodie is Senior Vice President and Chief Strategy Officer. He joined Intel in 1999 and has held various technical and leadership positions, including Corporate Vice President in the Datacenter Group.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Intel Corporation",
       "ticker": "INTC",
@@ -15,11 +21,5 @@
       "start_date": "2020-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

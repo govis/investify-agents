@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Ms Irelan is a Chartered Accountant with over 20 years of experience in the resource sector, specializing in financial management, corporate governance, and statutory reporting. She has held various senior financial roles in ASX-listed companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Toro Energy Limited",
       "ticker": "TOE",
@@ -15,10 +20,5 @@
       "start_date": "2016-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

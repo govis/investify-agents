@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. van Niekerk was appointed Executive Vice President and Chief Financial Officer in February 2023. He has more than 25 years of experience in the mining and metals industry, having held senior financial leadership roles at Newmont Corporation and BHP Billiton.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "OceanaGold Corporation",
       "ticker": "OGC",
@@ -15,10 +20,5 @@
       "start_date": "2023-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

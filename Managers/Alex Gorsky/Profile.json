@@ -5,8 +5,23 @@
   "age": 64,
   "age_year": 2024,
   "background": "Mr. Gorsky is the former Chairman and CEO of Johnson & Johnson, where he served as Chairman and CEO from 2012 to 2021 and Executive Chairman in 2022.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://i0.wp.com/macdailynews.com/wp-content/uploads/2021/11/211110_gorsky.png?ssl=1",
+  "investment_theses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alex-gorsky"
+    }
+  ],
+  "committees": [
+    "Audit and Finance Committee"
+  ],
+  "picture_local": "Picture.png",
+  "enrichment_status": "success",
+  "companies": [
     {
       "name": "Apple Inc.",
       "ticker": "AAPL",
@@ -23,13 +38,5 @@
       "start_date": "2021-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Finance Committee"
   ]
 }

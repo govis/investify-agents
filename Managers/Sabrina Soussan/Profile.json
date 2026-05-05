@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Chairman and CEO of Suez SA. Former CEO of Swisslog and Co-CEO of Siemens Mobility.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Aerospace Safety",
+    "Finance"
+  ],
+  "companies": [
     {
       "name": "The Boeing Company",
       "ticker": "BA",
@@ -15,13 +23,5 @@
       "start_date": "2023-04-18",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Aerospace Safety",
-    "Finance"
   ]
 }

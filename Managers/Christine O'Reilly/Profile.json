@@ -6,7 +6,16 @@
   "age_year": 2024,
   "background": "Christine O'Reilly has over 30 years' experience in financial and infrastructure sectors. She was previously CEO of the GasNet Group and Co-Head of Unlisted Infrastructure at Colonial First State Global Asset Management.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Remuneration Committee (Chair)",
+    "Risk and Audit Committee"
+  ],
+  "companies": [
     {
       "name": "BHP Group Limited",
       "ticker": "BHP",
@@ -23,14 +32,5 @@
       "start_date": "2020-10-12",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Remuneration Committee (Chair)",
-    "Risk and Audit Committee"
   ]
 }

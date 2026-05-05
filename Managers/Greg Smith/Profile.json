@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Smith is a Chartered Professional Accountant with over 25 years of experience in finance and the mining sector. He was previously President of JDL Gold Corp. and CFO of Minefinders Corporation Ltd.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Equinox Gold Corp.",
       "ticker": "EQX",
@@ -15,10 +20,5 @@
       "start_date": "2022-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

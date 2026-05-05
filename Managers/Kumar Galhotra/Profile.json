@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Kumar Galhotra is Chief Operating Officer, Ford Blue. He previously served as President, Ford Blue and President, Americas & International Markets Group.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Ford Motor Company",
       "ticker": "F",
@@ -15,11 +21,5 @@
       "start_date": "2023-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

@@ -92,7 +92,7 @@ def aggregate_management():
                         "name": full_name,
                         "first_name": first,
                         "last_name": last,
-                        "commpanies": [], # Following the requested typo "commpanies"
+                        "companies": [],
                         "investment_theses": set() # Use a set for unique theses
                     }
                 
@@ -104,7 +104,7 @@ def aggregate_management():
                         officers_registry[full_name]["investment_theses"].add(thesis_name)
                 
                 # Check if this company entry already exists for this person (e.g. if in both lists)
-                existing_company = next((c for c in officers_registry[full_name]["commpanies"] 
+                existing_company = next((c for c in officers_registry[full_name]["companies"] 
                                        if c["ticker"] == ticker and c["exchange"] == exchange), None)
                 
                 if existing_company:
@@ -119,7 +119,7 @@ def aggregate_management():
                             combined = ", ".join(sorted(list(current_roles.union(new_roles))))
                             existing_company["role"] = combined
                 else:
-                    officers_registry[full_name]["commpanies"].append({
+                    officers_registry[full_name]["companies"].append({
                         "name": company_name,
                         "ticker": ticker,
                         "exchange": exchange,

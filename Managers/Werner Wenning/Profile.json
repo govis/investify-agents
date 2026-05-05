@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Second Deputy Chairman of the Supervisory Board. Former Chairman of the Board of Management of Bayer AG.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Siemens Aktiengesellschaft",
-      "ticker": "SIEGY",
-      "exchange": "OTC",
-      "title_or_role": "Second Deputy Chairman",
-      "start_date": "2013-10-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "AI"
   ],
@@ -24,5 +14,15 @@
     "Audit Committee",
     "Chairman's Committee",
     "Nominating Committee"
+  ],
+  "companies": [
+    {
+      "name": "Siemens Aktiengesellschaft",
+      "ticker": "SIEGY",
+      "exchange": "OTC",
+      "title_or_role": "Second Deputy Chairman",
+      "start_date": "2013-10-01",
+      "end_date": null
+    }
   ]
 }

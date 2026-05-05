@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Shawn Henry has served as our Chief Security Officer since April 2012. From 1987 to March 2012, Mr. Henry served in various positions at the Federal Bureau of Investigation, including Executive Assistant Director of the Criminal, Cyber, Response and Services Branch.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "CrowdStrike Holdings, Inc.",
       "ticker": "CRWD",
@@ -15,11 +21,5 @@
       "start_date": "2012-04-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

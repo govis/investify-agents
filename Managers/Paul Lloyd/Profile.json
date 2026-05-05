@@ -6,7 +6,16 @@
   "age_year": 2024,
   "background": "Paul Lloyd is a Chartered Accountant with over 30 years' experience in corporate finance and the resources industry. He has been involved in the listing of several exploration and mining companies on the ASX and has served as a director and chairman of various listed entities.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "companies": [
     {
       "name": "Alligator Energy Limited",
       "ticker": "AGE",
@@ -23,14 +32,5 @@
       "start_date": "2024-02-27",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee",
-    "Remuneration and Nomination Committee"
   ]
 }

@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Mr. St\u00f6ferle is a Managing Partner and Fund Manager at Incrementum AG. He is well-known for his 'In Gold We Trust' report and has deep expertise in precious metals markets.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Tudor Gold Corp.",
       "ticker": "TUD",
@@ -15,12 +22,5 @@
       "start_date": "2020-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

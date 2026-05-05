@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Lundin has many years of experience in the natural resource sector. He is the Chair of the Board and previously served as President and CEO of Josemaria Resources Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Lundin Mining Corporation",
       "ticker": "LUN",
@@ -15,10 +20,5 @@
       "start_date": "2022-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

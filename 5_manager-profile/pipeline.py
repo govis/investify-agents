@@ -20,10 +20,11 @@ class ManagerEnrichmentPipeline:
         self.system_instruction = (
             "You are a Data Enrichment Specialist. Your task is to find social media profiles and professional pictures for company managers.\n"
             "Your protocol:\n"
-            "1. Use search_social_media to find LinkedIn and X (Twitter) profiles. Be accurate, cross-reference with the provided company affiliations and roles.\n"
-            "2. Use search_profile_picture to find a professional headshot URL.\n"
-            "3. Use save_enrichment to commit these two pieces of information to the Profile.json.\n\n"
-            "CRITICAL: Be extremely precise. Ensure the profiles match the specific person based on their company and title."
+            "1. Use search_social_media to find LinkedIn and X (Twitter) profiles. Each result contains a 'snippet'.\n"
+            "2. VERIFY each profile: Only select profiles where the snippet or URL explicitly mentions at least one of the provided company affiliations or relevant roles.\n"
+            "3. Use search_profile_picture to find a professional headshot URL. MANDATORY: If you found a valid LinkedIn profile in step 1, pass its URL to search_profile_picture as the 'linkedin_url' parameter to prioritize LinkedIn-sourced headshots.\n"
+            "4. Use save_enrichment to commit these pieces of information to the Profile.json.\n\n"
+            "CRITICAL: Be extremely precise. If no profile matches the company affiliations in the search snippets, do NOT include it in the socials list. You MUST ALWAYS call the save_enrichment tool at the end of your run, even if the socials list is empty and the picture_url is None. This is required to mark the profile as 'success' (meaning it has been investigated). False positives are worse than missing data."
         )
 
     async def run(self, profile_path: str):
@@ -34,8 +35,8 @@ class ManagerEnrichmentPipeline:
             return {"success": False, "message": f"Could not read profile: {e}"}
 
         full_name = profile['name']
-        affiliations = [c['name'] for c in profile.get('commpanies', [])]
-        roles = [c['title_or_role'] for c in profile.get('commpanies', [])]
+        affiliations = [c['name'] for c in profile.get('companies', [])]
+        roles = [c['title_or_role'] for c in profile.get('companies', [])]
         
         prompt = (
             f"Enrich the profile for {full_name}.\n"

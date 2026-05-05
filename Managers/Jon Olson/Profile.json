@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Former CFO of Xilinx, Inc. Joined AMD board following the Xilinx acquisition in 2022.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee"
+  ],
+  "companies": [
     {
       "name": "Advanced Micro Devices, Inc.",
       "ticker": "AMD",
@@ -15,12 +22,5 @@
       "start_date": "2022-02-14",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee"
   ]
 }

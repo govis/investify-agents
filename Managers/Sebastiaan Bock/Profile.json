@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Sebastiaan Bock is the Chief Operating Officer for Africa and the Middle East. He was previously the Senior Vice President, Chief Financial Officer for the Africa and Middle East region.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Barrick Gold Corporation",
       "ticker": "GOLD",
@@ -15,10 +20,5 @@
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

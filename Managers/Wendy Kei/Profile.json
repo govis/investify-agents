@@ -6,7 +6,17 @@
   "age_year": 2024,
   "background": "Ms. Kei is a corporate director and was formerly the CFO of Dominion Diamond Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Audit Committee (Chair)",
+    "Corporate Governance and Nominating Committee",
+    "Sustainable Development Committee"
+  ],
+  "companies": [
     {
       "name": "Centerra Gold Inc.",
       "ticker": "CGAU",
@@ -23,15 +33,5 @@
       "start_date": "2021-06-15",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Audit Committee (Chair)",
-    "Corporate Governance and Nominating Committee",
-    "Sustainable Development Committee"
   ]
 }

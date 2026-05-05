@@ -5,8 +5,15 @@
   "age": 51,
   "age_year": 2024,
   "background": "Chief Growth Officer of Tyson Foods, Inc. Director since 2022.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://www.tysonfoods.com/sites/default/files/2023-11/Melanie+Boulden+_S7A0347+PS+reedited+crop_0.jpg",
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Adobe Inc.",
       "ticker": "ADBE",
@@ -16,11 +23,6 @@
       "end_date": null
     }
   ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ]
+  "picture_local": null,
+  "enrichment_status": "success"
 }

@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Roland Busch is President and CEO of Siemens AG. He joined Siemens in 1994 and has held various leadership roles, including COO, CTO, and member of the Managing Board since 2011. He holds a PhD in Physics from the University of Erlangen-Nuremberg.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Siemens Aktiengesellschaft",
       "ticker": "SIEGY",
@@ -15,10 +20,5 @@
       "start_date": "2021-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

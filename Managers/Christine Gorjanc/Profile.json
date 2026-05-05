@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Ms. Gorjanc was the CFO of Arlo Technologies and Netgear.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Juniper Networks, Inc.",
       "ticker": "JNPR",
@@ -15,12 +22,5 @@
       "start_date": "2019-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

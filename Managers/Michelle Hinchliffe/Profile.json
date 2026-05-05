@@ -6,7 +6,17 @@
   "age_year": 2024,
   "background": "Michelle Hinchliffe was a partner at KPMG for 36 years, where she held several leadership roles including UK Chair of Audit. She has extensive experience in auditing and financial services.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Nomination and Governance Committee",
+    "Remuneration Committee",
+    "Risk and Audit Committee"
+  ],
+  "companies": [
     {
       "name": "BHP Group Limited",
       "ticker": "BHP",
@@ -23,15 +33,5 @@
       "start_date": "2022-03-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Nomination and Governance Committee",
-    "Remuneration Committee",
-    "Risk and Audit Committee"
   ]
 }

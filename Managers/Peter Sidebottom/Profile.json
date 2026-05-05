@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former executive and consultant in the asset management industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "VanEck Uranium and Nuclear Energy ETF",
       "ticker": "NLR",
@@ -23,13 +31,5 @@
       "start_date": "2018",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

@@ -5,8 +5,20 @@
   "age": 58,
   "age_year": 2024,
   "background": "Mr. Klenman is an experienced junior mining executive whose career spans over 30 years in the private and public sectors. Over the past decade he has held a number of senior management and board positions in the public markets.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://www.azincourtenergy.com/images/management-team/Alex-profile.jpg",
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/ajklenman"
+    }
+  ],
+  "committees": [],
+  "picture_local": "Picture.jpg",
+  "enrichment_status": "success",
+  "companies": [
     {
       "name": "Azincourt Energy Corp.",
       "ticker": "AAZ",
@@ -15,10 +27,5 @@
       "start_date": "2017-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

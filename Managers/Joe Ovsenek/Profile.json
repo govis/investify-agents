@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Ovsenek is a professional engineer and lawyer with over 25 years of experience in the mining industry. He is currently the President and CEO of P2 Gold Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "Orion Copper Mining Corp.",
       "ticker": "ORION",
@@ -15,13 +23,5 @@
       "start_date": "2021-05-15",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
   ]
 }

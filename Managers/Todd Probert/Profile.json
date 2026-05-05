@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Probert has served as President of National Security and Innovative Solutions since 2020. He previously held executive roles at Raytheon.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "CACI International Inc",
       "ticker": "CACI",
@@ -15,10 +20,5 @@
       "start_date": "2020-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

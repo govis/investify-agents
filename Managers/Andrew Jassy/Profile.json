@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Andrew R. Jassy has been President and CEO of Amazon since July 2021. He previously served as CEO of Amazon Web Services (AWS) from April 2016 to July 2021 and joined the company in 1997.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Amazon.com, Inc.",
       "ticker": "AMZN",
@@ -15,11 +21,5 @@
       "start_date": "2021-07-05",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

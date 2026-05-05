@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Sultan Temirbayev is the Chief Financial Officer. He joined Kazatomprom from Samruk-Kazyna, where he held various senior positions in the asset management and privatization departments. He has a strong background in investment banking and financial analysis.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "National Atomic Company Kazatomprom JSC",
       "ticker": "KAP",
@@ -15,10 +20,5 @@
       "start_date": "2023-08-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

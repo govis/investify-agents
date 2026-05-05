@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Lead Independent Director. Former executive at BHP Billiton with over 30 years of experience in the mining industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and Leadership Development Committee",
+    "Environmental, Health, Safety and Sustainability Committee"
+  ],
+  "companies": [
     {
       "name": "SSR Mining Inc.",
       "ticker": "SSRM",
@@ -15,13 +23,5 @@
       "start_date": "2020-09-16",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation and Leadership Development Committee",
-    "Environmental, Health, Safety and Sustainability Committee"
   ]
 }

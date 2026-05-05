@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Begic has over 25 years of experience in the mining industry, specializing in corporate development and project evaluation. He joined the company in 2011.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Platinum Group Metals Ltd.",
       "ticker": "PTM",
@@ -15,10 +20,5 @@
       "start_date": "2011-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

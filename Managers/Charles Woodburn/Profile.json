@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Charles joined BAE Systems in 2017 as Chief Operating Officer and was appointed Chief Executive later that year. He previously held senior roles at Schlumberger and Expro Group.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "BAE Systems plc",
       "ticker": "BA",
@@ -15,10 +20,5 @@
       "start_date": "2017-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

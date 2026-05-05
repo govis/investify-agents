@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former U.S. Senator and former U.S. Secretary of Agriculture.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance Committee",
+    "Finance Committee"
+  ],
+  "companies": [
     {
       "name": "Deere & Company",
       "ticker": "DE",
@@ -15,13 +23,5 @@
       "start_date": "2015-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Corporate Governance Committee",
-    "Finance Committee"
   ]
 }

@@ -6,7 +6,14 @@
   "age_year": null,
   "background": "Mr. Morrison is a senior executive with extensive experience in corporate strategy and finance within the mining sector.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "Snowline Gold Corp.",
       "ticker": "SGD",
@@ -15,12 +22,5 @@
       "start_date": "2024-01-15",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Corporate Governance and Nominating Committee"
   ]
 }

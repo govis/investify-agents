@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Former President and CEO of Starbucks Corporation.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "The Goldman Sachs Group, Inc.",
-      "ticker": "GS",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-10-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -25,5 +15,15 @@
     "Compensation",
     "Governance",
     "Risk"
+  ],
+  "companies": [
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2022-10-01",
+      "end_date": null
+    }
   ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former Executive Vice President and Chief Financial Officer of Gap Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Microsoft Corporation",
       "ticker": "MSFT",
@@ -15,13 +23,5 @@
       "start_date": "2014-10-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

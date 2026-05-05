@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Carrie Palin has been a member of our Board since February 2021. She is currently the Senior Vice President and Chief Marketing Officer of Cisco Systems, Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "companies": [
     {
       "name": "NetApp, Inc.",
       "ticker": "NTAP",
@@ -15,12 +22,5 @@
       "start_date": "2021-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee"
   ]
 }

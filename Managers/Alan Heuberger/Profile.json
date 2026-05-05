@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Senior Investment Manager at Cascade Asset Management Company.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Finance Committee"
+  ],
+  "companies": [
     {
       "name": "Deere & Company",
       "ticker": "DE",
@@ -15,13 +23,5 @@
       "start_date": "2016-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Finance Committee"
   ]
 }

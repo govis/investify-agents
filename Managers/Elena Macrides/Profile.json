@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Ms. Macrides has extensive experience in corporate governance, legal, and company secretarial matters within the mining and resources industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Regis Resources Limited",
       "ticker": "RRL",
@@ -15,10 +20,5 @@
       "start_date": "2020-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

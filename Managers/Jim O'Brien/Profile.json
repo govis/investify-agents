@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Former Chairman and Chief Executive Officer of Ashland Inc.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Albemarle Corporation",
-      "ticker": "ALB",
-      "exchange": "NYSE",
-      "title_or_role": "Lead Independent Director",
-      "start_date": "2015-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -24,5 +14,15 @@
   "committees": [
     "Executive Committee",
     "Nominating & Governance Committee"
+  ],
+  "companies": [
+    {
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "exchange": "NYSE",
+      "title_or_role": "Lead Independent Director",
+      "start_date": "2015-01-01",
+      "end_date": null
+    }
   ]
 }

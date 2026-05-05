@@ -5,8 +5,18 @@
   "age": 53,
   "age_year": 2024,
   "background": "Mr. Porter was appointed Executive Vice-President, Finance and Chief Financial Officer in May 2023. Prior to joining Agnico Eagle, he served as Chief Financial Officer of Alamos Gold Inc. for 11 years.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://www.e-mj.com/wp-content/uploads/2023/05/Jamie-Porter.jpg",
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "url": "https://ca.linkedin.com/in/jamieporter2",
+      "name": "LinkedIn"
+    }
+  ],
+  "committees": [],
+  "companies": [
     {
       "name": "Agnico Eagle Mines Limited",
       "ticker": "AEM",
@@ -16,9 +26,6 @@
       "end_date": null
     }
   ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  "picture_local": "Picture.jpg",
+  "enrichment_status": "success"
 }

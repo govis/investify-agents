@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Rani Borkar is Corporate Vice President, Azure Hardware Systems and Infrastructure at Microsoft Corporation. She previously held leadership roles at Intel and IBM.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Applied Materials, Inc.",
-      "ticker": "AMAT",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "AI",
     "Reshoring"
@@ -24,5 +14,15 @@
   "committees": [
     "Audit Committee",
     "Strategy Committee"
+  ],
+  "companies": [
+    {
+      "name": "Applied Materials, Inc.",
+      "ticker": "AMAT",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "start_date": "2020-01-01",
+      "end_date": null
+    }
   ]
 }

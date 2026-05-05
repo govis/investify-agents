@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Smith is the Vice President, Corporate Development and Commercial. He is a corporate lawyer by training and has extensive experience in mergers and acquisitions, corporate finance, and commercial negotiations in the mining industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Denison Mines Corp.",
       "ticker": "DNN",
@@ -15,11 +21,5 @@
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

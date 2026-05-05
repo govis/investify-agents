@@ -6,7 +6,17 @@
   "age_year": 2024,
   "background": "Ms. McGregor was previously the CFO of Tahoe Resources Inc. and is a Chartered Professional Accountant.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Audit and Risk Committee",
+    "Corporate Governance & Nominating Committee",
+    "Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Kinross Gold Corporation",
       "ticker": "KGC",
@@ -23,15 +33,5 @@
       "start_date": "2019-11-05",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee (Chair)",
-    "Audit and Risk Committee",
-    "Corporate Governance & Nominating Committee",
-    "Corporate Governance Committee"
   ]
 }

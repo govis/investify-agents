@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Scott is a lawyer with over 30 years of experience in corporate and securities law. He has served as General Counsel for Seabridge since 2011.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Seabridge Gold Inc.",
       "ticker": "SA",
@@ -15,10 +20,5 @@
       "start_date": "2011-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

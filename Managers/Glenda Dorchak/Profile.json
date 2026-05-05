@@ -6,7 +6,17 @@
   "age_year": 2024,
   "background": "Former executive at IBM, Intel, and Spansion. She has significant experience in the semiconductor and technology sectors.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Nominating Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "GlobalFoundries Inc.",
       "ticker": "GFS",
@@ -23,15 +33,5 @@
       "start_date": "2019-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Governance and Nominating Committee",
-    "Nominating and Corporate Governance Committee"
   ]
 }

@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Huang is a director and is the nominee of Beijing Sino-Can Uranium Resources Co. Ltd. He has extensive experience in the uranium industry in China.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Denison Mines Corp.",
       "ticker": "DNN",
@@ -15,10 +20,5 @@
       "start_date": "2017-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

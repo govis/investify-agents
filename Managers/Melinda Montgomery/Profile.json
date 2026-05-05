@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Ms. Montgomery is a legal professional with over 30 years of experience in corporate law and securities regulation. She has served as a director for several TSX-listed companies.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Fortune Bay Corp.",
-      "ticker": "FOR",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-06-25",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
@@ -24,5 +14,15 @@
   "committees": [
     "Compensation Committee (Chair)",
     "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
+    {
+      "name": "Fortune Bay Corp.",
+      "ticker": "FOR",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "start_date": "2020-06-25",
+      "end_date": null
+    }
   ]
 }

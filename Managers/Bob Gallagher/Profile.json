@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Gallagher has over 40 years of experience in the mining industry. He was previously the President and CEO of New Gold Inc.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Human Resources and Compensation Committee",
+    "Technical and Operational Performance Committee"
+  ],
+  "companies": [
     {
       "name": "Capstone Copper Corp.",
       "ticker": "CS",
@@ -15,13 +23,5 @@
       "start_date": "2016-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Human Resources and Compensation Committee",
-    "Technical and Operational Performance Committee"
   ]
 }

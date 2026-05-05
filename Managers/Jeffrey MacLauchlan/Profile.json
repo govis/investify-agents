@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. MacLauchlan has served as Executive Vice President and Chief Financial Officer since May 2022. He previously served as Senior Vice President of Corporate Development at CACI.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "CACI International Inc",
       "ticker": "CACI",
@@ -15,10 +20,5 @@
       "start_date": "2022-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

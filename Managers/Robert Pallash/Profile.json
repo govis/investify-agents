@@ -6,7 +6,15 @@
   "age_year": 2023,
   "background": "Mr. Pallash has served as a director since 2018. He was formerly President, Global Customer Group and Senior Vice President of Visteon Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation and Organization Committee"
+  ],
+  "companies": [
     {
       "name": "Livent Corporation",
       "ticker": "LTHM",
@@ -15,13 +23,5 @@
       "start_date": "2018-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation and Organization Committee"
   ]
 }

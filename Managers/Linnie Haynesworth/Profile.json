@@ -6,7 +6,15 @@
   "age_year": 2023,
   "background": "Ms. Haynesworth was a Sector Vice President and General Manager at Northrop Grumman Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Micron Technology, Inc.",
       "ticker": "MU",
@@ -15,13 +23,5 @@
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

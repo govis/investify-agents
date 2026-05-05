@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Richardson is a Chartered Professional Accountant with over 15 years of experience in finance and accounting. He was previously CFO of Nova Royalty Corp. and has held senior roles at Teck Resources and KPMG.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Faraday Copper Corp.",
       "ticker": "FDY",
@@ -15,10 +20,5 @@
       "start_date": "2022-04-21",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

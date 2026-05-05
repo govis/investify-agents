@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Eveleigh has over 30 years of experience in the mineral exploration industry. He was a co-founder of the predecessor Lithium Americas Corp. and has served in various executive capacities.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Lithium Americas Corp.",
       "ticker": "LAC",
@@ -15,11 +21,5 @@
       "start_date": "2023-10-04",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

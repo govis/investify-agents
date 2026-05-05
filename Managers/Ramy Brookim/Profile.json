@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Brookim has served as a director since 2017 and was appointed Chairman of the Board in 2023. He is the founder and CEO of a private investment firm and has extensive experience in real estate and technology investments.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Blink Charging Co.",
       "ticker": "BLNK",
@@ -15,12 +22,5 @@
       "start_date": "2023",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Nominating and Corporate Governance Committee"
   ]
 }

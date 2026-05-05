@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Ms. Winckler is a former mining executive and investment banker with over 25 years of experience in the metals and mining industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Human Resources and Compensation Committee",
+    "Technical and Operational Performance Committee"
+  ],
+  "companies": [
     {
       "name": "Capstone Copper Corp.",
       "ticker": "CS",
@@ -15,13 +23,5 @@
       "start_date": "2022-03-23",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Human Resources and Compensation Committee",
-    "Technical and Operational Performance Committee"
   ]
 }

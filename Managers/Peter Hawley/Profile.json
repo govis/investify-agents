@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Hawley is a geologist with over 35 years of experience in the mining industry and is the founder of Sabina Gold & Silver Corp.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "IsoEnergy Ltd.",
       "ticker": "ISO",
@@ -15,13 +23,5 @@
       "start_date": "2023-12-05",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Corporate Governance and Nominating Committee"
   ]
 }

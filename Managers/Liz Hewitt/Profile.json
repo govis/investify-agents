@@ -6,7 +6,17 @@
   "age_year": 2024,
   "background": "Liz Hewitt has held senior roles at Smith & Nephew and 3i Group. She is a Chartered Accountant.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Nomination Committee",
+    "Remuneration Committee"
+  ],
+  "companies": [
     {
       "name": "Glencore plc",
       "ticker": "GLEN",
@@ -23,15 +33,5 @@
       "start_date": "2022-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee (Chair)",
-    "Nomination Committee",
-    "Remuneration Committee"
   ]
 }

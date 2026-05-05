@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Jones is an industrial chemist with over 20 years\u2019 experience in the mining industry, specifically in uranium. He is also a director of several other ASX-listed companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "companies": [
     {
       "name": "Boss Energy Limited",
       "ticker": "BOE",
@@ -23,13 +31,5 @@
       "start_date": "2014-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee",
-    "Remuneration and Nomination Committee"
   ]
 }

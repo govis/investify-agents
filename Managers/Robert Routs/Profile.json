@@ -5,8 +5,15 @@
   "age": 77,
   "age_year": 2024,
   "background": "Robert Routs is the former Executive Director of Downstream Operations at Royal Dutch Shell plc. He has extensive global experience in the energy sector.",
-  "picture_url": null,
-  "commpanies": [
+  "picture_url": "https://www.atco.com/content/dam/atco-website/en-ca/web/assets/about-us/board-of-directors/robert-routs-text.jpg",
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee (Chair)"
+  ],
+  "companies": [
     {
       "name": "AECOM",
       "ticker": "ACM",
@@ -16,11 +23,6 @@
       "end_date": null
     }
   ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee (Chair)"
-  ]
+  "picture_local": null,
+  "enrichment_status": "success"
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "CEO of Lumina Gold Corp. Over 35 years of experience in executive and technical roles in the mining industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Technical Committee (Chair)"
+  ],
+  "companies": [
     {
       "name": "Equinox Gold Corp.",
       "ticker": "EQX",
@@ -15,13 +23,5 @@
       "start_date": "2017-12-22",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Technical Committee (Chair)"
   ]
 }

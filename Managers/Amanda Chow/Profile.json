@@ -6,7 +6,14 @@
   "age_year": null,
   "background": "Amanda Chow is a CPA, CMA with over 20 years of experience in the resource sector, focusing on financial reporting and compliance.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Skyharbour Resources Ltd.",
       "ticker": "SYH",
@@ -15,12 +22,5 @@
       "start_date": "2013-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

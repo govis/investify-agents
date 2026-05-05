@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Over 30 years of experience in the mining sector. Former President and CEO of Augusta Gold and COO of Atlantic Gold.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Social Responsibility and ESG Committee",
+    "Technical Committee"
+  ],
+  "companies": [
     {
       "name": "Equinox Gold Corp.",
       "ticker": "EQX",
@@ -15,13 +23,5 @@
       "start_date": "2022-05-04",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Social Responsibility and ESG Committee",
-    "Technical Committee"
   ]
 }

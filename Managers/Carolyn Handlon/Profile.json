@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Former Executive Vice President and Treasurer of Marriott International, Inc. Expert in global finance, capital markets, and risk management.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Science Applications International Corporation",
       "ticker": "SAIC",
@@ -15,12 +22,5 @@
       "start_date": "2022-03-23",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

@@ -6,7 +6,15 @@
   "age_year": null,
   "background": "Mr. Goad has over 25 years of experience in the financial services industry, specifically in the areas of corporate finance, mergers and acquisitions, and capital markets.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Stria Lithium Inc.",
       "ticker": "SRA",
@@ -15,13 +23,5 @@
       "start_date": "2022-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

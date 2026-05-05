@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Ruel has over 20 years of experience in financial reporting and the mining industry. He has been with Osisko since its inception in 2014.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Osisko Gold Royalties Ltd",
       "ticker": "OR",
@@ -15,10 +20,5 @@
       "start_date": "2020-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

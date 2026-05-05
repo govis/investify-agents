@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Glasier is the founder of the Company and has over 40 years of experience in the uranium industry. He was the founder of Energy Fuels Inc. and served as its President and CEO. He has extensive experience in uranium exploration, development, and marketing.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Western Uranium & Vanadium Corp.",
       "ticker": "WUC",
@@ -15,10 +20,5 @@
       "start_date": "2014-11-20",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

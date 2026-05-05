@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Castanho is a co-founder of Atha Energy and has over 20 years of experience in the capital markets and resource sector. He has been involved in the founding and financing of several successful resource companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Atha Energy Corp.",
       "ticker": "SASK",
@@ -15,10 +20,5 @@
       "start_date": "2023-01-12",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

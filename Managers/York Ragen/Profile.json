@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Ragen has served as Chief Financial Officer since 2008. He joined Generac in 2005 and served as Vice President of Finance and Controller from 2005 to 2008. Prior to joining Generac, he was a director of financial reporting at a large public company.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Generac Holdings Inc.",
       "ticker": "GNRC",
@@ -15,10 +20,5 @@
       "start_date": "2008-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

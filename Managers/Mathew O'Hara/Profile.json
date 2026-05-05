@@ -6,7 +6,12 @@
   "age_year": null,
   "background": "Mr. O'Hara is a Chartered Accountant with over 15 years\u2019 experience in corporate finance, accounting and governance. He has held senior positions with several ASX-listed companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Boss Energy Limited",
       "ticker": "BOE",
@@ -15,10 +20,5 @@
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

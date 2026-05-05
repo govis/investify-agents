@@ -6,7 +6,16 @@
   "age_year": 2024,
   "background": "Mr. Reid is a former senior executive at Caterpillar Inc. with extensive experience in global mining equipment and technology.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Audit and Risk Committee (Chair)",
+    "Remuneration and People Committee"
+  ],
+  "companies": [
     {
       "name": "OceanaGold Corporation",
       "ticker": "OGC",
@@ -23,14 +32,5 @@
       "start_date": "2018-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee",
-    "Audit and Risk Committee (Chair)",
-    "Remuneration and People Committee"
   ]
 }

@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Dr. Holme is a co-founder of QuantumScape and has served as our Chief Technology Officer since 2010. He holds a Ph.D. in Mechanical Engineering from Stanford University.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "QuantumScape Corporation",
       "ticker": "QS",
@@ -15,10 +20,5 @@
       "start_date": "2010-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

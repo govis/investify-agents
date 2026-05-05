@@ -6,7 +6,15 @@
   "age_year": null,
   "background": "Mr. Wheatley has over 30 years' experience in the mining industry, including over 15 years in the uranium sector. He has held several executive and non-executive roles in uranium companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "companies": [
     {
       "name": "Lotus Resources Limited",
       "ticker": "LOT",
@@ -15,13 +23,5 @@
       "start_date": "2021-02-22",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee",
-    "Remuneration and Nomination Committee"
   ]
 }

@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Ms. Mariuzza has over 20 years of experience in the mining industry, specializing in environmental and regulatory affairs. She has held various leadership roles within Lundin Mining, including Managing Director of the Eagle Mine.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Lundin Mining Corporation",
       "ticker": "LUN",
@@ -15,10 +20,5 @@
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

@@ -6,7 +6,16 @@
   "age_year": 2024,
   "background": "Mr. Cherry is a veteran executive in the nuclear industry, having served as President and CEO of Cotter Corporation and as a Vice President of General Atomics.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "enCore Energy Corp.",
       "ticker": "EU",
@@ -23,14 +32,5 @@
       "start_date": "2014-10-30",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee",
-    "Corporate Governance and Nominating Committee"
   ]
 }

@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Xu has been a director since 2023. He is a citizen of the People's Republic of China and holds a degree in economics from the University of International Business and Economics in Beijing. He has extensive experience in the chemical industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Sociedad Qu\u00edmica y Minera de Chile S.A.",
       "ticker": "SQM",
@@ -15,10 +20,5 @@
       "start_date": "2023-04-26",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

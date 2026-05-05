@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Strategic Advisor at Fasken Martineau DuMoulin LLP.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance, Ethics and Sustainability Committee",
+    "Human Resources Committee"
+  ],
+  "companies": [
     {
       "name": "AtkinsR\u00e9alis Group Inc.",
       "ticker": "ATRL",
@@ -15,13 +23,5 @@
       "start_date": "2022-11-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Governance, Ethics and Sustainability Committee",
-    "Human Resources Committee"
   ]
 }

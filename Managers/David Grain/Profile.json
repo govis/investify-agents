@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Founder and CEO of Grain Management, LLC. Former Lead Independent Director of Southern Company.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "The Southern Company",
-      "ticker": "SO",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2012-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -24,5 +14,15 @@
     "Compensation and Management Succession (Chair)",
     "Finance",
     "Governance"
+  ],
+  "companies": [
+    {
+      "name": "The Southern Company",
+      "ticker": "SO",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "start_date": "2012-01-01",
+      "end_date": null
+    }
   ]
 }

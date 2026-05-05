@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Mr. Gill has over 35 years of experience in the mining and construction industries. He has held senior executive positions with major international mining companies and has extensive experience in project management.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Fortune Bay Corp.",
-      "ticker": "FOR",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2016-02-04",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
@@ -24,5 +14,15 @@
   "committees": [
     "Audit Committee (Chair)",
     "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
+    {
+      "name": "Fortune Bay Corp.",
+      "ticker": "FOR",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "start_date": "2016-02-04",
+      "end_date": null
+    }
   ]
 }

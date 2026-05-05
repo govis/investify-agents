@@ -6,16 +6,6 @@
   "age_year": 2023,
   "background": "President and Chief Executive Officer of University Pension Plan Ontario since 2020. Previously, Chief Risk and Strategy Officer of Ontario Teachers' Pension Plan.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Sprott Uranium Miners ETF",
-      "ticker": "URNM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Trustee",
-      "start_date": "2018-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Nuclear",
     "Reshoring"
@@ -24,5 +14,15 @@
   "committees": [
     "Audit Committee",
     "Nominating and Governance Committee"
+  ],
+  "companies": [
+    {
+      "name": "Sprott Uranium Miners ETF",
+      "ticker": "URNM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Trustee",
+      "start_date": "2018-01-01",
+      "end_date": null
+    }
   ]
 }

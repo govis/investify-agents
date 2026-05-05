@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Mr. Ball has over 30 years of experience in the mining industry. He was previously CFO and EVP of Corporate Development at Newmont Mining and CFO of Goldcorp Inc. He currently serves on the boards of several public mining companies.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "Faraday Copper Corp.",
       "ticker": "FDY",
@@ -15,13 +23,5 @@
       "start_date": "2022-04-21",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation and Nominating Committee"
   ]
 }

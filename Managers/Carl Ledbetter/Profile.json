@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Carl Ledbetter has served as a member of our board of directors since September 2009. Mr. Ledbetter has been a Managing Director of Pelion Venture Partners, a venture capital firm, since 2003.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
     {
       "name": "Cloudflare, Inc.",
       "ticker": "NET",
@@ -15,13 +23,5 @@
       "start_date": "2009-09-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Nominating and Corporate Governance Committee"
   ]
 }

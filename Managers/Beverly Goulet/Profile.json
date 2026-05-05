@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Beverly joined the Board in July 2017. She has significant experience in the airline industry, having held senior roles at American Airlines, including Senior Vice President and Chief Integration Officer.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Rolls-Royce Holdings plc",
-      "ticker": "RR",
-      "exchange": "LSE",
-      "title_or_role": "Independent Non-Executive Director",
-      "start_date": "2017-07-03",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Defense",
     "Electrification"
@@ -24,5 +14,15 @@
   "committees": [
     "Audit Committee",
     "Nominations & Governance Committee"
+  ],
+  "companies": [
+    {
+      "name": "Rolls-Royce Holdings plc",
+      "ticker": "RR",
+      "exchange": "LSE",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2017-07-03",
+      "end_date": null
+    }
   ]
 }

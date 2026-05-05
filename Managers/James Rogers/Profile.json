@@ -6,7 +6,15 @@
   "age_year": null,
   "background": "Mr. Rogers is a resource professional with over 20 years of experience in the mining industry, specializing in project generation and exploration.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Prospector Metals Corp.",
       "ticker": "PPP",
@@ -15,13 +23,5 @@
       "start_date": "2021-04-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

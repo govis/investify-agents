@@ -6,7 +6,15 @@
   "age_year": null,
   "background": "Mr Mann is a geologist with over 45 years' experience in the mining industry. He has held senior executive roles with several ASX listed companies, including as Managing Director of Areva Resources Australia.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "companies": [
     {
       "name": "Elevate Uranium Limited",
       "ticker": "EL8",
@@ -15,13 +23,5 @@
       "start_date": "2021-06-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee",
-    "Remuneration and Nomination Committee"
   ]
 }

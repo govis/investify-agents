@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Former CEO and Executive Chairman of Bear Creek Mining Corporation.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "Sandstorm Gold Ltd.",
       "ticker": "SAND",
@@ -15,13 +23,5 @@
       "start_date": "2015-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Corporate Governance and Nominating Committee"
   ]
 }

@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Philisiwe Sibiya was appointed to the Board in 2019. She is the former CEO of MTN Cameroon.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Risk Committee"
+  ],
+  "companies": [
     {
       "name": "Gold Fields Limited",
       "ticker": "GFI",
@@ -15,13 +23,5 @@
       "start_date": "2019-03-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Risk Committee"
   ]
 }

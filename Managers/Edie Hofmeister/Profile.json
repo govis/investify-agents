@@ -6,7 +6,17 @@
   "age_year": 2024,
   "background": "Ms. Hofmeister is an attorney with over 25 years of experience in legal and ESG matters in the mining industry.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Environmental and Sustainability Committee",
+    "Governance and Nominating Committee (Chair)",
+    "Human Resources Committee",
+    "Sustainability Committee"
+  ],
+  "companies": [
     {
       "name": "Osisko Gold Royalties Ltd",
       "ticker": "OR",
@@ -23,15 +33,5 @@
       "start_date": "2022-05-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Environmental and Sustainability Committee",
-    "Governance and Nominating Committee (Chair)",
-    "Human Resources Committee",
-    "Sustainability Committee"
   ]
 }

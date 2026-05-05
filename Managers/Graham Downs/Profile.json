@@ -6,7 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Downs has over 25 years of experience in the mineral exploration industry and is currently the CEO of Cascadia Minerals Ltd.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "companies": [
     {
       "name": "Stallion Uranium Corp.",
       "ticker": "STUD",
@@ -15,12 +22,5 @@
       "start_date": "2023-08-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
   ]
 }

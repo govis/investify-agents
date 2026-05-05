@@ -6,7 +6,19 @@
   "age_year": 2024,
   "background": "Former Managing Director and Head of Metals & Mining at Cantor Fitzgerald. Expert in uranium market analysis.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Compensation, Governance and Nominating Committee",
+    "Corporate Governance and Nominating Committee",
+    "Governance and Nominating Committee"
+  ],
+  "companies": [
     {
       "name": "Fission Uranium Corp.",
       "ticker": "FCU",
@@ -31,17 +43,5 @@
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee",
-    "Compensation, Governance and Nominating Committee",
-    "Corporate Governance and Nominating Committee",
-    "Governance and Nominating Committee"
   ]
 }

@@ -6,7 +6,13 @@
   "age_year": 2024,
   "background": "Mr. Tobler has served as Chief Financial Officer of Vista Gold Corp. since July 2019. He has more than 35 years of financial management experience, including over 20 years in the mining industry. Previously, he served as CFO of Lydian International and Alacer Gold Corp.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Vista Gold Corp.",
       "ticker": "VGZ",
@@ -15,11 +21,5 @@
       "start_date": "2019-07-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

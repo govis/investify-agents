@@ -6,7 +6,15 @@
   "age_year": 2024,
   "background": "Retired vice chairman of Northern Trust Corporation. Director since 1998.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Finance & Investment",
+    "Governance & Nominating (Chair)"
+  ],
+  "companies": [
     {
       "name": "NextEra Energy, Inc.",
       "ticker": "NEE",
@@ -15,13 +23,5 @@
       "start_date": "1998-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Finance & Investment",
-    "Governance & Nominating (Chair)"
   ]
 }

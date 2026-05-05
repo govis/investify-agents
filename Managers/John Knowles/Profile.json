@@ -6,16 +6,6 @@
   "age_year": 2024,
   "background": "Mr. Knowles is a Chartered Professional Accountant with over 30 years of experience in senior financial roles in the mining industry. He has served as CFO for several mining companies.",
   "picture_url": null,
-  "commpanies": [
-    {
-      "name": "Uranium Royalty Corp.",
-      "ticker": "UROY",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2023-01-01",
-      "end_date": null
-    }
-  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -24,5 +14,15 @@
     "Audit Committee",
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
+  ],
+  "companies": [
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "UROY",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "start_date": "2023-01-01",
+      "end_date": null
+    }
   ]
 }

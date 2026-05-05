@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Ryan is a professional engineer with over 30 years of experience in the mining and automotive industries. He has held various executive positions and has been involved in the development of several mining projects.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Ucore Rare Metals Inc.",
       "ticker": "UCU",
@@ -15,10 +20,5 @@
       "start_date": "2020-09-15",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

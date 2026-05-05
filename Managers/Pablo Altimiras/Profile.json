@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Altimiras joined the Company in 2007. He has served as our Executive Vice President of Nitrates and Potassium since 2018. He is a Chilean citizen and holds a degree in industrial engineering from the Pontificia Universidad Cat\u00f3lica de Chile.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Sociedad Qu\u00edmica y Minera de Chile S.A.",
       "ticker": "SQM",
@@ -15,10 +20,5 @@
       "start_date": "2018-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Gibson is a CPA with over 30 years of experience in senior financial positions. He has been the CFO of Laramide since 2006.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Laramide Resources Ltd.",
       "ticker": "LAM",
@@ -15,10 +20,5 @@
       "start_date": "2006-01-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }

@@ -6,7 +6,12 @@
   "age_year": 2024,
   "background": "Mr. Scannell is the Non-Executive Chairman of the Board. He served as Chief Executive Officer of Moog from 2011 to 2023 and Chairman from 2014 to 2023. He joined Moog in 1990.",
   "picture_url": null,
-  "commpanies": [
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "companies": [
     {
       "name": "Moog Inc.",
       "ticker": "MOG",
@@ -15,10 +20,5 @@
       "start_date": "2023-02-01",
       "end_date": null
     }
-  ],
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": []
+  ]
 }
