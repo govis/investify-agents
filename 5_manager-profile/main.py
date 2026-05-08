@@ -2,7 +2,6 @@ import json
 import asyncio
 import os
 from pipeline import ManagerEnrichmentPipeline
-from tools import populate_base_profile
 from dotenv import load_dotenv, find_dotenv
 
 load_dotenv(os.path.join("..", ".env")) # Load global keys from parent
@@ -47,49 +46,32 @@ async def worker(queue, pipeline):
 async def main():
     print(f"Workflow 5: Manager Profiles starting with CONCURRENCY_LIMIT={CONCURRENCY_LIMIT}...")
     
-    officers_path = os.path.join("..", "OfficersAndDirectors.json")
     managers_dir = os.path.join("..", "Managers")
-    
-    if not os.path.exists(officers_path):
-        print(f"Error: {officers_path} not found.")
-        return
-
     os.makedirs(managers_dir, exist_ok=True)
 
-    try:
-        with open(officers_path, "r", encoding="utf-8") as f:
-            all_officers = json.load(f)
-    except Exception as e:
-        print(f"Error reading OfficersAndDirectors.json: {e}")
-        return
-
-    # Phase 1: Populate all base profiles
-    print(f"Main: Populating base profiles for {len(all_officers)} individuals...")
-    profile_paths = []
-    for person in all_officers:
-        path = populate_base_profile(person, managers_dir)
-        profile_paths.append(path)
-    
     # Phase 2: Enrich profiles using Agent
     to_enrich = []
-    for path in profile_paths:
-        try:
-            with open(path, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                if data.get("enrichment_status") != "success":
-                    to_enrich.append(path)
-        except Exception:
-            continue
+    print("Scanning for profiles to enrich...")
+    for root, dirs, files in os.walk(managers_dir):
+        if "Profile.json" in files:
+            path = os.path.join(root, "Profile.json")
+            try:
+                with open(path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    if data.get("enrichment_status") == "pending":
+                        to_enrich.append(path)
+            except Exception:
+                continue
 
     if not to_enrich:
-        print("Main: No profiles to enrich.")
+        print("Main: No pending profiles to enrich.")
         return
 
     # Use PROFILES_TO_ENRICH parameter
     profiles_to_enrich = int(os.getenv("PROFILES_TO_ENRICH", "0"))
     if profiles_to_enrich > 0:
         to_enrich = to_enrich[:profiles_to_enrich]
-        print(f"Main: Enriching next {profiles_to_enrich} profiles.")
+        print(f"Main: Enriching next {len(to_enrich)} profiles.")
     else:
         print(f"Main: Enriching all {len(to_enrich)} remaining profiles.")
 

@@ -9,7 +9,14 @@
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/elaine-ellingham-p-geo-mba-msc-93853930",
+      "has_picture": "false",
+      "picture_download_count": 4
+    }
+  ],
   "committees": [
     "Corporate Governance and Nominating Committee",
     "Technical and Sustainability Committee"
@@ -23,5 +30,7 @@
       "start_date": "2018-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "picture_local": null,
+  "enrichment_status": "success"
 }

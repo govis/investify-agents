@@ -11,8 +11,10 @@
   ],
   "socials": [
     {
+      "name": "LinkedIn",
       "url": "https://www.linkedin.com/in/bill-oplinger",
-      "name": "LinkedIn"
+      "has_picture": "true",
+      "picture_download_count": 3
     }
   ],
   "committees": [],
@@ -26,5 +28,6 @@
       "start_date": "2023-09-24",
       "end_date": null
     }
-  ]
+  ],
+  "picture_local": null
 }

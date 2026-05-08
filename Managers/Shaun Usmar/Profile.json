@@ -5,11 +5,16 @@
   "age": 54,
   "age_year": 2024,
   "background": "Mr. Usmar is the Founder and CEO of Triple Flag Precious Metals Corp. and was previously CFO of Barrick Gold Corporation.",
-  "picture_url": null,
+  "picture_url": "https://media.licdn.com/dms/image/v2/C4E03AQHFGiGkiNaJtA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1637012649158?e=2147483647&amp;v=beta&amp;t=j--8OysWOB21LMJUyxsuXgeXLuOrCAhk6IXfGoCV0d4",
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/shaun-usmar"
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Technical and Sustainability Committee"
@@ -31,5 +36,7 @@
       "start_date": "2016-04-01",
       "end_date": null
     }
-  ]
+  ],
+  "picture_local": "Picture.jpg",
+  "enrichment_status": "success"
 }

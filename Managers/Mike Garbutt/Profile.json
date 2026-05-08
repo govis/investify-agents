@@ -10,7 +10,13 @@
     "Electrification",
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/mikegarbutt",
+      "potential_picture_url": null
+    }
+  ],
   "committees": [],
   "companies": [
     {
@@ -21,5 +27,7 @@
       "start_date": "2023-06-01",
       "end_date": null
     }
-  ]
+  ],
+  "picture_local": null,
+  "enrichment_status": "success"
 }

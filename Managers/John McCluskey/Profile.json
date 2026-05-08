@@ -5,11 +5,20 @@
   "age": 63,
   "age_year": 2024,
   "background": "Mr. McCluskey is the President and Chief Executive Officer of Alamos Gold Inc. and has been a Director since February 2003. He was a co-founder of the Company. Previously, he was the President and CEO of Grayd Resource Corporation.",
-  "picture_url": null,
+  "picture_url": "https://media.licdn.com/dms/image/v2/C5103AQHtYBlQ-IKyzQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517544555330?e=2147483647&amp;v=beta&amp;t=YKpUm4tBgvEapTygVRuDv9U0nRJAEw-1uCMBw_09vlA",
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/john-mccluskey-a09784b1"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/johnmccluskey"
+    }
+  ],
   "committees": [],
   "companies": [
     {
@@ -20,5 +29,7 @@
       "start_date": "2003-02-01",
       "end_date": null
     }
-  ]
+  ],
+  "picture_local": "Picture.jpg",
+  "enrichment_status": "success"
 }

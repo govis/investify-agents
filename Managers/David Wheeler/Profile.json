@@ -9,7 +9,13 @@
   "investment_theses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/david-wheeler-0486441b",
+      "potential_picture_url": "https://media.licdn.com/dms/image/v2/C4D03AQGoxdRsenb18g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516872915097?e=2147483647&v=beta&t=Plj3gUydZKaIMjpe2qBDhrRSdAwLsvngaQsUn_oDE2Y"
+    }
+  ],
   "committees": [],
   "companies": [
     {
@@ -20,5 +26,7 @@
       "start_date": "2024-05-24",
       "end_date": null
     }
-  ]
+  ],
+  "picture_local": null,
+  "enrichment_status": "success"
 }

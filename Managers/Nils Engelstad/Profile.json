@@ -5,11 +5,20 @@
   "age": 45,
   "age_year": 2024,
   "background": "Mr. Engelstad is the Vice President, General Counsel. Prior to joining Alamos, he was General Counsel at McEwen Mining Inc.",
-  "picture_url": null,
+  "picture_url": "https://media.licdn.com/dms/image/v2/D5603AQG3nzdyT3ZFMw/profile-displayphoto-scale_200_200/B56ZwFMZrwJwAY-/0/1769613663686?e=2147483647&amp;v=beta&amp;t=RRXkT2AKxJYT38og3WV9wdPMHHuPTzQ6437cawP1hcQ",
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/nilsengelstad"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://x.com/nils_engelstad"
+    }
+  ],
   "committees": [],
   "companies": [
     {
@@ -20,5 +29,7 @@
       "start_date": "2015-04-01",
       "end_date": null
     }
-  ]
+  ],
+  "picture_local": "Picture.jpg",
+  "enrichment_status": "success"
 }

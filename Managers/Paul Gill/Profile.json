@@ -9,7 +9,13 @@
   "investment_theses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/paul-gill-mba",
+      "potential_picture_url": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],
@@ -22,5 +28,7 @@
       "start_date": "2011-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "picture_local": null,
+  "enrichment_status": "success"
 }

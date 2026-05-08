@@ -9,7 +9,13 @@
   "investment_theses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/joe-graziano-62a61717",
+      "potential_picture_url": null
+    }
+  ],
   "committees": [],
   "companies": [
     {
@@ -20,5 +26,7 @@
       "start_date": "2024-05-24",
       "end_date": null
     }
-  ]
+  ],
+  "picture_local": null,
+  "enrichment_status": "success"
 }

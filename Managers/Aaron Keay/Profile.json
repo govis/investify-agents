@@ -9,7 +9,13 @@
   "investment_theses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/aaron-keay-bb55a8332/",
+      "potential_picture_url": null
+    }
+  ],
   "committees": [],
   "companies": [
     {
@@ -20,5 +26,9 @@
       "start_date": "2023-05-01",
       "end_date": null
     }
-  ]
+  ],
+  "enrichment_status": "success",
+  "picture_local": null,
+  "picture_download_count": 1,
+  "has_picture": "false"
 }

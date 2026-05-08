@@ -9,7 +9,13 @@
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/greg-fisher-a6a85613",
+      "potential_picture_url": null
+    }
+  ],
   "committees": [],
   "companies": [
     {
@@ -20,5 +26,7 @@
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "picture_local": null,
+  "enrichment_status": "success"
 }

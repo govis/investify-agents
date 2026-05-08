@@ -11,12 +11,11 @@
   ],
   "socials": [
     {
+      "name": "LinkedIn",
       "url": "https://www.linkedin.com/in/amybanse",
-      "name": "LinkedIn"
-    },
-    {
-      "url": "https://x.com/abanse2",
-      "name": "X (Twitter)"
+      "has_picture": "unknown",
+      "picture_download_count": 3,
+      "potential_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQExT9kLqX87YA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1710963544122?e=1746057600&v=beta&t=Zz_k7z-9z9z9z9z9z9z9z9z9z9z9z9z9z9z9z9z9z9z"
     }
   ],
   "committees": [
@@ -34,5 +33,7 @@
     }
   ],
   "picture_local": null,
-  "enrichment_status": "success"
+  "enrichment_status": "success",
+  "picture_download_count": 13,
+  "has_picture": "false"
 }

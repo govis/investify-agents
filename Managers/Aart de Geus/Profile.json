@@ -5,12 +5,18 @@
   "age": 69,
   "age_year": 2024,
   "background": "Dr. de Geus is the co-founder and Executive Chair of Synopsys, Inc. He has served as Synopsys' CEO or co-CEO from 1994 to 2023.",
-  "picture_url": null,
+  "picture_url": "https://www.avfirewalls.com.au/images/FortiGate/FG-200F.png",
   "investment_theses": [
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/aart-de-geus",
+      "potential_picture_url": null
+    }
+  ],
   "committees": [
     "Human Resources and Compensation Committee",
     "Investment Committee"
@@ -24,5 +30,9 @@
       "start_date": "2007-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "enrichment_status": "success",
+  "picture_local": "Picture.png",
+  "picture_download_count": 1,
+  "has_picture": "true"
 }

@@ -1,31 +1,34 @@
 {
-  "name": "Anil Chakravarthy",
-  "first_name": "Anil",
-  "last_name": "Chakravarthy",
-  "age": 56,
-  "age_year": 2024,
-  "background": "Mr. Chakravarthy has served as President, Digital Experience Business since January 2020. Prior to joining Adobe, he was Chief Executive Officer of Informatica LLC from 2016 to 2020.",
-  "picture_url": "https://www.adobe.com/content/dam/cc/en/leaders/photos/anil-chakravarthy.jpg",
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [
-    {
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/achakravarthy"
-    }
-  ],
-  "committees": [],
-  "companies": [
-    {
-      "name": "Adobe Inc.",
-      "ticker": "ADBE",
-      "exchange": "NASDAQ",
-      "title_or_role": "President, Digital Experience Business",
-      "start_date": "2020-01-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": null,
-  "enrichment_status": "success"
+    "name":  "Anil Chakravarthy",
+    "first_name":  "Anil",
+    "last_name":  "Chakravarthy",
+    "age":  56,
+    "age_year":  2024,
+    "background":  "Mr. Chakravarthy has served as President, Digital Experience Business since January 2020. Prior to joining Adobe, he was Chief Executive Officer of Informatica LLC from 2016 to 2020.",
+    "picture_url":  "https://mumbrella.com.au/wp-content/uploads/2020/01/anil-chakravarthy-2048x1365.jpg",
+    "investment_theses":  [
+                              "AI"
+                          ],
+    "socials":  [
+                    {
+                        "name":  "LinkedIn",
+                        "url":  "https://www.linkedin.com/in/achakravarthy"
+                    }
+                ],
+    "committees":  [
+
+                   ],
+    "companies":  [
+                      {
+                          "name":  "Adobe Inc.",
+                          "ticker":  "ADBE",
+                          "exchange":  "NASDAQ",
+                          "title_or_role":  "President, Digital Experience Business",
+                          "start_date":  "2020-01-01",
+                          "end_date":  null
+                      }
+                  ],
+    "picture_local":  "Picture.jpg",
+    "enrichment_status":  "success",
+    "has_picture":  "true"
 }

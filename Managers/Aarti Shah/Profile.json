@@ -11,7 +11,13 @@
     "Defense",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/aarti-shah-3a62186",
+      "potential_picture_url": null
+    }
+  ],
   "committees": [
     "Compensation Committee"
   ],
@@ -24,5 +30,9 @@
       "start_date": "2020-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "enrichment_status": "success",
+  "picture_local": null,
+  "picture_download_count": 1,
+  "has_picture": "false"
 }

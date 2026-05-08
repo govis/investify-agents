@@ -51,29 +51,56 @@ def download_image(url: str, manager_dir: str) -> Optional[str]:
 
 def scrape_linkedin_picture(url: str) -> Optional[str]:
     """
-    Attempts to scrape the profile picture URL from a public LinkedIn profile using Open Graph metadata.
+    Attempts to scrape a consistent profile picture URL from a public LinkedIn profile.
+    Targets the media.licdn.com/dms/image/v2/ pattern and prefers shrink_200_200.
     """
     try:
-        # High quality User-Agent to mimic a browser
+        # Extensive browser headers
         headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Accept-Language": "en-US,en;q=0.9",
+            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+            'accept-language': 'en-US,en;q=0.9',
+            'cache-control': 'max-age=0',
+            'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+            'sec-ch-ua-mobile': '?0',
+            'sec-ch-ua-platform': '"Windows"',
+            'sec-fetch-dest': 'document',
+            'sec-fetch-mode': 'navigate',
+            'sec-fetch-site': 'none',
+            'sec-fetch-user': '?1',
+            'upgrade-insecure-requests': '1',
+            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         }
-        # Use a longer timeout for LinkedIn
         response = requests.get(url, headers=headers, timeout=15)
-        if response.status_code == 200:
-            # Search for og:image meta tag
-            match = re.search(r'<meta[^>]+property="og:image"[^>]+content="([^"]+)"', response.text)
-            if not match:
-                # Fallback to name-based search if og:image is missing (e.g. name attribute instead of property)
-                match = re.search(r'<meta[^>]+name="twitter:image"[^>]+content="([^"]+)"', response.text)
+        
+        if response.status_code == 999 or response.status_code == 429:
+            return "BLOCKED"
             
+        if response.status_code == 200:
+            # Search for the media pattern
+            matches = re.findall(r'https://media\.licdn\.com/dms/image/[^"\s>]+', response.text)
+            
+            # Sort matches to prioritize 200x200 as requested, then higher resolutions
+            priorities = ['shrink_200_200', 'shrink_400_400', 'shrink_800_800', 'shrink_100_100']
+            for p in priorities:
+                for m in matches:
+                    if p in m:
+                        return html.unescape(m)
+            
+            # Fallback to any displayphoto
+            for m in matches:
+                if 'profile-displayphoto' in m:
+                    return html.unescape(m)
+            
+            # Fallback to any dms/image
+            if matches:
+                return html.unescape(matches[0])
+            
+            # Fallback to og:image if the v2 pattern isn't found
+            match = re.search(r'<meta[^>]+property="og:image"[^>]+content="([^"]+)"', response.text)
             if match:
-                img_url = match.group(1)
-                # Ignore default/placeholder images
-                if any(p in img_url.lower() for p in ['ghost_person', 'default_profile', 'placeholder']):
-                    return None
-                return img_url
+                img_url = html.unescape(match.group(1))
+                if not any(p in img_url.lower() for p in ['ghost_person', 'default_profile', '1c5u578iilxfi4m4dvc4q810q']):
+                    return img_url
     except Exception as e:
         print(f"DEBUG: LinkedIn scrape failed for {url}: {e}")
     return None
@@ -177,12 +204,13 @@ def populate_base_profile(person_summary: Dict[str, Any], managers_dir: str):
 
 def search_social_media(person_name: str, affiliations: List[str]) -> List[Dict[str, str]]:
     """
-    Searches for social media profiles (LinkedIn, X/Twitter, etc.) for a person.
-    Provide affiliation names (company names) for better accuracy.
+    Searches for social media profiles and potential profile pictures.
     """
-    socials = []
+    results_list = []
     affiliation_str = " ".join(affiliations[:2])
-    queries = [
+    
+    # 1. Text Search for Social Profiles
+    text_queries = [
         f'"{person_name}" {affiliation_str} LinkedIn',
         f'"{person_name}" LinkedIn',
         f'"{person_name}" {affiliation_str} Twitter X',
@@ -190,39 +218,60 @@ def search_social_media(person_name: str, affiliations: List[str]) -> List[Dict[
     
     try:
         with DDGS() as ddgs:
-            for query in queries:
-                results = list(ddgs.text(query, max_results=5))
-                for res in results:
+            for query in text_queries:
+                text_results = list(ddgs.text(query, max_results=5))
+                for res in text_results:
                     href = res.get('href', '').lower()
-                    snippet = res.get('body', '')
                     if 'linkedin.com/in/' in href:
-                        socials.append({
+                        results_list.append({
+                            "type": "social_profile",
                             "name": "LinkedIn", 
                             "url": res['href'],
-                            "snippet": snippet
+                            "snippet": res.get('body', '')
                         })
                     elif 'twitter.com/' in href or 'x.com/' in href:
                         if not any(x in href for x in ['/status/', '/search', '/i/']):
-                            socials.append({
+                            results_list.append({
+                                "type": "social_profile",
                                 "name": "X (Twitter)", 
                                 "url": res['href'],
-                                "snippet": snippet
+                                "snippet": res.get('body', '')
                             })
+
+            # 2. Image Search for Potential Pictures (Focus on LinkedIn)
+            image_queries = [
+                f'site:licdn.com "{person_name}" {affiliation_str}',
+                f'site:linkedin.com "{person_name}" {affiliation_str} profile picture'
+            ]
+            for query in image_queries:
+                img_results = list(ddgs.images(query, max_results=10))
+                for res in img_results:
+                    img_url = res.get('image', '')
+                    source_url = res.get('url', '')
+                    if img_url and 'licdn.com' in img_url.lower():
+                        results_list.append({
+                            "type": "potential_image",
+                            "image_url": img_url,
+                            "source_url": source_url,
+                            "title": res.get('title', '')
+                        })
                 
-                # Deduplicate by URL
-                unique_socials = []
-                seen_urls = set()
-                for s in socials:
-                    if s['url'] not in seen_urls:
-                        unique_socials.append(s)
-                        seen_urls.add(s['url'])
-                socials = unique_socials
-                if len(socials) >= 4: break # Get a decent list for agent to pick from
+            # Deduplicate social profiles by URL
+            unique_results = []
+            seen_urls = set()
+            for r in results_list:
+                if r['type'] == "social_profile":
+                    if r['url'] not in seen_urls:
+                        unique_results.append(r)
+                        seen_urls.add(r['url'])
+                else:
+                    unique_results.append(r)
+            results_list = unique_results
                 
     except Exception:
         pass
         
-    return socials
+    return results_list
 
 def search_profile_picture(person_name: str, affiliations: List[str], linkedin_url: Optional[str] = None) -> Optional[str]:
     """
@@ -235,7 +284,8 @@ def search_profile_picture(person_name: str, affiliations: List[str], linkedin_u
     # 1. Try scraping the LinkedIn URL directly if provided
     if linkedin_url:
         scraped_url = scrape_linkedin_picture(linkedin_url)
-        if scraped_url:
+        # Fix: Only return if it's a real URL, not the "BLOCKED" status string
+        if scraped_url and scraped_url != "BLOCKED":
             return scraped_url
 
     affiliation_str = " ".join(affiliations[:2])
@@ -256,22 +306,32 @@ def search_profile_picture(person_name: str, affiliations: List[str], linkedin_u
                     img_url = res.get('image', '')
                     if not img_url: continue
                     
-                    # Ignore known placeholders
-                    if any(p in img_url.lower() for p in ['ghost_person', 'default_profile', 'placeholder']):
+                    # Ignore known placeholders and UI assets
+                    if any(p in img_url.lower() for p in [
+                        'ghost_person', 'default_profile', 'placeholder',
+                        'static.licdn.com/aero-v1', '1c5u578iilxfi4m4dvc4q810q'
+                    ]):
                         continue
 
                     if any(domain in img_url for domain in ['licdn.com', 'linkedin.com']):
-                        found_licdn_urls.append(img_url)
+                        # Favor media.licdn.com (real user images) over static.licdn.com (assets)
+                        if 'media.licdn.com' in img_url:
+                            found_licdn_urls.insert(0, img_url)
+                        else:
+                            found_licdn_urls.append(img_url)
                     else:
                         all_other_urls.append(img_url)
 
             # 2. Prioritize LinkedIn/Licdn images, favoring non-webp (JPEG/PNG)
             if found_licdn_urls:
-                jpegs = [u for u in found_licdn_urls if '.webp' not in u.lower()]
-                return jpegs[0] if jpegs else found_licdn_urls[0]
+                # Filter out any lingering static/UI assets
+                clean_licdn = [u for u in found_licdn_urls if 'static.licdn.com' not in u]
+                if clean_licdn:
+                    jpegs = [u for u in clean_licdn if '.webp' not in u.lower()]
+                    return jpegs[0] if jpegs else clean_licdn[0]
 
             # 3. Fallback to other professional domains
-            professional_domains = ['bloomberg.com', 'reuters.com', 'wsj.com', 'forbes.com', 'businessweek.com', 'fortune.com', 'adobe.com', 'apple.com']
+            professional_domains = ['bloomberg.com', 'reuters.com', 'wsj.com', 'forbes.com', 'businessweek.com', 'fortune.com', 'adobe.com', 'apple.com', 'mumbrella.com.au']
             for img_url in all_other_urls:
                 if any(domain in img_url for domain in professional_domains):
                     return img_url
@@ -283,10 +343,10 @@ def search_profile_picture(person_name: str, affiliations: List[str], linkedin_u
         pass
     return None
 
-def save_enrichment(profile_path: str, socials: List[Dict[str, str]], picture_url: Optional[str]) -> str:
+def save_enrichment(profile_path: str, socials: List[Dict[str, str]]) -> str:
     """
-    Updates the Profile.json with socials and picture URL.
-    Downloads a local copy of the picture if a LinkedIn profile is found.
+    Updates the Profile.json with socials and updates enrichment_status.
+    FULLY ADDITIVE for socials: Only updates if new socials are found.
     """
     try:
         if not os.path.exists(profile_path):
@@ -295,20 +355,19 @@ def save_enrichment(profile_path: str, socials: List[Dict[str, str]], picture_ur
         with open(profile_path, 'r', encoding='utf-8') as f:
             profile = json.load(f)
             
-        profile["socials"] = socials
-        profile["picture_url"] = picture_url
-        profile["picture_local"] = None
-        
-        # Requirement: download picture if LinkedIn page is present
-        has_linkedin = any(s.get("name") == "LinkedIn" for s in socials)
-        if has_linkedin and picture_url:
-            manager_dir = os.path.dirname(profile_path)
-            local_filename = download_image(picture_url, manager_dir)
-            if local_filename:
-                profile["picture_local"] = local_filename
-        
-        profile["enrichment_status"] = "success"
-        
+        # 1. Update Socials: Only update if new socials are found
+        if socials:
+            profile["socials"] = socials
+        elif not profile.get("socials"):
+            profile["socials"] = []
+
+        # 2. Final Status Update
+        # It's a success if we have socials
+        if profile.get("socials"):
+            profile["enrichment_status"] = "success"
+        else:
+            profile["enrichment_status"] = "not_found"
+            
         with open(profile_path, 'w', encoding='utf-8') as f:
             json.dump(profile, f, indent=2)
             
