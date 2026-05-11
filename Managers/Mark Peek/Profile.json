@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Peek has served as a Managing Director of Workday Ventures since 2018. He previously served as Co-President and CFO of Workday, Inc. and as CFO of VMware, Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "SentinelOne, Inc.",
+      "ticker": "S",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.sentinelone.com",
+      "start_date": "2021-04-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "SentinelOne, Inc.",
-      "ticker": "S",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2021-04-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "John Beevers was appointed as a Non-Executive Director on 1 May 2023. He has over 30 years of experience in the resources and chemical industries, including as CEO of Orica Mining Services.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lynas Rare Earths Limited",
+      "ticker": "LYC",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://lynasrareearths.com",
+      "start_date": "2023-05-01",
+      "end_date": null
+    },
+    {
+      "name": "Syrah Resources Limited",
+      "ticker": "SYR",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://www.syrahresources.com.au",
+      "start_date": "2020-05-22",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -15,22 +36,6 @@
     "Health, Safety and Environment Committee (Chair)",
     "Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "Lynas Rare Earths Limited",
-      "ticker": "LYC",
-      "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
-      "start_date": "2023-05-01",
-      "end_date": null
-    },
-    {
-      "name": "Syrah Resources Limited",
-      "ticker": "SYR",
-      "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
-      "start_date": "2020-05-22",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

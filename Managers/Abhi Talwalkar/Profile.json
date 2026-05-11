@@ -6,6 +6,69 @@
   "age_year": 2024,
   "background": "Former President and CEO of LSI Corporation. Director since 2017.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "title_or_role": "Board of Directors",
+      "website": "https://www.amd.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lam Research Corp.",
+      "ticker": "LRCX",
+      "exchange": "NASDAQ",
+      "website": "https://www.lamresearch.com",
+      "title_or_role": "Board of Directors",
+      "start_date": "2011",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "TE Connectivity Ltd.",
+      "ticker": "TEL",
+      "exchange": "NYSE",
+      "website": "https://www.te.com",
+      "title_or_role": "Board of Directors",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "LSI Corporation",
+      "ticker": "LSI (Delisted)",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "President & CEO",
+      "start_date": "2005",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Emulex Corporation",
+      "ticker": "ELX (Delisted)",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Board of Directors",
+      "start_date": "2012",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "title_or_role": "Various Executive Roles",
+      "start_date": "1993",
+      "end_date": "2005",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -14,14 +77,5 @@
     "Compensation and Leadership Resources Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Advanced Micro Devices, Inc.",
-      "ticker": "AMD",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2017-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

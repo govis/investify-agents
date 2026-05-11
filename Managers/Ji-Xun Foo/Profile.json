@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Managing partner of GGV Capital. He has served as a director of our company since 2018.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "XPeng Inc.",
+      "ticker": "XPEV",
+      "exchange": "NYSE",
+      "title_or_role": "Non-executive Director",
+      "website": "https://www.xiaopeng.com",
+      "start_date": "2018-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "XPeng Inc.",
-      "ticker": "XPEV",
-      "exchange": "NYSE",
-      "title_or_role": "Non-executive Director",
-      "start_date": "2018-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

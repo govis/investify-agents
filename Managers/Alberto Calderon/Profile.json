@@ -6,19 +6,53 @@
   "age_year": 2024,
   "background": "Alberto Calderon was appointed CEO of AngloGold Ashanti in September 2021. He was previously CEO of Orica and has held senior executive roles at BHP, including Group Executive and Chief Commercial Officer.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "AngloGold Ashanti plc",
       "ticker": "AU",
       "exchange": "NYSE",
       "title_or_role": "Chief Executive Officer",
+      "website": "https://www.anglogoldashanti.com",
       "start_date": "2021-09-01",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Orica Limited",
+      "ticker": "ORI",
+      "exchange": "ASX",
+      "website": "https://www.orica.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2013-08-01",
+      "end_date": "2015-03-23",
+      "validated": true
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX / NYSE",
+      "website": "https://www.bhp.com",
+      "title_or_role": "Chief Commercial Officer",
+      "start_date": "2006",
+      "end_date": "2006",
+      "validated": true
+    },
+    {
+      "name": "Ecopetrol S.A.",
+      "ticker": "EC",
+      "exchange": "NYSE",
+      "website": "https://www.ecopetrol.com.co",
+      "title_or_role": "President (CEO)",
+      "start_date": "1999",
+      "end_date": "2002",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

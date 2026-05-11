@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Le Bel has over 30 years of experience in corporate law and has served as legal counsel for several mining companies.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Osisko Gold Royalties Ltd",
       "ticker": "OR",
       "exchange": "NYSE",
       "title_or_role": "Vice President, Legal Affairs and Corporate Secretary",
+      "website": "https://osiskogr.com",
       "start_date": "2014-06-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

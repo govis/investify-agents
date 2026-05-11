@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Mr. Gillin is a corporate director and has served on several boards in the mining and financial sectors. He was previously Chairman and CEO of Tahera Diamond Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Dundee Precious Metals Inc.",
+      "ticker": "DPM",
+      "exchange": "TSX",
+      "title_or_role": "Lead Director",
+      "website": "https://www.dundeeprecious.com",
+      "start_date": "2009-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Wheaton Precious Metals Corp.",
+      "ticker": "WPM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.wheatonpm.com",
+      "start_date": "2004-10-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -16,22 +37,6 @@
     "Governance and Nominating Committee",
     "Human Resources Committee"
   ],
-  "companies": [
-    {
-      "name": "Dundee Precious Metals Inc.",
-      "ticker": "DPM",
-      "exchange": "TSX",
-      "title_or_role": "Lead Director",
-      "start_date": "2009-01-01",
-      "end_date": null
-    },
-    {
-      "name": "Wheaton Precious Metals Corp.",
-      "ticker": "WPM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2004-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,73 @@
   "age_year": 2024,
   "background": "Dr. Rompel has over 30 years of experience in the exploration and mining industry. He has held various senior positions with Anglo American and has extensive experience in project management and exploration across several continents. He holds a PhD in Geology from the University of the Witwatersrand.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Discovery Silver Corp.",
+      "ticker": "DSV",
+      "exchange": "TSX",
+      "title_or_role": "Management Team Member",
+      "website": "https://www.discoverysilver.com/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Q-Gold Resources Ltd.",
+      "ticker": "QGLDF",
+      "exchange": "OTC",
+      "website": "https://qgoldresources.com/",
+      "title_or_role": "Chief Operating Officer, Director & VP-Exploration",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Consolidated Lithium Metals Inc.",
+      "ticker": "CLM",
+      "exchange": "TSXV",
+      "website": "https://consolidatedlithium.com/",
+      "title_or_role": "Director & Vice President-Exploration",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Trigon Metals Inc.",
+      "ticker": "TM",
+      "exchange": "TSXV",
+      "website": "https://trigonmetals.com/",
+      "title_or_role": "Chief Exploration Officer",
+      "start_date": "2026",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Future Mineral Resources, Inc.",
+      "ticker": "FMR",
+      "exchange": "TSX",
+      "website": "https://futuremineralresources.com/",
+      "title_or_role": "Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Xander Resources, Inc.",
+      "ticker": "XND",
+      "exchange": "TSXV",
+      "website": "https://xanderresources.ca/",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Discovery Silver Corp.",
-      "ticker": "DSV",
-      "exchange": "TSX",
-      "title_or_role": "President",
-      "start_date": "2024-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

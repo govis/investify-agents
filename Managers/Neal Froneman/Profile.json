@@ -6,19 +6,23 @@
   "age_year": 2023,
   "background": "Neal Froneman was appointed executive director and CEO of Sibanye-Stillwater on 1 January 2013. He has over 40 years of experience in the mining industry. Prior to joining Sibanye-Stillwater, he was CEO of Gold One International Limited and Aflease Gold Limited.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Sibanye Stillwater Limited",
       "ticker": "SBSW",
       "exchange": "NYSE",
       "title_or_role": "Chief Executive Officer",
+      "website": "https://www.sibanyestillwater.com",
       "start_date": "2013-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

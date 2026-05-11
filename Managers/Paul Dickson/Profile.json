@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Paul Dickson has served as our Chief Revenue Officer since May 2022. He previously served as our President, Sunrun Direct from 2020 to 2022 and as Senior Vice President, Operations from 2018 to 2020. Mr. Dickson joined Sunrun through the acquisition of Vivint Solar, where he served as Chief Revenue Officer.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Sunrun Inc.",
       "ticker": "RUN",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Revenue Officer",
+      "website": "https://www.sunrun.com",
       "start_date": "2022-05-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

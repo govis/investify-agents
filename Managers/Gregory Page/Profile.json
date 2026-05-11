@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Former Chairman and CEO of Cargill, Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Deere & Company",
+      "ticker": "DE",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.deere.com",
+      "start_date": "2013-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Eaton Corporation plc",
+      "ticker": "ETN",
+      "exchange": "NYSE",
+      "title_or_role": "Lead Director",
+      "website": "https://www.eaton.com",
+      "start_date": "2003-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -17,22 +38,6 @@
     "Finance Committee",
     "Governance"
   ],
-  "companies": [
-    {
-      "name": "Deere & Company",
-      "ticker": "DE",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2013-01-01",
-      "end_date": null
-    },
-    {
-      "name": "Eaton Corporation plc",
-      "ticker": "ETN",
-      "exchange": "NYSE",
-      "title_or_role": "Lead Director",
-      "start_date": "2003-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Henrik Gerdes has served as our Chief Accounting Officer since May 2022. Prior to that, he served as our Vice President, Corporate Controller from 2020 to 2022. Before joining ChargePoint, he held various accounting roles at 8x8, Inc. and Ernst & Young.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "ChargePoint Holdings, Inc.",
       "ticker": "CHPT",
       "exchange": "NYSE",
       "title_or_role": "Chief Accounting Officer",
+      "website": "https://www.chargepoint.com",
       "start_date": "2022-05-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

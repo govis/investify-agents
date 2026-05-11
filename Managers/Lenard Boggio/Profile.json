@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former partner at PwC where he led the mining practice. Experienced director for several public mining companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Equinox Gold Corp.",
+      "ticker": "EQX",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.equinoxgold.com",
+      "start_date": "2017-12-22",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee (Chair)",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Equinox Gold Corp.",
-      "ticker": "EQX",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2017-12-22",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

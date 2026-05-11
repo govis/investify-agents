@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Patel is a corporate and securities lawyer with over 15 years of experience in the resource sector. He has served as General Counsel and Corporate Secretary for several public companies.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "F3 Uranium Corp.",
       "ticker": "FUU",
       "exchange": "TSX",
       "title_or_role": "General Counsel and Corporate Secretary",
+      "website": "https://f3uranium.com",
       "start_date": "2022-11-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

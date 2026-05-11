@@ -6,18 +6,14 @@
   "age_year": 2024,
   "background": "Steven Kalmin joined Glencore in 1999 and has been the Chief Financial Officer since 2005. He oversaw the company's IPO in 2011 and the merger with Xstrata in 2013. He holds a Bachelor of Commerce from the University of New South Wales and is a member of the Institute of Chartered Accountants in Australia.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Glencore plc",
       "ticker": "GLEN",
       "exchange": "LSE",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.glencore.com",
       "start_date": "2005-06-01",
       "end_date": null
     },
@@ -26,8 +22,17 @@
       "ticker": "GLNCY",
       "exchange": "OTC",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.glencore.com",
       "start_date": "2005-06-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

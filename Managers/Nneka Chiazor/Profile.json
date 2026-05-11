@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Ms. Chiazor has served as Vice President, Government Affairs since 2021. Prior to joining Albemarle, she held leadership roles at Cox Communications and Verizon.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "exchange": "NYSE",
+      "title_or_role": "Vice President, Government Affairs",
+      "website": "https://www.albemarle.com",
+      "start_date": "2021-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Albemarle Corporation",
-      "ticker": "ALB",
-      "exchange": "NYSE",
-      "title_or_role": "Vice President, Government Affairs",
-      "start_date": "2021-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

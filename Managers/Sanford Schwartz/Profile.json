@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Schwartz has served as a member of our Board since 2020. He is a Senior Advisor to Cox Enterprises and former President of Cox Automotive.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Rivian Automotive, Inc.",
+      "ticker": "RIVN",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://rivian.com",
+      "start_date": "2020-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Rivian Automotive, Inc.",
-      "ticker": "RIVN",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

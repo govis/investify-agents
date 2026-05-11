@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Liz Hewitt has held senior roles at Smith & Nephew and 3i Group. She is a Chartered Accountant.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Glencore plc",
+      "ticker": "GLEN",
+      "exchange": "LSE",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.glencore.com",
+      "start_date": "2022-09-01",
+      "end_date": null
+    },
+    {
+      "name": "Glencore plc",
+      "ticker": "GLNCY",
+      "exchange": "OTC",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.glencore.com",
+      "start_date": "2022-09-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -16,22 +37,6 @@
     "Nomination Committee",
     "Remuneration Committee"
   ],
-  "companies": [
-    {
-      "name": "Glencore plc",
-      "ticker": "GLEN",
-      "exchange": "LSE",
-      "title_or_role": "Independent Non-Executive Director",
-      "start_date": "2022-09-01",
-      "end_date": null
-    },
-    {
-      "name": "Glencore plc",
-      "ticker": "GLNCY",
-      "exchange": "OTC",
-      "title_or_role": "Independent Non-Executive Director",
-      "start_date": "2022-09-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

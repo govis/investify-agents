@@ -6,6 +6,18 @@
   "age_year": 2023,
   "background": "Dr. Vincent Maphai was appointed as Chairman and non-executive director on 1 June 2019. He has a distinguished career in academia and the private sector, including roles at BHP Billiton South Africa and South African Breweries.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sibanye Stillwater Limited",
+      "ticker": "SBSW",
+      "exchange": "NYSE",
+      "title_or_role": "Chairman and Independent Non-Executive Director",
+      "website": "https://www.sibanyestillwater.com",
+      "start_date": "2019-06-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Nomination Committee"
   ],
-  "companies": [
-    {
-      "name": "Sibanye Stillwater Limited",
-      "ticker": "SBSW",
-      "exchange": "NYSE",
-      "title_or_role": "Chairman and Independent Non-Executive Director",
-      "start_date": "2019-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

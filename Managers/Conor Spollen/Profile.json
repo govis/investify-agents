@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Joined Li-Cycle in 2022. Previously held senior leadership roles at Rio Tinto, including Chief Operating Officer of Iron & Titanium.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Li-Cycle Holdings Corp.",
       "ticker": "LICY",
       "exchange": "NYSE",
       "title_or_role": "Chief Operating Officer",
+      "website": "https://li-cycle.com",
       "start_date": "2024-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Melrose has over 30 years of experience in the mining industry, specializing in exploration and project development. He was formerly the President and CEO of LiCo Energy Metals and held senior roles at Cameco.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Fission Uranium Corp.",
       "ticker": "FCU",
       "exchange": "TSX",
       "title_or_role": "Vice President, Exploration",
+      "website": "https://fissionuranium.com",
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,18 @@
   "age_year": null,
   "background": "Mr. Graham has over 35 years of experience in the mining and energy sectors, with a focus on project development and operations. He has held senior roles at various mining companies, including Rio Tinto and BHP.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Peninsula Energy Limited",
+      "ticker": "PEN",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://www.pel.net.au",
+      "start_date": "2023-09-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -14,14 +26,6 @@
     "Audit and Risk Management Committee",
     "Remuneration and Nomination Committee"
   ],
-  "companies": [
-    {
-      "name": "Peninsula Energy Limited",
-      "ticker": "PEN",
-      "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
-      "start_date": "2023-09-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

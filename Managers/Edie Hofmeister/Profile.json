@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Ms. Hofmeister is an attorney with over 25 years of experience in legal and ESG matters in the mining industry.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Osisko Gold Royalties Ltd",
+      "ticker": "OR",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://osiskogr.com",
+      "start_date": "2022-05-01",
+      "end_date": null
+    },
+    {
+      "name": "Wesdome Gold Mines Ltd.",
+      "ticker": "WDO",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.wesdome.com",
+      "start_date": "2022-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -16,22 +37,6 @@
     "Human Resources Committee",
     "Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "Osisko Gold Royalties Ltd",
-      "ticker": "OR",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-05-01",
-      "end_date": null
-    },
-    {
-      "name": "Wesdome Gold Mines Ltd.",
-      "ticker": "WDO",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

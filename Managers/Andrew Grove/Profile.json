@@ -6,6 +6,29 @@
   "age_year": null,
   "background": "Mr Grove has over 30 years of experience in the mining industry, including 22 years with Macquarie Bank in mining finance and 8 years in senior executive roles at African-focused gold producers. He has significant experience in project development, operations, and corporate finance.",
   "picture_url": "https://media.licdn.com/dms/image/v2/C5603AQEkaKcQHWEZsw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1608036507084?e=2147483647&amp;v=beta&amp;t=cQ1BOiDx4kW_ohncBXxFhzBuw8PQabf_CxubFOo6CdA",
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "Aura Energy Limited",
+      "ticker": "AEE",
+      "exchange": "ASX",
+      "title_or_role": "Managing Director and Chief Executive Officer",
+      "website": "https://www.auraenergy.com.au/",
+      "start_date": "2024-01-30",
+      "end_date": "2025-10-19",
+      "validated": true
+    },
+    {
+      "name": "Chesser Resources Limited",
+      "ticker": "CHZ",
+      "exchange": "ASX",
+      "website": "https://www.chesserresources.com.au/",
+      "title_or_role": "Managing Director and Chief Executive Officer",
+      "start_date": "2021-05-01",
+      "end_date": "2023-10-01",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -16,16 +39,5 @@
     }
   ],
   "committees": [],
-  "companies": [
-    {
-      "name": "Aura Energy Limited",
-      "ticker": "AEE",
-      "exchange": "ASX",
-      "title_or_role": "Managing Director and CEO",
-      "start_date": "2024-01-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": "Picture.jpg",
-  "enrichment_status": "success"
+  "enrichment_company_affiliations": "success"
 }

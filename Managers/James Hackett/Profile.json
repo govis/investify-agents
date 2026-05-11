@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "President of Tessellation Services, LLC. Former Executive Chairman of Anadarko Petroleum Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.fluor.com",
+      "start_date": "2016-01-01",
+      "end_date": null
+    },
+    {
+      "name": "NuScale Power Corporation",
+      "ticker": "SMR",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.nuscalepower.com",
+      "start_date": "2022-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear",
     "Reshoring"
@@ -17,22 +38,6 @@
     "Governance Committee",
     "Organization and Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Fluor Corporation",
-      "ticker": "FLR",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2016-01-01",
-      "end_date": null
-    },
-    {
-      "name": "NuScale Power Corporation",
-      "ticker": "SMR",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2022-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

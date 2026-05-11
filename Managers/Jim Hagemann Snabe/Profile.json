@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Chairman of the Supervisory Board of Siemens AG. Former Co-CEO of SAP SE. He serves on various boards including Northvolt AB.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Siemens Aktiengesellschaft",
+      "ticker": "SIEGY",
+      "exchange": "OTC",
+      "title_or_role": "Chairman of the Supervisory Board, Member of the Supervisory Board",
+      "website": "https://www.siemens.com",
+      "start_date": "2018-02-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -15,14 +27,6 @@
     "Innovation and Finance Committee",
     "Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Siemens Aktiengesellschaft",
-      "ticker": "SIEGY",
-      "exchange": "OTC",
-      "title_or_role": "Chairman of the Supervisory Board, Member of the Supervisory Board",
-      "start_date": "2018-02-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

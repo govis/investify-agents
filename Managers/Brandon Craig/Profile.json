@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Brandon Craig was appointed President Americas in March 2024. He previously served as Asset President Western Australia Iron Ore and has been with BHP since 1999.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX",
+      "title_or_role": "President Americas",
+      "website": "https://www.bhp.com",
+      "start_date": "2024-03-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Nuclear"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "BHP Group Limited",
-      "ticker": "BHP",
-      "exchange": "ASX",
-      "title_or_role": "President Americas",
-      "start_date": "2024-03-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

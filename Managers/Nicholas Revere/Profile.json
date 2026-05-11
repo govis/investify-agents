@@ -6,19 +6,23 @@
   "age_year": null,
   "background": "Nicholas Revere is the VP of Corporate Development. He has experience in the financial markets and corporate communications within the resource sector.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Skyharbour Resources Ltd.",
       "ticker": "SYH",
       "exchange": "TSX",
       "title_or_role": "VP of Corporate Development",
+      "website": "https://skyharbourltd.com",
       "start_date": "2018-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

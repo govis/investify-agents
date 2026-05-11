@@ -6,19 +6,23 @@
   "age_year": null,
   "background": "Mr Moore is a Chartered Accountant with over 20 years\u2019 experience in the mining industry. He has held senior finance roles at several ASX-listed mining companies, including Northern Star Resources.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Bellevue Gold Limited",
       "ticker": "BGL",
       "exchange": "ASX",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.bellevuegold.com.au",
       "start_date": "2022-04-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

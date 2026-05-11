@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Ms. Prishkolnik has served as our Vice President, General Counsel and Corporate Secretary since 2010. Prior to joining SolarEdge, she served as Vice President, General Counsel and Corporate Secretary of Gilat Satellite Networks Ltd.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "SolarEdge Technologies, Inc.",
       "ticker": "SEDG",
       "exchange": "NASDAQ",
       "title_or_role": "Vice President, General Counsel and Corporate Secretary",
+      "website": "https://www.solaredge.com",
       "start_date": "2010-02-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

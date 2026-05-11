@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Co-founder of Salesforce and Slack CTO. He has served as a Director since 2018.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Salesforce, Inc.",
       "ticker": "CRM",
       "exchange": "NYSE",
       "title_or_role": "Director",
+      "website": "https://www.salesforce.com",
       "start_date": "2018-08-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

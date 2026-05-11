@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Mr. Handa is a Chartered Professional Accountant with over 15 years of experience in the mining industry.",
   "picture_url": "https://k92mining.com/site/assets/files/5536/saurabh-handa-k92-mining.jpg",
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "Azincourt Energy Corp.",
+      "ticker": "AAZ",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://azincourtenergy.com",
+      "start_date": "2021-06-01",
+      "end_date": null
+    },
+    {
+      "name": "K92 Mining Inc.",
+      "ticker": "KNT",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://k92mining.com",
+      "start_date": "2019-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
@@ -21,24 +42,6 @@
     "Audit Committee (Chair)",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Azincourt Energy Corp.",
-      "ticker": "AAZ",
-      "exchange": "TSX",
-      "title_or_role": "Director",
-      "start_date": "2021-06-01",
-      "end_date": null
-    },
-    {
-      "name": "K92 Mining Inc.",
-      "ticker": "KNT",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-05-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": "Picture.jpg",
-  "enrichment_status": "success"
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

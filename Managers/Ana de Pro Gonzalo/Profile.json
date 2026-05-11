@@ -6,6 +6,49 @@
   "age_year": 2023,
   "background": "Ana de Pro Gonzalo has been a member of the Supervisory Board since 2020. She was the Chief Financial Officer of Amadeus IT Group and has held various senior financial roles at Metrovacesa and Arthur Andersen.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "STMicroelectronics N.V.",
+      "ticker": "STM",
+      "exchange": "NYSE",
+      "title_or_role": "Non-Executive Director",
+      "website": "st.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Novartis AG",
+      "ticker": "NVS",
+      "exchange": "SIX",
+      "website": "novartis.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Mobico Group PLC",
+      "ticker": "MCG",
+      "exchange": "LSE",
+      "website": "mobicogroup.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Amadeus IT Group, S.A.",
+      "ticker": "AMS",
+      "exchange": "BME",
+      "website": "amadeus.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2010",
+      "end_date": "2020",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +56,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "STMicroelectronics N.V.",
-      "ticker": "STM",
-      "exchange": "NYSE",
-      "title_or_role": "Member of the Supervisory Board",
-      "start_date": "2020-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

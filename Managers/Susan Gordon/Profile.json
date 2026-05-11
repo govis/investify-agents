@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Ms. Gordon has served as a member of our Board since September 2021. Ms. Gordon served as the Principal Deputy Director of National Intelligence from 2017 to 2019 and as Deputy Director of the National Geospatial-Intelligence Agency from 2015 to 2017.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "BlackSky Technology Inc.",
+      "ticker": "BKSY",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.blacksky.com",
+      "start_date": "2021-09-01",
+      "end_date": null
+    },
+    {
+      "name": "CACI International Inc",
+      "ticker": "CACI",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.caci.com",
+      "start_date": "2020-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -15,22 +36,6 @@
     "Nominating and Corporate Governance Committee",
     "Security and Risk Assessment Committee"
   ],
-  "companies": [
-    {
-      "name": "BlackSky Technology Inc.",
-      "ticker": "BKSY",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2021-09-01",
-      "end_date": null
-    },
-    {
-      "name": "CACI International Inc",
-      "ticker": "CACI",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2020-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Annet Aris was appointed to the Supervisory Board in 2019. She is a Senior Affiliate Professor of Strategy at INSEAD.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "ASML Holding N.V.",
+      "ticker": "ASML",
+      "exchange": "NASDAQ",
+      "title_or_role": "Member of the Supervisory Board",
+      "website": "https://www.asml.com",
+      "start_date": "2019-04-17",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Reshoring"
@@ -15,14 +27,6 @@
     "Selection and Nomination Committee",
     "Technology Committee (Chair)"
   ],
-  "companies": [
-    {
-      "name": "ASML Holding N.V.",
-      "ticker": "ASML",
-      "exchange": "NASDAQ",
-      "title_or_role": "Member of the Supervisory Board",
-      "start_date": "2019-04-17",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

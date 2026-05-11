@@ -6,20 +6,14 @@
   "age_year": 2024,
   "background": "Ken MacKenzie was appointed Chairman in September 2017. He was formerly the Managing Director and CEO of Amcor Limited. He has extensive global experience in complex manufacturing and supply chains.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Nomination and Governance Committee (Chair)"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "BHP Group Limited",
       "ticker": "BHP",
       "exchange": "ASX",
       "title_or_role": "Chairman, Non-executive Director",
+      "website": "https://www.bhp.com",
       "start_date": "2017-09-01",
       "end_date": null
     },
@@ -28,8 +22,19 @@
       "ticker": "BHP",
       "exchange": "NYSE",
       "title_or_role": "Chairman",
+      "website": "https://www.bhp.com",
       "start_date": "2017-09-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Nomination and Governance Committee (Chair)"
+  ],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

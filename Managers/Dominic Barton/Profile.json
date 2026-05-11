@@ -6,6 +6,18 @@
   "age_year": 2023,
   "background": "Dominic was appointed Chairman in 2022. He was previously the Global Managing Partner of McKinsey & Company and served as Canada's Ambassador to China.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Rio Tinto Group",
+      "ticker": "RIO",
+      "exchange": "NYSE",
+      "title_or_role": "Chairman",
+      "website": "https://www.riotinto.com",
+      "start_date": "2022-05-05",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Nominations Committee (Chair)"
   ],
-  "companies": [
-    {
-      "name": "Rio Tinto Group",
-      "ticker": "RIO",
-      "exchange": "NYSE",
-      "title_or_role": "Chairman",
-      "start_date": "2022-05-05",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

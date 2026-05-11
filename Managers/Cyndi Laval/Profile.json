@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. Laval is a senior partner at Gowling WLG with over 25 years of experience in mining law, corporate finance, and M&A. She is recognized as a leading lawyer in the mining sector.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "K92 Mining Inc.",
+      "ticker": "KNT",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://k92mining.com",
+      "start_date": "2022-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Corporate Governance and Nominating Committee (Chair)",
     "Health, Safety and Environmental Committee"
   ],
-  "companies": [
-    {
-      "name": "K92 Mining Inc.",
-      "ticker": "KNT",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

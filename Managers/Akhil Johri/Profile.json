@@ -6,6 +6,39 @@
   "age_year": 2024,
   "background": "Former Executive Vice President and CFO of United Technologies Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.boeing.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cardinal Health, Inc.",
+      "ticker": "CAH",
+      "exchange": "NYSE",
+      "website": "https://www.cardinalhealth.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "RTX Corporation",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "title_or_role": "Special Advisor to the Chairman and Chief Executive Officer",
+      "start_date": "2019",
+      "end_date": "2020",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -14,14 +47,5 @@
     "Audit (Chair)",
     "Finance"
   ],
-  "companies": [
-    {
-      "name": "The Boeing Company",
-      "ticker": "BA",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2020-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

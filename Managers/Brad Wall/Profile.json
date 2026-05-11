@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Wall served as the 14th Premier of Saskatchewan from 2007 to 2018. He has extensive experience in economic development and the energy sector.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.nexgenenergy.ca",
+      "start_date": "2019-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "NexGen Energy Ltd.",
-      "ticker": "NXE",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

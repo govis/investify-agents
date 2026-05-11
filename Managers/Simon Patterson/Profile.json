@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Managing Director of Silver Lake.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Dell Technologies Inc.",
+      "ticker": "DELL",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.dell.com",
+      "start_date": "2013-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "Dell Technologies Inc.",
-      "ticker": "DELL",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2013-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

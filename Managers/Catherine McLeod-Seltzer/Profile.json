@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. McLeod-Seltzer is an independent director and has been the Chair of the Board since 2019. She is a recognized leader in the minerals industry and has helped raise over $600 million in working capital for mining exploration.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "KGC",
+      "exchange": "NYSE",
+      "title_or_role": "Chair of the Board, Director",
+      "website": "https://www.kinross.com",
+      "start_date": "2019-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Kinross Gold Corporation",
-      "ticker": "KGC",
-      "exchange": "NYSE",
-      "title_or_role": "Chair of the Board, Director",
-      "start_date": "2019-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

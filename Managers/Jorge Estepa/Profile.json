@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Estepa is a corporate secretary and administrator with over 25 years of experience in the administration of publicly traded companies. He has served as an officer and director of several resource companies.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Forsys Metals Corp.",
       "ticker": "FSY",
       "exchange": "TSX",
       "title_or_role": "Corporate Secretary",
+      "website": "https://forsysmetals.com",
       "start_date": "2004-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

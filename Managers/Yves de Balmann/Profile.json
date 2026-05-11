@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Former Co-Chairman and Co-CEO of Banc of America Securities LLC. Former Vice Chairman of Bankers Trust Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Constellation Energy Corporation",
+      "ticker": "CEG",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.constellationenergy.com",
+      "start_date": "2022-02-01",
+      "end_date": null
+    },
+    {
+      "name": "Constellation Energy Corporation",
+      "ticker": "CEG",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.constellationenergy.com",
+      "start_date": "2022-02-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -16,22 +37,6 @@
     "Corporate Governance Committee",
     "Finance Committee"
   ],
-  "companies": [
-    {
-      "name": "Constellation Energy Corporation",
-      "ticker": "CEG",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-02-01",
-      "end_date": null
-    },
-    {
-      "name": "Constellation Energy Corporation",
-      "ticker": "CEG",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-02-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

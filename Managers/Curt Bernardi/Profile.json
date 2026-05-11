@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Bernardi joined Wheaton in 2008 and has over 25 years of legal experience in the mining sector. He previously served as Vice President, Legal and Corporate Secretary for Westcorp Developments Ltd.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Wheaton Precious Metals Corp.",
       "ticker": "WPM",
       "exchange": "NYSE",
       "title_or_role": "Senior Vice President, Legal and Corporate Secretary",
+      "website": "https://www.wheatonpm.com",
       "start_date": "2008-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

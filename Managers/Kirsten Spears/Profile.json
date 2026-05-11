@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Ms. Spears has served as Chief Financial Officer and Chief Accounting Officer since December 2020. She previously served as Vice President and Corporate Controller from May 2014 to December 2020. Prior to joining Broadcom, she was Vice President and Corporate Controller at LSI Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Broadcom Inc.",
       "ticker": "AVGO",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Financial Officer and Chief Accounting Officer",
+      "website": "https://www.broadcom.com",
       "start_date": "2020-12-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

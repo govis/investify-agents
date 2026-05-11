@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Dr. Lafrance is a geologist with over 25 years of experience in mineral exploration and academia. He is currently a Professor at Laurentian University and has served on the boards of several exploration companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Dryden Gold Corp.",
+      "ticker": "DRY",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://drydengold.com",
+      "start_date": "2023-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
@@ -15,14 +27,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Dryden Gold Corp.",
-      "ticker": "DRY",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2023-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

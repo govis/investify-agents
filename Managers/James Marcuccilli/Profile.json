@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "President and Chief Executive Officer of STAR Financial Group.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Steel Dynamics, Inc.",
+      "ticker": "STLD",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.steeldynamics.com",
+      "start_date": "2001-05",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +26,6 @@
     "Compensation Committee",
     "Corporate Governance and Nominating Committee (Chair)"
   ],
-  "companies": [
-    {
-      "name": "Steel Dynamics, Inc.",
-      "ticker": "STLD",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2001-05",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Head of Business Area Kockums. Joined Saab in 2015. Former Rear Admiral in the Swedish Navy and State Secretary.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Saab Aktiebolag",
+      "ticker": "SAAB",
+      "exchange": "STO",
+      "title_or_role": "Head of Business Area Kockums",
+      "website": "https://www.saab.com",
+      "start_date": "2015-09-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense",
     "Electrification"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Saab Aktiebolag",
-      "ticker": "SAAB",
-      "exchange": "STO",
-      "title_or_role": "Head of Business Area Kockums",
-      "start_date": "2015-09-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

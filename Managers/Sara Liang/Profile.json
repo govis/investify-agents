@@ -6,19 +6,23 @@
   "age_year": 2023,
   "background": "Sara Liang is a co-founder of Supermicro and has served as Vice President of Operations and a member of the Board since 1993. She has held various roles in the company's administration and operations.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Super Micro Computer, Inc.",
       "ticker": "SMCI",
       "exchange": "NASDAQ",
       "title_or_role": "Director, Vice President of Operations",
+      "website": "https://www.supermicro.com",
       "start_date": "1993-09-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

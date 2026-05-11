@@ -6,19 +6,23 @@
   "age_year": null,
   "background": "Mr. Cavalcanti has extensive experience in the Brazilian mining sector, having worked with major companies in project development and operations.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Cabral Gold Inc.",
       "ticker": "CBR",
       "exchange": "TSX",
       "title_or_role": "Vice President, Corporate Development",
+      "website": "https://cabralgold.com",
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

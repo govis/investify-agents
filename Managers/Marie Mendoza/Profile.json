@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Ms. Mendoza has served as our Senior Vice President and General Counsel since 2015. She joined Kratos in 2011.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Kratos Defense & Security Solutions, Inc.",
       "ticker": "KTOS",
       "exchange": "NASDAQ",
       "title_or_role": "Senior Vice President and General Counsel",
+      "website": "https://www.kratosdefense.com",
       "start_date": "2015-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

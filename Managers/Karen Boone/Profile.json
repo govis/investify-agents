@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. Boone has served as a member of our Board since 2020. She previously served as President and Chief Financial Officer of Restoration Hardware (RH).",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Rivian Automotive, Inc.",
+      "ticker": "RIVN",
+      "exchange": "NASDAQ",
+      "title_or_role": "Lead Independent Director",
+      "website": "https://rivian.com",
+      "start_date": "2020-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Nominating and Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Rivian Automotive, Inc.",
-      "ticker": "RIVN",
-      "exchange": "NASDAQ",
-      "title_or_role": "Lead Independent Director",
-      "start_date": "2020-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

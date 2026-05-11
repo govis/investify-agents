@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Admiral Davidson (Ret.) has served as a director since 2022. He retired from the United States Navy as Commander, U.S. Indo-Pacific Command.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "AeroVironment, Inc.",
+      "ticker": "AVAV",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.avinc.com",
+      "start_date": "2022-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "AeroVironment, Inc.",
-      "ticker": "AVAV",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2022-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

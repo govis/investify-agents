@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Cressida was appointed Chair in 2023. She was previously Chair of Land Securities Group PLC and has significant experience in infrastructure and private equity.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "BAE Systems plc",
+      "ticker": "BA",
+      "exchange": "LSE",
+      "title_or_role": "Chair",
+      "website": "https://www.baesystems.com",
+      "start_date": "2023-04-03",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Nominations Committee (Chair)"
   ],
-  "companies": [
-    {
-      "name": "BAE Systems plc",
-      "ticker": "BA",
-      "exchange": "LSE",
-      "title_or_role": "Chair",
-      "start_date": "2023-04-03",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

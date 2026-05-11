@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Ms. Kirwan is a professional geologist with over 15 years of experience. She is the co-founder, President, and CEO of Orix Geoscience Inc. She has worked with numerous exploration and mining companies globally.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Dryden Gold Corp.",
+      "ticker": "DRY",
+      "exchange": "TSX",
+      "title_or_role": "Vice President, Exploration, Director",
+      "website": "https://drydengold.com",
+      "start_date": "2022-10-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Dryden Gold Corp.",
-      "ticker": "DRY",
-      "exchange": "TSX",
-      "title_or_role": "Vice President, Exploration, Director",
-      "start_date": "2022-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

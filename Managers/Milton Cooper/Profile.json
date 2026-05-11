@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former President of the North American Public Sector at Computer Sciences Corporation (CSC). Extensive experience in government contracting and IT services.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Science Applications International Corporation",
+      "ticker": "SAIC",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.saic.com",
+      "start_date": "2023-06-07",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Human Resources and Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Science Applications International Corporation",
-      "ticker": "SAIC",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2023-06-07",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

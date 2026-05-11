@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Former U.S. Ambassador to Russia, China, and Singapore. Director since 2020.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.chevron.com",
+      "start_date": "2020-09-01",
+      "end_date": null
+    },
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.ford.com",
+      "start_date": "2020-10-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -17,22 +38,6 @@
     "Public Policy and Sustainability Committee",
     "Sustainability, Innovation and Policy Committee"
   ],
-  "companies": [
-    {
-      "name": "Chevron Corporation",
-      "ticker": "CVX",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-09-01",
-      "end_date": null
-    },
-    {
-      "name": "Ford Motor Company",
-      "ticker": "F",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

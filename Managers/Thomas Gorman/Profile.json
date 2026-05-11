@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former CEO of Brambles Limited.",
   "picture_url": "https://ledger.americanprecision.org/wp-content/uploads/Tom-Gorman.jpg",
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Alcoa Corporation",
+      "ticker": "AA",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.alcoa.com",
+      "start_date": "2017-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -21,16 +33,6 @@
     "Compensation and Benefits Committee",
     "Safety, Sustainability and Public Issues Committee"
   ],
-  "enrichment_status": "success",
-  "companies": [
-    {
-      "name": "Alcoa Corporation",
-      "ticker": "AA",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2017-05-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": null
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

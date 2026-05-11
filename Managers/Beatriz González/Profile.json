@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. Gonz\u00e1lez is the founder and Managing Partner of Seaya Ventures. She has served on our board since 2021 and previously served on the boards of Cabify and Glovo.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Wallbox N.V.",
+      "ticker": "WBX",
+      "exchange": "NYSE",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://wallbox.com",
+      "start_date": "2021-10-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Wallbox N.V.",
-      "ticker": "WBX",
-      "exchange": "NYSE",
-      "title_or_role": "Non-Executive Director",
-      "start_date": "2021-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

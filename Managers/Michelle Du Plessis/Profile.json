@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Ms. Du Plessis joined OceanaGold in 2022. She has over 20 years of experience in human resources and organizational development within the mining and resources sector.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "OceanaGold Corporation",
       "ticker": "OGC",
       "exchange": "ASX",
       "title_or_role": "Chief People and Culture Officer",
+      "website": "https://oceanagold.com",
       "start_date": "2022-09-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

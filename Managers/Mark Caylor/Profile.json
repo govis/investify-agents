@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Caylor is Corporate Vice President and President, Mission Systems. He previously served as Corporate Vice President and President, Enterprise Services and Chief Strategy Officer.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Northrop Grumman Corporation",
       "ticker": "NOC",
       "exchange": "NYSE",
       "title_or_role": "Corporate Vice President and President, Mission Systems",
+      "website": "https://www.northropgrumman.com",
       "start_date": "2019-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

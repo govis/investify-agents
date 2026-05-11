@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Richmond has served as a director since 2023. He previously served as a Senior Advisor to President Joe Biden and was a member of the U.S. House of Representatives from 2011 to 2021.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Blink Charging Co.",
+      "ticker": "BLNK",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.blinkcharging.com",
+      "start_date": "2023",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Nominating and Corporate Governance Committee (Chair)"
   ],
-  "companies": [
-    {
-      "name": "Blink Charging Co.",
-      "ticker": "BLNK",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2023",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former Chairman and CEO of World Fuel Services Corporation. He joined the board in 2014.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "First Solar, Inc.",
+      "ticker": "FSLR",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.firstsolar.com",
+      "start_date": "2014-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -15,14 +27,6 @@
     "Compensation Committee",
     "Nominating and Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "First Solar, Inc.",
-      "ticker": "FSLR",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2014-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

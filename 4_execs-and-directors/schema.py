@@ -36,3 +36,16 @@ class Management(BaseModel):
     executives: List[CompanyExecutive] = Field(description="List of C-suite and other key executives")
     board_of_directors: List[BoardMember] = Field(description="List of board of directors members")
     sources: List[SourceInformation] = Field(description="List of source document(s)")
+
+class Affiliation(BaseModel):
+    name: str = Field(description="Name of the company")
+    ticker: str = Field(description="Stock ticker symbol")
+    exchange: str = Field(description="Stock exchange name")
+    website: Optional[str] = Field(None, description="Company website URL")
+    title_or_role: str = Field(description="Senior role or director position held")
+    start_date: Optional[str] = Field(None, description="Start date of the affiliation")
+    end_date: Optional[str] = Field(None, description="End date of the affiliation (null if current)")
+    validated: bool = Field(default=False, description="Whether this affiliation has been validated")
+
+class ManagerProfileEnrichment(BaseModel):
+    company_affiliations: List[Affiliation] = Field(description="List of all company affiliations found and validated")

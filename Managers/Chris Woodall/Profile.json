@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Woodall has over 30 years of experience in the mining industry, including senior operational roles at Goldcorp and Barrick Gold.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Perseus Mining Limited",
       "ticker": "PRU",
       "exchange": "ASX",
       "title_or_role": "Chief Operating Officer",
+      "website": "https://perseusmining.com/",
       "start_date": "2016-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

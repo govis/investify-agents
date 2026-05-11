@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Morin has over 15 years of experience in mining finance and corporate development. He previously served as Director, Corporate Development at Goldcorp Inc.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Orla Mining Ltd.",
       "ticker": "OLA",
       "exchange": "TSX",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.orlamining.com",
       "start_date": "2020-05-04",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Geert Follens is the Business Area President for Vacuum Technique. He joined Atlas Copco in 1995 and has held several management positions within the Compressor Technique and Vacuum Technique business areas.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Atlas Copco AB",
       "ticker": "ATCO",
       "exchange": "STO",
       "title_or_role": "Business Area President Vacuum Technique",
+      "website": "https://www.atlascopcogroup.com",
       "start_date": "2017-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Hachigian is the Lead Independent Director of NextEra Energy. He is the retired chairman, president and CEO of JELD-WEN Holding, Inc. and former chairman and CEO of Cooper Industries plc.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "NextEra Energy, Inc.",
       "ticker": "NEE",
       "exchange": "NYSE",
       "title_or_role": "Lead Independent Director",
+      "website": "https://www.nexteraenergy.com",
       "start_date": "2024-05-23",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

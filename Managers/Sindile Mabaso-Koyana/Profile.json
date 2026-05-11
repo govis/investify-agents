@@ -6,6 +6,18 @@
   "age_year": 2023,
   "background": "Sindile Mabaso-Koyana was appointed as an independent non-executive director on 24 February 2021. She is a Chartered Accountant with over 20 years of experience in finance and governance.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sibanye Stillwater Limited",
+      "ticker": "SBSW",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.sibanyestillwater.com",
+      "start_date": "2021-02-24",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "Sibanye Stillwater Limited",
-      "ticker": "SBSW",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Non-Executive Director",
-      "start_date": "2021-02-24",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Sara Yang Bosco is Senior Vice President, Secretary and General Counsel. She joined Emerson in 2005 and was named to her current role in 2016.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Emerson Electric Co.",
       "ticker": "EMR",
       "exchange": "NYSE",
       "title_or_role": "Senior Vice President, Secretary and General Counsel",
+      "website": "https://www.emerson.com",
       "start_date": "2016-05-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

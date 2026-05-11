@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Wolin is AMD\u2019s Senior Vice President, General Counsel and Corporate Secretary. He has been with AMD since 2000 and was appointed General Counsel in 2003.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Advanced Micro Devices, Inc.",
       "ticker": "AMD",
       "exchange": "NASDAQ",
       "title_or_role": "Senior Vice President, General Counsel and Corporate Secretary",
+      "website": "https://www.amd.com",
       "start_date": "2003-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

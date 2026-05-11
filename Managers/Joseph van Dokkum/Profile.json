@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Joseph van Dokkum is an Operating Partner at Kleiner Perkins. He previously served as President of UTC Power, a division of United Technologies Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Vertiv Holdings Co",
+      "ticker": "VRT",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.vertiv.com",
+      "start_date": "2020-02-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Electrification"
@@ -15,14 +27,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Vertiv Holdings Co",
-      "ticker": "VRT",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2020-02-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

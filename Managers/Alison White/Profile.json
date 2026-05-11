@@ -6,19 +6,43 @@
   "age_year": 2024,
   "background": "Ms. White was appointed Executive Vice President and Chief Financial Officer in 2021. She has over 25 years of experience in finance and accounting, including roles at Newmont Corporation and ConocoPhillips.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "SSR Mining Inc.",
+      "ticker": "SSRM",
+      "exchange": "TSX / NASDAQ",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "website": "https://www.ssrmining.com",
+      "start_date": "January 2023",
+      "end_date": "March 2024",
+      "validated": true
+    },
+    {
+      "name": "Discovery Silver Corp.",
+      "ticker": "DSV",
+      "exchange": "TSX",
+      "website": "https://www.discoverysilver.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "July 31, 2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "title_or_role": "Regional Chief Financial Officer (North America) and various corporate roles",
+      "start_date": "Prior to 2023",
+      "end_date": "Prior to 2023",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "SSR Mining Inc.",
-      "ticker": "SSRM",
-      "exchange": "NASDAQ",
-      "title_or_role": "Executive Vice President and Chief Financial Officer",
-      "start_date": "2021-03-22",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

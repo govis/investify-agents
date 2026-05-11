@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Tom is President and CEO of BAE Systems, Inc. and an Executive Director of BAE Systems plc. He has held various senior leadership positions within the US business.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "BAE Systems plc",
       "ticker": "BA",
       "exchange": "LSE",
       "title_or_role": "President and CEO, BAE Systems, Inc.",
+      "website": "https://www.baesystems.com",
       "start_date": "2020-04-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

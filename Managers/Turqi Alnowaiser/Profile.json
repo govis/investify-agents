@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Alnowaiser has served as a director since 2021. He is the Deputy Governor and Head of International Investments at the Public Investment Fund (PIF) of the Kingdom of Saudi Arabia.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lucid Group, Inc.",
+      "ticker": "LCID",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.lucidmotors.com",
+      "start_date": "2021-02-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +26,6 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Lucid Group, Inc.",
-      "ticker": "LCID",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2021-02-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

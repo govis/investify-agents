@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Chief People Officer since 2017. Previously served as Chief Human Resources Officer at L Brands and Shoppers Drug Mart.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Thomson Reuters Corporation",
       "ticker": "TRI",
       "exchange": "NYSE",
       "title_or_role": "Chief People Officer",
+      "website": "https://www.thomsonreuters.com",
       "start_date": "2017-11-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -66,58 +66,108 @@ class Supervisor:
     async def orchestrate(self, profile_path: str):
         print(f"Supervisor: Starting enrichment for {os.path.basename(profile_path)}")
         manager = get_manager_data(profile_path)
+        manager_dir = os.path.dirname(profile_path)
         
-        # 1. Search for LinkedIn Profile
-        print(f"Supervisor: Delegating to LinkedIn Search Agent...")
-        candidates = await self.pipeline.agents['search'].search(manager)
-        print(f"Supervisor: Found {len(candidates)} candidates: {[c.url for c in candidates]}")
+        # Check if we already have a LinkedIn URL to verify
+        existing_linkedin = next((s['url'] for s in manager.get('socials', []) if 'linkedin.com' in s['url'].lower()), None)
         
-        if not candidates:
-            print("Supervisor: No candidates found.")
-            await self.finalize(profile_path, "not_found")
-            return
-
-        # 2. Verify Candidates
         best_verification = None
         best_candidate_url = None
-        for candidate in sorted(candidates, key=lambda x: x.match_confidence, reverse=True):
-            if candidate.match_confidence < 0.3: continue
-            print(f"Supervisor: Verifying candidate {candidate.url}...")
-            v_res = await self.pipeline.agents['verifier'].verify(manager, candidate.url)
-            if v_res.is_verified:
+
+        if existing_linkedin:
+            print(f"Supervisor: Found existing LinkedIn URL {existing_linkedin}. Attempting verification...")
+            v_res = await self.pipeline.agents['verifier'].verify(manager, existing_linkedin)
+            if v_res and v_res.is_verified:
                 best_verification = v_res
-                best_candidate_url = candidate.url
-                print(f"Supervisor: Verified {candidate.url}")
-                break
+                best_candidate_url = existing_linkedin
+                print(f"Supervisor: Verified existing URL {existing_linkedin}")
             else:
-                print(f"Supervisor: Candidate {candidate.url} not verified. Reasoning: {v_res.verification_reasoning}")
+                reason = v_res.verification_reasoning if v_res else "No response"
+                print(f"Supervisor: Existing URL {existing_linkedin} not verified. Reasoning: {reason}")
+        
+        if not best_verification:
+            # 1. Search for LinkedIn Profile
+            print(f"Supervisor: Delegating to LinkedIn Search Agent...")
+            search_res = await self.pipeline.agents['search'].search(manager)
+            candidates = search_res.candidates if search_res else []
+            print(f"Supervisor: Found {len(candidates)} candidates: {[c.url for c in candidates]}")
+            
+            if not candidates:
+                print("Supervisor: No candidates found.")
+                await self.finalize(profile_path, "not_found")
+                return
+
+            # 2. Verify Candidates
+            for candidate in sorted(candidates, key=lambda x: x.match_confidence, reverse=True):
+                if candidate.match_confidence < 0.3: continue
+                # Skip if it's the one we just failed to verify
+                if existing_linkedin and candidate.url.rstrip('/') == existing_linkedin.rstrip('/'):
+                    continue
+
+                print(f"Supervisor: Verifying candidate {candidate.url}...")
+                v_res = await self.pipeline.agents['verifier'].verify(manager, candidate.url)
+                if v_res and v_res.is_verified:
+                    best_verification = v_res
+                    best_candidate_url = candidate.url
+                    print(f"Supervisor: Verified {candidate.url}")
+                    break
+                else:
+                    reason = v_res.verification_reasoning if v_res else "No response"
+                    print(f"Supervisor: Candidate {candidate.url} not verified. Reasoning: {reason}")
         
         if not best_verification:
             print("Supervisor: No candidate verified.")
             await self.finalize(profile_path, "not_found")
             return
 
-        # 3. Handle Images
-        current_pic = best_verification.potential_picture_url
-        if not current_pic:
-            print("Supervisor: No picture found on LinkedIn profile. Trying alternative agents...")
-            # 4a. LinkedIn Image Search
-            if best_verification.person_name and best_verification.company_name:
-                print("Supervisor: Trying LinkedIn Image Search (4a)...")
-                res = await self.pipeline.agents['img_li'].search(best_verification.person_name, best_verification.company_name)
-                current_pic = res.image_url
-            
-            # 4b. IR Website Search
-            if not current_pic:
-                print("Supervisor: Trying IR Website Search (4b)...")
-                res = await self.pipeline.agents['img_ir'].search(manager)
-                current_pic = res.image_url
+        # 3. Handle Images - Sequential Download Validation
+        # Preserve existing values from the file if we don't find new ones
+        existing_social = next((s for s in manager.get('socials', []) if 'linkedin.com' in s['url'].lower()), {})
+        picture_url_li_profile = best_verification.potential_picture_url or existing_social.get('picture_url_li_profile')
+        picture_url_li_search = existing_social.get('picture_url_li_search')
+        final_pic_url = None
+        
+        # Try Profile Image first (Agent 3 results)
+        if picture_url_li_profile:
+            print(f"Supervisor: Attempting to download profile image: {picture_url_li_profile[:60]}...")
+            if tools.download_image(picture_url_li_profile, manager_dir):
+                print("Supervisor: Successfully downloaded profile image.")
+                final_pic_url = picture_url_li_profile
+        
+        # Always run Agent 4a (LinkedIn Image Search)
+        if best_verification and best_verification.person_name and best_verification.company_name:
+            print(f"Supervisor: Executing LinkedIn Image Search (4a) for {best_verification.person_name} {best_verification.company_name}...")
+            res = await self.pipeline.agents['img_li'].search(best_verification.person_name, best_verification.company_name)
+            if res and res.image_url:
+                picture_url_li_search = res.image_url # Capture new search URL
                 
+                # Only try to download if we haven't succeeded with profile image yet
+                if not final_pic_url:
+                    print(f"Supervisor: Attempting to download search image: {picture_url_li_search[:60]}...")
+                    if tools.download_image(picture_url_li_search, manager_dir):
+                        print("Supervisor: Successfully downloaded search image.")
+                        final_pic_url = picture_url_li_search
+
+        # If still no image, proceed to alternative agents (4b, 4c)
+        # These ONLY update final_pic_url for potential_picture_url, they NEVER touch li_profile or li_search fields
+        if not final_pic_url:
+            print("Supervisor: No LinkedIn pictures validated. Trying IR agents...")
+            # 4b. IR Website Search
+            print("Supervisor: Trying IR Website Search (4b)...")
+            res = await self.pipeline.agents['img_ir'].search(manager)
+            if res and res.image_url:
+                print(f"Supervisor: Attempting to download IR website image: {res.image_url[:60]}...")
+                if tools.download_image(res.image_url, manager_dir):
+                    final_pic_url = res.image_url
+            
             # 4c. Broad IR Search
-            if not current_pic:
+            if not final_pic_url:
                 print("Supervisor: Trying Broad IR Search (4c)...")
                 res = await self.pipeline.agents['img_broad'].search(manager)
-                current_pic = res.image_url
+                if res and res.image_url:
+                    print(f"Supervisor: Attempting to download broad search image: {res.image_url[:60]}...")
+                    if tools.download_image(res.image_url, manager_dir):
+                        final_pic_url = res.image_url
 
         # Finalize
         social_entry = {
@@ -125,7 +175,9 @@ class Supervisor:
             "url": best_candidate_url,
             "person_name": best_verification.person_name,
             "company_name": best_verification.company_name,
-            "potential_picture_url": current_pic
+            "potential_picture_url": final_pic_url,
+            "picture_url_li_profile": picture_url_li_profile,
+            "picture_url_li_search": picture_url_li_search
         }
         await self.finalize(profile_path, "success", [social_entry])
 
@@ -156,18 +208,31 @@ class LinkedInSearchAgent(Agent):
 
 class LinkedInVerifierAgent(Agent):
     async def verify(self, manager: Dict[str, Any], url: str) -> VerificationResult:
+        affiliations = [f"{c['name']} / {c['name_clean']}" for c in manager['companies']]
         prompt = (
             f"Verify if this LinkedIn profile: {url}\n"
             f"Matches Manager: {manager['name']}\n"
-            f"Affiliations: {', '.join([f'{c['name']} / {c['name_clean']}' for c in manager['companies']])}\n"
-            f"Roles: {', '.join([c['title_or_role'] for c in manager['companies']])}\n"
-            "If verified, capture exact name, company, and picture URL (shrink_200_200 priority)."
+            f"Target Affiliations (Internal Data): {', '.join(affiliations)}\n"
+            f"Target Roles (Internal Data): {', '.join([c['title_or_role'] for c in manager['companies']])}\n\n"
+            "If verified, capture:\n"
+            "1. 'person_name': Name exactly as it appears on LinkedIn.\n"
+            "2. 'company_name': The EXACT string used for the company name on the LinkedIn profile for the role that matches our target. DO NOT use the 'Target Affiliations' string; capture the name directly from the profile content (e.g., if we have 'Generac Holdings Inc.' but the profile says 'Generac Power Systems', you MUST return 'Generac Power Systems').\n"
+            "3. 'potential_picture_url': Thoroughly search for the profile picture URL (media.licdn.com/dms/image/v2/ pattern).\n\n"
+            "CRITICAL: Precision on the 'company_name' from the LinkedIn profile is essential for subsequent search steps."
         )
         return await self.call(prompt, VerificationResult, use_search=True)
 
 class ImageSearchAgent4a(Agent):
     async def search(self, name: str, company: str) -> ImageSearchResult:
-        prompt = f"Search site:licdn.com for professional profile picture of {name} at {company}"
+        prompt = (
+            f"Perform an image search for: '{name} {company}'.\n"
+            "Your goal is to find the professional LinkedIn profile picture for this person.\n"
+            "1. Identify the top image search results.\n"
+            "2. Look for the result that is explicitly from 'LinkedIn' or has a source URL from 'linkedin.com'.\n"
+            "3. Capture the direct image URL (prefer media.licdn.com pattern).\n"
+            "4. If you find a base64 encoded image (data:image/...) in the top LinkedIn results, you may return it if no direct URL is available.\n\n"
+            "CRITICAL: Prioritize the image that matches the visual representation of a LinkedIn profile picture as seen in search results."
+        )
         return await self.call(prompt, ImageSearchResult, use_search=True)
 
 class ImageSearchAgent4b(Agent):

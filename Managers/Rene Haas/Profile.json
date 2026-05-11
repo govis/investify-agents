@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Rene Haas has served as our Chief Executive Officer and a member of our board of directors since February 2022. Prior to being appointed Chief Executive Officer, Mr. Haas served as President of our IP Product Groups from January 2017. Mr. Haas joined Arm in 2013 as Vice President of Strategic Alliances and two years later was appointed to the Executive Committee as Chief Commercial Officer. Before joining Arm, Mr. Haas held several senior management roles at NVIDIA and served as Vice President and General Manager of computing products at Scintera Networks and Tensilica.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Arm Holdings plc",
       "ticker": "ARM",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Executive Officer, Director",
+      "website": "https://www.arm.com",
       "start_date": "2022-02-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. McDonald is a senior executive with experience in corporate development and finance within the mining sector.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lundin Gold Inc.",
+      "ticker": "LUG",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://lundingold.com",
+      "start_date": "2023-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Lundin Gold Inc.",
-      "ticker": "LUG",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2023-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

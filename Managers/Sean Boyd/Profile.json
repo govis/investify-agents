@@ -6,20 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Boyd is the Executive Chair of the Board of Agnico Eagle. He served as Chief Executive Officer from 1998 to 2022 and has been with the company since 1985. He is a Chartered Professional Accountant.",
   "picture_url": "https://www.canadianminingjournal.com/wp-content/uploads/2017/09/Sean-Boyd.jpg",
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Technical Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Agnico Eagle Mines Limited",
       "ticker": "AEM",
       "exchange": "NYSE",
       "title_or_role": "Executive Chair, Director",
+      "website": "https://www.agnicoeagle.com",
       "start_date": "2022-02-23",
       "end_date": null
     },
@@ -28,10 +22,19 @@
       "ticker": "VGCX",
       "exchange": "TSX",
       "title_or_role": "Independent Director",
+      "website": "https://vgcx.com",
       "start_date": "2018-01-01",
       "end_date": null
     }
   ],
-  "picture_local": null,
-  "enrichment_status": "success"
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Technical Committee"
+  ],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Burt has over 30 years of experience in the global mining industry. He was President and CEO of Kinross Gold Corporation from 2005 to 2012 and has held senior roles at Barrick Gold and in investment banking.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "K92 Mining Inc.",
+      "ticker": "KNT",
+      "exchange": "TSX",
+      "title_or_role": "Chairman and Independent Director",
+      "website": "https://k92mining.com",
+      "start_date": "2020-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "K92 Mining Inc.",
-      "ticker": "KNT",
-      "exchange": "TSX",
-      "title_or_role": "Chairman and Independent Director",
-      "start_date": "2020-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

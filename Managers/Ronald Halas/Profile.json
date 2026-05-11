@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Halas is a Professional Engineer with over 30 years of experience in the mining industry, including roles at IAMGOLD, Kinross Gold, and Vale.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Global Atomic Corporation",
       "ticker": "GLO",
       "exchange": "TSX",
       "title_or_role": "Chief Operating Officer",
+      "website": "https://globalatomiccorp.com",
       "start_date": "2020-10-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former President of AEP Transmission and former General Counsel of the Federal Energy Regulatory Commission.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Public Service Enterprise Group Incorporated",
+      "ticker": "PEG",
+      "exchange": "NYSE",
+      "title_or_role": "Lead Director",
+      "website": "https://www.pseg.com",
+      "start_date": "2012-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -14,14 +26,6 @@
     "Executive",
     "Governance and Nominating (Chair)"
   ],
-  "companies": [
-    {
-      "name": "Public Service Enterprise Group Incorporated",
-      "ticker": "PEG",
-      "exchange": "NYSE",
-      "title_or_role": "Lead Director",
-      "start_date": "2012-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

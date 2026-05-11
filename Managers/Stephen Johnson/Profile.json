@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Johnson has served as a member of our board of directors since August 2021. He previously served as a director of NavSight from September 2020 until the closing of the Business Combination. He is currently the President and CEO of North Atlantic Capital.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Spire Global, Inc.",
+      "ticker": "SPIR",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://spire.com",
+      "start_date": "2021-08-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Spire Global, Inc.",
-      "ticker": "SPIR",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2021-08-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

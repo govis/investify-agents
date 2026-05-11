@@ -6,21 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Smerchanski is a professional engineer with over 40 years of experience in the mining industry. He has served as a director and officer of several public companies.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Anfield Energy Inc.",
       "ticker": "AEC",
       "exchange": "TSX",
       "title_or_role": "Director, President",
+      "website": "https://anfieldenergy.com/",
       "start_date": "2015-01-01",
       "end_date": null
     }
   ],
-  "picture_local": null,
-  "enrichment_status": "success"
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,18 @@
   "age_year": 2023,
   "background": "Former partner at Sage Partners and executive at various technology firms. Expertise in global supply chain and operations.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Super Micro Computer, Inc.",
+      "ticker": "SMCI",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.supermicro.com",
+      "start_date": "2022-03-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Nominating and Corporate Governance Committee (Chair)"
   ],
-  "companies": [
-    {
-      "name": "Super Micro Computer, Inc.",
-      "ticker": "SMCI",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-03-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

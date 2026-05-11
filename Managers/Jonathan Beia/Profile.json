@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Beia is a Chartered Professional Accountant with over 15 years of financial experience in the mining sector. He previously served as Vice President, Finance at Wesdome.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Wesdome Gold Mines Ltd.",
       "ticker": "WDO",
       "exchange": "TSX",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.wesdome.com",
       "start_date": "2024-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

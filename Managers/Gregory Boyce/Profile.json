@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Boyce has served as Chair of the Board since 2021. He was previously the Executive Chairman of Peabody Energy Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "title_or_role": "Chair of the Board",
+      "website": "https://www.newmont.com",
+      "start_date": "2021-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Newmont Corporation",
-      "ticker": "NEM",
-      "exchange": "NYSE",
-      "title_or_role": "Chair of the Board",
-      "start_date": "2021-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

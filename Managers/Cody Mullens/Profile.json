@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Mr. Mullens is a CPA with experience in financial reporting and auditing for public companies in the resource sector.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "New Age Metals Inc.",
+      "ticker": "NAM",
+      "exchange": "TSXV",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://newagemetals.com",
+      "start_date": "2023-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Gold"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "New Age Metals Inc.",
-      "ticker": "NAM",
-      "exchange": "TSXV",
-      "title_or_role": "Chief Financial Officer",
-      "start_date": "2023-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,19 @@
   "age_year": 2024,
   "background": "Director, Global Brand Merchandising, Ford Motor Company. Daughter of Bill Ford.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "title_or_role": "Director, Corporate Strategy",
+      "website": "https://www.ford.com",
+      "start_date": "2017",
+      "end_date": "Prior to 2022",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -14,14 +27,5 @@
   "committees": [
     "Sustainability, Innovation and Policy Committee"
   ],
-  "companies": [
-    {
-      "name": "Ford Motor Company",
-      "ticker": "F",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2021-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

@@ -2,24 +2,31 @@
   "name": "Judith Mazvihwa-MacLean",
   "first_name": "Judith",
   "last_name": "Mazvihwa-MacLean",
-  "age": null,
-  "age_year": null,
+  "age": 56,
+  "age_year": 2024,
   "background": "Ms. Mazvihwa-MacLean is a geologist and a mining executive with over 20 years of experience in the mining industry. She has held various senior management positions with several public and private companies and is currently the CFO of Fortune Minerals Limited.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Stria Lithium Inc.",
       "ticker": "SRA",
       "exchange": "TSXV",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://strialithium.com/",
       "start_date": "2022-06-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Sustainability Committee"
+  ],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

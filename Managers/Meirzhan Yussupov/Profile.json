@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Meirzhan Yussupov has served as the CEO of Kazatomprom since October 2023. Previously, he held the position of Chairman of the Management Board of Kazakh Invest and served as Vice Minister of National Economy of the Republic of Kazakhstan. He has extensive experience in corporate finance and treasury, having previously worked at Kazatomprom as CFO.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "National Atomic Company Kazatomprom JSC",
       "ticker": "KAP",
       "exchange": "LSE",
       "title_or_role": "Chief Executive Officer",
+      "website": "https://www.kazatomprom.kz",
       "start_date": "2023-10-02",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

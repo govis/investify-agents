@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Yvonne McGill is Chief Financial Officer of Dell Technologies Inc. She has held various finance leadership positions at Dell since 1997.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Applied Materials, Inc.",
+      "ticker": "AMAT",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.appliedmaterials.com",
+      "start_date": "2019-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Dell Technologies Inc.",
+      "ticker": "DELL",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.dell.com",
+      "start_date": "2023-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Reshoring"
@@ -15,22 +36,6 @@
     "Audit Committee",
     "Human Resources and Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Applied Materials, Inc.",
-      "ticker": "AMAT",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-01-01",
-      "end_date": null
-    },
-    {
-      "name": "Dell Technologies Inc.",
-      "ticker": "DELL",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Financial Officer",
-      "start_date": "2023-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

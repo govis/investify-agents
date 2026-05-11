@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Uyen is a mining engineer with over 30 years of experience in underground and open-pit operations. He has held senior management positions at various mining operations globally.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "K92 Mining Inc.",
       "ticker": "KNT",
       "exchange": "TSX",
       "title_or_role": "Senior Vice President, Operations",
+      "website": "https://k92mining.com",
       "start_date": "2018-06-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Chief Human Resources Officer. Previously held various HR leadership roles within the Volvo Group in Asia. Member of the Group Executive Board since 2019.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "AB Volvo",
       "ticker": "VOLV-B",
       "exchange": "STO",
       "title_or_role": "Chief Human Resources Officer",
+      "website": "https://www.volvogroup.com",
       "start_date": "2019-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": null,
   "background": "Mr. Francis is a finance professional with over 20 years of experience in the resources sector, including roles at various ASX-listed mining companies.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Regis Resources Limited",
       "ticker": "RRL",
       "exchange": "ASX",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://regisresources.com.au",
       "start_date": "2023-06-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

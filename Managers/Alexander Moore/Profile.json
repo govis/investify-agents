@@ -6,6 +6,19 @@
   "age_year": 2024,
   "background": "Mr. Moore has served as a member of our Board since 2020. He is a Partner at 8VC and was a co-founder of NodePrime. He was also one of the first employees at Palantir. Mr. Moore holds a B.A. in Economics from Stanford University.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Palantir Technologies Inc.",
+      "ticker": "PLTR",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.palantir.com",
+      "start_date": "July 2020",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI",
     "Defense"
@@ -14,14 +27,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "Palantir Technologies Inc.",
-      "ticker": "PLTR",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2020-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

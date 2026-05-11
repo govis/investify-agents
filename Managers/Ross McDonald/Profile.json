@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. McDonald is a Chartered Professional Accountant with over 40 years of experience in public accounting and financial management.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Orion Copper Mining Corp.",
+      "ticker": "ORION",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://orioncmc.com",
+      "start_date": "2021-05-15",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee (Chair)",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Orion Copper Mining Corp.",
-      "ticker": "ORION",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-05-15",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

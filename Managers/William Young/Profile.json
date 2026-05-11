@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "William L. Young is the Chair of the Board. He is a corporate director and was previously a co-founder and partner of Monitor Clipper Partners.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "AtkinsR\u00e9alis Group Inc.",
+      "ticker": "ATRL",
+      "exchange": "TSX",
+      "title_or_role": "Chair of the Board, Director",
+      "website": "https://www.atkinsrealis.com",
+      "start_date": "2020-09-09",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Governance, Ethics and Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "AtkinsR\u00e9alis Group Inc.",
-      "ticker": "ATRL",
-      "exchange": "TSX",
-      "title_or_role": "Chair of the Board, Director",
-      "start_date": "2020-09-09",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

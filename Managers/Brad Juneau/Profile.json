@@ -6,19 +6,23 @@
   "age_year": 2023,
   "background": "Mr. Juneau has served as Executive Chairman of the Board since January 2020 and was previously our President and CEO. He is the sole manager of Juneau Exploration, L.P.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Contango Ore, Inc.",
       "ticker": "CTGO",
       "exchange": "NYSE",
       "title_or_role": "Executive Chairman, Director",
+      "website": "https://www.contangoore.com",
       "start_date": "2020-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

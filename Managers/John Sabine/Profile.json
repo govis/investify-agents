@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Sabine is a lawyer with over 40 years of experience in mining law and corporate finance.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Seabridge Gold Inc.",
+      "ticker": "SA",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.seabridgegold.com",
+      "start_date": "2014-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Compensation Committee",
     "Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Seabridge Gold Inc.",
-      "ticker": "SA",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2014-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

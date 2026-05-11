@@ -5,16 +5,28 @@
   "age": 52,
   "age_year": 2024,
   "background": "Mr. Jagdfeld has served as President and Chief Executive Officer of Generac since September 2008 and as a director since 2006. He joined Generac in 1994 and has served in various roles, including Chief Financial Officer from 2002 to 2007 and President from 2007 to 2008.",
-  "picture_url": "https://i.pinimg.com/736x/b1/1b/80/b11b8049a9e144f1358c8c1d2f52b3b2.jpg",
-  "picture_local": "Picture.jpg",
-  "companies": [
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Generac Holdings Inc.",
       "ticker": "GNRC",
       "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "start_date": "2008-09-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.generac.com",
+      "start_date": "November 2006",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hillman Solutions Corp.",
+      "ticker": "HLMN",
+      "exchange": "NASDAQ",
+      "website": "https://ir.hillmangroup.com",
+      "title_or_role": "Director",
+      "start_date": "July 2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,12 +37,14 @@
       "name": "LinkedIn",
       "url": "https://www.linkedin.com/in/aaronjagdfeld",
       "person_name": "Aaron Jagdfeld",
-      "company_name": "Generac Holdings Inc.",
-      "potential_picture_url": "https://investors.generac.com/corporate-governance/management-team/aaron-p-jagdfeld"
+      "company_name": "Generac Power Systems",
+      "potential_picture_url": "https://mma.prnewswire.com/media/2357383/Aaron_Jagdfeld.jpg",
+      "picture_url_li_profile": null,
+      "picture_url_li_search": "https://investors.generac.com/static-files/a1715494-b772-4638-8c10-53e77843869b"
     }
   ],
   "committees": [],
   "enrichment_status": "success",
-  "picture_download_count": 1,
-  "has_picture": "true"
+  "enrichment_step": "company_affiliations",
+  "enrichment_company_affiliations": "success"
 }

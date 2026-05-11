@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Gold was appointed Executive Vice-President, Corporate Development, External Relations and Chief Legal Officer on January 1, 2016. He joined Kinross in May 2006 as Senior Vice-President and General Counsel.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Kinross Gold Corporation",
       "ticker": "KGC",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice-President, Corporate Development, External Relations and Chief Legal Officer",
+      "website": "https://www.kinross.com",
       "start_date": "2016-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

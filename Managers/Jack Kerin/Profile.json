@@ -6,19 +6,23 @@
   "age_year": 2023,
   "background": "Mr. Kerin has served as our Chief Financial Officer since September 2023. Prior to joining the Company, he served as the Corporate Controller for NovaGold Resources Inc. from 2018 to 2023.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Contango Ore, Inc.",
       "ticker": "CTGO",
       "exchange": "NYSE",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.contangoore.com",
       "start_date": "2023-09-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

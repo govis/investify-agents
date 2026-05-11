@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Former Vice Chairman and President of Parker-Hannifin Corporation. He served as President and Chief Operating Officer from 2015 to 2022.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Parker-Hannifin Corporation",
       "ticker": "PH",
       "exchange": "NYSE",
       "title_or_role": "Director",
+      "website": "https://www.parker.com",
       "start_date": "2015-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

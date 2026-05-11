@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Harrill has served as Senior Vice President, Chief Financial Officer, and Treasurer since 2023. He previously served as Vice President and Controller of the Company from 2018 to 2023.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Centrus Energy Corp.",
       "ticker": "LEU",
       "exchange": "NYSE",
       "title_or_role": "Senior Vice President, Chief Financial Officer, and Treasurer",
+      "website": "https://www.centrusenergy.com",
       "start_date": "2023-05-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

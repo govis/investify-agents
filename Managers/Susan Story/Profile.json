@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Retired President and Chief Executive Officer of American Water Works Company, Inc. Director since 2017.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Dominion Energy, Inc.",
+      "ticker": "D",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.dominionenergy.com",
+      "start_date": "2017-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Sustainability and Corporate Responsibility Committee"
   ],
-  "companies": [
-    {
-      "name": "Dominion Energy, Inc.",
-      "ticker": "D",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2017-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

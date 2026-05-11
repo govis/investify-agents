@@ -6,18 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Smith is a Chartered Professional Accountant with over 30 years of experience in financial management and reporting. He has served as CFO for several public mining companies.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Cabral Gold Inc.",
       "ticker": "CBR",
       "exchange": "TSX",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://cabralgold.com",
       "start_date": "2017-10-30",
       "end_date": null
     },
@@ -26,8 +22,17 @@
       "ticker": "NOW",
       "exchange": "NYSE",
       "title_or_role": "Chief Commercial Officer",
+      "website": "https://www.servicenow.com",
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

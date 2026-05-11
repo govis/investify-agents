@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Katja Lake (formerly Katja Cipane) has served as a member of our board of directors since September 2016. Ms. Lake is a private investor and was previously a partner at Union Square Ventures.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Cloudflare, Inc.",
+      "ticker": "NET",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.cloudflare.com",
+      "start_date": "2016-09-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "Cloudflare, Inc.",
-      "ticker": "NET",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2016-09-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,22 +6,24 @@
   "age_year": 2024,
   "background": "Ms. Munroe is a Chartered Professional Accountant with over 30 years of experience in financial management and corporate governance in the mining sector.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Clean Air Metals Inc.",
+      "ticker": "AIR",
+      "exchange": "TSXV",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://cleanairmetals.ca",
+      "start_date": "2023-09-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Gold"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Clean Air Metals Inc.",
-      "ticker": "AIR",
-      "exchange": "TSXV",
-      "title_or_role": "Chief Financial Officer",
-      "start_date": "2023-09-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": null,
-  "enrichment_status": "not_found"
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

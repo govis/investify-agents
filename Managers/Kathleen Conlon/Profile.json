@@ -6,6 +6,18 @@
   "age_year": null,
   "background": "Kathleen Conlon is a highly experienced non-executive director and former business executive. She was a partner at the Boston Consulting Group and currently serves on the boards of several major Australian companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Pilbara Minerals Limited",
+      "ticker": "PLS",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Chair",
+      "website": "https://www.pilbaraminerals.com.au",
+      "start_date": "2024-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +26,6 @@
     "People and Culture Committee",
     "Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "Pilbara Minerals Limited",
-      "ticker": "PLS",
-      "exchange": "ASX",
-      "title_or_role": "Non-Executive Chair",
-      "start_date": "2024-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Reddy has served as a director since 2022. He is the founder and former CEO of SemaConnect, which was acquired by Blink in 2022.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Blink Charging Co.",
       "ticker": "BLNK",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
+      "website": "https://www.blinkcharging.com",
       "start_date": "2022",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

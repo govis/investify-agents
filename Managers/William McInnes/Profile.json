@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. McInnes is a lawyer with over 35 years of experience in corporate and securities law, specifically in the mining sector.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Osisko Gold Royalties Ltd",
+      "ticker": "OR",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://osiskogr.com",
+      "start_date": "2014-06-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Governance and Nomination Committee",
     "Human Resources Committee"
   ],
-  "companies": [
-    {
-      "name": "Osisko Gold Royalties Ltd",
-      "ticker": "OR",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2014-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

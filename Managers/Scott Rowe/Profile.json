@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Rowe has served as President and Chief Executive Officer since April 2017. Prior to joining Flowserve, he served as President of the Cameron Group, a segment of Schlumberger Limited, from April 2016 to April 2017. He previously served as President and CEO of Cameron International Corporation from October 2015 to April 2016.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Flowserve Corporation",
       "ticker": "FLS",
       "exchange": "NYSE",
       "title_or_role": "President and Chief Executive Officer",
+      "website": "https://www.flowserve.com",
       "start_date": "2017-04-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

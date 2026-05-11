@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Founder, President and CEO of GCS Business Capital, LLC. Expert in global business strategy and emerging markets.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Entergy Corporation",
+      "ticker": "ETR",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.entergy.com",
+      "start_date": "2015-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -14,14 +26,6 @@
     "Audit",
     "Finance"
   ],
-  "companies": [
-    {
-      "name": "Entergy Corporation",
-      "ticker": "ETR",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2015-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Ms. Ross has served as Executive Vice President and Chief Financial Officer since December 2023. Prior to joining Newmont, she served as Chief Financial Officer of Newcrest Mining Limited from 2021 to 2023.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Newmont Corporation",
       "ticker": "NEM",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "website": "https://www.newmont.com",
       "start_date": "2023-12-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ewan is a technology entrepreneur and was the co-founder of Cantab Capital Partners. He brings deep expertise in technology, data science, and mathematics.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "BAE Systems plc",
+      "ticker": "BA",
+      "exchange": "LSE",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://www.baesystems.com",
+      "start_date": "2023-06-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Nominations Committee"
   ],
-  "companies": [
-    {
-      "name": "BAE Systems plc",
-      "ticker": "BA",
-      "exchange": "LSE",
-      "title_or_role": "Non-Executive Director",
-      "start_date": "2023-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

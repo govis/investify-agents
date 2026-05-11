@@ -6,19 +6,23 @@
   "age_year": null,
   "background": "Mr. Sharratt has experience in corporate development and investor relations within the mining sector.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Uranium Royalty Corp.",
       "ticker": "UROY",
       "exchange": "TSX",
       "title_or_role": "Vice President, Corporate Development",
+      "website": "https://www.uraniumroyalty.com/",
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

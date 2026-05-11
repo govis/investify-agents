@@ -6,6 +6,69 @@
   "age_year": 2024,
   "background": "Anastasia D. Kelly is Executive Director, Client Relations at DLA Piper and previously served as Vice Chairman of American International Group (AIG).",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Huntington Ingalls Industries, Inc.",
+      "ticker": "HII",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://hii.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "O-I Glass, Inc.",
+      "ticker": "OI",
+      "exchange": "NYSE",
+      "website": "https://o-i.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "American International Group, Inc. (AIG)",
+      "ticker": "AIG",
+      "exchange": "NYSE",
+      "website": "https://aig.com",
+      "title_or_role": "Vice Chairman",
+      "start_date": "2009",
+      "end_date": "2009",
+      "validated": true
+    },
+    {
+      "name": "MCI, Inc.",
+      "ticker": "MCI (Delisted)",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "General Counsel",
+      "start_date": "2003",
+      "end_date": "2006",
+      "validated": true
+    },
+    {
+      "name": "Sears, Roebuck and Co.",
+      "ticker": "SHLD (Delisted)",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "SVP, General Counsel",
+      "start_date": "1999",
+      "end_date": "2003",
+      "validated": true
+    },
+    {
+      "name": "Fannie Mae",
+      "ticker": "FNMA",
+      "exchange": "OTC",
+      "website": "https://fanniemae.com",
+      "title_or_role": "SVP, General Counsel, Corporate Secretary",
+      "start_date": "1995",
+      "end_date": "1999",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -14,14 +77,5 @@
     "Compensation Committee",
     "Governance and Policy Committee"
   ],
-  "companies": [
-    {
-      "name": "Huntington Ingalls Industries, Inc.",
-      "ticker": "HII",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2011-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

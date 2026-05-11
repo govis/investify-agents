@@ -6,6 +6,59 @@
   "age_year": 2024,
   "background": "Former Managing Director and Head of Funds for Comcast Ventures. Director since 2012.",
   "picture_url": "https://www.adobe.com/content/dam/cc/en/leaders/images/Banse-Amy-450x650.jpg.img.jpg",
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "adobe.com",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Comcast Corporation",
+      "ticker": "CMCSA",
+      "exchange": "NASDAQ",
+      "website": "comcastcorporation.com",
+      "title_or_role": "Senior Vice President / EVP",
+      "start_date": "1991",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "The Clorox Company",
+      "ticker": "CLX",
+      "exchange": "NYSE",
+      "website": "thecloroxcompany.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Lennar Corporation",
+      "ticker": "LEN",
+      "exchange": "NYSE",
+      "website": "lennar.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "On Holding AG",
+      "ticker": "ONON",
+      "exchange": "NYSE",
+      "website": "on-running.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -22,18 +75,5 @@
     "Executive Committee",
     "Governance and Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "Adobe Inc.",
-      "ticker": "ADBE",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2012-05-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": null,
-  "enrichment_status": "success",
-  "picture_download_count": 13,
-  "has_picture": "false"
+  "enrichment_company_affiliations": "success"
 }

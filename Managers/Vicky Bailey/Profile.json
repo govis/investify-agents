@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "President of Anderson Stratton Enterprises, LLC. Former Assistant Secretary for the Office of Policy and International Affairs at the U.S. Department of Energy.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Cheniere Energy, Inc.",
+      "ticker": "LNG",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.cheniere.com",
+      "start_date": "2006-03-21",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +26,6 @@
     "Governance and Nominating Committee",
     "Sustainability and Corporate Responsibility Committee"
   ],
-  "companies": [
-    {
-      "name": "Cheniere Energy, Inc.",
-      "ticker": "LNG",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2006-03-21",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

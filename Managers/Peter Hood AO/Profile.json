@@ -6,6 +6,18 @@
   "age_year": null,
   "background": "Mr. Hood is a chemical engineer with over 50 years' experience in the resource and manufacturing sectors. He was previously CEO of Coogee Chemicals and GR Engineering Services.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "De Grey Mining Limited",
+      "ticker": "DEG",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://degreymining.com.au",
+      "start_date": "2018-11-19",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Audit and Risk Committee (Chair)",
     "Remuneration and Nomination Committee"
   ],
-  "companies": [
-    {
-      "name": "De Grey Mining Limited",
-      "ticker": "DEG",
-      "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
-      "start_date": "2018-11-19",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

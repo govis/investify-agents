@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Marc Engel was previously the Chief Supply Chain Officer at Unilever. He has extensive experience in global supply chain management and sustainability.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "A.P. M\u00f8ller - M\u00e6rsk A/S",
+      "ticker": "AMKBY",
+      "exchange": "OTC",
+      "title_or_role": "Vice Chair, Member of the Board",
+      "website": "https://www.maersk.com",
+      "start_date": "2022-03-15",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -15,14 +27,6 @@
     "Chair of the Remuneration Committee",
     "Member of the Chairmanship"
   ],
-  "companies": [
-    {
-      "name": "A.P. M\u00f8ller - M\u00e6rsk A/S",
-      "ticker": "AMKBY",
-      "exchange": "OTC",
-      "title_or_role": "Vice Chair, Member of the Board",
-      "start_date": "2022-03-15",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

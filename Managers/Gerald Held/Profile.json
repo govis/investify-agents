@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Gerald Held has been a member of our Board since December 2009. He is the Chief Executive Officer of Held Consulting Group, LLC.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NetApp, Inc.",
+      "ticker": "NTAP",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.netapp.com",
+      "start_date": "2009-12-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "NetApp, Inc.",
-      "ticker": "NTAP",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2009-12-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

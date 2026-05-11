@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Bobby J. Griffin has served as Chairman of the Board since May 2022. He was previously President of International Operations for Ryder System, Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "United Rentals, Inc.",
+      "ticker": "URI",
+      "exchange": "NYSE",
+      "title_or_role": "Chairman of the Board, Director",
+      "website": "https://www.unitedrentals.com",
+      "start_date": "2022-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "United Rentals, Inc.",
-      "ticker": "URI",
-      "exchange": "NYSE",
-      "title_or_role": "Chairman of the Board, Director",
-      "start_date": "2022-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

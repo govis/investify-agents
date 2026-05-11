@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Hopkins has served as our President and Chief Executive Officer and as a member of our Board since May 2022. He previously served as the President and Chief Executive Officer of NuScale LLC from December 2012 to May 2022. Prior to joining NuScale LLC, Mr. Hopkins held several senior executive positions at Fluor Corporation, including Group President of Fluor\u2019s Government Group and President of Fluor\u2019s Global Corporate Development and New Ventures Group.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "NuScale Power Corporation",
       "ticker": "SMR",
       "exchange": "NYSE",
       "title_or_role": "Director, President and Chief Executive Officer",
+      "website": "https://www.nuscalepower.com",
       "start_date": "2022-05-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

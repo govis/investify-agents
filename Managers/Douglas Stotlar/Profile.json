@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Douglas Stotlar is the Independent Chairman of the Board. He is the former President and CEO of Con-way Inc. He also serves on the boards of LSC Communications and Reliance Steel & Aluminum Co.",
   "picture_url": "https://www.headshotphoto.io/_vercel/image?url=/images/linkedin/img-4.webp&w=640&q=100",
+  "picture_local": "Picture.webp",
+  "company_affiliations": [
+    {
+      "name": "AECOM",
+      "ticker": "ACM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Chairman",
+      "website": "https://aecom.com",
+      "start_date": "2014-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -19,16 +31,6 @@
     "Compensation Committee",
     "Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "AECOM",
-      "ticker": "ACM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Chairman",
-      "start_date": "2014-01-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": "Picture.webp",
-  "enrichment_status": "success"
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

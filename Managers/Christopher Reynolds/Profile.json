@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Reynolds has over 30 years of experience in the mining industry, specifically in the areas of corporate finance and administration. He is currently the CFO of Seabridge Gold Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lahontan Gold Corp.",
+      "ticker": "LG",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://lahontangoldcorp.com/",
+      "start_date": "2022-04-06",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
@@ -15,14 +27,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Lahontan Gold Corp.",
-      "ticker": "LG",
-      "exchange": "TSX",
-      "title_or_role": "Director",
-      "start_date": "2022-04-06",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

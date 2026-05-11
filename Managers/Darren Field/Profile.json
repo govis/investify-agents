@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Darren Field is President of Intermodal. He joined J.B. Hunt in 1994 and has served in various roles within the Intermodal segment.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "J.B. Hunt Transport Services, Inc.",
       "ticker": "JBHT",
       "exchange": "NASDAQ",
       "title_or_role": "President of Intermodal",
+      "website": "https://www.jbhunt.com",
       "start_date": "2020-12-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,17 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Bond was appointed President and CEO in April 2022. He has over 25 years of experience in the global financial and resources industry, including 10 years at Newcrest Mining as CFO and several senior executive roles at BHP.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "OceanaGold Corporation",
       "ticker": "OGC",
       "exchange": "ASX",
       "title_or_role": "Managing Director, President and Chief Executive Officer",
+      "website": "https://oceanagold.com",
       "start_date": "2022-04-04",
       "end_date": null
     },
@@ -25,8 +22,16 @@
       "ticker": "OGC",
       "exchange": "TSX",
       "title_or_role": "Director, President and Chief Executive Officer",
+      "website": "https://oceanagold.com",
       "start_date": "2022-04-04",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

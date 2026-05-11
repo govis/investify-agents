@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "First Deputy Chairwoman of the Supervisory Board. Chairwoman of the Central Works Council of Siemens AG.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Siemens Aktiengesellschaft",
+      "ticker": "SIEGY",
+      "exchange": "OTC",
+      "title_or_role": "First Deputy Chairwoman",
+      "website": "https://www.siemens.com",
+      "start_date": "2015-01-27",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -15,14 +27,6 @@
     "Chairman's Committee",
     "Innovation and Finance Committee"
   ],
-  "companies": [
-    {
-      "name": "Siemens Aktiengesellschaft",
-      "ticker": "SIEGY",
-      "exchange": "OTC",
-      "title_or_role": "First Deputy Chairwoman",
-      "start_date": "2015-01-27",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

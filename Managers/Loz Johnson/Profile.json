@@ -6,19 +6,23 @@
   "age_year": null,
   "background": "Mr. Johnson is a geologist with over 25 years\u2019 experience in the mining industry, specifically in uranium exploration and development. He has held senior roles with several uranium companies including Paladin Energy.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Boss Energy Limited",
       "ticker": "BOE",
       "exchange": "ASX",
       "title_or_role": "General Manager - Geology",
+      "website": "https://www.bossenergy.com",
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

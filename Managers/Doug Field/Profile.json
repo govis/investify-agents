@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Doug Field is Chief EV, Digital and Design Officer, Ford Model e. He joined Ford from Apple in 2021 and previously worked at Tesla.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "title_or_role": "Chief EV, Digital and Design Officer",
+      "website": "https://www.ford.com",
+      "start_date": "2022-09-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Ford Motor Company",
-      "ticker": "F",
-      "exchange": "NYSE",
-      "title_or_role": "Chief EV, Digital and Design Officer",
-      "start_date": "2022-09-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

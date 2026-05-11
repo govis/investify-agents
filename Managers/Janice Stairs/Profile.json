@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. Stairs is a lawyer with over 30 years of experience in the mining industry. She is currently the Chair of the Board of Trilogy Metals Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Artemis Gold Inc.",
+      "ticker": "ARTG",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.artemisgoldinc.com",
+      "start_date": "2019-01-10",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Governance and Nomination Committee"
   ],
-  "companies": [
-    {
-      "name": "Artemis Gold Inc.",
-      "ticker": "ARTG",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-01-10",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

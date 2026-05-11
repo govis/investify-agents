@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Independent Trustee. Managing Director at Kapitus. Previously at Goldman Sachs.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Global X Lithium & Battery Tech ETF",
+      "ticker": "LIT",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Trustee",
+      "website": "https://www.globalxetfs.com/funds/lit/",
+      "start_date": "2021-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Global X Uranium ETF",
+      "ticker": "URA",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Trustee",
+      "website": "https://www.globalxetfs.com/funds/ura/",
+      "start_date": "2021-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -15,22 +36,6 @@
     "Audit Committee",
     "Nominating and Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Global X Lithium & Battery Tech ETF",
-      "ticker": "LIT",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Trustee",
-      "start_date": "2021-01-01",
-      "end_date": null
-    },
-    {
-      "name": "Global X Uranium ETF",
-      "ticker": "URA",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Trustee",
-      "start_date": "2021-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

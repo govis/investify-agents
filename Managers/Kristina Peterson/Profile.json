@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. Peterson has served as a director since 2022. She has over 25 years of experience in the energy and financial sectors, including leadership roles at Brookfield Renewable and SunEdison.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Blink Charging Co.",
+      "ticker": "BLNK",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.blinkcharging.com",
+      "start_date": "2022",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Compensation Committee (Chair)"
   ],
-  "companies": [
-    {
-      "name": "Blink Charging Co.",
-      "ticker": "BLNK",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2022",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

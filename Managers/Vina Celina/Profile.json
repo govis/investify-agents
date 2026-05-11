@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. Celina is a Chartered Professional Accountant with over 15 years of experience in financial reporting and corporate governance.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "UROY",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.uraniumroyalty.com/",
+      "start_date": "2019-10-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -15,14 +27,6 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Uranium Royalty Corp.",
-      "ticker": "UROY",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,59 @@
   "age_year": 2024,
   "background": "Former President and CEO of H&R Block, Inc. Former CFO of Aetna Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.fluor.com",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Halliburton Company",
+      "ticker": "HAL",
+      "exchange": "NYSE",
+      "website": "https://www.halliburton.com",
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The TJX Companies, Inc.",
+      "ticker": "TJX",
+      "exchange": "NYSE",
+      "website": "https://www.tjx.com",
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "H&R Block, Inc.",
+      "ticker": "HRB",
+      "exchange": "NYSE",
+      "website": "https://www.hrblock.com",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "Aetna Inc.",
+      "ticker": "AET",
+      "exchange": "NYSE",
+      "website": "https://www.aetna.com",
+      "title_or_role": "Senior positions (including CFO, Corporate Controller, Head of Internal Audit)",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear",
     "Reshoring"
@@ -15,14 +68,5 @@
     "Audit Committee",
     "Organization and Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Fluor Corporation",
-      "ticker": "FLR",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2011-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

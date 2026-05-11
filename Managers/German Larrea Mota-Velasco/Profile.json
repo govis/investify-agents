@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Chairman of the Board since December 1999. Chief Executive Officer of Grupo Mexico (holding company) since 1994 and Chairman of the Board of Directors of Grupo Mexico since 1994. Chairman of the Board of Directors and CEO of Grupo Ferroviario Mexicano, S.A. de C.V. and Chairman of the Board of Directors and CEO of Ferrocarril Mexicano, S.A. de C.V. since 1997.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Southern Copper Corporation",
       "ticker": "SCCO",
       "exchange": "NYSE",
       "title_or_role": "Chairman of the Board",
+      "website": "https://www.southerncoppercorp.com",
       "start_date": "1999-12-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

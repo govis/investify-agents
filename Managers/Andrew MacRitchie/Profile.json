@@ -6,19 +6,63 @@
   "age_year": 2024,
   "background": "Mr. MacRitchie is a Chartered Professional Accountant with over 20 years of experience in the mining industry. He has served as CFO of Skeena since 2017 and was previously CFO of several other public mining companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Skeena Resources Limited",
+      "ticker": "SKE",
+      "exchange": "TSX",
+      "title_or_role": "Chief Financial Officer",
+      "website": "skeenaresources.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Winshear Gold Corp.",
+      "ticker": "WINS",
+      "exchange": "TSXV",
+      "website": "winshear.com",
+      "title_or_role": "Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Virginia Energy Resources Inc.",
+      "ticker": "VUI",
+      "exchange": "TSXV",
+      "website": "virginiaenergyresources.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Emergent Metals Corp.",
+      "ticker": "EMR",
+      "exchange": "TSXV",
+      "website": "emergentmetals.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "FireFox Gold Corp.",
+      "ticker": "FFOX",
+      "exchange": "TSXV",
+      "website": "firefoxgold.com",
+      "title_or_role": "Chief Financial Officer & Secretary",
+      "start_date": "2005",
+      "end_date": "2020",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Skeena Resources Limited",
-      "ticker": "SKE",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Financial Officer",
-      "start_date": "2017-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

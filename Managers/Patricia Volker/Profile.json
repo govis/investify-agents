@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. Volker is a director and a CPA, CA. She has extensive experience in financial reporting and corporate governance, having served in senior roles at the Ontario Securities Commission.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DNN",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://denisonmines.com",
+      "start_date": "2018-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Denison Mines Corp.",
-      "ticker": "DNN",
-      "exchange": "TSX",
-      "title_or_role": "Director",
-      "start_date": "2018-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

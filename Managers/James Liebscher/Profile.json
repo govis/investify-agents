@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Liebscher has served as our Chief Legal Officer and Secretary since June 2023. He previously served as our General Counsel from 2021 to 2023. Before joining Solid Power, he was an attorney at Bryan Cave Leighton Paisner LLP.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Solid Power, Inc.",
       "ticker": "SLDP",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Legal Officer and Secretary",
+      "website": "https://www.solidpowerbattery.com",
       "start_date": "2023-06-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

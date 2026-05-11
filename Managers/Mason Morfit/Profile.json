@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "CEO and Co-Chief Investment Officer of ValueAct Capital. He joined the board in 2023.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Salesforce, Inc.",
       "ticker": "CRM",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
+      "website": "https://www.salesforce.com",
       "start_date": "2023-03-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

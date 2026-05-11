@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Former Executive Vice President and Chief Marketing Officer of Salesforce.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Dell Technologies Inc.",
+      "ticker": "DELL",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.dell.com",
+      "start_date": "2019-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.ford.com",
+      "start_date": "2017-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Electrification",
@@ -17,22 +38,6 @@
     "Governance and Nominating Committee",
     "Sustainability, Innovation and Policy Committee"
   ],
-  "companies": [
-    {
-      "name": "Dell Technologies Inc.",
-      "ticker": "DELL",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-01-01",
-      "end_date": null
-    },
-    {
-      "name": "Ford Motor Company",
-      "ticker": "F",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2017-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

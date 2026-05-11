@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Paul A. Mascarenas has served as a director since 2014. He previously served as Chief Technical Officer and Vice President of Ford Motor Company.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "ON Semiconductor Corporation",
+      "ticker": "ON",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.onsemi.com",
+      "start_date": "2014-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +26,6 @@
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "ON Semiconductor Corporation",
-      "ticker": "ON",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2014-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

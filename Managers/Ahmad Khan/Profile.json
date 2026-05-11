@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Ahmad Khan is the President, Semiconductor Process Control. He joined KLA in 2004 and has held several executive positions within the company's product divisions.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "KLA Corporation",
+      "ticker": "KLAC",
+      "exchange": "NASDAQ",
+      "title_or_role": "President, Semiconductor Process Control (formerly Executive Vice President, Global Products Group)",
+      "website": "https://www.kla.com",
+      "start_date": "2004",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "KLA Corporation",
-      "ticker": "KLAC",
-      "exchange": "NASDAQ",
-      "title_or_role": "President, Semiconductor Process Control",
-      "start_date": "2019-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

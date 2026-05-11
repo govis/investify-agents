@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Kerr is chairman, president and CEO of Southern Company Gas and executive vice president of Southern Company. He previously served as chief legal officer and chief compliance officer.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "The Southern Company",
       "ticker": "SO",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President, Chairman, President and CEO of Southern Company Gas",
+      "website": "https://www.southerncompany.com",
       "start_date": "2014-03-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

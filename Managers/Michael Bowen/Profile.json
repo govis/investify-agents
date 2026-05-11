@@ -6,6 +6,18 @@
   "age_year": null,
   "background": "Mr. Bowen is a partner at a major Australian law firm and has over 35 years' experience in corporate, commercial and securities law with a focus on the resources sector.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lotus Resources Limited",
+      "ticker": "LOT",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Chairman",
+      "website": "https://lotusresources.com.au/",
+      "start_date": "2021-02-22",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -14,14 +26,6 @@
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"
   ],
-  "companies": [
-    {
-      "name": "Lotus Resources Limited",
-      "ticker": "LOT",
-      "exchange": "ASX",
-      "title_or_role": "Non-Executive Chairman",
-      "start_date": "2021-02-22",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

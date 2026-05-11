@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. Banducci was formerly the EVP and CFO of IAMGOLD Corporation. She has extensive experience in financial management and corporate strategy in the mining and manufacturing sectors.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Hudbay Minerals Inc.",
+      "ticker": "HBM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.hudbayminerals.com",
+      "start_date": "2017-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee (Chair)",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Hudbay Minerals Inc.",
-      "ticker": "HBM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2017-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former Chairman and CEO of State Street Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Exxon Mobil Corporation",
+      "ticker": "XOM",
+      "exchange": "NYSE",
+      "title_or_role": "Lead Independent Director",
+      "website": "https://www.exxonmobil.com",
+      "start_date": "2020-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Nominating and Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Exxon Mobil Corporation",
-      "ticker": "XOM",
-      "exchange": "NYSE",
-      "title_or_role": "Lead Independent Director",
-      "start_date": "2020-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

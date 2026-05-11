@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. Duckworth is a retired Partner and Managing Director of Goldman Sachs. She is the Founder and CEO Emeritus of ARZU Inc. She serves on the boards of Steelcase Inc. and Equity Residential.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "MP Materials Corp.",
+      "ticker": "MP",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://mpmaterials.com",
+      "start_date": "2020-11-17",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "MP Materials Corp.",
-      "ticker": "MP",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-11-17",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

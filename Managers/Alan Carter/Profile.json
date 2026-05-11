@@ -6,19 +6,73 @@
   "age_year": 2024,
   "background": "Dr. Carter has over 30 years of experience in the exploration and mining industry. He was a co-founder of Peregrine Diamonds Ltd. and Magellan Minerals Ltd. He previously worked for Rio Tinto and BHP Billiton.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Cabral Gold Inc.",
+      "ticker": "CBR",
+      "exchange": "TSXV",
+      "title_or_role": "President, CEO & Director",
+      "website": "cabralgold.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Altamira Gold Corp.",
+      "ticker": "ALTA",
+      "exchange": "TSXV",
+      "website": "altamiragold.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Anfield Gold Corp.",
+      "ticker": "ANFG",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Peregrine Diamonds Ltd.",
+      "ticker": "PGD",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Magellan Minerals Ltd.",
+      "ticker": "MNM",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Founder, President & CEO",
+      "start_date": "2005",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Blackrock Silver Corp.",
+      "ticker": "BRC",
+      "exchange": "TSXV",
+      "website": "blackrocksilver.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2020",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Cabral Gold Inc.",
-      "ticker": "CBR",
-      "exchange": "TSX",
-      "title_or_role": "President, Chief Executive Officer and Director",
-      "start_date": "2016-02-11",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

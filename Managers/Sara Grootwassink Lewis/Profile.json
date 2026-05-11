@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Founder and CEO of Lewis Advisors. Former CFO of Washington Real Estate Investment Trust.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Freeport-McMoRan Inc.",
+      "ticker": "FCX",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.fcx.com",
+      "start_date": "2021-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -15,14 +27,6 @@
     "Audit",
     "Governance"
   ],
-  "companies": [
-    {
-      "name": "Freeport-McMoRan Inc.",
-      "ticker": "FCX",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2021-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

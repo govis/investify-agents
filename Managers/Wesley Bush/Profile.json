@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Former Chairman and CEO of Northrop Grumman Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.cisco.com",
+      "start_date": "2019-05-01",
+      "end_date": null
+    },
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.gm.com",
+      "start_date": "2019-02-11",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Electrification",
@@ -17,22 +38,6 @@
     "Compensation and Management Development Committee",
     "Finance Committee"
   ],
-  "companies": [
-    {
-      "name": "Cisco Systems, Inc.",
-      "ticker": "CSCO",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-05-01",
-      "end_date": null
-    },
-    {
-      "name": "General Motors Company",
-      "ticker": "GM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-02-11",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

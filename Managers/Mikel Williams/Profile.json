@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Williams has served as Chairman of the Board since 2021. He was previously the CEO of JPS Industries, Inc. and DDi Corp.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Centrus Energy Corp.",
+      "ticker": "LEU",
+      "exchange": "NYSE",
+      "title_or_role": "Chairman of the Board",
+      "website": "https://www.centrusenergy.com",
+      "start_date": "2014-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Centrus Energy Corp.",
-      "ticker": "LEU",
-      "exchange": "NYSE",
-      "title_or_role": "Chairman of the Board",
-      "start_date": "2014-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

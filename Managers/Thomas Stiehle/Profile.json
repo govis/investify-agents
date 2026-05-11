@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Thomas E. Stiehle is executive vice president and chief financial officer of HII. He was elected to this position in February 2021. Stiehle previously served as vice president, business management, and chief financial officer for HII\u2019s Ingalls Shipbuilding division. Prior to joining HII in 2011, he worked for Northrop Grumman.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Huntington Ingalls Industries, Inc.",
       "ticker": "HII",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "website": "https://www.hii.com",
       "start_date": "2021-02-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

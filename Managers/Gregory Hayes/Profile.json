@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Gregory J. Hayes is the Executive Chairman of the Board of RTX. He served as CEO from 2020 to 2024 and previously as Chairman and CEO of United Technologies Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "RTX Corporation",
       "ticker": "RTX",
       "exchange": "NYSE",
       "title_or_role": "Executive Chairman",
+      "website": "https://www.rtx.com",
       "start_date": "2024-05-02",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

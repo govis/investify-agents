@@ -6,6 +6,18 @@
   "age_year": null,
   "background": "Simon Slesarewich is a mining engineer with over 25 years' experience in the resources industry. He has held various executive and operational roles, including CEO of Northern Graphite and Boardwalk Resources. He has significant experience in project development and operations.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Alligator Energy Limited",
+      "ticker": "AGE",
+      "exchange": "ASX",
+      "title_or_role": "Chief Development Officer",
+      "website": "https://www.alligatorenergy.com.au",
+      "start_date": "2024-02-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -17,16 +29,6 @@
     }
   ],
   "committees": [],
-  "companies": [
-    {
-      "name": "Alligator Energy Limited",
-      "ticker": "AGE",
-      "exchange": "ASX",
-      "title_or_role": "Chief Development Officer",
-      "start_date": "2024-02-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": null,
-  "enrichment_status": "success"
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

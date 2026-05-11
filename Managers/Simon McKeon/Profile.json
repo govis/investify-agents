@@ -6,6 +6,18 @@
   "age_year": 2023,
   "background": "Simon is a Non-executive Director and Senior Independent Director. He has extensive experience in the financial services sector and was previously Executive Chairman of Macquarie Group's Victorian office.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Rio Tinto Group",
+      "ticker": "RIO",
+      "exchange": "NYSE",
+      "title_or_role": "Senior Independent Director",
+      "website": "https://www.riotinto.com",
+      "start_date": "2019-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -15,14 +27,6 @@
     "Nominations Committee",
     "Remuneration Committee"
   ],
-  "companies": [
-    {
-      "name": "Rio Tinto Group",
-      "ticker": "RIO",
-      "exchange": "NYSE",
-      "title_or_role": "Senior Independent Director",
-      "start_date": "2019-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

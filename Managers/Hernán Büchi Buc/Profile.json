@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. B\u00fcchi has been a director since 2017. He is a civil engineer and holds a degree from the Universidad de Chile and an MBA from Columbia University. He served as Chile's Minister of Finance from 1985 to 1989.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sociedad Qu\u00edmica y Minera de Chile S.A.",
+      "ticker": "SQM",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.sqm.com",
+      "start_date": "2017-04-26",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Directors' Committee"
   ],
-  "companies": [
-    {
-      "name": "Sociedad Qu\u00edmica y Minera de Chile S.A.",
-      "ticker": "SQM",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2017-04-26",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

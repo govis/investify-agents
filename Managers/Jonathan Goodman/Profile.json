@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Goodman is the Executive Chair of the Board. He has over 30 years of experience in the resource and investment sectors. He is also the President and CEO of Dundee Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Dundee Precious Metals Inc.",
       "ticker": "DPM",
       "exchange": "TSX",
       "title_or_role": "Executive Chair",
+      "website": "https://www.dundeeprecious.com",
       "start_date": "2013-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

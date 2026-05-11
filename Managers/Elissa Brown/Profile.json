@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. Brown is a Chartered Accountant with over 20 years of experience in the mining and energy sectors.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Perseus Mining Limited",
+      "ticker": "PRU",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://perseusmining.com/",
+      "start_date": "2021-11-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Audit and Risk Committee (Chair)",
     "Remuneration Committee"
   ],
-  "companies": [
-    {
-      "name": "Perseus Mining Limited",
-      "ticker": "PRU",
-      "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
-      "start_date": "2021-11-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

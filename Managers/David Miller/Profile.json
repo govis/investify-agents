@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "David Miller is a former partner at Elliott Advisors (UK) and has extensive experience in investment and restructuring.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Glencore plc",
+      "ticker": "GLEN",
+      "exchange": "LSE",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.glencore.com",
+      "start_date": "2021-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Glencore plc",
+      "ticker": "GLNCY",
+      "exchange": "OTC",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://www.glencore.com",
+      "start_date": "2023-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -16,22 +37,6 @@
     "ECC Committee",
     "Remuneration Committee"
   ],
-  "companies": [
-    {
-      "name": "Glencore plc",
-      "ticker": "GLEN",
-      "exchange": "LSE",
-      "title_or_role": "Independent Non-Executive Director",
-      "start_date": "2021-01-01",
-      "end_date": null
-    },
-    {
-      "name": "Glencore plc",
-      "ticker": "GLNCY",
-      "exchange": "OTC",
-      "title_or_role": "Non-Executive Director",
-      "start_date": "2023-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

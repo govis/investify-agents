@@ -6,20 +6,23 @@
   "age_year": 2024,
   "background": "Ms. Barr has over 10 years of experience in corporate communications and investor relations within the mining sector.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "New Age Metals Inc.",
+      "ticker": "NAM",
+      "exchange": "TSXV",
+      "title_or_role": "Corporate Secretary",
+      "website": "https://newagemetals.com",
+      "start_date": "2021-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Gold"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "New Age Metals Inc.",
-      "ticker": "NAM",
-      "exchange": "TSXV",
-      "title_or_role": "Corporate Secretary",
-      "start_date": "2021-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

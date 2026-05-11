@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Mai is a Professional Geologist with over 15 years of experience in the mining industry. He is currently the President and CEO of Kanadario Gold Inc. and has held senior positions with several other mining companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Consolidated Lithium Metals Inc.",
+      "ticker": "CLM",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://consolidatedlithium.com/",
+      "start_date": "2021-06-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Gold"
@@ -14,14 +26,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "Consolidated Lithium Metals Inc.",
-      "ticker": "CLM",
-      "exchange": "TSXV",
-      "title_or_role": "Director",
-      "start_date": "2021-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,39 @@
   "age_year": 2024,
   "background": "Ms. Banfield has over 20 years of experience in the resources and energy sectors, including management roles at Worley.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Perseus Mining Limited",
+      "ticker": "PRU",
+      "exchange": "ASX",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://perseusmining.com/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SRG Global Ltd",
+      "ticker": "SRG",
+      "exchange": "ASX",
+      "website": "https://srgglobal.com.au/",
+      "title_or_role": "Deputy Chairman / Non-Executive Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Worley Limited",
+      "ticker": "WOR",
+      "exchange": "ASX",
+      "website": "https://www.worley.com/",
+      "title_or_role": "Global Strategy Director / Global Manager of Mergers and Acquisitions",
+      "start_date": "November 1999",
+      "end_date": "July 2021",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +47,5 @@
     "Audit and Risk Committee",
     "Remuneration Committee"
   ],
-  "companies": [
-    {
-      "name": "Perseus Mining Limited",
-      "ticker": "PRU",
-      "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
-      "start_date": "2021-05-12",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Former President and CEO of Carnival Corporation & plc. He joined the board in 2023.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Salesforce, Inc.",
+      "ticker": "CRM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.salesforce.com",
+      "start_date": "2023-01-01",
+      "end_date": null
+    },
+    {
+      "name": "GE Vernova Inc.",
+      "ticker": "GEV",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.gevernova.com",
+      "start_date": "2024-04-02",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Nuclear"
@@ -15,22 +36,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Salesforce, Inc.",
-      "ticker": "CRM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2023-01-01",
-      "end_date": null
-    },
-    {
-      "name": "GE Vernova Inc.",
-      "ticker": "GEV",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2024-04-02",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

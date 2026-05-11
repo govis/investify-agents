@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Renato Bacchi is Executive Vice President and Chief Commercial Officer. He joined Alcoa in 1997 and has held leadership positions in energy, treasury, and business development.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Alcoa Corporation",
+      "ticker": "AA",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President and Chief Commercial Officer",
+      "website": "https://www.alcoa.com",
+      "start_date": "2023-02-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -18,16 +30,6 @@
     }
   ],
   "committees": [],
-  "enrichment_status": "success",
-  "companies": [
-    {
-      "name": "Alcoa Corporation",
-      "ticker": "AA",
-      "exchange": "NYSE",
-      "title_or_role": "Executive Vice President and Chief Commercial Officer",
-      "start_date": "2023-02-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": null
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

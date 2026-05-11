@@ -6,6 +6,68 @@
   "age_year": 2024,
   "background": "Independent Director. Former executive at AECOM and Realogy Holdings Corp.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "SSR Mining Inc.",
+      "ticker": "SSRM",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.ssrmining.com",
+      "start_date": "2020-09-16",
+      "end_date": null
+    },
+    {
+      "name": "Comfort Systems USA, Inc.",
+      "ticker": "FIX",
+      "exchange": "NYSE",
+      "website": "https://www.comfortsystemsusa.com",
+      "title_or_role": "Director (Chairman of the Board)",
+      "start_date": "March 2008",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Granite Construction Incorporated",
+      "ticker": "GVA",
+      "exchange": "NYSE",
+      "website": "https://www.graniteconstruction.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "AECOM Technology Corporation",
+      "ticker": "ACM",
+      "exchange": "NYSE",
+      "website": "https://www.aecom.com",
+      "title_or_role": "President, Strategic Development",
+      "start_date": "2008",
+      "end_date": "March 2015",
+      "validated": true
+    },
+    {
+      "name": "Blue Earth, Inc.",
+      "ticker": "BBLU",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "August 2014",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Layne Christensen Company",
+      "ticker": "LAYN",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2018",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +76,5 @@
     "Corporate Governance and Nominating Committee",
     "Technical Committee"
   ],
-  "companies": [
-    {
-      "name": "SSR Mining Inc.",
-      "ticker": "SSRM",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-09-16",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

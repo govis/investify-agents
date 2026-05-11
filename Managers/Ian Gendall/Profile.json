@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Gendall is a geologist with over 30 years of experience in the mineral exploration industry. He has held senior positions with several exploration companies and has been involved in the discovery and development of several mineral deposits in South America and Canada.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "DLP Resources Inc.",
       "ticker": "DLP",
       "exchange": "TSX",
       "title_or_role": "Chief Executive Officer, Director, President",
+      "website": "https://dlpresourcesinc.com",
       "start_date": "2019-11-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

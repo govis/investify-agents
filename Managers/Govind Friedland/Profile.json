@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Friedland is a geologist and the founder of GoviEx Uranium. He has been involved in the mining industry for over 20 years and has been instrumental in the acquisition and development of the company's uranium assets in Africa.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "GoviEx Uranium Inc.",
       "ticker": "GXU",
       "exchange": "TSXV",
       "title_or_role": "Executive Chairman",
+      "website": "https://www.goviex.com",
       "start_date": "2006-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

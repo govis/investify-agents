@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Christopher R. Cage has served as our Chief Financial Officer since July 2022. He previously served as Senior Vice President and Chief Accounting Officer from 2016 to 2022. He has been with the company and its predecessor since 1996.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Leidos Holdings, Inc.",
       "ticker": "LDOS",
       "exchange": "NYSE",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.leidos.com",
       "start_date": "2022-07-05",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

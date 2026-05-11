@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Hans Str\u00e5berg is the Chair of the Board. He has extensive experience from leading positions in international industrial companies, including President and CEO of Electrolux.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Atlas Copco AB",
+      "ticker": "ATCO",
+      "exchange": "STO",
+      "title_or_role": "Chair of the Board",
+      "website": "https://www.atlascopcogroup.com",
+      "start_date": "2014-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Remuneration Committee"
   ],
-  "companies": [
-    {
-      "name": "Atlas Copco AB",
-      "ticker": "ATCO",
-      "exchange": "STO",
-      "title_or_role": "Chair of the Board",
-      "start_date": "2014-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

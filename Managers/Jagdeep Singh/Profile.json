@@ -6,17 +6,14 @@
   "age_year": 2024,
   "background": "Jagdeep Singh has served as our Chief Development Officer since February 2024. Prior to joining ChargePoint, he was the co-founder and CEO of QuantumScape Corporation from 2010 to 2024. He previously founded and served as CEO of Infinera Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "ChargePoint Holdings, Inc.",
       "ticker": "CHPT",
       "exchange": "NYSE",
       "title_or_role": "Chief Development Officer",
+      "website": "https://www.chargepoint.com",
       "start_date": "2024-02-01",
       "end_date": null
     },
@@ -25,8 +22,16 @@
       "ticker": "QS",
       "exchange": "NYSE",
       "title_or_role": "Chairman of the Board",
+      "website": "https://www.quantumscape.com",
       "start_date": "2010-05-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

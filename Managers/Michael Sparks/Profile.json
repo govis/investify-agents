@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Sparks was appointed Executive Vice President, Chief Legal and Administrative Officer and Secretary in 2020. He previously served as Chief Legal Officer at Alacer Gold.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "SSR Mining Inc.",
       "ticker": "SSRM",
       "exchange": "NASDAQ",
       "title_or_role": "Executive Vice President, Chief Legal and Administrative Officer and Secretary",
+      "website": "https://www.ssrmining.com",
       "start_date": "2020-09-16",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Cedrik Neike is CEO of Digital Industries and a member of the Managing Board. He joined Siemens in 1997, spent time at Cisco Systems, and returned to Siemens in 2017.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Siemens Aktiengesellschaft",
       "ticker": "SIEGY",
       "exchange": "OTC",
       "title_or_role": "CEO Digital Industries, Member of the Managing Board",
+      "website": "https://www.siemens.com",
       "start_date": "2020-10-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

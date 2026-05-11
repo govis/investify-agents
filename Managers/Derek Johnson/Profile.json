@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Dr. Johnson has served as our Chief Operating Officer since January 2024. He previously served as our Vice President of Operations from 2020 to 2023. Prior to joining Solid Power, Dr. Johnson was the Director of Global R&D at A123 Systems.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Solid Power, Inc.",
       "ticker": "SLDP",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Operating Officer",
+      "website": "https://www.solidpowerbattery.com",
       "start_date": "2024-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

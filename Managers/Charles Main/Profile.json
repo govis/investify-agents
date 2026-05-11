@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Main is a Chartered Professional Accountant with over 30 years of experience in the mining sector, including as CFO of Yamana Gold.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Wesdome Gold Mines Ltd.",
+      "ticker": "WDO",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.wesdome.com",
+      "start_date": "2017-06-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee (Chair)",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Wesdome Gold Mines Ltd.",
-      "ticker": "WDO",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2017-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

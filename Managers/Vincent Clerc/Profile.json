@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Vincent Clerc has been with A.P. Moller - Maersk since 1997. He has held various leadership positions in North America and Copenhagen. Before becoming CEO, he was the CEO of Ocean & Logistics.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "A.P. M\u00f8ller - M\u00e6rsk A/S",
       "ticker": "AMKBY",
       "exchange": "OTC",
       "title_or_role": "Chief Executive Officer (CEO)",
+      "website": "https://www.maersk.com",
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

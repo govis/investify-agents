@@ -6,19 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Adnani is an entrepreneur and the founder of several public companies in the resource sector. He is the founder and CEO of Uranium Energy Corp and the Chairman of GoldMining Inc. He has extensive experience in capital markets and corporate development.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "EagleOne Metals Corp.",
       "ticker": "EAGL",
       "exchange": "CSE",
       "title_or_role": "Chief Executive Officer, Director",
+      "website": "https://eagleonemetals.com",
       "start_date": "2023-06-01",
       "end_date": null
     },
@@ -27,16 +22,57 @@
       "ticker": "UROY",
       "exchange": "NASDAQ",
       "title_or_role": "Chairman",
-      "start_date": "2017-08-01",
-      "end_date": null
+      "website": "https://www.uraniumroyalty.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Uranium Royalty Corp.",
       "ticker": "UROY",
       "exchange": "TSX",
       "title_or_role": "Chairman",
+      "website": "https://www.uraniumroyalty.com/",
       "start_date": "2017-08-23",
       "end_date": null
+    },
+    {
+      "name": "Uranium Energy Corp.",
+      "ticker": "UEC",
+      "exchange": "NYSE American",
+      "website": "https://www.uraniumenergy.com",
+      "title_or_role": "President, Chief Executive Officer, Director, Founder",
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GoldMining Inc.",
+      "ticker": "GOLD",
+      "exchange": "TSX",
+      "website": "https://www.goldmining.com",
+      "title_or_role": "Co-Chairman, Founder",
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gold Royalty Corp.",
+      "ticker": "GROY",
+      "exchange": "NYSE American",
+      "website": "https://www.goldroyalty.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Susan de Stein is a former senior executive with over 30 years of experience in corporate strategy and communications. She has served on several boards in the non-profit and private sectors.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Triple Flag Precious Metals Corp.",
+      "ticker": "TFPM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.tripleflagpm.com",
+      "start_date": "2021-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Compensation and ESG Committee",
     "Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Triple Flag Precious Metals Corp.",
-      "ticker": "TFPM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

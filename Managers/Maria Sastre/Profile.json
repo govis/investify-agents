@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former President and Chief Operating Officer of Signature Flight Support. Former Vice President, International Sales and Marketing of Royal Caribbean Cruises.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Textron Inc.",
+      "ticker": "TXT",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.textron.com",
+      "start_date": "2020-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -14,14 +26,6 @@
     "Nominating and Corporate Governance Committee",
     "Organization and Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Textron Inc.",
-      "ticker": "TXT",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2020-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Ahmed has been a director since 2019. He was Senior Vice President and General Manager of the Technology and Manufacturing Group at Intel Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lam Research Corporation",
+      "ticker": "LRCX",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.lamresearch.com",
+      "start_date": "2019-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Reshoring"
@@ -14,14 +26,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "Lam Research Corporation",
-      "ticker": "LRCX",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2019-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

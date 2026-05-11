@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Ms. O\u2019Hara has served as our Executive Vice President and Chief Human Resources Officer since October 2019. She joined SAIC in 2009 and has held various leadership roles in human resources.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Science Applications International Corporation",
       "ticker": "SAIC",
       "exchange": "NASDAQ",
       "title_or_role": "Executive Vice President and Chief Human Resources Officer",
+      "website": "https://www.saic.com",
       "start_date": "2019-10-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

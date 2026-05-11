@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Gillian Doran joined AngloGold Ashanti as Chief Financial Officer in January 2023. She previously served as CFO of Rio Tinto Aluminium and has extensive experience in the mining and metals industry.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "AngloGold Ashanti plc",
       "ticker": "AU",
       "exchange": "NYSE",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.anglogoldashanti.com",
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

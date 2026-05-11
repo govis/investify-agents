@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Carlos L. Macau, Jr. has served as HEICO\u2019s Executive Vice President and Chief Financial Officer since 2012. Prior to joining HEICO, he was a partner at Deloitte & Touche LLP.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "HEICO Corporation",
       "ticker": "HEI",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "website": "https://www.heico.com",
       "start_date": "2012",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

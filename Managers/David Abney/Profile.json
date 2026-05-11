@@ -6,6 +6,36 @@
   "age_year": 2024,
   "background": "Former Executive Chairman and CEO of United Parcel Service, Inc. (UPS).",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Freeport-McMoRan Inc.",
+      "ticker": "FCX",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.fcx.com",
+      "start_date": "2021-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.northropgrumman.com",
+      "start_date": "2020-01-01",
+      "end_date": null
+    },
+    {
+      "name": "The Southern Company",
+      "ticker": "SO",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.southerncompany.com",
+      "start_date": "2020-10-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense",
     "Electrification",
@@ -20,30 +50,6 @@
     "Compensation and Management Development Committee",
     "Compensation and Management Succession"
   ],
-  "companies": [
-    {
-      "name": "Freeport-McMoRan Inc.",
-      "ticker": "FCX",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2021-01-01",
-      "end_date": null
-    },
-    {
-      "name": "Northrop Grumman Corporation",
-      "ticker": "NOC",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-01-01",
-      "end_date": null
-    },
-    {
-      "name": "The Southern Company",
-      "ticker": "SO",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

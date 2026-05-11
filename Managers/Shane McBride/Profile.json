@@ -6,19 +6,23 @@
   "age_year": null,
   "background": "Mr McBride is a Fellow of CPA Australia, a Fellow of Governance Institute of Australia and a Member of the Australian Institute of Company Directors. He has over 40 years' experience in the mining industry in senior management and executive roles.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Elevate Uranium Limited",
       "ticker": "EL8",
       "exchange": "ASX",
       "title_or_role": "Chief Financial Officer and Company Secretary",
+      "website": "https://www.elevateuranium.com.au",
       "start_date": "2018-11-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

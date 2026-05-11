@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Pitts is a Fellow of the Institute of Chartered Accountants with more than 30 years' experience in statutory reporting and corporate compliance. He is a Partner in the corporate advisory firm Endeavour Corporate.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Deep Yellow Limited",
       "ticker": "DYL",
       "exchange": "ASX",
       "title_or_role": "Chief Financial Officer and Company Secretary",
+      "website": "https://deepyellow.com.au",
       "start_date": "2010-02-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

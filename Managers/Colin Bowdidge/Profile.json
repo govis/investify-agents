@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Dr. Bowdidge is a professional geologist with over 50 years of experience in mineral exploration and management.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "New Age Metals Inc.",
+      "ticker": "NAM",
+      "exchange": "TSXV",
+      "title_or_role": "Independent Director",
+      "website": "https://newagemetals.com",
+      "start_date": "2010-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Gold"
@@ -14,14 +26,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "New Age Metals Inc.",
-      "ticker": "NAM",
-      "exchange": "TSXV",
-      "title_or_role": "Independent Director",
-      "start_date": "2010-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

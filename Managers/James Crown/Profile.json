@@ -6,19 +6,23 @@
   "age_year": 2023,
   "background": "Chairman and CEO of Henry Crown and Company. (Note: Deceased June 2023, but listed in 2023 proxy).",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "General Dynamics Corporation",
       "ticker": "GD",
       "exchange": "NYSE",
       "title_or_role": "Unknown Role",
+      "website": "https://www.gd.com",
       "start_date": null,
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,78 @@
   "age_year": 2024,
   "background": "Mr. Liveris has served as Chairman of our Board since 2021. He is the former Chairman and CEO of The Dow Chemical Company and former Executive Chairman of DowDuPont. He serves on the boards of Saudi Aramco, IBM, and Worley.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lucid Group, Inc.",
+      "ticker": "LCID",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chairman of the Board",
+      "website": "https://www.lucidmotors.com",
+      "start_date": "2021-02-01",
+      "end_date": null
+    },
+    {
+      "name": "The Dow Chemical Company",
+      "ticker": "DOW",
+      "exchange": "NYSE",
+      "website": "https://www.dow.com",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "2004",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "International Business Machines Corporation (IBM)",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "website": "https://www.ibm.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Saudi Arabian Oil Company (Saudi Aramco)",
+      "ticker": "2222",
+      "exchange": "Tadawul (Saudi Stock Exchange)",
+      "website": "https://www.aramco.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Worley Limited",
+      "ticker": "WOR",
+      "exchange": "ASX",
+      "website": "https://www.worley.com",
+      "title_or_role": "Deputy Chairman and Lead Independent Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NOVONIX Limited",
+      "ticker": "NVX",
+      "exchange": "ASX",
+      "website": "https://www.novonixgroup.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "DowDuPont Inc.",
+      "ticker": "DWDP",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "title_or_role": "Executive Chairman",
+      "start_date": "2017",
+      "end_date": "2018",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +85,5 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Lucid Group, Inc.",
-      "ticker": "LCID",
-      "exchange": "NASDAQ",
-      "title_or_role": "Chairman of the Board",
-      "start_date": "2021-02-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

@@ -6,6 +6,58 @@
   "age_year": 2024,
   "background": "Mr. Pangbourne has over 35 years of experience in the mining industry, including senior executive roles at Guyanese Gold Corp and Kinross Gold Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://oceanagold.com",
+      "start_date": "2023-10-01",
+      "end_date": null
+    },
+    {
+      "name": "Chesapeake Gold Corp.",
+      "ticker": "CKG",
+      "exchange": "TSXV",
+      "website": "https://chesapeakegold.com/",
+      "title_or_role": "President, CEO, and Director",
+      "start_date": "2020",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "TMAC Resources Inc.",
+      "ticker": "TMR",
+      "exchange": "TSX",
+      "website": "https://www.tmacresources.com/",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "K",
+      "exchange": "TSX / NYSE",
+      "website": "https://www.kinross.com/",
+      "title_or_role": "VP Projects, South America",
+      "start_date": "2010",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX / NYSE / LSE",
+      "website": "https://www.bhp.com/",
+      "title_or_role": "President & COO, Nickel Americas",
+      "start_date": "1995",
+      "end_date": "2010",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +66,5 @@
     "Governance and Nominating Committee",
     "Sustainability Committee (Chair)"
   ],
-  "companies": [
-    {
-      "name": "OceanaGold Corporation",
-      "ticker": "OGC",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2023-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

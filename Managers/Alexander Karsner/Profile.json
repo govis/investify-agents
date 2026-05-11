@@ -6,6 +6,29 @@
   "age_year": 2024,
   "background": "Senior Strategist at X (formerly Google X) and former U.S. Assistant Secretary of Energy.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Exxon Mobil Corporation",
+      "ticker": "XOM",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.exxonmobil.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Applied Materials, Inc.",
+      "ticker": "AMAT",
+      "exchange": "NASDAQ",
+      "website": "https://www.appliedmaterials.com",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +37,5 @@
     "Finance Committee",
     "Public Issues and Contributions Committee"
   ],
-  "companies": [
-    {
-      "name": "Exxon Mobil Corporation",
-      "ticker": "XOM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

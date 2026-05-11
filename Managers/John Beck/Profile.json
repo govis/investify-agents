@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Beck is the Founder and Chairman of Aecon Group Inc. He has been a director of Aecon or its predecessors since 1963. He is a graduate of the University of British Columbia in Civil Engineering.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Aecon Group Inc.",
       "ticker": "ARE",
       "exchange": "TSX",
       "title_or_role": "Chairman",
+      "website": "https://www.aecon.com",
       "start_date": "1963-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

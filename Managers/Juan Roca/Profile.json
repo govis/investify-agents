@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Roca has over 25 years of experience in the mining industry. He was appointed Chief Operating Officer in 2023. He previously held senior operational roles at Freeport-McMoRan and other major mining firms.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Lundin Mining Corporation",
       "ticker": "LUN",
       "exchange": "TSX",
       "title_or_role": "Chief Operating Officer",
+      "website": "https://www.lundinmining.com",
       "start_date": "2023-10-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

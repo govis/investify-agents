@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Mr. Ives was the Chair of Deloitte Canada from 2010 to 2018 and has significant financial and governance expertise.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "KGC",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.kinross.com",
+      "start_date": "2019-05-01",
+      "end_date": null
+    },
+    {
+      "name": "Wheaton Precious Metals Corp.",
+      "ticker": "WPM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.wheatonpm.com",
+      "start_date": "2020-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -16,22 +37,6 @@
     "Governance and Nominating Committee",
     "Human Resources and Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Kinross Gold Corporation",
-      "ticker": "KGC",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2019-05-01",
-      "end_date": null
-    },
-    {
-      "name": "Wheaton Precious Metals Corp.",
-      "ticker": "WPM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Gorman is the Executive Chairman of Morgan Stanley. He served as Chief Executive Officer from 2010 through 2023. He joined the Firm in 2006.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Morgan Stanley",
       "ticker": "MS",
       "exchange": "NYSE",
       "title_or_role": "Executive Chairman",
+      "website": "https://www.morganstanley.com",
       "start_date": "2024-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

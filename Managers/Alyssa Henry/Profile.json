@@ -6,6 +6,68 @@
   "age_year": 2024,
   "background": "Alyssa Henry has been a director since 2020. She was previously CEO of Square (now Block, Inc.) and held leadership roles at Amazon Web Services and Microsoft.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.intel.com",
+      "start_date": "2020-01-01",
+      "end_date": null
+    },
+    {
+      "name": "PayPal Holdings, Inc.",
+      "ticker": "PYPL",
+      "exchange": "NASDAQ",
+      "website": "https://www.paypal.com",
+      "title_or_role": "Director",
+      "start_date": "March 2026",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Samsara Inc.",
+      "ticker": "IOT",
+      "exchange": "NYSE",
+      "website": "https://www.samsara.com",
+      "title_or_role": "Director",
+      "start_date": "August 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Block, Inc.",
+      "ticker": "SQ",
+      "exchange": "NYSE",
+      "website": "https://www.block.xyz",
+      "title_or_role": "CEO of Square",
+      "start_date": "2014",
+      "end_date": "October 2, 2023",
+      "validated": true
+    },
+    {
+      "name": "Confluent, Inc.",
+      "ticker": "CFLT",
+      "exchange": "NASDAQ",
+      "website": "https://www.confluent.io",
+      "title_or_role": "Director",
+      "start_date": "May 2021",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Unity Software Inc.",
+      "ticker": "U",
+      "exchange": "NYSE",
+      "website": "https://unity.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": "November 30, 2022",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI",
     "Reshoring"
@@ -14,14 +76,5 @@
   "committees": [
     "Audit & Finance Committee"
   ],
-  "companies": [
-    {
-      "name": "Intel Corporation",
-      "ticker": "INTC",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

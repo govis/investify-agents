@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mats Rahmstr\u00f6m was the President and CEO of Atlas Copco Group until April 30, 2024. He remains on the board as a director.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Atlas Copco AB",
       "ticker": "ATCO",
       "exchange": "STO",
       "title_or_role": "Director",
+      "website": "https://www.atlascopcogroup.com",
       "start_date": "2017-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

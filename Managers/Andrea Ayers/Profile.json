@@ -6,6 +6,38 @@
   "age_year": 2024,
   "background": "Former President and Chief Executive Officer of Convergys Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "United States Steel Corporation",
+      "ticker": "X",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.ussteel.com",
+      "start_date": "2019-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Stanley Black & Decker, Inc.",
+      "ticker": "SWK",
+      "exchange": "NYSE",
+      "website": "https://www.stanleyblackanddecker.com",
+      "title_or_role": "Director (Member of the Board of Directors)",
+      "start_date": "December 2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Convergys Corporation",
+      "ticker": "CVG",
+      "exchange": "NYSE",
+      "website": "https://www.concentrix.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2012",
+      "end_date": "October 2018",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -13,14 +45,5 @@
   "committees": [
     "Compensation and Organization Committee"
   ],
-  "companies": [
-    {
-      "name": "United States Steel Corporation",
-      "ticker": "X",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

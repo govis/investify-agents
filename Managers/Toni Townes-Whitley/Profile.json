@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Ms. Townes-Whitley has served as our Chief Executive Officer since October 2023. Prior to joining SAIC, she served as President, U.S. Regulated Industries at Microsoft from 2018 to 2023. Before Microsoft, she was President of CGI Federal and held management roles at Unisys Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Science Applications International Corporation",
       "ticker": "SAIC",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Executive Officer, Director",
+      "website": "https://www.saic.com",
       "start_date": "2023-10-02",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Scott has over 30 years of experience in the energy and resource sectors. He has served as a director and officer of numerous public and private companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Atha Energy Corp.",
+      "ticker": "SASK",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.athaenergy.com",
+      "start_date": "2023-01-12",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -15,14 +27,6 @@
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Atha Energy Corp.",
-      "ticker": "SASK",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2023-01-12",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

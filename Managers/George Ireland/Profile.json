@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Mr. Ireland has over 40 years of experience in the mining and financial sectors. He is the founder, CEO and CIO of Geologic Resource Partners LLC.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "title_or_role": "Chair and Independent Director",
+      "website": "https://capstonecopper.com",
+      "start_date": "2011-05-01",
+      "end_date": null
+    },
+    {
+      "name": "Lithium Americas Corp.",
+      "ticker": "LAC",
+      "exchange": "NYSE",
+      "title_or_role": "Chair of the Board",
+      "website": "https://www.lithiumamericas.com",
+      "start_date": "2023-10-04",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -16,22 +37,6 @@
     "Governance and Nominating Committee",
     "Governance and Nomination Committee"
   ],
-  "companies": [
-    {
-      "name": "Capstone Copper Corp.",
-      "ticker": "CS",
-      "exchange": "TSX",
-      "title_or_role": "Chair and Independent Director",
-      "start_date": "2011-05-01",
-      "end_date": null
-    },
-    {
-      "name": "Lithium Americas Corp.",
-      "ticker": "LAC",
-      "exchange": "NYSE",
-      "title_or_role": "Chair of the Board",
-      "start_date": "2023-10-04",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

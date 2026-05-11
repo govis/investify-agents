@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Hall is the Principal Financial and Accounting Officer of the Sponsor. He joined the World Gold Council in 2019 and was previously a Director at BlackRock.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "SPDR Gold Trust",
       "ticker": "GLD",
       "exchange": "NYSE",
       "title_or_role": "Principal Financial and Accounting Officer",
+      "website": "https://www.spdrgoldshares.com",
       "start_date": "2021-04-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

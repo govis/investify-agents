@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Keenan Conder has served as our Chief Legal Officer and Corporate Secretary since September 2021. Prior to joining SentinelOne, Mr. Conder served as Executive Vice President, General Counsel and Corporate Secretary of Tableau Software, Inc. from 2012 to 2021.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "SentinelOne, Inc.",
       "ticker": "S",
       "exchange": "NYSE",
       "title_or_role": "Chief Legal Officer and Corporate Secretary",
+      "website": "https://www.sentinelone.com",
       "start_date": "2021-09-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

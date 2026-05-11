@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Ms. Mariuzza has over 20 years of experience in the mining industry, specializing in environmental and regulatory affairs. She has held various leadership roles within Lundin Mining, including Managing Director of the Eagle Mine.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Lundin Mining Corporation",
       "ticker": "LUN",
       "exchange": "TSX",
       "title_or_role": "Senior Vice President, Sustainability, Health and Safety",
+      "website": "https://www.lundinmining.com",
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

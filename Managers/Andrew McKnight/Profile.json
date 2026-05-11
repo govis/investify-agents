@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. McKnight is a Managing Partner of the Credit Funds at Fortress Investment Group LLC. He previously worked at Fir Tree Partners and Goldman Sachs.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "MP Materials Corp.",
+      "ticker": "MP",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://mpmaterials.com",
+      "start_date": "2020-11-17",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "MP Materials Corp.",
-      "ticker": "MP",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2020-11-17",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

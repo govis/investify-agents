@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Senior Vice President and Chief Financial Officer since 2021. Previously served as CFO of Diageo plc and held executive roles at United Airlines and ADT.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Exxon Mobil Corporation",
       "ticker": "XOM",
       "exchange": "NYSE",
       "title_or_role": "Senior Vice President and CFO",
+      "website": "https://www.exxonmobil.com",
       "start_date": "2021-08-09",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

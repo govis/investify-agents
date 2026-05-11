@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Hel\u00e9ne Mellquist is a Director and has held several senior positions within the Volvo Group.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Atlas Copco AB",
       "ticker": "ATCO",
       "exchange": "STO",
       "title_or_role": "Director",
+      "website": "https://www.atlascopcogroup.com",
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

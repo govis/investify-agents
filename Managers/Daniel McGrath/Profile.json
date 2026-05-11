@@ -6,19 +6,23 @@
   "age_year": null,
   "background": "Daniel McGrath is the Head of Rare Earths. He has held several senior operational and technical roles since joining Iluka in 1993.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Iluka Resources Limited",
       "ticker": "ILU",
       "exchange": "ASX",
       "title_or_role": "Head of Rare Earths",
+      "website": "https://www.iluka.com",
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

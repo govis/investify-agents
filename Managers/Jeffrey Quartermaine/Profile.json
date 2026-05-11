@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Quartermaine has more than 30 years of experience in senior financial and strategic management roles with ASX and TSX-listed resources companies. He has been central to the development of Perseus Mining into a multi-mine gold producer.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Perseus Mining Limited",
       "ticker": "PRU",
       "exchange": "ASX",
       "title_or_role": "Managing Director and Chief Executive Officer",
+      "website": "https://perseusmining.com/",
       "start_date": "2013-02-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

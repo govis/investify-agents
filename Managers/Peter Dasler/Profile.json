@@ -6,17 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Dasler has over 40 years of experience in the mining and exploration industry. He has been a director and officer of several public companies and has extensive experience in the management of exploration projects.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "CanAlaska Uranium Ltd.",
       "ticker": "CVV",
       "exchange": "TSX",
       "title_or_role": "Director, President",
+      "website": "https://canalaska.com/",
       "start_date": "2004-01-01",
       "end_date": null
     },
@@ -25,8 +22,16 @@
       "ticker": "CVV",
       "exchange": "TSXV",
       "title_or_role": "Chief Executive Officer, Director, President",
+      "website": "https://canalaska.com/",
       "start_date": "2004-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

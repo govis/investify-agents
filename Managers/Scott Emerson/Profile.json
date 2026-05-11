@@ -6,20 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Emerson has over 30 years of experience in the capital markets and has served as a director and officer of several public companies.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "GoldHaven Resources Corp.",
       "ticker": "GOH",
       "exchange": "CSE",
       "title_or_role": "Director",
+      "website": "https://goldhavenresources.com",
       "start_date": "2019-05-22",
       "end_date": null
     },
@@ -28,8 +22,19 @@
       "ticker": "GOH",
       "exchange": "TSX",
       "title_or_role": "Director",
+      "website": "https://goldhavenresources.com/",
       "start_date": "2019-05-22",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

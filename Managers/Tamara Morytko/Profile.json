@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Ms. Morytko has served as President, Pumps Division since January 2023. She previously served as President, Flow Control Division from September 2020 to January 2023. Prior to joining Flowserve, she was Chief Operating Officer of Nidec Motor Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Flowserve Corporation",
       "ticker": "FLS",
       "exchange": "NYSE",
       "title_or_role": "President, Pumps Division",
+      "website": "https://www.flowserve.com",
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

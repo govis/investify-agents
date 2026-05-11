@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former Under Secretary of Defense (Comptroller) and CFO for the Department of Defense. She has held senior positions at United Technologies and Lumina Analytics.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Centrus Energy Corp.",
+      "ticker": "LEU",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.centrusenergy.com",
+      "start_date": "2020-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Nominating and Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Centrus Energy Corp.",
-      "ticker": "LEU",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

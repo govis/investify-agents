@@ -6,19 +6,23 @@
   "age_year": null,
   "background": "Mr. Knode has over 30 years of experience in the uranium industry, including senior roles at Uranium One and Cameco Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Peninsula Energy Limited",
       "ticker": "PEN",
       "exchange": "ASX",
       "title_or_role": "Chief Executive Officer - Strata Energy Inc.",
+      "website": "https://www.pel.net.au",
       "start_date": "2011-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

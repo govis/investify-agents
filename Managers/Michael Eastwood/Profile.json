@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Chief Financial Officer of Thomson Reuters since March 2020. Previously served as Senior Vice President and Head of Corporate Finance.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Thomson Reuters Corporation",
       "ticker": "TRI",
       "exchange": "NYSE",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.thomsonreuters.com",
       "start_date": "2020-03-15",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

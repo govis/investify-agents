@@ -6,19 +6,14 @@
   "age_year": 2024,
   "background": "James G. Reagan has served as our Executive Vice President and General Counsel since 2017. Prior to joining Leidos, he was Senior Vice President and General Counsel at Vencore, Inc.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Leidos Holdings, Inc.",
       "ticker": "LDOS",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and General Counsel",
+      "website": "https://www.leidos.com",
       "start_date": "2017-01-01",
       "end_date": null
     },
@@ -27,8 +22,18 @@
       "ticker": "SAIC",
       "exchange": "NASDAQ",
       "title_or_role": "Independent Director",
+      "website": "https://www.saic.com",
       "start_date": "2023-12-13",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

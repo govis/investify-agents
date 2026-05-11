@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "George Kurian has served as our Chief Executive Officer since June 2015 and as a director since June 2015. He also served as our President from May 2014 to June 2015. Mr. Kurian joined NetApp in April 2011 as Senior Vice President, Storage Solutions Group and was promoted to Executive Vice President, Product Operations in September 2013. Prior to joining NetApp, Mr. Kurian was Vice President and General Manager, Application Networking and Services Group at Cisco Systems from 2002 to 2011. He also held roles at Akamai Technologies, McKinsey & Company and Oracle Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "NetApp, Inc.",
       "ticker": "NTAP",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Executive Officer, Director",
+      "website": "https://www.netapp.com",
       "start_date": "2015-06-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Harbidge has over 30 years of experience in the mining industry. He was previously President and CEO of GT Gold Corp. and Senior Vice President, Exploration at Goldcorp Inc. He also served as General Manager, Exploration at Randgold Resources.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Faraday Copper Corp.",
       "ticker": "FDY",
       "exchange": "TSX",
       "title_or_role": "President, Chief Executive Officer and Director",
+      "website": "https://faradaycopper.com",
       "start_date": "2022-04-21",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

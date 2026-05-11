@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. Hall is the CEO of Creative Fire and has extensive experience in Indigenous relations and corporate strategy.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "First Mining Gold Corp.",
+      "ticker": "FF",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://firstmininggold.com",
+      "start_date": "2021-06-16",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
@@ -15,14 +27,6 @@
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "First Mining Gold Corp.",
-      "ticker": "FF",
-      "exchange": "TSX",
-      "title_or_role": "Director",
-      "start_date": "2021-06-16",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

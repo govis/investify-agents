@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Co-CEO and President of Ariel Investments, LLC. Chair of Starbucks Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.jpmorganchase.com",
+      "start_date": "2018-03-12",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Electrification"
@@ -15,14 +27,6 @@
     "Corporate Governance & Nominating Committee",
     "Regulatory Compliance & Public Responsibility Committee (Chair)"
   ],
-  "companies": [
-    {
-      "name": "JPMorgan Chase & Co.",
-      "ticker": "JPM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2018-03-12",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

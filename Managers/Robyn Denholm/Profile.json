@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Robyn Denholm has been a member of the Board since August 2014 and served as Chair of the Board since November 2018. She has held executive roles at Telstra Corporation Limited and Juniper Networks, Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chair of the Board, Independent Director",
+      "website": "https://www.tesla.com",
+      "start_date": "2018-11-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -16,14 +28,6 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Tesla, Inc.",
-      "ticker": "TSLA",
-      "exchange": "NASDAQ",
-      "title_or_role": "Chair of the Board, Independent Director",
-      "start_date": "2018-11-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

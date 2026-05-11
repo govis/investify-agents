@@ -6,19 +6,83 @@
   "age_year": 2024,
   "background": "Andrew Bonfield is chief financial officer of Caterpillar Inc. Before joining Caterpillar in 2018, he served as CFO of National Grid plc and held senior finance roles at Cadbury plc, Bristol-Myers Squibb, and SmithKline Beecham.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Caterpillar Inc.",
+      "ticker": "CAT",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Advisor / CFO Emeritus",
+      "website": "caterpillar.com",
+      "start_date": "2026-05",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Reckitt Benckiser Group plc",
+      "ticker": "RKT",
+      "exchange": "LSE",
+      "website": "reckitt.com",
+      "title_or_role": "Senior Independent Director",
+      "start_date": "2024-05",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "National Grid plc",
+      "ticker": "NGG",
+      "exchange": "NYSE / LSE",
+      "website": "nationalgrid.com",
+      "title_or_role": "Group Chief Financial Officer / Board Member",
+      "start_date": "2010-11",
+      "end_date": "2018-07",
+      "validated": true
+    },
+    {
+      "name": "Kingfisher plc",
+      "ticker": "KGF",
+      "exchange": "LSE",
+      "website": "kingfisher.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2002",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Bristol Myers Squibb",
+      "ticker": "BMY",
+      "exchange": "NYSE",
+      "website": "bms.com",
+      "title_or_role": "Executive Vice President & CFO",
+      "start_date": null,
+      "end_date": null,
+      "validated": false
+    },
+    {
+      "name": "Cadbury plc",
+      "ticker": "Delisted",
+      "exchange": "Delisted",
+      "website": null,
+      "title_or_role": "Chief Financial Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": false
+    },
+    {
+      "name": "BOC Group",
+      "ticker": "Delisted",
+      "exchange": "Delisted",
+      "website": null,
+      "title_or_role": "Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": false
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Caterpillar Inc.",
-      "ticker": "CAT",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Financial Officer",
-      "start_date": "2018-09-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

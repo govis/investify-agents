@@ -6,20 +6,44 @@
   "age_year": null,
   "background": "Mr. Heath has over 15 years of experience in the financial services and mining industries. He previously served as President and CEO of Ethos Gold Corp. (now Prospector Metals). He has also worked in investment banking with a focus on the mining sector.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Prospector Metals Corp.",
+      "ticker": "TSXV: PPP",
+      "exchange": "TSXV",
+      "title_or_role": "President & CEO (Nov 2021 \u2013 Sept 2023); CFO & Director (Sept 2023 \u2013 Present)",
+      "website": "https://prospectormetalscorp.com/",
+      "start_date": "2021-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ethos Gold Corp. (now Prospector Metals Corp.)",
+      "ticker": "TSXV: ECC",
+      "exchange": "TSXV",
+      "website": "https://prospectormetalscorp.com/",
+      "title_or_role": "President & CEO",
+      "start_date": "2020-11",
+      "end_date": "2021-11",
+      "validated": true
+    },
+    {
+      "name": "Defense Metals Corp.",
+      "ticker": "TSXV: DEFN",
+      "exchange": "TSXV",
+      "website": "https://defensemetals.com/",
+      "title_or_role": "Senior Vice President, Corporate Development & Interim CFO",
+      "start_date": null,
+      "end_date": "2025-04",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Prospector Metals Corp.",
-      "ticker": "PPP",
-      "exchange": "TSX",
-      "title_or_role": "Director",
-      "start_date": "2021-04-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Steven W. Williams is the Non-Executive Chairman of the Board. He is the former President and CEO of Suncor Energy Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Alcoa Corporation",
+      "ticker": "AA",
+      "exchange": "NYSE",
+      "title_or_role": "Non-Executive Chairman, Director",
+      "website": "https://www.alcoa.com",
+      "start_date": "2023-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,16 +25,6 @@
   "committees": [
     "Governance and Nominating Committee"
   ],
-  "enrichment_status": "not_found",
-  "companies": [
-    {
-      "name": "Alcoa Corporation",
-      "ticker": "AA",
-      "exchange": "NYSE",
-      "title_or_role": "Non-Executive Chairman, Director",
-      "start_date": "2023-05-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": null
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

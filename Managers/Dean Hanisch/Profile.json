@@ -6,20 +6,24 @@
   "age_year": null,
   "background": "Mr. Hanisch has over 20 years of experience in the financial services industry, specifically in the areas of corporate finance, mergers and acquisitions, and capital markets. He has held various senior management positions with several public and private companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Stria Lithium Inc.",
+      "ticker": "SRA",
+      "exchange": "TSXV",
+      "title_or_role": "Chief Executive Officer, Director",
+      "website": "https://strialithium.com/",
+      "start_date": "2022-06-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Gold"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Stria Lithium Inc.",
-      "ticker": "SRA",
-      "exchange": "TSXV",
-      "title_or_role": "Chief Executive Officer, Director",
-      "start_date": "2022-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

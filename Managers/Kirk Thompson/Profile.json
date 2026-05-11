@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former Executive Chairman and CEO of J.B. Hunt. He retired as Executive Chairman in 2024 but remains on the board.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "J.B. Hunt Transport Services, Inc.",
+      "ticker": "JBHT",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.jbhunt.com",
+      "start_date": "1985-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Executive Committee"
   ],
-  "companies": [
-    {
-      "name": "J.B. Hunt Transport Services, Inc.",
-      "ticker": "JBHT",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "1985-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

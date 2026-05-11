@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "John Quayle has over 40 years of experience in the mining and construction industries. He has held senior executive positions in several major Australian companies and has extensive experience in project management and corporate governance.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Latrobe Magnesium Limited",
       "ticker": "LMG",
       "exchange": "ASX",
       "title_or_role": "Chief Operating Officer, Non-Executive Chairman",
+      "website": "https://www.latrobemagnesium.com",
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

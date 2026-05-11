@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Kevan Krysler has served as our Chief Financial Officer since December 2019. Prior to joining Pure, Mr. Krysler served as Senior Vice President, Corporate Controller at VMware, Inc. from 2013 to 2019. Prior to VMware, Mr. Krysler was a partner at KPMG LLP, where he served in the firm's Silicon Valley technology practice.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Pure Storage, Inc.",
       "ticker": "PSTG",
       "exchange": "NYSE",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.purestorage.com",
       "start_date": "2019-12",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

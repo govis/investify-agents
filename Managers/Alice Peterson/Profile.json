@@ -6,6 +6,59 @@
   "age_year": 2024,
   "background": "President, Syrus Global.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Rockwell Automation, Inc.",
+      "ticker": "ROK",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.rockwellautomation.com",
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SP Plus Corporation",
+      "ticker": "SP",
+      "exchange": "NASDAQ",
+      "website": "https://www.spplus.com",
+      "title_or_role": "Director",
+      "start_date": "March 1, 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Williams Partners, L.P.",
+      "ticker": "WPZ",
+      "exchange": "NYSE",
+      "website": "https://www.williams.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Hanesbrands Inc.",
+      "ticker": "HBI",
+      "exchange": "NYSE",
+      "website": "https://www.hanesbrands.com",
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": "2010",
+      "validated": true
+    },
+    {
+      "name": "Fleming Companies, Inc.",
+      "ticker": "FLM",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": "2003",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +67,5 @@
     "Audit Committee",
     "Governance and Corporate Responsibility Committee"
   ],
-  "companies": [
-    {
-      "name": "Rockwell Automation, Inc.",
-      "ticker": "ROK",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-12-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

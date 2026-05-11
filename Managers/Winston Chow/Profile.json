@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Mr. Chow is the Chief Financial Officer of NANO Nuclear Energy Inc. He has over 25 years of experience in finance and accounting, including roles as CFO and Controller for several public and private companies. He is a Certified Public Accountant.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NANO Nuclear Energy Inc.",
+      "ticker": "NNE",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://nanonuclearenergy.com",
+      "start_date": "2023-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear",
     "Reshoring"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "NANO Nuclear Energy Inc.",
-      "ticker": "NNE",
-      "exchange": "NASDAQ",
-      "title_or_role": "Chief Financial Officer",
-      "start_date": "2023-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

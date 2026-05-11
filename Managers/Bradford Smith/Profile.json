@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Brad Smith is Microsoft\u2019s vice chair and president. He leads a team of more than 1,500 business, legal and corporate affairs professionals located in 54 countries and operating in more than 120 nations.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "title_or_role": "Vice Chair and President",
+      "website": "https://www.microsoft.com",
+      "start_date": "2021-09-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Defense"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Microsoft Corporation",
-      "ticker": "MSFT",
-      "exchange": "NASDAQ",
-      "title_or_role": "Vice Chair and President",
-      "start_date": "2021-09-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

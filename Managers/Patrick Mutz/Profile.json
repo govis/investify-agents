@@ -6,6 +6,18 @@
   "age_year": null,
   "background": "Mr Mutz has over 40 years of experience in the mining industry, with a focus on uranium mining and processing. He has held senior executive roles in several uranium companies in the US and Australia.",
   "picture_url": "https://media.licdn.com/dms/image/v2/C4E03AQGU8iH5gUcuMw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517230819540?e=2147483647&amp;v=beta&amp;t=MA05r7ktlR0b_8W6AK25B4VnUUhLk1BzslBuU7MQ3KE",
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "Aura Energy Limited",
+      "ticker": "AEE",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://auraenergy.com.au/",
+      "start_date": "2022-05-18",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -18,16 +30,6 @@
   "committees": [
     "Audit and Risk Committee"
   ],
-  "companies": [
-    {
-      "name": "Aura Energy Limited",
-      "ticker": "AEE",
-      "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
-      "start_date": "2022-05-18",
-      "end_date": null
-    }
-  ],
-  "picture_local": "Picture.jpg",
-  "enrichment_status": "success"
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

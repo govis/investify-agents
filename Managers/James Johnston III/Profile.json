@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Johnston has served as a member of our Board since September 2021. He was previously a member of the board of directors of Legacy BlackSky from 2015 to September 2021. Mr. Johnston is a retired partner of the law firm Sutherland Asbill & Brennan LLP.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "BlackSky Technology Inc.",
+      "ticker": "BKSY",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.blacksky.com",
+      "start_date": "2021-09-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "BlackSky Technology Inc.",
-      "ticker": "BKSY",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2021-09-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Mr. Jeannes is a mining industry veteran, formerly the President and CEO of Goldcorp Inc. from 2008 to 2016.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Orla Mining Ltd.",
+      "ticker": "OLA",
+      "exchange": "TSX",
+      "title_or_role": "Chairman and Independent Director",
+      "website": "https://www.orlamining.com",
+      "start_date": "2016-12-06",
+      "end_date": null
+    },
+    {
+      "name": "Wheaton Precious Metals Corp.",
+      "ticker": "WPM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.wheatonpm.com",
+      "start_date": "2016-11-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -15,22 +36,6 @@
     "Governance and Nominating Committee",
     "Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "Orla Mining Ltd.",
-      "ticker": "OLA",
-      "exchange": "TSX",
-      "title_or_role": "Chairman and Independent Director",
-      "start_date": "2016-12-06",
-      "end_date": null
-    },
-    {
-      "name": "Wheaton Precious Metals Corp.",
-      "ticker": "WPM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2016-11-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

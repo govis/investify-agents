@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Gerard J. DeMuro has served as a member of our Board since June 2021. Mr. DeMuro previously served as President and CEO of BAE Systems, Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Array Technologies, Inc.",
+      "ticker": "ARRY",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://arraytechinc.com",
+      "start_date": "2021-06-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Array Technologies, Inc.",
-      "ticker": "ARRY",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2021-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

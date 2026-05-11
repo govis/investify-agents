@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Executive Director for Investment and Special Projects at CYVN Holdings L.L.C. He has served as a director of Forseven Limited since 2023. Previously, he worked at Tikehau Capital and Evercore.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NIO Inc.",
+      "ticker": "NIO",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.nio.com",
+      "start_date": "2024-02-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "NIO Inc.",
-      "ticker": "NIO",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2024-02-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

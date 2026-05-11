@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Adelman has served as President of our Microwave Electronics Division since our acquisition of General Microwave Corporation in 2008.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Kratos Defense & Security Solutions, Inc.",
       "ticker": "KTOS",
       "exchange": "NASDAQ",
       "title_or_role": "President, Microwave Electronics Division",
+      "website": "https://www.kratosdefense.com",
       "start_date": "2008-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

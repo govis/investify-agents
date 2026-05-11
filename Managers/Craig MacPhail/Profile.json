@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Appointed Interim Chief Financial Officer in November 2023. He is a Managing Director at Shorecrest Group and has over 30 years of experience in capital markets and investor relations.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Li-Cycle Holdings Corp.",
       "ticker": "LICY",
       "exchange": "NYSE",
       "title_or_role": "Interim Chief Financial Officer",
+      "website": "https://li-cycle.com",
       "start_date": "2023-11-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

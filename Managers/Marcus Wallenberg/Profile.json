@@ -6,20 +6,14 @@
   "age_year": 2024,
   "background": "Chairman of the Board. Chairman of SEB and FAM. Board member of AstraZeneca and Investor AB.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense",
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Remuneration Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Saab AB",
       "ticker": "SAAB-B",
       "exchange": "STO",
       "title_or_role": "Chairman",
+      "website": "https://www.saab.com",
       "start_date": "2006-04-01",
       "end_date": null
     },
@@ -28,8 +22,19 @@
       "ticker": "SAAB",
       "exchange": "STO",
       "title_or_role": "Chairman",
+      "website": "https://www.saab.com",
       "start_date": "2006-04-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Remuneration Committee"
+  ],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

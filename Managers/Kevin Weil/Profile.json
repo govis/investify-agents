@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Weil has served as our President, Product and Business since May 2021. Prior to joining Planet, Mr. Weil served as Vice President of Product for Novi at Facebook from 2018 to 2021 and as Vice President of Product at Instagram from 2016 to 2018. Mr. Weil holds a B.A. in Mathematics and Physics from Rice University and an M.S. in Physics from Stanford University.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Planet Labs PBC",
       "ticker": "PL",
       "exchange": "NYSE",
       "title_or_role": "President, Product and Business",
+      "website": "https://www.planet.com",
       "start_date": "2021-05-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

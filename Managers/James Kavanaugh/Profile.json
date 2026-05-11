@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "James J. Kavanaugh is Senior Vice President and Chief Financial Officer, a position he has held since January 2018. He previously served as Senior Vice President, Transformation and Operations.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "International Business Machines Corporation",
       "ticker": "IBM",
       "exchange": "NYSE",
       "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "website": "https://www.ibm.com",
       "start_date": "2018-01-11",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Guru Gowrappan joined Viasat as President in April 2023. Prior to joining Viasat, he served as CEO of Verizon Media from 2018 to 2021 and held various leadership roles at Alibaba Group and Yahoo.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Viasat, Inc.",
       "ticker": "VSAT",
       "exchange": "NASDAQ",
       "title_or_role": "President",
+      "website": "https://www.viasat.com",
       "start_date": "2023-04-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

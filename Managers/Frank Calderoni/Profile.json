@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former Chairman and CEO of Anaplan, Inc. Director since 2012.",
   "picture_url": "https://wwwimages2.adobe.com/content/dam/acom/en/leaders/images/Calderoni-Frank_450x650.jpg",
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.adobe.com",
+      "start_date": "2012-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -18,16 +30,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "Adobe Inc.",
-      "ticker": "ADBE",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2012-05-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": "Picture.jpg",
-  "enrichment_status": "success"
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "K. Ram Shriram has been a director since 1998. He is the managing director of Sherpalo Ventures, an angel investment firm.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://abc.xyz",
+      "start_date": "1998-09-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Defense"
@@ -15,14 +27,6 @@
     "Leadership Development, Inclusion and Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Alphabet Inc.",
-      "ticker": "GOOGL",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "1998-09-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

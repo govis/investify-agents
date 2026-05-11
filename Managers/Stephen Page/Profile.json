@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Page has served as a director since 2013. He previously served as Vice Chairman and Chief Financial Officer of United Technologies Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "AeroVironment, Inc.",
+      "ticker": "AVAV",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.avinc.com",
+      "start_date": "2013-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "AeroVironment, Inc.",
-      "ticker": "AVAV",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2013-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

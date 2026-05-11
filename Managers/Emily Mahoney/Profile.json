@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Emily has over 20 years of experience in the mining and resources sector. She is currently the Chief Human Resources Officer at Endeavour Mining and has previously held senior HR roles at Rio Tinto.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Yellow Cake plc",
+      "ticker": "YCA",
+      "exchange": "LSE",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.yellowcakeplc.com",
+      "start_date": "2021-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -15,14 +27,6 @@
     "Nomination Committee",
     "Remuneration Committee"
   ],
-  "companies": [
-    {
-      "name": "Yellow Cake plc",
-      "ticker": "YCA",
-      "exchange": "LSE",
-      "title_or_role": "Independent Non-Executive Director",
-      "start_date": "2021-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

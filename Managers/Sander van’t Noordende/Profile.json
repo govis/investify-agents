@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Sander van\u2019t Noordende is the CEO of Randstad N.V. and former Group Chief Executive of the Products Operating Group at Accenture.",
   "picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQGhbQupUAghAA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1682002180839?e=2147483647&amp;v=beta&amp;t=w1ZJPfZdUW9HyVbYr7hA8HFP8FPNAGec0WNW07ayrv4",
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "AECOM",
+      "ticker": "ACM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://aecom.com",
+      "start_date": "2021-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -18,16 +30,6 @@
   "committees": [
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "AECOM",
-      "ticker": "ACM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-01-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": "Picture.jpg",
-  "enrichment_status": "success"
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

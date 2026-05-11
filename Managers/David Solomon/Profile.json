@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "David M. Solomon is Chairman and Chief Executive Officer of The Goldman Sachs Group, Inc. He previously served as President and Chief Operating Officer and as Co-Head of the Investment Banking Division.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "exchange": "NYSE",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "website": "https://www.goldmansachs.com",
+      "start_date": "2018-10-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "The Goldman Sachs Group, Inc.",
-      "ticker": "GS",
-      "exchange": "NYSE",
-      "title_or_role": "Chairman and Chief Executive Officer",
-      "start_date": "2018-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

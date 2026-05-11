@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Ms. Duffy has served as Executive Vice President, Human Resources since July 2017. She previously served as Vice President and Deputy General Counsel from 2011 to 2017.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Textron Inc.",
       "ticker": "TXT",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President, Human Resources",
+      "website": "https://www.textron.com",
       "start_date": "2017-07-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,18 @@
   "age_year": null,
   "background": "Mr Lloyd has over 30 years' experience in the mining and resources industry. He has held senior executive roles with Rio Tinto, including as Managing Director of Rio Tinto's uranium business. He is currently a non-executive director of several other ASX listed companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Elevate Uranium Limited",
+      "ticker": "EL8",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Chairman",
+      "website": "https://www.elevateuranium.com.au",
+      "start_date": "2018-11-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -14,14 +26,6 @@
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"
   ],
-  "companies": [
-    {
-      "name": "Elevate Uranium Limited",
-      "ticker": "EL8",
-      "exchange": "ASX",
-      "title_or_role": "Non-Executive Chairman",
-      "start_date": "2018-11-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

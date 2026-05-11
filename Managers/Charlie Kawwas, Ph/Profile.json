@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Dr. Kawwas has served as President, Semiconductor Solutions Group since July 2022. He previously served as Chief Operating Officer from December 2020 to July 2022 and as Senior Vice President, Sales from May 2014 to December 2020.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Broadcom Inc.",
       "ticker": "AVGO",
       "exchange": "NASDAQ",
       "title_or_role": "President, Semiconductor Solutions Group",
+      "website": "https://www.broadcom.com",
       "start_date": "2022-07-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

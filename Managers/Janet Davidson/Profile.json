@@ -6,6 +6,18 @@
   "age_year": 2023,
   "background": "Janet Davidson has been a member of the Supervisory Board since 2013. She was previously President of Alcatel-Lucent\u2019s Quality & Customer Care and held various executive positions at Lucent Technologies and Bell Laboratories.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "STMicroelectronics N.V.",
+      "ticker": "STM",
+      "exchange": "NYSE",
+      "title_or_role": "Member of the Supervisory Board",
+      "website": "https://www.st.com",
+      "start_date": "2013-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Remuneration Committee"
   ],
-  "companies": [
-    {
-      "name": "STMicroelectronics N.V.",
-      "ticker": "STM",
-      "exchange": "NYSE",
-      "title_or_role": "Member of the Supervisory Board",
-      "start_date": "2013-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

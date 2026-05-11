@@ -6,6 +6,29 @@
   "age_year": 2023,
   "background": "Ms. Utecht has served as a director since 2018. She was formerly Executive Vice President, General Counsel and Secretary of FMC Corporation from 2001 to 2018.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Livent Corporation",
+      "ticker": "LTHM",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.livent.com",
+      "start_date": "October 2018",
+      "end_date": "January 2024",
+      "validated": true
+    },
+    {
+      "name": "FMC Corporation",
+      "ticker": "FMC",
+      "exchange": "NYSE",
+      "website": "https://www.fmc.com",
+      "title_or_role": "EVP, General Counsel & Secretary",
+      "start_date": "January 1, 2011",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +37,5 @@
     "Nominating and Corporate Governance Committee",
     "Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "Livent Corporation",
-      "ticker": "LTHM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2018-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

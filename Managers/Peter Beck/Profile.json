@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Beck is the founder of Rocket Lab and has served as the President, Chief Executive Officer and Chairman of the Board of Directors since June 2013. Mr. Beck has also served as the Chief Engineer since January 2021. From 2013 to 2019, Mr. Beck also served as the Chief Financial Officer and Treasurer. Since founding the company in 2006, Mr. Beck has grown Rocket Lab into a global organization that develops and launches advanced rocket technology and space systems.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Rocket Lab USA, Inc.",
       "ticker": "RKLB",
       "exchange": "NASDAQ",
       "title_or_role": "President, Chief Executive Officer and Chairman of the Board, Chief Engineer",
+      "website": "https://www.rocketlabusa.com",
       "start_date": "2013-06-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

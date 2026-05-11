@@ -6,6 +6,78 @@
   "age_year": 2024,
   "background": "Mr. Morrison is a CPA with over 30 years of experience in the mining industry.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Energy Fuels Inc.",
+      "ticker": "UUUU",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.energyfuels.com",
+      "start_date": "2023-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Ascot Resources Ltd. (now Cambria Gold Mines Inc.)",
+      "ticker": "AOT",
+      "exchange": "TSX",
+      "website": "https://ascotgold.com/",
+      "title_or_role": "Non-Executive Chair of the Board",
+      "start_date": "2025-12",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nations Royalty Corp.",
+      "ticker": "NRYCF",
+      "exchange": "OTC",
+      "website": "https://nationsroyalty.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Venerable Ventures Ltd.",
+      "ticker": "VLV.H",
+      "exchange": "TSX Venture Exchange",
+      "website": "https://venerableventures.com/",
+      "title_or_role": "Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Deterra Royalties Ltd.",
+      "ticker": "DRR",
+      "exchange": "ASX",
+      "website": "https://www.deterraroyalties.com/",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Franco-Nevada Corporation",
+      "ticker": "FNV",
+      "exchange": "TSX/NYSE",
+      "website": "https://www.franco-nevada.com/",
+      "title_or_role": "Vice President and Chief Financial Officer",
+      "start_date": "2007",
+      "end_date": "2010",
+      "validated": true
+    },
+    {
+      "name": "Newmont Mining Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com/",
+      "title_or_role": "Vice President, Information Technology; Vice President, Operations Services; Group Executive, Operations Services; Group Executive, Internal Audit",
+      "start_date": "2002",
+      "end_date": "2007",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear",
     "Reshoring"
@@ -15,14 +87,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Energy Fuels Inc.",
-      "ticker": "UUUU",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2023-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former Chairman and CEO of Raytheon Company. Served as Raytheon CEO from 2004 to 2014.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "L3Harris Technologies, Inc.",
+      "ticker": "LHX",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.l3harris.com",
+      "start_date": "2019-06-29",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -14,14 +26,6 @@
     "Finance Committee",
     "Nominating and Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "L3Harris Technologies, Inc.",
-      "ticker": "LHX",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-06-29",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

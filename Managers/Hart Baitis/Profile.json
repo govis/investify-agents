@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Professional geologist with over 40 years of experience in mineral exploration and development.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "United States Antimony Corporation",
+      "ticker": "USAR",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.usantimony.com",
+      "start_date": "2021-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -15,14 +27,6 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "United States Antimony Corporation",
-      "ticker": "USAR",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

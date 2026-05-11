@@ -6,6 +6,47 @@
   "age_year": 2024,
   "background": "Mr. Gorsky is the former Chairman and CEO of Johnson & Johnson, where he served as Chairman and CEO from 2012 to 2021 and Executive Chairman in 2022.",
   "picture_url": "https://i0.wp.com/macdailynews.com/wp-content/uploads/2021/11/211110_gorsky.png?ssl=1",
+  "picture_local": "Picture.png",
+  "company_affiliations": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.apple.com",
+      "start_date": "2021-11-09",
+      "end_date": null
+    },
+    {
+      "name": "International Business Machines Corporation",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.ibm.com",
+      "start_date": "2021-09-01",
+      "end_date": null
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "website": "https://www.jpmorganchase.com",
+      "title_or_role": "Director (Member of the Board of Directors)",
+      "start_date": "July 19, 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Johnson & Johnson",
+      "ticker": "JNJ",
+      "exchange": "NYSE",
+      "website": "https://www.jnj.com",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "April 2012",
+      "end_date": "January 2022",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI",
     "Electrification"
@@ -19,24 +60,5 @@
   "committees": [
     "Audit and Finance Committee"
   ],
-  "picture_local": "Picture.png",
-  "enrichment_status": "success",
-  "companies": [
-    {
-      "name": "Apple Inc.",
-      "ticker": "AAPL",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-11-09",
-      "end_date": null
-    },
-    {
-      "name": "International Business Machines Corporation",
-      "ticker": "IBM",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2021-09-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

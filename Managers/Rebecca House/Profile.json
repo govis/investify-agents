@@ -6,20 +6,14 @@
   "age_year": 2024,
   "background": "Senior Vice President, Chief People and Legal Officer at Rockwell Automation.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Executive Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Marvell Technology, Inc.",
       "ticker": "MRVL",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
+      "website": "https://www.marvell.com",
       "start_date": "2022-04-01",
       "end_date": null
     },
@@ -28,8 +22,19 @@
       "ticker": "ROK",
       "exchange": "NYSE",
       "title_or_role": "Senior Vice President, Chief People and Legal Officer, and Secretary",
+      "website": "https://www.rockwellautomation.com",
       "start_date": "2017-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Executive Compensation Committee"
+  ],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

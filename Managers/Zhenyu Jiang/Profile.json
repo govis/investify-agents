@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Zhenyu Jiang has served as our independent director since January 2021. Mr. Jiang has served as the chief financial officer of Kebotix, Inc. since July 2021. Prior to that, he served as the chief financial officer of Cheetah Mobile Inc. (NYSE: CMCM) from 2017 to 2020.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Li Auto Inc.",
+      "ticker": "LI",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.lixiang.com",
+      "start_date": "2021-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -15,14 +27,6 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Li Auto Inc.",
-      "ticker": "LI",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

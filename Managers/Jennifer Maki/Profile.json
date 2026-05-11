@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former CEO of Vale Canada and Executive Director of Vale Base Metals.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Franco-Nevada Corporation",
+      "ticker": "FNV",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.franco-nevada.com",
+      "start_date": "2019-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Franco-Nevada Corporation",
-      "ticker": "FNV",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

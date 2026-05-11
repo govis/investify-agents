@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Joined Komatsu in 1983. Expert in marketing and mining equipment. Previously President of Mining Business Division.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Komatsu Ltd.",
       "ticker": "KMTUY",
       "exchange": "OTC",
       "title_or_role": "Executive Vice President, Representative Director",
+      "website": "https://www.komatsu.jp",
       "start_date": "2023-04-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

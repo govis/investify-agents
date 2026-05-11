@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Angel investor. Former Senior Vice President, Corporate Development at Cisco Systems.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Arista Networks, Inc.",
+      "ticker": "ANET",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.arista.com",
+      "start_date": "2011-10-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -14,14 +26,6 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Arista Networks, Inc.",
-      "ticker": "ANET",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2011-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

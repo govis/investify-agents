@@ -6,19 +6,33 @@
   "age_year": 2023,
   "background": "Adele Stratton was appointed Chief Financial Officer and Head of Development in September 2018. She joined Iluka in 2011 and has held various senior roles in finance and corporate development. She is a qualified Chartered Accountant and holds a Bachelor of Commerce from the University of Western Australia.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Iluka Resources Limited",
+      "ticker": "ILU",
+      "exchange": "ASX",
+      "title_or_role": "GM Finance, Investor Relations",
+      "website": "https://www.iluka.com",
+      "start_date": "July 2015",
+      "end_date": "August 2018",
+      "validated": true
+    },
+    {
+      "name": "Deterra Royalties Limited",
+      "ticker": "DRR",
+      "exchange": "ASX",
+      "website": "https://www.deterraroyalties.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "November 2020",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Iluka Resources Limited",
-      "ticker": "ILU",
-      "exchange": "ASX",
-      "title_or_role": "Chief Financial Officer and Head of Development",
-      "start_date": "2018-09-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

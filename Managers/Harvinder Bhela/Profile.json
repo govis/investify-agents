@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Harvinder S. Bhela has served as our Executive Vice President and Chief Product Officer since January 2022. Prior to joining NetApp, Mr. Bhela spent 24 years at Microsoft Corporation, where he most recently served as Corporate Vice President of the Microsoft 365 Security, Compliance and Management business.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "NetApp, Inc.",
       "ticker": "NTAP",
       "exchange": "NASDAQ",
       "title_or_role": "Executive Vice President and Chief Product Officer",
+      "website": "https://www.netapp.com",
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

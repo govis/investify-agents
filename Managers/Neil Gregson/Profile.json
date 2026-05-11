@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Mr. Gregson has over 30 years of experience in the investment management industry, specializing in the mining and energy sectors. He was previously a portfolio manager at J.P. Morgan Asset Management.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "UROY",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.uraniumroyalty.com",
+      "start_date": "2021-10-01",
+      "end_date": null
+    },
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "UROY",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.uraniumroyalty.com/",
+      "start_date": "2019-10-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -15,22 +36,6 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Uranium Royalty Corp.",
-      "ticker": "UROY",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-10-01",
-      "end_date": null
-    },
-    {
-      "name": "Uranium Royalty Corp.",
-      "ticker": "UROY",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

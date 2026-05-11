@@ -6,19 +6,23 @@
   "age_year": 2023,
   "background": "Mr. Ataya has over 30 years of experience in the management and development of private and public companies. He has served as the Executive Chairman and CEO of Western Magnesium since 2018.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Western Magnesium Corporation",
       "ticker": "WMG",
       "exchange": "TSX",
       "title_or_role": "Executive Chairman and Chief Executive Officer",
+      "website": "https://westernmagnesium.com",
       "start_date": "2018-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

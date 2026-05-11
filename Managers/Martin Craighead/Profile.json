@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Former Chairman and CEO of Baker Hughes Incorporated.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Emerson Electric Co.",
+      "ticker": "EMR",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.emerson.com",
+      "start_date": "2019-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Texas Instruments Incorporated",
+      "ticker": "TXN",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.ti.com",
+      "start_date": "2016-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -16,22 +37,6 @@
     "Compensation Committee",
     "Governance and Stockholder Relations Committee"
   ],
-  "companies": [
-    {
-      "name": "Emerson Electric Co.",
-      "ticker": "EMR",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-01-01",
-      "end_date": null
-    },
-    {
-      "name": "Texas Instruments Incorporated",
-      "ticker": "TXN",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2016-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

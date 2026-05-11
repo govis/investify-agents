@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Perkins is a professional geologist with over 25 years of experience in mineral exploration, including 10 years with Cameco Corporation.",
   "picture_url": "https://cdn.theorg.com/5b1ab4cc-9c8c-4010-aa74-4ca3bb1cb59a_thumb.jpg",
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "Azincourt Energy Corp.",
+      "ticker": "AAZ",
+      "exchange": "TSX",
+      "title_or_role": "Vice President, Exploration",
+      "website": "https://azincourtenergy.com",
+      "start_date": "2021-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -16,16 +28,6 @@
     }
   ],
   "committees": [],
-  "companies": [
-    {
-      "name": "Azincourt Energy Corp.",
-      "ticker": "AAZ",
-      "exchange": "TSX",
-      "title_or_role": "Vice President, Exploration",
-      "start_date": "2021-05-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": "Picture.jpg",
-  "enrichment_status": "success"
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

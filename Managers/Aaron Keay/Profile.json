@@ -6,19 +6,173 @@
   "age_year": 2024,
   "background": "Mr. Keay is an experienced entrepreneur and capital markets professional. He has served as a director and officer of several public companies in the resource and technology sectors.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Fission Uranium Corp.",
       "ticker": "FCU",
       "exchange": "TSX",
-      "title_or_role": "Chief Operating Officer",
-      "start_date": "2023-05-01",
-      "end_date": null
+      "title_or_role": "Chairman (2023\u2013Present), Director (2020\u2013Present)",
+      "website": "https://fissionuranium.com/",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "PharmaCielo Ltd.",
+      "ticker": "PCLO",
+      "exchange": "TSXV",
+      "website": "https://www.pharmacielo.com/",
+      "title_or_role": "President, Chief Executive Officer & Director",
+      "start_date": "2024-01-15",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Omai Gold Mines Corp.",
+      "ticker": "OMG",
+      "exchange": "TSXV",
+      "website": "https://www.omaigoldmines.com/",
+      "title_or_role": "Director",
+      "start_date": "2020-10",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Empress Royalty Corp.",
+      "ticker": "EMPR",
+      "exchange": "TSXV",
+      "website": "https://empressroyalty.com/",
+      "title_or_role": "Director",
+      "start_date": "2020-07",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bettermoo(d) Food Corp.",
+      "ticker": "MOOO",
+      "exchange": "CSE",
+      "website": "https://bettermoo.com/",
+      "title_or_role": "Director",
+      "start_date": "2021-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Alkaline Water Co., Inc.",
+      "ticker": "WTER",
+      "exchange": "NASDAQ / OTC",
+      "website": "https://thealkalinewaterco.com/",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "East West Petroleum Corp.",
+      "ticker": "EW",
+      "exchange": "TSXV",
+      "website": "https://eastwestpetroleum.ca/",
+      "title_or_role": "President, Chief Executive Officer & Director",
+      "start_date": "2017",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "OrganiGram Holdings, Inc.",
+      "ticker": "OGI",
+      "exchange": "TSX / NASDAQ",
+      "website": "https://www.organigram.ca/",
+      "title_or_role": "President, Chief Executive Officer & Director",
+      "start_date": "2014",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "TSX / NYSE",
+      "website": "https://www.nexgenenergy.ca/",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "IDM Mining Ltd.",
+      "ticker": "IDM",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Altan Rio Minerals Ltd.",
+      "ticker": "AMO",
+      "exchange": "TSXV",
+      "website": "https://www.altanrio.com/",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Prodigy Gold NL",
+      "ticker": "PRX",
+      "exchange": "ASX",
+      "website": "https://www.prodigygold.com.au/",
+      "title_or_role": "President, Chief Executive Officer & Director",
+      "start_date": "2010",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Inform Exploration Corp.",
+      "ticker": "IX",
+      "exchange": "CSE",
+      "website": null,
+      "title_or_role": "Chairman",
+      "start_date": "2011",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "1235061 B.C. Ltd.",
+      "ticker": "BCCC",
+      "exchange": "CSE",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "UNX Energy Corp.",
+      "ticker": "UNX",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Founder",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Winchester Minerals & Gold Exploration Ltd.",
+      "ticker": "WMG",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "President, CEO & Director",
+      "start_date": "2011",
+      "end_date": "2015",
+      "validated": true
     }
   ],
-  "enrichment_status": "not_found"
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Morley-Jepson has over 40 years of experience in the mining industry, including senior roles at Kinross Gold and Gold Fields Limited.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Wesdome Gold Mines Ltd.",
+      "ticker": "WDO",
+      "exchange": "TSX",
+      "title_or_role": "Chair of the Board",
+      "website": "https://www.wesdome.com",
+      "start_date": "2019-06-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Governance and Nominating Committee",
     "Technical Committee"
   ],
-  "companies": [
-    {
-      "name": "Wesdome Gold Mines Ltd.",
-      "ticker": "WDO",
-      "exchange": "TSX",
-      "title_or_role": "Chair of the Board",
-      "start_date": "2019-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

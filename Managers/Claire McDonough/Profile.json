@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Ms. McDonough has served as our Chief Financial Officer since January 2021. Prior to joining Rivian, Ms. McDonough was a Managing Director at J.P. Morgan, where she held various leadership roles in the Investment Bank from 2014 to 2021. She holds a B.A. in Public Policy and Economics from Duke University and an M.B.A. from the University of Chicago Booth School of Business.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Rivian Automotive, Inc.",
       "ticker": "RIVN",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://rivian.com",
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

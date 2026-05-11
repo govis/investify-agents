@@ -6,6 +6,49 @@
   "age_year": 2024,
   "background": "Mr. Brown has served as a member of our Board since 2015. He previously served as CEO of SandVideo and held executive positions at Zoran Corporation and Cadence Design Systems.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Pure Storage, Inc.",
+      "ticker": "PSTG",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "www.purestorage.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "\u00d8rsted A/S",
+      "ticker": "ORSTED",
+      "exchange": "NASDAQ Copenhagen",
+      "website": "orsted.com",
+      "title_or_role": "Board Member",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Galp Energia, SGPS, S.A.",
+      "ticker": "GALP",
+      "exchange": "Euronext Lisbon",
+      "website": "www.galp.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2021",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Shell plc",
+      "ticker": "SHELL",
+      "exchange": "LSE",
+      "website": "www.shell.com",
+      "title_or_role": "Upstream Director",
+      "start_date": "2012",
+      "end_date": "2019",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -13,14 +56,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "Pure Storage, Inc.",
-      "ticker": "PSTG",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2015",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

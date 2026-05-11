@@ -6,6 +6,18 @@
   "age_year": 2023,
   "background": "Sara Watts is an experienced director and executive with a strong background in finance, technology, and governance. She has held senior roles at IBM and has served on several boards in the education and health sectors.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Syrah Resources Limited",
+      "ticker": "SYR",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://www.syrahresources.com.au",
+      "start_date": "2019-06-03",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +26,6 @@
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"
   ],
-  "companies": [
-    {
-      "name": "Syrah Resources Limited",
-      "ticker": "SYR",
-      "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
-      "start_date": "2019-06-03",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

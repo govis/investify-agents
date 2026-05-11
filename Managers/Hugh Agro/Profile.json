@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Agro is a mining executive with over 30 years of experience in the mining industry. He was previously Executive Vice President, Strategic Development with Kinross Gold Corporation. Prior to Kinross, Mr. Agro was a mining investment banker with Deutsche Bank and a management consultant with Placer Dome. He is a Director of Fortitude Gold Corp. and a former Director of Victoria Gold Corp.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Revival Gold Inc.",
       "ticker": "RVG",
       "exchange": "TSX",
       "title_or_role": "President, Chief Executive Officer and Director",
+      "website": "https://revival-gold.com",
       "start_date": "2017-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

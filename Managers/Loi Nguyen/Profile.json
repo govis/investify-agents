@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Dr. Nguyen has served as our Executive Vice President, Optical and Copper Connectivity Group since April 2021. He co-founded Inphi Corporation and served as its Senior Vice President, Optical Interconnect from 2000 until its acquisition by Marvell in 2021.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Marvell Technology, Inc.",
       "ticker": "MRVL",
       "exchange": "NASDAQ",
       "title_or_role": "Executive Vice President, Optical and Copper Connectivity Group",
+      "website": "https://www.marvell.com",
       "start_date": "2021-04-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

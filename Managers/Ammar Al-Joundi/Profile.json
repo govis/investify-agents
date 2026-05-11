@@ -6,6 +6,39 @@
   "age_year": 2024,
   "background": "Mr. Al-Joundi was appointed President and Chief Executive Officer of Agnico Eagle in February 2022. He previously served as President from 2015 to 2022 and as Chief Financial Officer from 2010 to 2012 and 2015. He has over 20 years of experience in finance and business strategy in the mining industry.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Agnico Eagle Mines Limited",
+      "ticker": "AEM",
+      "exchange": "TSX, NYSE",
+      "title_or_role": "President and Chief Executive Officer",
+      "website": "https://www.agnicoeagle.com",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "GOLD",
+      "exchange": "NYSE, TSX",
+      "website": "https://www.barrick.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2004",
+      "end_date": "2015-02-18",
+      "validated": true
+    },
+    {
+      "name": "Canadian Imperial Bank of Commerce (CIBC)",
+      "ticker": "CM",
+      "exchange": "TSX, NYSE",
+      "website": "https://www.cibc.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -17,18 +50,5 @@
     }
   ],
   "committees": [],
-  "companies": [
-    {
-      "name": "Agnico Eagle Mines Limited",
-      "ticker": "AEM",
-      "exchange": "NYSE",
-      "title_or_role": "President and Chief Executive Officer",
-      "start_date": "2022-02-23",
-      "end_date": null
-    }
-  ],
-  "picture_local": null,
-  "enrichment_status": "success",
-  "picture_download_count": 14,
-  "has_picture": "false"
+  "enrichment_company_affiliations": "success"
 }

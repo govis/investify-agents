@@ -6,6 +6,18 @@
   "age_year": 2023,
   "background": "Dr. Brondeau has served as Chairman of the Board of Livent since 2018. He is the former CEO and Chairman of FMC Corporation. He also serves on the board of TE Connectivity Ltd.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Livent Corporation",
+      "ticker": "LTHM",
+      "exchange": "NYSE",
+      "title_or_role": "Chairman of the Board",
+      "website": "https://www.livent.com",
+      "start_date": "2018-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Compensation and Organization Committee"
   ],
-  "companies": [
-    {
-      "name": "Livent Corporation",
-      "ticker": "LTHM",
-      "exchange": "NYSE",
-      "title_or_role": "Chairman of the Board",
-      "start_date": "2018-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

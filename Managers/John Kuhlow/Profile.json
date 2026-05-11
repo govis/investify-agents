@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "John Kuhlow was appointed Executive Vice President and Chief Financial Officer in 2020. He previously served as Senior Vice President of Finance, Controller, and Chief Accounting Officer since 2006.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "J.B. Hunt Transport Services, Inc.",
       "ticker": "JBHT",
       "exchange": "NASDAQ",
       "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "website": "https://www.jbhunt.com",
       "start_date": "2020-11-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

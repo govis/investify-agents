@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Charter is a professional director with extensive experience in the mining industry and capital markets. He has served on numerous public company boards.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.lundinmining.com",
+      "start_date": "2015-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Lundin Mining Corporation",
-      "ticker": "LUN",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2015-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

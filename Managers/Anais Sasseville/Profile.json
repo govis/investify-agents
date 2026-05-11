@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Ms. Sasseville has over 10 years of experience in corporate communications and investor relations within the mining sector. She previously worked with Ely Gold Royalties and Gold Royalty Corp.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Dryden Gold Corp.",
+      "ticker": "DRY",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://drydengold.com/",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Dryden Gold Corp.",
-      "ticker": "DRY",
-      "exchange": "TSX",
-      "title_or_role": "Vice President, Corporate Communications",
-      "start_date": "2023-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

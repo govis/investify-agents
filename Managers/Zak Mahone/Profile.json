@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Mahone is a Managing Director at Geologic Resource Partners LLC.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lithium Americas Corp.",
+      "ticker": "LAC",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.lithiumamericas.com",
+      "start_date": "2023-10-04",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -14,14 +26,6 @@
   "committees": [
     "Governance and Nomination Committee"
   ],
-  "companies": [
-    {
-      "name": "Lithium Americas Corp.",
-      "ticker": "LAC",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2023-10-04",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

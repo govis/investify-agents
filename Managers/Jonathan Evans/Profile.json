@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Mr. Evans has more than 20 years of operations and general management experience across the chemical and manufacturing industries. He previously served as President and CEO of Lithium Americas Corp. (now Lithium Americas (Argentina) Corp.) and has held executive roles at FMC Corporation and Arysta LifeScience.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lithium Americas Corp.",
+      "ticker": "LAC",
+      "exchange": "NYSE",
+      "title_or_role": "Director, President and Chief Executive Officer",
+      "website": "https://www.lithiumamericas.com",
+      "start_date": "2023-10-04",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Lithium Americas Corp.",
-      "ticker": "LAC",
-      "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "start_date": "2023-10-04",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

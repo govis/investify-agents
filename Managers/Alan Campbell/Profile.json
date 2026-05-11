@@ -6,6 +6,39 @@
   "age_year": 2024,
   "background": "Alan Campbell has served as a director since 2015 and as Chairman of the Board since 2017. He was previously the Chief Financial Officer of Freescale Semiconductor from 2004 to 2014.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "ON Semiconductor Corporation",
+      "ticker": "ON",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director and Chair of the Board",
+      "website": "https://www.onsemi.com",
+      "start_date": "August 2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Dialog Semiconductor Plc",
+      "ticker": "DLGNF",
+      "exchange": "OTC",
+      "website": "https://www.dialog-semiconductor.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2014",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Freescale Semiconductor, Inc.",
+      "ticker": "FSL",
+      "exchange": "NYSE",
+      "website": "https://www.nxp.com",
+      "title_or_role": "Chief Financial Officer (CFO) & Senior Vice President",
+      "start_date": "May 2004",
+      "end_date": "June 2014",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +46,5 @@
   "committees": [
     "Executive Committee"
   ],
-  "companies": [
-    {
-      "name": "ON Semiconductor Corporation",
-      "ticker": "ON",
-      "exchange": "NASDAQ",
-      "title_or_role": "Chairman of the Board",
-      "start_date": "2015-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

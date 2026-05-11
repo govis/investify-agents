@@ -6,6 +6,27 @@
   "age_year": 2023,
   "background": "Dame Angela Strank joined the Board in 2020. She was previously Chief Scientist and Head of Downstream Technology at BP.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Rolls-Royce Holdings plc",
+      "ticker": "RR",
+      "exchange": ".LSE",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://www.rolls-royce.com",
+      "start_date": "2020-05-01",
+      "end_date": null
+    },
+    {
+      "name": "Rolls-Royce Holdings plc",
+      "ticker": "RR",
+      "exchange": "LSE",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.rolls-royce.com",
+      "start_date": "2020-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense",
     "Electrification",
@@ -19,22 +40,6 @@
     "Safety, Ethics & Sustainability Committee (Chair)",
     "Science & Technology Committee"
   ],
-  "companies": [
-    {
-      "name": "Rolls-Royce Holdings plc",
-      "ticker": "RR",
-      "exchange": ".LSE",
-      "title_or_role": "Non-Executive Director",
-      "start_date": "2020-05-01",
-      "end_date": null
-    },
-    {
-      "name": "Rolls-Royce Holdings plc",
-      "ticker": "RR",
-      "exchange": "LSE",
-      "title_or_role": "Independent Non-Executive Director",
-      "start_date": "2020-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

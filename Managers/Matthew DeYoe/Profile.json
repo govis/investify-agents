@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Former equity research analyst covering the chemicals and lithium sectors.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Sigma Lithium Corporation",
       "ticker": "SGML",
       "exchange": "NASDAQ",
       "title_or_role": "Executive Vice President, Corporate Strategy and Investor Relations",
+      "website": "https://www.sigmalithiumresources.com",
       "start_date": "2024-05-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

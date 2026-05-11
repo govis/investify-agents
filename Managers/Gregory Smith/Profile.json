@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Gregory D. Smith has been a director since 2021. He was previously CFO and Executive Vice President of Enterprise Operations at The Boeing Company.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.intel.com",
+      "start_date": "2021-03-01",
+      "end_date": null
+    },
+    {
+      "name": "Teradyne, Inc.",
+      "ticker": "TER",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director, President and Chief Executive Officer",
+      "website": "https://www.teradyne.com",
+      "start_date": "2023-02-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Defense",
@@ -16,22 +37,6 @@
   "committees": [
     "Audit & Finance Committee"
   ],
-  "companies": [
-    {
-      "name": "Intel Corporation",
-      "ticker": "INTC",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-03-01",
-      "end_date": null
-    },
-    {
-      "name": "Teradyne, Inc.",
-      "ticker": "TER",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "start_date": "2023-02-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

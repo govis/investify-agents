@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former Chairman and CEO of Novellus Systems. Former Chairman of Marvell (2016-2021).",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Marvell Technology, Inc.",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.marvell.com",
+      "start_date": "2016-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Executive Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Marvell Technology, Inc.",
-      "ticker": "MRVL",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2016-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

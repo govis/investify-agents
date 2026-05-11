@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Niels Anderskouv is the Chief Business Officer. He joined GF in 2023. Previously, he spent several years at Texas Instruments in various senior leadership roles, including Senior Vice President of Analog Power Products.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "GlobalFoundries Inc.",
       "ticker": "GFS",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Business Officer",
+      "website": "https://gf.com",
       "start_date": "2023-09-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

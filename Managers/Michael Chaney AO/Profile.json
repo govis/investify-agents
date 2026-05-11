@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr Chaney is currently Chairman of Wesfarmers Limited and was previously Chairman of Woodside Petroleum and National Australia Bank. He was Managing Director of Wesfarmers from 1992 to 2005.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Northern Star Resources Limited",
+      "ticker": "NST",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Chairman",
+      "website": "https://www.nsrltd.com",
+      "start_date": "2021-07-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Nomination Committee (Chair)"
   ],
-  "companies": [
-    {
-      "name": "Northern Star Resources Limited",
-      "ticker": "NST",
-      "exchange": "ASX",
-      "title_or_role": "Non-Executive Chairman",
-      "start_date": "2021-07-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

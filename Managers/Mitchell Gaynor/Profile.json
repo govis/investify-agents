@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Gaynor has served as our Chief Administration Officer since January 2023. He previously served as our Chief Legal Officer and Secretary from 2016 to 2023. Prior to Marvell, he was Executive Vice President and General Counsel at Juniper Networks.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Marvell Technology, Inc.",
       "ticker": "MRVL",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Administration Officer",
+      "website": "https://www.marvell.com",
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

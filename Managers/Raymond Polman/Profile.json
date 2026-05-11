@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Polman is a CPA with over 30 years of public accounting and corporate finance experience. He was previously the CFO of First Majestic Silver Corp.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "First Mining Gold Corp.",
+      "ticker": "FF",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://firstmininggold.com",
+      "start_date": "2015-03-30",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
@@ -15,14 +27,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "First Mining Gold Corp.",
-      "ticker": "FF",
-      "exchange": "TSX",
-      "title_or_role": "Director",
-      "start_date": "2015-03-30",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

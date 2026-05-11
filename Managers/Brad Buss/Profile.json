@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Former CFO of SolarCity and Cypress Semiconductor. Director at Tesla and Advance Auto Parts.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Marvell Technology, Inc.",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.marvell.com",
+      "start_date": "2016-05-01",
+      "end_date": null
+    },
+    {
+      "name": "QuantumScape Corporation",
+      "ticker": "QS",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.quantumscape.com",
+      "start_date": "2020-11-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Electrification"
@@ -16,22 +37,6 @@
     "Executive Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Marvell Technology, Inc.",
-      "ticker": "MRVL",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2016-05-01",
-      "end_date": null
-    },
-    {
-      "name": "QuantumScape Corporation",
-      "ticker": "QS",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-11-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

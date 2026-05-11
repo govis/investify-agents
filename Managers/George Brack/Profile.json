@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Brack has over 30 years of experience in the mining investment banking and corporate development sectors. He was previously the Managing Director and Industry Head, Mining at BMO Nesbitt Burns.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Wheaton Precious Metals Corp.",
+      "ticker": "WPM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Chair",
+      "website": "https://www.wheatonpm.com",
+      "start_date": "2009-11-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Wheaton Precious Metals Corp.",
-      "ticker": "WPM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Chair",
-      "start_date": "2009-11-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Boisjoli has over 15 years of experience in the uranium industry. He previously served as Vice President, Operations and Project Development for NexGen Energy Ltd., where he led the development of the Rook I Project. He also held various roles at Cameco Corporation, including positions at the McArthur River and Key Lake operations.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Atha Energy Corp.",
       "ticker": "SASK",
       "exchange": "TSX",
       "title_or_role": "Chief Executive Officer, Director",
+      "website": "https://www.athaenergy.com",
       "start_date": "2023-03-24",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Dr. Su is AMD\u2019s Chair, President and Chief Executive Officer. She has been AMD\u2019s President and Chief Executive Officer since October 2014 and Chair of the Board since May 2022. Previously, she served as Senior Vice President and General Manager, Global Business Units from 2012 to 2014. Prior to joining AMD, Dr. Su served as Senior Vice President and General Manager, Networking and Multimedia at Freescale Semiconductor, Inc. and spent 13 years at IBM in various engineering and business leadership positions.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Advanced Micro Devices, Inc.",
       "ticker": "AMD",
       "exchange": "NASDAQ",
       "title_or_role": "Chair, Director, President and Chief Executive Officer",
+      "website": "https://www.amd.com",
       "start_date": "2014-10-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

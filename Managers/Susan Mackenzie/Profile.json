@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. Mackenzie is a professional engineer with over 30 years of experience in the energy sector, including senior roles at Petro-Canada.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "enCore Energy Corp.",
+      "ticker": "EU",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://encoreuranium.com",
+      "start_date": "2022-09-15",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -15,14 +27,6 @@
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "enCore Energy Corp.",
-      "ticker": "EU",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-09-15",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

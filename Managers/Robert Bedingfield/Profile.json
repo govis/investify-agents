@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former Senior Partner at Ernst & Young LLP. He has extensive experience in financial reporting, audit, and risk management for major corporations.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Science Applications International Corporation",
+      "ticker": "SAIC",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.saic.com",
+      "start_date": "2013-09-27",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Audit Committee (Chair)"
   ],
-  "companies": [
-    {
-      "name": "Science Applications International Corporation",
-      "ticker": "SAIC",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2013-09-27",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

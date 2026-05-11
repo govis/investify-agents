@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Neil P. Manning has served as our Chief Operations Officer since January 2023. Prior to joining Array, Mr. Manning served as President of the Industrial Products Division at AMETEK, Inc. from 2017 to 2022. He also held various leadership roles at IDEX Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Array Technologies, Inc.",
       "ticker": "ARRY",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Operations Officer",
+      "website": "https://arraytechinc.com",
       "start_date": "2023-01-23",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

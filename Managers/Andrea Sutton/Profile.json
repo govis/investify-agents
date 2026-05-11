@@ -6,6 +6,28 @@
   "age_year": 2023,
   "background": "Andrea Sutton was appointed to the Board in June 2021. She has over 25 years\u2019 experience with Rio Tinto and Energy Resources of Australia, including roles in operations, strategy and corporate affairs.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Iluka Resources Limited",
+      "ticker": "ILU",
+      "exchange": "ASX",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.iluka.com",
+      "start_date": "2021-06-01",
+      "end_date": null
+    },
+    {
+      "name": "Energy Resources of Australia Ltd",
+      "ticker": "ERA",
+      "exchange": "ASX",
+      "website": "https://www.energyres.com.au/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2018",
+      "end_date": "2020",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +36,5 @@
     "People and Performance Committee (Chair)",
     "Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "Iluka Resources Limited",
-      "ticker": "ILU",
-      "exchange": "ASX",
-      "title_or_role": "Independent Non-Executive Director",
-      "start_date": "2021-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

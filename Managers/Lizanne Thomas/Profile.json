@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former Partner-in-Charge of the Southern U.S. Region of the law firm Jones Day.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "The Southern Company",
+      "ticker": "SO",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.southerncompany.com",
+      "start_date": "2023-03-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -14,14 +26,6 @@
     "Compensation and Management Succession",
     "Governance"
   ],
-  "companies": [
-    {
-      "name": "The Southern Company",
-      "ticker": "SO",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2023-03-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

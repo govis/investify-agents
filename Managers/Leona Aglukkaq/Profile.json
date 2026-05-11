@@ -6,20 +6,14 @@
   "age_year": 2024,
   "background": "Ms. Aglukkaq is a former Canadian politician who served as a Member of Parliament and held several cabinet positions, including Minister of Health and Minister of the Environment.",
   "picture_url": "https://nunatsiaq.com/wp-content/uploads/2021/03/Leona_Aqlukkaq-1229x1536.png",
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Corporate Governance and Nominating Committee (Chair)",
-    "Health, Safety, Environment and Sustainable Development Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Agnico Eagle Mines Limited",
       "ticker": "AEM",
       "exchange": "NYSE",
       "title_or_role": "Director",
+      "website": "https://www.agnicoeagle.com",
       "start_date": "2022-02-08",
       "end_date": null
     },
@@ -28,10 +22,19 @@
       "ticker": "VGCX",
       "exchange": "TSX",
       "title_or_role": "Independent Director",
+      "website": "https://vgcx.com",
       "start_date": "2020-01-01",
       "end_date": null
     }
   ],
-  "picture_local": null,
-  "enrichment_status": "success"
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee (Chair)",
+    "Health, Safety, Environment and Sustainable Development Committee"
+  ],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "President and Chief Executive Officer of CSX since September 2022. Previously served as President, Automotive at Ford Motor Company from 2019 to 2020.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "CSX Corporation",
       "ticker": "CSX",
       "exchange": "NASDAQ",
       "title_or_role": "Director, President and Chief Executive Officer",
+      "website": "https://www.csx.com",
       "start_date": "2022-09-26",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

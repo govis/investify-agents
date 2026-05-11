@@ -6,19 +6,33 @@
   "age_year": 2024,
   "background": "Mr. Patel has over 10 years of experience in corporate finance and accounting. He has served as a director and officer of several public companies in the resource and technology sectors.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Atha Energy Corp.",
+      "ticker": "SASK",
+      "exchange": "CSE",
+      "title_or_role": "Chief Financial Officer (CFO)",
+      "website": "https://athaenergy.com/",
+      "start_date": null,
+      "end_date": "2024-11-06",
+      "validated": true
+    },
+    {
+      "name": "Buffalo Potash Corp.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://www.buffalopotash.ca/",
+      "title_or_role": "Chief Financial Officer (CFO)",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Atha Energy Corp.",
-      "ticker": "SASK",
-      "exchange": "TSX",
-      "title_or_role": "Chief Financial Officer",
-      "start_date": "2023-01-12",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

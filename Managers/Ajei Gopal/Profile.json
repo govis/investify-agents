@@ -6,6 +6,68 @@
   "age_year": 2024,
   "background": "Ajei Gopal is the President and CEO of ANSYS, Inc. and serves as an independent member of the SAP Supervisory Board.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "SAP SE",
+      "ticker": "SAP",
+      "exchange": "NYSE",
+      "title_or_role": "Member of the Supervisory Board",
+      "website": "https://www.sap.com",
+      "start_date": "2018-05-17",
+      "end_date": null
+    },
+    {
+      "name": "ANSYS, Inc.",
+      "ticker": "ANSS",
+      "exchange": "NASDAQ",
+      "website": "https://www.ansys.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2017",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Fiserv, Inc.",
+      "ticker": "FI",
+      "exchange": "NYSE",
+      "website": "https://www.fiserv.com",
+      "title_or_role": "Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Procore Technologies, Inc.",
+      "ticker": "PCOR",
+      "exchange": "NYSE",
+      "website": "https://www.procore.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Citrix Systems, Inc.",
+      "ticker": "CTXS (Delisted)",
+      "exchange": "NASDAQ",
+      "website": "https://www.citrix.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Synopsys, Inc.",
+      "ticker": "SNPS",
+      "exchange": "NASDAQ",
+      "website": "https://www.synopsys.com",
+      "title_or_role": "Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI",
     "Defense"
@@ -14,14 +76,5 @@
   "committees": [
     "Technology Committee"
   ],
-  "companies": [
-    {
-      "name": "SAP SE",
-      "ticker": "SAP",
-      "exchange": "NYSE",
-      "title_or_role": "Member of the Supervisory Board",
-      "start_date": "2018-05-17",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Higginson has over 40 years of experience in the mining industry, specializing in exploration and project management. He has held senior positions with several junior mining companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Cabral Gold Inc.",
+      "ticker": "CBR",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://cabralgold.com",
+      "start_date": "2017-10-30",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Cabral Gold Inc.",
-      "ticker": "CBR",
-      "exchange": "TSX",
-      "title_or_role": "Director",
-      "start_date": "2017-10-30",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

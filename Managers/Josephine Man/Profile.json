@@ -6,17 +6,14 @@
   "age_year": 2024,
   "background": "Ms. Man has over 20 years of experience in finance and accounting. She has served as the Chief Financial Officer of several publicly traded companies in the mining and technology sectors.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Uranium Royalty Corp.",
       "ticker": "UROY",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.uraniumroyalty.com",
       "start_date": "2018-08-01",
       "end_date": null
     },
@@ -25,8 +22,16 @@
       "ticker": "UROY",
       "exchange": "TSX",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.uraniumroyalty.com/",
       "start_date": "2018-08-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

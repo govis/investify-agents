@@ -6,19 +6,23 @@
   "age_year": null,
   "background": "Mr. Long is a finance professional with experience in the mining sector, previously serving as CFO of Consolidated Uranium Inc.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "IsoEnergy Ltd.",
       "ticker": "ISO",
       "exchange": "TSX",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.isoenergy.ca",
       "start_date": "2023-12-05",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

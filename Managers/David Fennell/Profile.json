@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Fennell has been involved in the mining industry for over 35 years. He was the founder of Golden Star Resources Ltd. and has served on numerous boards of public mining companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "G Mining Ventures Corp.",
+      "ticker": "GMIN",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.gminingventures.com",
+      "start_date": "2020-11-25",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "G Mining Ventures Corp.",
-      "ticker": "GMIN",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-11-25",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

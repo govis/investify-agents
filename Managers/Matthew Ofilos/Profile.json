@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Ofilos has served as our Chief Financial Officer since July 2022. He joined Parsons in 2021 as Executive Vice President, Finance. Prior to joining Parsons, he held various leadership roles at Amazon Web Services and Lockheed Martin.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Parsons Corporation",
       "ticker": "PSN",
       "exchange": "NYSE",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.parsons.com",
       "start_date": "2022-07",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

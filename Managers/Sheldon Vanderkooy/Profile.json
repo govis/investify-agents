@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Sheldon Vanderkooy is the Chief Financial Officer of Triple Flag. Prior to this role, he served as the company's General Counsel. Before joining Triple Flag, he was Assistant General Counsel at First Quantum Minerals Ltd. and a partner at Blake, Cassels & Graydon LLP.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Triple Flag Precious Metals Corp.",
       "ticker": "TFPM",
       "exchange": "NYSE",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.tripleflagpm.com",
       "start_date": "2021-03-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

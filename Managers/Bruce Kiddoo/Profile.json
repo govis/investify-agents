@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Bruce E. Kiddoo has served as a director since 2020. He previously served as Chief Financial Officer of Maxim Integrated Products, Inc. from 2007 to 2019.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "ON Semiconductor Corporation",
+      "ticker": "ON",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.onsemi.com",
+      "start_date": "2020-10-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "ON Semiconductor Corporation",
-      "ticker": "ON",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

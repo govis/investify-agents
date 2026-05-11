@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Mr. Lines has over 20 years of experience in environmental management and permitting for mining projects. He previously worked at Fortune Minerals and De Beers.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "First Mining Gold Corp.",
+      "ticker": "FF",
+      "exchange": "TSX",
+      "title_or_role": "Vice President, Environment and Community Relations",
+      "website": "https://firstmininggold.com",
+      "start_date": "2021-08-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "First Mining Gold Corp.",
-      "ticker": "FF",
-      "exchange": "TSX",
-      "title_or_role": "Vice President, Environment and Community Relations",
-      "start_date": "2021-08-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

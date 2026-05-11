@@ -6,19 +6,53 @@
   "age_year": 2024,
   "background": "Ms. Schwetz has served as Senior Vice President and Chief Financial Officer since February 2020. Prior to joining Flowserve, she served as Executive Vice President and Chief Financial Officer of Peabody Energy Corporation from July 2015 to February 2020.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Flowserve Corporation",
       "ticker": "FLS",
       "exchange": "NYSE",
       "title_or_role": "Senior Vice President and Chief Financial Officer",
-      "start_date": "2020-02-01",
-      "end_date": null
+      "website": "https://www.flowserve.com",
+      "start_date": "February 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Xerox Holdings Corporation",
+      "ticker": "XRX",
+      "exchange": "NASDAQ",
+      "website": "https://www.xerox.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "May 22, 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Peabody Energy Corporation",
+      "ticker": "BTU",
+      "exchange": "NYSE",
+      "website": "https://www.peabodyenergy.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "July 1, 2015",
+      "end_date": "January 2020",
+      "validated": true
+    },
+    {
+      "name": "Dril-Quip, Inc.",
+      "ticker": "DRQ",
+      "exchange": "NYSE",
+      "website": "https://www.dril-quip.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "September 2019",
+      "end_date": "May 2024",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

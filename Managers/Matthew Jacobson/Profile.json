@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "General Partner at ICONIQ Capital.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Datadog, Inc.",
+      "ticker": "DDOG",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.datadoghq.com",
+      "start_date": "2019-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Datadog, Inc.",
-      "ticker": "DDOG",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2019-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Strategic Advisor at Fasken Martineau DuMoulin LLP.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "AtkinsR\u00e9alis Group Inc.",
+      "ticker": "ATRL",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://www.atkinsrealis.com",
+      "start_date": "2022-11-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -14,14 +26,6 @@
     "Governance, Ethics and Sustainability Committee",
     "Human Resources Committee"
   ],
-  "companies": [
-    {
-      "name": "AtkinsR\u00e9alis Group Inc.",
-      "ticker": "ATRL",
-      "exchange": "TSX",
-      "title_or_role": "Director",
-      "start_date": "2022-11-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

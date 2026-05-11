@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Barak has served as our Chief Product Officer since 2021. Prior to joining SolarEdge, he held various senior management positions at HP Indigo.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "SolarEdge Technologies, Inc.",
       "ticker": "SEDG",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Product Officer",
+      "website": "https://www.solaredge.com",
       "start_date": "2021-06-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

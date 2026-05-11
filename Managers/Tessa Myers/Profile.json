@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Tessa M. Myers is Senior Vice President, Intelligent Devices. She has held various leadership roles in sales and product management during her tenure at Rockwell.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Rockwell Automation, Inc.",
       "ticker": "ROK",
       "exchange": "NYSE",
       "title_or_role": "Senior Vice President, Intelligent Devices",
+      "website": "https://www.rockwellautomation.com",
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

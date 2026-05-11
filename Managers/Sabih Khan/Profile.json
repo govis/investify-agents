@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Sabih Khan is Apple\u2019s senior vice president of Operations reporting to COO Jeff Williams. Sabih is responsible for Apple\u2019s entire worldwide supply chain, ensuring product quality and overseeing planning, procurement, manufacturing, logistics and product fulfillment functions.",
   "picture_url": "https://newsloading.com/wp-content/uploads/2025/07/Sabih-khan-blog.png",
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "exchange": "NASDAQ",
+      "title_or_role": "Senior Vice President, Operations",
+      "website": "https://www.apple.com",
+      "start_date": "2019-06-27",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -18,16 +30,6 @@
     }
   ],
   "committees": [],
-  "enrichment_status": "success",
-  "companies": [
-    {
-      "name": "Apple Inc.",
-      "ticker": "AAPL",
-      "exchange": "NASDAQ",
-      "title_or_role": "Senior Vice President, Operations",
-      "start_date": "2019-06-27",
-      "end_date": null
-    }
-  ],
-  "picture_local": null
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

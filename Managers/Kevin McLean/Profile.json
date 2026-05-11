@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. McLean has over 30 years of experience in the investment management industry. He was previously a Senior Managing Director at Sprucegrove Investment Management Ltd.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Karora Resources Inc.",
+      "ticker": "KRR",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.karoraresources.com",
+      "start_date": "2020-06-18",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Compensation Committee (Chair)",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Karora Resources Inc.",
-      "ticker": "KRR",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-06-18",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

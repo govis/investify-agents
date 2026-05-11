@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Ruel has over 20 years of experience in financial reporting and the mining industry. He has been with Osisko since its inception in 2014.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Osisko Gold Royalties Ltd",
       "ticker": "OR",
       "exchange": "NYSE",
       "title_or_role": "Chief Financial Officer and Vice President, Finance",
+      "website": "https://osiskogr.com",
       "start_date": "2020-06-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

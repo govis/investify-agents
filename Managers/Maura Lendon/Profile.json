@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. Lendon is a legal executive with over 30 years of experience. She was previously Chief General Counsel and Senior Vice President with Hudbay Minerals Inc. and held senior roles with Primero Mining Corp.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Revival Gold Inc.",
+      "ticker": "RVG",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://revival-gold.com",
+      "start_date": "2021-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Compensation, Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Revival Gold Inc.",
-      "ticker": "RVG",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

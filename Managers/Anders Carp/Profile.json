@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Deputy CEO and Head of Group Channels. Joined Saab in 2001. Previously Head of Business Area Surveillance.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Saab AB",
+      "ticker": "SAAB-B",
+      "exchange": "STO (Nasdaq Stockholm)",
+      "title_or_role": "Deputy CEO",
+      "website": "https://www.saab.com",
+      "start_date": "May 2020",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Saab AB",
-      "ticker": "SAAB-B",
-      "exchange": "STO",
-      "title_or_role": "Deputy CEO",
-      "start_date": "2020-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

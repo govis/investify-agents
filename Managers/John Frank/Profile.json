@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Vice Chairman of Oaktree Capital Group, LLC. Director since 2017.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.chevron.com",
+      "start_date": "2017-11-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Management Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Chevron Corporation",
-      "ticker": "CVX",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2017-11-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

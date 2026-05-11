@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Mr. Maher is an economic geologist with over 40 years of experience in the international mining industry. He has held senior positions with ASARCO and Hochschild Mining and was the President and CEO of Prodigy Gold Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lahontan Gold Corp.",
+      "ticker": "LG",
+      "exchange": "TSX",
+      "title_or_role": "Vice President, Exploration",
+      "website": "https://lahontangoldcorp.com/",
+      "start_date": "2022-04-06",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Lahontan Gold Corp.",
-      "ticker": "LG",
-      "exchange": "TSX",
-      "title_or_role": "Vice President, Exploration",
-      "start_date": "2022-04-06",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

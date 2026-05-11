@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mansi Khetani has served as our Interim Chief Financial Officer since November 2023. She joined ChargePoint in 2018 and previously served as Senior Vice President, Financial Planning and Analysis. Prior to ChargePoint, she held various financial leadership roles at companies including Polycom and Micron Technology.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "ChargePoint Holdings, Inc.",
       "ticker": "CHPT",
       "exchange": "NYSE",
       "title_or_role": "Interim Chief Financial Officer",
+      "website": "https://www.chargepoint.com",
       "start_date": "2023-11-16",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

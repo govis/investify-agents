@@ -2,8 +2,8 @@ import os
 import asyncio
 import json
 from crewai import Crew, Process
-from crew.agents import CompanyAgents
-from crew.tasks import CompanyTasks
+from crew.agents import CompanyAgents, ManagerAgents
+from crew.tasks import CompanyTasks, ManagerTasks
 from tools.crew_tools import set_current_folder
 from dotenv import load_dotenv, find_dotenv
 
@@ -117,5 +117,115 @@ class CompanyCrew:
             
             os.makedirs(abs_folder, exist_ok=True)
             with open(os.path.join(abs_folder, "Management.log"), "w", encoding="utf-8") as f:
+                f.write(log_content)
+            raise e
+
+class ManagerCrew:
+    def __init__(self):
+        self.agents = ManagerAgents()
+        self.tasks = ManagerTasks()
+        self.exchange_filter = os.getenv("EXCHANGE_FILTER", "NYSE, NASDAQ, TSX, TSXV, CSE")
+
+    async def run(self, manager_profile: dict, folder_path: str):
+        # folder_path is the directory where Profile.json is located (e.g. ../Managers/Aaron Jagdfeld)
+        set_current_folder(folder_path)
+        
+        manager_name = manager_profile.get('name', 'Unknown')
+        current_affiliations = [c.get('name') for c in manager_profile.get('company_affiliations', [])]
+        
+        try:
+            supervisor = self.agents.supervisor_agent()
+            researcher = self.agents.ir_research_agent()
+            validator = self.agents.validation_agent()
+            
+            discovery_task = self.tasks.discovery_task(
+                agent=researcher,
+                manager_name=manager_name,
+                current_affiliations=current_affiliations,
+                exchange_filter=self.exchange_filter
+            )
+            
+            validation_task = self.tasks.validation_task(
+                agent=validator,
+                manager_name=manager_name
+            )
+            
+            crew = Crew(
+                agents=[supervisor, researcher, validator],
+                tasks=[discovery_task, validation_task],
+                process=Process.sequential,
+                verbose=True
+            )
+            
+            result = await crew.kickoff_async()
+            
+            enrichment_data = None
+            if hasattr(result, 'pydantic') and result.pydantic:
+                enrichment_data = result.pydantic
+            else:
+                try:
+                    import re
+                    from schema import ManagerProfileEnrichment
+                    raw = result.raw
+                    if "```json" in raw:
+                        match = re.search(r'```json\s*(.*?)\s*```', raw, re.DOTALL)
+                        if match: raw = match.group(1)
+                    enrichment_data = ManagerProfileEnrichment.model_validate_json(raw)
+                except Exception as e:
+                    print(f"    [Error] Failed to parse manager enrichment result: {e}")
+                    raise e
+
+            # Update the manager profile with new affiliations
+            # We merge and deduplicate based on company name/ticker
+            new_affiliations = enrichment_data.company_affiliations
+            existing_affiliations = manager_profile.get('company_affiliations', [])
+            
+            for new_aff in new_affiliations:
+                # Convert Pydantic model to dict
+                new_aff_dict = new_aff.model_dump()
+                
+                # Check if already exists
+                exists = False
+                for existing in existing_affiliations:
+                    if existing['name'].lower() == new_aff_dict['name'].lower():
+                        exists = True
+                        # Update existing with new data if validated
+                        if new_aff_dict['validated']:
+                            existing.update(new_aff_dict)
+                        break
+                
+                if not exists:
+                    existing_affiliations.append(new_aff_dict)
+            
+            manager_profile['company_affiliations'] = existing_affiliations
+            manager_profile['enrichment_company_affiliations'] = 'success'
+            
+            # Remove legacy fields if they exist
+            manager_profile.pop('enrichment_status', None)
+            manager_profile.pop('enrichment_step', None)
+            
+            # Save updated profile
+            with open(os.path.join(folder_path, "Profile.json"), "w", encoding="utf-8") as f:
+                json.dump(manager_profile, f, indent=2)
+            
+            # Generate Enrichment.log
+            log_content = f"Manager Enrichment Log for {manager_name}\n"
+            log_content += "="*50 + "\n"
+            log_content += f"Status: Success\n"
+            log_content += f"Agent Result Summary:\n{result.raw[:2000]}...\n"
+            
+            with open(os.path.join(folder_path, "Enrichment.log"), "w", encoding="utf-8") as f:
+                f.write(log_content)
+
+            return manager_profile
+        
+        except Exception as e:
+            # Log the error
+            log_content = f"Manager Enrichment Log for {manager_name}\n"
+            log_content += "="*50 + "\n"
+            log_content += f"Status: Error\n"
+            log_content += f"Error Message: {str(e)}\n"
+            
+            with open(os.path.join(folder_path, "Enrichment.log"), "w", encoding="utf-8") as f:
                 f.write(log_content)
             raise e

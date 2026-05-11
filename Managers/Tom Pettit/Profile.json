@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Pettit has served as Chief Operations Officer since 2020. Prior to joining Generac, he held senior leadership roles at several global manufacturing companies.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Generac Holdings Inc.",
       "ticker": "GNRC",
       "exchange": "NYSE",
       "title_or_role": "Chief Operations Officer",
+      "website": "https://www.generac.com",
       "start_date": "2020-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

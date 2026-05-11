@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Grubbs has served as a director since 2018. He is a retired executive from the defense industry.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Kratos Defense & Security Solutions, Inc.",
+      "ticker": "KTOS",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.kratosdefense.com",
+      "start_date": "2018-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Compensation Committee (Chair)"
   ],
-  "companies": [
-    {
-      "name": "Kratos Defense & Security Solutions, Inc.",
-      "ticker": "KTOS",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2018-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

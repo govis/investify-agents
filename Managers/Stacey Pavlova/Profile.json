@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Ms. Pavlova is a finance professional with over 10 years of experience in investor relations and corporate communications. She was previously VP Investor Relations at New Pacific Metals and has held roles at SSR Mining.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Faraday Copper Corp.",
       "ticker": "FDY",
       "exchange": "TSX",
       "title_or_role": "Vice President, Investor Relations and Communications",
+      "website": "https://faradaycopper.com",
       "start_date": "2022-06-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

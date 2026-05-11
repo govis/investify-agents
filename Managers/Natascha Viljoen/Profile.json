@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Ms. Viljoen has served as Executive Vice President and Chief Operating Officer since October 2023. Previously, she was the CEO of Anglo American Platinum from 2020 to 2023.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Newmont Corporation",
       "ticker": "NEM",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and Chief Operating Officer",
+      "website": "https://www.newmont.com",
       "start_date": "2023-10-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

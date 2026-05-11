@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Dr. Feurer has served as a member of our Board since December 2021. He is a Senior Vice President at BMW Group, where he has held various leadership positions since 1998.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Solid Power, Inc.",
+      "ticker": "SLDP",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.solidpowerbattery.com",
+      "start_date": "2021-12-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Solid Power, Inc.",
-      "ticker": "SLDP",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2021-12-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

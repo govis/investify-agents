@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former Executive Vice President, Chief Marketing Officer, and Worldwide Government Affairs at Cisco Systems, Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "ServiceNow, Inc.",
+      "ticker": "NOW",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.servicenow.com",
+      "start_date": "2014-07-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -14,14 +26,6 @@
     "Leadership Development and Compensation Committee",
     "Nominating and Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "ServiceNow, Inc.",
-      "ticker": "NOW",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2014-07-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Partridge is a Professional Geoscientist with over 35 years of experience in mineral exploration and development.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Global Atomic Corporation",
       "ticker": "GLO",
       "exchange": "TSX",
       "title_or_role": "Vice President, Exploration",
+      "website": "https://globalatomiccorp.com",
       "start_date": "2017-12-22",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

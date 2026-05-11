@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Beth Whited is the President of Union Pacific. She has served in numerous executive roles including Executive Vice President - Sustainability and Strategy, and Chief Human Resources Officer.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Union Pacific Corporation",
       "ticker": "UNP",
       "exchange": "NYSE",
       "title_or_role": "President",
+      "website": "https://www.up.com",
       "start_date": "2023-08-14",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

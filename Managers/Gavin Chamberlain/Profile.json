@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Gavin Chamberlain is a highly experienced mining executive with over 30 years in the industry. He has held senior roles in project management and operations, particularly in Africa, including significant experience with major uranium projects.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Bannerman Energy Ltd",
       "ticker": "BMN",
       "exchange": "ASX",
       "title_or_role": "Chief Operating Officer",
+      "website": "https://bannermanenergy.com",
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

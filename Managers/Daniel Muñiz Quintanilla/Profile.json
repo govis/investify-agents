@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Director since 2008. Former CEO of the Mining Division of Grupo Mexico.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Southern Copper Corporation",
       "ticker": "SCCO",
       "exchange": "NYSE",
       "title_or_role": "Director",
+      "website": "https://www.southerncoppercorp.com",
       "start_date": "2008-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

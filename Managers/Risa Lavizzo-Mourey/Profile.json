@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Dr. Risa Lavizzo-Mourey has been a director since 2018. She is President Emerita of the Robert Wood Johnson Foundation and a professor at the University of Pennsylvania.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.intel.com",
+      "start_date": "2018-03-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Reshoring"
@@ -15,14 +27,6 @@
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Intel Corporation",
-      "ticker": "INTC",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2018-03-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

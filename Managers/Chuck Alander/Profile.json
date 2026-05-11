@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Chuck Alander serves as the Chief Financial Officer. He joined Nextracker from Flex, where he held various senior financial leadership roles.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Nextracker Inc.",
       "ticker": "NXT",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.nextracker.com",
       "start_date": "2024-05-13",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

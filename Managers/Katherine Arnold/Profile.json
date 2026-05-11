@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. Arnold is a professional engineer with over 35 years of experience in environmental engineering and permitting. She was previously Director of Environmental and Regulatory Affairs at Hudbay Minerals.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Faraday Copper Corp.",
+      "ticker": "FDY",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://faradaycopper.com",
+      "start_date": "2022-04-21",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Health, Safety, Environmental and Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "Faraday Copper Corp.",
-      "ticker": "FDY",
-      "exchange": "TSX",
-      "title_or_role": "Director",
-      "start_date": "2022-04-21",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

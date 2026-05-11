@@ -6,6 +6,18 @@
   "age_year": 2023,
   "background": "Lynne Saint was appointed to the Board in October 2019. She has over 30 years\u2019 experience in financial, ethical and commercial roles, including as Chief Audit Executive at Bechtel Group.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Iluka Resources Limited",
+      "ticker": "ILU",
+      "exchange": "ASX",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.iluka.com",
+      "start_date": "2019-10-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +26,6 @@
     "Audit and Risk Committee (Chair)",
     "Nominations Committee"
   ],
-  "companies": [
-    {
-      "name": "Iluka Resources Limited",
-      "ticker": "ILU",
-      "exchange": "ASX",
-      "title_or_role": "Independent Non-Executive Director",
-      "start_date": "2019-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

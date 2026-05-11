@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Chief Financial Officer since April 2024. Previously Vice President and President of Chevron Technical Center.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Chevron Corporation",
       "ticker": "CVX",
       "exchange": "NYSE",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.chevron.com",
       "start_date": "2024-04-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

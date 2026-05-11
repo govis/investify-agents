@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Philippe Erneryd is the Business Area President for Compressor Technique. He joined the Group in 1995 and has held various management positions in Europe and Asia.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Atlas Copco AB",
       "ticker": "ATCO",
       "exchange": "STO",
       "title_or_role": "Business Area President Compressor Technique",
+      "website": "https://www.atlascopcogroup.com",
       "start_date": "2024-05-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

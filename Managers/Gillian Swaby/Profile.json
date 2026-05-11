@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Ms. Swaby has over 35 years' experience in the tertiary education and mining sectors. She has been involved in the uranium industry since 1984. She is a Fellow of the Governance Institute of Australia and the Australian Institute of Company Directors.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Deep Yellow Limited",
       "ticker": "DYL",
       "exchange": "ASX",
       "title_or_role": "Executive Director",
+      "website": "https://deepyellow.com.au",
       "start_date": "2016-10-24",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

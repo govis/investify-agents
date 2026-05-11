@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Chris Wright has served as a director of Oklo since May 2024. He is the Chief Executive Officer and Chairman of Liberty Energy Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Oklo Inc.",
+      "ticker": "OKLO",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://oklo.com",
+      "start_date": "2024-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Oklo Inc.",
-      "ticker": "OKLO",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2024-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

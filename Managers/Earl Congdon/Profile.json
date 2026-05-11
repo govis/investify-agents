@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Earl E. Congdon is Senior Executive Chairman of the Board. He served as Executive Chairman from 2008 to 2018 and CEO from 1985 to 2008.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Old Dominion Freight Line, Inc.",
       "ticker": "ODFL",
       "exchange": "NASDAQ",
       "title_or_role": "Senior Executive Chairman",
+      "website": "https://www.odfl.com",
       "start_date": "2018-05-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

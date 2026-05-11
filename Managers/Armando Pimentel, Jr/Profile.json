@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Pimentel is President and Chief Executive Officer of Florida Power & Light Company. He previously served as president and CEO of NextEra Energy Resources and as CFO of NextEra Energy.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "NextEra Energy, Inc.",
       "ticker": "NEE",
       "exchange": "NYSE",
       "title_or_role": "President and Chief Executive Officer, Florida Power & Light Company",
+      "website": "https://www.nexteraenergy.com",
       "start_date": "2023-02-15",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Dr. Catharine Farrow is a professional geoscientist with over 25 years of experience in the mining industry. She was previously the CEO of TMAC Resources Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Eldorado Gold Corporation",
+      "ticker": "EGO",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.eldoradogold.com",
+      "start_date": "2020-04-30",
+      "end_date": null
+    },
+    {
+      "name": "Franco-Nevada Corporation",
+      "ticker": "FNV",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.franco-nevada.com",
+      "start_date": "2015-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -16,22 +37,6 @@
     "ESG Committee",
     "Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "Eldorado Gold Corporation",
-      "ticker": "EGO",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-04-30",
-      "end_date": null
-    },
-    {
-      "name": "Franco-Nevada Corporation",
-      "ticker": "FNV",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2015-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

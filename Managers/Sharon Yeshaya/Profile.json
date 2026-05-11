@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Ms. Yeshaya has served as Executive Vice President and Chief Financial Officer since June 2021. She previously served as Head of Investor Relations.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Morgan Stanley",
       "ticker": "MS",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "website": "https://www.morganstanley.com",
       "start_date": "2021-06-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

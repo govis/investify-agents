@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Grant Beringer is the Group Sustainability Executive. He joined Barrick in January 2019 from Randgold, where he was the Group Environmental Coordinator.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Barrick Gold Corporation",
       "ticker": "GOLD",
       "exchange": "NYSE",
       "title_or_role": "Group Sustainability Executive",
+      "website": "https://www.barrick.com",
       "start_date": "2019-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

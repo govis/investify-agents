@@ -6,19 +6,43 @@
   "age_year": 2024,
   "background": "Amy Weaver is President and Chief Financial Officer of Salesforce. She previously served as the company's President and Chief Legal Officer from 2020 to 2021 and as President, Legal and Corporate Affairs from 2017 to 2020.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Salesforce, Inc.",
+      "ticker": "CRM",
+      "exchange": "NYSE",
+      "title_or_role": "President, Chief Financial Officer, Chief Legal Officer",
+      "website": "https://www.salesforce.com",
+      "start_date": "2013",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Univar Solutions Inc.",
+      "ticker": "UNVR",
+      "exchange": "NYSE",
+      "website": "https://www.univarsolutions.com",
+      "title_or_role": "Executive Vice President & General Counsel",
+      "start_date": "2010",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Expedia Group, Inc.",
+      "ticker": "EXPE",
+      "exchange": "NASDAQ",
+      "website": "https://www.expediagroup.com",
+      "title_or_role": "Senior Vice President & Deputy General Counsel",
+      "start_date": "2005",
+      "end_date": "2010",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Salesforce, Inc.",
-      "ticker": "CRM",
-      "exchange": "NYSE",
-      "title_or_role": "President and Chief Financial Officer",
-      "start_date": "2021-02-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

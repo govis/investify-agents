@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Hillo has served as our General Counsel since June 2018. He has over 25 years of experience as an attorney, specializing in corporate law, M&A, and international business transactions.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Blink Charging Co.",
       "ticker": "BLNK",
       "exchange": "NASDAQ",
       "title_or_role": "General Counsel",
+      "website": "https://www.blinkcharging.com",
       "start_date": "2018-06",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

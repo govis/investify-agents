@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Saydivaliev has over 20 years of experience in finance and investment. He has held various senior positions in financial institutions and investment firms.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Critical Metals Corp.",
+      "ticker": "CRML",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://criticalmetalscorp.com",
+      "start_date": "2024-02-27",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -15,14 +27,6 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Critical Metals Corp.",
-      "ticker": "CRML",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2024-02-27",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

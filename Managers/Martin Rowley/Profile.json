@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Rowley was a co-founder of First Quantum Minerals Ltd. and served as its Executive Director until 2017. He is currently the Chairman of Forsys Metals Corp. and has extensive experience in the mining industry.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Forsys Metals Corp.",
+      "ticker": "FSY",
+      "exchange": "TSX",
+      "title_or_role": "Chairman",
+      "website": "https://forsysmetals.com",
+      "start_date": "2021-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "Forsys Metals Corp.",
-      "ticker": "FSY",
-      "exchange": "TSX",
-      "title_or_role": "Chairman",
-      "start_date": "2021-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

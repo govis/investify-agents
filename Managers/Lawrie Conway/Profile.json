@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Conway was appointed as Chief Executive Officer and Managing Director on 1 January 2023. He was previously Finance Director and Chief Financial Officer since 2014. He has more than 30 years\u2019 experience in the resources sector across a diverse range of commercial, financial and operational activities.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Evolution Mining Limited",
       "ticker": "EVN",
       "exchange": "ASX",
       "title_or_role": "Chief Executive Officer and Managing Director",
+      "website": "https://evolutionmining.com.au",
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

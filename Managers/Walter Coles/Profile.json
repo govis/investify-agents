@@ -6,17 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Coles was a co-founder of Skeena and has served as Executive Chairman since 2023. He previously served as President and CEO from 2013 to 2023. Before Skeena, he was an analyst and portfolio manager at Cadence Investment Partners and held roles at UBS Investment Bank and Anthracite Capital.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Skeena Resources Limited",
       "ticker": "SKE",
       "exchange": "NYSE",
       "title_or_role": "Executive Chairman",
+      "website": "https://skeenaresources.com",
       "start_date": "2023-02-01",
       "end_date": null
     },
@@ -25,8 +22,16 @@
       "ticker": "SKE",
       "exchange": "TSX",
       "title_or_role": "Executive Chairman",
+      "website": "https://skeenaresources.com",
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

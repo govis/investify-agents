@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Dr. Webb is a professional geologist with over 30 years of experience in mineral exploration and development. He has been involved in the discovery and development of several mineral deposits in Canada and internationally.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Orion Copper Mining Corp.",
       "ticker": "ORION",
       "exchange": "TSX",
       "title_or_role": "Vice President, Exploration",
+      "website": "https://orioncmc.com",
       "start_date": "2021-06-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

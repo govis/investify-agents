@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Barua has been the CEO of Aclara since its inception. He was previously the CFO of Hochschild Mining PLC and has over 20 years of experience in the mining and finance industries.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Aclara Resources Inc.",
       "ticker": "ARA",
       "exchange": "TSX",
       "title_or_role": "Chief Executive Officer",
+      "website": "https://www.aclara.com",
       "start_date": "2021-10-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

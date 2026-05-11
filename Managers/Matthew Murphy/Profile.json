@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Murphy has served as our President and Chief Executive Officer since July 2016 and as a director since July 2016. He was appointed Chairman of the Board in June 2021. Prior to joining Marvell, Mr. Murphy worked at Maxim Integrated, where he held several executive roles, including Executive Vice President, Business Units, Sales and Marketing.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Marvell Technology, Inc.",
       "ticker": "MRVL",
       "exchange": "NASDAQ",
       "title_or_role": "Chairman, Chairman of the Board, Director, President and Chief Executive Officer",
+      "website": "https://www.marvell.com",
       "start_date": "2016-07-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

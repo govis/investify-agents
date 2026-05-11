@@ -6,6 +6,18 @@
   "age_year": 2023,
   "background": "Mr. Bilodeau has over 35 years of experience in the financial services industry and has served on several public company boards.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Western Magnesium Corporation",
+      "ticker": "WMG",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://westernmagnesium.com",
+      "start_date": "2019-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Western Magnesium Corporation",
-      "ticker": "WMG",
-      "exchange": "TSX",
-      "title_or_role": "Director",
-      "start_date": "2019-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

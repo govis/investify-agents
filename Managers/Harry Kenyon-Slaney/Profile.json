@@ -6,6 +6,18 @@
   "age_year": 2023,
   "background": "Harry Kenyon-Slaney was appointed as an independent non-executive director on 16 January 2019. He has over 37 years of experience in the mining industry, notably with Rio Tinto.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sibanye Stillwater Limited",
+      "ticker": "SBSW",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.sibanyestillwater.com",
+      "start_date": "2019-01-16",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Safety and Health Committee"
   ],
-  "companies": [
-    {
-      "name": "Sibanye Stillwater Limited",
-      "ticker": "SBSW",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Non-Executive Director",
-      "start_date": "2019-01-16",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

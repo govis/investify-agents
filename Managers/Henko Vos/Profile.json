@@ -6,20 +6,24 @@
   "age_year": null,
   "background": "Mr. Vos is a member of the Governance Institute of Australia and the South African Institute of Chartered Accountants. He has more than 20 years of experience in public practice and management within the mining and resources sector.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Oreterra Limited",
+      "ticker": "ORE",
+      "exchange": "ASX",
+      "title_or_role": "Company Secretary",
+      "website": "https://oreterra.com.au",
+      "start_date": "2023-11-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Gold"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Oreterra Limited",
-      "ticker": "ORE",
-      "exchange": "ASX",
-      "title_or_role": "Company Secretary",
-      "start_date": "2023-11-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

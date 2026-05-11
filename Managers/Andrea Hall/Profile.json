@@ -6,6 +6,49 @@
   "age_year": 2024,
   "background": "Ms. Hall is a Chartered Accountant with over 30 years\u2019 experience in the financial services and mining sectors. She was a partner at KPMG for 12 years.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Evolution Mining Limited",
+      "ticker": "EVN",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://evolutionmining.com.au/",
+      "start_date": "October 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Perenti Limited",
+      "ticker": "PRN",
+      "exchange": "ASX",
+      "website": "https://www.perenti.com/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "December 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Pioneer Credit Limited",
+      "ticker": "PNC",
+      "exchange": "ASX",
+      "website": "https://www.pioneercredit.com.au/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2018",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Automotive Holdings Group Limited",
+      "ticker": "AHG",
+      "exchange": "ASX",
+      "website": "N/A",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "May 2018",
+      "end_date": "2019",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +57,5 @@
     "Audit Committee (Chair)",
     "Risk and Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "Evolution Mining Limited",
-      "ticker": "EVN",
-      "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
-      "start_date": "2017-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

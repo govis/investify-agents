@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Charles Meyers served as our President and CEO from 2018 to 2024 and transitioned to Executive Chairman in June 2024.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Equinix, Inc.",
       "ticker": "EQIX",
       "exchange": "NASDAQ",
       "title_or_role": "Executive Chairman, Director",
+      "website": "https://www.equinix.com",
       "start_date": "2024-06-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

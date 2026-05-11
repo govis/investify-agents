@@ -6,6 +6,36 @@
   "age_year": 2024,
   "background": "Former Managing Director and Head of Metals & Mining at Cantor Fitzgerald. Expert in uranium market analysis.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Fission Uranium Corp.",
+      "ticker": "FCU",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://fissionuranium.com",
+      "start_date": "2018-04-25",
+      "end_date": null
+    },
+    {
+      "name": "Revival Gold Inc.",
+      "ticker": "RVG",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://revival-gold.com",
+      "start_date": "2020-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Ur-Energy Inc.",
+      "ticker": "URG",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.ur-energy.com",
+      "start_date": "2022-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
@@ -18,30 +48,6 @@
     "Corporate Governance and Nominating Committee",
     "Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Fission Uranium Corp.",
-      "ticker": "FCU",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2018-04-25",
-      "end_date": null
-    },
-    {
-      "name": "Revival Gold Inc.",
-      "ticker": "RVG",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-01-01",
-      "end_date": null
-    },
-    {
-      "name": "Ur-Energy Inc.",
-      "ticker": "URG",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

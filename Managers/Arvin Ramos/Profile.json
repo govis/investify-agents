@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Mr. Ramos holds a degree in commerce from the University of Windsor and is a member of the Chartered Professional Accountants of Ontario. He has over 15 years of experience in the mining industry and has served as CFO for several junior mining companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Consolidated Lithium Metals Inc.",
+      "ticker": "CLM",
+      "exchange": "TSXV",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://consolidatedlithium.com/",
+      "start_date": "2021-06-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Gold"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Consolidated Lithium Metals Inc.",
-      "ticker": "CLM",
-      "exchange": "TSXV",
-      "title_or_role": "Chief Financial Officer",
-      "start_date": "2021-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

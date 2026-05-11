@@ -6,20 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Attew is a mining industry executive with over 25 years of experience in investment banking and corporate strategy. He was previously CFO of Goldcorp Inc.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nomination and Remuneration Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Evolution Mining Limited",
       "ticker": "EVN",
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
+      "website": "https://evolutionmining.com.au",
       "start_date": "2019-12-01",
       "end_date": null
     },
@@ -28,8 +22,19 @@
       "ticker": "OR",
       "exchange": "NYSE",
       "title_or_role": "Director, President and Chief Executive Officer",
+      "website": "https://osiskogr.com",
       "start_date": "2024-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nomination and Remuneration Committee"
+  ],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

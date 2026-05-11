@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Norman Keevil III is a professional engineer and has been a director of Teck since 1997. He is the Vice Chair of the Board.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Teck Resources Limited",
+      "ticker": "TECK",
+      "exchange": "NYSE",
+      "title_or_role": "Vice Chair of the Board",
+      "website": "https://www.teck.com",
+      "start_date": "1997-04-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Safety and Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "Teck Resources Limited",
-      "ticker": "TECK",
-      "exchange": "NYSE",
-      "title_or_role": "Vice Chair of the Board",
-      "start_date": "1997-04-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

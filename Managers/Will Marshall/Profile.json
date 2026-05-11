@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Dr. Marshall is a co-founder of Planet and has served as our Chief Executive Officer and as a member of our board of directors since December 2010. Prior to Planet, Dr. Marshall was a Scientist at NASA Ames Research Center from 2005 to 2010. Dr. Marshall holds a Ph.D. in Physics from the University of Oxford and a B.A. in Physics from the University of Leicester.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Planet Labs PBC",
       "ticker": "PL",
       "exchange": "NYSE",
       "title_or_role": "Chief Executive Officer, Director",
+      "website": "https://www.planet.com",
       "start_date": "2010-12-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

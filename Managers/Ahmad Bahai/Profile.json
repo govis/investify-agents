@@ -6,19 +6,33 @@
   "age_year": 2024,
   "background": "Ahmad Bahai is senior vice president and chief technology officer, responsible for guiding TI\u2019s technology strategy and research.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Texas Instruments Incorporated",
       "ticker": "TXN",
       "exchange": "NASDAQ",
       "title_or_role": "Senior Vice President and Chief Technology Officer",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "website": "https://www.ti.com",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "National Semiconductor Corp.",
+      "ticker": "NSM",
+      "exchange": "NYSE",
+      "website": "https://www.ti.com",
+      "title_or_role": "Chief Technology Officer & Research Director",
+      "start_date": "Prior to 2011",
+      "end_date": "2011",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

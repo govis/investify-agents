@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Ms. Kei is a corporate director and was formerly the CFO of Dominion Diamond Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CGAU",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.centerragold.com",
+      "start_date": "2022-05-01",
+      "end_date": null
+    },
+    {
+      "name": "Karora Resources Inc.",
+      "ticker": "KRR",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.karoraresources.com",
+      "start_date": "2021-06-15",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -16,22 +37,6 @@
     "Corporate Governance and Nominating Committee",
     "Sustainable Development Committee"
   ],
-  "companies": [
-    {
-      "name": "Centerra Gold Inc.",
-      "ticker": "CGAU",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-05-01",
-      "end_date": null
-    },
-    {
-      "name": "Karora Resources Inc.",
-      "ticker": "KRR",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-06-15",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

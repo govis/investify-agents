@@ -6,18 +6,14 @@
   "age_year": 2024,
   "background": "Chief Executive Officer of Global X Management Company LLC since April 2024. Previously held various leadership roles at Goldman Sachs Asset Management.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Global X Lithium & Battery Tech ETF",
       "ticker": "LIT",
       "exchange": "NYSE",
       "title_or_role": "Chief Executive Officer",
+      "website": "https://www.globalxetfs.com/funds/lit/",
       "start_date": "2024-04-08",
       "end_date": null
     },
@@ -26,8 +22,17 @@
       "ticker": "URA",
       "exchange": "NYSE",
       "title_or_role": "Chief Executive Officer",
+      "website": "https://www.globalxetfs.com/funds/ura/",
       "start_date": "2024-04-08",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

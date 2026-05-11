@@ -6,20 +6,14 @@
   "age_year": 2024,
   "background": "Former executive at various financial institutions.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "VanEck Uranium and Nuclear Energy ETF",
       "ticker": "NLR",
       "exchange": "NYSE",
       "title_or_role": "Independent Trustee",
+      "website": "https://www.vaneck.com/us/en/investments/uranium-nuclear-energy-etf-nlr/",
       "start_date": "2022-01-01",
       "end_date": null
     },
@@ -28,8 +22,68 @@
       "ticker": "SETM",
       "exchange": "NYSE",
       "title_or_role": "Independent Trustee",
+      "website": "https://www.vaneck.com/us/en/investments/rare-earth-strategic-metals-etf-remx/",
       "start_date": "2018",
       "end_date": null
+    },
+    {
+      "name": "VanEck Funds",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://www.vaneck.com",
+      "title_or_role": "Independent Director, Vice Chairman of the Board, Chairman of the Audit Committee",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "EULAV Asset Management",
+      "ticker": "VALU",
+      "exchange": "NASDAQ",
+      "website": "https://www.valueline.com",
+      "title_or_role": "Chairman and Independent Director",
+      "start_date": "January 2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Total Fund Solution",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "title_or_role": "Lead Independent Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tremont Offshore Funds",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "title_or_role": "Independent Director",
+      "start_date": "June 2009",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Contingency Capital, LLC",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://contingencycapital.com",
+      "title_or_role": "Independent Director, Chair of Audit Committee",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success"
 }

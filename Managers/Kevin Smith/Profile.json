@@ -6,6 +6,18 @@
   "age_year": 2023,
   "background": "Sir Kevin Smith joined the Board in 2015. He was previously CEO of GKN plc and has a deep background in the aerospace and automotive industries.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Rolls-Royce Holdings plc",
+      "ticker": "RR",
+      "exchange": ".LSE",
+      "title_or_role": "Senior Independent Director",
+      "website": "https://www.rolls-royce.com",
+      "start_date": "2015-11-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -15,14 +27,6 @@
     "Nominations & Governance Committee",
     "Remuneration Committee"
   ],
-  "companies": [
-    {
-      "name": "Rolls-Royce Holdings plc",
-      "ticker": "RR",
-      "exchange": ".LSE",
-      "title_or_role": "Senior Independent Director",
-      "start_date": "2015-11-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

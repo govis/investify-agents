@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Christopher J. Brooks has served as Senior Vice President and Chief Operating Officer since July 2023. He previously served as Senior Vice President - Operations from May 2018 to June 2023.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Old Dominion Freight Line, Inc.",
       "ticker": "ODFL",
       "exchange": "NASDAQ",
       "title_or_role": "Senior Vice President and Chief Operating Officer",
+      "website": "https://www.odfl.com",
       "start_date": "2023-07-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

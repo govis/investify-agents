@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Rimelman has over 35 years of experience in environmental management and permitting. He previously served as Vice President, Environment, Health, Safety and Sustainability for NOVAGOLD and has extensive experience with the Donlin Gold project.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "NOVAGOLD RESOURCES INC.",
       "ticker": "NG",
       "exchange": "NYSE",
       "title_or_role": "Vice President, Environmental, Health, Safety & Sustainability",
+      "website": "https://www.novagold.com",
       "start_date": "2011-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Chair and CEO of Eli Lilly and Company. Director since 2018.",
   "picture_url": "https://cdn.theorg.com/401b1c73-7d82-4831-a028-62c712fd053a_medium.jpg",
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.adobe.com",
+      "start_date": "2018-04-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -18,16 +30,6 @@
   "committees": [
     "Executive Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Adobe Inc.",
-      "ticker": "ADBE",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2018-04-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": "Picture.jpg",
-  "enrichment_status": "success"
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

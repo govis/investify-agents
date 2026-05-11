@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. R\u00e9gimbald-Zeigler has over 30 years of experience in the mining and public sectors. She was previously a senior executive at Falconbridge Limited.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Alamos Gold Inc.",
+      "ticker": "AGI",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.alamosgold.com",
+      "start_date": "2015-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,16 +26,6 @@
     "Human Resources and Compensation Committee",
     "Technical and Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "Alamos Gold Inc.",
-      "ticker": "AGI",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2015-01-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": null,
-  "enrichment_status": "not_found"
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

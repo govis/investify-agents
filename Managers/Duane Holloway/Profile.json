@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Holloway was appointed Senior Vice President, General Counsel and Chief Ethics & Compliance Officer in April 2018. He previously served as Executive Vice President and General Counsel at Ascena Retail Group, Inc.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "United States Steel Corporation",
       "ticker": "X",
       "exchange": "NYSE",
       "title_or_role": "Senior Vice President, General Counsel and Chief Ethics & Compliance Officer",
+      "website": "https://www.ussteel.com",
       "start_date": "2018-04-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

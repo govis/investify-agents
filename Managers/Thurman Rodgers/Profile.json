@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "T.J. Rodgers has served as a director since January 2017. He is the founder and former CEO of Cypress Semiconductor Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Enphase Energy, Inc.",
+      "ticker": "ENPH",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://enphase.com",
+      "start_date": "2017-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -14,14 +26,6 @@
   "committees": [
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Enphase Energy, Inc.",
-      "ticker": "ENPH",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2017-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

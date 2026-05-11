@@ -6,19 +6,93 @@
   "age_year": 2024,
   "background": "Mr. Rochacewich is a Chartered Professional Accountant with over 20 years of experience in the mining industry. He was previously Chief Financial Officer of several junior mining companies and has held senior financial roles with Noranda Inc. and Falconbridge Limited.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Revival Gold Inc.",
+      "ticker": "RVG",
+      "exchange": "TSXV",
+      "title_or_role": "VP & CFO",
+      "website": "https://revival-gold.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Northern Superior Resources Inc.",
+      "ticker": "SUP",
+      "exchange": "TSXV",
+      "website": "https://nsuperior.com",
+      "title_or_role": "Director",
+      "start_date": "September 27, 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GPM Metals Inc.",
+      "ticker": "GPM",
+      "exchange": "TSXV",
+      "website": "https://gpmmetals.ca",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "September 27, 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Orezone Gold Corporation",
+      "ticker": "ORE",
+      "exchange": "TSX",
+      "website": "https://orezone.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "May 15, 2017",
+      "end_date": "August 14, 2017",
+      "validated": true
+    },
+    {
+      "name": "Treasury Metals Inc.",
+      "ticker": "TML",
+      "exchange": "TSX",
+      "website": "https://treasurymetals.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "January 2013",
+      "end_date": "May 2017",
+      "validated": true
+    },
+    {
+      "name": "Teranga Gold Corporation",
+      "ticker": "TGZ",
+      "exchange": "TSX",
+      "website": "https://terangagold.com",
+      "title_or_role": "Vice President, Finance (Officer)",
+      "start_date": "2010",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Banro Corporation",
+      "ticker": "BAA",
+      "exchange": "TSX",
+      "website": "http://banro.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "May 1, 2007",
+      "end_date": "2010",
+      "validated": true
+    },
+    {
+      "name": "Adroit Resources Inc.",
+      "ticker": "ADT",
+      "exchange": "TSXV",
+      "website": "http://adroitresources.ca",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "November 12, 2008",
+      "end_date": "October 20, 2010",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Revival Gold Inc.",
-      "ticker": "RVG",
-      "exchange": "TSX",
-      "title_or_role": "Vice President and Chief Financial Officer",
-      "start_date": "2017-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

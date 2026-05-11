@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "David Hornik has served as a member of our board of directors since May 2013 and as the lead independent director since April 2023. Mr. Hornik is a founding partner of Lobby Capital, a venture capital firm, which he joined in 2021.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Fastly, Inc.",
+      "ticker": "FSLY",
+      "exchange": "NYSE",
+      "title_or_role": "Lead Independent Director, Director",
+      "website": "https://www.fastly.com",
+      "start_date": "2023-04-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -14,14 +26,6 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Fastly, Inc.",
-      "ticker": "FSLY",
-      "exchange": "NYSE",
-      "title_or_role": "Lead Independent Director, Director",
-      "start_date": "2023-04-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

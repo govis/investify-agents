@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Russell Banham is an Independent Non-Executive Director. He is a former Deloitte partner with extensive experience in auditing and advisory services for large international mining and energy companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "National Atomic Company Kazatomprom JSC",
+      "ticker": "KAP",
+      "exchange": "LSE",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.kazatomprom.kz",
+      "start_date": "2018-10-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee (Chair)",
     "Nomination and Remuneration Committee"
   ],
-  "companies": [
-    {
-      "name": "National Atomic Company Kazatomprom JSC",
-      "ticker": "KAP",
-      "exchange": "LSE",
-      "title_or_role": "Independent Non-Executive Director",
-      "start_date": "2018-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

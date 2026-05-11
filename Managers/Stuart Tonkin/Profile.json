@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr Tonkin is a mining engineer with more than 25 years\u2019 experience as a senior executive in the mining industry. He has held various operational and management roles with Oxiana and Newmont. He was previously Chief Operating Officer at Northern Star.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Northern Star Resources Limited",
       "ticker": "NST",
       "exchange": "ASX",
       "title_or_role": "Managing Director and Chief Executive Officer",
+      "website": "https://www.nsrltd.com",
       "start_date": "2021-07-22",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

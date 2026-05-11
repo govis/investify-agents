@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Ms. Kropivnitski has over 15 years of experience in financial reporting and corporate compliance. She has served as CFO for several public companies listed on the TSX Venture Exchange and the CSE. She is a Certified Professional Accountant (CPA, CGA).",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "EagleOne Metals Corp.",
+      "ticker": "EAGL",
+      "exchange": "CSE",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://eagleonemetals.com",
+      "start_date": "2023-06-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Gold"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "EagleOne Metals Corp.",
-      "ticker": "EAGL",
-      "exchange": "CSE",
-      "title_or_role": "Chief Financial Officer",
-      "start_date": "2023-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

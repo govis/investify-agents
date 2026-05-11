@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Retired Vice Chairman of General Electric Company and former Chairman and CEO of GE Capital.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.jpmorganchase.com",
+      "start_date": "2014-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Electrification"
@@ -14,14 +26,6 @@
   "committees": [
     "Directors' Risk Policy Committee"
   ],
-  "companies": [
-    {
-      "name": "JPMorgan Chase & Co.",
-      "ticker": "JPM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2014-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

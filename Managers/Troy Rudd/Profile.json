@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Troy Rudd is the Chief Executive Officer of AECOM. He previously served as AECOM\u2019s Chief Financial Officer from 2015 to 2020. Since joining AECOM in 2009, he has held various leadership roles, including Treasurer and Vice President of Financial Planning and Analysis. Prior to AECOM, he spent 15 years at KPMG.",
   "picture_url": "https://aecom.com/wp-content/uploads/2020/08/troy-rudd-profile-web-1.jpg",
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "AECOM",
+      "ticker": "ACM",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Executive Officer, Director",
+      "website": "https://aecom.com",
+      "start_date": "2020-10-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -16,16 +28,6 @@
     }
   ],
   "committees": [],
-  "companies": [
-    {
-      "name": "AECOM",
-      "ticker": "ACM",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer, Director",
-      "start_date": "2020-10-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": "Picture.jpg",
-  "enrichment_status": "success"
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Nir Zuk is one of our founders and has served as our Chief Technology Officer and a member of our Board since March 2005. Prior to founding Palo Alto Networks, Mr. Zuk was Chief Technology Officer at NetScreen Technologies and was a principal engineer at Check Point Software Technologies.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Palo Alto Networks, Inc.",
       "ticker": "PANW",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Technology Officer, Director",
+      "website": "https://www.paloaltonetworks.com",
       "start_date": "2005-03-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Director of New Business Development at Ceres Partners since 2010.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sprott Energy Transition Materials ETF",
+      "ticker": "SETM",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Trustee",
+      "website": "https://www.sprottetfs.com/setm-sprott-energy-transition-materials-etf/",
+      "start_date": "2018",
+      "end_date": null
+    },
+    {
+      "name": "Sprott Physical Uranium Trust",
+      "ticker": "U",
+      "exchange": "UN.TSX",
+      "title_or_role": "Independent Trustee",
+      "website": "https://sprott.com/investment-strategies/physical-commodity-funds/uranium/",
+      "start_date": "2021-07-19",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Nuclear",
@@ -16,22 +37,6 @@
     "Audit Committee",
     "Nominating and Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Sprott Energy Transition Materials ETF",
-      "ticker": "SETM",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Trustee",
-      "start_date": "2018",
-      "end_date": null
-    },
-    {
-      "name": "Sprott Physical Uranium Trust",
-      "ticker": "U",
-      "exchange": "UN.TSX",
-      "title_or_role": "Independent Trustee",
-      "start_date": "2021-07-19",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

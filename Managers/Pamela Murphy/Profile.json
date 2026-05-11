@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Chief Executive Officer, Opportunity Network.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Rockwell Automation, Inc.",
+      "ticker": "ROK",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.rockwellautomation.com",
+      "start_date": "2019-06-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Technology Committee"
   ],
-  "companies": [
-    {
-      "name": "Rockwell Automation, Inc.",
-      "ticker": "ROK",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

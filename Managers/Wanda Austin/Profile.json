@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Dr. Austin is the former President and CEO of The Aerospace Corporation, a leading architect for the nation\u2019s national security space programs. She served in this role from 2008 to 2016.",
   "picture_url": "https://savoynetwork.com/wp-content/uploads/2022/05/Wanda-Austin.jpeg",
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.apple.com",
+      "start_date": "2024-02-28",
+      "end_date": null
+    },
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.chevron.com",
+      "start_date": "2016-12-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -21,24 +42,6 @@
     "Board Governance Committee",
     "Public Policy and Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "Apple Inc.",
-      "ticker": "AAPL",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2024-02-28",
-      "end_date": null
-    },
-    {
-      "name": "Chevron Corporation",
-      "ticker": "CVX",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2016-12-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": "Picture.jpg",
-  "enrichment_status": "success"
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

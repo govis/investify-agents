@@ -6,6 +6,18 @@
   "age_year": null,
   "background": "Ms. Scotney is a lawyer and strategic business advisor with over 25 years' experience in the resources, agricultural, and property sectors.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "De Grey Mining Limited",
+      "ticker": "DEG",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://degreymining.com.au",
+      "start_date": "2023-01-09",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Audit and Risk Committee"
   ],
-  "companies": [
-    {
-      "name": "De Grey Mining Limited",
-      "ticker": "DEG",
-      "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
-      "start_date": "2023-01-09",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

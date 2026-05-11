@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Ms. MacDiarmid has served as Chief Human Resources Officer since January 2021. She has been with Fluor since 1998.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Human Resources Officer",
+      "website": "https://www.fluor.com",
+      "start_date": "2021-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear",
     "Reshoring"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Fluor Corporation",
-      "ticker": "FLR",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Human Resources Officer",
-      "start_date": "2021-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

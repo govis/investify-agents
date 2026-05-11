@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Helen Hardy is an independent director. She has extensive experience in the energy sector, having served as Company Secretary of Origin Energy Limited.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "GOLD",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.barrick.com",
+      "start_date": "2022-08-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Audit & Risk Committee",
     "Environmental, Social and Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Barrick Gold Corporation",
-      "ticker": "GOLD",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-08-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,49 @@
   "age_year": 2023,
   "background": "Former President and CEO of Hudbay Minerals Inc. Over 35 years of experience in the mining industry.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Gold Royalty Corp.",
+      "ticker": "GROY",
+      "exchange": "NYSE American",
+      "title_or_role": "Director",
+      "website": "goldroyalty.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bear Creek Mining Corporation",
+      "ticker": "BCM",
+      "exchange": "TSXV",
+      "website": "bearcreekmining.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Great Panther Mining Limited",
+      "ticker": "GPL",
+      "exchange": "NYSE",
+      "website": "greatpanther.com",
+      "title_or_role": "Non-Executive Chair",
+      "start_date": "2021-12",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hudbay Minerals Inc.",
+      "ticker": "HBM",
+      "exchange": "TSX",
+      "website": "hudbayminerals.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2019-07",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -15,14 +58,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Gold Royalty Corp.",
-      "ticker": "GROY",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-06-23",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

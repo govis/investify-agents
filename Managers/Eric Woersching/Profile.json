@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Woersching has served as a member of our Board since 2020. He is the Managing Partner of Evolute Capital and was previously a Portfolio Manager at Thiel Macro, LLC. Mr. Woersching holds a B.S. and M.S. in Electrical Engineering from Stanford University.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Palantir Technologies Inc.",
+      "ticker": "PLTR",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.palantir.com",
+      "start_date": "2020-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Defense"
@@ -15,14 +27,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Palantir Technologies Inc.",
-      "ticker": "PLTR",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2020-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,20 +6,14 @@
   "age_year": 2024,
   "background": "Former Director General of the Swedish Transport Administration.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense",
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Saab AB",
       "ticker": "SAAB-B",
       "exchange": "STO",
       "title_or_role": "Member of the Board",
+      "website": "https://www.saab.com",
       "start_date": "2022-04-06",
       "end_date": null
     },
@@ -28,8 +22,19 @@
       "ticker": "SAAB",
       "exchange": "STO",
       "title_or_role": "Member of the Board",
+      "website": "https://www.saab.com",
       "start_date": "2022-04-06",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

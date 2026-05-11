@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Edward Barnholt is the Chairman of the Board of KLA. He was formerly the President and CEO of Agilent Technologies, Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "KLA Corporation",
+      "ticker": "KLAC",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chairman of the Board",
+      "website": "https://www.kla.com",
+      "start_date": "1995-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Nominating and Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "KLA Corporation",
-      "ticker": "KLAC",
-      "exchange": "NASDAQ",
-      "title_or_role": "Chairman of the Board",
-      "start_date": "1995-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

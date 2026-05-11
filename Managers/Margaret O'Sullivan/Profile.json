@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Jeane Kirkpatrick Professor of the Practice of International Affairs at Harvard University's Kennedy School.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "RTX Corporation",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.rtx.com",
+      "start_date": "2020-04-03",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -14,14 +26,6 @@
     "Governance & Nominating",
     "Public Policy & Corporate Responsibility"
   ],
-  "companies": [
-    {
-      "name": "RTX Corporation",
-      "ticker": "RTX",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-04-03",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

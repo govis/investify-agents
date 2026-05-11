@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ira Ehrenpreis has been a member of the Board since May 2007. He is the founder and managing partner of DBL Partners, a venture capital firm.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.tesla.com",
+      "start_date": "2007-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -15,14 +27,6 @@
     "Compensation Committee (Chair)",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Tesla, Inc.",
-      "ticker": "TSLA",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2007-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

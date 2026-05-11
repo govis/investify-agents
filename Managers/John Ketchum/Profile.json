@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Ketchum is Chairman, President and Chief Executive Officer of NextEra Energy and chairman of NextEra Energy Partners, LP. He previously served as president and CEO of NextEra Energy Resources, LLC and as CFO of NextEra Energy.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "NextEra Energy, Inc.",
       "ticker": "NEE",
       "exchange": "NYSE",
       "title_or_role": "Chairman, President and Chief Executive Officer",
+      "website": "https://www.nexteraenergy.com",
       "start_date": "2022-03-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. McPhie has over 25 years of experience in the mining industry, specializing in corporate development and legal affairs.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Osisko Gold Royalties Ltd",
       "ticker": "OR",
       "exchange": "NYSE",
       "title_or_role": "Vice President, Corporate Development",
+      "website": "https://osiskogr.com",
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

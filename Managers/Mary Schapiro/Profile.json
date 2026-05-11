@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former Chair of the U.S. Securities and Exchange Commission.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.morganstanley.com",
+      "start_date": "2018-07-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +26,6 @@
     "Nominating and Governance Committee",
     "Risk Committee"
   ],
-  "companies": [
-    {
-      "name": "Morgan Stanley",
-      "ticker": "MS",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2018-07-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

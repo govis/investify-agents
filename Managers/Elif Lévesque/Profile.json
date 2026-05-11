@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. L\u00e9vesque is a Chartered Professional Accountant with over 20 years of experience in finance and the mining industry. She was a founder of Nomad Royalty Company.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "G Mining Ventures Corp.",
+      "ticker": "GMIN",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.gminingventures.com",
+      "start_date": "2022-06-22",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "G Mining Ventures Corp.",
-      "ticker": "GMIN",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-06-22",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

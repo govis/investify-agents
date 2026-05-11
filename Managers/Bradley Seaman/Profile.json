@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Managing Partner of Tricor Pacific Capital, Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Steel Dynamics, Inc.",
+      "ticker": "STLD",
+      "exchange": "NASDAQ",
+      "title_or_role": "Lead Independent Director, Independent Director",
+      "website": "https://www.steeldynamics.com",
+      "start_date": "2021-05",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +26,6 @@
     "Compensation Committee (Chair)",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Steel Dynamics, Inc.",
-      "ticker": "STLD",
-      "exchange": "NASDAQ",
-      "title_or_role": "Lead Independent Director, Independent Director",
-      "start_date": "2021-05",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former Chairman and CEO of Arch Coal, Inc. He has served on our board since 2013.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Parsons Corporation",
+      "ticker": "PSN",
+      "exchange": "NYSE",
+      "title_or_role": "Lead Independent Director",
+      "website": "https://www.parsons.com",
+      "start_date": "2013",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Corporate Governance and Responsibility Committee"
   ],
-  "companies": [
-    {
-      "name": "Parsons Corporation",
-      "ticker": "PSN",
-      "exchange": "NYSE",
-      "title_or_role": "Lead Independent Director",
-      "start_date": "2013",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2023,
   "background": "Chief Financial Officer of Global X Management Company LLC. Previously served as a Senior Vice President at Neuberger Berman.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Global X Uranium ETF",
       "ticker": "URA",
       "exchange": "NYSE",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.globalxetfs.com/funds/ura/",
       "start_date": "2018-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

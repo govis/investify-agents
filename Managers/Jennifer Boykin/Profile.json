@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Jennifer R. Boykin is executive vice president of HII and president of Newport News Shipbuilding. She was elected to this position in July 2017. Boykin has held various leadership positions at Newport News Shipbuilding since joining the company in 1987.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Huntington Ingalls Industries, Inc.",
       "ticker": "HII",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and President, Newport News Shipbuilding",
+      "website": "https://www.hii.com",
       "start_date": "2017-07-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

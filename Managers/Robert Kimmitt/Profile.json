@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Senior International Counsel at WilmerHale.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Meta Platforms, Inc.",
+      "ticker": "META",
+      "exchange": "NASDAQ",
+      "title_or_role": "Lead Independent Director",
+      "website": "https://about.meta.com",
+      "start_date": "2020-03-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Meta Platforms, Inc.",
-      "ticker": "META",
-      "exchange": "NASDAQ",
-      "title_or_role": "Lead Independent Director",
-      "start_date": "2020-03-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,29 @@
   "age_year": 2024,
   "background": "Co-founder and CEO of Dropbox, Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Meta Platforms, Inc.",
+      "ticker": "META",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.meta.com",
+      "start_date": "2020-02",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Dropbox, Inc.",
+      "ticker": "DBX",
+      "exchange": "NASDAQ",
+      "website": "https://www.dropbox.com",
+      "title_or_role": "Co-founder, CEO, and Chairman of the Board",
+      "start_date": "2007-06",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -13,14 +36,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "Meta Platforms, Inc.",
-      "ticker": "META",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-02-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

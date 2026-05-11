@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Ms. Bamford has served as Chair of the Board of Directors since May 2022 and Chief Executive Officer since January 2021. She previously served as President and Chief Operating Officer from January 2020 to January 2021. She has been with the Company since 2004.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Curtiss-Wright Corporation",
+      "ticker": "CW",
+      "exchange": "NYSE",
+      "title_or_role": "Chair of the Board, Chief Executive Officer",
+      "website": "https://www.curtisswright.com",
+      "start_date": "2022-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense",
     "Nuclear"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Curtiss-Wright Corporation",
-      "ticker": "CW",
-      "exchange": "NYSE",
-      "title_or_role": "Chair of the Board, Chief Executive Officer",
-      "start_date": "2022-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

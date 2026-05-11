@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Bruce Ledesma is the President of Strategy and General Counsel. He previously served as General Counsel for SunPower Corporation and SolarCity.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Nextracker Inc.",
       "ticker": "NXT",
       "exchange": "NASDAQ",
       "title_or_role": "President, Strategy and General Counsel",
+      "website": "https://www.nextracker.com",
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

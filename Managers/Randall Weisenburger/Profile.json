@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Weisenburger is the Managing Member of Mile 26 Capital LLC. He was previously the CFO of Omnicom Group Inc. and a founding member of Wasserstein Perella & Co.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "MP Materials Corp.",
+      "ticker": "MP",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://mpmaterials.com",
+      "start_date": "2020-11-17",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "MP Materials Corp.",
-      "ticker": "MP",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-11-17",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Lainz served as our Chief Financial Officer from 2018 until May 2024, and now serves as Corporate Director. Previously, he was the CFO of Eurofred Group and held various financial positions at several multinational companies.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Wallbox N.V.",
       "ticker": "WBX",
       "exchange": "NYSE",
       "title_or_role": "Corporate Director",
+      "website": "https://wallbox.com",
       "start_date": "2024-05-15",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

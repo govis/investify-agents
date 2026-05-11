@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. St. John has served as Chief Operating Officer since June 2020. He has held various leadership roles at Lockheed Martin for over 30 years.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Lockheed Martin Corporation",
       "ticker": "LMT",
       "exchange": "NYSE",
       "title_or_role": "Chief Operating Officer",
+      "website": "https://www.lockheedmartin.com",
       "start_date": "2020-06-15",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

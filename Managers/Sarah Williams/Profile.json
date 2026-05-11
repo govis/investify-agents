@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Ms. Williams is a Chartered Professional Accountant with over 15 years of financial management experience in the resource sector. She has served as CFO for several publicly traded exploration companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Fortune Bay Corp.",
+      "ticker": "FOR",
+      "exchange": "TSX",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://fortunebaycorp.com",
+      "start_date": "2021-03-15",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Fortune Bay Corp.",
-      "ticker": "FOR",
-      "exchange": "TSX",
-      "title_or_role": "Chief Financial Officer",
-      "start_date": "2021-03-15",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

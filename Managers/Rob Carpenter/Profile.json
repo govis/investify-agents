@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Dr. Carpenter is a professional geologist with over 30 years of experience. He was the co-founder and President/CEO of Kaminak Gold Corp., which was acquired by Goldcorp for $520 million.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Dryden Gold Corp.",
+      "ticker": "DRY",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://drydengold.com",
+      "start_date": "2023-05-01",
+      "end_date": null
+    },
+    {
+      "name": "Prospector Metals Corp.",
+      "ticker": "PPP",
+      "exchange": "TSX",
+      "title_or_role": "Director, President and Chief Executive Officer",
+      "website": "https://prospectormetalscorp.com",
+      "start_date": "2024-03-11",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
@@ -15,22 +36,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Dryden Gold Corp.",
-      "ticker": "DRY",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2023-05-01",
-      "end_date": null
-    },
-    {
-      "name": "Prospector Metals Corp.",
-      "ticker": "PPP",
-      "exchange": "TSX",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "start_date": "2024-03-11",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

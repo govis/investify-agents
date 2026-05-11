@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "President and Chief Operating Officer since March 2023. Previously served as Senior Vice President, Flat Rolled Steel Group from 2016 to 2023.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Steel Dynamics, Inc.",
       "ticker": "STLD",
       "exchange": "NASDAQ",
       "title_or_role": "President and Chief Operating Officer",
+      "website": "https://www.steeldynamics.com",
       "start_date": "2023-03",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

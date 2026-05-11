@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Mr. Boron has served as the Chief Financial Officer of Energy Fuels since May 2023. He has over 30 years of financial and accounting experience in the mining and natural resources sectors.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Energy Fuels Inc.",
+      "ticker": "UUUU",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.energyfuels.com",
+      "start_date": "2023-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear",
     "Reshoring"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Energy Fuels Inc.",
-      "ticker": "UUUU",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Financial Officer",
-      "start_date": "2023-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

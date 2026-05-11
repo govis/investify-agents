@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Chirantan \"CJ\" Desai has served as our President and Chief Operating Officer since January 2023. He previously served as Chief Product and Engineering Officer from 2016 to 2023.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "ServiceNow, Inc.",
       "ticker": "NOW",
       "exchange": "NYSE",
       "title_or_role": "President and Chief Operating Officer",
+      "website": "https://www.servicenow.com",
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

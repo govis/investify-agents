@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Rodney Slater has served as a member of our Board since July 2021. Mr. Slater served as the U.S. Secretary of Transportation from 1997 to 2001.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "EVgo Inc.",
+      "ticker": "EVGO",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.evgo.com",
+      "start_date": "2021-07-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Nominating and Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "EVgo Inc.",
-      "ticker": "EVGO",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2021-07-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Evans has served as a director since 2023 and was appointed Chairman and CEO in 2024. He previously served as Chairman and CEO of Evergreen Corporation and has over 40 years of experience in the energy and natural resources sectors.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "United States Antimony Corporation",
       "ticker": "USAR",
       "exchange": "NYSE",
       "title_or_role": "Chairman and Chief Executive Officer, Chairman of the Board",
+      "website": "https://www.usantimony.com",
       "start_date": "2024-02-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

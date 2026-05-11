@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former Senior Vice President and CFO of International Paper Company.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Alcoa Corporation",
+      "ticker": "AA",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.alcoa.com",
+      "start_date": "2016-11-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -20,16 +32,6 @@
     "Audit Committee",
     "Compensation and Benefits Committee"
   ],
-  "enrichment_status": "success",
-  "companies": [
-    {
-      "name": "Alcoa Corporation",
-      "ticker": "AA",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2016-11-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": null
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

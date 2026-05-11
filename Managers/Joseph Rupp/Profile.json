@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former Chairman, President and Chief Executive Officer of Olin Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Nucor Corporation",
+      "ticker": "NUE",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://nucor.com",
+      "start_date": "2015-09-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +26,6 @@
     "Compensation and Executive Development",
     "Governance and Nominating"
   ],
-  "companies": [
-    {
-      "name": "Nucor Corporation",
-      "ticker": "NUE",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2015-09-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

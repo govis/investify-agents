@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Senior Managing Director in the Private Equity Group at Blackstone and Global Head of Blackstone Energy Partners.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Cheniere Energy, Inc.",
       "ticker": "LNG",
       "exchange": "NYSE",
       "title_or_role": "Director",
+      "website": "https://www.cheniere.com",
       "start_date": "2012-08-15",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Managing Director of BlackRock, Inc. since 2016. Head of BlackRock\u2019s Global Product Group for the US and Canada since 2021.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "iShares Gold Trust",
       "ticker": "IAU",
       "exchange": "NYSE",
       "title_or_role": "Director",
+      "website": "https://www.ishares.com/us/products/239561/ishares-gold-trust-fund",
       "start_date": "2021-05-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

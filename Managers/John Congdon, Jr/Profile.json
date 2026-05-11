@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "John R. Congdon, Jr. has served as a director since 1998. He is the former Vice Chairman of Old Dominion Truck Leasing, Inc.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Old Dominion Freight Line, Inc.",
       "ticker": "ODFL",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
+      "website": "https://www.odfl.com",
       "start_date": "1998-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

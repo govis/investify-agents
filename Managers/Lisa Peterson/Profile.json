@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Ms. Peterson is a CPA with over 15 years of experience in financial management and reporting. She previously served as Chief Financial Officer of several junior mining companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "First Mining Gold Corp.",
+      "ticker": "FF",
+      "exchange": "TSX",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://firstmininggold.com",
+      "start_date": "2022-09-16",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "First Mining Gold Corp.",
-      "ticker": "FF",
-      "exchange": "TSX",
-      "title_or_role": "Chief Financial Officer",
-      "start_date": "2022-09-16",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

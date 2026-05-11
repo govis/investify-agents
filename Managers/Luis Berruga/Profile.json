@@ -6,19 +6,23 @@
   "age_year": 2023,
   "background": "Former CEO of Global X Management Company LLC. Previously served as COO and President.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Global X Uranium ETF",
       "ticker": "URA",
       "exchange": "NYSE",
       "title_or_role": "Unknown Role",
+      "website": "https://www.globalxetfs.com/funds/ura/",
       "start_date": null,
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -8,6 +8,45 @@ Retrieve and verify information about C-suite executives and board of directors 
 - **Schema/Validation:** Pydantic (v2+)
 - **Python Version:** 3.13 (Required for CrewAI/Pydantic compatibility)
 
+## Phases
+
+### Phase 1: C-Suite and Board Extraction (Agentic)
+- **Script**: `main.py`
+- **Action**: Retrieves and verifies information about C-suite executives and board members for publicly traded companies.
+- **Logic**:
+  - Uses CrewAI with specialized agents to extract data from official (EDGAR, SEDAR) and semi-official sources.
+  - Cross-references company websites to confirm current affiliation.
+  - Outputs results to `Management.json` within the company's directory in `../Companies/`.
+
+### Phase 2: Management Aggregation & Profile Creation (Deterministic)
+- **Script**: `aggregate_management.py`
+- **Action**: Aggregates all extracted individuals into a unified registry (`OfficersAndDirectors.json`) and creates individual manager profiles.
+- **Logic**:
+  - Iterates through the `../Companies/` directory.
+  - Extracts executives and directors from `Management.json` and `investment_theses` from `Profile.json`.
+  - Captures the company `website` for each affiliation.
+  - Aggregates tenure dates, roles, and company affiliations for each unique individual.
+  - Saves the final list to `../OfficersAndDirectors.json`.
+  - Creates/updates individual `Profile.json` files for each manager in `../Managers/<Manager_Name>/`, populating biographical data, committees, and company affiliations (including websites).
+
+### Phase 3: Manager Profile Enrichment (Agentic)
+- **Script**: `main_enrich.py`
+- **Action**: Enriches individual manager profiles with additional company affiliations found across public markets.
+- **Logic**:
+  - Iterates through the `../Managers/` directory.
+  - Skips profiles where `enrichment_company_affiliations == "success"`.
+  - Uses a cost-efficient CrewAI pipeline (prioritizing `gemini-3.1-flash-lite-preview` via `GEMINI_MODEL_ENRICHMENT`):
+    - **Enrichment Supervisor**: Oversees task coordination.
+    - **IR Research Specialist**: Performs targeted, high-authority searches (max 5) for senior/director roles.
+    - **Affiliation Validator**: Verifies the found affiliations and company details.
+  - Implements **max_iter=10** on agents to prevent runaway search loops and excessive API costs.
+  - Filters results by `EXCHANGE_FILTER` specified in the parent directory's `.env`.
+  - Captures and validates "name", "ticker", "exchange", and "website" for new affiliations.
+  - Updates the `company_affiliations` list in each manager's `Profile.json` and sets `"enrichment_company_affiliations": "success"` for completed profiles.
+  - Automatically cleans up legacy status fields (`enrichment_status`, `enrichment_step`) during processing.
+  - Supports `MANAGERS_TO_ENRICH` environment variable for controlled batch processing.
+  - Generates an `Enrichment.log` for each manager processed.
+
 ## Data Flow
 - **Inputs:** `Profile.json` files located in `../Companies/<Company_Name>/` directory (parent directory of the project).
 - **Outputs:**

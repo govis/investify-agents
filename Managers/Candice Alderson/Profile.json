@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Ms. Alderson is a lawyer with over 20 years of experience. She was previously the Senior Vice President, Infrastructure Strategy at Ledcor Group.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Artemis Gold Inc.",
       "ticker": "ARTG",
       "exchange": "TSX",
       "title_or_role": "Senior Vice President, Corporate Affairs",
+      "website": "https://www.artemisgoldinc.com",
       "start_date": "2021-06-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

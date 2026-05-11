@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Mr. Hallam is a co-founder of the Company and has served as President and CEO since 2022. He was previously CFO from 2002 to 2022. He is a Chartered Professional Accountant and has been involved in the mining industry for over 30 years.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Platinum Group Metals Ltd.",
+      "ticker": "PTM",
+      "exchange": "NYSE",
+      "title_or_role": "Director, President and Chief Executive Officer",
+      "website": "https://www.platinumgroupmetals.net",
+      "start_date": "2022-04-01",
+      "end_date": null
+    },
+    {
+      "name": "Western Magnesium Corporation",
+      "ticker": "WMG",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://westernmagnesium.com",
+      "start_date": "2020-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -15,22 +36,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Platinum Group Metals Ltd.",
-      "ticker": "PTM",
-      "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "start_date": "2022-04-01",
-      "end_date": null
-    },
-    {
-      "name": "Western Magnesium Corporation",
-      "ticker": "WMG",
-      "exchange": "TSX",
-      "title_or_role": "Director",
-      "start_date": "2020-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

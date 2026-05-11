@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Sridhar Ramaswamy has served as our Chief Executive Officer and as a member of our board of directors since February 2024. Prior to that, he served as our Senior Vice President, AI since May 2023. From 2019 to May 2023, Mr. Ramaswamy was the co-founder and Chief Executive Officer of Neeva Inc. Prior to that, he held various roles at Google from 2003 to 2018, most recently as Senior Vice President, Ads & Commerce.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Snowflake Inc.",
       "ticker": "SNOW",
       "exchange": "NYSE",
       "title_or_role": "Chief Executive Officer, Director",
+      "website": "https://www.snowflake.com",
       "start_date": "2024-02-28",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

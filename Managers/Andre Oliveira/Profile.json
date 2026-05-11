@@ -6,19 +6,33 @@
   "age_year": 2024,
   "background": "Mr. Oliveira is the Vice President, Exploration. He joined Lundin Gold in 2023. He has extensive experience in mineral exploration across South America, previously working with Yamana Gold.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lundin Gold Inc.",
+      "ticker": "LUG",
+      "exchange": "TSX, Nasdaq Stockholm",
+      "title_or_role": "Vice President, Exploration",
+      "website": "https://lundingold.com",
+      "start_date": "March 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Yamana Gold Inc.",
+      "ticker": "AUY",
+      "exchange": "NYSE, TSX",
+      "website": "https://www.yamanagold.com",
+      "title_or_role": "Senior Geologist, Manager, Country Director, South America Senior Director",
+      "start_date": "2005",
+      "end_date": "2022",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Lundin Gold Inc.",
-      "ticker": "LUG",
-      "exchange": "TSX",
-      "title_or_role": "Vice President, Exploration",
-      "start_date": "2023-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

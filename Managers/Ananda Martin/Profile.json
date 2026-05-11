@@ -6,19 +6,33 @@
   "age_year": 2024,
   "background": "Ms. Martin has served as our General Counsel since January 2021. Prior to joining Spire, she was a partner at Paul Hastings LLP. She holds a B.A. from Yale University and a J.D. from Harvard Law School.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Spire Global, Inc.",
+      "ticker": "SPIR",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://spire.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Legend Biotech Corporation",
+      "ticker": "LEGN",
+      "exchange": "NASDAQ",
+      "website": "https://www.legendbiotech.com",
+      "title_or_role": "VP, Global Compliance",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Spire Global, Inc.",
-      "ticker": "SPIR",
-      "exchange": "NYSE",
-      "title_or_role": "General Counsel",
-      "start_date": "2021-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

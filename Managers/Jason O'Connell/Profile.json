@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. O'Connell is the Senior Vice President, Energy. He joined Franco-Nevada in 2007 and has been involved in the management of the Company's energy portfolio.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Franco-Nevada Corporation",
       "ticker": "FNV",
       "exchange": "NYSE",
       "title_or_role": "Senior Vice President, Energy",
+      "website": "https://www.franco-nevada.com",
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

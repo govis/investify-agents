@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Dr. Sivaram has served as our Chief Executive Officer since February 2024 and as a member of our Board since September 2023. Prior to joining QuantumScape, he served as President of Western Digital Corp. from 2020 to 2023 and as Executive Vice President of Silicon Technology from 2016 to 2020. He previously held leadership roles at SanDisk and Matrix Semiconductor.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "QuantumScape Corporation",
       "ticker": "QS",
       "exchange": "NYSE",
       "title_or_role": "Chief Executive Officer, Director",
+      "website": "https://www.quantumscape.com",
       "start_date": "2024-02-15",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,58 @@
   "age_year": 2023,
   "background": "Alice Wong is Senior Vice-President and Chief Corporate Officer. She has been with Cameco for over 30 years, holding various leadership positions in marketing, corporate responsibility, and human resources.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO",
+      "exchange": "TSX",
+      "title_or_role": "Senior Vice-President & Chief Corporate Officer",
+      "website": "cameco.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO",
+      "exchange": "TSX",
+      "title_or_role": "Senior Vice-President and Chief Corporate Officer",
+      "website": "https://www.cameco.com",
+      "start_date": "2011-07-01",
+      "end_date": null
+    },
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DML",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "denisonmines.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Precision Drilling Corporation",
+      "ticker": "PD",
+      "exchange": "TSX",
+      "website": "precisiondrilling.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hecla Mining Company",
+      "ticker": "HL",
+      "exchange": "NYSE",
+      "website": "hecla.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear",
     "Reshoring"
@@ -14,30 +66,5 @@
   "committees": [
     "Environment, Health, Safety and Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "Cameco Corporation",
-      "ticker": "CCJ",
-      "exchange": "NYSE",
-      "title_or_role": "Senior Vice-President and Chief Corporate Officer",
-      "start_date": "2011-07-01",
-      "end_date": null
-    },
-    {
-      "name": "Cameco Corporation",
-      "ticker": "CCO",
-      "exchange": "TSX",
-      "title_or_role": "Senior Vice-President and Chief Corporate Officer",
-      "start_date": "2011-07-01",
-      "end_date": null
-    },
-    {
-      "name": "Denison Mines Corp.",
-      "ticker": "DNN",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

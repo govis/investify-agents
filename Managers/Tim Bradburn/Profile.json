@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Bradburn has over 25 years of experience in corporate law and governance. He joined IAMGOLD in 2009 and was appointed Senior Vice President, General Counsel and Corporate Secretary in 2017.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "IAMGOLD Corporation",
       "ticker": "IAG",
       "exchange": "NYSE",
       "title_or_role": "Senior Vice President, General Counsel and Corporate Secretary",
+      "website": "https://www.iamgold.com",
       "start_date": "2017-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

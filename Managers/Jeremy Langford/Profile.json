@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Langford is a mining engineer with over 25 years of experience in the mining industry. He was previously the COO of Endeavour Mining Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Artemis Gold Inc.",
       "ticker": "ARTG",
       "exchange": "TSX",
       "title_or_role": "President and Chief Operating Officer",
+      "website": "https://www.artemisgoldinc.com",
       "start_date": "2022-09-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

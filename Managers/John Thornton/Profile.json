@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Executive Chairman, Barrick Gold Corporation; Former President, Goldman Sachs.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "title_or_role": "Lead Independent Director",
+      "website": "https://www.ford.com",
+      "start_date": "1996-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "GOLD",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Chairman",
+      "website": "https://www.barrick.com",
+      "start_date": "2012-02-15",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Gold",
@@ -16,22 +37,6 @@
     "Finance Committee",
     "Nominating and Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Ford Motor Company",
-      "ticker": "F",
-      "exchange": "NYSE",
-      "title_or_role": "Lead Independent Director",
-      "start_date": "1996-01-01",
-      "end_date": null
-    },
-    {
-      "name": "Barrick Gold Corporation",
-      "ticker": "GOLD",
-      "exchange": "NYSE",
-      "title_or_role": "Executive Chairman",
-      "start_date": "2012-02-15",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Mr. Farris has served as Chairman of the Board since 2016. He was previously the Chairman and CEO of Apache Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Cheniere Energy, Inc.",
+      "ticker": "LNG",
+      "exchange": "NYSE",
+      "title_or_role": "Chairman of the Board",
+      "website": "https://www.cheniere.com",
+      "start_date": "2016-05-12",
+      "end_date": null
+    },
+    {
+      "name": "Livent Corporation",
+      "ticker": "LTHM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.livent.com",
+      "start_date": "2018-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -16,22 +37,6 @@
     "Governance and Nominating Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Cheniere Energy, Inc.",
-      "ticker": "LNG",
-      "exchange": "NYSE",
-      "title_or_role": "Chairman of the Board",
-      "start_date": "2016-05-12",
-      "end_date": null
-    },
-    {
-      "name": "Livent Corporation",
-      "ticker": "LTHM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2018-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

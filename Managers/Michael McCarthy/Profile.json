@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Mr. McCarthy has served as our Chief Legal Officer and Head of Corporate Development since 2013. Previously, he was General Counsel at Infinera Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "QuantumScape Corporation",
+      "ticker": "QS",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Legal Officer",
+      "website": "https://www.quantumscape.com",
+      "start_date": "2013-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Union Pacific Corporation",
+      "ticker": "UNP",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Lead Director",
+      "website": "https://www.up.com",
+      "start_date": "2008-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -15,22 +36,6 @@
     "Executive Committee",
     "Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "QuantumScape Corporation",
-      "ticker": "QS",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Legal Officer",
-      "start_date": "2013-01-01",
-      "end_date": null
-    },
-    {
-      "name": "Union Pacific Corporation",
-      "ticker": "UNP",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Lead Director",
-      "start_date": "2008-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

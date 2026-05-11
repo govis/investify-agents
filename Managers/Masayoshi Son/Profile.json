@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Masayoshi Son is the Chairman of our board of directors. He is the Founder, Chairman and CEO of SoftBank Group Corp. He has served on our board since 2016.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Arm Holdings plc",
       "ticker": "ARM",
       "exchange": "NASDAQ",
       "title_or_role": "Chairman",
+      "website": "https://www.arm.com",
       "start_date": "2016-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

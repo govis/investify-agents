@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Shawn Duffy has served as Chief Financial Officer since 2014. She joined Viasat in 2005 and has held various roles including Corporate Controller and Vice President. Before Viasat, she was at Ernst & Young LLP.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Viasat, Inc.",
       "ticker": "VSAT",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.viasat.com",
       "start_date": "2014-06-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

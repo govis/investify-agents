@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Mr. Ghai has served as Senior Vice President and CFO of GE since September 2023, and CFO of GE Aerospace since August 2022. He previously served as CFO of Otis Worldwide Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "title_or_role": "Senior Vice President and Chief Financial Officer, CFO, GE Aerospace",
+      "website": "https://www.geaerospace.com",
+      "start_date": "2023-09-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense",
     "Electrification"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "General Electric Company",
-      "ticker": "GE",
-      "exchange": "NYSE",
-      "title_or_role": "Senior Vice President and Chief Financial Officer, CFO, GE Aerospace",
-      "start_date": "2023-09-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

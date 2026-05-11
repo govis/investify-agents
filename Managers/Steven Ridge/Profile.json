@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Steven D. Ridge is executive vice president and chief financial officer of Dominion Energy. He assumed this role in November 2022. Previously, he served as vice president and general manager of eastern distribution operations for Dominion Energy Virginia.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Dominion Energy, Inc.",
       "ticker": "D",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "website": "https://www.dominionenergy.com",
       "start_date": "2022-11-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

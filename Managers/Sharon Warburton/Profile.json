@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms Warburton is a Chartered Accountant with over 25 years\u2019 experience in the resources and infrastructure sectors. She is a Director of Wesfarmers, Worley, and Blackmores.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Northern Star Resources Limited",
+      "ticker": "NST",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://www.nsrltd.com",
+      "start_date": "2021-09-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Audit and Risk Committee",
     "Remuneration Committee (Chair)"
   ],
-  "companies": [
-    {
-      "name": "Northern Star Resources Limited",
-      "ticker": "NST",
-      "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
-      "start_date": "2021-09-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

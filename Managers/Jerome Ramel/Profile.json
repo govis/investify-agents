@@ -6,19 +6,23 @@
   "age_year": 2023,
   "background": "Jerome Ramel is President, Power and Discrete Products Group, a position he has held since 2022. He is a member of ST\u2019s Executive Committee. Ramel joined ST in 1995 and has held various management positions in the Power and Discrete Group.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "STMicroelectronics N.V.",
       "ticker": "STM",
       "exchange": "NYSE",
       "title_or_role": "President, Power and Discrete Products Group",
+      "website": "https://www.st.com",
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Mr. Benson was appointed as Chairman in 2021. He has over 30 years of experience in the mining sector, including as CEO of SSR Mining and CEO of Troy Resources.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "ASX",
+      "title_or_role": "Chairman and Independent Non-Executive Director",
+      "website": "https://oceanagold.com",
+      "start_date": "2021-05-01",
+      "end_date": null
+    },
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "TSX",
+      "title_or_role": "Chairman and Independent Director",
+      "website": "https://oceanagold.com",
+      "start_date": "2021-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -15,22 +36,6 @@
     "Remuneration and People Committee",
     "Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "OceanaGold Corporation",
-      "ticker": "OGC",
-      "exchange": "ASX",
-      "title_or_role": "Chairman and Independent Non-Executive Director",
-      "start_date": "2021-05-01",
-      "end_date": null
-    },
-    {
-      "name": "OceanaGold Corporation",
-      "ticker": "OGC",
-      "exchange": "TSX",
-      "title_or_role": "Chairman and Independent Director",
-      "start_date": "2021-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

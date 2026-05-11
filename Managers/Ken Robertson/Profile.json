@@ -6,6 +6,18 @@
   "age_year": 2023,
   "background": "Former partner at EY with over 35 years of experience in public accounting and the mining sector.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Gold Royalty Corp.",
+      "ticker": "GROY",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.goldroyalty.com",
+      "start_date": "2020-06-23",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -15,14 +27,6 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Gold Royalty Corp.",
-      "ticker": "GROY",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-06-23",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

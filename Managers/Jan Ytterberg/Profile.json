@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Senior Advisor. Previously CFO of AB Volvo and Scania. Member of the Group Executive Board since 2018.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "AB Volvo",
       "ticker": "VOLV-B",
       "exchange": "STO",
       "title_or_role": "Senior Advisor",
+      "website": "https://www.volvogroup.com",
       "start_date": "2023-06-16",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

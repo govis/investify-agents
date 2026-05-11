@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Natarajan has served as our Chief Financial Officer since January 2021. Prior to joining SAIC, he served as Vice President of Financial Planning and Analysis and Mergers and Acquisitions at Northrop Grumman Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Science Applications International Corporation",
       "ticker": "SAIC",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.saic.com",
       "start_date": "2021-01-04",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

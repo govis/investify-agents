@@ -6,6 +6,39 @@
   "age_year": null,
   "background": "Amanda Chow is a CPA, CMA with over 20 years of experience in the resource sector, focusing on financial reporting and compliance.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Skyharbour Resources Ltd.",
+      "ticker": "SYH",
+      "exchange": "TSXV",
+      "title_or_role": "Chief Financial Officer",
+      "website": "skyharbourltd.com",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aben Gold Corp.",
+      "ticker": "ABM",
+      "exchange": "TSXV",
+      "website": "abengold.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kubera Gold Corp.",
+      "ticker": "KBRA",
+      "exchange": "TSXV",
+      "website": "kuberagold.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -13,14 +46,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "Skyharbour Resources Ltd.",
-      "ticker": "SYH",
-      "exchange": "TSX",
-      "title_or_role": "Director",
-      "start_date": "2013-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

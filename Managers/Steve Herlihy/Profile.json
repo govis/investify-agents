@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Steve Herlihy is a Chartered Accountant with over 30 years of experience in commercial and financial roles. He has served as CFO for several ASX-listed companies and has extensive experience in capital raisings and financial management in the resources sector.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Bannerman Energy Ltd",
       "ticker": "BMN",
       "exchange": "ASX",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://bannermanenergy.com",
       "start_date": "2022-01-17",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

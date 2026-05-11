@@ -6,6 +6,19 @@
   "age_year": 2024,
   "background": "Retired Director and CEO of Argonne National Laboratory. He has served on the HEICO board since 1984.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "HEICO Corporation",
+      "ticker": "HEI",
+      "exchange": "NYSE",
+      "title_or_role": "Director (Member of the Board of Directors)",
+      "website": "https://www.heico.com",
+      "start_date": "2002",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -15,14 +28,5 @@
     "Compensation Committee",
     "Finance Committee"
   ],
-  "companies": [
-    {
-      "name": "HEICO Corporation",
-      "ticker": "HEI",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "1984",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

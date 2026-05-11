@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Head of Business Area Aeronautics. Joined Saab in 1986. Previously Head of Business Area Kockums and Head of Business Unit Radar Solutions.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Saab Aktiebolag",
+      "ticker": "SAAB",
+      "exchange": "STO",
+      "title_or_role": "Head of Business Area Aeronautics",
+      "website": "https://www.saab.com",
+      "start_date": "2023-03-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense",
     "Electrification"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Saab Aktiebolag",
-      "ticker": "SAAB",
-      "exchange": "STO",
-      "title_or_role": "Head of Business Area Aeronautics",
-      "start_date": "2023-03-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

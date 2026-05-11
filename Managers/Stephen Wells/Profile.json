@@ -6,19 +6,23 @@
   "age_year": 2023,
   "background": "Stephen Wells is a finance professional with over 25 years of experience in the mining and energy sectors. He has held senior finance roles at various ASX-listed companies and has expertise in financial management, corporate finance, and strategic planning.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Syrah Resources Limited",
       "ticker": "SYR",
       "exchange": "ASX",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.syrahresources.com.au",
       "start_date": "2018-12-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

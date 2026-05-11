@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Bill Ford is Executive Chair of Ford Motor Company. He has been a member of the Board since 1988 and served as CEO from 2001 to 2006.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Chair",
+      "website": "https://www.ford.com",
+      "start_date": "2006-09-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Ford Motor Company",
-      "ticker": "F",
-      "exchange": "NYSE",
-      "title_or_role": "Executive Chair",
-      "start_date": "2006-09-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

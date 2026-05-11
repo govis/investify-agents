@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Ms. Colman is the Vice President, Legal and Corporate Secretary. She has been with the Company since 2015. Previously, she was General Counsel and Corporate Secretary at Denison Mines Corp.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Lundin Gold Inc.",
       "ticker": "LUG",
       "exchange": "TSX",
       "title_or_role": "Vice President, Legal and Corporate Secretary",
+      "website": "https://lundingold.com",
       "start_date": "2015-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

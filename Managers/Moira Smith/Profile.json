@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Dr. Smith has over 30 years of experience in the mining industry, specializing in exploration and geology. She was previously the VP Exploration for Liberty Gold Corp. and has held senior positions with Teck Resources and Fronteer Gold.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Discovery Silver Corp.",
+      "ticker": "DSV",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://discoverysilver.com",
+      "start_date": "2020-11-12",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Governance and Nominating Committee",
     "Technical Committee (Chair)"
   ],
-  "companies": [
-    {
-      "name": "Discovery Silver Corp.",
-      "ticker": "DSV",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-11-12",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

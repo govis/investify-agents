@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Lang is the Chair of the Board. He was formerly the President and CEO of Centerra Gold Inc. and has over 40 years of experience in the mining industry, including executive roles at Stillwater Mining Company and Barrick Gold.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Hudbay Minerals Inc.",
+      "ticker": "HBM",
+      "exchange": "NYSE",
+      "title_or_role": "Chair of the Board",
+      "website": "https://www.hudbayminerals.com",
+      "start_date": "2019-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Hudbay Minerals Inc.",
-      "ticker": "HBM",
-      "exchange": "NYSE",
-      "title_or_role": "Chair of the Board",
-      "start_date": "2019-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

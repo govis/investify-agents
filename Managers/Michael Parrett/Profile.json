@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Parrett is the Chair of the Board. He is a corporate director and was formerly the President and CEO of Billiton Metals Canada Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CGAU",
+      "exchange": "NYSE",
+      "title_or_role": "Chair of the Board",
+      "website": "https://www.centerragold.com",
+      "start_date": "2014-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Human Resources and Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Centerra Gold Inc.",
-      "ticker": "CGAU",
-      "exchange": "NYSE",
-      "title_or_role": "Chair of the Board",
-      "start_date": "2014-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

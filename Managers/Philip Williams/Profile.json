@@ -6,17 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Williams has over 20 years of experience in the mining and finance industries. He was previously the CEO of Consolidated Uranium Inc. before its merger with IsoEnergy. He has held various roles in equity research and investment banking.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "IsoEnergy Ltd.",
       "ticker": "ISO",
       "exchange": "TSX",
       "title_or_role": "President, Chief Executive Officer and Director",
+      "website": "https://www.isoenergy.ca",
       "start_date": "2023-12-05",
       "end_date": null
     },
@@ -25,8 +22,16 @@
       "ticker": "ISO",
       "exchange": "TSXV",
       "title_or_role": "Chief Executive Officer and Director",
+      "website": "https://www.isoenergy.ca",
       "start_date": "2023-12-05",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

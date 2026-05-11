@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Brian T. Olsavsky has been Senior Vice President and CFO since June 2015. He joined Amazon in 2002 and has held various financial leadership roles.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Amazon.com, Inc.",
+      "ticker": "AMZN",
+      "exchange": "NASDAQ",
+      "title_or_role": "Senior Vice President and CFO",
+      "website": "https://www.amazon.com",
+      "start_date": "2015-06-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Defense"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Amazon.com, Inc.",
-      "ticker": "AMZN",
-      "exchange": "NASDAQ",
-      "title_or_role": "Senior Vice President and CFO",
-      "start_date": "2015-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

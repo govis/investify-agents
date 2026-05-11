@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Mr. Verrico has over 40 years of experience in the mining and exploration industry. He has served as a director and officer of several public companies, including Xiana Mining Inc. and various junior exploration companies. He has extensive experience in project management and corporate development.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Oreterra Metals Corp.",
+      "ticker": "OTMC",
+      "exchange": "TSXV",
+      "title_or_role": "Chief Executive Officer, Director, President",
+      "website": "https://oreterra.com",
+      "start_date": "2021-06-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Gold"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Oreterra Metals Corp.",
-      "ticker": "OTMC",
-      "exchange": "TSXV",
-      "title_or_role": "Chief Executive Officer, Director, President",
-      "start_date": "2021-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

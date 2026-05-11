@@ -6,18 +6,14 @@
   "age_year": 2024,
   "background": "Dr. Strydom has served as our Chief Technology Officer since September 2021. He is a nuclear physicist with extensive experience in isotope separation and enrichment technologies.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "ASP Isotopes Inc.",
       "ticker": "ASPI",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Technology Officer",
+      "website": "https://aspisotopes.com",
       "start_date": "2021-09-01",
       "end_date": null
     },
@@ -26,8 +22,17 @@
       "ticker": "ASPI",
       "exchange": "NYSE",
       "title_or_role": "Chief Technology Officer",
+      "website": "https://aspisotopes.com",
       "start_date": "2021-09-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

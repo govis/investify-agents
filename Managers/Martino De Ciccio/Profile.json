@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. De Ciccio is a finance professional with extensive experience in the mining industry, particularly in corporate development and investor relations.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NorthIsle Copper and Gold Inc.",
+      "ticker": "NCX",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.northisle.ca",
+      "start_date": "2021-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Gold"
@@ -15,14 +27,6 @@
     "Audit Committee",
     "Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "NorthIsle Copper and Gold Inc.",
-      "ticker": "NCX",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

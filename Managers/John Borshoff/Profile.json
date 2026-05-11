@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Borshoff is an experienced mining executive and geologist with more than 50 years' experience in the uranium industry. He was the founder and CEO of Paladin Energy Ltd. He is a Fellow of the Australian Institute of Company Directors and the AusIMM.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Deep Yellow Limited",
       "ticker": "DYL",
       "exchange": "ASX",
       "title_or_role": "Managing Director and Chief Executive Officer",
+      "website": "https://deepyellow.com.au",
       "start_date": "2016-10-24",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. Stat has served as a member of our Board since 2020. She previously served in various roles at Accenture for 15 years, including as a Managing Director. Ms. Stat holds a B.S. in Science, Technology, and Society from Stanford University.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Palantir Technologies Inc.",
+      "ticker": "PLTR",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.palantir.com",
+      "start_date": "2020-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Defense"
@@ -15,14 +27,6 @@
     "Audit Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Palantir Technologies Inc.",
-      "ticker": "PLTR",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2020-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

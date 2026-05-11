@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Engelstad is the Vice President, General Counsel. Prior to joining Alamos, he was General Counsel at McEwen Mining Inc.",
   "picture_url": "https://media.licdn.com/dms/image/v2/D5603AQG3nzdyT3ZFMw/profile-displayphoto-scale_200_200/B56ZwFMZrwJwAY-/0/1769613663686?e=2147483647&amp;v=beta&amp;t=RRXkT2AKxJYT38og3WV9wdPMHHuPTzQ6437cawP1hcQ",
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "Alamos Gold Inc.",
+      "ticker": "AGI",
+      "exchange": "NYSE",
+      "title_or_role": "Vice President, General Counsel",
+      "website": "https://www.alamosgold.com",
+      "start_date": "2015-04-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -20,16 +32,6 @@
     }
   ],
   "committees": [],
-  "companies": [
-    {
-      "name": "Alamos Gold Inc.",
-      "ticker": "AGI",
-      "exchange": "NYSE",
-      "title_or_role": "Vice President, General Counsel",
-      "start_date": "2015-04-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": "Picture.jpg",
-  "enrichment_status": "success"
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

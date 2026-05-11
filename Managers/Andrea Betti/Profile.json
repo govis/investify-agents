@@ -6,21 +6,63 @@
   "age_year": null,
   "background": "Andrea Betti is an accounting and corporate governance professional with over 20 years' experience in the resources sector. she has acted as Company Secretary for several ASX-listed companies and has experience in corporate advisory and financial management.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Alligator Energy Limited",
       "ticker": "AGE",
       "exchange": "ASX",
       "title_or_role": "Company Secretary",
-      "start_date": "2023-10-01",
-      "end_date": null
+      "website": "https://www.alligatorenergy.com.au",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Argosy Minerals Limited",
+      "ticker": "AGY",
+      "exchange": "ASX",
+      "website": "https://www.argosyminerals.com.au",
+      "title_or_role": "Company Secretary / Non-Executive Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Andromeda Metals Limited",
+      "ticker": "ADN",
+      "exchange": "ASX",
+      "website": "https://www.andromet.com.au",
+      "title_or_role": "Company Secretary",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Poseidon Nickel Limited",
+      "ticker": "POS",
+      "exchange": "ASX",
+      "website": "https://poseidon-nickel.com.au",
+      "title_or_role": "Company Secretary",
+      "start_date": "2019",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Tempus Resources Limited",
+      "ticker": "TMR",
+      "exchange": "ASX",
+      "website": "https://tempusresources.com.au",
+      "title_or_role": "Company Secretary",
+      "start_date": "2018",
+      "end_date": "2023",
+      "validated": true
     }
   ],
-  "picture_local": null,
-  "enrichment_status": "not_found"
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

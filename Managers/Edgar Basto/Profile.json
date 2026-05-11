@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Edgar Basto was appointed Chief Operating Officer in October 2022. He has been with BHP since 1989 and has held numerous leadership positions including President Minerals Australia and President Western Australia Iron Ore.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "BHP Group Limited",
       "ticker": "BHP",
       "exchange": "NYSE",
       "title_or_role": "Chief Operating Officer",
+      "website": "https://www.bhp.com",
       "start_date": "2022-10-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

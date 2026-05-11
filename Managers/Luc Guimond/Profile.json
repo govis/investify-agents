@@ -6,21 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Guimond is the Chief Operating Officer. He has over 30 years of experience in the mining industry and joined Alamos in 2015 following the merger with AuRico Gold.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Alamos Gold Inc.",
       "ticker": "AGI",
       "exchange": "NYSE",
       "title_or_role": "Chief Operating Officer",
+      "website": "https://www.alamosgold.com",
       "start_date": "2022-04-01",
       "end_date": null
     }
   ],
-  "picture_local": null,
-  "enrichment_status": "not_found"
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

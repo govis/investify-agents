@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Retired Admiral, U.S. Navy. Former Commander, U.S. Naval Forces Europe.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "CACI International Inc",
+      "ticker": "CACI",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.caci.com",
+      "start_date": "2006-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -14,14 +26,6 @@
     "Corporate Governance and Nominating Committee",
     "Security and Risk Assessment Committee"
   ],
-  "companies": [
-    {
-      "name": "CACI International Inc",
-      "ticker": "CACI",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2006-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

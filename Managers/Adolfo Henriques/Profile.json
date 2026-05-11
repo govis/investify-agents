@@ -6,6 +6,39 @@
   "age_year": 2024,
   "background": "Vice Chairman of Related Group. Former Chairman and CEO of Florida East Coast Industries. He joined the board in 2007.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "HEICO Corporation",
+      "ticker": "HEI",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.heico.com",
+      "start_date": "2003",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Boston Private Financial Holdings, Inc.",
+      "ticker": "BPFH",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "Regions Financial Corporation",
+      "ticker": "RF",
+      "exchange": "NYSE",
+      "website": "https://www.regions.com",
+      "title_or_role": "President - South Region",
+      "start_date": "1998",
+      "end_date": "2005",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -15,14 +48,5 @@
     "Compensation Committee",
     "Finance Committee"
   ],
-  "companies": [
-    {
-      "name": "HEICO Corporation",
-      "ticker": "HEI",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2007",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

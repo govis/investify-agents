@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Chairman and CEO of Corning Incorporated.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Amazon.com, Inc.",
+      "ticker": "AMZN",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.amazon.com",
+      "start_date": "2016-02-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Defense"
@@ -14,14 +26,6 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Amazon.com, Inc.",
-      "ticker": "AMZN",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2016-02-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

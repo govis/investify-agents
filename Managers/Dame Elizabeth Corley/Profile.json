@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Elizabeth is the Senior Independent Director. She was formerly CEO of Allianz Global Investors and has extensive experience in the financial services industry.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "BAE Systems plc",
+      "ticker": "BA",
+      "exchange": "LSE",
+      "title_or_role": "Senior Independent Director, Non-Executive Director",
+      "website": "https://www.baesystems.com",
+      "start_date": "2022-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -15,14 +27,6 @@
     "Nominations Committee",
     "Remuneration Committee"
   ],
-  "companies": [
-    {
-      "name": "BAE Systems plc",
-      "ticker": "BA",
-      "exchange": "LSE",
-      "title_or_role": "Senior Independent Director, Non-Executive Director",
-      "start_date": "2022-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

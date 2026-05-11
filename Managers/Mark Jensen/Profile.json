@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Managing Partner at M. Jensen Investment Management. Former partner at Deloitte.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Li-Cycle Holdings Corp.",
+      "ticker": "LICY",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://li-cycle.com",
+      "start_date": "2021-08-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Li-Cycle Holdings Corp.",
-      "ticker": "LICY",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-08-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

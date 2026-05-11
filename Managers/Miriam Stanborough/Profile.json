@@ -6,6 +6,18 @@
   "age_year": null,
   "background": "Miriam Stanborough is a chemical engineer with over 20 years of experience in the minerals processing industry. She has held roles at Monadelphous, Iluka Resources, and Alcoa.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Pilbara Minerals Limited",
+      "ticker": "PLS",
+      "exchange": "ASX",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.pilbaraminerals.com.au",
+      "start_date": "2021-10-04",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +26,6 @@
     "People and Culture Committee (Chair)",
     "Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "Pilbara Minerals Limited",
-      "ticker": "PLS",
-      "exchange": "ASX",
-      "title_or_role": "Independent Non-Executive Director",
-      "start_date": "2021-10-04",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

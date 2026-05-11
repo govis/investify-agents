@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former President and CEO of Flowserve Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Texas Instruments Incorporated",
+      "ticker": "TXN",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.ti.com",
+      "start_date": "2017-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Governance and Stockholder Relations Committee"
   ],
-  "companies": [
-    {
-      "name": "Texas Instruments Incorporated",
-      "ticker": "TXN",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2017-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

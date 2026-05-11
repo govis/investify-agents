@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former President of The Ohio State University. Former Chancellor of the State University of New York.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.cisco.com",
+      "start_date": "2012-08-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Nomination and Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Cisco Systems, Inc.",
-      "ticker": "CSCO",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2012-08-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Peter Van Camp has served as Executive Chairman since 2007. He previously served as our CEO from 2000 to 2007.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Equinix, Inc.",
       "ticker": "EQIX",
       "exchange": "NASDAQ",
       "title_or_role": "Executive Chairman, Director",
+      "website": "https://www.equinix.com",
       "start_date": "2007-04-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

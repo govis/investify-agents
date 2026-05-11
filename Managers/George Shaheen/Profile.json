@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "George T. Shaheen has been a member of our Board since June 2004. He was previously the Chief Executive Officer of Siebel Systems, Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NetApp, Inc.",
+      "ticker": "NTAP",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.netapp.com",
+      "start_date": "2004-06-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -14,14 +26,6 @@
     "Compensation Committee (Chair)",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "NetApp, Inc.",
-      "ticker": "NTAP",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2004-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

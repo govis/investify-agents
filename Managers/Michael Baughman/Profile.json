@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mike Baughman is Executive Vice President and Chief Financial Officer of Emerson. He joined Emerson in 2017 as Vice President and Controller and was promoted to CFO in 2023.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Emerson Electric Co.",
       "ticker": "EMR",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "website": "https://www.emerson.com",
       "start_date": "2023-05-10",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Pekka Ala-Pietil\u00e4 is the Chairman of the Supervisory Board. He was formerly the President of Nokia Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "SAP SE",
+      "ticker": "SAP",
+      "exchange": "NYSE",
+      "title_or_role": "Chairman of the Supervisory Board",
+      "website": "https://www.sap.com",
+      "start_date": "2024-05-15",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Defense"
@@ -15,14 +27,6 @@
     "General and Compensation Committee",
     "Strategy Committee"
   ],
-  "companies": [
-    {
-      "name": "SAP SE",
-      "ticker": "SAP",
-      "exchange": "NYSE",
-      "title_or_role": "Chairman of the Supervisory Board",
-      "start_date": "2024-05-15",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

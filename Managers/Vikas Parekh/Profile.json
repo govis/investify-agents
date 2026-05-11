@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Parekh has served as a member of our board of directors since December 2021. Mr. Parekh is a Managing Partner at SoftBank Investment Advisers.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Planet Labs PBC",
+      "ticker": "PL",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.planet.com",
+      "start_date": "2021-12-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "Planet Labs PBC",
-      "ticker": "PL",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2021-12-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Raghu Belur is a co-founder of Enphase and has served as Chief Products Officer since February 2017. He has held various leadership roles in product management and engineering since the company's inception in 2006.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Enphase Energy, Inc.",
+      "ticker": "ENPH",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief Products Officer, Co-founder",
+      "website": "https://enphase.com",
+      "start_date": "2017-02-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Enphase Energy, Inc.",
-      "ticker": "ENPH",
-      "exchange": "NASDAQ",
-      "title_or_role": "Chief Products Officer, Co-founder",
-      "start_date": "2017-02-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

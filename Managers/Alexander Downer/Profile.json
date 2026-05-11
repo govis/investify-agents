@@ -6,6 +6,29 @@
   "age_year": 2024,
   "background": "Alexander was Australia's longest-serving Minister for Foreign Affairs and later served as the Australian High Commissioner to the UK. He has extensive experience in international relations and global politics.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Yellow Cake plc",
+      "ticker": "YCA",
+      "exchange": "LSE",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://yellowcakeplc.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gold Hydrogen Limited",
+      "ticker": "GHY",
+      "exchange": "ASX",
+      "website": "https://www.goldhydrogen.com.au",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "June 2022",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -15,14 +38,5 @@
     "Nomination Committee",
     "Remuneration Committee (Chair)"
   ],
-  "companies": [
-    {
-      "name": "Yellow Cake plc",
-      "ticker": "YCA",
-      "exchange": "LSE",
-      "title_or_role": "Independent Non-Executive Director",
-      "start_date": "2018-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

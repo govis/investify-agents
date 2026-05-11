@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Simpson has over 25 years of experience in the mining industry. Prior to joining Orla, he was Chief Operating Officer of Torex Gold Resources Inc. and has held senior roles at G Mining Services and Vale.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Orla Mining Ltd.",
       "ticker": "OLA",
       "exchange": "TSX",
       "title_or_role": "Director, President and Chief Executive Officer",
+      "website": "https://www.orlamining.com",
       "start_date": "2018-11-12",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

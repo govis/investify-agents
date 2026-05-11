@@ -6,19 +6,33 @@
   "age_year": 2024,
   "background": "Mr. Feygin has served as Executive Vice President and Chief Commercial Officer since September 2016. He joined Cheniere in 2014 as Senior Vice President, Strategy and Corporate Development.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Cheniere Energy, Inc.",
       "ticker": "LNG",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and Chief Commercial Officer",
-      "start_date": "2016-09-26",
-      "end_date": null
+      "website": "https://www.cheniere.com/",
+      "start_date": "March 2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cheniere Energy Partners, L.P.",
+      "ticker": "CQP",
+      "exchange": "NYSE",
+      "website": "https://cqpir.cheniere.com/",
+      "title_or_role": "Director (Cheniere Energy Partners GP, LLC)",
+      "start_date": "October 2024",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Helm has served as Chairman of the Board since 2022 and as a director since 2016. He is a private investor and was previously a co-founder of Helm, Cullar & Hanley, LLC.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Vistra Corp.",
+      "ticker": "VST",
+      "exchange": "NYSE",
+      "title_or_role": "Chairman of the Board, Director",
+      "website": "https://www.vistracorp.com",
+      "start_date": "2022-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Executive Committee"
   ],
-  "companies": [
-    {
-      "name": "Vistra Corp.",
-      "ticker": "VST",
-      "exchange": "NYSE",
-      "title_or_role": "Chairman of the Board, Director",
-      "start_date": "2022-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

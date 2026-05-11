@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Zhernov is the Managing Partner of Millstone & Co, an investment and financial group. He has extensive experience in investment banking and private equity.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Critical Metals Corp.",
       "ticker": "CRML",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
+      "website": "https://criticalmetalscorp.com",
       "start_date": "2024-02-27",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

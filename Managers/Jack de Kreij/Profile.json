@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Jack de Kreij was appointed to the Supervisory Board in 2024. He is the former CFO and member of the Executive Board of Vopak.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "ASML Holding N.V.",
+      "ticker": "ASML",
+      "exchange": "NASDAQ",
+      "title_or_role": "Vice Chairman of the Supervisory Board",
+      "website": "https://www.asml.com",
+      "start_date": "2024-04-24",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Reshoring"
@@ -14,14 +26,6 @@
   "committees": [
     "Audit Committee (Chair)"
   ],
-  "companies": [
-    {
-      "name": "ASML Holding N.V.",
-      "ticker": "ASML",
-      "exchange": "NASDAQ",
-      "title_or_role": "Vice Chairman of the Supervisory Board",
-      "start_date": "2024-04-24",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

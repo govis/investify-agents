@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Co-founder of Steel Dynamics. Chairman of the Board since May 2021, Chief Executive Officer since 2012, and President since 2012. Previously served as President and Chief Operating Officer from 2011 to 2012.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Steel Dynamics, Inc.",
       "ticker": "STLD",
       "exchange": "NASDAQ",
       "title_or_role": "Chairman, Chairman of the Board, Chief Executive Officer, Director, President",
+      "website": "https://www.steeldynamics.com",
       "start_date": "2021-05",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Ms. Warren has served as General Counsel and Secretary since 2022. She joined TransDigm in 2016 and previously practiced law at Baker & Hostetler LLP.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "TransDigm Group Incorporated",
       "ticker": "TDG",
       "exchange": "NYSE",
       "title_or_role": "General Counsel and Secretary",
+      "website": "https://www.transdigm.com",
       "start_date": "2022-10-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

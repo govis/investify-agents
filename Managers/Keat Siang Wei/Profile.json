@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Keat Siang Wei is an Independent Non-Executive Director. He has a background in investment banking and corporate finance, with a focus on the natural resources sector in emerging markets.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "National Atomic Company Kazatomprom JSC",
+      "ticker": "KAP",
+      "exchange": "LSE",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.kazatomprom.kz",
+      "start_date": "2023-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -14,14 +26,6 @@
     "Nomination and Remuneration Committee (Chair)",
     "Strategic Planning and Investment Committee"
   ],
-  "companies": [
-    {
-      "name": "National Atomic Company Kazatomprom JSC",
-      "ticker": "KAP",
-      "exchange": "LSE",
-      "title_or_role": "Independent Non-Executive Director",
-      "start_date": "2023-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

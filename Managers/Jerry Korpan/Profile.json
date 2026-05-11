@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Korpan was formerly Executive Director of Yorkton Securities in London.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "B2Gold Corp.",
+      "ticker": "BTG",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.b2gold.com",
+      "start_date": "2007-11-30",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "B2Gold Corp.",
-      "ticker": "BTG",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2007-11-30",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

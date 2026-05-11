@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Michaud has over 30 years of experience in gold exploration and mining. He has been with Wesdome since 2017.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Wesdome Gold Mines Ltd.",
       "ticker": "WDO",
       "exchange": "TSX",
       "title_or_role": "Vice President, Exploration",
+      "website": "https://www.wesdome.com",
       "start_date": "2017-05-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

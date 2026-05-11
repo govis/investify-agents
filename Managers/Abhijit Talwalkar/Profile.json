@@ -6,6 +6,69 @@
   "age_year": 2024,
   "background": "Mr. Talwalkar has been a director since 2011 and Chairman of the Board since 2019. He was President and CEO of LSI Corporation from 2005 to 2014.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lam Research Corporation",
+      "ticker": "LRCX",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.lamresearch.com",
+      "start_date": "2011-02-15",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "iRhythm Technologies, Inc.",
+      "ticker": "IRTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.irhythmtech.com",
+      "title_or_role": "Director",
+      "start_date": "2016-05-19",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "TE Connectivity Ltd.",
+      "ticker": "TEL",
+      "exchange": "NYSE",
+      "website": "https://www.te.com",
+      "title_or_role": "Director",
+      "start_date": "2017-03-08",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "LSI Corporation",
+      "ticker": "LSI",
+      "exchange": "NYSE",
+      "website": "https://www.broadcom.com",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "2005-05-02",
+      "end_date": "2014-05-06",
+      "validated": true
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "title_or_role": "Corporate Vice President and General Manager, Digital Enterprise Group",
+      "start_date": "2004-01-01",
+      "end_date": "2005-05-01",
+      "validated": true
+    },
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "title_or_role": "Director",
+      "start_date": "2017-08",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI",
     "Reshoring"
@@ -15,14 +78,5 @@
     "Compensation and Human Resources Committee",
     "Nominating and Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Lam Research Corporation",
-      "ticker": "LRCX",
-      "exchange": "NASDAQ",
-      "title_or_role": "Chairman of the Board, Director",
-      "start_date": "2019-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

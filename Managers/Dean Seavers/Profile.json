@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former President and Executive Director of National Grid plc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.albemarle.com",
+      "start_date": "2018-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -15,14 +27,6 @@
     "Capital Investment Committee",
     "Executive Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Albemarle Corporation",
-      "ticker": "ALB",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2018-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

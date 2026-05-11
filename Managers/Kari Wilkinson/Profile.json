@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Kari Wilkinson is executive vice president of HII and president of Ingalls Shipbuilding. She was elected to this position in April 2021. Wilkinson previously served as vice president, program management, at Ingalls Shipbuilding.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Huntington Ingalls Industries, Inc.",
       "ticker": "HII",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and President, Ingalls Shipbuilding",
+      "website": "https://www.hii.com",
       "start_date": "2021-04-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Chief Legal Officer and Company Secretary since 2019. Previously served as General Counsel for Global Regions at Baker Hughes.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Thomson Reuters Corporation",
       "ticker": "TRI",
       "exchange": "NYSE",
       "title_or_role": "Chief Legal Officer and Company Secretary",
+      "website": "https://www.thomsonreuters.com",
       "start_date": "2019-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

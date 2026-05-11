@@ -6,6 +6,18 @@
   "age_year": 2023,
   "background": "Mr. Zisch has served as a director since 2020. He has over 40 years of experience in the mining industry, including roles at Newmont and Argonaut Gold.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Contango Ore, Inc.",
+      "ticker": "CTGO",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.contangoore.com",
+      "start_date": "2020-11-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Contango Ore, Inc.",
-      "ticker": "CTGO",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-11-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

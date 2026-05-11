@@ -6,19 +6,113 @@
   "age_year": 2024,
   "background": "Mr. Lundin has many years of experience in the natural resource sector. He is the Chair of the Board and previously served as President and CEO of Josemaria Resources Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN",
+      "exchange": "TSX",
+      "title_or_role": "Chair of the Board",
+      "website": "lundinmining.com",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lucara Diamond Corp.",
+      "ticker": "LUC",
+      "exchange": "TSX",
+      "website": "lucaradiamond.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Filo Corp.",
+      "ticker": "FIL",
+      "exchange": "TSX",
+      "website": "filocorp.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lundin Gold Inc.",
+      "ticker": "LUG",
+      "exchange": "TSX",
+      "website": "lundingold.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NGEx Minerals Ltd.",
+      "ticker": "NGEX",
+      "exchange": "TSXV",
+      "website": "ngexminerals.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Africa Oil Corp.",
+      "ticker": "AOI",
+      "exchange": "TSX",
+      "website": "africaoilcorp.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Orr\u00f6n Energy AB",
+      "ticker": "ORRON",
+      "exchange": "STO",
+      "website": "orron.se",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sandvik AB",
+      "ticker": "SAND",
+      "exchange": "STO",
+      "website": "home.sandvik",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bluestone Resources Inc.",
+      "ticker": "BSR",
+      "exchange": "TSXV",
+      "website": "bluestoneresources.ca",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Josemaria Resources Inc.",
+      "ticker": "JOSE",
+      "exchange": "TSX",
+      "website": "josemariaresources.com",
+      "title_or_role": "President, CEO & Director",
+      "start_date": "2016",
+      "end_date": "2022",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Lundin Mining Corporation",
-      "ticker": "LUN",
-      "exchange": "TSX",
-      "title_or_role": "Chair of the Board, Director",
-      "start_date": "2022-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

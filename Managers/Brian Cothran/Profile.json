@@ -6,19 +6,23 @@
   "age_year": null,
   "background": "Brian Cothran is the Chief Operating Officer of Venture Global LNG. He joined the company with extensive experience in the energy and industrial sectors, including roles at GE and Baker Hughes.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Venture Global LNG, Inc.",
       "ticker": "VG",
       "exchange": "NYSE",
       "title_or_role": "Chief Operating Officer",
+      "website": "https://venturegloballng.com",
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

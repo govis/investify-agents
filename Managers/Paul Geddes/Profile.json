@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Geddes is a professional geologist with over 25 years of experience in mineral exploration and development.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Skeena Resources Limited",
       "ticker": "SKE",
       "exchange": "TSX",
       "title_or_role": "Senior Vice President, Exploration & Resource Development",
+      "website": "https://skeenaresources.com",
       "start_date": "2017-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Zimmerman has over 15 years of experience in the financial services and resource sectors. He previously served as a derivatives trader and has been involved in various capacities with public resource companies.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Stallion Uranium Corp.",
       "ticker": "STUD",
       "exchange": "TSX",
       "title_or_role": "Chief Executive Officer, Director",
+      "website": "https://stallionuranium.com",
       "start_date": "2021-04-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

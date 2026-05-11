@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Retired Senior Partner at McKinsey & Company.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Meta Platforms, Inc.",
+      "ticker": "META",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://about.meta.com",
+      "start_date": "2020-03-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Meta Platforms, Inc.",
-      "ticker": "META",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-03-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

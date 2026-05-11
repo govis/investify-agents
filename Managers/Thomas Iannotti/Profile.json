@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Thomas Iannotti has been Chairman of the Board since 2017 and a director since 2011. He was previously Senior Vice President and General Manager, Enterprise Services at Hewlett-Packard Company.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Applied Materials, Inc.",
+      "ticker": "AMAT",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chairman of the Board, Independent Director",
+      "website": "https://www.appliedmaterials.com",
+      "start_date": "2017-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Reshoring"
@@ -15,14 +27,6 @@
     "Corporate Governance and Nominating Committee",
     "Human Resources and Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Applied Materials, Inc.",
-      "ticker": "AMAT",
-      "exchange": "NASDAQ",
-      "title_or_role": "Chairman of the Board, Independent Director",
-      "start_date": "2017-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

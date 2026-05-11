@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former CEO of Kingsoft Group and former managing director of Microsoft Research Asia. He has served as an independent director of our company since 2021.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "XPeng Inc.",
+      "ticker": "XPEV",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Non-executive Director",
+      "website": "https://www.xiaopeng.com",
+      "start_date": "2021-07-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Nomination and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "XPeng Inc.",
-      "ticker": "XPEV",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Non-executive Director",
-      "start_date": "2021-07-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

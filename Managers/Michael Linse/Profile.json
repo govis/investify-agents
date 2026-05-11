@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Michael Linse has served as a member of our Board since 2012. He is the Founder and Managing Director of Linse Capital and was previously a Partner at Kleiner Perkins Caufield & Byers.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "ChargePoint Holdings, Inc.",
+      "ticker": "CHPT",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.chargepoint.com",
+      "start_date": "2012-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "ChargePoint Holdings, Inc.",
-      "ticker": "CHPT",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2012-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

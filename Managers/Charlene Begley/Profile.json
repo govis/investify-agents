@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. Begley served in various capacities at General Electric Company from 1988 to 2013, including as a Senior Vice President and Chief Information Officer. She currently serves on the boards of Hilton Worldwide Holdings Inc. and Nasdaq, Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "SentinelOne, Inc.",
+      "ticker": "S",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.sentinelone.com",
+      "start_date": "2021-04-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "SentinelOne, Inc.",
-      "ticker": "S",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2021-04-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

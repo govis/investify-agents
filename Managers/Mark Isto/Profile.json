@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Isto has served as Executive Vice President and Chief Operating Officer since January 2020. He joined Royal Gold in 2015 as Vice President Operations.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Royal Gold, Inc.",
       "ticker": "RGLD",
       "exchange": "NASDAQ",
       "title_or_role": "Executive Vice President and Chief Operating Officer",
+      "website": "https://www.royalgold.com",
       "start_date": "2020-01-02",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

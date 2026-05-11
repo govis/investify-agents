@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Former Chairman and CEO of Mercer LLC. Former CFO of Delta Air Lines, Inc. and Marsh & McLennan Companies, Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.cisco.com",
+      "start_date": "2003-11-01",
+      "end_date": null
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.goldmansachs.com",
+      "start_date": "2011-10-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Electrification",
@@ -19,22 +40,6 @@
     "Nomination and Governance Committee",
     "Risk"
   ],
-  "companies": [
-    {
-      "name": "Cisco Systems, Inc.",
-      "ticker": "CSCO",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2003-11-01",
-      "end_date": null
-    },
-    {
-      "name": "The Goldman Sachs Group, Inc.",
-      "ticker": "GS",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2011-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

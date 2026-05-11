@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former Assistant Secretary of Defense for Acquisition and former President of the Defense Acquisition University. Expert in defense acquisition and technology.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Science Applications International Corporation",
+      "ticker": "SAIC",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.saic.com",
+      "start_date": "2019-02-05",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Human Resources and Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Science Applications International Corporation",
-      "ticker": "SAIC",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-02-05",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

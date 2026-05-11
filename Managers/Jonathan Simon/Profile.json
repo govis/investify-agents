@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Senior Vice President and General Counsel of Van Eck Associates Corporation since 2014.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "VanEck Rare Earth/Strategic Metals ETF",
       "ticker": "SETM",
       "exchange": "NYSE",
       "title_or_role": "Vice President and Secretary",
+      "website": "https://www.vaneck.com/us/en/investments/rare-earth-strategic-metals-etf-remx/",
       "start_date": "2014",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

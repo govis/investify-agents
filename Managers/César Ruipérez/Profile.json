@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Ruip\u00e9rez is a Director at Iberdrola and has extensive experience in investment banking and corporate development. He joined the board in 2023.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Wallbox N.V.",
+      "ticker": "WBX",
+      "exchange": "NYSE",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://wallbox.com",
+      "start_date": "2023-06-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Wallbox N.V.",
-      "ticker": "WBX",
-      "exchange": "NYSE",
-      "title_or_role": "Non-Executive Director",
-      "start_date": "2023-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

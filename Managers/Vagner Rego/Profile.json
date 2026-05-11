@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Vagner Rego became President and CEO of Atlas Copco Group on May 1, 2024. He joined the Group in 1996 as a trainee in Brazil. He has held various leadership roles including President of the Compressor Technique business area and President of the Service division within Compressor Technique.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Atlas Copco AB",
       "ticker": "ATCO",
       "exchange": "STO",
       "title_or_role": "President and CEO",
+      "website": "https://www.atlascopcogroup.com",
       "start_date": "2024-05-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

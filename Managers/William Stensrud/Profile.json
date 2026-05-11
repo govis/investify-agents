@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Stensrud is a partner at Switchback Concepts and has been a director since 1996.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Juniper Networks, Inc.",
+      "ticker": "JNPR",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.juniper.net",
+      "start_date": "1996-10-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -14,14 +26,6 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Juniper Networks, Inc.",
-      "ticker": "JNPR",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "1996-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

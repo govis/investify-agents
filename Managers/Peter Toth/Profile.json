@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Toth has served as Executive Vice President and Chief Strategy and Sustainability Officer since July 2022. He joined Newmont from Rio Tinto where he held various senior leadership roles.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Newmont Corporation",
       "ticker": "NEM",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and Chief Strategy and Sustainability Officer",
+      "website": "https://www.newmont.com",
       "start_date": "2022-07-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

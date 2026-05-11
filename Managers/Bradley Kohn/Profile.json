@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Bradley D. Kohn joined Wolfspeed in 2013 and serves as General Counsel and Secretary. Prior to joining Wolfspeed, he was General Counsel at Solarflare Communications and held legal roles at Broadcom Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Wolfspeed, Inc.",
+      "ticker": "WOLF",
+      "exchange": "NYSE",
+      "title_or_role": "General Counsel and Secretary",
+      "website": "https://www.wolfspeed.com",
+      "start_date": "2013-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Wolfspeed, Inc.",
-      "ticker": "WOLF",
-      "exchange": "NYSE",
-      "title_or_role": "General Counsel and Secretary",
-      "start_date": "2013-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

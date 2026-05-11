@@ -6,6 +6,19 @@
   "age_year": 2024,
   "background": "Senior Investment Manager at Cascade Asset Management Company.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Deere & Company",
+      "ticker": "DE",
+      "exchange": "NYSE",
+      "title_or_role": "Director (Member of the Board of Directors)",
+      "website": "https://www.deere.com",
+      "start_date": "December 2016",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +27,5 @@
     "Audit Committee",
     "Finance Committee"
   ],
-  "companies": [
-    {
-      "name": "Deere & Company",
-      "ticker": "DE",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2016-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

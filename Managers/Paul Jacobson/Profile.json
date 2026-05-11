@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Paul A. Jacobson is Executive Vice President and Chief Financial Officer of GM. Before joining GM in 2020, he served as CFO of Delta Air Lines.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "website": "https://www.gm.com",
+      "start_date": "2020-12-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "General Motors Company",
-      "ticker": "GM",
-      "exchange": "NYSE",
-      "title_or_role": "Executive Vice President and Chief Financial Officer",
-      "start_date": "2020-12-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

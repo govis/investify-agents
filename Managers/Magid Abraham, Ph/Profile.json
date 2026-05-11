@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Dr. Abraham has served as a member of our Board since September 2021. Dr. Abraham is the founder and CEO of Neurawell Therapeutics. He previously co-founded and served as CEO of comScore, Inc. and was a founder of Paragren Technologies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "BlackSky Technology Inc.",
+      "ticker": "BKSY",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.blacksky.com",
+      "start_date": "2021-09-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "BlackSky Technology Inc.",
-      "ticker": "BKSY",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2021-09-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

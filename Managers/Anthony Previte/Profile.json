@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Co-Founder of Terran Orbital and former CEO of Tyvak Nano-Satellite Systems. He has extensive experience in satellite manufacturing and operations.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Terran Orbital Corporation",
       "ticker": "LLAP",
       "exchange": "NYSE",
       "title_or_role": "Director",
+      "website": "https://terranorbital.com",
       "start_date": "2021-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

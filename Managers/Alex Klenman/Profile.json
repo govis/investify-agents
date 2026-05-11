@@ -6,6 +6,69 @@
   "age_year": 2024,
   "background": "Mr. Klenman is an experienced junior mining executive whose career spans over 30 years in the private and public sectors. Over the past decade he has held a number of senior management and board positions in the public markets.",
   "picture_url": "https://www.azincourtenergy.com/images/management-team/Alex-profile.jpg",
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "Azincourt Energy Corp.",
+      "ticker": "AAZ",
+      "exchange": "TSXV",
+      "title_or_role": "CEO & Director",
+      "website": "azincourtenergy.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Manning Ventures Inc.",
+      "ticker": "MANN",
+      "exchange": "CSE",
+      "website": "manning-ventures.com",
+      "title_or_role": "CEO & Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cross River Ventures Corp.",
+      "ticker": "CRVC",
+      "exchange": "CSE",
+      "website": "crossriverventures.com",
+      "title_or_role": "CEO & Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tisdale Clean Energy Corp.",
+      "ticker": "TCEC",
+      "exchange": "CSE",
+      "website": "tisdalecleanenergy.com",
+      "title_or_role": "CEO & Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Oberon Uranium Corp.",
+      "ticker": "OBRN",
+      "exchange": "CSE",
+      "website": "oberonuranium.com",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Armory Mining Corp.",
+      "ticker": "ARMY",
+      "exchange": "CSE",
+      "website": "armorymining.com",
+      "title_or_role": "CEO & Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -16,16 +79,5 @@
     }
   ],
   "committees": [],
-  "picture_local": "Picture.jpg",
-  "enrichment_status": "success",
-  "companies": [
-    {
-      "name": "Azincourt Energy Corp.",
-      "ticker": "AAZ",
-      "exchange": "TSX",
-      "title_or_role": "Chief Executive Officer, Director, President",
-      "start_date": "2017-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

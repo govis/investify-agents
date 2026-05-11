@@ -6,6 +6,18 @@
   "age_year": 2023,
   "background": "Dean joined the Board in 2022. He has 40 years of experience in the resources sector, including senior roles at BHP and as CEO of Pacific National.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Rio Tinto Group",
+      "ticker": "RIO",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Non-executive Director",
+      "website": "https://www.riotinto.com",
+      "start_date": "2022-06-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +26,6 @@
     "Remuneration Committee",
     "Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "Rio Tinto Group",
-      "ticker": "RIO",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Non-executive Director",
-      "start_date": "2022-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

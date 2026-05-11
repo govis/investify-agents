@@ -6,6 +6,49 @@
   "age_year": 2024,
   "background": "CEO of Alto Pharmacy. Former Senior Vice President of Global Customer Fulfillment at Amazon.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.jpmorganchase.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "title_or_role": "Executive Vice President, Global Manufacturing",
+      "start_date": "1994",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Amazon.com, Inc.",
+      "ticker": "AMZN",
+      "exchange": "NASDAQ",
+      "website": "https://www.aboutamazon.com",
+      "title_or_role": "Senior Vice President, Global Customer Fulfillment",
+      "start_date": "2019",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "website": "https://www.ford.com",
+      "title_or_role": "President, Ford Pro",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI",
     "Electrification"
@@ -14,14 +57,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "JPMorgan Chase & Co.",
-      "ticker": "JPM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2023-03-20",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

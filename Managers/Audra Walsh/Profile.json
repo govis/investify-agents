@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Ms. Walsh is a professional engineer with over 25 years of experience in the mining industry. She has held executive roles at Minas de Aguas Te\u00f1idas and Newmont.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Calibre Mining Corp.",
+      "ticker": "CXB",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://calibremining.com",
+      "start_date": "2021-06-16",
+      "end_date": null
+    },
+    {
+      "name": "Faraday Copper Corp.",
+      "ticker": "FDY",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://faradaycopper.com",
+      "start_date": "2022-04-21",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Gold"
@@ -17,22 +38,6 @@
     "Health, Safety, Environmental and Sustainability Committee (Chair)",
     "Technical Committee"
   ],
-  "companies": [
-    {
-      "name": "Calibre Mining Corp.",
-      "ticker": "CXB",
-      "exchange": "TSX",
-      "title_or_role": "Director",
-      "start_date": "2021-06-16",
-      "end_date": null
-    },
-    {
-      "name": "Faraday Copper Corp.",
-      "ticker": "FDY",
-      "exchange": "TSX",
-      "title_or_role": "Director",
-      "start_date": "2022-04-21",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

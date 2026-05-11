@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Ms. Whittaker is a senior lawyer with over 30 years of experience in corporate law, mergers and acquisitions, and corporate governance.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NOVAGOLD RESOURCES INC.",
+      "ticker": "NG",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.novagold.com",
+      "start_date": "2020-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Triple Flag Precious Metals Corp.",
+      "ticker": "TFPM",
+      "exchange": "NYSE",
+      "title_or_role": "Chair of the Board",
+      "website": "https://www.tripleflagpm.com",
+      "start_date": "2019-10-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -16,22 +37,6 @@
     "Corporate Governance and Nominating Committee",
     "Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "NOVAGOLD RESOURCES INC.",
-      "ticker": "NG",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-01-01",
-      "end_date": null
-    },
-    {
-      "name": "Triple Flag Precious Metals Corp.",
-      "ticker": "TFPM",
-      "exchange": "NYSE",
-      "title_or_role": "Chair of the Board",
-      "start_date": "2019-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

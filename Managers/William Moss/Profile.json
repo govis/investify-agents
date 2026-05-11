@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Moss has been Vice President and Controller since 2014. He joined General Dynamics in 2004 and has held various financial leadership roles.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "General Dynamics Corporation",
       "ticker": "GD",
       "exchange": "NYSE",
       "title_or_role": "Vice President and Controller",
+      "website": "https://www.gd.com",
       "start_date": "2014-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

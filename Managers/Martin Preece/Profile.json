@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Martin Preece served as Interim CEO from January 2023 to December 2023 and is currently the Chief Operating Officer.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Gold Fields Limited",
       "ticker": "GFI",
       "exchange": "NYSE",
       "title_or_role": "Chief Operating Officer",
+      "website": "https://www.goldfields.com",
       "start_date": "2024-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

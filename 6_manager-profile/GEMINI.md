@@ -20,18 +20,20 @@ This workflow builds and enriches detailed profiles for company officers and dir
 
 ### 2. Phase 2: Multi-Agent LinkedIn & Image Enrichment (V2)
 - **Script**: `main.py` (via `agent_pipeline.py`)
+- **Execution**: 
+    - Supports targeted enrichment via `--manager "Name"` flag.
+    - Prioritizes verifying existing `socials` URLs before attempting new searches.
 - **Architecture**: **Orchestrated Multi-Agent Pipeline** using Gemini 2.0/2.5 Flash.
 - **Data Integration**: Automatically retrieves `name_clean` and `website` from `Companies/{ticker}.{exchange}/Profile.json` for enhanced search precision.
 - **Agents**:
     - **Supervisor Agent**: Orchestrates the workflow and manages state/fallbacks.
+        - **Sequential Validation**: Attempts to download images in priority order: Profile (Agent 3) -> Search (Agent 4a) -> IR Site (Agent 4b) -> Broad (Agent 4c).
     - **LinkedIn Search Agent**: Finds candidate profiles based on name, clean company names, and roles.
     - **LinkedIn Verifier Agent**: Uses **Google Search Grounding** to visit profiles and verify matches.
-        - **Capture**: Captures `person_name` and `company_name` exactly as they appear on LinkedIn.
-        - **Image Priority**: Extracts `media.licdn.com/dms/image/v2/` URLs, prioritizing `shrink_200_200`, then `100_100`, `400_400`, `800_800`.
-    - **Image Fallback Agents**: If no LinkedIn photo is found:
-        - **Agent 4a**: LinkedIn-specific image search (`site:licdn.com`) using exact LinkedIn names.
-        - **Agent 4b**: Targeted search on company Investor Relations (IR) websites.
-        - **Agent 4c**: Broad professional search on IR and news domains.
+        - **Capture**: Captures `person_name` and `company_name` exactly as they appear on LinkedIn, prioritizing the target company.
+        - **Image Priority**: Extracts `media.licdn.com/dms/image/v2/` URLs into `picture_url_li_profile`.
+    - **Image Search Agent (4a)**: Performs broad searches (e.g., "Name Company") to identify LinkedIn profile pictures from search results, storing them in `picture_url_li_search`.
+    - **Image Fallback Agents (4b, 4c)**: Targeted searches on IR websites and broad professional domains if LinkedIn sources fail validation or download.
 
 ### 3. Phase 3: Profile Picture Download (Post-processing)
 - **Script**: `download_profile_pictures.py`

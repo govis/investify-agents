@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Whittaker has over 30 years of experience in the resource sector, including senior management roles in exploration and development companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "GoldHaven Resources Corp.",
+      "ticker": "GOH",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://goldhavenresources.com/",
+      "start_date": "2021-06-30",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Gold"
@@ -14,14 +26,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "GoldHaven Resources Corp.",
-      "ticker": "GOH",
-      "exchange": "TSX",
-      "title_or_role": "Director",
-      "start_date": "2021-06-30",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

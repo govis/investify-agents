@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Rotem Hershko joined Maersk in 2020. He has a background in e-commerce and logistics, having previously worked at Amazon and eBay.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "A.P. M\u00f8ller - M\u00e6rsk A/S",
       "ticker": "AMKBY",
       "exchange": "OTC",
       "title_or_role": "Chief Product Officer, Logistics & Services",
+      "website": "https://www.maersk.com",
       "start_date": "2023-02-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

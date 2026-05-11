@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. McDonnell has served as our Senior Vice President and Chief Financial Officer since February 2021. Prior to joining AeroVironment, he served as Chief Financial Officer of JAMS, Inc. and held various senior financial roles at Teradata Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "AeroVironment, Inc.",
       "ticker": "AVAV",
       "exchange": "NASDAQ",
       "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "website": "https://www.avinc.com",
       "start_date": "2021-02-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

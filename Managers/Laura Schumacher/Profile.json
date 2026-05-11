@@ -6,6 +6,27 @@
   "age_year": 2024,
   "background": "Former Vice Chairman, External Affairs and Chief Legal Officer of AbbVie Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "CrowdStrike Holdings, Inc.",
+      "ticker": "CRWD",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.crowdstrike.com",
+      "start_date": "2023-02-01",
+      "end_date": null
+    },
+    {
+      "name": "General Dynamics Corporation",
+      "ticker": "GD",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.gd.com",
+      "start_date": "2014-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Defense"
@@ -16,22 +37,6 @@
     "Governance",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "CrowdStrike Holdings, Inc.",
-      "ticker": "CRWD",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2023-02-01",
-      "end_date": null
-    },
-    {
-      "name": "General Dynamics Corporation",
-      "ticker": "GD",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2014-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former Executive Vice President and Chief Financial Officer of Walmart Inc. Director since 2022.",
   "picture_url": "https://nypost.com/wp-content/uploads/sites/2/2021/11/brett-biggs-02.jpg?quality=90&strip=all",
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.adobe.com",
+      "start_date": "2022-09-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -13,18 +25,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "Adobe Inc.",
-      "ticker": "ADBE",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-09-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": null,
-  "enrichment_status": "success",
-  "picture_download_count": 2,
-  "has_picture": "false"
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

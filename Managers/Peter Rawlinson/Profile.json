@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Rawlinson has served as our Chief Executive Officer and Chief Technology Officer since April 2019 and as a member of our Board since March 2021. Previously, he served as Chief Technology Officer of Atieva from 2013 to 2019. Prior to joining Atieva, he was Vice President of Vehicle Engineering at Tesla and Chief Engineer at Lotus Cars.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Lucid Group, Inc.",
       "ticker": "LCID",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Executive Officer and Chief Technology Officer",
+      "website": "https://www.lucidmotors.com",
       "start_date": "2019-04-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

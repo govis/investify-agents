@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Paula Reynolds is the President and CEO of Preferential Ltd. She previously served as Vice Chairman and Chief Restructuring Officer of AIG and Chairman and CEO of Safeco Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "GE Vernova Inc.",
+      "ticker": "GEV",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.gevernova.com",
+      "start_date": "2024-04-02",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -14,14 +26,6 @@
     "Audit Committee",
     "Governance & Public Affairs Committee"
   ],
-  "companies": [
-    {
-      "name": "GE Vernova Inc.",
-      "ticker": "GEV",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2024-04-02",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

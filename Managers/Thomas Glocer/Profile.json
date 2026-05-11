@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Former CEO of Thomson Reuters Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "exchange": "NYSE",
+      "title_or_role": "Lead Independent Director",
+      "website": "https://www.morganstanley.com",
+      "start_date": "2013-05-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +26,6 @@
     "Nominating and Governance Committee",
     "Operations and Technology Committee"
   ],
-  "companies": [
-    {
-      "name": "Morgan Stanley",
-      "ticker": "MS",
-      "exchange": "NYSE",
-      "title_or_role": "Lead Independent Director",
-      "start_date": "2013-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

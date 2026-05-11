@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Mr. Smith is a senior mining executive with over 40 years\u2019 experience in the resources sector, including senior roles at Rio Tinto and Kazzinc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Evolution Mining Limited",
+      "ticker": "EVN",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://evolutionmining.com.au",
+      "start_date": "2020-04-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Nomination and Remuneration Committee",
     "Risk and Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "Evolution Mining Limited",
-      "ticker": "EVN",
-      "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
-      "start_date": "2020-04-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

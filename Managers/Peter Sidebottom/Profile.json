@@ -6,20 +6,14 @@
   "age_year": 2024,
   "background": "Former executive and consultant in the asset management industry.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "VanEck Uranium and Nuclear Energy ETF",
       "ticker": "NLR",
       "exchange": "NYSE",
       "title_or_role": "Independent Trustee",
+      "website": "https://www.vaneck.com/us/en/investments/uranium-nuclear-energy-etf-nlr/",
       "start_date": "2022-01-01",
       "end_date": null
     },
@@ -28,8 +22,19 @@
       "ticker": "SETM",
       "exchange": "NYSE",
       "title_or_role": "Independent Trustee",
+      "website": "https://www.vaneck.com/us/en/investments/rare-earth-strategic-metals-etf-remx/",
       "start_date": "2018",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

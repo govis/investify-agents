@@ -6,20 +6,24 @@
   "age_year": 2024,
   "background": "Christophe Fouquet was appointed as President and Chief Executive Officer in April 2024. He joined ASML in 2008 and has held several leadership positions, including Executive Vice President and Chief Business Officer. He has been a member of the Board of Management since 2018.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "ASML Holding N.V.",
+      "ticker": "ASML",
+      "exchange": "NASDAQ",
+      "title_or_role": "President and Chief Executive Officer",
+      "website": "https://www.asml.com",
+      "start_date": "2024-04-24",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "AI",
     "Reshoring"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "ASML Holding N.V.",
-      "ticker": "ASML",
-      "exchange": "NASDAQ",
-      "title_or_role": "President and Chief Executive Officer",
-      "start_date": "2024-04-24",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Mr. Vaz is responsible for the company's operations and has a strong background in mining engineering and project management.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Aura Minerals Inc.",
       "ticker": "AUGO",
       "exchange": "TSX",
       "title_or_role": "Chief Operating Officer",
+      "website": "https://auraminerals.com/",
       "start_date": "2022-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Robert S. Shapard has served as the independent Chairman of the Board since 2022. He was previously the Chairman and CEO of Oncor Electric Delivery Company LLC.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Leidos Holdings, Inc.",
+      "ticker": "LDOS",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Chairman",
+      "website": "https://www.leidos.com",
+      "start_date": "2013-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Corporate Governance and Ethics Committee"
   ],
-  "companies": [
-    {
-      "name": "Leidos Holdings, Inc.",
-      "ticker": "LDOS",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Chairman",
-      "start_date": "2013-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

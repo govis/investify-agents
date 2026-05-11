@@ -6,6 +6,18 @@
   "age_year": null,
   "background": "Mr Mitchell has over 40 years of experience in the mining industry, including senior executive roles at Rio Tinto and Anglo American. He has extensive experience in project development, operations, and corporate strategy.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Aura Energy Limited",
+      "ticker": "AEE",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Chairman",
+      "website": "https://auraenergy.com.au/",
+      "start_date": "2021-12-21",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -14,16 +26,6 @@
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"
   ],
-  "companies": [
-    {
-      "name": "Aura Energy Limited",
-      "ticker": "AEE",
-      "exchange": "ASX",
-      "title_or_role": "Non-Executive Chairman",
-      "start_date": "2021-12-21",
-      "end_date": null
-    }
-  ],
-  "picture_local": null,
-  "enrichment_status": "not_found"
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

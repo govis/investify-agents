@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. Tawil is a lawyer and strategic consultant with over 30 years of experience. She has served on various boards including Hydro-Qu\u00e9bec.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Dundee Precious Metals Inc.",
+      "ticker": "DPM",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.dundeeprecious.com",
+      "start_date": "2015-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +26,6 @@
     "Governance and Nominating Committee",
     "Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "Dundee Precious Metals Inc.",
-      "ticker": "DPM",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2015-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

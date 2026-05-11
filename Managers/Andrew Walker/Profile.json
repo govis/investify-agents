@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Andrew Walker is the Business Area President for Power Technique. He joined Atlas Copco in 1986 and has held several leadership roles in different business areas and regions.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Atlas Copco AB",
       "ticker": "ATCO",
       "exchange": "STO",
       "title_or_role": "Business Area President Power Technique",
+      "website": "https://www.atlascopcogroup.com",
       "start_date": "2014-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

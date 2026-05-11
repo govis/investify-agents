@@ -6,6 +6,38 @@
   "age_year": 2024,
   "background": "Former President and Chief Operating Officer of Qwest Communications International, Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Digital Realty Trust, Inc.",
+      "ticker": "DLR",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.digitalrealty.com",
+      "start_date": "2016-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Qwest Communications International, Inc.",
+      "ticker": "Q",
+      "exchange": "NYSE",
+      "website": "https://www.lumen.com/",
+      "title_or_role": "President and Chief Operating Officer",
+      "start_date": "1999",
+      "end_date": "2002",
+      "validated": true
+    },
+    {
+      "name": "British Telecommunications (BT Group plc)",
+      "ticker": "BT.A",
+      "exchange": "LSE",
+      "website": "https://www.bt.com/",
+      "title_or_role": "President, Managing Director",
+      "start_date": "1997",
+      "end_date": "1999",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -13,14 +45,5 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Digital Realty Trust, Inc.",
-      "ticker": "DLR",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2016-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success"
 }

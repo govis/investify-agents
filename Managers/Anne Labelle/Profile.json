@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. Labelle is a geologist and lawyer with over 25 years of experience in the mining industry, specializing in exploration, environmental and legal matters.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://capstonecopper.com",
+      "start_date": "2022-03-23",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +26,6 @@
     "Governance and Nominating Committee",
     "Technical and Operational Performance Committee"
   ],
-  "companies": [
-    {
-      "name": "Capstone Copper Corp.",
-      "ticker": "CS",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-03-23",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

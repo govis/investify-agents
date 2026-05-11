@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Chairman of the Board of CSX. Chief Executive Officer of Aramark.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "CSX Corporation",
+      "ticker": "CSX",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chairman",
+      "website": "https://www.csx.com",
+      "start_date": "2017-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +26,6 @@
     "Executive Committee",
     "Governance and Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "CSX Corporation",
-      "ticker": "CSX",
-      "exchange": "NASDAQ",
-      "title_or_role": "Chairman",
-      "start_date": "2017-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

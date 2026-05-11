@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Ms. Niland served as Corporate Vice President and Chief Financial Officer of Huntington Ingalls Industries, Inc. from 2011 to 2016.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "BWX Technologies, Inc.",
+      "ticker": "BWXT",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.bwxt.com",
+      "start_date": "2016-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Defense",
     "Nuclear"
@@ -15,14 +27,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "BWX Technologies, Inc.",
-      "ticker": "BWXT",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2016-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

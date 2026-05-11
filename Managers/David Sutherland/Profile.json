@@ -6,6 +6,18 @@
   "age_year": 2024,
   "background": "Retired President and Chief Executive Officer of IPSCO, Inc. He has served as Chairman of the Board of U. S. Steel since 2014.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "United States Steel Corporation",
+      "ticker": "X",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Chairman of the Board",
+      "website": "https://www.ussteel.com",
+      "start_date": "2008-01-01",
+      "end_date": null
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -13,14 +25,6 @@
   "committees": [
     "Corporate Governance and Public Policy Committee"
   ],
-  "companies": [
-    {
-      "name": "United States Steel Corporation",
-      "ticker": "X",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Chairman of the Board",
-      "start_date": "2008-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }

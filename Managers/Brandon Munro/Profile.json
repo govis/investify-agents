@@ -6,19 +6,23 @@
   "age_year": 2024,
   "background": "Brandon Munro is a lawyer and quantitative economist with over 25 years of experience in the resources and finance sectors. He has been the CEO of Bannerman Energy since 2016 and has extensive experience in uranium market analysis and project development in Namibia.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Bannerman Energy Ltd",
       "ticker": "BMN",
       "exchange": "ASX",
       "title_or_role": "Chief Executive Officer and Managing Director",
+      "website": "https://bannermanenergy.com",
       "start_date": "2016-03-09",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_status": "pending",
+  "enrichment_step": null
 }
