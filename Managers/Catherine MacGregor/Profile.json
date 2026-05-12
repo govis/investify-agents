@@ -16,6 +16,36 @@
       "website": "https://www.microsoft.com",
       "start_date": "2023-12-01",
       "end_date": null
+    },
+    {
+      "name": "ENGIE SA",
+      "ticker": "ENGI",
+      "exchange": "Euronext Paris",
+      "website": "https://www.engie.com",
+      "title_or_role": "Chief Executive Officer and Board Member",
+      "start_date": "January 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "TechnipFMC plc",
+      "ticker": "FTI",
+      "exchange": "NYSE",
+      "website": "https://www.technipfmc.com",
+      "title_or_role": "Various Senior Executive Roles (including President, Subsea)",
+      "start_date": "2003",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "SLB (formerly Schlumberger)",
+      "ticker": "SLB",
+      "exchange": "NYSE",
+      "website": "https://www.slb.com",
+      "title_or_role": "Various Senior Executive Roles",
+      "start_date": "1998",
+      "end_date": "2003",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

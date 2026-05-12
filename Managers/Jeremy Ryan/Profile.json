@@ -11,11 +11,12 @@
     {
       "name": "Paladin Energy Ltd",
       "ticker": "PDN",
-      "exchange": "ASX",
-      "title_or_role": "General Counsel and Company Secretary",
-      "website": "https://www.paladinenergy.com.au",
-      "start_date": "2021-08-23",
-      "end_date": null
+      "exchange": "ASX / TSX",
+      "title_or_role": "Company Secretary",
+      "website": "https://www.paladinenergy.com.au/",
+      "start_date": null,
+      "end_date": "2025-05-30",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +24,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

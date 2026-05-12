@@ -14,8 +14,29 @@
       "exchange": "NYSE",
       "title_or_role": "Director",
       "website": "https://www.digitalrealty.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "start_date": "March 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Global Crossing Limited",
+      "ticker": "GLBC",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Chief Financial Officer & Executive Vice President",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "validated": true
+    },
+    {
+      "name": "Interxion Holding N.V.",
+      "ticker": "INXN",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Chairman / Non-Executive Director",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +46,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

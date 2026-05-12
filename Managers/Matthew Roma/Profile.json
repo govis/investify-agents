@@ -16,6 +16,16 @@
       "website": "https://snowlinegold.com",
       "start_date": "2021-02-25",
       "end_date": null
+    },
+    {
+      "name": "Golden Cross Resources Inc.",
+      "ticker": "AUX",
+      "exchange": "TSXV",
+      "website": "https://goldencrossresources.com/",
+      "title_or_role": "CEO",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +33,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -24,8 +24,19 @@ def download_image(url: str, manager_dir: str) -> Optional[str]:
         }
         response = requests.get(url, timeout=15, stream=True, headers=headers)
         if response.status_code == 200:
+            # Capture the first chunk to check for SVG placeholder
+            content_iter = response.iter_content(chunk_size=1024)
+            try:
+                first_chunk = next(content_iter)
+            except StopIteration:
+                return None
+
+            # Validation: Check if it's actually an SVG placeholder (masked as JPG/PNG)
+            if b'<svg' in first_chunk[:500].lower():
+                print(f"Rejected SVG placeholder from {url}")
+                return None
+
             content_type = response.headers.get('content-type', '').lower()
-            
             # Determine extension
             ext = 'jpg'
             if 'png' in content_type: ext = 'png'
@@ -42,8 +53,10 @@ def download_image(url: str, manager_dir: str) -> Optional[str]:
             full_save_path = os.path.join(manager_dir, filename)
             
             with open(full_save_path, 'wb') as f:
-                for chunk in response.iter_content(1024):
+                f.write(first_chunk)
+                for chunk in content_iter:
                     f.write(chunk)
+            
             return filename
     except Exception as e:
         print(f"Failed to download image from {url}: {e}")
@@ -155,15 +168,14 @@ def populate_base_profile(person_summary: Dict[str, Any], managers_dir: str):
         "background": None,
         "picture_url": None,
         "picture_local": None,
-        "companies": [],
+        "company_affiliations": [],
         "investment_theses": person_summary.get("investment_theses", []),
         "socials": [],
-        "committees": set(),
-        "enrichment_status": "pending"
+        "committees": set()
     }
     
     # Populate company specific details and biographical info
-    for comp_brief in person_summary.get("companies", []):
+    for comp_brief in person_summary.get("company_affiliations", []):
         ticker = comp_brief["ticker"]
         exchange = comp_brief["exchange"]
         
@@ -193,7 +205,7 @@ def populate_base_profile(person_summary: Dict[str, Any], managers_dir: str):
                     company_entry["end_date"] = t.get("end_date")
                     break
         
-        profile["companies"].append(company_entry)
+        profile["company_affiliations"].append(company_entry)
         
     profile["committees"] = sorted(list(profile["committees"]))
     

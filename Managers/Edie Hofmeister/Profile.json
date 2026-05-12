@@ -11,20 +11,42 @@
     {
       "name": "Osisko Gold Royalties Ltd",
       "ticker": "OR",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "exchange": "TSX",
+      "title_or_role": "Director",
       "website": "https://osiskogr.com",
-      "start_date": "2022-05-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Wesdome Gold Mines Ltd.",
       "ticker": "WDO",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.wesdome.com",
-      "start_date": "2022-05-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bitfarms Ltd.",
+      "ticker": "BITF",
+      "exchange": "NASDAQ/TSX",
+      "website": "https://bitfarms.com",
+      "title_or_role": "Director (Chair)",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tahoe Resources Inc.",
+      "ticker": "TAHO",
+      "exchange": "TSX/NYSE",
+      "website": "https://tahoeresources.com",
+      "title_or_role": "EVP, Corporate Affairs & General Counsel",
+      "start_date": "2010",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -37,6 +59,5 @@
     "Human Resources Committee",
     "Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

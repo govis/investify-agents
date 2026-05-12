@@ -25,6 +25,36 @@
       "website": "https://www.siemens.com",
       "start_date": "2021-02-03",
       "end_date": null
+    },
+    {
+      "name": "Adidas AG",
+      "ticker": "ADS",
+      "exchange": "Xetra",
+      "website": "https://www.adidas-group.com",
+      "title_or_role": "Chief Executive Officer (CEO)",
+      "start_date": "2016",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Henkel AG & Co. KGaA",
+      "ticker": "HEN3",
+      "exchange": "Xetra",
+      "website": "https://www.henkel.com",
+      "title_or_role": "Executive Vice President (2005\u20132007); Vice Chairman of the Management Board (2007\u20132008); Chief Executive Officer (2008\u20132016)",
+      "start_date": "2005",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Nestl\u00e9 S.A.",
+      "ticker": "NESN",
+      "exchange": "SIX Swiss Exchange",
+      "website": "https://www.nestle.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2018",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +66,5 @@
     "Audit Committee",
     "Member of the Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

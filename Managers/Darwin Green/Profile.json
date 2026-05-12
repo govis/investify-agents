@@ -25,6 +25,26 @@
       "website": "https://onyxgold.com",
       "start_date": "2023-06-01",
       "end_date": null
+    },
+    {
+      "name": "HighGold Mining Inc.",
+      "ticker": "HG",
+      "exchange": "TSX.V",
+      "website": "https://highgoldmining.com/",
+      "title_or_role": "Founder, President, Chief Executive Officer, and Director",
+      "start_date": "August 2019",
+      "end_date": "July 2024",
+      "validated": true
+    },
+    {
+      "name": "Contango ORE, Inc.",
+      "ticker": "CTGO",
+      "exchange": "NYSE American",
+      "website": "https://contangoore.com/",
+      "title_or_role": "Director",
+      "start_date": "July 2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +56,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

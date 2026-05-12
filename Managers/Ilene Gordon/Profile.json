@@ -16,6 +16,36 @@
       "website": "https://www.lockheedmartin.com",
       "start_date": "2016-06-01",
       "end_date": null
+    },
+    {
+      "name": "Ingredion Incorporated",
+      "ticker": "INGR",
+      "exchange": "NYSE",
+      "website": "https://www.ingredion.com",
+      "title_or_role": "Chairman, President, and CEO",
+      "start_date": "May 2009",
+      "end_date": "December 2017",
+      "validated": true
+    },
+    {
+      "name": "International Paper Company",
+      "ticker": "IP",
+      "exchange": "NYSE",
+      "website": "https://www.internationalpaper.com",
+      "title_or_role": "Director (Presiding Director)",
+      "start_date": "2012",
+      "end_date": "May 21, 2024",
+      "validated": true
+    },
+    {
+      "name": "Arthur J. Gallagher & Co.",
+      "ticker": "AJG",
+      "exchange": "NYSE",
+      "website": "https://www.ajg.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
     "Management Development and Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

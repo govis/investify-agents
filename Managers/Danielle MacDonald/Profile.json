@@ -11,11 +11,12 @@
     {
       "name": "Prospector Metals Corp.",
       "ticker": "PPP",
-      "exchange": "TSX",
-      "title_or_role": "Chief Financial Officer",
-      "website": "https://prospectormetalscorp.com",
-      "start_date": "2022-05-01",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "Corporate Secretary",
+      "website": "https://prospectormetalscorp.com/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +25,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

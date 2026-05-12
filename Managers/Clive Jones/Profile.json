@@ -16,6 +16,16 @@
       "website": "https://bannermanenergy.com",
       "start_date": "2007-01-12",
       "end_date": null
+    },
+    {
+      "name": "Cazaly Resources Ltd",
+      "ticker": "CAZ",
+      "exchange": "ASX",
+      "website": "https://cazalyresources.com.au/",
+      "title_or_role": "Chairman",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +36,5 @@
     "Audit Committee",
     "Remuneration and Nomination Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

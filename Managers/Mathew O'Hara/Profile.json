@@ -12,10 +12,61 @@
       "name": "Boss Energy Limited",
       "ticker": "BOE",
       "exchange": "ASX",
-      "title_or_role": "Chief Financial Officer and Company Secretary",
-      "website": "https://www.bossenergy.com",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "title_or_role": "Company Secretary",
+      "website": "bossenergy.com",
+      "start_date": "2019",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Alderan Resources Ltd",
+      "ticker": "AL8",
+      "exchange": "ASX",
+      "website": "alderanresources.com.au",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "African Gold Limited",
+      "ticker": "A1G",
+      "exchange": "ASX",
+      "website": "africangold.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Benz Mining Corp",
+      "ticker": "BNZ",
+      "exchange": "ASX",
+      "website": "benzmining.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Pantoro Limited",
+      "ticker": "PNR",
+      "exchange": "ASX",
+      "website": "pantoro.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Pearl Gull Iron Limited",
+      "ticker": "PLG",
+      "exchange": "ASX",
+      "website": "pearlgulliron.com.au",
+      "title_or_role": "Company Secretary",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +74,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

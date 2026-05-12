@@ -12,10 +12,21 @@
       "name": "GlobalFoundries Inc.",
       "ticker": "GFS",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://gf.com",
-      "start_date": "2021-10-01",
-      "end_date": null
+      "title_or_role": "Member of the Board of Directors",
+      "website": "https://www.gf.com",
+      "start_date": "March 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "title_or_role": "Chief Strategy Officer and Corporate Vice President, Corporate Strategy",
+      "start_date": "January 2020",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +36,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

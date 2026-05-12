@@ -12,10 +12,21 @@
       "name": "Enphase Energy, Inc.",
       "ticker": "ENPH",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "website": "https://enphase.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://enphase.com/",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ADT Inc.",
+      "ticker": "ADT",
+      "exchange": "NYSE",
+      "website": "https://www.adt.com/",
+      "title_or_role": "President, ADT Solar",
+      "start_date": "2022",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

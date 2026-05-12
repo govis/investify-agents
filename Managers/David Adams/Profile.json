@@ -12,10 +12,21 @@
       "name": "Curtiss-Wright Corporation",
       "ticker": "CW",
       "exchange": "NYSE",
-      "title_or_role": "Director",
+      "title_or_role": "Executive Chairman (formerly Chairman and CEO)",
       "website": "https://www.curtisswright.com",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Snap-on Incorporated",
+      "ticker": "SNA",
+      "exchange": "NYSE",
+      "website": "https://www.snapon.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +35,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

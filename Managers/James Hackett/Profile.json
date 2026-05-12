@@ -25,6 +25,76 @@
       "website": "https://www.nuscalepower.com",
       "start_date": "2022-05-01",
       "end_date": null
+    },
+    {
+      "name": "Enterprise Products Partners L.P.",
+      "ticker": "EPD",
+      "exchange": "NYSE",
+      "website": "https://www.enterpriseproducts.com/",
+      "title_or_role": "Director",
+      "start_date": "April 2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NOV Inc.",
+      "ticker": "NOV",
+      "exchange": "NYSE",
+      "website": "https://www.nov.com/",
+      "title_or_role": "Director (Lead Director)",
+      "start_date": "2016",
+      "end_date": "April 2023",
+      "validated": true
+    },
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "website": "https://www.ford.com/",
+      "title_or_role": "President and CEO",
+      "start_date": "May 2017",
+      "end_date": "October 2020",
+      "validated": true
+    },
+    {
+      "name": "Anadarko Petroleum Corporation",
+      "ticker": "APC",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "CEO / Chairman / Executive Chairman",
+      "start_date": "2003",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Cameron International Corporation",
+      "ticker": "CAM",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Advisory Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fifth Third Bancorp",
+      "ticker": "FITB",
+      "exchange": "NASDAQ",
+      "website": "https://www.53.com/",
+      "title_or_role": "Non-Executive Independent Chairman",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "La-Z-Boy Incorporated",
+      "ticker": "LZB",
+      "exchange": "NYSE",
+      "website": "https://www.la-z-boy.com/",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": "2025",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -38,6 +108,5 @@
     "Governance Committee",
     "Organization and Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

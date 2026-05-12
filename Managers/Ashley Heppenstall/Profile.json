@@ -12,10 +12,61 @@
       "name": "Lundin Gold Inc.",
       "ticker": "LUG",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://lundingold.com",
-      "start_date": "2015-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "lundingold.com",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN",
+      "exchange": "TSX",
+      "website": "lundinmining.com",
+      "title_or_role": "Lead Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "International Petroleum Corporation",
+      "ticker": "IPCO",
+      "exchange": "TSX",
+      "website": "international-petroleum.com",
+      "title_or_role": "Chair of the Board",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aker BP ASA",
+      "ticker": "AKRBP",
+      "exchange": "OSE (STO)",
+      "website": "akerbp.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lundin Petroleum AB",
+      "ticker": "LUPE",
+      "exchange": "STO",
+      "website": "lundin-energy.com",
+      "title_or_role": "President & CEO",
+      "start_date": "2002",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Lundin Oil AB",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "N/A",
+      "title_or_role": "Finance Director",
+      "start_date": "1998",
+      "end_date": "2002",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +77,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -25,6 +25,76 @@
       "website": "https://www.saab.com",
       "start_date": "2021-04-01",
       "end_date": null
+    },
+    {
+      "name": "Essity AB",
+      "ticker": "ESSITY-B",
+      "exchange": "STO",
+      "website": "https://www.essity.com",
+      "title_or_role": "Board Member",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "AB Electrolux",
+      "ticker": "ELUX-B",
+      "exchange": "STO",
+      "website": "https://www.electroluxgroup.com",
+      "title_or_role": "Board Member",
+      "start_date": "2013",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "BlackBerry Limited",
+      "ticker": "BB",
+      "exchange": "NYSE",
+      "website": "https://www.blackberry.com",
+      "title_or_role": "Board Member",
+      "start_date": "2014",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Svenska Cellulosa Aktiebolaget (SCA)",
+      "ticker": "SCA-B",
+      "exchange": "STO",
+      "website": "https://www.sca.com",
+      "title_or_role": "Board Member",
+      "start_date": "2012",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Vestas Wind Systems A/S",
+      "ticker": "VWS",
+      "exchange": "CPH",
+      "website": "https://www.vestas.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2012",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Sony Group Corporation (Sony Mobile Communications)",
+      "ticker": "SONY",
+      "exchange": "NYSE",
+      "website": "https://www.sony.com",
+      "title_or_role": "President and CEO, Sony Mobile Communications",
+      "start_date": "2009",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Telefonaktiebolaget LM Ericsson",
+      "ticker": "ERIC",
+      "exchange": "NASDAQ",
+      "website": "https://www.ericsson.com",
+      "title_or_role": "Various managerial positions",
+      "start_date": "1996",
+      "end_date": "2009",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +106,5 @@
     "Audit Committee",
     "Remuneration Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

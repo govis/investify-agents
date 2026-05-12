@@ -12,10 +12,41 @@
       "name": "AB Volvo",
       "ticker": "VOLV-B",
       "exchange": "STO",
-      "title_or_role": "Director",
-      "website": "https://www.volvogroup.com",
-      "start_date": "2018-04-01",
-      "end_date": null
+      "title_or_role": "Board Member",
+      "website": "volvogroup.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Telefonaktiebolaget LM Ericsson",
+      "ticker": "ERIC-B",
+      "exchange": "STO",
+      "website": "ericsson.com",
+      "title_or_role": "Board Member",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Landis+Gyr Group AG",
+      "ticker": "LAND",
+      "exchange": "SIX (Swiss)",
+      "website": "landisgyr.com",
+      "title_or_role": "Board Member",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ABB Ltd",
+      "ticker": "ABBN",
+      "exchange": "SIX (Swiss)",
+      "website": "abb.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2013",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +56,5 @@
   "committees": [
     "Audit Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -11,11 +11,52 @@
     {
       "name": "ServiceNow, Inc.",
       "ticker": "NOW",
-      "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief Executive Officer and Director",
       "website": "https://www.servicenow.com",
-      "start_date": "2019-11-01",
-      "end_date": null
+      "start_date": "November 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SAP SE",
+      "ticker": "SAP",
+      "exchange": "NYSE",
+      "website": "https://www.sap.com",
+      "title_or_role": "Chief Executive Officer (Co-CEO 2010\u20132014; CEO 2014\u20132019)",
+      "start_date": "2010",
+      "end_date": "October 2019",
+      "validated": true
+    },
+    {
+      "name": "Zoom Video Communications, Inc.",
+      "ticker": "ZM",
+      "exchange": "NASDAQ",
+      "website": "https://www.zoom.com",
+      "title_or_role": "Director",
+      "start_date": "June 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Under Armour, Inc.",
+      "ticker": "UA / UAA",
+      "exchange": "NYSE",
+      "website": "https://www.underarmour.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Vantiv, Inc. (now Worldpay, Inc.)",
+      "ticker": "VNTV (at the time)",
+      "exchange": "NYSE",
+      "website": "https://www.worldpay.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +64,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -13,9 +13,20 @@
       "ticker": "TOE",
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
-      "website": "https://www.toroenergy.com.au",
-      "start_date": "2015-12-22",
-      "end_date": null
+      "website": "https://toroenergy.com.au/",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "LeadFX Inc.",
+      "ticker": "LFX",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +36,5 @@
   "committees": [
     "Audit and Risk Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

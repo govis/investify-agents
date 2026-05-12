@@ -16,6 +16,36 @@
       "website": "https://www.textron.com",
       "start_date": "2003-01-01",
       "end_date": null
+    },
+    {
+      "name": "Cardinal Health, Inc.",
+      "ticker": "CAH",
+      "exchange": "NYSE",
+      "website": "https://www.cardinalhealth.com",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "April 2006",
+      "end_date": "September 1, 2009",
+      "validated": true
+    },
+    {
+      "name": "General Mills, Inc.",
+      "ticker": "GIS",
+      "exchange": "NYSE",
+      "website": "https://www.generalmills.com",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Elevance Health, Inc.",
+      "ticker": "ELV",
+      "exchange": "NYSE",
+      "website": "https://www.elevancehealth.com",
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
     "Audit Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

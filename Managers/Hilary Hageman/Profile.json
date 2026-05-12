@@ -25,6 +25,16 @@
       "website": "https://www.saic.com",
       "start_date": "2022-07-11",
       "end_date": null
+    },
+    {
+      "name": "Cubic Corporation",
+      "ticker": "CUB",
+      "exchange": "NYSE",
+      "website": "https://www.cubic.com",
+      "title_or_role": "Senior Vice President, General Counsel, and Corporate Secretary",
+      "start_date": "2019-10-14",
+      "end_date": "2021-05-01",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -32,6 +42,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

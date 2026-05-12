@@ -12,10 +12,21 @@
       "name": "Ford Motor Company",
       "ticker": "F",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.ford.com",
-      "start_date": "2003-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.ford.com/",
+      "start_date": "2003",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Mead Johnson Nutrition Company",
+      "ticker": "MJN",
+      "exchange": "NYSE",
+      "website": "https://www.meadjohnson.com/",
+      "title_or_role": "Director",
+      "start_date": "March 2010",
+      "end_date": "June 2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +38,5 @@
     "Audit Committee",
     "Sustainability, Innovation and Policy Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

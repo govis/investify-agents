@@ -12,10 +12,31 @@
       "name": "Thomson Reuters Corporation",
       "ticker": "TRI",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.thomsonreuters.com",
-      "start_date": "2020-03-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "thomsonreuters.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "microsoft.com",
+      "title_or_role": "Chief Operating Officer & Corporate Vice President, Experiences and Devices Group",
+      "start_date": "1992",
+      "end_date": "2026",
+      "validated": true
+    },
+    {
+      "name": "Amazon.com, Inc.",
+      "ticker": "AMZN",
+      "exchange": "NASDAQ",
+      "website": "amazon.com",
+      "title_or_role": "General Manager, Software & Video Games Stores",
+      "start_date": "1998",
+      "end_date": "2000",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +46,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

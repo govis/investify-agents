@@ -12,10 +12,11 @@
       "name": "Sibanye Stillwater Limited",
       "ticker": "SBSW",
       "exchange": "NYSE",
-      "title_or_role": "Independent Non-Executive Director",
+      "title_or_role": "Director",
       "website": "https://www.sibanyestillwater.com",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +27,5 @@
     "Audit Committee",
     "Risk Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

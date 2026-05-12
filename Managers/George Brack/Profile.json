@@ -11,11 +11,92 @@
     {
       "name": "Wheaton Precious Metals Corp.",
       "ticker": "WPM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Chair",
+      "exchange": "TSX/NYSE",
+      "title_or_role": "Chairman of the Board",
       "website": "https://www.wheatonpm.com",
-      "start_date": "2009-11-01",
-      "end_date": null
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "website": "https://capstonecopper.com",
+      "title_or_role": "Lead Independent Director",
+      "start_date": "2012",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Alexco Resource Corp.",
+      "ticker": "AXR",
+      "exchange": "TSX",
+      "website": "https://www.alexcoresource.com",
+      "title_or_role": "Chairman",
+      "start_date": "2010",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Aurizon Mines Ltd.",
+      "ticker": "ARZ",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "NovaGold Resources Inc.",
+      "ticker": "NG",
+      "exchange": "TSX/NYSE",
+      "website": "https://novagold.com",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Red Back Mining Inc.",
+      "ticker": "RBI",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2010",
+      "validated": true
+    },
+    {
+      "name": "Newstrike Capital Inc.",
+      "ticker": "NES",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Geologix Explorations Inc.",
+      "ticker": "GIX",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Dateline Resources Limited",
+      "ticker": "DTR",
+      "exchange": "ASX",
+      "website": "https://www.datelineresources.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2026",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +107,5 @@
     "Audit Committee",
     "Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

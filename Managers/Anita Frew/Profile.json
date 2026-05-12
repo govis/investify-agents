@@ -25,6 +25,76 @@
       "website": "https://www.rolls-royce.com",
       "start_date": "2021-10-01",
       "end_date": null
+    },
+    {
+      "name": "Croda International plc",
+      "ticker": "CRDA",
+      "exchange": "LSE",
+      "website": "https://www.croda.com",
+      "title_or_role": "Chair",
+      "start_date": "2015",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Lloyds Banking Group plc",
+      "ticker": "LLOY",
+      "exchange": "LSE",
+      "website": "https://www.lloydsbankinggroup.com",
+      "title_or_role": "Deputy Chair and Senior Independent Director",
+      "start_date": null,
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Victrex plc",
+      "ticker": "VCT",
+      "exchange": "LSE",
+      "website": "https://www.victrexplc.com",
+      "title_or_role": "Chair",
+      "start_date": "2008",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX",
+      "website": "https://www.bhp.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "IMI plc",
+      "ticker": "IMI",
+      "exchange": "LSE",
+      "website": "https://www.imiplc.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aberdeen Asset Management plc",
+      "ticker": "ADN",
+      "exchange": "LSE",
+      "website": "https://www.abrdn.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "WPP plc",
+      "ticker": "WPP",
+      "exchange": "LSE",
+      "website": "https://www.wpp.com",
+      "title_or_role": "Director of Corporate Development",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +106,5 @@
   "committees": [
     "Nominations & Governance Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -25,6 +25,26 @@
       "website": "https://www.cameco.com",
       "start_date": "2011-01-01",
       "end_date": null
+    },
+    {
+      "name": "Electricit\u00e9 de France SA (EDF)",
+      "ticker": "EDF",
+      "exchange": "LSE",
+      "website": "https://www.edf.fr",
+      "title_or_role": "Group CFO and Head of Strategy and International Activities",
+      "start_date": "2002",
+      "end_date": "2010",
+      "validated": true
+    },
+    {
+      "name": "Constellation Energy Group Inc.",
+      "ticker": "CEG",
+      "exchange": "NYSE",
+      "website": "https://www.constellationenergy.com",
+      "title_or_role": "Director",
+      "start_date": "2010-03-31",
+      "end_date": "2010-10-18",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +56,5 @@
     "Audit and Finance Committee",
     "Human Resources and Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

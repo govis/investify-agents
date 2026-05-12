@@ -1,0 +1,37 @@
+
+--- URL: https://www.sec.gov/ix?doc=/Archives/edgar/data/1429764/000149315224015383/formdef14a.htm ---
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    <title>XBRL Viewer</title>
+    <script language="JavaScript">
+    /* <![CDATA[ */
+        /* Created by staff of the U.S. Securities and Exchange Commission.
+        *  Data and content created by government employees within the scope of their employment
+        *  are not subject to domestic copyright protection. 17 U.S.C. 105.
+        *
+        *  This script checks the accession number of the document requested to determine
+        *  the year and sequence of filing.  If filed after the availability of ixviewer-plus
+        *  this script redirects to that viewer, otherwise to a prior ixviewer in effect
+        *  or deemed compatible with the filing.
+        */
+
+        function loadViewer(ixvUrl) {
+            // load viewer in an iframe so the end user's browser URL is not changed
+            var iFrame = document.getElementById("ixvFrame");
+            iFrame.src = ixvUrl;
+        }
+
+        const url = location.href;
+        // url doc pattern is /Archives/edgar/data/ciknum/{10digits}{YY}{sequence}/{more params}
+        // uncomment one of the following urlPatterns depending on usage:
+        // for SEC.GOV: const urlPattern = /(\?doc=(\/Archives\/edgar\/data\/[0-9]+\/[0-9]{10}([0-9]{8})\/).*$)/;
+        // for Arelle GUI: const urlPattern = /(\?doc=(\/[0-9]+\/).*$)/;
+        const urlPattern = /(\?doc=(\/Archives\/edgar\/data\/[0-9]+\/[0-9]{10}([0-9]{8})\/).*$)/;
+        const ixvPlusNsPattern = /http:\/\/xbrl.sec.gov\/(ffd|sb

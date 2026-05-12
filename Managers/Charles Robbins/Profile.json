@@ -16,6 +16,16 @@
       "website": "https://www.cisco.com",
       "start_date": "2017-12-01",
       "end_date": null
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "ticker": "BLK",
+      "exchange": "NYSE",
+      "website": "https://www.blackrock.com",
+      "title_or_role": "Director",
+      "start_date": "2016-12-31",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +33,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

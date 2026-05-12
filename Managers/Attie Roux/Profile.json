@@ -16,6 +16,36 @@
       "website": "https://evolutionmining.com.au",
       "start_date": "2022-07-01",
       "end_date": null
+    },
+    {
+      "name": "Aris Mining Corp.",
+      "ticker": "ARIS",
+      "exchange": "TSX",
+      "website": "https://aris-mining.com/",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "LSE, TSX",
+      "website": "https://www.endeavourmining.com/",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2010",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Leagold Mining Corp.",
+      "ticker": "LMC",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2017",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +53,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

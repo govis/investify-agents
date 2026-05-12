@@ -10,12 +10,13 @@
   "company_affiliations": [
     {
       "name": "HEICO Corporation",
-      "ticker": "HEI",
+      "ticker": "HEI / HEI.A",
       "exchange": "NYSE",
-      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "title_or_role": "Executive Vice President, Chief Financial Officer, and Treasurer",
       "website": "https://www.heico.com",
       "start_date": "2012",
-      "end_date": null
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +24,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -11,11 +11,32 @@
     {
       "name": "Revival Gold Inc.",
       "ticker": "RVG",
-      "exchange": "TSX",
-      "title_or_role": "President, Chief Executive Officer and Director",
+      "exchange": "TSXV",
+      "title_or_role": "President, CEO, and Director",
       "website": "https://revival-gold.com",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "West Red Lake Gold Mines Ltd.",
+      "ticker": "WRLG",
+      "exchange": "TSXV",
+      "website": "https://westredlakegold.com",
+      "title_or_role": "Director",
+      "start_date": "July 27, 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Palamina Corp.",
+      "ticker": "PA",
+      "exchange": "TSXV",
+      "website": "https://palamina.com",
+      "title_or_role": "Director",
+      "start_date": "November 16, 2016",
+      "end_date": "November 29, 2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

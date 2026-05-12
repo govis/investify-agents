@@ -12,10 +12,21 @@
       "name": "NuScale Power Corporation",
       "ticker": "SMR",
       "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
+      "title_or_role": "Executive Chairman (NuScale LLC)",
       "website": "https://www.nuscalepower.com",
-      "start_date": "2022-05-01",
-      "end_date": null
+      "start_date": "December 2012",
+      "end_date": "December 2021",
+      "validated": true
+    },
+    {
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
+      "exchange": "NYSE",
+      "website": "https://www.fluor.com",
+      "title_or_role": "Group President, Corporate Development and Emerging Markets",
+      "start_date": "2010",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

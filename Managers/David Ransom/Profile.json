@@ -11,11 +11,32 @@
     {
       "name": "Perseus Mining Limited",
       "ticker": "PRU",
-      "exchange": "ASX",
+      "exchange": "ASX / TSX",
       "title_or_role": "Non-Executive Director",
-      "website": "https://perseusmining.com/",
-      "start_date": "2019-11-29",
-      "end_date": null
+      "website": "https://www.perseusmining.com",
+      "start_date": "2019",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Investigator Resources Limited",
+      "ticker": "IVR",
+      "exchange": "ASX",
+      "website": "https://investres.com.au",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2017",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Unity Mining Limited (formerly Bendigo Mining Limited)",
+      "ticker": "UML",
+      "exchange": "ASX",
+      "website": "N/A",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2007",
+      "end_date": "2014",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +46,5 @@
   "committees": [
     "Technical Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

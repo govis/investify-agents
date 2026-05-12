@@ -13,9 +13,50 @@
       "ticker": "NTAP",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
-      "website": "https://www.netapp.com",
-      "start_date": "2009-12-01",
-      "end_date": null
+      "website": "www.netapp.com",
+      "start_date": "December 2009",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Informatica Inc.",
+      "ticker": "INFA",
+      "exchange": "NYSE",
+      "website": "www.informatica.com",
+      "title_or_role": "Director",
+      "start_date": "Unknown",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Business Objects S.A.",
+      "ticker": "BOBJ",
+      "exchange": "NASDAQ",
+      "website": "www.sap.com",
+      "title_or_role": "Lead Independent Director",
+      "start_date": "Unknown",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Great Elm Group, Inc.",
+      "ticker": "GEG",
+      "exchange": "NASDAQ",
+      "website": "www.greatelmgroup.com",
+      "title_or_role": "Director",
+      "start_date": "Unknown",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Openwave Systems Inc.",
+      "ticker": "OPWV",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "title_or_role": "Director",
+      "start_date": "1993",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +66,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

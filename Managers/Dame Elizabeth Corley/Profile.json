@@ -12,10 +12,51 @@
       "name": "BAE Systems plc",
       "ticker": "BA",
       "exchange": "LSE",
-      "title_or_role": "Senior Independent Director, Non-Executive Director",
-      "website": "https://www.baesystems.com",
-      "start_date": "2022-05-01",
-      "end_date": null
+      "title_or_role": "Non-Executive Director",
+      "website": "baesystems.com",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Schroders plc",
+      "ticker": "SDR",
+      "exchange": "LSE",
+      "website": "schroders.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021-09",
+      "end_date": "2022-04",
+      "validated": true
+    },
+    {
+      "name": "Allianz Global Investors",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "allianzgi.com",
+      "title_or_role": "CEO",
+      "start_date": "2005",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Pearson plc",
+      "ticker": "PSON",
+      "exchange": "LSE",
+      "website": "pearson.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2014-05-01",
+      "end_date": "2021-12-31",
+      "validated": true
+    },
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "exchange": "NYSE",
+      "website": "morganstanley.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2018-01-01",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +68,5 @@
     "Nominations Committee",
     "Remuneration Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

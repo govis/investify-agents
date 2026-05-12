@@ -12,10 +12,41 @@
       "name": "Juniper Networks, Inc.",
       "ticker": "JNPR",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.juniper.net",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Polestar Automotive Holding UK PLC",
+      "ticker": "PSNY",
+      "exchange": "NASDAQ",
+      "website": "https://www.polestar.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Arlo Technologies, Inc.",
+      "ticker": "ARLO",
+      "exchange": "NYSE",
+      "website": "https://www.arlo.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2018",
+      "end_date": "2020-06-15",
+      "validated": true
+    },
+    {
+      "name": "NETGEAR, Inc.",
+      "ticker": "NTGR",
+      "exchange": "NASDAQ",
+      "website": "https://www.netgear.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2007",
+      "end_date": "2018",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +56,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

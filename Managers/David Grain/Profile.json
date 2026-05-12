@@ -12,10 +12,41 @@
       "name": "The Southern Company",
       "ticker": "SO",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.southerncompany.com",
-      "start_date": "2012-01-01",
-      "end_date": null
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Dell Technologies Inc.",
+      "ticker": "DELL",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "title_or_role": "Director",
+      "start_date": "September 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "New Fortress Energy Inc.",
+      "ticker": "NFE",
+      "exchange": "NASDAQ",
+      "website": "https://www.newfortressenergy.com",
+      "title_or_role": "Director",
+      "start_date": "January 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Global Signal Inc.",
+      "ticker": "GSL",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "President",
+      "start_date": "2002",
+      "end_date": "2006",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +58,5 @@
     "Finance",
     "Governance"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

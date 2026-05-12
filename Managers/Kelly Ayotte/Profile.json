@@ -16,6 +16,46 @@
       "website": "https://www.caterpillar.com",
       "start_date": "2017-01-01",
       "end_date": null
+    },
+    {
+      "name": "News Corp",
+      "ticker": "NWSA",
+      "exchange": "NASDAQ",
+      "website": "https://newscorp.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "April 1, 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Blackstone Inc.",
+      "ticker": "BX",
+      "exchange": "NYSE",
+      "website": "https://www.blackstone.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2020",
+      "end_date": "November 14, 2024",
+      "validated": true
+    },
+    {
+      "name": "Bloom Energy Corporation",
+      "ticker": "BE",
+      "exchange": "NYSE",
+      "website": "https://www.bloomenergy.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "November 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BXP (Boston Properties, Inc.)",
+      "ticker": "BXP",
+      "exchange": "NYSE",
+      "website": "https://www.bxp.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +66,5 @@
     "Audit Committee",
     "Public Policy and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

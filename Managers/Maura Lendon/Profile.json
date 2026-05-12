@@ -16,6 +16,26 @@
       "website": "https://revival-gold.com",
       "start_date": "2021-01-01",
       "end_date": null
+    },
+    {
+      "name": "Greenlane Renewables Inc.",
+      "ticker": "GRN",
+      "exchange": "TSX",
+      "website": "https://www.greenlanebiogas.com/",
+      "title_or_role": "Chief Operating Officer / Chief Legal Officer",
+      "start_date": "2019",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Kuya Silver Corp.",
+      "ticker": "KUYA",
+      "exchange": "CSE",
+      "website": "https://kuyasilver.com/",
+      "title_or_role": "Chairman / Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Audit Committee",
     "Compensation, Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

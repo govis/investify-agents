@@ -25,6 +25,26 @@
       "website": "https://skeenaresources.com",
       "start_date": "2016-01-01",
       "end_date": null
+    },
+    {
+      "name": "Pacific Ridge Exploration Ltd.",
+      "ticker": "PEX",
+      "exchange": "TSXV",
+      "website": "https://pacificridgeexploration.com/",
+      "title_or_role": "Director",
+      "start_date": "2021-02-08",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Eurasian Minerals Inc. (now EMX Royalty Corporation)",
+      "ticker": "EMX",
+      "exchange": "NYSE",
+      "website": "https://emxroyalty.com/",
+      "title_or_role": "Director",
+      "start_date": "2005-07-20",
+      "end_date": "2005-07-22",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +56,5 @@
     "Governance and Nominating Committee",
     "Technical Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

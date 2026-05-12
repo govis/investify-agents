@@ -13,9 +13,40 @@
       "ticker": "CXB",
       "exchange": "TSX",
       "title_or_role": "Director",
-      "website": "https://calibremining.com",
-      "start_date": "2019-10-15",
-      "end_date": null
+      "website": "calibremining.com",
+      "start_date": "2020-05",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Newcore Gold Ltd.",
+      "ticker": "NCAU",
+      "exchange": "TSXV",
+      "website": "newcoregold.com",
+      "title_or_role": "Director",
+      "start_date": "2019-08",
+      "end_date": "2024-03",
+      "validated": true
+    },
+    {
+      "name": "Edgewater Exploration Ltd.",
+      "ticker": "EDW",
+      "exchange": "TSXV",
+      "website": "edgewaterexploration.com",
+      "title_or_role": "President, CEO, CFO, Director",
+      "start_date": "2010-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Newmarket Gold Inc.",
+      "ticker": "NMI",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2015-11",
+      "end_date": "2016-11",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Audit Committee (Chair)",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

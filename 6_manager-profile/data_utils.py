@@ -30,11 +30,13 @@ def get_manager_data(profile_path: str) -> Dict[str, Any]:
         profile = json.load(f)
     
     enriched_companies = []
-    for comp in profile.get("companies", []):
+    companies = profile.get("company_affiliations") or []
+    
+    for comp in companies:
         details = get_company_details(comp["ticker"], comp["exchange"])
         comp["name_clean"] = details["name_clean"]
         comp["website"] = details["website"]
         enriched_companies.append(comp)
     
-    profile["companies"] = enriched_companies
+    profile["company_affiliations"] = enriched_companies
     return profile

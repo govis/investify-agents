@@ -12,10 +12,21 @@
       "name": "New Age Metals Inc.",
       "ticker": "NAM",
       "exchange": "TSXV",
-      "title_or_role": "Independent Director",
-      "website": "https://newagemetals.com",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "title_or_role": "VP Exploration (2004\u20132009); Director (2009\u20132025)",
+      "website": "https://newagemetals.com/",
+      "start_date": "2004",
+      "end_date": "2025-07",
+      "validated": true
+    },
+    {
+      "name": "Rockport Capital Corp.",
+      "ticker": "N/A",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": "2025-07",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

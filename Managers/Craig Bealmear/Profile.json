@@ -13,9 +13,20 @@
       "ticker": "OKLO",
       "exchange": "NYSE",
       "title_or_role": "Chief Financial Officer",
-      "website": "https://oklo.com",
-      "start_date": "2024-01-01",
-      "end_date": null
+      "website": "https://oklo.com/",
+      "start_date": "August 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Renewable Energy Group, Inc.",
+      "ticker": "REGI",
+      "exchange": "NASDAQ",
+      "website": "https://www.regi.com/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "April 19, 2021",
+      "end_date": "December 2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

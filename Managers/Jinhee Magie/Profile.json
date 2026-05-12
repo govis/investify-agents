@@ -11,11 +11,32 @@
     {
       "name": "Lithium Americas Corp.",
       "ticker": "LAC",
-      "exchange": "NYSE",
+      "exchange": "TSX / NYSE",
       "title_or_role": "Director",
       "website": "https://www.lithiumamericas.com",
-      "start_date": "2023-10-04",
-      "end_date": null
+      "start_date": "June 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Star Royalties Ltd.",
+      "ticker": "STRR",
+      "exchange": "TSXV",
+      "website": "https://starroyalties.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN (TSX) / LUMI (STO)",
+      "exchange": "TSX / STO",
+      "website": "https://www.lundinmining.com",
+      "title_or_role": "Director, Finance",
+      "start_date": "September 2008",
+      "end_date": "Prior to Vice President role",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

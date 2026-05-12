@@ -12,10 +12,61 @@
       "name": "Micron Technology, Inc.",
       "ticker": "MU",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.micron.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "start_date": "2020-08-19",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "KBR, Inc.",
+      "ticker": "KBR",
+      "exchange": "NYSE",
+      "website": "https://www.kbr.com",
+      "title_or_role": "Director",
+      "start_date": "2020-02-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "TE Connectivity Ltd.",
+      "ticker": "TEL",
+      "exchange": "NYSE",
+      "website": "https://www.te.com",
+      "title_or_role": "Director",
+      "start_date": "2020-03-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "State Street Corporation",
+      "ticker": "STT",
+      "exchange": "NYSE",
+      "website": "https://www.statestreet.com",
+      "title_or_role": "Director",
+      "start_date": "2015-12-14",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Engility Holdings, Inc.",
+      "ticker": "EGL",
+      "exchange": "NYSE",
+      "website": "https://www.engility.com",
+      "title_or_role": "CEO, President, and Chairman",
+      "start_date": "2016-03-21",
+      "end_date": "2019-01-15",
+      "validated": true
+    },
+    {
+      "name": "EOG Resources, Inc.",
+      "ticker": "EOG",
+      "exchange": "NYSE",
+      "website": "https://www.eogresources.com",
+      "title_or_role": "Director",
+      "start_date": "2023-02-08",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +77,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -11,11 +11,32 @@
     {
       "name": "AB Volvo",
       "ticker": "VOLV-B",
-      "exchange": "STO",
-      "title_or_role": "Director, President and CEO",
+      "exchange": "STO (Nasdaq Stockholm)",
+      "title_or_role": "President and Chief Executive Officer",
       "website": "https://www.volvogroup.com",
       "start_date": "2015-10-22",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Autoliv, Inc.",
+      "ticker": "ALV",
+      "exchange": "NYSE",
+      "website": "https://www.autoliv.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2021",
+      "end_date": "2026-05-07",
+      "validated": true
+    },
+    {
+      "name": "Scania AB",
+      "ticker": "SCV-B",
+      "exchange": "STO (Nasdaq Stockholm)",
+      "website": "https://www.scania.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2012",
+      "end_date": "2015",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

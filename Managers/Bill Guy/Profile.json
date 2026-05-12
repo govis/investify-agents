@@ -12,10 +12,21 @@
       "name": "Bellevue Gold Limited",
       "ticker": "BGL",
       "exchange": "ASX",
-      "title_or_role": "Executive Director",
-      "website": "https://www.bellevuegold.com.au",
-      "start_date": "2023-03-01",
-      "end_date": null
+      "title_or_role": "Director (Founding Director)",
+      "website": "https://bellevuegold.com.au/",
+      "start_date": "2017",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Theta Gold Mines Limited",
+      "ticker": "TGM",
+      "exchange": "ASX",
+      "website": "https://thetagoldmines.com/",
+      "title_or_role": "Chairman / Managing Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

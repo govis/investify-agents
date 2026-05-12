@@ -16,6 +16,26 @@
       "website": "https://www.bwxt.com",
       "start_date": "2018-01-01",
       "end_date": null
+    },
+    {
+      "name": "Thoratec Corporation",
+      "ticker": "THOR",
+      "exchange": "NASDAQ",
+      "website": "https://www.thoratec.com",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "2006",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Standard BioTools Inc.",
+      "ticker": "LAB",
+      "exchange": "NASDAQ",
+      "website": "https://www.standardbio.com/",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "June 14, 2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +47,5 @@
     "Compensation Committee",
     "Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

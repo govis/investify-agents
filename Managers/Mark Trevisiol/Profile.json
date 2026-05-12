@@ -13,9 +13,20 @@
       "ticker": "ELBM",
       "exchange": "TSX",
       "title_or_role": "Vice President, Project Development",
-      "website": "https://electrabmc.com",
-      "start_date": "2021-06-01",
-      "end_date": null
+      "website": "https://electrabmc.com/",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "McFarlane Lake Mining Limited",
+      "ticker": "MLM",
+      "exchange": "CSE",
+      "website": "https://mcfarlanelakemining.com/",
+      "title_or_role": "Chairman, President & Chief Executive Officer",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

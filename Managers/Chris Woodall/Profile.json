@@ -11,11 +11,32 @@
     {
       "name": "Perseus Mining Limited",
       "ticker": "PRU",
-      "exchange": "ASX",
+      "exchange": "ASX, TSX",
       "title_or_role": "Chief Operating Officer",
       "website": "https://perseusmining.com/",
-      "start_date": "2016-01-01",
-      "end_date": null
+      "start_date": "2016-09-01",
+      "end_date": "2023-06-30",
+      "validated": true
+    },
+    {
+      "name": "Goldcorp Inc.",
+      "ticker": "G",
+      "exchange": "NYSE, TSX",
+      "website": "https://www.newmont.com/",
+      "title_or_role": "Senior Vice President, Canada and US Operations",
+      "start_date": "2013-01-01",
+      "end_date": "2016-12-31",
+      "validated": true
+    },
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "GOLD, ABX",
+      "exchange": "NYSE, TSX",
+      "website": "https://barrick.com/",
+      "title_or_role": "Global Director Mining - Operations Support",
+      "start_date": "2000-01-01",
+      "end_date": "2012-12-31",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

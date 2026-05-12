@@ -25,6 +25,16 @@
       "website": "https://www.glencore.com",
       "start_date": "2018-01-01",
       "end_date": null
+    },
+    {
+      "name": "Absa Group Limited",
+      "ticker": "ABG",
+      "exchange": "JSE (Johannesburg Stock Exchange)",
+      "website": "https://www.absa.africa/",
+      "title_or_role": "Chairperson",
+      "start_date": "2007",
+      "end_date": "2009",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +46,5 @@
     "Audit Committee",
     "ECC Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

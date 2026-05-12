@@ -16,6 +16,36 @@
       "website": "https://www.eaton.com",
       "start_date": "2016-01-01",
       "end_date": null
+    },
+    {
+      "name": "Drax Group plc",
+      "ticker": "DRX",
+      "exchange": "LSE",
+      "website": "https://www.drax.com",
+      "title_or_role": "Chief Executive Officer and Director",
+      "start_date": "2005",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Tullow Oil plc",
+      "ticker": "TLW",
+      "exchange": "LSE",
+      "website": "https://www.tullowoil.com",
+      "title_or_role": "Non-Executive Chair",
+      "start_date": "2018",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Rotork plc",
+      "ticker": "ROR",
+      "exchange": "LSE",
+      "website": "https://www.rotork.com",
+      "title_or_role": "Chair",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +57,5 @@
     "Audit",
     "Finance"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

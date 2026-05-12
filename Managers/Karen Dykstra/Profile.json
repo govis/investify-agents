@@ -12,10 +12,71 @@
       "name": "Arm Holdings plc",
       "ticker": "ARM",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.arm.com",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "title_or_role": "Board Member",
+      "website": "arm.com",
+      "start_date": "2022-09-26",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Atlassian Corporation",
+      "ticker": "TEAM",
+      "exchange": "NASDAQ",
+      "website": "atlassian.com",
+      "title_or_role": "Board Member",
+      "start_date": "2025-04-14",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gartner, Inc.",
+      "ticker": "IT",
+      "exchange": "NYSE",
+      "website": "gartner.com",
+      "title_or_role": "Board Member",
+      "start_date": "2012-09-19",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "VMware, Inc.",
+      "ticker": "VMW",
+      "exchange": "NYSE",
+      "website": "vmware.com",
+      "title_or_role": "Board Member",
+      "start_date": null,
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "AOL Inc.",
+      "ticker": "AOL",
+      "exchange": "NYSE",
+      "website": "aol.com",
+      "title_or_role": "Chief Financial and Administrative Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Crane Co.",
+      "ticker": "CR",
+      "exchange": "NYSE",
+      "website": "craneco.com",
+      "title_or_role": "Board Member",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Boston Properties, Inc.",
+      "ticker": "BXP",
+      "exchange": "NYSE",
+      "website": "bxp.com",
+      "title_or_role": "Board Member",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +86,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

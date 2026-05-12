@@ -16,6 +16,26 @@
       "website": "https://www.newmont.com",
       "start_date": "2021-01-01",
       "end_date": null
+    },
+    {
+      "name": "UPM-Kymmene Oyj",
+      "ticker": "UPM",
+      "exchange": "Nasdaq Helsinki",
+      "website": "https://www.upm.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Seplat Energy Plc",
+      "ticker": "SEPL",
+      "exchange": "LSE",
+      "website": "https://seplatenergy.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Leadership Development and Compensation Committee",
     "Safety and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,61 @@
       "name": "Tesla, Inc.",
       "ticker": "TSLA",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.tesla.com",
-      "start_date": "2017-07-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "tesla.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "News Corporation",
+      "ticker": "NWSA",
+      "exchange": "NASDAQ",
+      "website": "newscorp.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "21st Century Fox",
+      "ticker": "FOXA",
+      "exchange": "NASDAQ",
+      "website": "21cf.com",
+      "title_or_role": "CEO",
+      "start_date": "2015",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Sky plc (formerly BSkyB)",
+      "ticker": "SKY",
+      "exchange": "LSE",
+      "website": "sky.com",
+      "title_or_role": "Chairman",
+      "start_date": "2007",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Sotheby's",
+      "ticker": "BID",
+      "exchange": "NYSE",
+      "website": "sothebys.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "GlaxoSmithKline plc",
+      "ticker": "GSK",
+      "exchange": "LSE/NYSE",
+      "website": "gsk.com",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": "2012",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +78,5 @@
     "Audit Committee",
     "Nominating and Corporate Governance Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

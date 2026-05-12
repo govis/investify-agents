@@ -16,6 +16,36 @@
       "website": "https://orioncmc.com",
       "start_date": "2021-05-15",
       "end_date": null
+    },
+    {
+      "name": "P2 Gold Inc.",
+      "ticker": "PGLD",
+      "exchange": "TSXV",
+      "website": "https://www.p2gold.com",
+      "title_or_role": "Chairman, President & CEO",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tudor Gold Corp.",
+      "ticker": "TUD",
+      "exchange": "TSXV",
+      "website": "https://tudor-gold.com",
+      "title_or_role": "President, CEO & Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CopperEx Resources Corp.",
+      "ticker": "CUEX",
+      "exchange": "TSXV",
+      "website": "https://copperexcorp.com",
+      "title_or_role": "Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -11,11 +11,22 @@
     {
       "name": "Sandstorm Gold Ltd.",
       "ticker": "SAND",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.sandstormgold.com",
-      "start_date": "2015-01-01",
-      "end_date": null
+      "exchange": "NYSE / TSX",
+      "title_or_role": "Director",
+      "website": "https://www.sandstormgold.com/",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bear Creek Mining Corporation",
+      "ticker": "BCM",
+      "exchange": "TSXV",
+      "website": "https://bearcreekmining.com/",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "March 2025",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

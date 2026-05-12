@@ -16,6 +16,46 @@
       "website": "https://www.atlascopcogroup.com",
       "start_date": "2017-01-01",
       "end_date": null
+    },
+    {
+      "name": "Investor AB",
+      "ticker": "INVE-B.ST",
+      "exchange": "STO",
+      "website": "https://www.investorab.com",
+      "title_or_role": "President and CEO",
+      "start_date": "2015",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Epiroc AB",
+      "ticker": "EPI-A.ST",
+      "exchange": "STO",
+      "website": "https://www.epirocgroup.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "W\u00e4rtsil\u00e4 Oyj Abp",
+      "ticker": "WRT1V.HE",
+      "exchange": "HE",
+      "website": "https://www.wartsila.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ABB Ltd",
+      "ticker": "ABBN.SW",
+      "exchange": "SWX",
+      "website": "https://global.abb",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +65,5 @@
   "committees": [
     "Remuneration Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

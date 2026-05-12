@@ -12,10 +12,61 @@
       "name": "G Mining Ventures Corp.",
       "ticker": "GMIN",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://www.gminingventures.com",
-      "start_date": "2020-11-25",
-      "end_date": null
+      "title_or_role": "Non-Executive Vice-Chairman",
+      "website": "https://gmin.gold/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Reunion Gold Corporation",
+      "ticker": "RGD",
+      "exchange": "TSX.V",
+      "website": "https://www.reuniongold.com/",
+      "title_or_role": "Executive Chairman",
+      "start_date": "2003",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Highland Copper Company Inc.",
+      "ticker": "HI",
+      "exchange": "TSX.V",
+      "website": "https://www.highlandcopper.com/",
+      "title_or_role": "Chairman",
+      "start_date": "2013",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Torex Gold Resources Ltd.",
+      "ticker": "TXG",
+      "exchange": "TSX",
+      "website": "https://torexgold.com/",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Sabina Gold & Silver Corp.",
+      "ticker": "SBB",
+      "exchange": "TSX",
+      "website": "https://www.b2gold.com/",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Golden Star Resources Ltd.",
+      "ticker": "GSC",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Founder / Executive",
+      "start_date": "1983",
+      "end_date": "2000",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +77,5 @@
     "Audit Committee",
     "Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

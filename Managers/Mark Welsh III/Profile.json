@@ -12,10 +12,11 @@
       "name": "Northrop Grumman Corporation",
       "ticker": "NOC",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.northropgrumman.com",
-      "start_date": "2016-01-01",
-      "end_date": null
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +27,5 @@
     "Compensation and Management Development Committee",
     "Governance, Nominating and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

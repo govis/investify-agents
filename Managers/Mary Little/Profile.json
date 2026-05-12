@@ -16,6 +16,46 @@
       "website": "https://www.sandstormgold.com",
       "start_date": "2017-01-01",
       "end_date": null
+    },
+    {
+      "name": "Capella Minerals Limited",
+      "ticker": "CMIL",
+      "exchange": "TSXV",
+      "website": "https://capellaminerals.com/",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Mirasol Resources Ltd.",
+      "ticker": "MRZ",
+      "exchange": "TSXV",
+      "website": "https://mirasolresources.com/",
+      "title_or_role": "Founder, CEO, President, Director",
+      "start_date": "2003",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Tinka Resources Limited",
+      "ticker": "TK",
+      "exchange": "TSXV, OTC",
+      "website": "https://tinkaresources.com/",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Pure Energy Minerals Limited",
+      "ticker": "PE",
+      "exchange": "TSXV, OTC",
+      "website": "https://pureenergyminerals.com/",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +66,5 @@
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

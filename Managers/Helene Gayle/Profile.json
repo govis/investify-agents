@@ -16,6 +16,26 @@
       "website": "https://www.paloaltonetworks.com",
       "start_date": "2021-02-01",
       "end_date": null
+    },
+    {
+      "name": "The Coca-Cola Company",
+      "ticker": "KO",
+      "exchange": "NYSE",
+      "website": "https://www.coca-colacompany.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Colgate-Palmolive Company",
+      "ticker": "CL",
+      "exchange": "NYSE",
+      "website": "https://www.colgatepalmolive.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +45,5 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

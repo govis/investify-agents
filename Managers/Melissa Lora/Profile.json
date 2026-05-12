@@ -16,6 +16,26 @@
       "website": "https://www.nvidia.com",
       "start_date": "2023-01-01",
       "end_date": null
+    },
+    {
+      "name": "Conagra Brands, Inc.",
+      "ticker": "CAG",
+      "exchange": "NYSE",
+      "website": "https://www.conagrabrands.com",
+      "title_or_role": "Director",
+      "start_date": "January 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "MGIC Investment Corporation",
+      "ticker": "MTG",
+      "exchange": "NYSE",
+      "website": "https://mtg.mgic.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +47,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

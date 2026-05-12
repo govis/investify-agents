@@ -11,11 +11,12 @@
     {
       "name": "Perseus Mining Limited",
       "ticker": "PRU",
-      "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
+      "exchange": "ASX / TSX",
+      "title_or_role": "Independent Non-Executive Director",
       "website": "https://perseusmining.com/",
-      "start_date": "2021-11-01",
-      "end_date": null
+      "start_date": "November 2020",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +27,5 @@
     "Audit and Risk Committee (Chair)",
     "Remuneration Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

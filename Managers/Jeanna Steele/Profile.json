@@ -12,10 +12,21 @@
       "name": "Sunrun Inc.",
       "ticker": "RUN",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Legal Officer and Chief Compliance Officer",
-      "website": "https://www.sunrun.com",
-      "start_date": "2022-05-01",
-      "end_date": null
+      "title_or_role": "Chief Legal & People Officer",
+      "website": "https://investors.sunrun.com",
+      "start_date": "April 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vivint Solar, Inc.",
+      "ticker": "VSLR",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Secretary / Officer",
+      "start_date": "Unknown",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

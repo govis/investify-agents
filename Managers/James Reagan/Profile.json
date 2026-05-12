@@ -25,6 +25,36 @@
       "website": "https://www.saic.com",
       "start_date": "2023-12-13",
       "end_date": null
+    },
+    {
+      "name": "Deltek, Inc.",
+      "ticker": "PROJ",
+      "exchange": "NASDAQ",
+      "website": "www.deltek.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2005",
+      "end_date": "May 16, 2008",
+      "validated": true
+    },
+    {
+      "name": "Vangent, Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "www.vangent.com",
+      "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "start_date": "2008",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "Pacific Architects and Engineers Incorporated (PAE)",
+      "ticker": "PAE",
+      "exchange": "NASDAQ",
+      "website": "www.pae.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2012",
+      "end_date": "2012",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -34,6 +64,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,16 @@
       "website": "https://www.siemens.com",
       "start_date": "2015-01-27",
       "end_date": null
+    },
+    {
+      "name": "Siemens Aktiengesellschaft (Siemens AG)",
+      "ticker": "SIE",
+      "exchange": "XETRA",
+      "website": "https://www.siemens.com",
+      "title_or_role": "Chairwoman of the Central Works Council",
+      "start_date": "2014",
+      "end_date": "08/2025",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +37,5 @@
     "Chairman's Committee",
     "Innovation and Finance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

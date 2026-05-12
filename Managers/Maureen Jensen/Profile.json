@@ -11,11 +11,22 @@
     {
       "name": "Franco-Nevada Corporation",
       "ticker": "FNV",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "exchange": "TSX",
+      "title_or_role": "Director",
       "website": "https://www.franco-nevada.com",
-      "start_date": "2020-08-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cboe Canada",
+      "ticker": "CBOE",
+      "exchange": "NASDAQ",
+      "website": "https://www.cboe.ca",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Audit Committee",
     "ESG Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

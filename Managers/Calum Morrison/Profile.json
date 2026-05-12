@@ -11,11 +11,22 @@
     {
       "name": "Snowline Gold Corp.",
       "ticker": "SGD",
+      "exchange": "TSXV",
+      "title_or_role": "President & Director",
+      "website": "https://snowlinegold.com/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lithium Argentina Corp.",
+      "ticker": "LAAC",
       "exchange": "TSX",
+      "website": "https://www.lithium-argentina.com/",
       "title_or_role": "Independent Director",
-      "website": "https://snowlinegold.com",
-      "start_date": "2024-01-15",
-      "end_date": null
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +36,5 @@
   "committees": [
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

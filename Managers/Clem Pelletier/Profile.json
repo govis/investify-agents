@@ -10,12 +10,33 @@
   "company_affiliations": [
     {
       "name": "Seabridge Gold Inc.",
-      "ticker": "SA",
-      "exchange": "NYSE",
+      "ticker": "SEA",
+      "exchange": "TSX",
       "title_or_role": "Director",
-      "website": "https://www.seabridgegold.com",
-      "start_date": "2011-01-01",
-      "end_date": null
+      "website": "https://www.seabridgegold.com/",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Goldcorp Inc.",
+      "ticker": "G",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com/",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Sustainability Committee",
     "Technical Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,21 @@
       "name": "Adobe Inc.",
       "ticker": "ADBE",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member of the Board of Directors",
       "website": "https://www.adobe.com",
-      "start_date": "2018-04-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Eli Lilly and Company",
+      "ticker": "LLY",
+      "exchange": "NYSE",
+      "website": "https://www.lilly.com",
+      "title_or_role": "Chair and Chief Executive Officer",
+      "start_date": "January 2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -30,6 +41,5 @@
   "committees": [
     "Executive Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

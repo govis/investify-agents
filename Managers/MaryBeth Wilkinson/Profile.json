@@ -16,6 +16,16 @@
       "website": "https://www.kla.com",
       "start_date": "2020-09-01",
       "end_date": null
+    },
+    {
+      "name": "O-I Glass, Inc.",
+      "ticker": "OI",
+      "exchange": "NYSE",
+      "website": "https://www.o-i.com",
+      "title_or_role": "Senior Vice President, General Counsel and Corporate Secretary",
+      "start_date": "2010",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +33,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

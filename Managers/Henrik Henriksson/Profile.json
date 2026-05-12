@@ -25,6 +25,56 @@
       "website": "https://www.saab.com",
       "start_date": "2021-04-13",
       "end_date": null
+    },
+    {
+      "name": "Scania AB",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://www.scania.com",
+      "title_or_role": "President and CEO",
+      "start_date": "2016-01-01",
+      "end_date": "2021-05-01",
+      "validated": true
+    },
+    {
+      "name": "TRATON SE",
+      "ticker": "8TRA",
+      "exchange": "Frankfurt Stock Exchange",
+      "website": "https://www.traton.com",
+      "title_or_role": "Member of the Executive Board",
+      "start_date": "2012-06-01",
+      "end_date": "2021-05-01",
+      "validated": true
+    },
+    {
+      "name": "AB Electrolux",
+      "ticker": "ELUX-B",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.electroluxgroup.com",
+      "title_or_role": "Board Member",
+      "start_date": "2020-01-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hexagon AB",
+      "ticker": "HEXA-B",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://hexagon.com",
+      "title_or_role": "Board Member",
+      "start_date": "2021-01-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Creades AB",
+      "ticker": "CREAD-A",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.creades.se",
+      "title_or_role": "Board Member",
+      "start_date": "2021-01-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -35,6 +85,5 @@
   "committees": [
     "Remuneration Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

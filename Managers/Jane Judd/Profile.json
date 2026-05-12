@@ -14,8 +14,9 @@
       "exchange": "NASDAQ",
       "title_or_role": "Director",
       "website": "https://www.kratosdefense.com",
-      "start_date": "2012-01-01",
-      "end_date": null
+      "start_date": "January 2011",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +26,5 @@
   "committees": [
     "Audit Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

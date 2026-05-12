@@ -16,6 +16,46 @@
       "website": "https://www.gd.com",
       "start_date": "2021-01-01",
       "end_date": null
+    },
+    {
+      "name": "Assurant, Inc.",
+      "ticker": "AIZ",
+      "exchange": "NYSE",
+      "website": "https://www.assurant.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "January 15, 2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fiserv, Inc.",
+      "ticker": "FI",
+      "exchange": "NYSE",
+      "website": "https://www.fiserv.com",
+      "title_or_role": "Member, Board of Directors (Audit Committee Chair)",
+      "start_date": "2020",
+      "end_date": "2026",
+      "validated": true
+    },
+    {
+      "name": "Illinois Tool Works Inc.",
+      "ticker": "ITW",
+      "exchange": "NYSE",
+      "website": "https://www.itw.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2012",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "United Parcel Service, Inc. (UPS)",
+      "ticker": "UPS",
+      "exchange": "NYSE",
+      "website": "https://www.ups.com",
+      "title_or_role": "EVP and Chief Marketing and Customer Experience Officer",
+      "start_date": "2018",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +66,5 @@
     "Audit",
     "Finance"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

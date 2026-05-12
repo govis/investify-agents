@@ -10,12 +10,43 @@
   "company_affiliations": [
     {
       "name": "Platinum Group Metals Ltd.",
-      "ticker": "PTM",
+      "ticker": "PLG",
+      "exchange": "NYSE American",
+      "title_or_role": "Non-Executive Chairman / Director",
+      "website": "https://www.platinumgroupmetals.net/",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NuScale Power Corporation",
+      "ticker": "SMR",
       "exchange": "NYSE",
-      "title_or_role": "Chair of the Board",
-      "website": "https://www.platinumgroupmetals.net",
-      "start_date": "2014-01-01",
-      "end_date": null
+      "website": "https://www.nuscalepower.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "December 20, 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Atmos Energy Corporation",
+      "ticker": "ATO",
+      "exchange": "NYSE",
+      "website": "https://www.atmosenergy.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "November 1, 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Trilogy Metals Inc.",
+      "ticker": "TMQ",
+      "exchange": "NYSE American",
+      "website": "https://www.trilogymetals.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

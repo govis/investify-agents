@@ -14,8 +14,29 @@
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
       "website": "https://www.flowserve.com",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Hain Celestial Group, Inc.",
+      "ticker": "HAIN",
+      "exchange": "NASDAQ",
+      "website": "https://www.hain.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "FTI Consulting, Inc.",
+      "ticker": "FCN",
+      "exchange": "NYSE",
+      "website": "https://www.fticonsulting.com",
+      "title_or_role": "Global Co-Leader of Corporate Finance & Restructuring (Senior Executive)",
+      "start_date": "2002",
+      "end_date": "2025",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Audit Committee",
     "Finance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

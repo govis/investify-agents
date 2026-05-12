@@ -12,10 +12,31 @@
       "name": "Salesforce, Inc.",
       "ticker": "CRM",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.salesforce.com",
-      "start_date": "2023-03-01",
-      "end_date": null
+      "start_date": "March 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "March 2014",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Valeant Pharmaceuticals International, Inc. (now Bausch Health Companies Inc.)",
+      "ticker": "BHC",
+      "exchange": "NYSE",
+      "website": "https://www.bauschhealth.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2011",
+      "end_date": "2015",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

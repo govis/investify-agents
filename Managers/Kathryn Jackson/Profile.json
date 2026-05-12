@@ -10,12 +10,33 @@
   "company_affiliations": [
     {
       "name": "Cameco Corporation",
-      "ticker": "CCJ",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "ticker": "CCO",
+      "exchange": "TSX",
+      "title_or_role": "Director",
       "website": "https://www.cameco.com",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "start_date": "January 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Portland General Electric Company",
+      "ticker": "POR",
+      "exchange": "NYSE",
+      "website": "https://www.portlandgeneral.com",
+      "title_or_role": "Director",
+      "start_date": "April 2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "EQT Corporation",
+      "ticker": "EQT",
+      "exchange": "NYSE",
+      "website": "https://www.eqt.com",
+      "title_or_role": "Director",
+      "start_date": "July 2019",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Nominating, Corporate Governance and Risk Committee",
     "Safety, Health, Environment, Quality and Technical Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

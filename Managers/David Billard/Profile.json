@@ -11,11 +11,52 @@
     {
       "name": "Skyharbour Resources Ltd.",
       "ticker": "SYH",
-      "exchange": "TSX",
-      "title_or_role": "Head of Exploration",
-      "website": "https://skyharbourltd.com",
-      "start_date": "2013-06-01",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "Consulting Geologist (Qualified Person)",
+      "website": "skyharbourltd.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Abasca Resources Inc.",
+      "ticker": "ABA",
+      "exchange": "TSXV",
+      "website": "abascaresources.com",
+      "title_or_role": "Chairman",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "JNR Resources Inc.",
+      "ticker": "JNN",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "COO, Non-Independent Director & VP-Exploration",
+      "start_date": "2007",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Bessor Minerals Inc.",
+      "ticker": "BST",
+      "exchange": "TSXV",
+      "website": "bessorminerals.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2007",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Signet Minerals Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +64,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

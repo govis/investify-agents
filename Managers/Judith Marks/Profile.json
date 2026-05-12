@@ -16,6 +16,46 @@
       "website": "https://www.caterpillar.com",
       "start_date": "2023-01-01",
       "end_date": null
+    },
+    {
+      "name": "Otis Worldwide Corporation",
+      "ticker": "OTIS",
+      "exchange": "NYSE",
+      "website": "https://www.otis.com",
+      "title_or_role": "Chair, Chief Executive Officer and President",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Siemens AG",
+      "ticker": "SIEGY",
+      "exchange": "OTC",
+      "website": "https://www.siemens.com",
+      "title_or_role": "CEO of Siemens USA and Dresser-Rand",
+      "start_date": "2011",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "exchange": "NYSE",
+      "website": "https://www.lockheedmartin.com",
+      "title_or_role": "Senior Leadership Roles (including Vice President)",
+      "start_date": "1994",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "International Business Machines Corporation (IBM)",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "website": "https://www.ibm.com",
+      "title_or_role": "Various roles (IBM Federal Systems Company)",
+      "start_date": "1984",
+      "end_date": "1994",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +65,5 @@
   "committees": [
     "Public Policy and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

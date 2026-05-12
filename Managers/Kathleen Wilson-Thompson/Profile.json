@@ -12,10 +12,61 @@
       "name": "Tesla, Inc.",
       "ticker": "TSLA",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.tesla.com",
-      "start_date": "2018-12-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "tesla.com",
+      "start_date": "2018-12-28",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "McKesson Corporation",
+      "ticker": "MCK",
+      "exchange": "NYSE",
+      "website": "mckesson.com",
+      "title_or_role": "Director",
+      "start_date": "2022-01-13",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Wolverine World Wide, Inc.",
+      "ticker": "WWW",
+      "exchange": "NYSE",
+      "website": "wolverineworldwide.com",
+      "title_or_role": "Director",
+      "start_date": "2021-05-05",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vulcan Materials Company",
+      "ticker": "VMC",
+      "exchange": "NYSE",
+      "website": "vulcanmaterials.com",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Ashland Inc.",
+      "ticker": "ASH",
+      "exchange": "NYSE",
+      "website": "ashland.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Walgreens Boots Alliance, Inc.",
+      "ticker": "WBA",
+      "exchange": "NASDAQ",
+      "website": "walgreensbootsalliance.com",
+      "title_or_role": "EVP & Global CHRO",
+      "start_date": "2010",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +78,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,61 @@
       "name": "Electra Battery Materials Corporation",
       "ticker": "ELBM",
       "exchange": "TSX",
-      "title_or_role": "Chairman and Independent Director",
-      "website": "https://electrabmc.com",
-      "start_date": "2017-05-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "electrabmc.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lithium Argentina Corp.",
+      "ticker": "LAAC",
+      "exchange": "TSX",
+      "website": "lithium-argentina.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lithium Royalty Corp.",
+      "ticker": "LIRC",
+      "exchange": "TSX",
+      "website": "lithiumroyaltycorp.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Amerigo Resources Ltd.",
+      "ticker": "ARG",
+      "exchange": "TSX",
+      "website": "amerigoresources.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Heliostar Metals Corp.",
+      "ticker": "HSTR",
+      "exchange": "TSXV",
+      "website": "heliostarmetals.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lithium Americas Corp.",
+      "ticker": "LAC",
+      "exchange": "TSX/NYSE",
+      "website": "lithiumamericas.com",
+      "title_or_role": "Executive Vice Chair",
+      "start_date": "2015",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +77,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

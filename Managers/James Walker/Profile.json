@@ -13,9 +13,10 @@
       "ticker": "NNE",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Executive Officer and Director",
-      "website": "https://nanonuclearenergy.com",
-      "start_date": "2022-04-01",
-      "end_date": null
+      "website": "https://nanonuclearenergy.com/",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +25,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,31 @@
       "name": "Array Technologies, Inc.",
       "ticker": "ARRY",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Commercial Officer",
-      "website": "https://arraytechinc.com",
-      "start_date": "2022-03-21",
-      "end_date": null
+      "title_or_role": "Chief Marketing Officer / Chief Commercial Officer",
+      "website": "https://arraytechinc.com/",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Honeywell International Inc.",
+      "ticker": "HON",
+      "exchange": "NASDAQ",
+      "website": "https://www.honeywell.com/",
+      "title_or_role": "Vice President, Brand Marketing",
+      "start_date": "2011",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Ralph Lauren Corporation",
+      "ticker": "RL",
+      "exchange": "NYSE",
+      "website": "https://www.ralphlauren.com/",
+      "title_or_role": "Leadership/Management role",
+      "start_date": "Prior to 2011",
+      "end_date": "Prior to 2011",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

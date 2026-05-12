@@ -12,10 +12,31 @@
       "name": "Deep Yellow Limited",
       "ticker": "DYL",
       "exchange": "ASX",
-      "title_or_role": "Non-Executive Chairman",
-      "website": "https://deepyellow.com.au",
-      "start_date": "2021-05-12",
-      "end_date": null
+      "title_or_role": "Director (Non-Executive/Executive Chair)",
+      "website": "https://deepyellow.com.au/",
+      "start_date": "May 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rio Tinto Plc",
+      "ticker": "RIO",
+      "exchange": "LSE / NYSE",
+      "website": "https://www.riotinto.com/",
+      "title_or_role": "Chief Executive - Copper & Coal Product Group",
+      "start_date": "2016",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Energy Resources of Australia Ltd.",
+      "ticker": "ERA",
+      "exchange": "ASX",
+      "website": "https://www.energyres.com.au/",
+      "title_or_role": "Executive Director",
+      "start_date": "2004",
+      "end_date": "2010",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Audit Committee",
     "Remuneration Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

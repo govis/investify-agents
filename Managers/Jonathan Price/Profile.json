@@ -16,6 +16,16 @@
       "website": "https://www.teck.com",
       "start_date": "2022-09-30",
       "end_date": null
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX",
+      "website": "https://www.bhp.com",
+      "title_or_role": "Vice President Finance / Vice President Investor Relations",
+      "start_date": "2006-01-01",
+      "end_date": "2018-06-30",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +33,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

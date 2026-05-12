@@ -13,9 +13,10 @@
       "ticker": "PDN",
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
-      "website": "https://www.paladinenergy.com.au",
-      "start_date": "2023-05-01",
-      "end_date": null
+      "website": "https://www.paladinenergy.com/",
+      "start_date": "May 2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +27,5 @@
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

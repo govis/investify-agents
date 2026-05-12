@@ -14,8 +14,19 @@
       "exchange": "NASDAQ",
       "title_or_role": "Chief Financial Officer",
       "website": "https://gf.com",
-      "start_date": "2024-02-01",
-      "end_date": null
+      "start_date": "2024-02-05",
+      "end_date": "2024-09-16",
+      "validated": true
+    },
+    {
+      "name": "Silicon Laboratories Inc.",
+      "ticker": "SLAB",
+      "exchange": "NASDAQ",
+      "website": "https://www.silabs.com",
+      "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "start_date": "2013",
+      "end_date": "2024-02-02",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

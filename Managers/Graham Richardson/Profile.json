@@ -14,8 +14,19 @@
       "exchange": "TSX",
       "title_or_role": "Chief Financial Officer",
       "website": "https://faradaycopper.com",
-      "start_date": "2022-04-21",
-      "end_date": null
+      "start_date": "October 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fireweed Metals Corp.",
+      "ticker": "FWZ",
+      "exchange": "TSXV",
+      "website": "https://fireweedmetals.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "September 30, 2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

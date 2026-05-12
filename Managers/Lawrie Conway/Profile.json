@@ -16,6 +16,26 @@
       "website": "https://evolutionmining.com.au",
       "start_date": "2023-01-01",
       "end_date": null
+    },
+    {
+      "name": "Aurelia Metals Limited",
+      "ticker": "AMI",
+      "exchange": "ASX",
+      "website": "https://aureliametals.com/",
+      "title_or_role": "Non-Executive Director and Chair of the Audit Committee",
+      "start_date": null,
+      "end_date": "2022-08-31",
+      "validated": true
+    },
+    {
+      "name": "Newcrest Mining Limited",
+      "ticker": "NCM",
+      "exchange": "ASX",
+      "website": "https://www.newmont.com/",
+      "title_or_role": "Executive General Manager - Commercial & West Africa Operations",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +43,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

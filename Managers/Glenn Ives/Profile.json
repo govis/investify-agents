@@ -25,6 +25,26 @@
       "website": "https://www.wheatonpm.com",
       "start_date": "2020-05-01",
       "end_date": null
+    },
+    {
+      "name": "NervGen Pharma Corp.",
+      "ticker": "NGEN",
+      "exchange": "TSXV",
+      "website": "https://nervgen.com/",
+      "title_or_role": "Director and Chair of the Board",
+      "start_date": "2021-09-09",
+      "end_date": "2025-07-03",
+      "validated": true
+    },
+    {
+      "name": "Vengold Inc.",
+      "ticker": "VNG",
+      "exchange": "TSX",
+      "website": "https://www.vengold.com/",
+      "title_or_role": "Director and Chief Financial Officer",
+      "start_date": "1993",
+      "end_date": "1999",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -37,6 +57,5 @@
     "Governance and Nominating Committee",
     "Human Resources and Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

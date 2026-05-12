@@ -16,6 +16,26 @@
       "website": "https://www.lundinmining.com",
       "start_date": "2023-05-01",
       "end_date": null
+    },
+    {
+      "name": "Banco Santander-Chile",
+      "ticker": "BSAC",
+      "exchange": "NYSE",
+      "website": "https://www.santander.cl",
+      "title_or_role": "Independent Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aclara Resources Inc.",
+      "ticker": "ARA",
+      "exchange": "TSX",
+      "website": "https://www.aclara-re.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Corporate Governance and Nominating Committee",
     "Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

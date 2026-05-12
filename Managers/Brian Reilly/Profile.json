@@ -12,10 +12,11 @@
       "name": "Cameco Corporation",
       "ticker": "CCJ",
       "exchange": "NYSE",
-      "title_or_role": "Senior Vice-President and Chief Operating Officer",
+      "title_or_role": "Managing Director, Cameco Australia Pty.",
       "website": "https://www.cameco.com",
-      "start_date": "2017-07-01",
-      "end_date": null
+      "start_date": "2011",
+      "end_date": "2017",
+      "validated": true
     },
     {
       "name": "Cameco Corporation",
@@ -25,6 +26,16 @@
       "website": "https://www.cameco.com",
       "start_date": "2017-07-01",
       "end_date": null
+    },
+    {
+      "name": "Titan Uranium Inc.",
+      "ticker": "TUE",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2007",
+      "end_date": "2011",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -32,6 +43,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,16 @@
       "website": "https://www.boozallen.com",
       "start_date": "2015-01-01",
       "end_date": null
+    },
+    {
+      "name": "Ventas, Inc.",
+      "ticker": "VTR",
+      "exchange": "NYSE",
+      "website": "https://www.ventas-inc.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +36,5 @@
     "Audit Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

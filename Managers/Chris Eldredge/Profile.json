@@ -16,6 +16,16 @@
       "website": "https://www.juniper.net",
       "start_date": "2024-01-01",
       "end_date": null
+    },
+    {
+      "name": "DuPont Fabros Technology, Inc.",
+      "ticker": "DFT",
+      "exchange": "NYSE",
+      "website": "https://www.dft.com/",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2015-03-02",
+      "end_date": "2017-09-14",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +33,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

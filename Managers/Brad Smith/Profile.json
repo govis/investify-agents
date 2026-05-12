@@ -13,9 +13,80 @@
       "ticker": "AMZN",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
-      "website": "https://www.amazon.com",
-      "start_date": "2023-09-01",
-      "end_date": null
+      "website": "amazon.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Intuit Inc.",
+      "ticker": "INTU",
+      "exchange": "NASDAQ",
+      "website": "intuit.com",
+      "title_or_role": "CEO",
+      "start_date": "2008",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Nordstrom, Inc.",
+      "ticker": "JWN",
+      "exchange": "NYSE",
+      "website": "nordstrom.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Momentive Global Inc. (formerly SurveyMonkey)",
+      "ticker": "MNTV",
+      "exchange": "NASDAQ",
+      "website": "momentive.ai",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Humana Inc.",
+      "ticker": "HUM",
+      "exchange": "NYSE",
+      "website": "humana.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "website": "jpmorganchase.com",
+      "title_or_role": "Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "microsoft.com",
+      "title_or_role": "Vice Chair and President",
+      "start_date": "2002",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Netflix, Inc.",
+      "ticker": "NFLX",
+      "exchange": "NASDAQ",
+      "website": "netflix.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +97,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

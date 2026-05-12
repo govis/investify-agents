@@ -12,10 +12,21 @@
       "name": "TransDigm Group Incorporated",
       "ticker": "TDG",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.transdigm.com",
-      "start_date": "2003-07-01",
-      "end_date": null
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Builders FirstSource, Inc.",
+      "ticker": "BLDR",
+      "exchange": "NASDAQ",
+      "website": "https://www.bldr.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

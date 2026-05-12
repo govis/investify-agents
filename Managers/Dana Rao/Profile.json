@@ -12,10 +12,21 @@
       "name": "Adobe Inc.",
       "ticker": "ADBE",
       "exchange": "NASDAQ",
-      "title_or_role": "Executive Vice President, General Counsel and Chief Trust Officer",
+      "title_or_role": "Executive Vice President, General Counsel, and Corporate Secretary (also served as Chief Trust Officer)",
       "website": "https://www.adobe.com",
-      "start_date": "2018-06-01",
-      "end_date": null
+      "start_date": "2012",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Microsoft Corp.",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "title_or_role": "Associate General Counsel (Intellectual Property and Licensing)",
+      "start_date": "Prior to 2012",
+      "end_date": "2012",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -28,6 +39,5 @@
     }
   ],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

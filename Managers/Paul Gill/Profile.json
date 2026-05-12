@@ -5,8 +5,8 @@
   "age": 60,
   "age_year": 2024,
   "background": "Mr. Gill is the President of AJS Management Inc., a company providing management consulting services.",
-  "picture_url": null,
-  "picture_local": null,
+  "picture_url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAC4APQMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAAEBgIDBQcB/8QALRAAAgIBAwIDBwUBAAAAAAAAAQIAAwQFESESMUFRcQYTIkJhgZEUM6Gx8Af/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQAD/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECAxESITH/2gAMAwEAAhEDEQA/AOTKJcqSKCE1rKY8WuaWJ7P6xn4xyMHT7LKR2diAG9NzBkSdX0y/KwtBx1pbEOIuEWUu2zM4XcfacrZuC8O1Nam/TkTU21u1WTS1VqHZlYSDJGrXqhZjJk2vVbe7/uV+KkdiPDtF50ihLpaCyPMsAHSUkQyxZQw5jASrELqEFrhdPJExgqtY5aHjagNBGacT9ThBnqB2DdPqDxtye8T0U8cxv07Uba/+dapRXqFuK+PloyJVwbuvb4Se+3wsePL7TTq6jgq7OZajBzcLKqxasnJqNNdrlalbj69vzMy1Yz+2+U+Zpns9XfknJufCXJttO25LcA8ehir1bIOptx5mVQxYguXT1g1ogzjmF2wV+8hiFZhuMd39JnoYZifN6Sr6ZhuPcGLg/K0ldcwq92GPQ7AsvmQDsf5P5mfj2H3948iJfa3V0r5kf3GFeMuvynemsWtua6lqT6Ko4Ez3vLsVHhtxI23FyT2G52lWN8QusPgdv9+ZChbtuIMx5k3Ow6fKUseYGU//2Q==",
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Azincourt Energy Corp.",
@@ -30,7 +30,5 @@
   ],
   "committees": [
     "Audit Committee"
-  ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  ]
 }

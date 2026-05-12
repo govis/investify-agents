@@ -12,10 +12,41 @@
       "name": "GoviEx Uranium Inc.",
       "ticker": "GXU",
       "exchange": "TSXV",
-      "title_or_role": "Independent Director",
-      "website": "https://www.goviex.com",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://goviex.com",
+      "start_date": "2014-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aya Gold & Silver Inc.",
+      "ticker": "AYA",
+      "exchange": "TSX",
+      "website": "https://ayagoldsilver.com",
+      "title_or_role": "President & CEO",
+      "start_date": "2020-04",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SEMAFO Inc.",
+      "ticker": "SMF",
+      "exchange": "TSX",
+      "website": "https://semafo.com",
+      "title_or_role": "Founder, President & CEO",
+      "start_date": "1995",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "20-20 Technologies Inc.",
+      "ticker": "TWT",
+      "exchange": "TSX",
+      "website": "https://2020spaces.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +58,5 @@
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

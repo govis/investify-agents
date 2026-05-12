@@ -16,6 +16,26 @@
       "website": "https://www.parsons.com",
       "start_date": "2019",
       "end_date": null
+    },
+    {
+      "name": "RF Industries, Ltd.",
+      "ticker": "RFIL",
+      "exchange": "NASDAQ",
+      "website": "https://www.rfindustries.com",
+      "title_or_role": "Director",
+      "start_date": "2020-01-06",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Legacy Imbds Inc. (formerly iMedia Brands, Inc.)",
+      "ticker": "IMBIQ",
+      "exchange": "OTC",
+      "website": "https://www.imediabrands.com",
+      "title_or_role": "Director",
+      "start_date": "2017-12-14",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Audit Committee",
     "Corporate Governance and Responsibility Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,26 @@
       "website": "https://rivian.com",
       "start_date": "2020-01-01",
       "end_date": null
+    },
+    {
+      "name": "Sonos, Inc.",
+      "ticker": "SONO",
+      "exchange": "NASDAQ",
+      "website": "https://investors.sonos.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Peloton Interactive, Inc.",
+      "ticker": "PTON",
+      "exchange": "NASDAQ",
+      "website": "https://investor.onepeloton.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Audit Committee",
     "Nominating and Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

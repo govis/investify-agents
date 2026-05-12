@@ -16,6 +16,26 @@
       "website": "https://snowlinegold.com",
       "start_date": "2020-11-27",
       "end_date": null
+    },
+    {
+      "name": "Zinc One Resources Inc.",
+      "ticker": "Z",
+      "exchange": "TSXV",
+      "website": "https://zincone.com/",
+      "title_or_role": "Interim CEO",
+      "start_date": "2019-05-27",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hello Pal International Inc.",
+      "ticker": "HP",
+      "exchange": "CSE",
+      "website": "https://www.hellopal.com/",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,46 @@
       "website": "https://www.sentinelone.com",
       "start_date": "2021-04-01",
       "end_date": null
+    },
+    {
+      "name": "Whirlpool Corporation",
+      "ticker": "WHR",
+      "exchange": "NYSE",
+      "website": "https://www.whirlpoolcorp.com",
+      "title_or_role": "Senior Vice President and Chief Information Officer",
+      "start_date": "November 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Performance Food Group Company",
+      "ticker": "PFGC",
+      "exchange": "NYSE",
+      "website": "https://www.pfgc.com",
+      "title_or_role": "Independent Director",
+      "start_date": "June 28, 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "PRA Group, Inc.",
+      "ticker": "PRAA",
+      "exchange": "NASDAQ",
+      "website": "https://www.pragroup.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Brunswick Corporation",
+      "ticker": "BC",
+      "exchange": "NYSE",
+      "website": "https://www.brunswick.com",
+      "title_or_role": "Chief Information Officer",
+      "start_date": "November 14, 2016",
+      "end_date": "November 2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +65,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

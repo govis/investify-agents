@@ -16,6 +16,36 @@
       "website": "https://www.ford.com",
       "start_date": "2019-01-01",
       "end_date": null
+    },
+    {
+      "name": "KeyCorp",
+      "ticker": "KEY",
+      "exchange": "NYSE",
+      "website": "https://www.key.com",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "2011",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "AT&T Inc.",
+      "ticker": "T",
+      "exchange": "NYSE",
+      "website": "https://www.att.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Accenture plc",
+      "ticker": "ACN",
+      "exchange": "NYSE",
+      "website": "https://www.accenture.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +57,5 @@
     "Audit Committee",
     "Nominating and Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

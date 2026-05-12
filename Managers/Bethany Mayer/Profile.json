@@ -16,6 +16,66 @@
       "website": "https://www.lamresearch.com",
       "start_date": "2019-01-01",
       "end_date": null
+    },
+    {
+      "name": "Ixia",
+      "ticker": "XXIA",
+      "exchange": "NASDAQ",
+      "website": "https://www.ixiacom.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2014",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Box, Inc.",
+      "ticker": "BOX",
+      "exchange": "NYSE",
+      "website": "https://www.box.com",
+      "title_or_role": "Independent Board Director",
+      "start_date": "2020-04",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Marvell Technology, Inc.",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "website": "https://www.marvell.com",
+      "title_or_role": "Independent Board Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sempra",
+      "ticker": "SRE",
+      "exchange": "NYSE",
+      "website": "https://www.sempra.com",
+      "title_or_role": "Independent Board Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Astera Labs, Inc.",
+      "ticker": "ALAB",
+      "exchange": "NASDAQ",
+      "website": "https://www.asteralabs.com",
+      "title_or_role": "Independent Board Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hewlett Packard Enterprise",
+      "ticker": "HPE",
+      "exchange": "NYSE",
+      "website": "https://www.hpe.com",
+      "title_or_role": "Independent Board Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +87,5 @@
     "Compensation and Human Resources Committee",
     "Nominating and Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

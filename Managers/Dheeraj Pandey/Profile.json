@@ -5,35 +5,47 @@
   "age": 48,
   "age_year": 2024,
   "background": "Co-founder and CEO of DevRev. Former CEO of Nutanix. Director since 2021.",
-  "picture_url": "https://www.eu-startups.com/wp-content/uploads/2024/03/EU-Startups-Summit-DevRev-Dheeraj-1-1024x674.png",
-  "picture_local": "Picture.png",
+  "picture_url": "https://media.licdn.com/dms/image/v2/D5603AQEqHhJ7bURWXA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1665266671606?e=2147483647&v=beta&t=2X-AH7m6WNmWH0t_gBVe2fszN388W2hDkpcDU6Hfi3c",
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Adobe Inc.",
       "ticker": "ADBE",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director (Board of Directors)",
       "website": "https://www.adobe.com",
-      "start_date": "2021-03-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nutanix, Inc.",
+      "ticker": "NTNX",
+      "exchange": "NASDAQ",
+      "website": "https://www.nutanix.com",
+      "title_or_role": "Co-founder, Chief Executive Officer, and Chairman",
+      "start_date": "2009",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
-  "socials": [
-    {
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/dpandey"
-    },
-    {
-      "name": "X (Twitter)",
-      "url": "https://x.com/dheeraj"
-    }
-  ],
   "committees": [
     "Governance and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dpandey",
+      "person_name": "Dheeraj Pandey",
+      "company_name": "DevRev",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C5603AQF43vWj2J_WZA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1608678249767?e=2147483647&v=beta&t=07oQ-tC0q4b-8e-kH9qR-25eT-Yq2VvYf-u8Yh3_G3M",
+      "picture_url_li_search": "https://assets.website-files.com/606cae0c4e05dc45295b04a7/606cae0c4e05dc6dab5b0994_5ff2b148c8595f12edbb2010_5f30fbf9fe54f0d64e950c02_41_dheeraj%25252520pandey-p-500.png"
+    }
+  ]
 }

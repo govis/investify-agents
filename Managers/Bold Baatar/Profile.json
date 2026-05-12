@@ -16,6 +16,26 @@
       "website": "https://www.riotinto.com",
       "start_date": "2024-09-01",
       "end_date": null
+    },
+    {
+      "name": "SouthGobi Resources Ltd.",
+      "ticker": "SGQ",
+      "exchange": "TSX",
+      "website": "https://www.southgobi.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2013-09-03",
+      "end_date": "2015-05-15",
+      "validated": true
+    },
+    {
+      "name": "Aspire Mining Limited",
+      "ticker": "AKM",
+      "exchange": "ASX",
+      "website": "https://www.aspiremininglimited.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2013-09-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +43,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

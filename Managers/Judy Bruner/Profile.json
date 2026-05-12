@@ -12,10 +12,61 @@
       "name": "Applied Materials, Inc.",
       "ticker": "AMAT",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.appliedmaterials.com",
-      "start_date": "2016-01-01",
-      "end_date": null
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Qorvo, Inc.",
+      "ticker": "QRVO",
+      "exchange": "NASDAQ",
+      "website": "https://www.qorvo.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rapid7, Inc.",
+      "ticker": "RPD",
+      "exchange": "NASDAQ",
+      "website": "https://www.rapid7.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Seagate Technology plc",
+      "ticker": "STX",
+      "exchange": "NASDAQ",
+      "website": "https://www.seagate.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Varian Medical Systems, Inc.",
+      "ticker": "VAR",
+      "exchange": "NYSE",
+      "website": "https://www.varian.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "SanDisk Corporation",
+      "ticker": "SNDK",
+      "exchange": "NASDAQ",
+      "website": "https://www.sandisk.com",
+      "title_or_role": "Director",
+      "start_date": "2002",
+      "end_date": "2004",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +78,5 @@
     "Audit Committee (Chair)",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,26 @@
       "website": "https://www.leidos.com",
       "start_date": "2013-01-01",
       "end_date": null
+    },
+    {
+      "name": "Bain Capital Specialty Finance, Inc.",
+      "ticker": "BCSF",
+      "exchange": "NYSE",
+      "website": "https://www.baincapitalspecialtyfinance.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Compuware Corporation",
+      "ticker": "CPWR",
+      "exchange": "NASDAQ",
+      "website": "https://www.compuware.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2014",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Corporate Governance and Ethics Committee",
     "Human Resources and Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

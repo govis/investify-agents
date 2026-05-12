@@ -16,6 +16,36 @@
       "website": "https://www.gminingventures.com",
       "start_date": "2021-05-15",
       "end_date": null
+    },
+    {
+      "name": "Deterra Royalties Ltd.",
+      "ticker": "DRR",
+      "exchange": "ASX",
+      "website": "https://www.deterraroyalties.com/",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "TMAC Resources Inc.",
+      "ticker": "TMR",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2018",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Kirkland Lake Gold Ltd.",
+      "ticker": "KL",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "title_or_role": "Executive Vice President",
+      "start_date": "2021",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
     "Compensation Committee",
     "Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

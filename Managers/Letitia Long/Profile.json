@@ -16,6 +16,26 @@
       "website": "https://www.parsons.com",
       "start_date": "2015",
       "end_date": null
+    },
+    {
+      "name": "T-Mobile US, Inc.",
+      "ticker": "TMUS",
+      "exchange": "NASDAQ",
+      "website": "https://www.t-mobile.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "June 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "COPT Defense Properties",
+      "ticker": "CDP",
+      "exchange": "NYSE",
+      "website": "https://www.copt.com",
+      "title_or_role": "Member, Board of Trustees (Board of Directors)",
+      "start_date": "October 2020",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Compensation and Management Development Committee",
     "Corporate Governance and Responsibility Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

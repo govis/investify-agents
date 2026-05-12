@@ -12,10 +12,51 @@
       "name": "K92 Mining Inc.",
       "ticker": "KNT",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://k92mining.com",
-      "start_date": "2021-06-01",
-      "end_date": null
+      "start_date": "2020-07-16",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hydro One Limited",
+      "ticker": "H",
+      "exchange": "TSX",
+      "website": "https://hydroone.com",
+      "title_or_role": "Director",
+      "start_date": "2018-08-15",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Nevsun Resources Ltd.",
+      "ticker": "NSU",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Independent Director",
+      "start_date": "2017",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Thompson Creek Metals Company Inc.",
+      "ticker": "TCM",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2014-05-26",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "website": "https://capstonecopper.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +67,5 @@
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -10,12 +10,23 @@
   "company_affiliations": [
     {
       "name": "Orla Mining Ltd.",
-      "ticker": "OLA",
+      "ticker": "ORLA",
       "exchange": "TSX",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "website": "https://www.orlamining.com",
-      "start_date": "2018-11-12",
-      "end_date": null
+      "title_or_role": "President and Chief Executive Officer",
+      "website": "https://orlamining.com/",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Torex Gold Resources Inc.",
+      "ticker": "TXG",
+      "exchange": "TSX",
+      "website": "https://torexgold.com/",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "January 15, 2013",
+      "end_date": "2018",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,36 @@
       "website": "https://www.wesdome.com",
       "start_date": "2016-05-01",
       "end_date": null
+    },
+    {
+      "name": "Rupert Resources Ltd.",
+      "ticker": "RUP",
+      "exchange": "TSX",
+      "website": "https://rupertresources.com/",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Copper Mountain Mining Corporation",
+      "ticker": "CMMC",
+      "exchange": "TSX",
+      "website": "https://www.cumtn.com/",
+      "title_or_role": "Director",
+      "start_date": "Unknown",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Brio Gold Inc.",
+      "ticker": "BRIO",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "Unknown",
+      "end_date": "2018",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
     "Audit Committee",
     "Compensation Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

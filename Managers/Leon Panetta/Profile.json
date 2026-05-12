@@ -12,10 +12,21 @@
       "name": "Oracle Corporation",
       "ticker": "ORCL",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.oracle.com",
-      "start_date": "2015-01-01",
-      "end_date": null
+      "start_date": "2015-02-02",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "New York Stock Exchange (NYSE)",
+      "ticker": "ICE",
+      "exchange": "NYSE",
+      "website": "https://www.nyse.com",
+      "title_or_role": "Director",
+      "start_date": "1997",
+      "end_date": "2003",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
   "committees": [
     "Nomination and Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

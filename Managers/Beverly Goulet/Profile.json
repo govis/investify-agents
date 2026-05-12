@@ -16,6 +16,36 @@
       "website": "https://www.rolls-royce.com",
       "start_date": "2017-07-03",
       "end_date": null
+    },
+    {
+      "name": "Xenia Hotels & Resorts, Inc.",
+      "ticker": "XHR",
+      "exchange": "NYSE",
+      "website": "https://www.xeniareit.com",
+      "title_or_role": "Director",
+      "start_date": "2015-02-03",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "American Airlines Group Inc.",
+      "ticker": "AAL",
+      "exchange": "NASDAQ",
+      "website": "https://www.aa.com",
+      "title_or_role": "Executive Vice President and Chief Integration Officer",
+      "start_date": "2013-06-10",
+      "end_date": "2017-06-30",
+      "validated": true
+    },
+    {
+      "name": "Atlas Air Worldwide Holdings, Inc.",
+      "ticker": "AAWW",
+      "exchange": "NASDAQ",
+      "website": "https://www.atlasairworldwide.com",
+      "title_or_role": "Director",
+      "start_date": "2021-05-19",
+      "end_date": "2023-03-17",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +57,5 @@
     "Audit Committee",
     "Nominations & Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

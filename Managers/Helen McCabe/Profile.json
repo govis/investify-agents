@@ -25,6 +25,16 @@
       "website": "https://www.rolls-royce.com",
       "start_date": "2023-09-01",
       "end_date": null
+    },
+    {
+      "name": "Iveco Group N.V.",
+      "ticker": "IVG",
+      "exchange": "EXM (Euronext Milan)",
+      "website": "https://www.ivecogroup.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -34,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

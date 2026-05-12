@@ -16,6 +16,26 @@
       "website": "https://www.novagold.com",
       "start_date": "2012-01-01",
       "end_date": null
+    },
+    {
+      "name": "Trilogy Metals Inc.",
+      "ticker": "TMQ",
+      "exchange": "NYSE",
+      "website": "https://trilogymetals.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "GOLD",
+      "exchange": "NYSE",
+      "website": "https://www.barrick.com/",
+      "title_or_role": "President, Barrick Gold North America; Managing Director, Barrick Gold Australia; Vice President, Australian Operations",
+      "start_date": null,
+      "end_date": "2012",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +43,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

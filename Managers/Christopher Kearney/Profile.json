@@ -16,6 +16,36 @@
       "website": "https://nucor.com",
       "start_date": "2022-09-15",
       "end_date": null
+    },
+    {
+      "name": "Otis Worldwide Corporation",
+      "ticker": "OTIS",
+      "exchange": "NYSE",
+      "website": "https://www.otis.com",
+      "title_or_role": "Executive Chairman (Former)",
+      "start_date": "2020",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "SPX FLOW, Inc.",
+      "ticker": "FLOW",
+      "exchange": "NYSE",
+      "website": "https://www.spxflow.com",
+      "title_or_role": "Chairman, President & CEO / Non-Executive Chairman",
+      "start_date": "2015",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "SPX Corporation",
+      "ticker": "SPXC",
+      "exchange": "NYSE",
+      "website": "https://www.spx.com",
+      "title_or_role": "Chairman, President & CEO",
+      "start_date": "2004",
+      "end_date": "2015",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
     "Compensation and Executive Development",
     "Governance and Nominating"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

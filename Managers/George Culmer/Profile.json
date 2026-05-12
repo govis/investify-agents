@@ -11,11 +11,42 @@
     {
       "name": "Rolls-Royce Holdings plc",
       "ticker": "RR",
-      "exchange": ".LSE",
+      "exchange": "LSE",
       "title_or_role": "Non-Executive Director",
       "website": "https://www.rolls-royce.com",
-      "start_date": "2020-01-02",
-      "end_date": null
+      "start_date": "2020-01-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aviva plc",
+      "ticker": "AV",
+      "exchange": "LSE",
+      "website": "https://www.aviva.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2019-09-25",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lloyds Banking Group plc",
+      "ticker": "LLOY",
+      "exchange": "LSE",
+      "website": "https://www.lloydsbankinggroup.com",
+      "title_or_role": "Chief Financial Officer / Executive Director",
+      "start_date": "2012-05-16",
+      "end_date": "2019-08-22",
+      "validated": true
+    },
+    {
+      "name": "RSA Insurance Group plc",
+      "ticker": "RSA",
+      "exchange": "LSE",
+      "website": "https://www.rsagroup.com",
+      "title_or_role": "Chief Financial Officer / Executive Director",
+      "start_date": "2004-05-01",
+      "end_date": "2012-05-16",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Audit Committee (Chair)",
     "Nominations & Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

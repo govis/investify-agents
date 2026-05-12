@@ -14,8 +14,19 @@
       "exchange": "TSXV",
       "title_or_role": "Director",
       "website": "https://consolidatedlithium.com/",
-      "start_date": "2021-06-01",
-      "end_date": null
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Dundee Sustainable Technologies Inc.",
+      "ticker": "DST",
+      "exchange": "CSE",
+      "website": "https://dundeetechnologies.com/",
+      "title_or_role": "President, Chief Executive Officer & Director",
+      "start_date": "2022-10-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

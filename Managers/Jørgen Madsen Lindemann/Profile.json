@@ -25,6 +25,46 @@
       "website": "https://www.rolls-royce.com",
       "start_date": "2022-03-01",
       "end_date": null
+    },
+    {
+      "name": "Viaplay Group AB",
+      "ticker": "VPLAY B",
+      "exchange": "STO",
+      "website": "viaplaygroup.com",
+      "title_or_role": "President & CEO",
+      "start_date": "2023-06-05",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Modern Times Group MTG AB",
+      "ticker": "MTG B",
+      "exchange": "STO",
+      "website": "mtg.com",
+      "title_or_role": "President & CEO",
+      "start_date": "1994",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Zalando SE",
+      "ticker": "ZAL",
+      "exchange": "STO",
+      "website": "corporate.zalando.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2016",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Bambuser AB",
+      "ticker": "BUSER",
+      "exchange": "STO",
+      "website": "bambuser.com",
+      "title_or_role": "Board Member",
+      "start_date": "2020",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -39,6 +79,5 @@
     "Nominations & Governance Committee",
     "Remuneration Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

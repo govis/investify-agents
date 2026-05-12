@@ -12,10 +12,11 @@
       "name": "The Boeing Company",
       "ticker": "BA",
       "exchange": "NYSE",
-      "title_or_role": "President and CEO, Boeing Global Services",
+      "title_or_role": "Executive Vice President, President and Chief Executive Officer, Boeing Global Services (and various prior executive roles including Chief Sustainability Officer)",
       "website": "https://www.boeing.com",
-      "start_date": "2024-01-01",
-      "end_date": null
+      "start_date": "1986",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +24,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,66 @@
       "website": "https://www.nexteraenergy.com",
       "start_date": "2024-05-23",
       "end_date": null
+    },
+    {
+      "name": "PACCAR Inc.",
+      "ticker": "PCAR",
+      "exchange": "NASDAQ",
+      "website": "https://www.paccar.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2008",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Allegion plc",
+      "ticker": "ALLE",
+      "exchange": "NYSE",
+      "website": "https://www.allegion.com",
+      "title_or_role": "Director / Chairman",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cooper Industries plc",
+      "ticker": "CBE",
+      "exchange": "NYSE",
+      "website": "https://www.cooperindustries.com",
+      "title_or_role": "President, CEO, Chairman",
+      "start_date": "2004",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "JELD-WEN Holding, Inc.",
+      "ticker": "JELD",
+      "exchange": "NYSE",
+      "website": "https://www.jeld-wen.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2014",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Trane Inc.",
+      "ticker": "TT",
+      "exchange": "NYSE",
+      "website": "https://www.tranetechnologies.com",
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Irenic Acquisition Corp.",
+      "ticker": "IRNC",
+      "exchange": "NASDAQ",
+      "website": "https://www.irenicacquisition.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +83,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

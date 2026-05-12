@@ -25,6 +25,26 @@
       "website": "https://www.gd.com",
       "start_date": "2014-01-01",
       "end_date": null
+    },
+    {
+      "name": "AbbVie Inc.",
+      "ticker": "ABBV",
+      "exchange": "NYSE",
+      "website": "https://www.abbvie.com",
+      "title_or_role": "Vice Chairman, Executive Vice President, General Counsel, and Corporate Secretary",
+      "start_date": "2013",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Abbott Laboratories",
+      "ticker": "ABT",
+      "exchange": "NYSE",
+      "website": "https://www.abbott.com",
+      "title_or_role": "Executive Vice President, General Counsel, and Secretary",
+      "start_date": "1990",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -37,6 +57,5 @@
     "Governance",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

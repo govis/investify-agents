@@ -14,8 +14,19 @@
       "exchange": "NYSE",
       "title_or_role": "Director",
       "website": "https://www.gd.com",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "start_date": "2019-08",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Theranos, Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "N/A",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2016-12",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Finance",
     "Governance"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

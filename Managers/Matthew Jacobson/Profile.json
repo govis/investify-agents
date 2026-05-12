@@ -13,9 +13,30 @@
       "ticker": "DDOG",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
-      "website": "https://www.datadoghq.com",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "website": "https://www.datadoghq.com/",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GitLab Inc.",
+      "ticker": "GTLB",
+      "exchange": "NASDAQ",
+      "website": "https://about.gitlab.com/",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Braze, Inc.",
+      "ticker": "BRZE",
+      "exchange": "NASDAQ",
+      "website": "https://www.braze.com/",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +46,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

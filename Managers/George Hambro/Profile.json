@@ -14,8 +14,9 @@
       "exchange": "NASDAQ",
       "title_or_role": "Independent Director",
       "website": "https://www.firstsolar.com",
-      "start_date": "2012-01-01",
-      "end_date": null
+      "start_date": "May 2012",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +28,5 @@
     "Nominating and Governance Committee",
     "Technology Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

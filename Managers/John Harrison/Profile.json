@@ -12,10 +12,11 @@
       "name": "Peninsula Energy Limited",
       "ticker": "PEN",
       "exchange": "ASX",
-      "title_or_role": "Non-Executive Chairman",
-      "website": "https://www.pel.net.au",
-      "start_date": "2014-09-01",
-      "end_date": null
+      "title_or_role": "Non-Executive Director / Non-Executive Chairman",
+      "website": "https://www.pel.net.au/",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +27,5 @@
     "Audit and Risk Management Committee",
     "Remuneration and Nomination Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

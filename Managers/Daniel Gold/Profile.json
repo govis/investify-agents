@@ -16,6 +16,36 @@
       "website": "https://mpmaterials.com",
       "start_date": "2020-11-17",
       "end_date": null
+    },
+    {
+      "name": "Roivant Sciences Ltd.",
+      "ticker": "ROIV",
+      "exchange": "NASDAQ",
+      "website": "https://www.roivant.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Okeanis Eco Tankers Corp.",
+      "ticker": "OET",
+      "exchange": "OSE",
+      "website": "https://www.okeanisecotankers.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Awilco Drilling PLC",
+      "ticker": "AWDR",
+      "exchange": "OSE",
+      "website": "https://awilcodrilling.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +55,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

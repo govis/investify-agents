@@ -14,8 +14,19 @@
       "exchange": "NYSE",
       "title_or_role": "Chairman, President and Chief Executive Officer",
       "website": "https://www.nexteraenergy.com",
-      "start_date": "2022-03-01",
-      "end_date": null
+      "start_date": "2022-03",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "XPLR Infrastructure, LP (formerly NextEra Energy Partners, LP)",
+      "ticker": "NEP",
+      "exchange": "NYSE",
+      "website": "https://www.xplrinfrastructure.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

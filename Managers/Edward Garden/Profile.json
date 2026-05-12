@@ -16,6 +16,96 @@
       "website": "https://www.geaerospace.com",
       "start_date": "2017-10-01",
       "end_date": null
+    },
+    {
+      "name": "Fortune Brands Innovations, Inc.",
+      "ticker": "FBIN",
+      "exchange": "NYSE",
+      "website": "fbin.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Middleby Corporation",
+      "ticker": "MIDD",
+      "exchange": "NASDAQ",
+      "website": "middleby.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "ticker": "BK",
+      "exchange": "NYSE",
+      "website": "bnymellon.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Family Dollar Stores, Inc.",
+      "ticker": "FDO",
+      "exchange": "NYSE",
+      "website": "familydollar.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Invesco Ltd.",
+      "ticker": "IVZ",
+      "exchange": "NYSE",
+      "website": "invesco.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Janus Henderson Group plc",
+      "ticker": "JHG",
+      "exchange": "NYSE",
+      "website": "janushenderson.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Legg Mason, Inc.",
+      "ticker": "LM",
+      "exchange": "NYSE",
+      "website": "leggmason.com",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Pentair plc",
+      "ticker": "PNR",
+      "exchange": "NYSE",
+      "website": "pentair.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "The Wendy\u2019s Company",
+      "ticker": "WEN",
+      "exchange": "NASDAQ",
+      "website": "wendys.com",
+      "title_or_role": "Executive Vice President",
+      "start_date": "2003",
+      "end_date": "2004",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +117,5 @@
     "Finance and Capital Allocation Committee",
     "Management Development and Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -11,11 +11,22 @@
     {
       "name": "QuantumScape Corporation",
       "ticker": "QS",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "website": "https://www.quantumscape.com",
-      "start_date": "2020-11-01",
-      "end_date": null
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.quantumscape.com/",
+      "start_date": "2021",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Volkswagen AG",
+      "ticker": "VWAGY",
+      "exchange": "OTC",
+      "website": "https://www.volkswagen-group.com/",
+      "title_or_role": "Head of Group M&A, Investment Advisory and Partnerships / Head of Group Battery Strategy",
+      "start_date": "2016",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

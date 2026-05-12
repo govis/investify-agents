@@ -12,10 +12,21 @@
       "name": "Lockheed Martin Corporation",
       "ticker": "LMT",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.lockheedmartin.com",
-      "start_date": "2015-01-01",
-      "end_date": null
+      "start_date": "July 1, 2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Benchmark Electronics, Inc.",
+      "ticker": "BHE",
+      "exchange": "NYSE",
+      "website": "https://www.bench.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "July 12, 2017",
+      "end_date": "October 11, 2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Classified Business and Security Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

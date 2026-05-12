@@ -12,19 +12,91 @@
       "name": "Arista Networks, Inc.",
       "ticker": "ANET",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.arista.com",
-      "start_date": "2013-04-01",
-      "end_date": null
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Pure Storage, Inc.",
       "ticker": "PSTG",
       "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer, Chairman of the Board",
+      "title_or_role": "Chairman and CEO",
       "website": "https://www.purestorage.com",
-      "start_date": "2017-08",
-      "end_date": null
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Zscaler, Inc.",
+      "ticker": "ZS",
+      "exchange": "NASDAQ",
+      "website": "https://www.zscaler.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "title_or_role": "Chief Technology Officer / Senior Executive",
+      "start_date": "1993",
+      "end_date": "2007",
+      "validated": true
+    },
+    {
+      "name": "Accenture plc",
+      "ticker": "ACN",
+      "exchange": "NYSE",
+      "website": "https://www.accenture.com",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Avaya Holdings Corp.",
+      "ticker": "AVYA",
+      "exchange": "NYSE",
+      "website": "https://www.avaya.com",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Imperva, Inc.",
+      "ticker": "IMPV",
+      "exchange": "NASDAQ",
+      "website": "https://www.imperva.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Netflix, Inc.",
+      "ticker": "NFLX",
+      "exchange": "NASDAQ",
+      "website": "https://www.netflix.com",
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "ServiceNow, Inc.",
+      "ticker": "NOW",
+      "exchange": "NYSE",
+      "website": "https://www.servicenow.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -34,6 +106,5 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

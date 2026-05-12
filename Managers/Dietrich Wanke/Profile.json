@@ -12,10 +12,21 @@
       "name": "Critical Metals Corp.",
       "ticker": "CRML",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "website": "https://criticalmetalscorp.com",
-      "start_date": "2024-02-27",
-      "end_date": null
+      "title_or_role": "President, Operations",
+      "website": "https://www.criticalmetalscorp.com/",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "European Lithium Limited",
+      "ticker": "EUR",
+      "exchange": "ASX",
+      "website": "https://europeanlithium.com/",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "May 4, 2018",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

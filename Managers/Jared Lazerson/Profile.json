@@ -16,6 +16,26 @@
       "website": "https://ucore.com",
       "start_date": "2020-09-15",
       "end_date": null
+    },
+    {
+      "name": "North Bay Resources Inc.",
+      "ticker": "NBRI",
+      "exchange": "OTC",
+      "website": "https://northbay-resources.com/",
+      "title_or_role": "Chief Executive Officer, CFO & Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "MGX Minerals Inc.",
+      "ticker": "XMG",
+      "exchange": "CSE",
+      "website": "https://www.mgxminerals.com/",
+      "title_or_role": "Chairman / CEO",
+      "start_date": "2014",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +47,5 @@
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

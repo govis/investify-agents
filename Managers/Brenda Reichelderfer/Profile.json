@@ -16,6 +16,36 @@
       "website": "https://www.moog.com",
       "start_date": "2013",
       "end_date": null
+    },
+    {
+      "name": "Federal Signal Corporation",
+      "ticker": "FSS",
+      "exchange": "NYSE",
+      "website": "https://www.federalsignal.com",
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Meggitt PLC",
+      "ticker": "MGGT",
+      "exchange": "LSE",
+      "website": "https://www.meggitt.com",
+      "title_or_role": "Director",
+      "start_date": "2011-06",
+      "end_date": "2017-04",
+      "validated": true
+    },
+    {
+      "name": "ITT Corporation (now ITT Inc.)",
+      "ticker": "ITT",
+      "exchange": "NYSE",
+      "website": "https://www.itt.com",
+      "title_or_role": "Senior Vice President, Corporate Director of Engineering and Chief Technology Officer",
+      "start_date": "2005-11",
+      "end_date": "2008-05",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
     "Executive Compensation Committee",
     "Nominating and Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

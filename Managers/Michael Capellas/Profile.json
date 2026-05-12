@@ -12,10 +12,61 @@
       "name": "Cisco Systems, Inc.",
       "ticker": "CSCO",
       "exchange": "NASDAQ",
-      "title_or_role": "Lead Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.cisco.com",
-      "start_date": "2006-01-01",
-      "end_date": null
+      "start_date": "2006",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cellebrite DI Ltd.",
+      "ticker": "CLBT",
+      "exchange": "NASDAQ",
+      "website": "https://www.cellebrite.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Compaq Computer Corporation",
+      "ticker": "CPQ",
+      "exchange": "NYSE",
+      "website": "https://www.hp.com",
+      "title_or_role": "Chairman and CEO",
+      "start_date": "1999",
+      "end_date": "2002",
+      "validated": true
+    },
+    {
+      "name": "WorldCom, Inc.",
+      "ticker": "WCOM",
+      "exchange": "NASDAQ",
+      "website": "https://www.verizon.com",
+      "title_or_role": "CEO",
+      "start_date": "2002",
+      "end_date": "2004",
+      "validated": true
+    },
+    {
+      "name": "First Data Corporation",
+      "ticker": "FDC",
+      "exchange": "NYSE",
+      "website": "https://www.fiserv.com",
+      "title_or_role": "Chairman and CEO",
+      "start_date": "2007",
+      "end_date": "2010",
+      "validated": true
+    },
+    {
+      "name": "Hewlett-Packard Company",
+      "ticker": "HPQ",
+      "exchange": "NYSE",
+      "website": "https://www.hp.com",
+      "title_or_role": "President",
+      "start_date": "2002",
+      "end_date": "2002",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +77,5 @@
     "Finance Committee",
     "Nomination and Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

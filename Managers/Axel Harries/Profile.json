@@ -12,10 +12,21 @@
       "name": "ChargePoint Holdings, Inc.",
       "ticker": "CHPT",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member of the Board of Directors",
       "website": "https://www.chargepoint.com",
-      "start_date": "2021-02-26",
-      "end_date": null
+      "start_date": "2016-10",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Mercedes-Benz Group AG",
+      "ticker": "MBG",
+      "exchange": "Xetra",
+      "website": "https://group.mercedes-benz.com",
+      "title_or_role": "Vice President of Product Management and Sales",
+      "start_date": "1990s",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +36,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

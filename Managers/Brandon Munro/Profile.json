@@ -12,10 +12,11 @@
       "name": "Bannerman Energy Ltd",
       "ticker": "BMN",
       "exchange": "ASX",
-      "title_or_role": "Chief Executive Officer and Managing Director",
-      "website": "https://bannermanenergy.com",
-      "start_date": "2016-03-09",
-      "end_date": null
+      "title_or_role": "Executive Chairman",
+      "website": "https://bannermanenergy.com/",
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +24,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

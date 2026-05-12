@@ -13,9 +13,30 @@
       "ticker": "META",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Operating Officer",
-      "website": "https://about.meta.com",
-      "start_date": "2022-08-01",
-      "end_date": null
+      "website": "meta.com",
+      "start_date": "2022-08",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "MercadoLibre, Inc.",
+      "ticker": "MELI",
+      "exchange": "NASDAQ",
+      "website": "mercadolibre.com",
+      "title_or_role": "Director / Board Member",
+      "start_date": "2012-12",
+      "end_date": "2019-08",
+      "validated": true
+    },
+    {
+      "name": "Vy Global Growth",
+      "ticker": "VYGG",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Director / Board Member",
+      "start_date": "2020-10",
+      "end_date": "2022-03",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

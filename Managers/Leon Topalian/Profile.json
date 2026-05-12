@@ -12,10 +12,21 @@
       "name": "Nucor Corporation",
       "ticker": "NUE",
       "exchange": "NYSE",
-      "title_or_role": "Chair, Director, President and Chief Executive Officer",
-      "website": "https://nucor.com",
-      "start_date": "2022-09-15",
-      "end_date": null
+      "title_or_role": "Chair, President, and Chief Executive Officer",
+      "website": "https://www.nucor.com",
+      "start_date": "January 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "PPG Industries, Inc.",
+      "ticker": "PPG",
+      "exchange": "NYSE",
+      "website": "https://www.ppg.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "July 16, 2025",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

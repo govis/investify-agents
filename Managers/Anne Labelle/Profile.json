@@ -12,10 +12,61 @@
       "name": "Capstone Copper Corp.",
       "ticker": "CS",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://capstonecopper.com",
-      "start_date": "2022-03-23",
-      "end_date": null
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Klondike Gold Corp.",
+      "ticker": "KG",
+      "exchange": "TSXV",
+      "website": "https://www.klondikegoldcorp.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "HighGold Mining Inc.",
+      "ticker": "HIGH",
+      "exchange": "TSXV",
+      "website": "https://highgoldmining.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Fiore Gold Ltd.",
+      "ticker": "F",
+      "exchange": "TSXV",
+      "website": "https://fioregold.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Midas Gold Corp. (now Perpetua Resources)",
+      "ticker": "PPTA",
+      "exchange": "TSX",
+      "website": "https://perpetuaresources.com",
+      "title_or_role": "Executive (Legal/Sustainability)",
+      "start_date": "2011",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Capstone Mining Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "website": "https://capstonecopper.com",
+      "title_or_role": "Executive (Legal/Sustainability)",
+      "start_date": "2008",
+      "end_date": "2011",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +77,5 @@
     "Governance and Nominating Committee",
     "Technical and Operational Performance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

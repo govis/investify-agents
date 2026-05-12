@@ -16,6 +16,36 @@
       "website": "https://lundingold.com",
       "start_date": "2021-05-01",
       "end_date": null
+    },
+    {
+      "name": "New Gold Inc.",
+      "ticker": "NGD",
+      "exchange": "TSX",
+      "website": "https://www.newgold.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "March 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Central Asia Metals Plc",
+      "ticker": "CAML",
+      "exchange": "LSE",
+      "website": "https://www.centralasiametals.com/",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lydian International Limited",
+      "ticker": "LYD",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Independent Director",
+      "start_date": "August 17, 2016",
+      "end_date": "March 13, 2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
     "Corporate Governance and Nominating Committee",
     "Health, Safety, Environment and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

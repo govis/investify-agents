@@ -16,6 +16,16 @@
       "website": "https://www.steeldynamics.com",
       "start_date": "2021-05",
       "end_date": null
+    },
+    {
+      "name": "CPI Card Group",
+      "ticker": "PMTS",
+      "exchange": "NASDAQ",
+      "website": "https://www.cpicardgroup.com",
+      "title_or_role": "Chairman of the Board of Directors",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +36,5 @@
     "Compensation Committee (Chair)",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

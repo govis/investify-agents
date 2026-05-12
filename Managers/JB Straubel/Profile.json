@@ -12,19 +12,31 @@
       "name": "QuantumScape Corporation",
       "ticker": "QS",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.quantumscape.com",
-      "start_date": "2019-12-01",
-      "end_date": null
+      "start_date": "November 2020",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Tesla, Inc.",
       "ticker": "TSLA",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.tesla.com",
-      "start_date": "2023-05-01",
-      "end_date": null
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SolarCity Corporation",
+      "ticker": "SCTY",
+      "exchange": "NASDAQ",
+      "website": "https://www.tesla.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "August 2006",
+      "end_date": "November 2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +48,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

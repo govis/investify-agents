@@ -10,12 +10,43 @@
   "company_affiliations": [
     {
       "name": "B2Gold Corp.",
-      "ticker": "BTG",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
+      "ticker": "BTO",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
       "website": "https://www.b2gold.com",
-      "start_date": "2007-11-30",
-      "end_date": null
+      "start_date": "2007",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Perpetua Resources Corp. (formerly Midas Gold Corp.)",
+      "ticker": "MAX",
+      "exchange": "TSX",
+      "website": "https://www.perpetuaresources.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bema Gold Corporation",
+      "ticker": "BGO",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2002",
+      "end_date": "2007",
+      "validated": true
+    },
+    {
+      "name": "Mitra Energy Limited",
+      "ticker": "MEA",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Chairman",
+      "start_date": "2008",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

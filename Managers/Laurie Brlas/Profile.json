@@ -25,6 +25,76 @@
       "website": "https://www.constellationenergy.com",
       "start_date": "2022-02-01",
       "end_date": null
+    },
+    {
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "exchange": "NYSE",
+      "website": "https://www.albemarle.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Autoliv, Inc.",
+      "ticker": "ALV",
+      "exchange": "NYSE",
+      "website": "https://www.autoliv.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Graphic Packaging Holding Company",
+      "ticker": "GPK",
+      "exchange": "NYSE",
+      "website": "https://www.graphicpkg.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2013",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Cleveland-Cliffs Inc.",
+      "ticker": "CLF",
+      "exchange": "NYSE",
+      "website": "https://www.clevelandcliffs.com",
+      "title_or_role": "Executive Vice President and President, Global Operations / CFO",
+      "start_date": "2006",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Perrigo Company plc",
+      "ticker": "PRGO",
+      "exchange": "NYSE",
+      "website": "https://www.perrigo.com",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "STERIS plc",
+      "ticker": "STE",
+      "exchange": "NYSE",
+      "website": "https://www.steris.com",
+      "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "start_date": "2000",
+      "end_date": "2006",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +106,5 @@
     "Audit Committee (Chair)",
     "Finance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

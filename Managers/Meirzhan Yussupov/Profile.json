@@ -12,10 +12,11 @@
       "name": "National Atomic Company Kazatomprom JSC",
       "ticker": "KAP",
       "exchange": "LSE",
-      "title_or_role": "Chief Executive Officer",
-      "website": "https://www.kazatomprom.kz",
+      "title_or_role": "Chairman of the Management Board / CEO / Director",
+      "website": "https://www.kazatomprom.kz/en",
       "start_date": "2023-10-02",
-      "end_date": null
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +24,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

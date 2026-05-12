@@ -11,11 +11,12 @@
     {
       "name": "Electra Battery Materials Corporation",
       "ticker": "ELBM",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://electrabmc.com",
-      "start_date": "2022-06-01",
-      "end_date": null
+      "exchange": "TSX, NASDAQ",
+      "title_or_role": "Corporate Secretary",
+      "website": "https://electrabmc.com/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +27,5 @@
     "Audit Committee (Chair)",
     "Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

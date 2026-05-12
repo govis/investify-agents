@@ -16,6 +16,36 @@
       "website": "https://www.siemens.com",
       "start_date": "2020-10-01",
       "end_date": null
+    },
+    {
+      "name": "Siemens Aktiengesellschaft (Siemens AG)",
+      "ticker": "SIE",
+      "exchange": "Xetra",
+      "website": "https://www.siemens.com",
+      "title_or_role": "Member of the Managing Board; CEO of Smart Infrastructure",
+      "start_date": "2020-10-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Siemens Energy AG",
+      "ticker": "ENR",
+      "exchange": "Xetra",
+      "website": "https://www.siemens-energy.com",
+      "title_or_role": "Member of the Supervisory Board",
+      "start_date": "2020-09-25",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Siemens Limited (India)",
+      "ticker": "SIEMENS",
+      "exchange": "National Stock Exchange of India (NSE)",
+      "website": "https://www.siemens.co.in",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2020-09-24",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +53,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,26 @@
       "website": "https://www.southerncoppercorp.com",
       "start_date": "2010-01-01",
       "end_date": null
+    },
+    {
+      "name": "Alpek, S.A.B. de C.V.",
+      "ticker": "ALPKF",
+      "exchange": "OTC",
+      "website": "https://www.alpek.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Grupo Aeroportuario del Centro Norte, S.A.B. de C.V.",
+      "ticker": "OMAB",
+      "exchange": "NASDAQ",
+      "website": "https://ir.oma.aero/",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

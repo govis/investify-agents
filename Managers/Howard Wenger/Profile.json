@@ -16,6 +16,36 @@
       "website": "https://www.nextracker.com",
       "start_date": "2022-02-01",
       "end_date": null
+    },
+    {
+      "name": "SunPower Corporation",
+      "ticker": "SPWR",
+      "exchange": "NASDAQ",
+      "website": "https://us.sunpower.com/",
+      "title_or_role": "President, Business Units",
+      "start_date": "2007",
+      "end_date": "2017-03-03",
+      "validated": true
+    },
+    {
+      "name": "PowerLight Corporation",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "N/A",
+      "title_or_role": "Executive Vice President / Board Director",
+      "start_date": "1990s",
+      "end_date": "2007",
+      "validated": true
+    },
+    {
+      "name": "Solaria Corporation",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://solaria.com/",
+      "title_or_role": "Board Director",
+      "start_date": "2019",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +53,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

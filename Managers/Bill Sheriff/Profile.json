@@ -11,11 +11,32 @@
     {
       "name": "Stallion Uranium Corp.",
       "ticker": "STUD",
-      "exchange": "TSX",
-      "title_or_role": "Chairman",
-      "website": "https://stallionuranium.com",
-      "start_date": "2023-03-20",
-      "end_date": null
+      "exchange": "TSX.V",
+      "title_or_role": "Director",
+      "website": "https://www.stallionuranium.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "enCore Energy Corp.",
+      "ticker": "EU",
+      "exchange": "TSX.V / NASDAQ",
+      "website": "https://www.encoreuranium.com",
+      "title_or_role": "Executive Chairman",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Golden Predator Mining Corp.",
+      "ticker": "GPY",
+      "exchange": "TSX.V",
+      "website": "https://www.goldenpredator.com",
+      "title_or_role": "President & CEO",
+      "start_date": "2009",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +46,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

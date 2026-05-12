@@ -5,17 +5,18 @@
   "age": null,
   "age_year": null,
   "background": "Fiona Nicholls is an environmental scientist with over 30 years' experience in the resources sector, specifically in ESG, sustainability, and external relations. She held senior executive roles at Rio Tinto and has served on various government and industry advisory bodies.",
-  "picture_url": null,
-  "picture_local": null,
+  "picture_url": "https://media.licdn.com/dms/image/v2/C5603AQFgNaDWQfcCIg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517494063783?e=2147483647&v=beta&t=pYNAR-HlGtggYS1waDneVS0btKxI9QJkYdkYwEalGKc",
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Alligator Energy Limited",
       "ticker": "AGE",
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
-      "website": "https://www.alligatorenergy.com.au",
-      "start_date": "2022-09-01",
-      "end_date": null
+      "website": "https://www.alligatorenergy.com.au/",
+      "start_date": "April 13, 2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -32,6 +33,5 @@
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

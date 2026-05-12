@@ -12,10 +12,21 @@
       "name": "Advanced Micro Devices, Inc.",
       "ticker": "AMD",
       "exchange": "NASDAQ",
-      "title_or_role": "Chair, Director, President and Chief Executive Officer",
+      "title_or_role": "President and Chief Executive Officer (also Chair of the Board)",
       "website": "https://www.amd.com",
-      "start_date": "2014-10-01",
-      "end_date": null
+      "start_date": "January 2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Analog Devices, Inc.",
+      "ticker": "ADI",
+      "exchange": "NASDAQ",
+      "website": "https://www.analog.com",
+      "title_or_role": "Director",
+      "start_date": "October 2014",
+      "end_date": "December 2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -25,6 +25,16 @@
       "website": "https://www.ussteel.com",
       "start_date": "2017-05-01",
       "end_date": null
+    },
+    {
+      "name": "Caterpillar Inc.",
+      "ticker": "CAT",
+      "exchange": "NYSE",
+      "website": "https://www.caterpillar.com",
+      "title_or_role": "Chief Financial Officer & Vice President",
+      "start_date": "1978",
+      "end_date": "2010",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +46,5 @@
     "Audit Committee",
     "Strategic Affairs Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

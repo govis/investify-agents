@@ -16,6 +16,76 @@
       "website": "https://www.csx.com",
       "start_date": "2017-01-01",
       "end_date": null
+    },
+    {
+      "name": "Aramark",
+      "ticker": "ARMK",
+      "exchange": "NYSE",
+      "website": "https://www.aramark.com",
+      "title_or_role": "Chief Executive Officer & Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ecolab, Inc.",
+      "ticker": "ECL",
+      "exchange": "NYSE",
+      "website": "https://www.ecolab.com",
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Reynolds American, Inc.",
+      "ticker": "RAI",
+      "exchange": "NYSE",
+      "website": "https://www.reynoldsamerican.com",
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Veritiv Corporation",
+      "ticker": "VRTV",
+      "exchange": "NYSE",
+      "website": "https://www.veritivcorp.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Performance Food Group",
+      "ticker": "PFGC",
+      "exchange": "NYSE",
+      "website": "https://www.pfgc.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Univar Solutions Inc.",
+      "ticker": "UNVR",
+      "exchange": "NYSE",
+      "website": "https://www.univarsolutions.com",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Allied Waste Industries",
+      "ticker": "AW",
+      "exchange": "NYSE",
+      "website": "https://www.alliedwaste.com",
+      "title_or_role": "Chairman & Chief Executive Officer",
+      "start_date": "2005",
+      "end_date": "2008",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +96,5 @@
     "Executive Committee",
     "Governance and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

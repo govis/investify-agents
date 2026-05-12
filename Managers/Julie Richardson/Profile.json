@@ -14,8 +14,29 @@
       "exchange": "NASDAQ",
       "title_or_role": "Director",
       "website": "https://www.datadoghq.com",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Yext, Inc.",
+      "ticker": "YEXT",
+      "exchange": "NYSE",
+      "website": "https://www.yext.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Travelers Companies, Inc.",
+      "ticker": "TRV",
+      "exchange": "NYSE",
+      "website": "https://www.travelers.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +46,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

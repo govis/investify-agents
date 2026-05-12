@@ -16,6 +16,16 @@
       "website": "https://vgcx.com",
       "start_date": "2017-01-01",
       "end_date": null
+    },
+    {
+      "name": "Osisko Development Corp.",
+      "ticker": "ODV",
+      "exchange": "NYSE",
+      "website": "https://osiskodev.com/",
+      "title_or_role": "Vice President, Project Development",
+      "start_date": "2025-01-09",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +33,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

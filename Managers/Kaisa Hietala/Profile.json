@@ -13,9 +13,40 @@
       "ticker": "XOM",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
-      "website": "https://www.exxonmobil.com",
-      "start_date": "2021-06-01",
-      "end_date": null
+      "website": "https://corporate.exxonmobil.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rio Tinto Limited",
+      "ticker": "RIO",
+      "exchange": "ASX",
+      "website": "https://www.riotinto.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2023-03-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Smurfit Westrock plc",
+      "ticker": "SW",
+      "exchange": "NYSE",
+      "website": "https://www.smurfitwestrock.com",
+      "title_or_role": "Senior Independent Non-Executive Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Neste Corporation",
+      "ticker": "NESTE",
+      "exchange": "Nasdaq Helsinki",
+      "website": "https://www.neste.com",
+      "title_or_role": "Executive Vice President, Renewable Products",
+      "start_date": "1998",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Finance Committee",
     "Public Issues and Contributions Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

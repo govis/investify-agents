@@ -12,10 +12,81 @@
       "name": "Salesforce, Inc.",
       "ticker": "CRM",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.salesforce.com",
-      "start_date": "2005-10-01",
-      "end_date": null
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nutanix, Inc.",
+      "ticker": "NTNX",
+      "exchange": "NASDAQ",
+      "website": "https://www.nutanix.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Paylocity Holding Corporation",
+      "ticker": "PCTY",
+      "exchange": "NASDAQ",
+      "website": "https://www.paylocity.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Guidewire Software, Inc.",
+      "ticker": "GWRE",
+      "exchange": "NYSE",
+      "website": "https://www.guidewire.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Advanced Micro Devices, Inc. (AMD)",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "Unisys Corporation",
+      "ticker": "UIS",
+      "exchange": "NYSE",
+      "website": "https://www.unisys.com",
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Pegasystems Inc.",
+      "ticker": "PEGA",
+      "exchange": "NASDAQ",
+      "website": "https://www.pega.com",
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "SuccessFactors, Inc.",
+      "ticker": "SFSF",
+      "exchange": "NASDAQ",
+      "website": "https://www.successfactors.com",
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": "2012",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +96,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

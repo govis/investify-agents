@@ -11,11 +11,42 @@
     {
       "name": "Revival Gold Inc.",
       "ticker": "RVG",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://revival-gold.com",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "Senior Advisor (formerly Director)",
+      "website": "https://revival-gold.com/",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Stria Lithium Inc.",
+      "ticker": "SRA",
+      "exchange": "TSXV",
+      "website": "https://strialithium.com/",
+      "title_or_role": "Director",
+      "start_date": "2024-01-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Silver Hammer Mining Corp.",
+      "ticker": "HAMR",
+      "exchange": "CSE",
+      "website": "https://silverhammermining.com/",
+      "title_or_role": "Board Advisor",
+      "start_date": "2023-03-15",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Blackwolf Copper and Gold Ltd.",
+      "ticker": "BWCG",
+      "exchange": "TSXV",
+      "website": "https://blackwolfcopperandgold.com/",
+      "title_or_role": "Director",
+      "start_date": "2020-08-12",
+      "end_date": "2023-09-12",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Compensation, Governance and Nominating Committee",
     "Technical and Health, Safety, Environmental and Social Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

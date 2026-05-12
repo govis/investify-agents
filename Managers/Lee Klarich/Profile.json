@@ -12,10 +12,11 @@
       "name": "Palo Alto Networks, Inc.",
       "ticker": "PANW",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Product Officer",
+      "title_or_role": "Chief Product and Technology Officer (CPTO) and Member of the Board of Directors",
       "website": "https://www.paloaltonetworks.com",
-      "start_date": "2017-08-01",
-      "end_date": null
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +24,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -10,12 +10,33 @@
   "company_affiliations": [
     {
       "name": "Atlas Copco AB",
-      "ticker": "ATCO",
+      "ticker": "ATCO-A.ST",
       "exchange": "STO",
-      "title_or_role": "Director",
-      "website": "https://www.atlascopcogroup.com",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "title_or_role": "Board Member",
+      "website": "atlascopcogroup.com",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Alimak Group AB",
+      "ticker": "ALIG.ST",
+      "exchange": "STO",
+      "website": "alimakgroup.com",
+      "title_or_role": "Board Member",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Thule Group AB",
+      "ticker": "THULE.ST",
+      "exchange": "STO",
+      "website": "thulegroup.com",
+      "title_or_role": "Board Member",
+      "start_date": "2016",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

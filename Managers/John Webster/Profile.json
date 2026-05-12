@@ -10,12 +10,23 @@
   "company_affiliations": [
     {
       "name": "Eldorado Gold Corporation",
-      "ticker": "EGO",
-      "exchange": "NYSE",
+      "ticker": "ELD",
+      "exchange": "TSX",
       "title_or_role": "Independent Director",
-      "website": "https://www.eldoradogold.com",
-      "start_date": "2016-01-01",
-      "end_date": null
+      "website": "https://www.eldoradogold.com/",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Euro Manganese Inc.",
+      "ticker": "EMN",
+      "exchange": "TSX",
+      "website": "https://www.mn25.ca/",
+      "title_or_role": "Independent Director",
+      "start_date": "2016",
+      "end_date": "2026-01-13",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

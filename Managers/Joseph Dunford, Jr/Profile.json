@@ -16,6 +16,16 @@
       "website": "https://www.lockheedmartin.com",
       "start_date": "2020-02-10",
       "end_date": null
+    },
+    {
+      "name": "Satellogic Inc.",
+      "ticker": "SATL",
+      "exchange": "NASDAQ",
+      "website": "https://satellogic.com/",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +36,5 @@
     "Classified Business and Security Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,26 @@
       "website": "https://faradaycopper.com",
       "start_date": "2022-04-21",
       "end_date": null
+    },
+    {
+      "name": "StepStone Group Inc.",
+      "ticker": "STEP",
+      "exchange": "NASDAQ",
+      "website": "https://www.stepstonegroup.com/",
+      "title_or_role": "CEO of StepStone Private Wealth Solutions",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "OHA Investment Corporation",
+      "ticker": "OHAI",
+      "exchange": "NASDAQ",
+      "website": "https://www.ohainvestment.com/",
+      "title_or_role": "CEO",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Compensation and Nominating Committee",
     "Technical Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

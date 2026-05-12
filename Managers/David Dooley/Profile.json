@@ -12,10 +12,11 @@
       "name": "Generac Holdings Inc.",
       "ticker": "GNRC",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Senior Vice President and Group President",
       "website": "https://www.generac.com",
-      "start_date": "2015-01-01",
-      "end_date": null
+      "start_date": "Not publicly specified",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +27,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

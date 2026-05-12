@@ -13,9 +13,20 @@
       "ticker": "CLM",
       "exchange": "TSXV",
       "title_or_role": "Director",
-      "website": "https://consolidatedlithium.com/",
-      "start_date": "2021-06-01",
-      "end_date": null
+      "website": "https://www.consolidatedlithium.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Intrepid Metals Corp.",
+      "ticker": "INTR",
+      "exchange": "TSXV",
+      "website": "https://www.intrepidmetals.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

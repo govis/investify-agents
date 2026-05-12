@@ -10,12 +10,73 @@
   "company_affiliations": [
     {
       "name": "B2Gold Corp.",
-      "ticker": "BTG",
-      "exchange": "NYSE",
+      "ticker": "BTO",
+      "exchange": "TSX",
       "title_or_role": "Director",
-      "website": "https://www.b2gold.com",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "website": "b2gold.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NexGold Mining Corp.",
+      "ticker": "NEXG",
+      "exchange": "TSXV",
+      "website": "nexgold.ca",
+      "title_or_role": "President, CEO & Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Signal Gold Inc.",
+      "ticker": "SGNL",
+      "exchange": "TSX",
+      "website": "signalgold.com",
+      "title_or_role": "President, CEO & Director",
+      "start_date": "2019",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Torrent Capital Ltd.",
+      "ticker": "TOR",
+      "exchange": "TSXV",
+      "website": "torrentcapital.ca",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2012",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Volta Resources Inc.",
+      "ticker": "VTR",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "President & CEO",
+      "start_date": "2002",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Kirkland Lake Gold",
+      "ticker": "KL",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Senior Position",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Iamgold Corporation",
+      "ticker": "IMG",
+      "exchange": "TSX",
+      "website": "iamgold.com",
+      "title_or_role": "Senior Position",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +87,5 @@
     "Audit Committee",
     "Health, Safety, Environmental & Social Advisory Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

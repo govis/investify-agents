@@ -16,6 +16,26 @@
       "website": "https://www.netapp.com",
       "start_date": "2015-05-01",
       "end_date": null
+    },
+    {
+      "name": "Ciena Corporation",
+      "ticker": "CIEN",
+      "exchange": "NYSE",
+      "website": "https://www.ciena.com",
+      "title_or_role": "Director",
+      "start_date": "February 4, 2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Altera Corporation",
+      "ticker": "ALTR",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "title_or_role": "Director",
+      "start_date": "November 2009",
+      "end_date": "December 2015",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +45,5 @@
   "committees": [
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -10,12 +10,13 @@
   "company_affiliations": [
     {
       "name": "A.P. M\u00f8ller - M\u00e6rsk A/S",
-      "ticker": "AMKBY",
-      "exchange": "OTC",
-      "title_or_role": "Chief Corporate Affairs Officer",
+      "ticker": "MAERSK-B.CO",
+      "exchange": "Nasdaq Copenhagen",
+      "title_or_role": "General Counsel",
       "website": "https://www.maersk.com",
-      "start_date": "2023-02-01",
-      "end_date": null
+      "start_date": "2013",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +24,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

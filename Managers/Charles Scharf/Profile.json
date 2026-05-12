@@ -12,10 +12,41 @@
       "name": "Microsoft Corporation",
       "ticker": "MSFT",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.microsoft.com",
-      "start_date": "2014-10-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "microsoft.com",
+      "start_date": "2021-09",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Wells Fargo & Company",
+      "ticker": "WFC",
+      "exchange": "NYSE",
+      "website": "wellsfargo.com",
+      "title_or_role": "Chairman and CEO",
+      "start_date": "2019-10",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "ticker": "BK",
+      "exchange": "NYSE",
+      "website": "bnymellon.com",
+      "title_or_role": "Chairman",
+      "start_date": "2018-01",
+      "end_date": "2019-09",
+      "validated": true
+    },
+    {
+      "name": "Visa Inc.",
+      "ticker": "V",
+      "exchange": "NYSE",
+      "website": "visa.com",
+      "title_or_role": "CEO",
+      "start_date": "2012-11",
+      "end_date": "2016-12",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

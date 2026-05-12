@@ -16,6 +16,46 @@
       "website": "https://fissionuranium.com",
       "start_date": "2023-01-01",
       "end_date": null
+    },
+    {
+      "name": "Silver Storm Mining Ltd.",
+      "ticker": "SVRS",
+      "exchange": "TSXV",
+      "website": "https://silverstorm.ca/",
+      "title_or_role": "Independent Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Greenhawk Resources, Inc.",
+      "ticker": "GRHK",
+      "exchange": "TSXV",
+      "website": "https://greenhawkresources.com/",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Progressive Planet Solutions Inc.",
+      "ticker": "PLAN",
+      "exchange": "TSXV",
+      "website": "https://progressiveplanet.com/",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "LiCo Energy Metals Inc. (now Fuse Cobalt Inc.)",
+      "ticker": "FUSE",
+      "exchange": "TSXV",
+      "website": "https://fusecobalt.com/",
+      "title_or_role": "Director and Chair of Technical Advisory Board",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +63,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

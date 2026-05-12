@@ -16,6 +16,16 @@
       "website": "https://www.gd.com",
       "start_date": "2019-01-01",
       "end_date": null
+    },
+    {
+      "name": "Tenet Healthcare Corporation",
+      "ticker": "THC",
+      "exchange": "NYSE",
+      "website": "https://www.tenethealth.com",
+      "title_or_role": "Director",
+      "start_date": "2021-01-08",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +36,5 @@
     "Compensation",
     "Finance"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

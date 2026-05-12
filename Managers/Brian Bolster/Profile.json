@@ -12,10 +12,31 @@
       "name": "NextEra Energy, Inc.",
       "ticker": "NEE",
       "exchange": "NYSE",
-      "title_or_role": "Executive Vice President, Finance and Chief Financial Officer",
+      "title_or_role": "Chief Financial Officer",
       "website": "https://www.nexteraenergy.com",
-      "start_date": "2024-05-01",
-      "end_date": null
+      "start_date": "May 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "XPLR Infrastructure, LP",
+      "ticker": "XPLR",
+      "exchange": "NYSE",
+      "website": "https://www.xplrinfrastructure.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "May 2024",
+      "end_date": "January 2025",
+      "validated": true
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "exchange": "NYSE",
+      "website": "https://www.goldmansachs.com",
+      "title_or_role": "Global Head of Power and Infrastructure Investment Banking",
+      "start_date": "1999",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,36 @@
       "website": "https://www.broadcom.com",
       "start_date": "2006-03-01",
       "end_date": null
+    },
+    {
+      "name": "Meta Platforms, Inc.",
+      "ticker": "META",
+      "exchange": "NASDAQ",
+      "website": "https://www.meta.com",
+      "title_or_role": "Director",
+      "start_date": "2024-02-15",
+      "end_date": "2026-04-15",
+      "validated": true
+    },
+    {
+      "name": "Integrated Device Technology, Inc.",
+      "ticker": "IDTI",
+      "exchange": "NASDAQ",
+      "website": "https://www.idt.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2005-09",
+      "end_date": "2008-01",
+      "validated": true
+    },
+    {
+      "name": "Integrated Circuit Systems, Inc.",
+      "ticker": "ICST",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "1999-06",
+      "end_date": "2005-09",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +53,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

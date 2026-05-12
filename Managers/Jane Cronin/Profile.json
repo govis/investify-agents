@@ -12,10 +12,31 @@
       "name": "TransDigm Group Incorporated",
       "ticker": "TDG",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.transdigm.com",
-      "start_date": "2021-06-01",
-      "end_date": null
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cleveland-Cliffs Inc.",
+      "ticker": "CLF",
+      "exchange": "NYSE",
+      "website": "https://www.clevelandcliffs.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "January 3, 2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Sherwin-Williams Company",
+      "ticker": "SHW",
+      "exchange": "NYSE",
+      "website": "https://www.sherwin-williams.com",
+      "title_or_role": "Former Senior Vice President, Enterprise Finance",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +46,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

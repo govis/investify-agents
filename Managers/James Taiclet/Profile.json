@@ -12,10 +12,21 @@
       "name": "Lockheed Martin Corporation",
       "ticker": "LMT",
       "exchange": "NYSE",
-      "title_or_role": "Chairman, President and Chief Executive Officer",
+      "title_or_role": "Chairman",
       "website": "https://www.lockheedmartin.com",
-      "start_date": "2020-06-15",
-      "end_date": null
+      "start_date": "March 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "American Tower Corporation",
+      "ticker": "AMT",
+      "exchange": "NYSE",
+      "website": "https://www.americantower.com",
+      "title_or_role": "Chairman, President and Chief Executive Officer",
+      "start_date": "2003",
+      "end_date": "June 2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

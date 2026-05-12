@@ -12,10 +12,21 @@
       "name": "Flowserve Corporation",
       "ticker": "FLS",
       "exchange": "NYSE",
-      "title_or_role": "Non-Executive Chairman",
+      "title_or_role": "Director",
       "website": "https://www.flowserve.com",
-      "start_date": "2011-01-01",
-      "end_date": null
+      "start_date": "November 2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Marathon Oil Corporation",
+      "ticker": "MRO",
+      "exchange": "NYSE",
+      "website": "https://www.marathonoil.com",
+      "title_or_role": "Senior Vice President, Business Development",
+      "start_date": "2006",
+      "end_date": "2008",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Corporate Governance & Nominating Committee",
     "Organization & Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

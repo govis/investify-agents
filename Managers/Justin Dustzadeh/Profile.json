@@ -16,6 +16,16 @@
       "website": "https://www.equinix.com",
       "start_date": "2019-01-01",
       "end_date": null
+    },
+    {
+      "name": "Uber Technologies, Inc.",
+      "ticker": "UBER",
+      "exchange": "NYSE",
+      "website": "https://www.uber.com",
+      "title_or_role": "Head of Global Network & Software Platform",
+      "start_date": "2019",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +33,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

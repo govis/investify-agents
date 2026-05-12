@@ -10,12 +10,63 @@
   "company_affiliations": [
     {
       "name": "Kinross Gold Corporation",
-      "ticker": "KGC",
-      "exchange": "NYSE",
+      "ticker": "K",
+      "exchange": "TSX",
       "title_or_role": "Director",
-      "website": "https://www.kinross.com",
-      "start_date": "2016-02-01",
-      "end_date": null
+      "website": "kinross.com",
+      "start_date": "2015",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Globex Mining Enterprises Inc.",
+      "ticker": "GMX",
+      "exchange": "TSX",
+      "website": "globexmining.com",
+      "title_or_role": "Director",
+      "start_date": "Unknown",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Wolfden Resources Corporation",
+      "ticker": "WLF",
+      "exchange": "TSXV",
+      "website": "wolfdenresources.com",
+      "title_or_role": "Director",
+      "start_date": "Unknown",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "website": "centerragold.com",
+      "title_or_role": "President, CEO, Director",
+      "start_date": "2008",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Integra Resources Corp.",
+      "ticker": "ITR",
+      "exchange": "TSX",
+      "website": "integraresources.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Argonaut Gold Inc.",
+      "ticker": "AR",
+      "exchange": "TSX",
+      "website": "argonautgold.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +77,5 @@
     "Audit and Risk Committee",
     "Technical Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

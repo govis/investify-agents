@@ -11,11 +11,32 @@
     {
       "name": "Delta Resources Limited",
       "ticker": "DLTA",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://deltaresources.ca/",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Abitibi Royalties, Inc.",
+      "ticker": "RZZ",
       "exchange": "TSX",
-      "title_or_role": "Chairman of the Board and Independent Director",
-      "website": "https://deltaresources.ca",
-      "start_date": "2019-07-01",
-      "end_date": null
+      "website": "https://www.abitibiroyalties.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Val-d'Or Mining Corporation",
+      "ticker": "VZZ",
+      "exchange": "TSXV",
+      "website": "https://valdormining.com/",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +48,5 @@
     "Audit Committee",
     "Corporate Governance and Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

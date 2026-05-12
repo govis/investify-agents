@@ -12,10 +12,41 @@
       "name": "Mercury Systems, Inc.",
       "ticker": "MRCY",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.mrcy.com",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "mrcysystems.com",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "northropgrumman.com",
+      "title_or_role": "Corporate Vice President",
+      "start_date": "Unknown",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Navient Corporation",
+      "ticker": "NAVI",
+      "exchange": "NASDAQ",
+      "website": "navient.com",
+      "title_or_role": "Director / Chair",
+      "start_date": "2014",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "American International Group, Inc. (AIG)",
+      "ticker": "AIG",
+      "exchange": "NYSE",
+      "website": "aig.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Compensation Committee",
     "Nominating and Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

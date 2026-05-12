@@ -12,10 +12,21 @@
       "name": "Yellow Cake plc",
       "ticker": "YCA",
       "exchange": "LSE",
-      "title_or_role": "Non-Executive Chairman",
-      "website": "https://www.yellowcakeplc.com",
-      "start_date": "2018-06-01",
-      "end_date": null
+      "title_or_role": "Independent Non-Executive Director and Chairman",
+      "website": "https://www.yellowcakeplc.com/",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Integrated Diagnostics Holdings plc",
+      "ticker": "IDHC",
+      "exchange": "LSE",
+      "website": "https://www.idhcorp.com/",
+      "title_or_role": "Chairman",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Nomination Committee (Chair)",
     "Remuneration Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,21 @@
       "name": "Skeena Resources Limited",
       "ticker": "SKE",
       "exchange": "TSX",
-      "title_or_role": "Chief Financial Officer",
-      "website": "https://skeenaresources.com",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://skeenaresources.com/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kutcho Copper Corp.",
+      "ticker": "KC",
+      "exchange": "TSXV",
+      "website": "https://kutcho.ca/",
+      "title_or_role": "Chief Operating Officer (COO)",
+      "start_date": "July 12, 2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

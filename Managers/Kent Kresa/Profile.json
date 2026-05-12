@@ -16,6 +16,56 @@
       "website": "https://www.nuscalepower.com",
       "start_date": "2022-05-01",
       "end_date": null
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "northropgrumman.com",
+      "title_or_role": "Chairman, CEO, President",
+      "start_date": "1987",
+      "end_date": "2003",
+      "validated": true
+    },
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "gm.com",
+      "title_or_role": "Chairman, Director",
+      "start_date": "~2003",
+      "end_date": "~2006",
+      "validated": true
+    },
+    {
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
+      "exchange": "NYSE",
+      "website": "fluor.com",
+      "title_or_role": "Director",
+      "start_date": "~2003",
+      "end_date": "~2011",
+      "validated": true
+    },
+    {
+      "name": "Avery Dennison Corporation",
+      "ticker": "AVY",
+      "exchange": "NYSE",
+      "website": "averydennison.com",
+      "title_or_role": "Chairman, Director",
+      "start_date": "~1999",
+      "end_date": "~2014",
+      "validated": true
+    },
+    {
+      "name": "MannKind Corporation",
+      "ticker": "MNKD",
+      "exchange": "NASDAQ",
+      "website": "mannkindcorp.com",
+      "title_or_role": "Director, Chairman",
+      "start_date": "2004",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +75,5 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

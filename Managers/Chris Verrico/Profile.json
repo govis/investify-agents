@@ -10,12 +10,63 @@
   "company_affiliations": [
     {
       "name": "Oreterra Metals Corp.",
-      "ticker": "OTMC",
+      "ticker": "ORE",
       "exchange": "TSXV",
-      "title_or_role": "Chief Executive Officer, Director, President",
-      "website": "https://oreterra.com",
-      "start_date": "2021-06-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "oreterrametals.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rio Silver Inc.",
+      "ticker": "RYO",
+      "exchange": "TSXV",
+      "website": "riosilverinc.com",
+      "title_or_role": "President, CEO, Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Juggernaut Exploration Ltd.",
+      "ticker": "JUGR",
+      "exchange": "TSXV",
+      "website": "juggernautexploration.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aguila American Gold Ltd.",
+      "ticker": "AGL",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "CEO",
+      "start_date": null,
+      "end_date": "Nov 2012",
+      "validated": true
+    },
+    {
+      "name": "Lateegra Gold Corp.",
+      "ticker": "LG",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "President, CEO, Director",
+      "start_date": "2010",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "Tru Vision Corp.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "title_or_role": "President, Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": false
     }
   ],
   "investment_theses": [
@@ -24,6 +75,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

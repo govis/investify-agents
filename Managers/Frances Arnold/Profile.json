@@ -12,10 +12,21 @@
       "name": "Alphabet Inc.",
       "ticker": "GOOGL",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://abc.xyz",
-      "start_date": "2019-12-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Illumina, Inc.",
+      "ticker": "ILMN",
+      "exchange": "NASDAQ",
+      "website": "https://www.illumina.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2016",
+      "end_date": "2026",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

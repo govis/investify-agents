@@ -12,10 +12,31 @@
       "name": "Capstone Copper Corp.",
       "ticker": "CS",
       "exchange": "TSX",
-      "title_or_role": "Chief Executive Officer, Director",
+      "title_or_role": "CEO and Director (formerly Board Chair)",
       "website": "https://capstonecopper.com",
-      "start_date": "2022-03-23",
-      "end_date": null
+      "start_date": "March 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Horizonte Minerals Plc",
+      "ticker": "HZM",
+      "exchange": "TSX",
+      "website": "https://horizonteminerals.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "July 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gold Fields Limited",
+      "ticker": "GFI",
+      "exchange": "NYSE",
+      "website": "https://www.goldfields.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "August 1, 2025",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

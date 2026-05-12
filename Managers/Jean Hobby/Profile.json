@@ -12,10 +12,21 @@
       "name": "Texas Instruments Incorporated",
       "ticker": "TXN",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.ti.com",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "www.ti.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hewlett Packard Enterprise",
+      "ticker": "HPE",
+      "exchange": "NYSE",
+      "website": "www.hpe.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Audit Committee",
     "Governance and Stockholder Relations Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

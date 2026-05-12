@@ -12,10 +12,11 @@
       "name": "Ford Motor Company",
       "ticker": "F",
       "exchange": "NYSE",
-      "title_or_role": "Director",
+      "title_or_role": "Director (Member of the Board of Directors)",
       "website": "https://www.ford.com",
-      "start_date": "2021-05-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +27,5 @@
   "committees": [
     "Sustainability, Innovation and Policy Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

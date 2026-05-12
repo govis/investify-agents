@@ -12,10 +12,31 @@
       "name": "Huntington Ingalls Industries, Inc.",
       "ticker": "HII",
       "exchange": "NYSE",
-      "title_or_role": "Executive Vice President and President, Mission Technologies",
-      "website": "https://www.hii.com",
-      "start_date": "2016-01-01",
-      "end_date": null
+      "title_or_role": "EVP & President, Technical Solutions",
+      "website": "https://hii.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "IG Group Holdings plc",
+      "ticker": "IGG",
+      "exchange": "LSE",
+      "website": "https://www.iggroup.com",
+      "title_or_role": "Chairman",
+      "start_date": "2014",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Avanti Communications Group plc",
+      "ticker": "AVN",
+      "exchange": "LSE",
+      "website": "https://www.avanti.space",
+      "title_or_role": "Senior Independent Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

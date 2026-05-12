@@ -14,8 +14,19 @@
       "exchange": "NASDAQ",
       "title_or_role": "Chief Operating Officer",
       "website": "https://www.solidpowerbattery.com",
-      "start_date": "2024-01-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "A123 Systems, Inc.",
+      "ticker": "AONE",
+      "exchange": "NASDAQ",
+      "website": "https://www.a123systems.com",
+      "title_or_role": "Vice President of Global Research and Development",
+      "start_date": "2016",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,21 @@
       "name": "BlackSky Technology Inc.",
       "ticker": "BKSY",
       "exchange": "NYSE",
-      "title_or_role": "General Counsel and Corporate Secretary",
+      "title_or_role": "Chief Administrative Officer & General Counsel",
       "website": "https://www.blacksky.com",
-      "start_date": "2021-09-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "comScore, Inc.",
+      "ticker": "SCOR",
+      "exchange": "NASDAQ",
+      "website": "https://www.comscore.com",
+      "title_or_role": "Executive Vice President, General Counsel, Chief Privacy Officer, and Corporate Secretary",
+      "start_date": "2013",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

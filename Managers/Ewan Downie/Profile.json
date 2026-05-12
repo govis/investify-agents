@@ -13,18 +13,40 @@
       "ticker": "AIR",
       "exchange": "TSXV",
       "title_or_role": "Director",
-      "website": "https://cleanairmetals.ca",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "website": "cleanairmetals.ca",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Franco-Nevada Corporation",
       "ticker": "FNV",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "franco-nevada.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "I-80 Gold Corp.",
+      "ticker": "IAUX",
       "exchange": "NYSE",
-      "title_or_role": "Senior Vice President, Mining",
-      "website": "https://www.franco-nevada.com",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "website": "i80gold.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Premier Gold Mines Limited",
+      "ticker": "PG",
+      "exchange": "TSX",
+      "website": "premiergoldmines.com",
+      "title_or_role": "President & CEO",
+      "start_date": "2006",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -35,6 +57,5 @@
   "committees": [
     "Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -25,6 +25,36 @@
       "website": "https://www.snowflake.com",
       "start_date": "2018-05-01",
       "end_date": null
+    },
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "website": "www.adobe.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2007",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Axalta Coating Systems Ltd.",
+      "ticker": "AXTA",
+      "exchange": "NYSE",
+      "website": "www.axalta.com",
+      "title_or_role": "Director / Chairman of the Board",
+      "start_date": "2016",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "GoDaddy Inc.",
+      "ticker": "GDDY",
+      "exchange": "NYSE",
+      "website": "www.godaddy.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +66,5 @@
     "Finance Committee",
     "Nominating and Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

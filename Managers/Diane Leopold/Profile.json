@@ -14,8 +14,39 @@
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and Chief Operating Officer",
       "website": "https://www.dominionenergy.com",
-      "start_date": "2020-10-01",
-      "end_date": null
+      "start_date": null,
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Markel Group Inc.",
+      "ticker": "MKL",
+      "exchange": "NYSE",
+      "website": "https://www.mklgroup.com",
+      "title_or_role": "Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "nVent Electric plc",
+      "ticker": "NVT",
+      "exchange": "NYSE",
+      "website": "https://www.nvent.com",
+      "title_or_role": "Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CMS Energy Corporation",
+      "ticker": "CMS",
+      "exchange": "NYSE",
+      "website": "https://www.cmsenergy.com",
+      "title_or_role": "Director",
+      "start_date": "2026",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +54,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

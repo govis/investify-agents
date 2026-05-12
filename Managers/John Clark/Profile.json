@@ -16,6 +16,26 @@
       "website": "https://www.vistagold.com",
       "start_date": "2001-05-01",
       "end_date": null
+    },
+    {
+      "name": "Russel Metals Inc.",
+      "ticker": "RUS",
+      "exchange": "TSX",
+      "website": "https://www.russelmetals.com",
+      "title_or_role": "Director",
+      "start_date": "2019-08-22",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Zephyr Minerals Ltd.",
+      "ticker": "ZPHY",
+      "exchange": "TSXV",
+      "website": "https://www.zephyrminerals.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +47,5 @@
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

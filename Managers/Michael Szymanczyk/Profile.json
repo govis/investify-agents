@@ -16,6 +16,36 @@
       "website": "https://www.dominionenergy.com",
       "start_date": "2012-01-01",
       "end_date": null
+    },
+    {
+      "name": "Altria Group, Inc.",
+      "ticker": "MO",
+      "exchange": "NYSE",
+      "website": "https://www.altria.com",
+      "title_or_role": "Chairman and CEO",
+      "start_date": "2008",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Philip Morris Companies Inc. (now Altria Group, Inc.)",
+      "ticker": "MO",
+      "exchange": "NYSE",
+      "website": "https://www.altria.com",
+      "title_or_role": "Chairman and CEO",
+      "start_date": "2002-04",
+      "end_date": "2002-08",
+      "validated": true
+    },
+    {
+      "name": "Duke Realty Corporation",
+      "ticker": "DRE",
+      "exchange": "NYSE",
+      "website": "https://www.prologis.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
     "Compensation and Talent Development Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

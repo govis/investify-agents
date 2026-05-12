@@ -5,8 +5,8 @@
   "age": null,
   "age_year": null,
   "background": "Mr Wheeler has more than 30 years of Executive and Non-Executive Director experience in Australia and internationally. He is a Fellow of the Australian Institute of Company Directors and has experience in capital markets, corporate advisory, and strategic management.",
-  "picture_url": null,
-  "picture_local": null,
+  "picture_url": "https://media.licdn.com/dms/image/v2/C4D03AQGoxdRsenb18g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516872915097?e=2147483647&v=beta&t=Plj3gUydZKaIMjpe2qBDhrRSdAwLsvngaQsUn_oDE2Y",
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Atomic Eagle Limited",
@@ -16,6 +16,16 @@
       "website": "https://atomiceagle.com.au",
       "start_date": "2024-05-24",
       "end_date": null
+    },
+    {
+      "name": "Silver Star Properties REIT, Inc.",
+      "ticker": "SSSS",
+      "exchange": "OTC",
+      "website": "https://www.hi-reit.com/",
+      "title_or_role": "President",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -29,6 +39,5 @@
     }
   ],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

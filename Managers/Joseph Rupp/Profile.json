@@ -12,10 +12,51 @@
       "name": "Nucor Corporation",
       "ticker": "NUE",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://nucor.com",
-      "start_date": "2015-09-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.nucor.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Olin Corporation",
+      "ticker": "OLN",
+      "exchange": "NYSE",
+      "website": "https://www.olin.com",
+      "title_or_role": "Chairman of the Board, CEO (Retired)",
+      "start_date": "2002",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Cass Information Systems, Inc.",
+      "ticker": "CASS",
+      "exchange": "NASDAQ",
+      "website": "https://www.cassinfo.com",
+      "title_or_role": "Lead Independent Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Quanex Building Products Corporation",
+      "ticker": "NX",
+      "exchange": "NYSE",
+      "website": "https://www.quanex.com",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "O-I Glass, Inc.",
+      "ticker": "OI",
+      "exchange": "NYSE",
+      "website": "https://www.o-i.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +67,5 @@
     "Compensation and Executive Development",
     "Governance and Nominating"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

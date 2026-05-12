@@ -12,10 +12,31 @@
       "name": "Lucid Group, Inc.",
       "ticker": "LCID",
       "exchange": "NASDAQ",
-      "title_or_role": "Senior Vice President, Product and Chief Engineer",
-      "website": "https://www.lucidmotors.com",
-      "start_date": "2021-02-01",
-      "end_date": null
+      "title_or_role": "Senior Vice President of Product and Chief Engineer",
+      "website": "https://lucidmotors.com",
+      "start_date": "2017",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "website": "https://tesla.com",
+      "title_or_role": "Engineer",
+      "start_date": "Prior to 2017",
+      "end_date": "Prior to 2017",
+      "validated": true
+    },
+    {
+      "name": "Volkswagen AG",
+      "ticker": "VOW3",
+      "exchange": "LSE",
+      "website": "https://volkswagen-group.com",
+      "title_or_role": "Engineer/Management roles",
+      "start_date": "Prior to 2017",
+      "end_date": "Prior to 2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

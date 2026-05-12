@@ -12,10 +12,31 @@
       "name": "AngloGold Ashanti plc",
       "ticker": "AU",
       "exchange": "NYSE",
-      "title_or_role": "Independent Non-Executive Director",
+      "title_or_role": "Director and Chairman",
       "website": "https://www.anglogoldashanti.com",
       "start_date": "2019-06-01",
-      "end_date": null
+      "end_date": "2024-05-28",
+      "validated": true
+    },
+    {
+      "name": "Standard Chartered PLC",
+      "ticker": "STAN",
+      "exchange": "LSE",
+      "website": "https://www.sc.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2021-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Compagnie Financi\u00e8re Richemont SA",
+      "ticker": "CFR",
+      "exchange": "SIX",
+      "website": "https://www.richemont.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2011-09",
+      "end_date": "2025-03-31",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Audit and Risk Committee",
     "Social, Ethics and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

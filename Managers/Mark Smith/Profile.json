@@ -11,11 +11,22 @@
     {
       "name": "Cabral Gold Inc.",
       "ticker": "CBR",
-      "exchange": "TSX",
-      "title_or_role": "Director",
-      "website": "https://cabralgold.com",
-      "start_date": "2018-06-21",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "Executive Chairman",
+      "website": "https://cabralgold.com/",
+      "start_date": "2018-05-07",
+      "end_date": "2024-06-26",
+      "validated": true
+    },
+    {
+      "name": "Nortec Minerals Corp.",
+      "ticker": "NWT",
+      "exchange": "TSXV",
+      "website": "https://nortecminerals.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

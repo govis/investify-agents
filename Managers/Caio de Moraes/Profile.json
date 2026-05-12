@@ -11,11 +11,12 @@
     {
       "name": "Sigma Lithium Corporation",
       "ticker": "SGML",
-      "exchange": "NASDAQ",
-      "title_or_role": "Chief Operating Officer",
-      "website": "https://www.sigmalithiumresources.com",
-      "start_date": "2023-06-01",
-      "end_date": null
+      "exchange": "NASDAQ / TSX",
+      "title_or_role": "Not publicly specified",
+      "website": "https://www.sigmalithiumresources.com/",
+      "start_date": "Not publicly specified",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +24,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

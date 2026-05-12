@@ -16,6 +16,26 @@
       "website": "https://newagemetals.com",
       "start_date": "2010-01-01",
       "end_date": null
+    },
+    {
+      "name": "Sokoman Minerals Corp.",
+      "ticker": "SIC",
+      "exchange": "TSXV",
+      "website": "sokomanmineralscorp.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Spruce Ridge Resources Ltd.",
+      "ticker": "SHL",
+      "exchange": "TSXV",
+      "website": "spruceridgeresources.com",
+      "title_or_role": "VP Exploration & Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

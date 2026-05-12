@@ -12,10 +12,21 @@
       "name": "Amazon.com, Inc.",
       "ticker": "AMZN",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "website": "https://www.amazon.com",
-      "start_date": "2016-09-01",
-      "end_date": null
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.aboutamazon.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Corning Incorporated",
+      "ticker": "GLW",
+      "exchange": "NYSE",
+      "website": "https://www.corning.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "February 3, 2015",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
   "committees": [
     "Leadership Development and Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

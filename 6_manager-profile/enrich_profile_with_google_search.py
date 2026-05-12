@@ -13,7 +13,9 @@ load_dotenv(find_dotenv(), override=True)
 # Configuration
 CONCURRENCY_LIMIT = 1 # Strictly limited for Google Search grounding to avoid 429s
 # Use specialized grounding model if specified
-GEMINI_MODEL = os.getenv("GEMINI_MODEL_SEARCH_GROUNDING", os.getenv("GEMINI_MODEL", "gemini-2.0-flash"))
+GEMINI_MODEL = os.getenv("GEMINI_MODEL_SEARCH_GROUNDING") or os.getenv("GEMINI_MODEL")
+if not GEMINI_MODEL:
+    raise ValueError("Neither GEMINI_MODEL_SEARCH_GROUNDING nor GEMINI_MODEL is set in .env")
 PROFILES_TO_ENRICH = int(os.getenv("PROFILES_TO_ENRICH", "0"))
 
 class SocialProfile(BaseModel):

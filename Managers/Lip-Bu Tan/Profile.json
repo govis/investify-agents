@@ -16,6 +16,46 @@
       "website": "https://www.intel.com",
       "start_date": "2022-09-01",
       "end_date": null
+    },
+    {
+      "name": "Cadence Design Systems, Inc.",
+      "ticker": "CDNS",
+      "exchange": "NASDAQ",
+      "website": "https://www.cadence.com",
+      "title_or_role": "Director, CEO, Executive Chairman",
+      "start_date": "2004",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Schneider Electric SE",
+      "ticker": "SU",
+      "exchange": "Euronext Paris",
+      "website": "https://www.se.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "SoftBank Group Corp.",
+      "ticker": "9984",
+      "exchange": "Tokyo Stock Exchange",
+      "website": "https://group.softbank",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Hewlett Packard Enterprise Company",
+      "ticker": "HPE",
+      "exchange": "NYSE",
+      "website": "https://www.hpe.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +66,5 @@
   "committees": [
     "M&A Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

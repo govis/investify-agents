@@ -14,8 +14,19 @@
       "exchange": "NYSE",
       "title_or_role": "Director",
       "website": "https://www.jacobs.com",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Armstrong World Industries, Inc.",
+      "ticker": "AWI",
+      "exchange": "NYSE",
+      "website": "https://www.armstrongceilings.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

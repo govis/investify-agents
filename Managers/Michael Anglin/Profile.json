@@ -11,11 +11,32 @@
     {
       "name": "SSR Mining Inc.",
       "ticker": "SSRM",
-      "exchange": "NASDAQ",
-      "title_or_role": "Lead Independent Director",
-      "website": "https://www.ssrmining.com",
-      "start_date": "2020-09-16",
-      "end_date": null
+      "exchange": "TSX / NASDAQ",
+      "title_or_role": "Non-Executive Chairman / Non-Executive Director",
+      "website": "https://www.ssrmining.com/",
+      "start_date": "2008",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Antofagasta PLC",
+      "ticker": "ANTO",
+      "exchange": "LSE",
+      "website": "https://www.antofagasta.co.uk/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2014",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX / NYSE / LSE",
+      "website": "https://www.bhp.com/",
+      "title_or_role": "Vice President of Operations and Chief Operating Officer (Base Metals Group)",
+      "start_date": "1986",
+      "end_date": "2008",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Compensation and Leadership Development Committee",
     "Environmental, Health, Safety and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

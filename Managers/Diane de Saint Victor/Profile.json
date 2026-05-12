@@ -10,12 +10,63 @@
   "company_affiliations": [
     {
       "name": "A.P. M\u00f8ller - M\u00e6rsk A/S",
-      "ticker": "AMKBY",
-      "exchange": "OTC",
-      "title_or_role": "Member of the Board",
+      "ticker": "MAERSK-B",
+      "exchange": "CPH/STO",
+      "title_or_role": "Board Member",
       "website": "https://www.maersk.com",
-      "start_date": "2017-03-28",
-      "end_date": null
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Transocean Ltd.",
+      "ticker": "RIG",
+      "exchange": "NYSE",
+      "website": "https://www.deepwater.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "WNS (Holdings) Limited",
+      "ticker": "WNS",
+      "exchange": "NYSE",
+      "website": "https://www.wns.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Imperial Brands PLC",
+      "ticker": "IMB",
+      "exchange": "LSE",
+      "website": "https://www.imperialbrandsplc.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021-11-15",
+      "end_date": "2025-01-29",
+      "validated": true
+    },
+    {
+      "name": "ABB Ltd",
+      "ticker": "ABB",
+      "exchange": "NYSE/SIX",
+      "website": "https://global.abb",
+      "title_or_role": "General Counsel and Company Secretary",
+      "start_date": "2007",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Barclays PLC",
+      "ticker": "BCS",
+      "exchange": "NYSE/LSE",
+      "website": "https://home.barclays",
+      "title_or_role": "Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +76,5 @@
   "committees": [
     "Member of the Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

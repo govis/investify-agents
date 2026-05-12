@@ -16,6 +16,26 @@
       "website": "https://www.ford.com",
       "start_date": "2020-10-01",
       "end_date": null
+    },
+    {
+      "name": "McDonald's Corporation",
+      "ticker": "MCD",
+      "exchange": "NYSE",
+      "website": "https://corporate.mcdonalds.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "February 4, 2026",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Harley-Davidson, Inc.",
+      "ticker": "HOG",
+      "exchange": "NYSE",
+      "website": "https://www.harley-davidson.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "May 20, 2021",
+      "end_date": "February 9, 2026",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

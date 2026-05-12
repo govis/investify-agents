@@ -11,11 +11,22 @@
     {
       "name": "Sitka Gold Corp.",
       "ticker": "SIG",
-      "exchange": "TSX",
-      "title_or_role": "Director, Exploration, Vice President",
-      "website": "https://sitkagoldcorp.com",
-      "start_date": "2024-01-01",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "President & Director",
+      "website": "https://sitkagoldcorp.com/",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Golden Predator Mining Corp.",
+      "ticker": "GPY",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Senior Geologist",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +35,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

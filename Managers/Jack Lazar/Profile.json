@@ -16,6 +16,76 @@
       "website": "https://gf.com",
       "start_date": "2021-07-01",
       "end_date": null
+    },
+    {
+      "name": "Astera Labs, Inc.",
+      "ticker": "ALAB",
+      "exchange": "NASDAQ",
+      "website": "https://www.asteralabs.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Box, Inc.",
+      "ticker": "BOX",
+      "exchange": "NYSE",
+      "website": "https://www.box.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Resideo Technologies, Inc.",
+      "ticker": "REZI",
+      "exchange": "NYSE",
+      "website": "https://www.resideo.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GoPro, Inc.",
+      "ticker": "GPRO",
+      "exchange": "NASDAQ",
+      "website": "https://www.gopro.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2014-02",
+      "end_date": "2016-03",
+      "validated": true
+    },
+    {
+      "name": "Silicon Laboratories, Inc.",
+      "ticker": "SLAB",
+      "exchange": "NASDAQ",
+      "website": "https://www.silabs.com",
+      "title_or_role": "Director",
+      "start_date": "2013-04",
+      "end_date": "2022-04",
+      "validated": true
+    },
+    {
+      "name": "Casper Sleep Inc.",
+      "ticker": "CSPR",
+      "exchange": "NYSE",
+      "website": "https://casper.com",
+      "title_or_role": "Director",
+      "start_date": "2019-04",
+      "end_date": "2022-01",
+      "validated": true
+    },
+    {
+      "name": "thredUP Inc.",
+      "ticker": "TDUP",
+      "exchange": "NASDAQ",
+      "website": "https://www.thredup.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +95,5 @@
   "committees": [
     "Audit Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,36 @@
       "website": "https://www.syrahresources.com.au",
       "start_date": "2018-07-16",
       "end_date": null
+    },
+    {
+      "name": "BlackBerry Limited",
+      "ticker": "BB",
+      "exchange": "NYSE / TSX",
+      "website": "https://www.blackberry.com",
+      "title_or_role": "Director (Board of Directors)",
+      "start_date": "2024-09-26",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Jabil Inc.",
+      "ticker": "JBL",
+      "exchange": "NYSE",
+      "website": "https://www.jabil.com",
+      "title_or_role": "Senior Vice President, Automotive and Transportation",
+      "start_date": "2016",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Mattr Corp.",
+      "ticker": "MATR",
+      "exchange": "TSX",
+      "website": "https://www.mattr.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
     "Remuneration and Nomination Committee",
     "Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

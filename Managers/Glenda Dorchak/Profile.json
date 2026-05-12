@@ -12,19 +12,61 @@
       "name": "GlobalFoundries Inc.",
       "ticker": "GFS",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://gf.com",
-      "start_date": "2019-06-01",
-      "end_date": null
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Wolfspeed, Inc.",
       "ticker": "WOLF",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.wolfspeed.com",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://wolfspeed.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ANSYS, Inc.",
+      "ticker": "ANSS",
+      "exchange": "NASDAQ",
+      "website": "https://ansys.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Intrinsyc Software International, Inc.",
+      "ticker": "ICS",
+      "exchange": "TSX",
+      "website": "https://www.intrinsyc.com",
+      "title_or_role": "CEO and Chairman",
+      "start_date": "2006",
+      "end_date": "2009",
+      "validated": true
+    },
+    {
+      "name": "Mellanox Technologies, Ltd.",
+      "ticker": "MLNX",
+      "exchange": "NASDAQ",
+      "website": "https://www.mellanox.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Quantenna Communications, Inc.",
+      "ticker": "QTNA",
+      "exchange": "NASDAQ",
+      "website": "https://www.quantenna.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -37,6 +79,5 @@
     "Governance and Nominating Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

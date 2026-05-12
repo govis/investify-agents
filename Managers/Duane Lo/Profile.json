@@ -16,6 +16,46 @@
       "website": "https://www.gminingventures.com",
       "start_date": null,
       "end_date": null
+    },
+    {
+      "name": "Entr\u00e9e Resources Ltd.",
+      "ticker": "ETG",
+      "exchange": "TSX",
+      "website": "https://www.entreeresourcesltd.com/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Avant Brands Inc.",
+      "ticker": "AVNT",
+      "exchange": "TSX",
+      "website": "https://avantbrands.ca/",
+      "title_or_role": "Independent Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ridgeline Minerals Corp.",
+      "ticker": "RDG",
+      "exchange": "TSXV",
+      "website": "https://ridgelineminerals.com/",
+      "title_or_role": "Chief Financial Officer and Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Element 29 Resources Inc.",
+      "ticker": "ECU",
+      "exchange": "TSXV",
+      "website": "https://e29copper.com/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +63,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

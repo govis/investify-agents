@@ -25,6 +25,26 @@
       "website": "https://www.globalxetfs.com/funds/ura/",
       "start_date": "2008-01-01",
       "end_date": null
+    },
+    {
+      "name": "PCSB Financial Corporation",
+      "ticker": "PCSB",
+      "exchange": "NASDAQ",
+      "website": "https://www.pcsb.com",
+      "title_or_role": "General Counsel",
+      "start_date": "2016",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Clough Global Equity Fund",
+      "ticker": "GLQ",
+      "exchange": "NYSE",
+      "website": "https://www.cloughcapital.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +56,5 @@
     "Audit Committee",
     "Nominating and Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

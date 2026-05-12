@@ -16,6 +16,36 @@
       "website": "https://www.atlascopcogroup.com",
       "start_date": "2019-01-01",
       "end_date": null
+    },
+    {
+      "name": "Schneider Electric SE",
+      "ticker": "SU",
+      "exchange": "Euronext Paris",
+      "website": "https://www.se.com",
+      "title_or_role": "Board Member (Director)",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Alfa Laval AB",
+      "ticker": "ALFA",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.alfalaval.com",
+      "title_or_role": "Board Member (Director)",
+      "start_date": "2017",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "AB Electrolux",
+      "ticker": "ELUX-B",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.electroluxgroup.com",
+      "title_or_role": "Various Senior Roles (including CFO, EVP, and Head of Business Area Europe)",
+      "start_date": "2001",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +55,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

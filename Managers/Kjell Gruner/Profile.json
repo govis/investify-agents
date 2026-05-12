@@ -12,10 +12,21 @@
       "name": "Rivian Automotive, Inc.",
       "ticker": "RIVN",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Commercial Officer and President, Business Growth",
-      "website": "https://rivian.com",
-      "start_date": "2023-09-01",
-      "end_date": null
+      "title_or_role": "Chief Commercial Officer",
+      "website": "https://rivian.com/",
+      "start_date": "September 2023",
+      "end_date": "August 2024",
+      "validated": true
+    },
+    {
+      "name": "LiveWire Group, Inc.",
+      "ticker": "LVWR",
+      "exchange": "NYSE",
+      "website": "https://www.livewire.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "September 2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

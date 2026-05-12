@@ -16,6 +16,26 @@
       "website": "https://vgcx.com",
       "start_date": "2021-01-01",
       "end_date": null
+    },
+    {
+      "name": "Kootenay Silver Inc.",
+      "ticker": "KTN",
+      "exchange": "TSXV",
+      "website": "https://kootenaysilver.com/",
+      "title_or_role": "Director",
+      "start_date": "January 13, 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nevsun Resources Ltd.",
+      "ticker": "NSU",
+      "exchange": "TSX",
+      "website": "https://www.zijinmining.com/",
+      "title_or_role": "Chief Legal Officer",
+      "start_date": "Unknown",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Compensation Committee (Chair)",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

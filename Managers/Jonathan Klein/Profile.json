@@ -16,6 +16,16 @@
       "website": "https://www.servicenow.com",
       "start_date": "2013-06-01",
       "end_date": null
+    },
+    {
+      "name": "Getty Images Holdings, Inc.",
+      "ticker": "GETY",
+      "exchange": "NYSE",
+      "website": "https://www.gettyimages.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "1995",
+      "end_date": "2015",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +35,5 @@
   "committees": [
     "Leadership Development and Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

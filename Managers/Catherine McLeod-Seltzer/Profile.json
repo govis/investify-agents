@@ -10,12 +10,33 @@
   "company_affiliations": [
     {
       "name": "Kinross Gold Corporation",
-      "ticker": "KGC",
-      "exchange": "NYSE",
-      "title_or_role": "Chair of the Board, Director",
+      "ticker": "K",
+      "exchange": "TSX / NYSE",
+      "title_or_role": "Independent Chair of the Board / Director",
       "website": "https://www.kinross.com",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bear Creek Mining Corporation",
+      "ticker": "BCM",
+      "exchange": "TSXV",
+      "website": "https://bearcreekmining.com",
+      "title_or_role": "Chair of the Board / Director",
+      "start_date": "2003",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Teck Resources Limited",
+      "ticker": "TECK",
+      "exchange": "NYSE / TSX",
+      "website": "https://www.teck.com",
+      "title_or_role": "Director",
+      "start_date": "April 2025",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +46,5 @@
   "committees": [
     "Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,31 @@
       "name": "Lotus Resources Limited",
       "ticker": "LOT",
       "exchange": "ASX",
-      "title_or_role": "Non-Executive Chairman",
-      "website": "https://lotusresources.com.au/",
+      "title_or_role": "Non-Executive Director / Chairman",
+      "website": "https://lotusresources.com.au",
       "start_date": "2021-02-22",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Emerald Resources NL",
+      "ticker": "EMR",
+      "exchange": "ASX",
+      "website": "https://www.emeraldresources.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2022-09-13",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Genesis Minerals Limited",
+      "ticker": "GMD",
+      "exchange": "ASX",
+      "website": "https://genesisminerals.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021-09-22",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

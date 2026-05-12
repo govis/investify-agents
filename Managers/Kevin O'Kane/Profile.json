@@ -10,21 +10,53 @@
   "company_affiliations": [
     {
       "name": "IAMGOLD Corporation",
-      "ticker": "IAG",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "ticker": "IMG",
+      "exchange": "TSX",
+      "title_or_role": "Director",
       "website": "https://www.iamgold.com",
-      "start_date": "2022-02-01",
-      "end_date": null
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "NorthIsle Copper and Gold Inc.",
       "ticker": "NCX",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
       "website": "https://www.northisle.ca",
-      "start_date": "2021-05-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SolGold PLC",
+      "ticker": "SOLG",
+      "exchange": "LSE",
+      "website": "https://www.solgold.com.au",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Almaden Minerals Ltd.",
+      "ticker": "AMM",
+      "exchange": "TSX",
+      "website": "https://www.almadenminerals.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SSR Mining Inc.",
+      "ticker": "SSRM",
+      "exchange": "TSX/NASDAQ",
+      "website": "https://www.ssrmining.com",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2018-06-04",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -38,6 +70,5 @@
     "Human Resources and Compensation Committee",
     "Safety, Environment and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

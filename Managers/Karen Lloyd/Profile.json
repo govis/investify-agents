@@ -16,6 +16,16 @@
       "website": "https://www.aclara.com",
       "start_date": "2021-12-01",
       "end_date": null
+    },
+    {
+      "name": "CanAlaska Uranium Ltd.",
+      "ticker": "CVV",
+      "exchange": "TSXV",
+      "website": "https://canalaska.com/",
+      "title_or_role": "Director (July 2021 \u2013 Present), Chair of the Board (Appointed May 2024 \u2013 Present)",
+      "start_date": "July 2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +35,5 @@
   "committees": [
     "Compensation, Nominating and Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

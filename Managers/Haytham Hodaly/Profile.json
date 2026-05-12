@@ -16,6 +16,26 @@
       "website": "https://www.wheatonpm.com",
       "start_date": "2012-01-01",
       "end_date": null
+    },
+    {
+      "name": "NEXE Innovations, Inc.",
+      "ticker": "NEXE",
+      "exchange": "TSXV",
+      "website": "nexeinnovations.com",
+      "title_or_role": "Director",
+      "start_date": "2020-12",
+      "end_date": "2026-01",
+      "validated": true
+    },
+    {
+      "name": "Goldsource Mines Inc.",
+      "ticker": "GXS",
+      "exchange": "TSXV",
+      "website": "goldsourcemines.com",
+      "title_or_role": "Director",
+      "start_date": "2017-03",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +43,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

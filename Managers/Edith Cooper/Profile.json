@@ -16,6 +16,36 @@
       "website": "https://www.amazon.com",
       "start_date": "2021-09-01",
       "end_date": null
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "exchange": "NYSE",
+      "website": "https://www.goldmansachs.com",
+      "title_or_role": "Global Head of Human Capital Management",
+      "start_date": "1996",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Etsy, Inc.",
+      "ticker": "ETSY",
+      "exchange": "NASDAQ",
+      "website": "https://www.etsy.com",
+      "title_or_role": "Director",
+      "start_date": "2018-04-05",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Slack Technologies, Inc.",
+      "ticker": "WORK",
+      "exchange": "NYSE",
+      "website": "https://slack.com",
+      "title_or_role": "Director",
+      "start_date": "2018-02-15",
+      "end_date": "2021-07-21",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
   "committees": [
     "Leadership Development and Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

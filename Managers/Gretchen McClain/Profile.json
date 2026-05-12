@@ -16,6 +16,46 @@
       "website": "https://www.boozallen.com",
       "start_date": "2014-01-01",
       "end_date": null
+    },
+    {
+      "name": "AMETEK, Inc.",
+      "ticker": "AME",
+      "exchange": "NYSE",
+      "website": "https://www.ametek.com",
+      "title_or_role": "Director",
+      "start_date": "2014-09-10",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Xylem Inc.",
+      "ticker": "XYL",
+      "exchange": "NYSE",
+      "website": "https://www.xylem.com",
+      "title_or_role": "President & CEO",
+      "start_date": "2011-10-31",
+      "end_date": "2013-09-09",
+      "validated": true
+    },
+    {
+      "name": "Boart Longyear Limited",
+      "ticker": "BLY",
+      "exchange": "ASX",
+      "website": "https://www.boartlongyear.com",
+      "title_or_role": "Director",
+      "start_date": "2015-11-15",
+      "end_date": "2019-09-01",
+      "validated": true
+    },
+    {
+      "name": "Hennessy Capital Investment Corp. VI",
+      "ticker": "HCVI",
+      "exchange": "NASDAQ",
+      "website": "https://www.hennessycapllc.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +66,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

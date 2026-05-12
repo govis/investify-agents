@@ -12,10 +12,61 @@
       "name": "Iluka Resources Limited",
       "ticker": "ILU",
       "exchange": "ASX",
-      "title_or_role": "Independent Non-Executive Director",
+      "title_or_role": "Non-Executive Director",
       "website": "https://www.iluka.com",
-      "start_date": "2019-02-01",
-      "end_date": null
+      "start_date": "Feb 2014",
+      "end_date": "Aug 2024",
+      "validated": true
+    },
+    {
+      "name": "Aurizon Holdings Limited",
+      "ticker": "AZJ",
+      "exchange": "ASX",
+      "website": "https://www.aurizon.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "Nov 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Anglo American PLC",
+      "ticker": "AAL",
+      "exchange": "LSE",
+      "website": "https://www.angloamerican.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "Apr 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "IGO Limited",
+      "ticker": "IGO",
+      "exchange": "ASX",
+      "website": "https://www.igo.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "Jul 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "OZ Minerals Limited",
+      "ticker": "OZL",
+      "exchange": "ASX",
+      "website": "https://www.ozminerals.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "Sep 2018",
+      "end_date": "Apr 2019",
+      "validated": true
+    },
+    {
+      "name": "MMG Limited",
+      "ticker": "1208",
+      "exchange": "HKEX",
+      "website": "https://www.mmg.com",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2011",
+      "end_date": "2014",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +78,5 @@
     "People and Performance Committee",
     "Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

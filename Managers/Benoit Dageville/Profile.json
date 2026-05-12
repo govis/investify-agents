@@ -12,10 +12,11 @@
       "name": "Snowflake Inc.",
       "ticker": "SNOW",
       "exchange": "NYSE",
-      "title_or_role": "Director, President, Product",
+      "title_or_role": "Co-Founder, President of Product, and Director",
       "website": "https://www.snowflake.com",
-      "start_date": "2019-07-01",
-      "end_date": null
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +24,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

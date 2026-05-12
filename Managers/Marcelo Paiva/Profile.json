@@ -12,10 +12,11 @@
       "name": "Sigma Lithium Corporation",
       "ticker": "SGML",
       "exchange": "NASDAQ",
-      "title_or_role": "Co-Chairperson",
-      "website": "https://www.sigmalithiumresources.com",
-      "start_date": "2018-05-01",
-      "end_date": null
+      "title_or_role": "Co-Chairperson and Director",
+      "website": "https://sigmalithiumcorp.com",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +26,5 @@
   "committees": [
     "Investment Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

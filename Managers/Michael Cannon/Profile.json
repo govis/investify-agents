@@ -14,8 +14,69 @@
       "exchange": "NASDAQ",
       "title_or_role": "Director",
       "website": "https://www.lamresearch.com",
-      "start_date": "2011-01-01",
-      "end_date": null
+      "start_date": "February 2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Seagate Technology Holdings plc",
+      "ticker": "STX",
+      "exchange": "NASDAQ",
+      "website": "https://www.seagate.com",
+      "title_or_role": "Lead Independent Director",
+      "start_date": "Prior to 2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "website": "https://www.adobe.com",
+      "title_or_role": "Director",
+      "start_date": "Prior to 2013",
+      "end_date": "Retired from board",
+      "validated": true
+    },
+    {
+      "name": "Dialog Semiconductor plc",
+      "ticker": "DLGN",
+      "exchange": "XETRA/LSE",
+      "website": "https://www.dialog-semiconductor.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "February 2013",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Solectron Corporation",
+      "ticker": "SLR",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "CEO",
+      "start_date": "2003",
+      "end_date": "2007",
+      "validated": true
+    },
+    {
+      "name": "Maxtor Corporation",
+      "ticker": "MXTR",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "CEO",
+      "start_date": "1996",
+      "end_date": "2003",
+      "validated": true
+    },
+    {
+      "name": "Dell Technologies Inc.",
+      "ticker": "DELL",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "title_or_role": "President of Global Operations",
+      "start_date": "2007",
+      "end_date": "2009",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +87,5 @@
   "committees": [
     "Compensation and Human Resources Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

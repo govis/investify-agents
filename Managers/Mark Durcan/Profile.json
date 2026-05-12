@@ -25,6 +25,36 @@
       "website": "https://www.asml.com",
       "start_date": "2020-04-22",
       "end_date": null
+    },
+    {
+      "name": "Micron Technology, Inc.",
+      "ticker": "MU",
+      "exchange": "NASDAQ",
+      "website": "https://www.micron.com",
+      "title_or_role": "Chief Executive Officer & Director",
+      "start_date": "2012",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Cencora, Inc.",
+      "ticker": "COR",
+      "exchange": "NYSE",
+      "website": "https://www.cencora.com",
+      "title_or_role": "Director, Lead Independent Director, Chairman of the Board",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Freescale Semiconductor, Ltd.",
+      "ticker": "FSL",
+      "exchange": "NYSE",
+      "website": "https://www.nxp.com",
+      "title_or_role": "Director",
+      "start_date": "2014-08-13",
+      "end_date": "2015",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -38,6 +68,5 @@
     "Remuneration Committee",
     "Technology Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

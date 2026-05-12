@@ -16,6 +16,26 @@
       "website": "https://www.constellationenergy.com",
       "start_date": "2022-02-01",
       "end_date": null
+    },
+    {
+      "name": "Avient Corporation",
+      "ticker": "AVNT",
+      "exchange": "NYSE",
+      "website": "https://www.avient.com",
+      "title_or_role": "Chairman, President, and Chief Executive Officer",
+      "start_date": "2023-12-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "3M Company",
+      "ticker": "MMM",
+      "exchange": "NYSE",
+      "website": "https://www.3m.com",
+      "title_or_role": "Group President, Transportation and Electronics Business Group; Chief Technology Officer",
+      "start_date": "1994",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Audit Committee",
     "Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

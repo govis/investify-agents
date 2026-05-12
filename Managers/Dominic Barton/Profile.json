@@ -11,11 +11,42 @@
     {
       "name": "Rio Tinto Group",
       "ticker": "RIO",
-      "exchange": "NYSE",
+      "exchange": "NYSE / ASX / LSE",
       "title_or_role": "Chairman",
       "website": "https://www.riotinto.com",
       "start_date": "2022-05-05",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Teck Resources Limited",
+      "ticker": "TECK",
+      "exchange": "TSX / NYSE",
+      "website": "https://www.teck.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2018-10-01",
+      "end_date": "2019-09-04",
+      "validated": true
+    },
+    {
+      "name": "Singapore Telecommunications Limited (Singtel)",
+      "ticker": "Z74",
+      "exchange": "SGX",
+      "website": "https://www.singtel.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2019-03-25",
+      "end_date": "2022-03-31",
+      "validated": true
+    },
+    {
+      "name": "Investor AB",
+      "ticker": "INVE-B",
+      "exchange": "STO",
+      "website": "https://www.investorab.com",
+      "title_or_role": "Director",
+      "start_date": "2019-05-07",
+      "end_date": "2019-11-14",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +56,5 @@
   "committees": [
     "Nominations Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

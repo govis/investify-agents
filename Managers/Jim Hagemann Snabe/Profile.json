@@ -10,12 +10,43 @@
   "company_affiliations": [
     {
       "name": "Siemens Aktiengesellschaft",
-      "ticker": "SIEGY",
-      "exchange": "OTC",
-      "title_or_role": "Chairman of the Supervisory Board, Member of the Supervisory Board",
+      "ticker": "SIE",
+      "exchange": "Xetra",
+      "title_or_role": "Chairman of the Supervisory Board",
       "website": "https://www.siemens.com",
-      "start_date": "2018-02-01",
-      "end_date": null
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SAP SE",
+      "ticker": "SAP",
+      "exchange": "NYSE",
+      "website": "https://www.sap.com",
+      "title_or_role": "Co-CEO",
+      "start_date": "2010",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "C3.ai, Inc.",
+      "ticker": "AI",
+      "exchange": "NYSE",
+      "website": "https://c3.ai",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2021-03-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bloom Energy Corporation",
+      "ticker": "BE",
+      "exchange": "NYSE",
+      "website": "https://www.bloomenergy.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2025-08-06",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +58,5 @@
     "Innovation and Finance Committee",
     "Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

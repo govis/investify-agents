@@ -13,9 +13,30 @@
       "ticker": "VGCX",
       "exchange": "TSX",
       "title_or_role": "Chief Financial Officer",
-      "website": "https://vgcx.com",
-      "start_date": "2011-01-01",
-      "end_date": null
+      "website": "https://www.vitgoldcorp.com",
+      "start_date": "2007",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Electra Battery Materials Corp.",
+      "ticker": "ELBM",
+      "exchange": "TSX-V",
+      "website": "https://electrabmc.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2024",
+      "end_date": "February 28, 2026",
+      "validated": true
+    },
+    {
+      "name": "Troilus Mining Corp.",
+      "ticker": "TLG",
+      "exchange": "TSX",
+      "website": "https://www.troilusmining.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "March 1, 2026",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

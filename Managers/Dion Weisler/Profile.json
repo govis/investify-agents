@@ -13,9 +13,50 @@
       "ticker": "INTC",
       "exchange": "NASDAQ",
       "title_or_role": "Independent Director",
-      "website": "https://www.intel.com",
-      "start_date": "2020-06-01",
-      "end_date": null
+      "website": "intel.com",
+      "start_date": "June 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Thermo Fisher Scientific Inc.",
+      "ticker": "TMO",
+      "exchange": "NYSE",
+      "website": "thermofisher.com",
+      "title_or_role": "Independent Director",
+      "start_date": "March 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX / NYSE",
+      "website": "bhp.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Qantas Airways Limited",
+      "ticker": "QAN",
+      "exchange": "ASX",
+      "website": "qantas.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "March 2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "HP Inc.",
+      "ticker": "HPQ",
+      "exchange": "NYSE",
+      "website": "hp.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2015",
+      "end_date": "May 2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +67,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

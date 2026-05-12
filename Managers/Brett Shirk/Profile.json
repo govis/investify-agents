@@ -14,8 +14,39 @@
       "exchange": "NYSE",
       "title_or_role": "Chief Revenue Officer",
       "website": "https://www.fastly.com",
-      "start_date": "2020-02-01",
-      "end_date": null
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CrowdStrike Holdings, Inc.",
+      "ticker": "CRWD",
+      "exchange": "NASDAQ",
+      "website": "https://www.crowdstrike.com",
+      "title_or_role": "Chief Sales Officer",
+      "start_date": "2023",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Gen Digital Inc.",
+      "ticker": "GEN",
+      "exchange": "NASDAQ",
+      "website": "https://www.gendigital.com",
+      "title_or_role": "Executive Vice President-Worldwide Sales",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "VMware, Inc.",
+      "ticker": "VMW",
+      "exchange": "NYSE",
+      "website": "https://www.vmware.com",
+      "title_or_role": "Senior Vice President & General Manager",
+      "start_date": "2016",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +54,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

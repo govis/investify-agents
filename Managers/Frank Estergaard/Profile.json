@@ -13,9 +13,30 @@
       "ticker": "FCU",
       "exchange": "TSX",
       "title_or_role": "Independent Director",
-      "website": "https://fissionuranium.com",
-      "start_date": "2013-02-13",
-      "end_date": null
+      "website": "https://fissionuranium.com/",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "F3 Uranium Corp. (formerly Fission 3.0 Corp.)",
+      "ticker": "FUU",
+      "exchange": "TSXV",
+      "website": "https://f3uranium.com/",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nickel 28 Capital Corp. (formerly Cobalt 27 Capital Corp.)",
+      "ticker": "NKL",
+      "exchange": "TSXV",
+      "website": "https://www.nickel28.com/",
+      "title_or_role": "Director and Chair of the Audit Committee",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

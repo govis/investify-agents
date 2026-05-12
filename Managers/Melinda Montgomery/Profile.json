@@ -11,11 +11,12 @@
     {
       "name": "Fortune Bay Corp.",
       "ticker": "FOR",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://fortunebaycorp.com",
-      "start_date": "2020-06-25",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://www.fortunebaycorp.com/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +28,5 @@
     "Compensation Committee (Chair)",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

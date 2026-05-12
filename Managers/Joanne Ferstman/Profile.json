@@ -11,11 +11,62 @@
     {
       "name": "Osisko Gold Royalties Ltd",
       "ticker": "OR",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://osiskogr.com",
-      "start_date": "2014-06-01",
-      "end_date": null
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://www.osiskogr.com/",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Dundee Corporation",
+      "ticker": "DC.A",
+      "exchange": "TSX",
+      "website": "https://www.dundeecorporation.com/",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "1997",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "DundeeWealth Inc.",
+      "ticker": "DW",
+      "exchange": "TSX",
+      "website": "https://www.scotiabank.com/",
+      "title_or_role": "Senior Executive / Financial Leadership",
+      "start_date": "1986",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Dundee Capital Markets Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://8capital.com/",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2009",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Aimia Inc.",
+      "ticker": "AIM",
+      "exchange": "TSX",
+      "website": "https://corp.aimia.com/",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Excellon Resources Inc.",
+      "ticker": "EXN",
+      "exchange": "TSX",
+      "website": "https://www.excellonresources.com/",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2015",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +77,5 @@
     "Audit Committee",
     "Governance and Nomination Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

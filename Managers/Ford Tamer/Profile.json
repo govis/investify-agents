@@ -16,6 +16,36 @@
       "website": "https://www.marvell.com",
       "start_date": "2021-04-01",
       "end_date": null
+    },
+    {
+      "name": "Lattice Semiconductor Corporation",
+      "ticker": "LSCC",
+      "exchange": "NASDAQ",
+      "website": "https://www.latticesemi.com",
+      "title_or_role": "Chief Executive Officer & Director",
+      "start_date": "September 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Teradyne, Inc.",
+      "ticker": "TER",
+      "exchange": "NASDAQ",
+      "website": "https://www.teradyne.com",
+      "title_or_role": "Director",
+      "start_date": "November 2021",
+      "end_date": "May 2025",
+      "validated": true
+    },
+    {
+      "name": "Inphi Corporation",
+      "ticker": "IPHI",
+      "exchange": "NYSE",
+      "website": "https://www.inphi.com",
+      "title_or_role": "President, Chief Executive Officer & Director",
+      "start_date": "February 2012",
+      "end_date": "April 2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +55,5 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

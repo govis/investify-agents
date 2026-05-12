@@ -13,9 +13,30 @@
       "ticker": "BLNK",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
-      "website": "https://www.blinkcharging.com",
-      "start_date": "2022",
-      "end_date": null
+      "website": "https://blinkcharging.com",
+      "start_date": "April 21, 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Invinity Energy Systems plc",
+      "ticker": "IES",
+      "exchange": "LSE (AIM)",
+      "website": "https://invinity.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "November 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Electriq Power Holdings, Inc.",
+      "ticker": "ELIQ",
+      "exchange": "OTC",
+      "website": "https://electriqpower.com",
+      "title_or_role": "Independent Director",
+      "start_date": "August 25, 2023",
+      "end_date": "May 3, 2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Audit Committee",
     "Compensation Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

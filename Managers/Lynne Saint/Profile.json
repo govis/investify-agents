@@ -16,6 +16,26 @@
       "website": "https://www.iluka.com",
       "start_date": "2019-10-01",
       "end_date": null
+    },
+    {
+      "name": "Nufarm Limited",
+      "ticker": "NUF",
+      "exchange": "ASX",
+      "website": "https://nufarm.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2020-12-18",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ventia Services Group Limited",
+      "ticker": "VNT",
+      "exchange": "ASX",
+      "website": "https://www.ventia.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2021-10-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Audit and Risk Committee (Chair)",
     "Nominations Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

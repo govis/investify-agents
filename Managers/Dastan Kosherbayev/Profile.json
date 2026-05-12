@@ -12,10 +12,11 @@
       "name": "National Atomic Company Kazatomprom JSC",
       "ticker": "KAP",
       "exchange": "LSE",
-      "title_or_role": "Chief Strategy and Development Officer",
+      "title_or_role": "Chief Commercial Officer",
       "website": "https://www.kazatomprom.kz",
-      "start_date": "2023-06-23",
-      "end_date": null
+      "start_date": "2021-01-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +24,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

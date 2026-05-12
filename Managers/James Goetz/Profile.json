@@ -12,19 +12,31 @@
       "name": "Intel Corporation",
       "ticker": "INTC",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.intel.com",
-      "start_date": "2019-11-01",
-      "end_date": null
+      "start_date": "November 2019",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Palo Alto Networks, Inc.",
       "ticker": "PANW",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.paloaltonetworks.com",
-      "start_date": "2005-04-01",
-      "end_date": null
+      "start_date": "April 2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bay Networks, Inc.",
+      "ticker": "BAY",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Vice President of Network Management",
+      "start_date": null,
+      "end_date": "1996",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -37,6 +49,5 @@
     "Governance and Nominating Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

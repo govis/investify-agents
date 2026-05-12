@@ -12,10 +12,31 @@
       "name": "Cloudflare, Inc.",
       "ticker": "NET",
       "exchange": "NYSE",
-      "title_or_role": "Director",
+      "title_or_role": "President of Revenue",
       "website": "https://www.cloudflare.com",
-      "start_date": "2020-08-01",
-      "end_date": null
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Palo Alto Networks, Inc.",
+      "ticker": "PANW",
+      "exchange": "NASDAQ",
+      "website": "https://www.paloaltonetworks.com",
+      "title_or_role": "President",
+      "start_date": "2016",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "F5, Inc.",
+      "ticker": "FFIV",
+      "exchange": "NASDAQ",
+      "website": "https://www.f5.com",
+      "title_or_role": "Executive Vice President, Worldwide Sales",
+      "start_date": "2007",
+      "end_date": "2012",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +46,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

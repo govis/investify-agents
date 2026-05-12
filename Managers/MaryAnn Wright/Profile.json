@@ -12,10 +12,41 @@
       "name": "Solid Power, Inc.",
       "ticker": "SLDP",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.solidpowerbattery.com",
-      "start_date": "2021-12-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.solidpowerbattery.com/",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Brunswick Corporation",
+      "ticker": "BC",
+      "exchange": "NYSE",
+      "website": "https://www.brunswick.com/",
+      "title_or_role": "Director",
+      "start_date": "June 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Micron Technology, Inc.",
+      "ticker": "MU",
+      "exchange": "NASDAQ",
+      "website": "https://www.micron.com/",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "IDACORP, Inc.",
+      "ticker": "IDA",
+      "exchange": "NYSE",
+      "website": "https://www.idacorpinc.com/",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

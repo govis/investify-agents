@@ -5,8 +5,8 @@
   "age": null,
   "age_year": null,
   "background": "Mr Graziano is a qualified Chartered Accountant with over 30 years of experience in corporate advisory and financial management. He has served as a director and company secretary for several ASX-listed companies.",
-  "picture_url": null,
-  "picture_local": null,
+  "picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQEphW1w0rznlA/profile-displayphoto-scale_200_200/B4EZpTcYuGHgAc-/0/1762336542133?e=2147483647&v=beta&t=V7YZU0kM1JZyRH9U8Vwqta6HfMZoreCgC96K59nI-IE",
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Atomic Eagle Limited",
@@ -16,6 +16,36 @@
       "website": "https://atomiceagle.com.au",
       "start_date": "2024-05-24",
       "end_date": null
+    },
+    {
+      "name": "PVW Resources Limited",
+      "ticker": "PVW",
+      "exchange": "ASX",
+      "website": "https://pvwresources.com.au/",
+      "title_or_role": "Chief Financial Officer, Company Secretary, Non-Executive Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Thunderbird Resources Limited",
+      "ticker": "THB",
+      "exchange": "ASX",
+      "website": "https://thunderbirdresources.com/",
+      "title_or_role": "Company Secretary",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Thred Limited (now known as 8common Limited)",
+      "ticker": "8CO",
+      "exchange": "ASX",
+      "website": "https://www.8common.com/",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -29,6 +59,5 @@
     }
   ],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

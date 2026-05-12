@@ -16,6 +16,26 @@
       "website": "https://osiskogr.com",
       "start_date": "2014-06-01",
       "end_date": null
+    },
+    {
+      "name": "Vior Gold Corporation Inc.",
+      "ticker": "VIO",
+      "exchange": "TSXV",
+      "website": "https://www.vior.ca/",
+      "title_or_role": "Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Brunswick Exploration Inc.",
+      "ticker": "BRW",
+      "exchange": "TSXV",
+      "website": "https://www.brunswickexploration.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +43,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

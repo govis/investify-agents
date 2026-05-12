@@ -25,6 +25,16 @@
       "website": "https://www.globalxetfs.com/funds/ura/",
       "start_date": "2008-01-01",
       "end_date": null
+    },
+    {
+      "name": "UnitedHealth Group Incorporated",
+      "ticker": "UNH",
+      "exchange": "NYSE",
+      "website": "https://www.unitedhealthgroup.com",
+      "title_or_role": "Director (Member of the Board of Directors)",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +46,5 @@
     "Audit Committee",
     "Nominating and Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

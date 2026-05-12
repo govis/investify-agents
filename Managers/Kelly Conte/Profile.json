@@ -16,6 +16,16 @@
       "website": "https://www.arista.com",
       "start_date": "2022-03-01",
       "end_date": null
+    },
+    {
+      "name": "Aspen Aerogels, Inc.",
+      "ticker": "ASPN",
+      "exchange": "NYSE",
+      "website": "https://www.aerogel.com/",
+      "title_or_role": "Senior Vice President, Human Resources",
+      "start_date": "2018",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +35,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

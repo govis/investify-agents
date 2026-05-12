@@ -25,6 +25,56 @@
       "website": "https://www.bhp.com",
       "start_date": "2020-10-12",
       "end_date": null
+    },
+    {
+      "name": "Australia and New Zealand Banking Group Limited",
+      "ticker": "ANZ",
+      "exchange": "ASX",
+      "website": "https://www.anz.com",
+      "title_or_role": "Non-executive Director",
+      "start_date": "November 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Stockland Limited",
+      "ticker": "SGP",
+      "exchange": "ASX",
+      "website": "https://www.stockland.com.au",
+      "title_or_role": "Non-executive Director",
+      "start_date": "August 2018",
+      "end_date": "October 2024",
+      "validated": true
+    },
+    {
+      "name": "Medibank Private Limited",
+      "ticker": "MPL",
+      "exchange": "ASX",
+      "website": "https://www.medibank.com.au",
+      "title_or_role": "Non-executive Director",
+      "start_date": "March 2014",
+      "end_date": "November 2021",
+      "validated": true
+    },
+    {
+      "name": "Transurban Group",
+      "ticker": "TCL",
+      "exchange": "ASX",
+      "website": "https://www.transurban.com",
+      "title_or_role": "Non-executive Director",
+      "start_date": "April 2012",
+      "end_date": "October 2020",
+      "validated": true
+    },
+    {
+      "name": "CSL Limited",
+      "ticker": "CSL",
+      "exchange": "ASX",
+      "website": "https://www.csl.com",
+      "title_or_role": "Non-executive Director",
+      "start_date": "February 2011",
+      "end_date": "October 2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +86,5 @@
     "Remuneration Committee (Chair)",
     "Risk and Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

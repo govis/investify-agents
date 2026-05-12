@@ -12,10 +12,31 @@
       "name": "Gold Fields Limited",
       "ticker": "GFI",
       "exchange": "NYSE",
-      "title_or_role": "Independent Non-Executive Director",
-      "website": "https://www.goldfields.com",
-      "start_date": "2009-03-10",
-      "end_date": null
+      "title_or_role": "Director / Chair",
+      "website": "goldfields.com",
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Investec PLC",
+      "ticker": "INVP / ITCFY",
+      "exchange": "LSE / OTC",
+      "website": "investec.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "validated": true
+    },
+    {
+      "name": "Grindrod Limited",
+      "ticker": "GND",
+      "exchange": "JSE",
+      "website": "grindrod.com",
+      "title_or_role": "Chair of the Board",
+      "start_date": "2022",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Nominating and Governance Committee",
     "Social, Ethics and Transformation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,31 @@
       "name": "Salesforce, Inc.",
       "ticker": "CRM",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.salesforce.com",
-      "start_date": "2013-09-01",
-      "end_date": null
+      "start_date": "September 2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rakuten Group, Inc.",
+      "ticker": "4755",
+      "exchange": "TYO",
+      "website": "https://global.rakuten.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sony Group Corporation",
+      "ticker": "SONY",
+      "exchange": "NYSE",
+      "website": "https://www.sony.com",
+      "title_or_role": "Director",
+      "start_date": "June 2014",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +46,5 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -13,9 +13,20 @@
       "ticker": "LOT",
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
-      "website": "https://lotusresources.com.au/",
-      "start_date": "2022-04-01",
-      "end_date": null
+      "website": "https://lotusresources.com.au",
+      "start_date": "2021-08-02",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Frontier Energy Limited",
+      "ticker": "FHE",
+      "exchange": "ASX",
+      "website": "https://frontierenergy.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021-12-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +36,5 @@
   "committees": [
     "Remuneration and Nomination Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

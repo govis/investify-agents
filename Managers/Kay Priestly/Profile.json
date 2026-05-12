@@ -16,6 +16,46 @@
       "website": "https://www.ssrmining.com",
       "start_date": "2020-09-16",
       "end_date": null
+    },
+    {
+      "name": "TechnipFMC plc",
+      "ticker": "FTI",
+      "exchange": "NYSE",
+      "website": "https://www.technipfmc.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Turquoise Hill Resources Ltd.",
+      "ticker": "TRQ",
+      "exchange": "NYSE",
+      "website": "https://www.turquoisehill.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2012-05",
+      "end_date": "2014-12",
+      "validated": true
+    },
+    {
+      "name": "New Gold Inc.",
+      "ticker": "NGD",
+      "exchange": "TSX",
+      "website": "https://www.newgold.com",
+      "title_or_role": "Director",
+      "start_date": "2015-07",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Alacer Gold Corp.",
+      "ticker": "ASR",
+      "exchange": "TSX",
+      "website": "https://www.alacergold.com",
+      "title_or_role": "Director",
+      "start_date": "2019-08",
+      "end_date": "2020-09",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +66,5 @@
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

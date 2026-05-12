@@ -12,10 +12,21 @@
       "name": "The Southern Company",
       "ticker": "SO",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Independent Director (Board of Directors)",
       "website": "https://www.southerncompany.com",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Akamai Technologies, Inc.",
+      "ticker": "AKAM",
+      "exchange": "NASDAQ",
+      "website": "https://www.akamai.com",
+      "title_or_role": "Director (Board of Directors)",
+      "start_date": "July 2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Audit",
     "Operations, Environmental and Safety"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

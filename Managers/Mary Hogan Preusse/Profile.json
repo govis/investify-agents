@@ -12,10 +12,41 @@
       "name": "Digital Realty Trust, Inc.",
       "ticker": "DLR",
       "exchange": "NYSE",
-      "title_or_role": "Chairman, Director",
+      "title_or_role": "Director (Chair)",
       "website": "https://www.digitalrealty.com",
-      "start_date": "2022-08-01",
-      "end_date": null
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kimco Realty Corporation",
+      "ticker": "KIM",
+      "exchange": "NYSE",
+      "website": "https://www.kimcorealty.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Realty Income Corporation",
+      "ticker": "O",
+      "exchange": "NYSE",
+      "website": "https://www.realtyincome.com",
+      "title_or_role": "Director",
+      "start_date": "2021-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Host Hotels & Resorts, Inc.",
+      "ticker": "HST",
+      "exchange": "NASDAQ",
+      "website": "https://www.hosthotels.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +56,5 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

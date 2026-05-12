@@ -34,6 +34,26 @@
       "website": "https://oceanagold.com",
       "start_date": "2019-08-01",
       "end_date": null
+    },
+    {
+      "name": "Corvus Gold Inc.",
+      "ticker": "KOR",
+      "exchange": "NASDAQ",
+      "website": "https://corvusgold.com/",
+      "title_or_role": "Director / Chair of the Board",
+      "start_date": "2013",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Azul Ventures Inc.",
+      "ticker": "AZL",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -48,6 +68,5 @@
     "Governance and Nomination Committee",
     "Nominating, Corporate Governance and Risk Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

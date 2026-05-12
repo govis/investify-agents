@@ -13,9 +13,50 @@
       "ticker": "CHPT",
       "exchange": "NYSE",
       "title_or_role": "Chief Accounting Officer",
-      "website": "https://www.chargepoint.com",
-      "start_date": "2022-05-01",
-      "end_date": null
+      "website": "chargepoint.com",
+      "start_date": "2020",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "8x8, Inc.",
+      "ticker": "EGHT",
+      "exchange": "NASDAQ",
+      "website": "8x8.com",
+      "title_or_role": "Chief Accounting Officer",
+      "start_date": "2017",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Rocket Fuel, Inc.",
+      "ticker": "FUEL",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Chief Accounting Officer & Treasurer",
+      "start_date": "2016",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "QuinStreet, Inc.",
+      "ticker": "QNST",
+      "exchange": "NASDAQ",
+      "website": "quinstreet.com",
+      "title_or_role": "Reporting Manager",
+      "start_date": "2010",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "TIBCO Software, Inc.",
+      "ticker": "TIBX",
+      "exchange": "NASDAQ",
+      "website": "tibco.com",
+      "title_or_role": "Finance Director",
+      "start_date": "2011",
+      "end_date": "2014",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +64,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

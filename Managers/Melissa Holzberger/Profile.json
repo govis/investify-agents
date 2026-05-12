@@ -13,9 +13,50 @@
       "ticker": "PDN",
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
-      "website": "https://www.paladinenergy.com.au",
-      "start_date": "2021-12-15",
-      "end_date": null
+      "website": "paladinenergy.com.au",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Karoon Energy Ltd",
+      "ticker": "KAR",
+      "exchange": "ASX",
+      "website": "karoonenergy.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2024-04-19",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Andromeda Metals Ltd",
+      "ticker": "ADN",
+      "exchange": "ASX",
+      "website": "andromedametals.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Silex Systems Ltd",
+      "ticker": "SLX",
+      "exchange": "ASX",
+      "website": "silex.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "Unknown",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Argo Investments Ltd",
+      "ticker": "ARG",
+      "exchange": "ASX",
+      "website": "argoinvestments.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +67,5 @@
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

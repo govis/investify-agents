@@ -16,6 +16,16 @@
       "website": "https://www.evgo.com",
       "start_date": "2021-07-01",
       "end_date": null
+    },
+    {
+      "name": "Metropolitan Bank Holding Corp.",
+      "ticker": "MCB",
+      "exchange": "NYSE",
+      "website": "https://www.mcbankny.com",
+      "title_or_role": "Independent Director",
+      "start_date": "May 2016",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +35,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,21 @@
       "name": "Arista Networks, Inc.",
       "ticker": "ANET",
       "exchange": "NYSE",
-      "title_or_role": "Chief Architect, Director",
-      "website": "https://www.arista.com",
-      "start_date": "2008-10-01",
-      "end_date": null
+      "title_or_role": "Founder, Chairman, Chief Development Officer",
+      "website": "www.arista.com",
+      "start_date": "2004",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Sun Microsystems, Inc.",
+      "ticker": "SUNW (Delisted)",
+      "exchange": "NASDAQ (Historical)",
+      "website": "N/A",
+      "title_or_role": "Co-Founder, Vice President",
+      "start_date": "1982",
+      "end_date": "1995",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

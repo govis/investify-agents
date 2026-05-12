@@ -10,12 +10,23 @@
   "company_affiliations": [
     {
       "name": "Aura Minerals Inc.",
-      "ticker": "AUGO",
+      "ticker": "ORA",
       "exchange": "TSX",
-      "title_or_role": "Director",
-      "website": "https://auraminerals.com/",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "title_or_role": "Member of the Board of Directors",
+      "website": "https://www.auraminerals.com/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hidrovias do Brasil S.A.",
+      "ticker": "HBSA3",
+      "exchange": "B3",
+      "website": "https://ri.hbsa.com.br/",
+      "title_or_role": "Former Executive",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +36,5 @@
   "committees": [
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

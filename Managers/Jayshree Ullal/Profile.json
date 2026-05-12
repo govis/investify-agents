@@ -12,19 +12,31 @@
       "name": "Arista Networks, Inc.",
       "ticker": "ANET",
       "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
+      "title_or_role": "President and CEO",
       "website": "https://www.arista.com",
-      "start_date": "2008-10-01",
-      "end_date": null
+      "start_date": "2008",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Snowflake Inc.",
       "ticker": "SNOW",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.snowflake.com",
-      "start_date": "2020-06-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "title_or_role": "Senior Vice President, Data Center, Switching and Security",
+      "start_date": "1993",
+      "end_date": "2008",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -34,6 +46,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

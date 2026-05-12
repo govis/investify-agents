@@ -12,10 +12,21 @@
       "name": "Rockwell Automation, Inc.",
       "ticker": "ROK",
       "exchange": "NYSE",
-      "title_or_role": "Senior Vice President and Chief Technology Officer",
+      "title_or_role": "Senior Vice President & Chief Technology Officer",
       "website": "https://www.rockwellautomation.com",
-      "start_date": "2021-07-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Schneider Electric SE",
+      "ticker": "SU",
+      "exchange": "Euronext Paris",
+      "website": "https://www.se.com",
+      "title_or_role": "Executive Vice President, IoT and Digital Offers",
+      "start_date": "1996",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -14,8 +14,39 @@
       "exchange": "ASX",
       "title_or_role": "Managing Director and Chief Executive Officer",
       "website": "https://www.bellevuegold.com.au",
-      "start_date": "2023-03-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Develop Global Limited",
+      "ticker": "DVP",
+      "exchange": "ASX",
+      "website": "https://www.develop.com.au",
+      "title_or_role": "Non-Independent Non-Executive Director",
+      "start_date": "2015",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Northern Star Resources Limited",
+      "ticker": "NST",
+      "exchange": "ASX",
+      "website": "https://www.nsrltd.com",
+      "title_or_role": "General Manager-Operations / Head of Operations / Head of Business Development",
+      "start_date": "2011",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "AIC Mines Limited",
+      "ticker": "A1M",
+      "exchange": "ASX",
+      "website": "https://www.aicmines.com.au",
+      "title_or_role": "Mining Manager",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +54,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

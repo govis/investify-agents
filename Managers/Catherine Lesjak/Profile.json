@@ -12,10 +12,31 @@
       "name": "General Electric Company",
       "ticker": "GE",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.geaerospace.com",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "title_or_role": "Member of the Board of Directors",
+      "website": "www.ge.com",
+      "start_date": "March 1, 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hewlett-Packard Company (now HP Inc.)",
+      "ticker": "HPQ",
+      "exchange": "NYSE",
+      "website": "www.hp.com",
+      "title_or_role": "Interim Chief Operating Officer (COO)",
+      "start_date": "July 1, 2018",
+      "end_date": "January 1, 2019",
+      "validated": true
+    },
+    {
+      "name": "SunPower Corporation",
+      "ticker": "SPWR",
+      "exchange": "NASDAQ",
+      "website": "www.sunpower.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "June 6, 2013",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +48,5 @@
     "Audit Committee",
     "Finance and Capital Allocation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

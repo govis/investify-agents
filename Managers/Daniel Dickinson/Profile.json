@@ -12,10 +12,31 @@
       "name": "Caterpillar Inc.",
       "ticker": "CAT",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.caterpillar.com",
-      "start_date": "2006-01-01",
-      "end_date": null
+      "start_date": "2006",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "MISTRAS Group, Inc.",
+      "ticker": "MG",
+      "exchange": "NYSE",
+      "website": "https://www.mistrasgroup.com",
+      "title_or_role": "Director",
+      "start_date": "Not specified",
+      "end_date": "Within the last five years",
+      "validated": true
+    },
+    {
+      "name": "TTM Technologies, Inc.",
+      "ticker": "TTMI",
+      "exchange": "NASDAQ",
+      "website": "https://www.ttm.com",
+      "title_or_role": "Director",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Audit Committee",
     "Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

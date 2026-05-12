@@ -13,9 +13,20 @@
       "ticker": "PDN",
       "exchange": "ASX",
       "title_or_role": "Chief Executive Officer",
-      "website": "https://www.paladinenergy.com.au",
-      "start_date": "2020-02-04",
-      "end_date": null
+      "website": "https://www.paladinenergy.com.au/",
+      "start_date": "February 2020",
+      "end_date": "September 2024",
+      "validated": true
+    },
+    {
+      "name": "Mirabela Nickel Ltd",
+      "ticker": "MBN",
+      "exchange": "ASX",
+      "website": "N/A",
+      "title_or_role": "Chief Executive Officer, Managing Director",
+      "start_date": "2011",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

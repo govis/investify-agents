@@ -13,9 +13,20 @@
       "ticker": "ARA",
       "exchange": "TSX",
       "title_or_role": "Chief Financial Officer",
-      "website": "https://www.aclara.com",
-      "start_date": "2021-10-01",
-      "end_date": null
+      "website": "https://aclara-re.com/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hochschild Mining PLC",
+      "ticker": "HOC",
+      "exchange": "LSE",
+      "website": "https://www.hochschildmining.com/",
+      "title_or_role": "Various Financial Positions (Corporate Finance, IR, Business Development)",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

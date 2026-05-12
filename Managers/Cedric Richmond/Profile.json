@@ -12,10 +12,11 @@
       "name": "Blink Charging Co.",
       "ticker": "BLNK",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "website": "https://www.blinkcharging.com",
-      "start_date": "2023",
-      "end_date": null
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://blinkcharging.com",
+      "start_date": "August 31, 2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +26,5 @@
   "committees": [
     "Nominating and Corporate Governance Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

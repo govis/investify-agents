@@ -16,6 +16,66 @@
       "website": "https://aecom.com",
       "start_date": "2017-01-01",
       "end_date": null
+    },
+    {
+      "name": "Compass Minerals International, Inc.",
+      "ticker": "CMP",
+      "exchange": "NYSE",
+      "website": "https://www.compassminerals.com/",
+      "title_or_role": "Director",
+      "start_date": "2003",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "IDEX Corporation",
+      "ticker": "IEX",
+      "exchange": "NYSE",
+      "website": "https://idexcorp.com/",
+      "title_or_role": "Director",
+      "start_date": "2001",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Hennessy Capital Acquisition Corp.",
+      "ticker": "HCAC",
+      "exchange": "NASDAQ",
+      "website": "https://www.hennessycapllc.com/",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Hennessy Capital Acquisition Corp. II",
+      "ticker": "HCACU",
+      "exchange": "NASDAQ",
+      "website": "https://www.hennessycapllc.com/",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Hennessy Capital Acquisition Corp. III",
+      "ticker": "HCAC",
+      "exchange": "NASDAQ",
+      "website": "https://www.hennessycapllc.com/",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "MPM Holdings, Inc.",
+      "ticker": "MPM",
+      "exchange": "OTC",
+      "website": "https://www.momentive.com/",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2014",
+      "end_date": "2018",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +85,5 @@
   "committees": [
     "Audit Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

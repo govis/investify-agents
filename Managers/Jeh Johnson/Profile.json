@@ -12,10 +12,41 @@
       "name": "Lockheed Martin Corporation",
       "ticker": "LMT",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.lockheedmartin.com",
       "start_date": "2018-01-01",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "MetLife, Inc.",
+      "ticker": "MET",
+      "exchange": "NYSE",
+      "website": "https://www.metlife.com",
+      "title_or_role": "Director",
+      "start_date": "2023-03-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "United States Steel Corporation",
+      "ticker": "X",
+      "exchange": "NYSE",
+      "website": "https://www.ussteel.com",
+      "title_or_role": "Director",
+      "start_date": "2020-04-28",
+      "end_date": "2025-01-07",
+      "validated": true
+    },
+    {
+      "name": "PG&E Corporation",
+      "ticker": "PCG",
+      "exchange": "NYSE",
+      "website": "https://www.pgecorp.com",
+      "title_or_role": "Director",
+      "start_date": "2017-05-31",
+      "end_date": "2018-03-01",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Classified Business and Security Committee",
     "Ethics and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

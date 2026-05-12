@@ -16,6 +16,16 @@
       "website": "https://baselode.com",
       "start_date": "2021-05-12",
       "end_date": null
+    },
+    {
+      "name": "Baselode Energy Corp. (rebranded to Geiger Energy Corporation)",
+      "ticker": "TSXV: FIND / OTCQB: BSENF",
+      "exchange": "TSX Venture Exchange (TSXV) / OTCQB",
+      "website": "https://baselode.com/",
+      "title_or_role": "Not publicly specified",
+      "start_date": "Unknown",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +35,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

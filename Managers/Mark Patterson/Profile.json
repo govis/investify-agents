@@ -16,6 +16,36 @@
       "website": "https://www.digitalrealty.com",
       "start_date": "2016-01-01",
       "end_date": null
+    },
+    {
+      "name": "Americold Realty Trust, Inc.",
+      "ticker": "COLD",
+      "exchange": "NYSE",
+      "website": "https://www.americold.com",
+      "title_or_role": "Director (Chair of the Board)",
+      "start_date": "March 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "UDR, Inc.",
+      "ticker": "UDR",
+      "exchange": "NYSE",
+      "website": "https://www.udr.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Paramount Group, Inc.",
+      "ticker": "PGRE",
+      "exchange": "NYSE",
+      "website": "https://www.pgre.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +55,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,36 @@
       "website": "https://www.purestorage.com",
       "start_date": "2009",
       "end_date": null
+    },
+    {
+      "name": "Snowflake, Inc.",
+      "ticker": "SNOW",
+      "exchange": "NYSE",
+      "website": "https://www.snowflake.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Workday, Inc.",
+      "ticker": "WDAY",
+      "exchange": "NASDAQ",
+      "website": "https://www.workday.com",
+      "title_or_role": "Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sumo Logic, Inc.",
+      "ticker": "SUMO",
+      "exchange": "NASDAQ",
+      "website": "https://www.sumologic.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +55,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -13,9 +13,20 @@
       "ticker": "NVDA",
       "exchange": "NASDAQ",
       "title_or_role": "Executive Vice President, Worldwide Field Operations",
-      "website": "https://www.nvidia.com",
-      "start_date": "2005-01-01",
-      "end_date": null
+      "website": "nvidia.com",
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sun Microsystems, Inc.",
+      "ticker": "SUNW",
+      "exchange": "NASDAQ",
+      "website": "sun.com",
+      "title_or_role": "President, Nihon Sun Microsystems KK",
+      "start_date": "1983",
+      "end_date": "2005",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +36,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

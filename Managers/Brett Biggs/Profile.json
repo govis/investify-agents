@@ -16,6 +16,46 @@
       "website": "https://www.adobe.com",
       "start_date": "2022-09-01",
       "end_date": null
+    },
+    {
+      "name": "Walmart Inc.",
+      "ticker": "WMT",
+      "exchange": "NYSE",
+      "website": "https://www.walmart.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2000",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "The Procter & Gamble Company",
+      "ticker": "PG",
+      "exchange": "NYSE",
+      "website": "https://www.pg.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "J.B. Hunt Transport Services, Inc.",
+      "ticker": "JBHT",
+      "exchange": "NASDAQ",
+      "website": "https://www.jbhunt.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Yum! Brands, Inc.",
+      "ticker": "YUM",
+      "exchange": "NYSE",
+      "website": "https://www.yum.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +65,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

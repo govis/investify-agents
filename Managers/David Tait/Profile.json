@@ -11,11 +11,32 @@
     {
       "name": "SPDR Gold Trust",
       "ticker": "GLD",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
+      "exchange": "NYSE Arca",
+      "title_or_role": "Director (Board of Directors of the Sponsor, World Gold Trust Services, LLC)",
       "website": "https://www.spdrgoldshares.com",
-      "start_date": "2018-11-01",
-      "end_date": null
+      "start_date": "2019-02-25",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "ticker": "CS",
+      "exchange": "NYSE / SIX Swiss Exchange",
+      "website": "https://www.credit-suisse.com",
+      "title_or_role": "Global Head of Fixed Income Macro Products / Head of Global Foreign Exchange and Short-Term Interest Rate Trading",
+      "start_date": "2013-09-01",
+      "end_date": "2018-01-01",
+      "validated": true
+    },
+    {
+      "name": "UBS Group AG",
+      "ticker": "UBS",
+      "exchange": "NYSE / SIX Swiss Exchange",
+      "website": "https://www.ubs.com",
+      "title_or_role": "Senior Trading Role",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

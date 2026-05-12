@@ -25,6 +25,36 @@
       "website": "https://www.ford.com",
       "start_date": "2020-10-01",
       "end_date": null
+    },
+    {
+      "name": "Huntsman Corporation",
+      "ticker": "HUN",
+      "exchange": "NYSE",
+      "website": "https://www.huntsman.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Caterpillar Inc.",
+      "ticker": "CAT",
+      "exchange": "NYSE",
+      "website": "https://www.caterpillar.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Hilton Worldwide Holdings Inc.",
+      "ticker": "HLT",
+      "exchange": "NYSE",
+      "website": "https://www.hilton.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -38,6 +68,5 @@
     "Public Policy and Sustainability Committee",
     "Sustainability, Innovation and Policy Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

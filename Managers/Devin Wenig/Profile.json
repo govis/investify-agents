@@ -12,10 +12,31 @@
       "name": "General Motors Company",
       "ticker": "GM",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.gm.com",
-      "start_date": "2018-06-12",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "gm.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "eBay Inc.",
+      "ticker": "EBAY",
+      "exchange": "NASDAQ",
+      "website": "ebay.com",
+      "title_or_role": "Director",
+      "start_date": "July 2015",
+      "end_date": "August 2019",
+      "validated": true
+    },
+    {
+      "name": "Thomson Reuters Corporation",
+      "ticker": "TRI",
+      "exchange": "NYSE",
+      "website": "thomsonreuters.com",
+      "title_or_role": "CEO, Thomson Reuters Markets",
+      "start_date": "April 2008",
+      "end_date": "August 2011",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

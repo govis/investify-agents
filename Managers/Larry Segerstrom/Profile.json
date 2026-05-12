@@ -16,6 +16,66 @@
       "website": "https://oreterra.com",
       "start_date": "2021-06-01",
       "end_date": null
+    },
+    {
+      "name": "Almadex Minerals Ltd.",
+      "ticker": "DEX",
+      "exchange": "TSX-V",
+      "website": "almadexminerals.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Stria Lithium Inc.",
+      "ticker": "SRA",
+      "exchange": "TSX-V",
+      "website": "strialithium.com",
+      "title_or_role": "Director",
+      "start_date": "2023-12-12",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Paramount Gold and Silver Corp.",
+      "ticker": "PZG",
+      "exchange": "NYSE",
+      "website": "paramountgold.com",
+      "title_or_role": "COO",
+      "start_date": "2006-09",
+      "end_date": "2015-04",
+      "validated": true
+    },
+    {
+      "name": "Paramount Gold Nevada Corp.",
+      "ticker": "PZG",
+      "exchange": "NYSE",
+      "website": "paramountnevada.com",
+      "title_or_role": "Director",
+      "start_date": "2015-02",
+      "end_date": "2015-04",
+      "validated": true
+    },
+    {
+      "name": "Bam Bam Resources Corp. (now Giant Mining Corp.)",
+      "ticker": "BBR",
+      "exchange": "CSE",
+      "website": "giantminingcorp.com",
+      "title_or_role": "Director",
+      "start_date": "2021-12",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Recharge Resources Ltd.",
+      "ticker": "RR",
+      "exchange": "CSE",
+      "website": "rechargeresources.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +86,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

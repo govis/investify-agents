@@ -12,10 +12,21 @@
       "name": "Broadcom Inc.",
       "ticker": "AVGO",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director (Independent)",
       "website": "https://www.broadcom.com",
-      "start_date": "2006-01-01",
-      "end_date": null
+      "start_date": "December 2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Singapore Telecommunications Limited (Singtel)",
+      "ticker": "Z74",
+      "exchange": "SGX",
+      "website": "https://www.singtel.com",
+      "title_or_role": "Lead Independent Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

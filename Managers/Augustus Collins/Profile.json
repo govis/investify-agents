@@ -12,10 +12,11 @@
       "name": "Huntington Ingalls Industries, Inc.",
       "ticker": "HII",
       "exchange": "NYSE",
-      "title_or_role": "Director",
-      "website": "https://www.hii.com",
-      "start_date": "2016-01-01",
-      "end_date": null
+      "title_or_role": "Director/Board Member",
+      "website": "https://hii.com",
+      "start_date": "2016-10-31",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +27,5 @@
     "Audit Committee",
     "Governance and Policy Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

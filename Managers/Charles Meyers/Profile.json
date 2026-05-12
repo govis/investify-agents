@@ -12,10 +12,21 @@
       "name": "Equinix, Inc.",
       "ticker": "EQIX",
       "exchange": "NASDAQ",
-      "title_or_role": "Executive Chairman, Director",
-      "website": "https://www.equinix.com",
-      "start_date": "2024-06-01",
-      "end_date": null
+      "title_or_role": "President of Strategy, Services, and Innovation",
+      "website": "www.equinix.com",
+      "start_date": "2013",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Fastly, Inc.",
+      "ticker": "FSLY",
+      "exchange": "NYSE",
+      "website": "www.fastly.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2021-07-08",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -11,11 +11,42 @@
     {
       "name": "GoldHaven Resources Corp.",
       "ticker": "GOH",
-      "exchange": "TSX",
+      "exchange": "CSE",
       "title_or_role": "Director",
       "website": "https://goldhavenresources.com/",
-      "start_date": "2021-06-30",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Antler Gold Inc.",
+      "ticker": "ANTL",
+      "exchange": "TSXV",
+      "website": "https://antlergold.com/",
+      "title_or_role": "Founder / Executive Chairman",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ReeXploration Inc.",
+      "ticker": "REE",
+      "exchange": "TSXV",
+      "website": "https://ree-xploration.com/",
+      "title_or_role": "Interim CEO",
+      "start_date": "2022",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "GoGold Resources Inc.",
+      "ticker": "GGD",
+      "exchange": "TSX",
+      "website": "https://gogoldresources.com/",
+      "title_or_role": "Founder / Secretary / Director / CAO",
+      "start_date": "2008",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

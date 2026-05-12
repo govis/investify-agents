@@ -16,6 +16,26 @@
       "website": "https://www.baesystems.com",
       "start_date": "2023-04-03",
       "end_date": null
+    },
+    {
+      "name": "Land Securities Group PLC",
+      "ticker": "LAND",
+      "exchange": "LSE",
+      "website": "https://landsec.com",
+      "title_or_role": "Chair",
+      "start_date": "2018",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "London Stock Exchange Group plc",
+      "ticker": "LSEG",
+      "exchange": "LSE",
+      "website": "https://www.lseg.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2019",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +45,5 @@
   "committees": [
     "Nominations Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

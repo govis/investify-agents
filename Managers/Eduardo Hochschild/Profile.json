@@ -12,10 +12,31 @@
       "name": "Aclara Resources Inc.",
       "ticker": "ARA",
       "exchange": "TSX",
+      "title_or_role": "Chairman of the Board",
+      "website": "https://www.aclara-re.com/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hochschild Mining PLC",
+      "ticker": "HOC",
+      "exchange": "LSE",
+      "website": "https://www.hochschildmining.com/",
       "title_or_role": "Chairman",
-      "website": "https://www.aclara.com",
-      "start_date": "2021-10-01",
-      "end_date": null
+      "start_date": "1987",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cementos Pacasmayo S.A.A.",
+      "ticker": "CPAC",
+      "exchange": "NYSE",
+      "website": "https://www.cementospacasmayo.com.pe/",
+      "title_or_role": "Chairman of the Board",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

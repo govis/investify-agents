@@ -12,10 +12,21 @@
       "name": "Li-Cycle Holdings Corp.",
       "ticker": "LICY",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://li-cycle.com",
-      "start_date": "2021-08-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "American Resources Corporation",
+      "ticker": "AREC",
+      "exchange": "NASDAQ",
+      "website": "https://americanresourcescorp.com",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

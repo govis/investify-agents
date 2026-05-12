@@ -12,10 +12,21 @@
       "name": "Perseus Mining Limited",
       "ticker": "PRU",
       "exchange": "ASX",
-      "title_or_role": "Managing Director",
-      "website": "https://perseusmining.com/",
-      "start_date": "2013-02-01",
-      "end_date": null
+      "title_or_role": "Managing Director and CEO",
+      "website": "https://www.perseusmining.com",
+      "start_date": "2013",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Asara Resources Limited",
+      "ticker": "AS1",
+      "exchange": "ASX",
+      "website": "https://asararesources.com.au",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2026",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

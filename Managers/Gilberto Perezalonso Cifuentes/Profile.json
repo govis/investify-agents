@@ -12,10 +12,41 @@
       "name": "Southern Copper Corporation",
       "ticker": "SCCO",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.southerncoppercorp.com",
-      "start_date": "2002-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.southerncopper.com",
+      "start_date": "June 2002",
+      "end_date": "October 16, 2024",
+      "validated": true
+    },
+    {
+      "name": "Controladora Vuela Compa\u00f1\u00eda de Aviaci\u00f3n, S.A.B. de C.V. (Volaris)",
+      "ticker": "VLRS",
+      "exchange": "NYSE",
+      "website": "https://ir.volaris.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2011",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Grupo Aerom\u00e9xico, S.A.B. de C.V.",
+      "ticker": "AEROMEX",
+      "exchange": "BMV",
+      "website": "https://aeromexico.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2004",
+      "end_date": "2005",
+      "validated": true
+    },
+    {
+      "name": "Grupo Televisa, S.A.B.",
+      "ticker": "TV",
+      "exchange": "NYSE",
+      "website": "https://www.televisair.com",
+      "title_or_role": "Executive Vice President of Administration and Finance",
+      "start_date": "1998",
+      "end_date": "2001",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +58,5 @@
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

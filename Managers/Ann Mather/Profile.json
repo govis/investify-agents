@@ -25,6 +25,56 @@
       "website": "https://abc.xyz",
       "start_date": "2005-11-01",
       "end_date": null
+    },
+    {
+      "name": "Netflix, Inc.",
+      "ticker": "NFLX",
+      "exchange": "NASDAQ",
+      "website": "netflix.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bumble Inc.",
+      "ticker": "BMBL",
+      "exchange": "NASDAQ",
+      "website": "bumble.com",
+      "title_or_role": "Director / Chair",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Airbnb, Inc.",
+      "ticker": "ABNB",
+      "exchange": "NASDAQ",
+      "website": "airbnb.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Glu Mobile Inc.",
+      "ticker": "GLUU",
+      "exchange": "NASDAQ",
+      "website": "glu.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Pixar Animation Studios",
+      "ticker": "PIXR",
+      "exchange": "NASDAQ",
+      "website": "pixar.com",
+      "title_or_role": "EVP, CFO, Company Secretary",
+      "start_date": "1999",
+      "end_date": "2004",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +86,5 @@
     "Audit Committee",
     "Audit and Compliance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

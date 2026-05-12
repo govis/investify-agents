@@ -11,11 +11,12 @@
     {
       "name": "IsoEnergy Ltd.",
       "ticker": "ISO",
-      "exchange": "TSX",
+      "exchange": "TSXV",
       "title_or_role": "Director",
       "website": "https://www.isoenergy.ca",
-      "start_date": "2016-02-02",
-      "end_date": null
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "IsoEnergy Ltd.",
@@ -29,11 +30,12 @@
     {
       "name": "NexGen Energy Ltd.",
       "ticker": "NXE",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer, Director, President",
+      "exchange": "TSX, NYSE, ASX",
+      "title_or_role": "President, CEO & Director",
       "website": "https://www.nexgenenergy.ca",
-      "start_date": "2011-12-01",
-      "end_date": null
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "NexGen Energy Ltd.",
@@ -43,6 +45,16 @@
       "website": "https://www.nexgenenergy.ca",
       "start_date": "2011-12-01",
       "end_date": null
+    },
+    {
+      "name": "International Consolidated Uranium Inc. (now enCore Energy Corp.)",
+      "ticker": "CUR",
+      "exchange": "TSXV",
+      "website": "https://www.consolidateduranium.com",
+      "title_or_role": "Advisory Board Member",
+      "start_date": "2020-12-03",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -53,6 +65,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

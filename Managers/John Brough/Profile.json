@@ -11,11 +11,42 @@
     {
       "name": "Wheaton Precious Metals Corp.",
       "ticker": "WPM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "exchange": "TSX",
+      "title_or_role": "Director",
       "website": "https://www.wheatonpm.com",
-      "start_date": "2004-10-01",
-      "end_date": null
+      "start_date": null,
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "K",
+      "exchange": "TSX",
+      "website": "https://www.kinross.com",
+      "title_or_role": "Director",
+      "start_date": "1994",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "First National Financial Corporation",
+      "ticker": "FN",
+      "exchange": "TSX",
+      "website": "https://www.firstnational.ca",
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Choice Properties REIT",
+      "ticker": "CHP.UN",
+      "exchange": "TSX",
+      "website": "https://www.choicereit.ca",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Audit Committee",
     "Human Resources Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

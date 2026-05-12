@@ -11,11 +11,22 @@
     {
       "name": "Delta Resources Limited",
       "ticker": "DLTA",
-      "exchange": "TSX",
-      "title_or_role": "Vice President, Exploration and Director",
-      "website": "https://deltaresources.ca",
-      "start_date": "2019-07-01",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "VP Exploration and COO",
+      "website": "https://www.deltaresources.ca/",
+      "start_date": "July 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "X-Terra Resources Inc. (now known as CLIC - Clic Resources Inc.)",
+      "ticker": "CLIC",
+      "exchange": "TSXV",
+      "website": "https://www.clicresources.ca/",
+      "title_or_role": "VP Exploration and Development",
+      "start_date": "July 6, 2017",
+      "end_date": "July 2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +35,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

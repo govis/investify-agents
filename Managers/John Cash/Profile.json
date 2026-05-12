@@ -11,11 +11,12 @@
     {
       "name": "Ur-Energy Inc.",
       "ticker": "URG",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer and President, Chairman of the Board",
+      "exchange": "NYSE American",
+      "title_or_role": "Vice President of Regulatory Affairs, Exploration and Geology",
       "website": "https://www.ur-energy.com",
-      "start_date": "2022-03-01",
-      "end_date": null
+      "start_date": "2007",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +24,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

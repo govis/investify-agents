@@ -25,6 +25,16 @@
       "website": "https://www.syrahresources.com.au",
       "start_date": "2020-05-22",
       "end_date": null
+    },
+    {
+      "name": "Orica Limited",
+      "ticker": "ORI",
+      "exchange": "ASX",
+      "website": "https://www.orica.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +46,5 @@
     "Health, Safety and Environment Committee (Chair)",
     "Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

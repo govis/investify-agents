@@ -16,6 +16,36 @@
       "website": "https://www.nio.com",
       "start_date": "2018-09-01",
       "end_date": null
+    },
+    {
+      "name": "NetEase, Inc.",
+      "ticker": "NTES",
+      "exchange": "NASDAQ",
+      "website": "https://ir.netease.com/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2002-04",
+      "end_date": "2007-06",
+      "validated": true
+    },
+    {
+      "name": "Jianpu Technology Inc.",
+      "ticker": "JT",
+      "exchange": "NYSE",
+      "website": "https://ir.jianpu.ai/",
+      "title_or_role": "Independent Director",
+      "start_date": "2017-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "New Oriental Education & Technology Group Inc.",
+      "ticker": "EDU",
+      "exchange": "NYSE",
+      "website": "https://investor.neworiental.org/",
+      "title_or_role": "Independent Director",
+      "start_date": "2006-09",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
     "Audit Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

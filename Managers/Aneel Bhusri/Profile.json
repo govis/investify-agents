@@ -12,10 +12,31 @@
       "name": "General Motors Company",
       "ticker": "GM",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.gm.com",
-      "start_date": "2022-10-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "gm.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Workday, Inc.",
+      "ticker": "WDAY",
+      "exchange": "NASDAQ",
+      "website": "workday.com",
+      "title_or_role": "Co-Founder, Executive Chairman (formerly CEO)",
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "intel.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
   "committees": [
     "Finance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

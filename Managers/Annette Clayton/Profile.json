@@ -16,6 +16,46 @@
       "website": "https://www.duke-energy.com",
       "start_date": "2021-01-01",
       "end_date": null
+    },
+    {
+      "name": "NXP Semiconductors N.V.",
+      "ticker": "NXPI",
+      "exchange": "NASDAQ",
+      "website": "https://www.nxp.com",
+      "title_or_role": "Director",
+      "start_date": "2021-05-26",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Oshkosh Corporation",
+      "ticker": "OSK",
+      "exchange": "NYSE",
+      "website": "https://www.oshkoshcorp.com",
+      "title_or_role": "Director",
+      "start_date": "2024-03-18",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nordson Corporation",
+      "ticker": "NDSN",
+      "exchange": "NASDAQ",
+      "website": "https://www.nordson.com",
+      "title_or_role": "Director",
+      "start_date": "2024-02-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Polaris Inc.",
+      "ticker": "PII",
+      "exchange": "NYSE",
+      "website": "https://www.polaris.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2021-04-29",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +66,5 @@
     "Audit Committee",
     "Finance and Risk Management Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

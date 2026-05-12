@@ -16,6 +16,36 @@
       "website": "https://strialithium.com/",
       "start_date": "2022-06-01",
       "end_date": null
+    },
+    {
+      "name": "Focus Graphite Inc.",
+      "ticker": "FMS",
+      "exchange": "TSXV",
+      "website": "https://focusgraphite.com/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Golden Harp Resources Inc.",
+      "ticker": "GHR",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director of Finance / CFO",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Everton Resources Inc.",
+      "ticker": "EVR",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2011-04",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +57,5 @@
     "Audit Committee",
     "Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

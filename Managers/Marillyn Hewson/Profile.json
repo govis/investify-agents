@@ -12,10 +12,41 @@
       "name": "Chevron Corporation",
       "ticker": "CVX",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.chevron.com",
       "start_date": "2021-01-01",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "exchange": "NYSE",
+      "website": "https://www.lockheedmartin.com",
+      "title_or_role": "Chairman, President, and Chief Executive Officer",
+      "start_date": "2013-01-01",
+      "end_date": "2020-06-15",
+      "validated": true
+    },
+    {
+      "name": "Johnson & Johnson",
+      "ticker": "JNJ",
+      "exchange": "NYSE",
+      "website": "https://www.jnj.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2019-01-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "DuPont de Nemours, Inc.",
+      "ticker": "DD",
+      "exchange": "NYSE",
+      "website": "https://www.dupont.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2007-01-01",
+      "end_date": "2015-01-01",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Audit Committee",
     "Management Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

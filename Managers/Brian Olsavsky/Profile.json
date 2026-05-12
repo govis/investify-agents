@@ -12,10 +12,11 @@
       "name": "Amazon.com, Inc.",
       "ticker": "AMZN",
       "exchange": "NASDAQ",
-      "title_or_role": "Senior Vice President and CFO",
-      "website": "https://www.amazon.com",
-      "start_date": "2015-06-01",
-      "end_date": null
+      "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "website": "https://www.aboutamazon.com",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +25,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

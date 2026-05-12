@@ -13,9 +13,10 @@
       "ticker": "ACM",
       "exchange": "NYSE",
       "title_or_role": "Chief Legal Officer",
-      "website": "https://aecom.com",
-      "start_date": "2020-10-01",
-      "end_date": null
+      "website": "https://www.aecom.com",
+      "start_date": "November 2019",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -28,6 +29,5 @@
     }
   ],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

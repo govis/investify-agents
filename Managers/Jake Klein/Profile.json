@@ -12,10 +12,51 @@
       "name": "Evolution Mining Limited",
       "ticker": "EVN",
       "exchange": "ASX",
-      "title_or_role": "Executive Chair",
-      "website": "https://evolutionmining.com.au",
-      "start_date": "2011-10-01",
-      "end_date": null
+      "title_or_role": "Non-Executive Chairman",
+      "website": "evolutionmining.com.au",
+      "start_date": "2025-07",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sino Gold Mining Limited",
+      "ticker": "SGX (Delisted)",
+      "exchange": "ASX",
+      "website": null,
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2002",
+      "end_date": "2009",
+      "validated": true
+    },
+    {
+      "name": "Conquest Mining Limited",
+      "ticker": "CQT (Delisted)",
+      "exchange": "ASX",
+      "website": null,
+      "title_or_role": "Executive Chairman",
+      "start_date": null,
+      "end_date": "2011-10",
+      "validated": true
+    },
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "TSX",
+      "website": "oceanagold.com",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "North Queensland Metals Limited",
+      "ticker": "NQM (Delisted)",
+      "exchange": "ASX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +64,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

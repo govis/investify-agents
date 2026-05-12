@@ -12,10 +12,31 @@
       "name": "RTX Corporation",
       "ticker": "RTX",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member of the Board of Directors",
       "website": "https://www.rtx.com",
-      "start_date": "2020-04-03",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Johnson Controls International plc",
+      "ticker": "JCI",
+      "exchange": "NYSE",
+      "website": "https://www.johnsoncontrols.com",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "September 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tyco International Ltd.",
+      "ticker": "TYC",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Chief Executive Officer and Member of the Board of Directors",
+      "start_date": "September 2012",
+      "end_date": "September 2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Governance & Nominating",
     "Human Capital & Compensation"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

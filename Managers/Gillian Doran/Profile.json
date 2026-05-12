@@ -12,10 +12,21 @@
       "name": "AngloGold Ashanti plc",
       "ticker": "AU",
       "exchange": "NYSE",
-      "title_or_role": "Chief Financial Officer",
+      "title_or_role": "Chief Financial Officer & Executive Director",
       "website": "https://www.anglogoldashanti.com",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "start_date": "January 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rio Tinto",
+      "ticker": "RIO",
+      "exchange": "ASX / NYSE / LSE",
+      "website": "https://www.riotinto.com",
+      "title_or_role": "CFO, Aluminium Division",
+      "start_date": "Prior to 2023",
+      "end_date": "January 2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

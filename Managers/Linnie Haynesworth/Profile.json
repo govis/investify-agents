@@ -12,10 +12,51 @@
       "name": "Micron Technology, Inc.",
       "ticker": "MU",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.micron.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "micron.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Eastman Chemical Company",
+      "ticker": "EMN",
+      "exchange": "NYSE",
+      "website": "eastman.com",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Automatic Data Processing, Inc.",
+      "ticker": "ADP",
+      "exchange": "NASDAQ",
+      "website": "adp.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Truist Financial Corporation",
+      "ticker": "TFC",
+      "exchange": "NYSE",
+      "website": "truist.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "northropgrumman.com",
+      "title_or_role": "Sector Vice President and General Manager",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +67,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

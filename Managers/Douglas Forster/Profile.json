@@ -16,6 +16,46 @@
       "website": "https://calibremining.com",
       "start_date": "2019-10-15",
       "end_date": null
+    },
+    {
+      "name": "Newcore Gold Ltd.",
+      "ticker": "NCAU",
+      "exchange": "TSXV",
+      "website": "https://newcoregold.com/",
+      "title_or_role": "Chairman / Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Newmarket Gold Inc.",
+      "ticker": "NMI",
+      "exchange": "TSX",
+      "website": "N/A",
+      "title_or_role": "Founder, President, Chief Executive Officer & Director",
+      "start_date": "2013",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Potash One, Inc.",
+      "ticker": "K",
+      "exchange": "TSX",
+      "website": "N/A",
+      "title_or_role": "Founder, Director",
+      "start_date": "2008",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "Equinox Gold Corp.",
+      "ticker": "EQX",
+      "exchange": "TSX / NYSE",
+      "website": "https://www.equinoxgold.com/",
+      "title_or_role": "Director",
+      "start_date": "June 2025",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +66,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

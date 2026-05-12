@@ -16,6 +16,16 @@
       "website": "https://www.nsrltd.com",
       "start_date": "2022-07-01",
       "end_date": null
+    },
+    {
+      "name": "Bendigo and Adelaide Bank Limited",
+      "ticker": "BEN",
+      "exchange": "ASX",
+      "website": "https://www.bendigoadelaide.com.au/",
+      "title_or_role": "Managing Director and CEO",
+      "start_date": "2018-07-02",
+      "end_date": "2024-08-31",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +36,5 @@
     "Audit and Risk Committee",
     "ESG Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

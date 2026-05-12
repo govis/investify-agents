@@ -13,9 +13,60 @@
       "ticker": "LRCX",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
-      "website": "https://www.lamresearch.com",
-      "start_date": "2011-01-01",
-      "end_date": null
+      "website": "lamresearch.com",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Altaba Inc. (formerly Yahoo! Inc.)",
+      "ticker": "AABA",
+      "exchange": "NASDAQ",
+      "website": "altaba.com",
+      "title_or_role": "Director / Chairman",
+      "start_date": "2016",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Yahoo! Inc.",
+      "ticker": "YHOO",
+      "exchange": "NASDAQ",
+      "website": "yahoo.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Dentsply Sirona Inc.",
+      "ticker": "XRAY",
+      "exchange": "NASDAQ",
+      "website": "dentsplysirona.com",
+      "title_or_role": "Director / Non-Executive Chairman",
+      "start_date": "2019",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Broadcom Corporation",
+      "ticker": "BRCM",
+      "exchange": "NASDAQ",
+      "website": "broadcom.com",
+      "title_or_role": "EVP and CFO",
+      "start_date": "2007",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Gen Digital Inc.",
+      "ticker": "GEN",
+      "exchange": "NASDAQ",
+      "website": "gendigital.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +77,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

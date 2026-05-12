@@ -16,6 +16,26 @@
       "website": "https://www.baesystems.com",
       "start_date": "2020-04-01",
       "end_date": null
+    },
+    {
+      "name": "Johnson Matthey Plc",
+      "ticker": "JMAT",
+      "exchange": "LSE",
+      "website": "https://matthey.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2017-01-01",
+      "end_date": "2023-07-20",
+      "validated": true
+    },
+    {
+      "name": "Redx Pharma Plc",
+      "ticker": "REDX",
+      "exchange": "AIM (LSE)",
+      "website": "https://www.redxpharma.com",
+      "title_or_role": "Non-Executive Chair",
+      "start_date": "2021-12-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +47,5 @@
     "Nominations Committee",
     "Remuneration Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

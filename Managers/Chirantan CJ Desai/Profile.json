@@ -12,10 +12,61 @@
       "name": "ServiceNow, Inc.",
       "ticker": "NOW",
       "exchange": "NYSE",
-      "title_or_role": "President and Chief Operating Officer",
+      "title_or_role": "President and Chief Operating Officer (previously Chief Product Officer)",
       "website": "https://www.servicenow.com",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "start_date": "December 2016",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "MongoDB, Inc.",
+      "ticker": "MDB",
+      "exchange": "NASDAQ",
+      "website": "https://www.mongodb.com",
+      "title_or_role": "President and Chief Executive Officer; Member of the Board of Directors",
+      "start_date": "November 2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "MSCI Inc.",
+      "ticker": "MSCI",
+      "exchange": "NYSE",
+      "website": "https://www.msci.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "March 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cloudflare, Inc.",
+      "ticker": "NET",
+      "exchange": "NYSE",
+      "website": "https://www.cloudflare.com",
+      "title_or_role": "President of Product and Engineering",
+      "start_date": "October 2024",
+      "end_date": "November 2025",
+      "validated": true
+    },
+    {
+      "name": "EMC Corporation",
+      "ticker": "EMC",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "title_or_role": "Senior Executive (President, Emerging Technologies Division)",
+      "start_date": "September 2013",
+      "end_date": "December 2016",
+      "validated": true
+    },
+    {
+      "name": "Symantec Corporation",
+      "ticker": "GEN",
+      "exchange": "NASDAQ",
+      "website": "https://www.gendigital.com",
+      "title_or_role": "Senior Executive",
+      "start_date": "Prior to 2013",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +74,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

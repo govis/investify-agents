@@ -14,8 +14,9 @@
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
       "website": "https://www.nio.com",
-      "start_date": "2018-09-01",
-      "end_date": null
+      "start_date": "July 2016",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +28,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,16 @@
       "website": "https://www.jpmorganchase.com",
       "start_date": "2013-09-16",
       "end_date": null
+    },
+    {
+      "name": "Federal Home Loan Mortgage Corporation (Freddie Mac)",
+      "ticker": "FMCC",
+      "exchange": "OTC",
+      "website": "https://www.freddiemac.com",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +37,5 @@
     "Directors' Risk Policy Committee (Chair)",
     "Regulatory Compliance & Public Responsibility Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

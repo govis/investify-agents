@@ -12,10 +12,31 @@
       "name": "Arista Networks, Inc.",
       "ticker": "ANET",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.arista.com",
-      "start_date": "2011-10-01",
-      "end_date": null
+      "title_or_role": "Member of the Board of Directors",
+      "website": "https://investors.arista.com/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Zoom Video Communications, Inc.",
+      "ticker": "ZM",
+      "exchange": "NASDAQ",
+      "website": "https://investors.zoom.us/",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "January 2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SentinelOne, Inc.",
+      "ticker": "S",
+      "exchange": "NYSE",
+      "website": "https://investors.sentinelone.com/",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

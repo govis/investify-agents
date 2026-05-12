@@ -12,10 +12,31 @@
       "name": "Sunrun Inc.",
       "ticker": "RUN",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.sunrun.com",
-      "start_date": "2016-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://investors.sunrun.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Eventbrite, Inc.",
+      "ticker": "EB",
+      "exchange": "NYSE",
+      "website": "https://investor.eventbrite.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "First Republic Bank",
+      "ticker": "FRC",
+      "exchange": "NYSE",
+      "website": "https://www.firstrepublic.com",
+      "title_or_role": "Vice Chair and Board Member",
+      "start_date": "2016",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

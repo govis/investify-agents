@@ -12,10 +12,31 @@
       "name": "Vistra Corp.",
       "ticker": "VST",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.vistracorp.com",
-      "start_date": "2020-02-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Veritex Holdings, Inc.",
+      "ticker": "VBTX",
+      "exchange": "NASDAQ",
+      "website": "https://www.veritexbank.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "LegacyTexas Financial Group, Inc.",
+      "ticker": "LTXB",
+      "exchange": "NASDAQ",
+      "website": "https://www.legacytexas.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Audit Committee",
     "Social Responsibility and Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

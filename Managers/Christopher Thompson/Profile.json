@@ -12,10 +12,41 @@
       "name": "Royal Gold, Inc.",
       "ticker": "RGLD",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.royalgold.com",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "royalgold.com",
+      "start_date": "2013",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Golden Star Resources Ltd.",
+      "ticker": "GSC",
+      "exchange": "TSX",
+      "website": "gsr.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Teck Resources Limited",
+      "ticker": "TECK",
+      "exchange": "NYSE",
+      "website": "teck.com",
+      "title_or_role": "Director",
+      "start_date": "2003",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Jacobs Solutions Inc.",
+      "ticker": "J",
+      "exchange": "NYSE",
+      "website": "jacobs.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Audit Committee",
     "Compensation, Nominating and Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

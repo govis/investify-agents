@@ -12,10 +12,31 @@
       "name": "Bellevue Gold Limited",
       "ticker": "BGL",
       "exchange": "ASX",
-      "title_or_role": "Non-Executive Independent Chairman",
-      "website": "https://www.bellevuegold.com.au",
-      "start_date": "2017-09-01",
-      "end_date": null
+      "title_or_role": "Non-Executive Chairman",
+      "website": "bellevuegold.com.au",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "FireFly Metals Ltd",
+      "ticker": "FFM",
+      "exchange": "ASX",
+      "website": "fireflymetals.com.au",
+      "title_or_role": "Chairman",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cygnus Metals Ltd",
+      "ticker": "CY5",
+      "exchange": "ASX",
+      "website": "cygnusmetals.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Audit and Risk Committee",
     "Nomination and Remuneration Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

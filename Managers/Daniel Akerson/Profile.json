@@ -16,6 +16,56 @@
       "website": "https://www.lockheedmartin.com",
       "start_date": "2014-02-01",
       "end_date": null
+    },
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2011-01-01",
+      "end_date": "2014-01-15",
+      "validated": true
+    },
+    {
+      "name": "The Carlyle Group Inc.",
+      "ticker": "CG",
+      "exchange": "NASDAQ",
+      "website": "https://www.carlyle.com",
+      "title_or_role": "Managing Director / Head of Global Buyout",
+      "start_date": "2003-06-01",
+      "end_date": "2010-08-31",
+      "validated": true
+    },
+    {
+      "name": "Nextel Communications, Inc.",
+      "ticker": "NXTL",
+      "exchange": "NASDAQ",
+      "website": "https://www.nextel.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "1996-01-01",
+      "end_date": "1999-01-01",
+      "validated": true
+    },
+    {
+      "name": "General Instrument Corporation",
+      "ticker": "GIC",
+      "exchange": "NYSE",
+      "website": "https://www.commscope.com",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "1990-01-01",
+      "end_date": "1995-01-01",
+      "validated": true
+    },
+    {
+      "name": "XO Communications, Inc.",
+      "ticker": "XOHO",
+      "exchange": "NASDAQ",
+      "website": "https://www.xo.com",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "1999-01-01",
+      "end_date": "2003-01-01",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +76,5 @@
     "Audit Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

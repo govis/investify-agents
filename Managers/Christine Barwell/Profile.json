@@ -5,17 +5,38 @@
   "age": 54,
   "age_year": 2024,
   "background": "Ms. Barwell is the Vice President, Human Resources. She has over 20 years of experience in human resources management in the mining and manufacturing sectors.",
-  "picture_url": null,
-  "picture_local": null,
+  "picture_url": "https://media.licdn.com/dms/image/v2/D5603AQGkJpCDUiG0SQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1699499031748?e=2147483647&v=beta&t=Pe_ddEqxi7RrfAbs4Rel2ftCGkBaUTXmw5yL4NyK8jI",
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Alamos Gold Inc.",
       "ticker": "AGI",
-      "exchange": "NYSE",
+      "exchange": "TSX / NYSE",
       "title_or_role": "Vice President, Human Resources",
-      "website": "https://www.alamosgold.com",
-      "start_date": "2015-07-01",
-      "end_date": null
+      "website": "https://www.alamosgold.com/",
+      "start_date": "April 2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Li-Cycle Holdings Corp.",
+      "ticker": "LICY",
+      "exchange": "NYSE",
+      "website": "https://li-cycle.com/",
+      "title_or_role": "Chief Human Resources Officer",
+      "start_date": "2023",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Wesdome Gold Mines Ltd.",
+      "ticker": "WDO",
+      "exchange": "TSX",
+      "website": "https://www.wesdome.com/",
+      "title_or_role": "Senior Vice President, Human Resources",
+      "start_date": "March 9, 2026",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -29,6 +50,5 @@
     }
   ],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

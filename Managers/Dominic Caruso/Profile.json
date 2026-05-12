@@ -14,8 +14,39 @@
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
       "website": "https://www.generac.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "start_date": "2020-02-20",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Johnson & Johnson",
+      "ticker": "JNJ",
+      "exchange": "NYSE",
+      "website": "https://www.jnj.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2007",
+      "end_date": "2018-07-01",
+      "validated": true
+    },
+    {
+      "name": "McKesson Corporation",
+      "ticker": "MCK",
+      "exchange": "NYSE",
+      "website": "https://www.mckesson.com",
+      "title_or_role": "Independent Director (Lead Independent Director)",
+      "start_date": "2018-09-12",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kyndryl Holdings, Inc.",
+      "ticker": "KD",
+      "exchange": "NYSE",
+      "website": "https://www.kyndryl.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2021-09-28",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +56,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

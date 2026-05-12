@@ -16,6 +16,26 @@
       "website": "https://stallionuranium.com",
       "start_date": "2023-08-01",
       "end_date": null
+    },
+    {
+      "name": "Cascadia Minerals Ltd.",
+      "ticker": "CAM",
+      "exchange": "TSXV",
+      "website": "https://cascadiaminerals.com",
+      "title_or_role": "President, CEO, and Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ATAC Resources Ltd.",
+      "ticker": "ATC",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "President and CEO",
+      "start_date": "2007",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +45,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

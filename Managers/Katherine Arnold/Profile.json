@@ -12,10 +12,21 @@
       "name": "Faraday Copper Corp.",
       "ticker": "FDY",
       "exchange": "TSX",
-      "title_or_role": "Director",
-      "website": "https://faradaycopper.com",
-      "start_date": "2022-04-21",
-      "end_date": null
+      "title_or_role": "Independent Director",
+      "website": "https://faradaycopper.com/",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Arizona Metals Corp.",
+      "ticker": "AMC",
+      "exchange": "TSX",
+      "website": "https://www.arizonametalscorp.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "June 27, 2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Audit Committee",
     "Health, Safety, Environmental and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -10,12 +10,13 @@
   "company_affiliations": [
     {
       "name": "GoldHaven Resources Corp.",
-      "ticker": "GOH",
-      "exchange": "CSE",
-      "title_or_role": "Chief Executive Officer, Director",
-      "website": "https://goldhavenresources.com",
-      "start_date": "2023-05-15",
-      "end_date": null
+      "ticker": "GHVN",
+      "exchange": "CSE (Canadian Securities Exchange)",
+      "title_or_role": "Chief Executive Officer",
+      "website": "https://goldhavenresources.com/",
+      "start_date": "March 2023",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "GoldHaven Resources Corp.",
@@ -25,6 +26,16 @@
       "website": "https://goldhavenresources.com/",
       "start_date": "2023-05-15",
       "end_date": null
+    },
+    {
+      "name": "Magnum Goldcorp Inc.",
+      "ticker": "MGI",
+      "exchange": "TSXV (TSX Venture Exchange)",
+      "website": "https://magnumgoldcorp.com/",
+      "title_or_role": "Chief Executive Officer (following the amalgamation with Atl\u00e2ntico Energy Metals)",
+      "start_date": "October 2025",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -33,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

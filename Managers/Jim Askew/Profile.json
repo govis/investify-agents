@@ -16,6 +16,36 @@
       "website": "https://evolutionmining.com.au",
       "start_date": "2011-10-01",
       "end_date": null
+    },
+    {
+      "name": "Syrah Resources Limited",
+      "ticker": "SYR",
+      "exchange": "ASX",
+      "website": "https://syrahresources.com.au/",
+      "title_or_role": "Chairman",
+      "start_date": "2014-11",
+      "end_date": "2025-12-31",
+      "validated": true
+    },
+    {
+      "name": "Robex Resources Inc.",
+      "ticker": "RBX",
+      "exchange": "TSXV",
+      "website": "https://robexgold.com/",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Endeavour Mining Corporation",
+      "ticker": "EDV",
+      "exchange": "TSX",
+      "website": "https://www.endeavourmining.com/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2017-07",
+      "end_date": "2023-05",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
     "Nomination and Remuneration Committee",
     "Risk and Sustainability Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,51 @@
       "name": "The Southern Company",
       "ticker": "SO",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.southerncompany.com",
-      "start_date": "2023-03-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "southerncompany.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Atlantic Capital Bancshares, Inc.",
+      "ticker": "ACBI",
+      "exchange": "NASDAQ",
+      "website": "atlanticcapitalbank.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "American Software, Inc.",
+      "ticker": "AMSWA",
+      "exchange": "NASDAQ",
+      "website": "logility.com",
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen, Inc.",
+      "ticker": "PLKI",
+      "exchange": "NASDAQ",
+      "website": "popeyes.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Krispy Kreme Doughnuts, Inc.",
+      "ticker": "KKD",
+      "exchange": "NYSE",
+      "website": "krispykreme.com",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2007",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +67,5 @@
     "Compensation and Management Succession",
     "Governance"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

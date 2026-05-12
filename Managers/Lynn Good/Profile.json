@@ -13,18 +13,20 @@
       "ticker": "BA",
       "exchange": "NYSE",
       "title_or_role": "Director",
-      "website": "https://www.boeing.com",
-      "start_date": "2015-08-01",
-      "end_date": null
+      "website": "boeing.com",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Duke Energy Corporation",
       "ticker": "DUK",
       "exchange": "NYSE",
-      "title_or_role": "Chair, President and Chief Executive Officer",
-      "website": "https://www.duke-energy.com",
-      "start_date": "2013-07-01",
-      "end_date": null
+      "title_or_role": "Chair, President, and CEO",
+      "website": "duke-energy.com",
+      "start_date": "2013",
+      "end_date": "2025",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +38,5 @@
     "Audit",
     "Compensation (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

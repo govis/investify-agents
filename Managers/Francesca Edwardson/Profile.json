@@ -16,6 +16,16 @@
       "website": "https://www.jbhunt.com",
       "start_date": "2011-01-01",
       "end_date": null
+    },
+    {
+      "name": "Duluth Holdings, Inc.",
+      "ticker": "DLTH",
+      "exchange": "NASDAQ",
+      "website": "https://www.duluthtrading.com",
+      "title_or_role": "Director",
+      "start_date": "2015-09",
+      "end_date": "2025-06",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +36,5 @@
     "Audit Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

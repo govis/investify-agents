@@ -11,11 +11,32 @@
     {
       "name": "Osisko Gold Royalties Ltd",
       "ticker": "OR",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Financial Officer and Vice President, Finance",
-      "website": "https://osiskogr.com",
-      "start_date": "2020-06-01",
-      "end_date": null
+      "exchange": "TSX",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.osiskogoldroyalties.com",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Falco Resources Ltd.",
+      "ticker": "FPC",
+      "exchange": "TSXV",
+      "website": "https://www.falcores.com",
+      "title_or_role": "Vice President, Corporate Controller",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NioGold Mining Corp.",
+      "ticker": "NOX",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Chief Financial Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

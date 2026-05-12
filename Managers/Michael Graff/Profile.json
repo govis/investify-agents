@@ -12,10 +12,21 @@
       "name": "TransDigm Group Incorporated",
       "ticker": "TDG",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director (Board of Directors)",
       "website": "https://www.transdigm.com",
-      "start_date": "2003-07-01",
-      "end_date": null
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bombardier Inc.",
+      "ticker": "BBD.B",
+      "exchange": "TSX",
+      "website": "https://www.bombardier.com",
+      "title_or_role": "President and Chief Operating Officer of Bombardier Aerospace",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

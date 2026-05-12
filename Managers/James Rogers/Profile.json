@@ -16,6 +16,16 @@
       "website": "https://prospectormetalscorp.com",
       "start_date": "2021-04-01",
       "end_date": null
+    },
+    {
+      "name": "King Copper Discovery Corp.",
+      "ticker": "KCP",
+      "exchange": "TSXV",
+      "website": "https://kingcopper.ca/",
+      "title_or_role": "Chief Executive Officer and Director",
+      "start_date": "2022",
+      "end_date": "February 2025",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +36,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

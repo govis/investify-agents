@@ -16,6 +16,26 @@
       "website": "https://www.vaneck.com/us/en/investments/uranium-nuclear-energy-etf-nlr/",
       "start_date": "2022-01-01",
       "end_date": null
+    },
+    {
+      "name": "Duos Technologies Group, Inc.",
+      "ticker": "DUOT",
+      "exchange": "NASDAQ",
+      "website": "https://www.duostechnologies.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2022-11",
+      "end_date": "2024-04",
+      "validated": true
+    },
+    {
+      "name": "APR Energy",
+      "ticker": "APR",
+      "exchange": "LSE",
+      "website": "https://www.aprenergy.com",
+      "title_or_role": "Finance and Investor Relations roles",
+      "start_date": "2015",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

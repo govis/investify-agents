@@ -16,6 +16,26 @@
       "website": "https://www.teradyne.com",
       "start_date": "2022-01-01",
       "end_date": null
+    },
+    {
+      "name": "Zscaler, Inc.",
+      "ticker": "ZS",
+      "exchange": "NASDAQ",
+      "website": "https://www.zscaler.com",
+      "title_or_role": "Executive Vice President, Customer Experience and Transformation",
+      "start_date": "October 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rubrik, Inc.",
+      "ticker": "RBRK",
+      "exchange": "NYSE",
+      "website": "https://www.rubrik.com",
+      "title_or_role": "Chief Transformation Officer",
+      "start_date": "April 2025",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

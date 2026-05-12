@@ -16,6 +16,46 @@
       "website": "https://www.blacksky.com",
       "start_date": "2021-09-01",
       "end_date": null
+    },
+    {
+      "name": "GeoEye, Inc.",
+      "ticker": "GEOY",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2006",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "DigitalGlobe, Inc.",
+      "ticker": "DGI",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "President, Chief Financial Officer, Chief Operating Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hooper Holmes, Inc.",
+      "ticker": "HH",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "2013",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Endurance Acquisition Corp.",
+      "ticker": "EDNC",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Independent Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +63,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,31 @@
       "name": "NVIDIA Corporation",
       "ticker": "NVDA",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.nvidia.com",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "nvidia.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Interpublic Group of Companies, Inc.",
+      "ticker": "IPG",
+      "exchange": "NYSE",
+      "website": "interpublic.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Modern Times Group MTG AB",
+      "ticker": "MTG-B",
+      "exchange": "STO",
+      "website": "mtg.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +48,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

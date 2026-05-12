@@ -14,8 +14,59 @@
       "exchange": "NYSE",
       "title_or_role": "Director",
       "website": "https://www.textron.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "start_date": "January 1, 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bank of America Corporation",
+      "ticker": "BAC",
+      "exchange": "NYSE",
+      "website": "https://www.bankofamerica.com",
+      "title_or_role": "Lead Independent Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ecolab Inc.",
+      "ticker": "ECL",
+      "exchange": "NYSE",
+      "website": "https://www.ecolab.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "American Electric Power Company, Inc.",
+      "ticker": "AEP",
+      "exchange": "NASDAQ",
+      "website": "https://www.aep.com",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "PepsiCo, Inc.",
+      "ticker": "PEP",
+      "exchange": "NASDAQ",
+      "website": "https://www.pepsico.com",
+      "title_or_role": "Senior Vice President and Treasurer",
+      "start_date": "2001",
+      "end_date": "2009",
+      "validated": true
+    },
+    {
+      "name": "The Pepsi Bottling Group, Inc.",
+      "ticker": "PBG",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "Prior to 2001",
+      "end_date": "2001",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +77,5 @@
     "Audit Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

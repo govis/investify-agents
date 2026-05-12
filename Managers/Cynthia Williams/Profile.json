@@ -10,12 +10,23 @@
   "company_affiliations": [
     {
       "name": "Aterian, Inc.",
-      "ticker": "ATRL",
+      "ticker": "ATER",
       "exchange": "NASDAQ",
       "title_or_role": "Independent Director",
-      "website": "https://www.aterian.io",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "website": "https://ir.aterian.io",
+      "start_date": "2022-04-01",
+      "end_date": "2024-07-01",
+      "validated": true
+    },
+    {
+      "name": "Funko, Inc.",
+      "ticker": "FNKO",
+      "exchange": "NASDAQ",
+      "website": "https://investor.funko.com",
+      "title_or_role": "Chief Executive Officer and Member of the Board of Directors",
+      "start_date": "2024-05-20",
+      "end_date": "2025-07-05",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

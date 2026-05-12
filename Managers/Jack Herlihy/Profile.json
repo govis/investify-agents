@@ -16,6 +16,26 @@
       "website": "https://oklo.com",
       "start_date": "2024-05-01",
       "end_date": null
+    },
+    {
+      "name": "Ellington Credit Company",
+      "ticker": "EARN",
+      "exchange": "NYSE",
+      "website": "https://www.ellingtoncredit.com",
+      "title_or_role": "Chief Operating Officer & Treasurer",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ellington Residential Mortgage REIT",
+      "ticker": "EARN",
+      "exchange": "NYSE",
+      "website": "https://www.ellingtonresidential.com",
+      "title_or_role": "CFO & Co-Chief Investment Officer",
+      "start_date": "2015",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Audit Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

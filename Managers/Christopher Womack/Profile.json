@@ -12,10 +12,31 @@
       "name": "The Southern Company",
       "ticker": "SO",
       "exchange": "NYSE",
-      "title_or_role": "Chairman, President and Chief Executive Officer",
+      "title_or_role": "President and Chief Executive Officer (Director)",
       "website": "https://www.southerncompany.com",
-      "start_date": "2023-05-24",
-      "end_date": null
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Invesco Ltd.",
+      "ticker": "IVZ",
+      "exchange": "NYSE",
+      "website": "https://www.invesco.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2021-10-12",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Essential Utilities, Inc.",
+      "ticker": "WTRG",
+      "exchange": "NYSE",
+      "website": "https://www.essential.co",
+      "title_or_role": "Independent Director",
+      "start_date": "2019-05-02",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

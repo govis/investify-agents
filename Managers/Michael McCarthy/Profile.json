@@ -12,19 +12,21 @@
       "name": "QuantumScape Corporation",
       "ticker": "QS",
       "exchange": "NYSE",
-      "title_or_role": "Chief Legal Officer",
+      "title_or_role": "Director",
       "website": "https://www.quantumscape.com",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Union Pacific Corporation",
       "ticker": "UNP",
       "exchange": "NYSE",
-      "title_or_role": "Independent Lead Director",
+      "title_or_role": "Director (Independent Chairperson)",
       "website": "https://www.up.com",
-      "start_date": "2008-01-01",
-      "end_date": null
+      "start_date": "2008",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +38,5 @@
     "Executive Committee",
     "Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

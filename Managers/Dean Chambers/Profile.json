@@ -10,12 +10,43 @@
   "company_affiliations": [
     {
       "name": "Clean Air Metals Inc.",
-      "ticker": "AIR",
-      "exchange": "TSXV",
-      "title_or_role": "Independent Director",
-      "website": "https://cleanairmetals.ca",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "ticker": "TSXV: AIR",
+      "exchange": "TSX Venture Exchange",
+      "title_or_role": "Director",
+      "website": "https://cleanairmetals.ca/",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Mountain Province Diamonds Inc.",
+      "ticker": "TSX: MPVD",
+      "exchange": "Toronto Stock Exchange",
+      "website": "https://www.mountainprovince.com/",
+      "title_or_role": "Director",
+      "start_date": "May 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Global Atomic Corporation",
+      "ticker": "TSX: GLO",
+      "exchange": "Toronto Stock Exchange",
+      "website": "https://globalatomiccorp.com/",
+      "title_or_role": "Director",
+      "start_date": "May 10, 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sherritt International Corporation",
+      "ticker": "TSX: S",
+      "exchange": "Toronto Stock Exchange",
+      "website": "https://sherritt.com/",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "June 2007",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +58,5 @@
     "Audit Committee (Chair)",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

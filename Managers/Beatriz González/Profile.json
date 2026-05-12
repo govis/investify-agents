@@ -12,10 +12,11 @@
       "name": "Wallbox N.V.",
       "ticker": "WBX",
       "exchange": "NYSE",
-      "title_or_role": "Non-Executive Director",
+      "title_or_role": "Member of the Board of Directors (Non-executive Chairman)",
       "website": "https://wallbox.com",
-      "start_date": "2021-10-01",
-      "end_date": null
+      "start_date": "October 2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +26,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

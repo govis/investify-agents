@@ -25,6 +25,26 @@
       "website": "https://www.ti.com",
       "start_date": "2016-01-01",
       "end_date": null
+    },
+    {
+      "name": "Baker Hughes Company",
+      "ticker": "BKR",
+      "exchange": "NYSE",
+      "website": "https://www.bakerhughes.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "January 2012",
+      "end_date": "July 2017",
+      "validated": true
+    },
+    {
+      "name": "Baker Hughes Incorporated",
+      "ticker": "BHI",
+      "exchange": "NYSE",
+      "website": "https://www.bakerhughes.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2013",
+      "end_date": "July 2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -37,6 +57,5 @@
     "Compensation Committee",
     "Governance and Stockholder Relations Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,51 @@
       "name": "Advanced Micro Devices, Inc.",
       "ticker": "AMD",
       "exchange": "NASDAQ",
-      "title_or_role": "Lead Independent Director",
-      "website": "https://www.amd.com",
-      "start_date": "2006-01-01",
-      "end_date": null
+      "title_or_role": "Director / Chairman",
+      "website": "amd.com",
+      "start_date": "2006",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "FARO Technologies, Inc.",
+      "ticker": "FARO",
+      "exchange": "NASDAQ",
+      "website": "faro.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "IAMGOLD Corporation",
+      "ticker": "IAG",
+      "exchange": "TSX",
+      "website": "iamgold.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SMTC Corporation",
+      "ticker": "SMTX",
+      "exchange": "NASDAQ",
+      "website": "smtc.com",
+      "title_or_role": "President & CEO / Director",
+      "start_date": "2003",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ATI Technologies Inc.",
+      "ticker": "ATYT",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": "2006",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +67,5 @@
     "Audit and Risk Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

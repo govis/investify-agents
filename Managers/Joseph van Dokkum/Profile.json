@@ -13,9 +13,20 @@
       "ticker": "VRT",
       "exchange": "NYSE",
       "title_or_role": "Director",
-      "website": "https://www.vertiv.com",
-      "start_date": "2020-02-01",
-      "end_date": null
+      "website": "vertiv.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Siemens AG",
+      "ticker": "SIEGY",
+      "exchange": "OTC",
+      "website": "siemens.com",
+      "title_or_role": "President & CEO (Siemens Power Transmission & Distribution, Inc.)",
+      "start_date": "1997",
+      "end_date": "2002",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +38,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

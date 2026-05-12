@@ -10,21 +10,53 @@
   "company_affiliations": [
     {
       "name": "Onyx Gold Corp.",
-      "ticker": "ONYX",
-      "exchange": "TSX",
-      "title_or_role": "Chief Financial Officer and Corporate Secretary",
-      "website": "https://onyxgold.com",
-      "start_date": "2023-06-01",
-      "end_date": null
+      "ticker": "ONX",
+      "exchange": "TSXV",
+      "title_or_role": "Chief Financial Officer",
+      "website": "onyxgold.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Oreterra Metals Corp.",
-      "ticker": "OTMC",
+      "ticker": "ORE",
       "exchange": "TSXV",
-      "title_or_role": "Chief Financial Officer, Corporate Secretary, Director",
-      "website": "https://oreterra.com",
-      "start_date": "2021-06-01",
-      "end_date": null
+      "title_or_role": "Chief Financial Officer",
+      "website": "oreterrametals.com",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tudor Gold Corp.",
+      "ticker": "TUD",
+      "exchange": "TSXV",
+      "website": "tudorgold.ca",
+      "title_or_role": "Chief Financial Officer & Secretary",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "HighGold Mining Inc.",
+      "ticker": "HIGH",
+      "exchange": "TSXV",
+      "website": "highgoldmining.com",
+      "title_or_role": "Chief Financial Officer & Secretary",
+      "start_date": "2019",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Carlin Gold Corp.",
+      "ticker": "CGD",
+      "exchange": "TSXV",
+      "website": "carlingold.com",
+      "title_or_role": "Director of Finance / CFO",
+      "start_date": "2010",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -34,6 +66,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,51 @@
       "name": "Electra Battery Materials Corporation",
       "ticker": "ELBM",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://electrabmc.com",
-      "start_date": "2018-11-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Maritime Resources Corp.",
+      "ticker": "MAE",
+      "exchange": "TSXV",
+      "website": "https://maritimeresourcescorp.com",
+      "title_or_role": "President, CEO & Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gungnir Resources Inc.",
+      "ticker": "GUG",
+      "exchange": "TSXV",
+      "website": "https://gungnir-resources.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2026",
+      "validated": true
+    },
+    {
+      "name": "Aurelius Minerals Inc.",
+      "ticker": "AUL",
+      "exchange": "TSXV",
+      "website": "https://aureliusminerals.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "US Cobalt Inc.",
+      "ticker": "USCO",
+      "exchange": "TSXV",
+      "website": "https://uscobaltinc.com",
+      "title_or_role": "Technical Advisor",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +67,5 @@
     "Compensation Committee (Chair)",
     "Technical Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

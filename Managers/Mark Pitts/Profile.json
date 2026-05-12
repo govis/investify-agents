@@ -12,10 +12,51 @@
       "name": "Deep Yellow Limited",
       "ticker": "DYL",
       "exchange": "ASX",
-      "title_or_role": "Chief Financial Officer and Company Secretary",
-      "website": "https://deepyellow.com.au",
-      "start_date": "2010-02-01",
-      "end_date": null
+      "title_or_role": "Company Secretary / CFO",
+      "website": "https://www.deepyellow.com.au/",
+      "start_date": "2003",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Variscan Mines Limited",
+      "ticker": "VAR",
+      "exchange": "ASX",
+      "website": "https://www.variscan.com.au/",
+      "title_or_role": "Company Secretary",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GWR Group Limited",
+      "ticker": "GWR",
+      "exchange": "ASX",
+      "website": "https://gwrgroup.com.au/",
+      "title_or_role": "Company Secretary",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Alliance Nickel Limited",
+      "ticker": "AXN",
+      "exchange": "ASX",
+      "website": "https://alliancenickel.com.au/",
+      "title_or_role": "Company Secretary",
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Black Cat Syndicate Limited",
+      "ticker": "BC8",
+      "exchange": "ASX",
+      "website": "https://www.blackcatsyndicate.com.au/",
+      "title_or_role": "Joint Company Secretary",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +64,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

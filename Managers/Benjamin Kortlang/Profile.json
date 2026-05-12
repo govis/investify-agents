@@ -16,6 +16,16 @@
       "website": "https://enphase.com",
       "start_date": "2010-05-01",
       "end_date": null
+    },
+    {
+      "name": "Luminar Technologies, Inc.",
+      "ticker": "LAZR",
+      "exchange": "NASDAQ",
+      "website": "https://www.luminartech.com",
+      "title_or_role": "Director",
+      "start_date": "2021-06-08",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +37,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -14,8 +14,39 @@
       "exchange": "NYSE",
       "title_or_role": "Director",
       "website": "https://www.fcx.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "start_date": "October 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Solid Power, Inc.",
+      "ticker": "SLDP",
+      "exchange": "NASDAQ",
+      "website": "https://www.solidpowerbattery.com",
+      "title_or_role": "Director (Chair)",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "AT&T Inc.",
+      "ticker": "T",
+      "exchange": "NYSE",
+      "website": "https://www.att.com",
+      "title_or_role": "Senior EVP & CFO",
+      "start_date": "June 2011",
+      "end_date": "March 2021",
+      "validated": true
+    },
+    {
+      "name": "Am\u00e9rica M\u00f3vil, S.A.B. de C.V.",
+      "ticker": "AMX",
+      "exchange": "NYSE",
+      "website": "https://www.americamovil.com",
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": "2011",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +58,5 @@
     "Audit",
     "Compensation"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

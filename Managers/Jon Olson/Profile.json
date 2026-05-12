@@ -14,8 +14,39 @@
       "exchange": "NASDAQ",
       "title_or_role": "Independent Director",
       "website": "https://www.amd.com",
-      "start_date": "2022-02-14",
-      "end_date": null
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rocket Lab USA, Inc.",
+      "ticker": "RKLB",
+      "exchange": "NASDAQ",
+      "website": "https://www.rocketlabusa.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kulicke & Soffa Industries, Inc.",
+      "ticker": "KLIC",
+      "exchange": "NASDAQ",
+      "website": "https://www.kns.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Xilinx, Inc.",
+      "ticker": "XLNX",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "title_or_role": "Chief Financial Officer (CFO)",
+      "start_date": "2005",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +56,5 @@
   "committees": [
     "Audit and Risk Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

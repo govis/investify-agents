@@ -12,10 +12,11 @@
       "name": "Parsons Corporation",
       "ticker": "PSN",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.parsons.com",
-      "start_date": "2012",
-      "end_date": null
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +27,5 @@
     "Audit Committee",
     "Compensation and Management Development Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

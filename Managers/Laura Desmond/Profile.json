@@ -12,10 +12,21 @@
       "name": "Adobe Inc.",
       "ticker": "ADBE",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.adobe.com",
-      "start_date": "2012-05-01",
-      "end_date": null
+      "title_or_role": "Director (Board Member)",
+      "website": "https://www.adobe.com/",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "DoubleVerify Holdings, Inc.",
+      "ticker": "DV",
+      "exchange": "NYSE",
+      "website": "https://www.doubleverify.com/",
+      "title_or_role": "Director (Board Member)",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -30,6 +41,5 @@
   "committees": [
     "Executive Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

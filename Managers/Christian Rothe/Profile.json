@@ -16,6 +16,16 @@
       "website": "https://www.rockwellautomation.com",
       "start_date": "2023-11-01",
       "end_date": null
+    },
+    {
+      "name": "Graco Inc.",
+      "ticker": "GGG",
+      "exchange": "NYSE",
+      "website": "https://www.graco.com",
+      "title_or_role": "President, Global Industrial Division",
+      "start_date": "2018",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +33,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

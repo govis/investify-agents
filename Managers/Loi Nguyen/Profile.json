@@ -16,6 +16,16 @@
       "website": "https://www.marvell.com",
       "start_date": "2021-04-01",
       "end_date": null
+    },
+    {
+      "name": "Inphi Corporation",
+      "ticker": "IPHI",
+      "exchange": "NASDAQ",
+      "website": "https://www.inphi.com",
+      "title_or_role": "Co-Founder and Senior Vice President",
+      "start_date": "2000",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +33,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

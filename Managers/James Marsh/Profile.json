@@ -16,6 +16,16 @@
       "website": "https://www.bossenergy.com",
       "start_date": "2023-01-01",
       "end_date": null
+    },
+    {
+      "name": "Andromeda Metals Limited",
+      "ticker": "ADN",
+      "exchange": "ASX",
+      "website": "https://www.andromet.com.au/",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": "2023-10-10",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +33,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

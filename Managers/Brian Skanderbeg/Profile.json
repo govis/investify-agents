@@ -16,6 +16,26 @@
       "website": "https://www.wesdome.com",
       "start_date": "2018-06-01",
       "end_date": null
+    },
+    {
+      "name": "GFG Resources Inc.",
+      "ticker": "GFG",
+      "exchange": "TSXV",
+      "website": "https://www.gfgresources.com/",
+      "title_or_role": "President and CEO",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Claude Resources Inc.",
+      "ticker": "CRJ",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Various roles (joined company)",
+      "start_date": "2007",
+      "end_date": "2012-09-01",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Audit Committee",
     "Technical Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

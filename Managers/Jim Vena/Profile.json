@@ -12,10 +12,31 @@
       "name": "Union Pacific Corporation",
       "ticker": "UNP",
       "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer, Director",
-      "website": "https://www.up.com",
+      "title_or_role": "Chief Executive Officer & Director",
+      "website": "www.up.com",
       "start_date": "2023-08-14",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "FedEx Corporation",
+      "ticker": "FDX",
+      "exchange": "NYSE",
+      "website": "www.fedex.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Canadian National Railway Company",
+      "ticker": "CNR",
+      "exchange": "TSX",
+      "website": "www.cn.ca",
+      "title_or_role": "Executive Vice President & Chief Operating Officer",
+      "start_date": "1977",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

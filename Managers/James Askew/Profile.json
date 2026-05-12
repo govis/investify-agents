@@ -12,10 +12,81 @@
       "name": "Syrah Resources Limited",
       "ticker": "SYR",
       "exchange": "ASX",
-      "title_or_role": "Non-Executive Chairman",
-      "website": "https://www.syrahresources.com.au",
-      "start_date": "2014-10-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "syrahresources.com.au",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Asian Mineral Resources Limited",
+      "ticker": "ASN",
+      "exchange": "TSXV",
+      "website": "n/a",
+      "title_or_role": "Director / Chairman",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Evolution Mining Limited",
+      "ticker": "EVN",
+      "exchange": "ASX",
+      "website": "evolutionmining.com.au",
+      "title_or_role": "Founding Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sino Gold Mining Limited",
+      "ticker": "SGX",
+      "exchange": "ASX (delisted)",
+      "website": "n/a",
+      "title_or_role": "Founding Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Yamana Resources Inc.",
+      "ticker": "YRI",
+      "exchange": "TSX",
+      "website": "yamana.com",
+      "title_or_role": "Founding Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ausdrill Limited",
+      "ticker": "ASL",
+      "exchange": "ASX",
+      "website": "perenti.com",
+      "title_or_role": "Founding Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "West Wits Mining Limited",
+      "ticker": "WWI",
+      "exchange": "ASX",
+      "website": "westwitsmining.com",
+      "title_or_role": "Founding Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Robex Resources Inc.",
+      "ticker": "RBX",
+      "exchange": "TSXV",
+      "website": "robexgold.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +97,5 @@
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

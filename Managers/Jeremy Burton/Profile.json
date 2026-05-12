@@ -11,11 +11,32 @@
     {
       "name": "Snowflake Inc.",
       "ticker": "SNOW",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
       "website": "https://www.snowflake.com",
-      "start_date": "2016-09-01",
-      "end_date": null
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Dell Technologies Inc.",
+      "ticker": "DELL",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "title_or_role": "Chief Marketing Officer",
+      "start_date": "2016",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "EMC Corporation",
+      "ticker": "EMC",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "title_or_role": "President, Products and Marketing / Executive Vice President",
+      "start_date": "2010",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +46,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

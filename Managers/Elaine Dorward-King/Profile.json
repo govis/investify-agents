@@ -25,6 +25,46 @@
       "website": "https://www.sibanyestillwater.com",
       "start_date": "2020-03-27",
       "end_date": null
+    },
+    {
+      "name": "Kenmare Resources PLC",
+      "ticker": "KMR",
+      "exchange": "LSE",
+      "website": "https://www.kenmareresources.com/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Great Lakes Dredge & Dock Corporation",
+      "ticker": "GLDD",
+      "exchange": "NASDAQ",
+      "website": "https://gldd.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nevada Copper Corp.",
+      "ticker": "NCU",
+      "exchange": "TSX",
+      "website": "https://www.nevadacopper.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bond Resources Inc.",
+      "ticker": "BJB",
+      "exchange": "CSE",
+      "website": "https://bondresources.ca/",
+      "title_or_role": "Independent Director",
+      "start_date": "2020",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -38,6 +78,5 @@
     "Safety and Health Committee",
     "Social, Ethics and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

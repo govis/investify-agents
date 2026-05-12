@@ -12,10 +12,31 @@
       "name": "Perseus Mining Limited",
       "ticker": "PRU",
       "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
+      "title_or_role": "Independent Non-Executive Director",
       "website": "https://perseusmining.com/",
-      "start_date": "2016-04-19",
-      "end_date": null
+      "start_date": "April 2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Amara Mining plc",
+      "ticker": "AMA",
+      "exchange": "LSE (London Stock Exchange - AIM)",
+      "website": null,
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "Unknown",
+      "end_date": "April 2016",
+      "validated": true
+    },
+    {
+      "name": "Cornish Metals Inc.",
+      "ticker": "TIN",
+      "exchange": "LSE (AIM) / TSXV",
+      "website": "https://cornishmetals.com/",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Remuneration Committee (Chair)",
     "Technical Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -11,11 +11,52 @@
     {
       "name": "Skeena Resources Limited",
       "ticker": "SKE",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://skeenaresources.com",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "exchange": "TSX",
+      "title_or_role": "Lead Director",
+      "website": "skeenaresources.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vizsla Silver Corp.",
+      "ticker": "VZLA",
+      "exchange": "TSXV",
+      "website": "vizslasilvercorp.ca",
+      "title_or_role": "Chairman",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vizsla Copper Corp.",
+      "ticker": "VCU",
+      "exchange": "TSXV",
+      "website": "vizslacopper.com",
+      "title_or_role": "Executive Chairman & CEO",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Outback Goldfields Corp.",
+      "ticker": "OZ",
+      "exchange": "CSE",
+      "website": "outbackgoldfields.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "TSX",
+      "website": "nexgenenergy.ca",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +67,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,51 @@
       "name": "Royal Gold, Inc.",
       "ticker": "RGLD",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Financial Officer and Treasurer",
+      "title_or_role": "Director",
       "website": "https://www.royalgold.com",
-      "start_date": "2020-01-02",
-      "end_date": null
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "First Quantum Minerals Ltd.",
+      "ticker": "FM",
+      "exchange": "TSX",
+      "website": "https://www.first-quantum.com",
+      "title_or_role": "Board Chair, Independent Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tahoe Resources Inc.",
+      "ticker": "THO",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Founder, President, and CEO",
+      "start_date": "2010",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Goldcorp Inc.",
+      "ticker": "G",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "President and CEO",
+      "start_date": "2006",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Glamis Gold Ltd.",
+      "ticker": "GLG",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "President and CEO",
+      "start_date": "1999",
+      "end_date": "2006",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +64,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

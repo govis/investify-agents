@@ -12,10 +12,31 @@
       "name": "Northern Star Resources Limited",
       "ticker": "NST",
       "exchange": "ASX",
-      "title_or_role": "Lead Independent Director",
-      "website": "https://www.nsrltd.com",
-      "start_date": "2012-11-30",
-      "end_date": null
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.nsrltd.com/",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Turaco Gold Limited",
+      "ticker": "TCG",
+      "exchange": "ASX",
+      "website": "https://turacogold.com.au/",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Medallion Metals Limited",
+      "ticker": "MM8",
+      "exchange": "ASX",
+      "website": "https://medallionmetals.com.au/",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +48,5 @@
     "Nomination Committee",
     "Remuneration Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

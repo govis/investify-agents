@@ -12,10 +12,31 @@
       "name": "Prologis, Inc.",
       "ticker": "PLD",
       "exchange": "NYSE",
-      "title_or_role": "Chief Legal Officer, General Counsel and Secretary",
+      "title_or_role": "Chief Legal Officer and General Counsel",
       "website": "https://www.prologis.com",
-      "start_date": "1995-01-01",
-      "end_date": null
+      "start_date": "2011",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "FIBRA Prologis",
+      "ticker": "FIBRAPL 14 (BMV) / FBBPF (OTC)",
+      "exchange": "BMV (Mexican Stock Exchange) / OTC",
+      "website": "https://www.fibraprologis.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "Not specified",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "FIBRA Terrafina",
+      "ticker": "TERRA13 (BMV) / CBAOF (OTC)",
+      "exchange": "BMV (Mexican Stock Exchange) / OTC",
+      "website": "https://www.terrafina.mx",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "Not specified",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

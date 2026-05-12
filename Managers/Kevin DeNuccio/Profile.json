@@ -12,10 +12,21 @@
       "name": "Juniper Networks, Inc.",
       "ticker": "JNPR",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member of the Board of Directors",
       "website": "https://www.juniper.net",
-      "start_date": "2014-01-01",
-      "end_date": null
+      "start_date": "February 2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Calix, Inc.",
+      "ticker": "CALX",
+      "exchange": "NYSE",
+      "website": "https://www.calix.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "October 1, 2012",
+      "end_date": "May 12, 2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +36,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

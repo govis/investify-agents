@@ -13,9 +13,20 @@
       "ticker": "BGL",
       "exchange": "ASX",
       "title_or_role": "Chief Financial Officer",
-      "website": "https://www.bellevuegold.com.au",
-      "start_date": "2022-04-01",
-      "end_date": null
+      "website": "https://www.bellevuegold.com.au/",
+      "start_date": "April 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Northern Star Resources Limited",
+      "ticker": "NST",
+      "exchange": "ASX",
+      "website": "https://www.nsrltd.com/",
+      "title_or_role": "General Manager - Finance",
+      "start_date": null,
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

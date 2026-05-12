@@ -12,19 +12,41 @@
       "name": "Artemis Gold Inc.",
       "ticker": "ARTG",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://www.artemisgoldinc.com",
-      "start_date": "2021-06-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://artemisgoldinc.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Revival Gold Inc.",
       "ticker": "RVG",
-      "exchange": "TSX",
-      "title_or_role": "Vice President, Environmental, Health & Safety",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
       "website": "https://revival-gold.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Liberty Gold Corp.",
+      "ticker": "LGD",
+      "exchange": "TSX",
+      "website": "https://libertygold.ca",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "DigitalX Limited",
+      "ticker": "DCC",
+      "exchange": "ASX",
+      "website": "https://digitalx.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -34,6 +56,5 @@
   "committees": [
     "Health, Safety, Environment and Social Performance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

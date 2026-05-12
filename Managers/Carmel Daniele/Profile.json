@@ -12,10 +12,21 @@
       "name": "Lundin Gold Inc.",
       "ticker": "LUG",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://lundingold.com",
-      "start_date": "2014-11-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://lundingold.com/",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Filo Corp.",
+      "ticker": "FIL",
+      "exchange": "TSX",
+      "website": "https://filocorp.com/",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

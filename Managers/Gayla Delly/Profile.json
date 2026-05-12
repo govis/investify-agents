@@ -25,6 +25,26 @@
       "website": "https://www.flowserve.com",
       "start_date": "2011-01-01",
       "end_date": null
+    },
+    {
+      "name": "Littelfuse, Inc.",
+      "ticker": "LFUS",
+      "exchange": "NASDAQ",
+      "website": "https://www.littelfuse.com",
+      "title_or_role": "Director",
+      "start_date": "2023-09-28",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Benchmark Electronics, Inc.",
+      "ticker": "BHE",
+      "exchange": "NYSE",
+      "website": "https://www.bench.com",
+      "title_or_role": "Chief Executive Officer and Director",
+      "start_date": "2012",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +56,5 @@
     "Audit Committee (Chair)",
     "Finance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -10,12 +10,73 @@
   "company_affiliations": [
     {
       "name": "Atlas Copco AB",
-      "ticker": "ATCO",
+      "ticker": "ATCO-A",
       "exchange": "STO",
-      "title_or_role": "Chair of the Board",
-      "website": "https://www.atlascopcogroup.com",
-      "start_date": "2014-01-01",
-      "end_date": null
+      "title_or_role": "Chairman of the Board",
+      "website": "atlascopcogroup.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "AB SKF",
+      "ticker": "SKF-A",
+      "exchange": "STO",
+      "website": "skf.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Electrolux AB",
+      "ticker": "ELUX-B",
+      "exchange": "STO",
+      "website": "electroluxgroup.com",
+      "title_or_role": "President and CEO",
+      "start_date": "2002",
+      "end_date": "2010",
+      "validated": true
+    },
+    {
+      "name": "Stora Enso Oyj",
+      "ticker": "STE-A",
+      "exchange": "STO",
+      "website": "storaenso.com",
+      "title_or_role": "Board Member",
+      "start_date": "2009",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Investor AB",
+      "ticker": "INVE-B",
+      "exchange": "STO",
+      "website": "investorab.com",
+      "title_or_role": "Board Member",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Munters Group AB",
+      "ticker": "MTRS",
+      "exchange": "STO",
+      "website": "munters.com",
+      "title_or_role": "Board Member",
+      "start_date": "2017",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Nederman Holding AB",
+      "ticker": "NMAN",
+      "exchange": "STO",
+      "website": "nedermangroup.com",
+      "title_or_role": "Board Member",
+      "start_date": "2011",
+      "end_date": "2018",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +87,5 @@
     "Audit Committee",
     "Remuneration Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

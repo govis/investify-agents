@@ -12,10 +12,31 @@
       "name": "CrowdStrike Holdings, Inc.",
       "ticker": "CRWD",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
+      "title_or_role": "Member of the Board of Directors",
       "website": "https://www.crowdstrike.com",
-      "start_date": "2017-11-01",
-      "end_date": null
+      "start_date": "2017-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Splunk Inc.",
+      "ticker": "SPLK",
+      "exchange": "NASDAQ",
+      "website": "https://www.splunk.com",
+      "title_or_role": "Member of the Board of Directors / Non-Executive Chairman",
+      "start_date": "2011",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Hyperion Solutions Corporation",
+      "ticker": "HYSL",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "President and Chief Executive Officer (CEO)",
+      "start_date": "2004",
+      "end_date": "2007",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

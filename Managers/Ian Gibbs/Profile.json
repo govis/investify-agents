@@ -12,10 +12,61 @@
       "name": "Lundin Gold Inc.",
       "ticker": "LUG",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://lundingold.com",
-      "start_date": "2014-11-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "lundingold.com",
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fireweed Metals Corp.",
+      "ticker": "FWZ",
+      "exchange": "TSXV",
+      "website": "fireweedmetals.com",
+      "title_or_role": "President, CEO & Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lucara Diamond Corp.",
+      "ticker": "LUC",
+      "exchange": "TSX",
+      "website": "lucaradiamond.com",
+      "title_or_role": "Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NGEx Minerals Ltd.",
+      "ticker": "NGEX",
+      "exchange": "TSXV",
+      "website": "ngexminerals.com",
+      "title_or_role": "Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Filo Corp. (formerly Filo Mining)",
+      "ticker": "FIL",
+      "exchange": "TSX",
+      "website": "filocorp.com",
+      "title_or_role": "CFO",
+      "start_date": "2016",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Josemar\u00eda Resources Inc.",
+      "ticker": "JOSE",
+      "exchange": "TSX",
+      "website": "josemariaresources.com",
+      "title_or_role": "CFO",
+      "start_date": "2016",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +77,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

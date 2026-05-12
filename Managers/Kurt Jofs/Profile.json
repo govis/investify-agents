@@ -16,6 +16,26 @@
       "website": "https://www.volvogroup.com",
       "start_date": "2019-04-01",
       "end_date": null
+    },
+    {
+      "name": "Telefonaktiebolaget LM Ericsson",
+      "ticker": "ERIC-B",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.ericsson.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2018",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "TietoEVRY",
+      "ticker": "TIETO",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.tietoevry.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2010",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +45,5 @@
   "committees": [
     "Remuneration Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

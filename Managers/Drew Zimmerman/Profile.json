@@ -11,11 +11,22 @@
     {
       "name": "Stallion Uranium Corp.",
       "ticker": "STUD",
-      "exchange": "TSX",
-      "title_or_role": "Chief Executive Officer, Director",
-      "website": "https://stallionuranium.com",
-      "start_date": "2021-04-01",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "CEO",
+      "website": "https://stallionuranium.com/",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Noble Plains Uranium Corp.",
+      "ticker": "NOBL",
+      "exchange": "TSXV",
+      "website": "https://nobleplains.com/",
+      "title_or_role": "CEO and Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

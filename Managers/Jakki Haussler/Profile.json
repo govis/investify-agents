@@ -14,8 +14,39 @@
       "exchange": "NYSE",
       "title_or_role": "Director",
       "website": "https://www.vertiv.com",
-      "start_date": "2022-06-01",
-      "end_date": null
+      "start_date": "August 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Service Corporation International",
+      "ticker": "SCI",
+      "exchange": "NYSE",
+      "website": "https://www.sci-corp.com",
+      "title_or_role": "Director",
+      "start_date": "May 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ingram Micro Holding Corporation",
+      "ticker": "INGM",
+      "exchange": "NYSE",
+      "website": "https://www.ingrammicro.com",
+      "title_or_role": "Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Covetrus, Inc.",
+      "ticker": "CVET",
+      "exchange": "NASDAQ",
+      "website": "https://covetrus.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

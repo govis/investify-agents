@@ -11,38 +11,62 @@
     {
       "name": "Sprott Physical Gold Trust",
       "ticker": "PHYS",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer, Director",
-      "website": "https://sprott.com/investment-strategies/physical-bullion-trusts/gold/",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "exchange": "NYSE / TSX",
+      "title_or_role": "Trustee / Officer",
+      "website": "https://sprott.com",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Sprott Energy Transition Materials ETF",
       "ticker": "SETM",
       "exchange": "NASDAQ",
-      "title_or_role": "Interested Trustee, President",
-      "website": "https://www.sprottetfs.com/setm-sprott-energy-transition-materials-etf/",
-      "start_date": "2018",
-      "end_date": null
+      "title_or_role": "Officer (Sprott Asset Management, Manager of the ETF)",
+      "website": "https://sprottetfs.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Sprott Physical Uranium Trust",
-      "ticker": "U",
-      "exchange": "UN.TSX",
-      "title_or_role": "Chief Executive Officer",
-      "website": "https://sprott.com/investment-strategies/physical-commodity-funds/uranium/",
-      "start_date": "2021-07-19",
-      "end_date": null
+      "ticker": "SPUT",
+      "exchange": "TSX / OTC",
+      "title_or_role": "Trustee / Officer",
+      "website": "https://sprott.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Sprott Uranium Miners ETF",
       "ticker": "URNM",
-      "exchange": "NYSE",
-      "title_or_role": "Interested Trustee, President",
-      "website": "https://sprottetfs.com/urnm-sprott-uranium-miners-etf/",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "exchange": "NYSE Arca",
+      "title_or_role": "Officer (Sprott Asset Management, Manager of the ETF)",
+      "website": "https://sprottetfs.com",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sprott Inc.",
+      "ticker": "SII",
+      "exchange": "NYSE / TSX",
+      "website": "https://sprott.com",
+      "title_or_role": "Senior Managing Partner",
+      "start_date": "September 2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sprott Asset Management",
+      "ticker": "SII",
+      "exchange": "NYSE / TSX",
+      "website": "https://sprott.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -53,6 +77,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

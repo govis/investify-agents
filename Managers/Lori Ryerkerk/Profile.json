@@ -16,6 +16,36 @@
       "website": "https://www.eaton.com",
       "start_date": "2020-01-01",
       "end_date": null
+    },
+    {
+      "name": "Celanese Corporation",
+      "ticker": "CE",
+      "exchange": "NYSE",
+      "website": "https://www.celanese.com",
+      "title_or_role": "Chairman, President & Chief Executive Officer",
+      "start_date": "2019",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Cencora, Inc.",
+      "ticker": "COR",
+      "exchange": "NYSE",
+      "website": "https://www.cencora.com",
+      "title_or_role": "Director",
+      "start_date": "2025-06-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Norfolk Southern Corporation",
+      "ticker": "NSC",
+      "exchange": "NYSE",
+      "website": "https://www.nscorp.com",
+      "title_or_role": "Director",
+      "start_date": "2025-01-27",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +57,5 @@
     "Compensation and Organization",
     "Governance"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

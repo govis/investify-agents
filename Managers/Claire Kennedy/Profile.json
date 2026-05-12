@@ -16,6 +16,26 @@
       "website": "https://www.alamosgold.com",
       "start_date": "2021-01-01",
       "end_date": null
+    },
+    {
+      "name": "Constellation Software Inc.",
+      "ticker": "CSU",
+      "exchange": "TSX",
+      "website": "https://www.csisoftware.com",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Neo Performance Materials Inc.",
+      "ticker": "NEO",
+      "exchange": "TSX",
+      "website": "https://www.neomaterials.com",
+      "title_or_role": "Director / Chair of the Board",
+      "start_date": "2017",
+      "end_date": "2025",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Corporate Governance and Nominating Committee",
     "Human Resources and Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

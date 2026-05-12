@@ -16,6 +16,26 @@
       "website": "https://www.hii.com",
       "start_date": "2020-01-01",
       "end_date": null
+    },
+    {
+      "name": "Centrus Energy Corp",
+      "ticker": "LEU",
+      "exchange": "NYSE",
+      "website": "https://www.centrusenergy.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Entergy Corporation",
+      "ticker": "ETR",
+      "exchange": "NYSE",
+      "website": "https://www.entergy.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +45,5 @@
   "committees": [
     "Executive Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

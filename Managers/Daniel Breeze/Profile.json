@@ -12,10 +12,21 @@
       "name": "Royal Gold, Inc.",
       "ticker": "RGLD",
       "exchange": "NASDAQ",
-      "title_or_role": "Vice President, Corporate Development",
+      "title_or_role": "Senior Vice President, Corporate Development",
       "website": "https://www.royalgold.com",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "start_date": "January 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bank of Montreal (BMO)",
+      "ticker": "BMO",
+      "exchange": "NYSE / TSX",
+      "website": "https://www.bmo.com",
+      "title_or_role": "Managing Director, Equities (BMO Capital Markets)",
+      "start_date": "2010",
+      "end_date": "December 2018",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

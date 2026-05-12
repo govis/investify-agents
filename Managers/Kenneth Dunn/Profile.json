@@ -12,10 +12,21 @@
       "name": "NextEra Energy, Inc.",
       "ticker": "NEE",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.nexteraenergy.com",
-      "start_date": "2010-01-01",
-      "end_date": null
+      "start_date": "December 2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "ticker": "BLK",
+      "exchange": "NYSE",
+      "website": "https://www.blackrock.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "Not specified",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Audit",
     "Finance & Investment"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

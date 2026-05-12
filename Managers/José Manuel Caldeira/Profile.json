@@ -11,11 +11,12 @@
     {
       "name": "Syrah Resources Limited",
       "ticker": "SYR",
-      "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
-      "website": "https://www.syrahresources.com.au",
-      "start_date": "2014-07-01",
-      "end_date": null
+      "exchange": "ASX (Australian Securities Exchange)",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.syrahresources.com.au/",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +26,5 @@
   "committees": [
     "Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

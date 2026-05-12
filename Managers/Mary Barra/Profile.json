@@ -16,6 +16,26 @@
       "website": "https://www.gm.com",
       "start_date": "2014-01-15",
       "end_date": null
+    },
+    {
+      "name": "General Dynamics Corporation",
+      "ticker": "GD",
+      "exchange": "NYSE",
+      "website": "https://www.generaldynamics.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "March 15, 2011",
+      "end_date": "March 2017",
+      "validated": true
+    },
+    {
+      "name": "The Walt Disney Company",
+      "ticker": "DIS",
+      "exchange": "NYSE",
+      "website": "https://www.thewaltdisneycompany.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "August 2017",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

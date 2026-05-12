@@ -11,11 +11,12 @@
     {
       "name": "Saab AB",
       "ticker": "SAAB-B",
-      "exchange": "STO",
-      "title_or_role": "Member of the Board, President and CEO",
+      "exchange": "Nasdaq Stockholm",
+      "title_or_role": "President and CEO",
       "website": "https://www.saab.com",
       "start_date": "2019-10-23",
-      "end_date": null
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Saab Aktiebolag",
@@ -33,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

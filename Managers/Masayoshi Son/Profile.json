@@ -12,10 +12,41 @@
       "name": "Arm Holdings plc",
       "ticker": "ARM",
       "exchange": "NASDAQ",
-      "title_or_role": "Chairman",
+      "title_or_role": "Director",
       "website": "https://www.arm.com",
-      "start_date": "2016-01-01",
-      "end_date": null
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SoftBank Group Corp.",
+      "ticker": "9984",
+      "exchange": "Tokyo Stock Exchange",
+      "website": "https://group.softbank",
+      "title_or_role": "Founder, Representative Director, Corporate Officer, CEO",
+      "start_date": "1981",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Alibaba Group Holding Limited",
+      "ticker": "BABA",
+      "exchange": "NYSE",
+      "website": "https://www.alibabagroup.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Sprint Corporation",
+      "ticker": "S (delisted)",
+      "exchange": "NYSE",
+      "website": "https://www.sprint.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +54,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

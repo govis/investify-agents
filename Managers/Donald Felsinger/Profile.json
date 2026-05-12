@@ -16,6 +16,46 @@
       "website": "https://www.northropgrumman.com",
       "start_date": "2007-01-01",
       "end_date": null
+    },
+    {
+      "name": "Sempra Energy",
+      "ticker": "SRE",
+      "exchange": "NYSE",
+      "website": "https://www.sempra.com",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "2006",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Archer-Daniels-Midland Company",
+      "ticker": "ADM",
+      "exchange": "NYSE",
+      "website": "https://www.adm.com",
+      "title_or_role": "Member of the Board of Directors / Lead Director",
+      "start_date": "2009",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Gannett Co., Inc.",
+      "ticker": "GCI",
+      "exchange": "NYSE",
+      "website": "https://www.gannett.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2015",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "TEGNA Inc.",
+      "ticker": "TGNA",
+      "exchange": "NYSE",
+      "website": "https://www.tegna.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2015",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +66,5 @@
     "Compensation and Management Development Committee",
     "Governance, Nominating and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

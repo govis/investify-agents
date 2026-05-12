@@ -16,6 +16,16 @@
       "website": "https://www.wheatonpm.com",
       "start_date": "2023-05-01",
       "end_date": null
+    },
+    {
+      "name": "Andean Precious Metals Corp.",
+      "ticker": "APM",
+      "exchange": "TSXV",
+      "website": "https://andeanpm.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2024-01-02",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +36,5 @@
     "Human Resources Committee",
     "Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

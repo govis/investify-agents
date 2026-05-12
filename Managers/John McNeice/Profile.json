@@ -16,6 +16,56 @@
       "website": "https://lahontangoldcorp.com/",
       "start_date": "2022-04-06",
       "end_date": null
+    },
+    {
+      "name": "Gold79 Mines Ltd.",
+      "ticker": "AUU",
+      "exchange": "TSXV",
+      "website": "https://gold79mines.com/",
+      "title_or_role": "Chief Financial Officer / Corporate Secretary",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "C3 Metals Inc.",
+      "ticker": "CCCM",
+      "exchange": "TSXV",
+      "website": "https://c3metals.com/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Northern Graphite Corp.",
+      "ticker": "NGC",
+      "exchange": "TSXV",
+      "website": "https://www.northerngraphite.com/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Mazorro Resources Inc.",
+      "ticker": "MZO",
+      "exchange": "TSXV",
+      "website": "http://www.mazorro.com/",
+      "title_or_role": "Chief Financial Officer / Corporate Secretary",
+      "start_date": null,
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Carube Copper Corp.",
+      "ticker": "CUC",
+      "exchange": "TSXV",
+      "website": "https://www.carubecopper.com/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +74,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

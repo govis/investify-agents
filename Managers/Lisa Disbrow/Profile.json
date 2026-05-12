@@ -12,10 +12,41 @@
       "name": "CACI International Inc",
       "ticker": "CACI",
       "exchange": "NYSE",
-      "title_or_role": "Director",
+      "title_or_role": "Member, Board of Directors (Chair)",
       "website": "https://www.caci.com",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Mercury Systems, Inc.",
+      "ticker": "MRCY",
+      "exchange": "NASDAQ",
+      "website": "https://www.mrcy.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BlackBerry Limited",
+      "ticker": "BB",
+      "exchange": "NYSE / TSX",
+      "website": "https://www.blackberry.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Perspecta Inc.",
+      "ticker": "PRSP",
+      "exchange": "NYSE",
+      "website": "https://www.peraton.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2018",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Compensation Committee",
     "Security and Risk Assessment Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -14,8 +14,19 @@
       "exchange": "NASDAQ",
       "title_or_role": "President, Microwave Electronics Division",
       "website": "https://www.kratosdefense.com",
-      "start_date": "2008-01-01",
-      "end_date": null
+      "start_date": "August 2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "General Microwave Corporation",
+      "ticker": "GMIC",
+      "exchange": "NASDAQ",
+      "website": "https://www.kratosdefense.com",
+      "title_or_role": "General Manager, General Microwave Israel",
+      "start_date": "1990",
+      "end_date": "2008",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

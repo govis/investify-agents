@@ -12,10 +12,21 @@
       "name": "Aecon Group Inc.",
       "ticker": "ARE",
       "exchange": "TSX",
-      "title_or_role": "President and Chief Executive Officer",
+      "title_or_role": "President, Chief Executive Officer and Director",
       "website": "https://www.aecon.com",
       "start_date": "2018-09-04",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Eiffage SA",
+      "ticker": "FGR",
+      "exchange": "Euronext Paris",
+      "website": "https://www.eiffage.com",
+      "title_or_role": "President and CEO of Eiffage Civil Works Division (Eiffage Infrastructures Branch)",
+      "start_date": "2011",
+      "end_date": "2018",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,11 @@
       "name": "Sunrun Inc.",
       "ticker": "RUN",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.sunrun.com",
-      "start_date": "2014-01-01",
-      "end_date": null
+      "title_or_role": "Member of the Board of Directors / Audit Committee Chairperson",
+      "website": "https://investors.sunrun.com",
+      "start_date": "2015",
+      "end_date": "January 1, 2025",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +27,5 @@
     "Audit Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

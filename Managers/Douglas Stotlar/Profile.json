@@ -12,10 +12,31 @@
       "name": "AECOM",
       "ticker": "ACM",
       "exchange": "NYSE",
-      "title_or_role": "Independent Chairman",
+      "title_or_role": "Director",
       "website": "https://aecom.com",
-      "start_date": "2014-01-01",
-      "end_date": null
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Reliance, Inc.",
+      "ticker": "RS",
+      "exchange": "NYSE",
+      "website": "https://reliance.com",
+      "title_or_role": "Director (October 2016 \u2013 Present); Chairman of the Board (January 2025 \u2013 Present)",
+      "start_date": "October 2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Con-way Inc.",
+      "ticker": "CNW",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "April 2005",
+      "end_date": "October 2015",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -31,6 +52,5 @@
     "Compensation Committee",
     "Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

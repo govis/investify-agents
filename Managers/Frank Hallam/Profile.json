@@ -11,20 +11,32 @@
     {
       "name": "Platinum Group Metals Ltd.",
       "ticker": "PTM",
-      "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
+      "exchange": "TSX",
+      "title_or_role": "President, CEO & Director",
       "website": "https://www.platinumgroupmetals.net",
-      "start_date": "2022-04-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Western Magnesium Corporation",
       "ticker": "WMG",
-      "exchange": "TSX",
+      "exchange": "TSXV",
       "title_or_role": "Director",
-      "website": "https://westernmagnesium.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "website": "https://www.westernmagnesium.com",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "West Vault Mining Inc.",
+      "ticker": "WVM",
+      "exchange": "TSXV",
+      "website": "https://www.westvaultmining.com",
+      "title_or_role": "CFO, Secretary & Director",
+      "start_date": "2007",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +48,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

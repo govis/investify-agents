@@ -14,8 +14,29 @@
       "exchange": "NASDAQ",
       "title_or_role": "President, Semiconductor Solutions Group",
       "website": "https://www.broadcom.com",
-      "start_date": "2022-07-01",
-      "end_date": null
+      "start_date": "May 2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "LSI Corporation",
+      "ticker": "LSI",
+      "exchange": "NASDAQ",
+      "website": "https://www.broadcom.com",
+      "title_or_role": "Senior Vice President of Sales",
+      "start_date": "January 2010",
+      "end_date": "May 2014",
+      "validated": true
+    },
+    {
+      "name": "Agere Systems Inc.",
+      "ticker": "AGR",
+      "exchange": "NYSE",
+      "website": "https://www.broadcom.com",
+      "title_or_role": "Director of Marketing, Enterprise Networking Business",
+      "start_date": "2005",
+      "end_date": "2010",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

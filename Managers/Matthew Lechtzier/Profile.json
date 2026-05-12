@@ -12,10 +12,31 @@
       "name": "GoviEx Uranium Inc.",
       "ticker": "GXU",
       "exchange": "TSXV",
-      "title_or_role": "Independent Director",
-      "website": "https://www.goviex.com",
-      "start_date": "2011-01-01",
-      "end_date": null
+      "title_or_role": "Strategic Advisor",
+      "website": "https://goviex.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sage Potash Corp.",
+      "ticker": "SAGE",
+      "exchange": "TSXV",
+      "website": "https://www.sagepotash.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Maple Gold Mines Ltd.",
+      "ticker": "MGM",
+      "exchange": "TSXV",
+      "website": "https://www.maplegoldmines.com",
+      "title_or_role": "Strategic Advisor",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +48,5 @@
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

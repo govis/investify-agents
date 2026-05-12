@@ -11,11 +11,42 @@
     {
       "name": "Equinox Gold Corp.",
       "ticker": "EQX",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "exchange": "TSX",
+      "title_or_role": "Director",
       "website": "https://www.equinoxgold.com",
-      "start_date": "2017-12-22",
-      "end_date": null
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Augusta Gold Corp.",
+      "ticker": "G",
+      "exchange": "TSX",
+      "website": "https://www.augustagold.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SRHI Inc. (formerly Sprott Resource Holdings Inc.)",
+      "ticker": "SRHI",
+      "exchange": "TSX",
+      "website": "https://www.srhi.ca",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "NewCastle Gold Ltd.",
+      "ticker": "NCA",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Audit Committee (Chair)",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

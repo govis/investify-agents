@@ -11,11 +11,62 @@
     {
       "name": "Franco-Nevada Corporation",
       "ticker": "FNV",
+      "exchange": "TSX, NYSE",
+      "title_or_role": "Director",
+      "website": "franco-nevada.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vale SA",
+      "ticker": "VALE",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.franco-nevada.com",
-      "start_date": "2019-05-01",
-      "end_date": null
+      "website": "vale.com",
+      "title_or_role": "Executive Director (Base Metals)",
+      "start_date": "2014",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Vale Canada Limited",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "vale.com",
+      "title_or_role": "CEO",
+      "start_date": "2014",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "PT Vale Indonesia Tbk",
+      "ticker": "INCO",
+      "exchange": "IDX",
+      "website": "vale.com/indonesia",
+      "title_or_role": "Member of the Board of Commissioners",
+      "start_date": "2014",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Baytex Energy Corp.",
+      "ticker": "BTE",
+      "exchange": "TSX, NYSE",
+      "website": "baytexenergy.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Pan American Silver Corp.",
+      "ticker": "PAAS",
+      "exchange": "TSX, NASDAQ",
+      "website": "panamericansilver.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +77,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

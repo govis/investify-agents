@@ -16,6 +16,36 @@
       "website": "https://www.sandstormgold.com",
       "start_date": "2013-01-01",
       "end_date": null
+    },
+    {
+      "name": "EnWave Corporation",
+      "ticker": "ENW",
+      "exchange": "TSXV",
+      "website": "https://www.enwave.net/",
+      "title_or_role": "Executive Chairman",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Morien Resources Corp.",
+      "ticker": "MOX",
+      "exchange": "TSXV",
+      "website": "https://morienres.com/",
+      "title_or_role": "Executive Chairman",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NuLegacy Gold Corporation",
+      "ticker": "NUG",
+      "exchange": "TSXV",
+      "website": "https://nulegacygold.com/",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

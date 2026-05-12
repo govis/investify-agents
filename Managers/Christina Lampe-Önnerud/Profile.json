@@ -12,10 +12,31 @@
       "name": "Livent Corporation",
       "ticker": "LTHM",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.livent.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "start_date": "2019",
+      "end_date": "2024-01-04",
+      "validated": true
+    },
+    {
+      "name": "ON Semiconductor Corporation",
+      "ticker": "ON",
+      "exchange": "NASDAQ",
+      "website": "https://www.onsemi.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2023-09-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Arcadium Lithium plc",
+      "ticker": "ALTM",
+      "exchange": "NYSE",
+      "website": "https://www.arcadiumlithium.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2024-01-04",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +46,5 @@
   "committees": [
     "Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

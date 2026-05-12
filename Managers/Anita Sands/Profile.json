@@ -34,6 +34,56 @@
       "website": "https://www.purestorage.com",
       "start_date": "2015-07",
       "end_date": null
+    },
+    {
+      "name": "Nu Holdings Ltd.",
+      "ticker": "NU",
+      "exchange": "NYSE",
+      "website": "https://nu.com.br",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nextdoor Holdings, Inc.",
+      "ticker": "KIND",
+      "exchange": "NYSE",
+      "website": "https://nextdoor.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "SVF Investment Corp.",
+      "ticker": "SVFA",
+      "exchange": "NASDAQ",
+      "website": "https://svfinvestmentcorp.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "iStar Inc. (now Safehold Inc.)",
+      "ticker": "SAFE",
+      "exchange": "NYSE",
+      "website": "https://safeholdinc.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Symantec Corp.",
+      "ticker": "SYMC",
+      "exchange": "NASDAQ",
+      "website": "https://broadcom.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -47,6 +97,5 @@
     "Nominating and Corporate Governance Committee",
     "Technology Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

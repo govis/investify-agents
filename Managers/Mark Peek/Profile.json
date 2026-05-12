@@ -14,8 +14,39 @@
       "exchange": "NYSE",
       "title_or_role": "Director",
       "website": "https://www.sentinelone.com",
-      "start_date": "2021-04-01",
-      "end_date": null
+      "start_date": "September 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Workday, Inc.",
+      "ticker": "WDAY",
+      "exchange": "NASDAQ",
+      "website": "https://www.workday.com",
+      "title_or_role": "Executive Vice President / Managing Director and Co-Head of Workday Ventures",
+      "start_date": "2018",
+      "end_date": "May 2025",
+      "validated": true
+    },
+    {
+      "name": "Trimble Inc.",
+      "ticker": "TRMB",
+      "exchange": "NASDAQ",
+      "website": "https://www.trimble.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Workiva Inc.",
+      "ticker": "WK",
+      "exchange": "NYSE",
+      "website": "https://www.workiva.com",
+      "title_or_role": "Director",
+      "start_date": "March 2026",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +56,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

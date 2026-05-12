@@ -25,6 +25,56 @@
       "website": "https://www.platinumgroupmetals.net",
       "start_date": "2022-04-01",
       "end_date": null
+    },
+    {
+      "name": "Montero Mining & Exploration Ltd.",
+      "ticker": "MON",
+      "exchange": "TSXV",
+      "website": "https://monteromining.com/",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Silver Elephant Mining Corp.",
+      "ticker": "ELEF",
+      "exchange": "TSX",
+      "website": "https://silverelef.com/",
+      "title_or_role": "Co-Founder & Director",
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nickel Creek Platinum Corp. (formerly Prophecy Platinum Corp.)",
+      "ticker": "NCP",
+      "exchange": "TSX",
+      "website": "https://www.nickelcreekplatinum.com/",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Silvercorp Metals Inc.",
+      "ticker": "SVM",
+      "exchange": "NYSE",
+      "website": "https://www.silvercorpmetals.com/",
+      "title_or_role": "Director and Audit Committee Chair",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CleanTech Vanadium Mining Corp.",
+      "ticker": "CTV",
+      "exchange": "TSXV",
+      "website": "https://cleantechctv.com/",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -38,6 +88,5 @@
     }
   ],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

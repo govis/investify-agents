@@ -12,10 +12,11 @@
       "name": "ASP Isotopes Inc.",
       "ticker": "ASPI",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://aspisotopes.com",
-      "start_date": "2021-09-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://aspisotopes.com/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -28,6 +29,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -13,9 +13,70 @@
       "ticker": "SYR",
       "exchange": "ASX",
       "title_or_role": "Company Secretary",
-      "website": "https://www.syrahresources.com.au",
-      "start_date": "2021-03-01",
-      "end_date": null
+      "website": "syrahresources.com.au",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Imagion Biosystems Limited",
+      "ticker": "IBX",
+      "exchange": "ASX",
+      "website": "imagionbiosystems.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2024-07-31",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fluence Corporation Limited",
+      "ticker": "FLC",
+      "exchange": "ASX",
+      "website": "fluencecorp.com",
+      "title_or_role": "Company Secretary",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "De.mem Limited",
+      "ticker": "DEM",
+      "exchange": "ASX",
+      "website": "demem.com.au",
+      "title_or_role": "Company Secretary",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Alcidion Group Limited",
+      "ticker": "ALC",
+      "exchange": "ASX",
+      "website": "alcidion.com",
+      "title_or_role": "Joint Company Secretary",
+      "start_date": "2019-03-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Medibio Limited",
+      "ticker": "MEB",
+      "exchange": "ASX",
+      "website": "medibio.com.au",
+      "title_or_role": "Company Secretary",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Elixinol Wellness Limited",
+      "ticker": "EXL",
+      "exchange": "ASX",
+      "website": "elixinolwellness.com",
+      "title_or_role": "Joint Company Secretary",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +84,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

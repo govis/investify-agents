@@ -12,10 +12,31 @@
       "name": "Wesdome Gold Mines Ltd.",
       "ticker": "WDO",
       "exchange": "TSX",
-      "title_or_role": "Chief Governance Officer and Corporate Secretary",
+      "title_or_role": "Chief Governance Officer & Corporate Secretary",
       "website": "https://www.wesdome.com",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bravo Mining Corp.",
+      "ticker": "BRVO",
+      "exchange": "TSXV",
+      "website": "https://bravomining.com",
+      "title_or_role": "Corporate Secretary",
+      "start_date": "2024-01-22",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kirkland Lake Gold Ltd.",
+      "ticker": "KL",
+      "exchange": "TSX",
+      "website": "https://www.agnicoeagle.com",
+      "title_or_role": "Corporate Secretary",
+      "start_date": "2013-05",
+      "end_date": "2015-06",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

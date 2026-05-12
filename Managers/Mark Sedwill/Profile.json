@@ -10,12 +10,13 @@
   "company_affiliations": [
     {
       "name": "BAE Systems plc",
-      "ticker": "BA",
-      "exchange": "LSE",
+      "ticker": "BA.L",
+      "exchange": "London Stock Exchange (LSE)",
       "title_or_role": "Non-Executive Director",
       "website": "https://www.baesystems.com",
-      "start_date": "2022-11-01",
-      "end_date": null
+      "start_date": "November 1, 2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +27,5 @@
     "ESG Committee",
     "Nominations Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

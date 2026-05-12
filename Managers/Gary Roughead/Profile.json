@@ -12,10 +12,21 @@
       "name": "Northrop Grumman Corporation",
       "ticker": "NOC",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.northropgrumman.com",
-      "start_date": "2012-01-01",
-      "end_date": null
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Walgreens Boots Alliance, Inc.",
+      "ticker": "WBA",
+      "exchange": "NASDAQ",
+      "website": "https://www.walgreensbootsalliance.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2012",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Compensation and Management Development Committee",
     "Governance, Nominating and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

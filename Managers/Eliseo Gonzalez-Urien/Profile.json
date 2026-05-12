@@ -10,12 +10,23 @@
   "company_affiliations": [
     {
       "name": "Seabridge Gold Inc.",
-      "ticker": "SA",
-      "exchange": "NYSE",
+      "ticker": "SEA",
+      "exchange": "TSX",
       "title_or_role": "Director",
       "website": "https://www.seabridgegold.com",
-      "start_date": "2006-01-01",
-      "end_date": null
+      "start_date": "January 2006",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Paramount Gold Nevada Corp.",
+      "ticker": "PZG",
+      "exchange": "NYSE American",
+      "website": "https://paramountnevada.com",
+      "title_or_role": "Director",
+      "start_date": "February 2015",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Sustainability Committee",
     "Technical Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

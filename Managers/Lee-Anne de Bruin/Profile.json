@@ -16,6 +16,36 @@
       "website": "https://perseusmining.com/",
       "start_date": "2021-11-01",
       "end_date": null
+    },
+    {
+      "name": "Resolute Mining Limited",
+      "ticker": "RSG",
+      "exchange": "ASX",
+      "website": "https://www.rml.com.au/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2017-02-27",
+      "end_date": "2020-09-04",
+      "validated": true
+    },
+    {
+      "name": "Gem Diamonds Limited",
+      "ticker": "GEMD",
+      "exchange": "LSE",
+      "website": "https://www.gemdiamonds.com/",
+      "title_or_role": "CEO and Financial Manager",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kimberley Diamond Company",
+      "ticker": "KDC",
+      "exchange": "ASX",
+      "website": null,
+      "title_or_role": "Managing Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +53,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

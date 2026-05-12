@@ -12,10 +12,41 @@
       "name": "Alphabet Inc.",
       "ticker": "GOOGL",
       "exchange": "NASDAQ",
-      "title_or_role": "Chair of the Board, Director",
+      "title_or_role": "Chairman of the Board",
       "website": "https://abc.xyz",
-      "start_date": "2018-02-01",
-      "end_date": null
+      "start_date": "2004",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2002",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Atheros Communications, Inc.",
+      "ticker": "ATHR",
+      "exchange": "NASDAQ",
+      "website": "https://www.qualcomm.com",
+      "title_or_role": "Co-founder and Member of the Board of Directors",
+      "start_date": "1998",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "MIPS Computer Systems, Inc.",
+      "ticker": "MIPS",
+      "exchange": "NASDAQ",
+      "website": "https://www.mips.com",
+      "title_or_role": "Co-founder",
+      "start_date": "1984",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

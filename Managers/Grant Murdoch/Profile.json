@@ -13,9 +13,50 @@
       "ticker": "LYC",
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
-      "website": "https://lynasrareearths.com",
+      "website": "https://lynasrareearths.com/",
+      "start_date": "2017-10-29",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Auswide Bank Ltd",
+      "ticker": "ABA",
+      "exchange": "ASX",
+      "website": "https://www.auswidebank.com.au/",
+      "title_or_role": "Non-Executive Director",
       "start_date": "2017-10-30",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ALS Limited",
+      "ticker": "ALQ",
+      "exchange": "ASX",
+      "website": "https://www.alsglobal.com/",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "OFX Group Limited",
+      "ticker": "OFX",
+      "exchange": "ASX",
+      "website": "https://www.ofx.com/",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cardno Limited",
+      "ticker": "CDD",
+      "exchange": "ASX",
+      "website": "https://www.cardno.com/",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +67,5 @@
     "Audit and Risk Committee (Chair)",
     "Nomination and Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

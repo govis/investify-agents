@@ -16,6 +16,26 @@
       "website": "https://www.rolls-royce.com",
       "start_date": "2015-11-01",
       "end_date": null
+    },
+    {
+      "name": "GKN plc",
+      "ticker": "GKN",
+      "exchange": "LSE",
+      "website": "https://www.gkn.com",
+      "title_or_role": "Managing Director, GKN Aerospace",
+      "start_date": "1999-11-01",
+      "end_date": "2002-12-31",
+      "validated": true
+    },
+    {
+      "name": "Babcock International Group PLC",
+      "ticker": "BAB",
+      "exchange": "LSE",
+      "website": "https://www.babcockinternational.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2023-06-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +47,5 @@
     "Nominations & Governance Committee",
     "Remuneration Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

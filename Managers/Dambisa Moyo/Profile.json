@@ -16,6 +16,76 @@
       "website": "https://www.chevron.com",
       "start_date": "2016-10-01",
       "end_date": null
+    },
+    {
+      "name": "Starbucks Corporation",
+      "ticker": "SBUX",
+      "exchange": "NASDAQ",
+      "website": "https://www.starbucks.com",
+      "title_or_role": "Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "3M Company",
+      "ticker": "MMM",
+      "exchange": "NYSE",
+      "website": "https://www.3m.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "GOLD",
+      "exchange": "NYSE",
+      "website": "https://www.barrick.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Barclays PLC",
+      "ticker": "BCS",
+      "exchange": "NYSE",
+      "website": "https://www.home.barclays",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "SABMiller PLC",
+      "ticker": "SAB",
+      "exchange": "LSE",
+      "website": "https://www.sabmiller.com",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Seagate Technology Holdings PLC",
+      "ticker": "STX",
+      "exchange": "NASDAQ",
+      "website": "https://www.seagate.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Lundin Energy AB",
+      "ticker": "LUNE",
+      "exchange": "STO",
+      "website": "https://www.lundin-energy.com",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": "2012",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +96,5 @@
     "Audit Committee",
     "Public Policy and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

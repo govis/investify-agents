@@ -11,11 +11,62 @@
     {
       "name": "NOVAGOLD RESOURCES INC.",
       "ticker": "NG",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.novagold.com",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "novagold.com",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hycroft Mining Holding Corporation",
+      "ticker": "HYMC",
+      "exchange": "NASDAQ",
+      "website": "hycroftmining.com",
+      "title_or_role": "President, CEO & Executive Chairman",
+      "start_date": "2020-09-08",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nickel Creek Platinum Corp.",
+      "ticker": "NCP",
+      "exchange": "TSX",
+      "website": "nickelcreekplatinum.com",
+      "title_or_role": "President & CEO",
+      "start_date": "2013",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Revival Gold Inc.",
+      "ticker": "RVG",
+      "exchange": "TSXV",
+      "website": "revival-gold.com",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2017",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "TSX",
+      "website": "oceanagold.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "TriStar Gold Inc.",
+      "ticker": "TSG",
+      "exchange": "TSXV",
+      "website": "tristargold.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +77,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

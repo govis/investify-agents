@@ -12,10 +12,21 @@
       "name": "Gold Fields Limited",
       "ticker": "GFI",
       "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer",
+      "title_or_role": "Chief Executive Officer and Executive Director",
       "website": "https://www.goldfields.com",
-      "start_date": "2024-01-01",
-      "end_date": null
+      "start_date": "January 1, 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Chaarat Gold Holdings Ltd",
+      "ticker": "CGH",
+      "exchange": "LSE (AIM)",
+      "website": "https://www.chaarat.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "January 2022",
+      "end_date": "October 2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,26 @@
       "website": "https://www.jbhunt.com",
       "start_date": "2020-01-01",
       "end_date": null
+    },
+    {
+      "name": "Unum Group",
+      "ticker": "UNM",
+      "exchange": "NYSE",
+      "website": "https://www.unum.com",
+      "title_or_role": "Director",
+      "start_date": "2022-05-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "AutoZone, Inc.",
+      "ticker": "AZO",
+      "exchange": "NYSE",
+      "website": "https://www.autozone.com",
+      "title_or_role": "Director",
+      "start_date": "2020-01-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

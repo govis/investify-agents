@@ -16,6 +16,76 @@
       "website": "https://www.fcx.com",
       "start_date": "2013-01-01",
       "end_date": null
+    },
+    {
+      "name": "Leonardo DRS, Inc.",
+      "ticker": "DRS",
+      "exchange": "NASDAQ",
+      "website": "https://www.leonardodrs.com",
+      "title_or_role": "Director (Lead Independent Director)",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Chubb Limited",
+      "ticker": "CB",
+      "exchange": "NYSE",
+      "website": "https://www.chubb.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Activision Blizzard, Inc.",
+      "ticker": "ATVI",
+      "exchange": "NASDAQ",
+      "website": "https://www.activisionblizzard.com",
+      "title_or_role": "Executive Vice President for Corporate Affairs, Corporate Secretary, Chief Compliance Officer, and Senior Counsel",
+      "start_date": "December 2020",
+      "end_date": "November 2023",
+      "validated": true
+    },
+    {
+      "name": "The Western Union Company",
+      "ticker": "WU",
+      "exchange": "NYSE",
+      "website": "https://www.westernunion.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Scientific Games Corporation (now Light & Wonder, Inc.)",
+      "ticker": "LNW",
+      "exchange": "NASDAQ",
+      "website": "https://www.lnw.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "SciPlay Corporation",
+      "ticker": "SCPL",
+      "exchange": "NASDAQ",
+      "website": "https://www.sciplay.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "SIGA Technologies, Inc.",
+      "ticker": "SIGA",
+      "exchange": "NASDAQ",
+      "website": "https://www.siga.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2018",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +97,5 @@
     "Corporate Responsibility",
     "Governance"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

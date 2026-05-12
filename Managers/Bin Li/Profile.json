@@ -12,10 +12,31 @@
       "name": "NIO Inc.",
       "ticker": "NIO",
       "exchange": "NYSE",
-      "title_or_role": "Chairman of the Board, Chief Executive Officer",
-      "website": "https://www.nio.com",
-      "start_date": "2014-11-01",
-      "end_date": null
+      "title_or_role": "Founder, Chairman, and Chief Executive Officer",
+      "website": "https://www.nio.com/",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bitauto Holdings Limited",
+      "ticker": "BITA",
+      "exchange": "NYSE",
+      "website": "http://ir.bitauto.com/",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "2000",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Yixin Group Limited",
+      "ticker": "2858",
+      "exchange": "HKEX",
+      "website": "http://ir.yixingroup.com/",
+      "title_or_role": "Chairman and Non-executive Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

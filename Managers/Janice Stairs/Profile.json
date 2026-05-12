@@ -11,11 +11,62 @@
     {
       "name": "Artemis Gold Inc.",
       "ticker": "ARTG",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://artemisgoldinc.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Trilogy Metals Inc.",
+      "ticker": "TMQ",
+      "exchange": "TSX / NYSE American",
+      "website": "https://trilogymetals.com",
+      "title_or_role": "Director and Chair of the Board",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Marathon Gold Corporation",
+      "ticker": "MOZ",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://www.artemisgoldinc.com",
-      "start_date": "2019-01-10",
-      "end_date": null
+      "website": "https://marathon-gold.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2017",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Endeavour Mining Corporation",
+      "ticker": "EDV",
+      "exchange": "TSX / LSE",
+      "website": "https://endeavourmining.com",
+      "title_or_role": "General Counsel",
+      "start_date": "2010",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "Etruscan Resources Inc.",
+      "ticker": "ETR",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Vice President and General Counsel",
+      "start_date": "2004",
+      "end_date": "2010",
+      "validated": true
+    },
+    {
+      "name": "Namibia Critical Metals Inc.",
+      "ticker": "NMI",
+      "exchange": "TSXV",
+      "website": "https://namibiacriticalmetals.com",
+      "title_or_role": "General Counsel and Corporate Secretary",
+      "start_date": "2011",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +77,5 @@
     "Audit Committee",
     "Governance and Nomination Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

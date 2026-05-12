@@ -10,12 +10,43 @@
   "company_affiliations": [
     {
       "name": "Cabral Gold Inc.",
-      "ticker": "CBR",
-      "exchange": "TSX",
-      "title_or_role": "Vice President, Corporate Development",
-      "website": "https://cabralgold.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "ticker": "CBRG",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://www.cabralgold.com/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "JBS S.A.",
+      "ticker": "JBS",
+      "exchange": "NYSE",
+      "website": "https://www.jbs.com.br/",
+      "title_or_role": "Global CFO and Investor Relations Officer",
+      "start_date": "January 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fibria Celulose S.A.",
+      "ticker": "FBR",
+      "exchange": "NYSE",
+      "website": "https://www.fibria.com.br/",
+      "title_or_role": "CFO and Investor Relations Officer",
+      "start_date": "2012",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Vale S.A.",
+      "ticker": "VALE",
+      "exchange": "NYSE",
+      "website": "https://www.vale.com/",
+      "title_or_role": "CFO and Investor Relations Officer",
+      "start_date": "2005",
+      "end_date": "2011",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +54,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

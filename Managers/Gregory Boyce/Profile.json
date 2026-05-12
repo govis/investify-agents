@@ -12,10 +12,41 @@
       "name": "Newmont Corporation",
       "ticker": "NEM",
       "exchange": "NYSE",
-      "title_or_role": "Chair of the Board",
+      "title_or_role": "Director",
       "website": "https://www.newmont.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Peabody Energy",
+      "ticker": "BTU",
+      "exchange": "NYSE",
+      "website": "https://www.peabodyenergy.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2007",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Marathon Oil Corporation",
+      "ticker": "MRO",
+      "exchange": "NYSE",
+      "website": "https://www.marathonoil.com",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Monsanto Company",
+      "ticker": "MON",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2018",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +56,5 @@
   "committees": [
     "Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

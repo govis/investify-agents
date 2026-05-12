@@ -16,6 +16,66 @@
       "website": "https://www.microsoft.com",
       "start_date": "2014-07-01",
       "end_date": null
+    },
+    {
+      "name": "Costco Wholesale Corporation",
+      "ticker": "COST",
+      "exchange": "NASDAQ",
+      "website": "https://www.costco.com",
+      "title_or_role": "Director",
+      "start_date": "October 2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Trilogy International Partners Inc.",
+      "ticker": "TRL",
+      "exchange": "TSX",
+      "website": "https://www.trilogy-international.com",
+      "title_or_role": "Founder and Chairman",
+      "start_date": "2005",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Clearwire Corporation",
+      "ticker": "CLWR",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Chairman of the Board / CEO",
+      "start_date": "2011",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "VoiceStream Wireless Corporation",
+      "ticker": "VSTR",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Chairman and CEO",
+      "start_date": "1994",
+      "end_date": "2004",
+      "validated": true
+    },
+    {
+      "name": "Western Wireless Corporation",
+      "ticker": "WWCA",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Founder, Chairman, and CEO",
+      "start_date": "1994",
+      "end_date": "2005",
+      "validated": true
+    },
+    {
+      "name": "Columbia Sportswear Company",
+      "ticker": "COLM",
+      "exchange": "NASDAQ",
+      "website": "https://www.columbia.com",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +87,5 @@
     "Compensation Committee",
     "Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

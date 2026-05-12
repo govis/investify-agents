@@ -12,10 +12,141 @@
       "name": "Exxon Mobil Corporation",
       "ticker": "XOM",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.exxonmobil.com",
-      "start_date": "2021-03-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "corporate.exxonmobil.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vistry Group PLC",
+      "ticker": "VTY",
+      "exchange": "LSE",
+      "website": "vistry.co.uk",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bayer AG",
+      "ticker": "BAYN",
+      "exchange": "STO",
+      "website": "bayer.com",
+      "title_or_role": "Member, Sustainability Council",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Enviva Inc.",
+      "ticker": "EVA",
+      "exchange": "NYSE",
+      "website": "envivabiomass.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "The AES Corporation",
+      "ticker": "AES",
+      "exchange": "NYSE",
+      "website": "aes.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Nikola Corporation",
+      "ticker": "NKLA",
+      "exchange": "NASDAQ",
+      "website": "nikolamotor.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "AppHarvest, Inc.",
+      "ticker": "APPH",
+      "exchange": "NASDAQ",
+      "website": "appharvest.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Fertiglobe Plc",
+      "ticker": "FERTIGLOBE",
+      "exchange": "ADX (LSE listed)",
+      "website": "fertiglobe.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Martha Stewart Living Omnimedia, Inc.",
+      "ticker": "MSO",
+      "exchange": "NYSE",
+      "website": "marthastewart.com",
+      "title_or_role": "Chairman and Director",
+      "start_date": "2011",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Misys plc",
+      "ticker": "MSY",
+      "exchange": "LSE",
+      "website": "misys.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Sara Lee Corporation",
+      "ticker": "SLE",
+      "exchange": "NYSE",
+      "website": "saralee.com",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Gartner, Inc.",
+      "ticker": "IT",
+      "exchange": "NYSE",
+      "website": "gartner.com",
+      "title_or_role": "Director",
+      "start_date": "2003",
+      "end_date": "2006",
+      "validated": true
+    },
+    {
+      "name": "Mentor Corporation",
+      "ticker": "MNTR",
+      "exchange": "NYSE",
+      "website": "mentorcorp.com",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2009",
+      "validated": true
+    },
+    {
+      "name": "Catalina Marketing Corp.",
+      "ticker": "POS",
+      "exchange": "NYSE",
+      "website": "catalina.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "2007",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +157,5 @@
     "Finance Committee",
     "Public Issues and Contributions Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

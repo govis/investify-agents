@@ -14,17 +14,49 @@
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
       "website": "https://evolutionmining.com.au",
-      "start_date": "2019-12-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Osisko Gold Royalties Ltd",
       "ticker": "OR",
-      "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "website": "https://osiskogr.com",
-      "start_date": "2024-01-01",
-      "end_date": null
+      "exchange": "TSX/NYSE",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "website": "https://orroyalties.com",
+      "start_date": "January 2, 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Goldcorp Inc.",
+      "ticker": "G",
+      "exchange": "NYSE/TSX",
+      "website": "https://www.newmont.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2016",
+      "end_date": "April 2019",
+      "validated": true
+    },
+    {
+      "name": "Regulus Resources Inc.",
+      "ticker": "REG",
+      "exchange": "TSXV",
+      "website": "https://regulusresources.com",
+      "title_or_role": "Director and Chair of the Audit Committee",
+      "start_date": "June 2019",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Liberty Gold Corp.",
+      "ticker": "LGD",
+      "exchange": "TSX",
+      "website": "https://libertygold.ca",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "October 11, 2022",
+      "end_date": "November 2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -35,6 +67,5 @@
     "Audit Committee",
     "Nomination and Remuneration Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

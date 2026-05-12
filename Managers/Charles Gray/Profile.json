@@ -12,10 +12,21 @@
       "name": "Teradyne, Inc.",
       "ticker": "TER",
       "exchange": "NASDAQ",
-      "title_or_role": "Vice President and President, Semiconductor Test Division",
+      "title_or_role": "Vice President, General Counsel, and Secretary",
       "website": "https://www.teradyne.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "start_date": "Not publicly specified",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Amphenol Corporation",
+      "ticker": "APH",
+      "exchange": "NYSE",
+      "website": "https://www.amphenol.com",
+      "title_or_role": "Held leadership roles following Amphenol's acquisition of Teradyne\u2019s Connection Systems Division",
+      "start_date": "Not publicly specified",
+      "end_date": "Not publicly specified",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +35,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

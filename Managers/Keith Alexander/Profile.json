@@ -16,6 +16,16 @@
       "website": "https://www.amazon.com",
       "start_date": "2020-09-01",
       "end_date": null
+    },
+    {
+      "name": "IronNet, Inc.",
+      "ticker": "IRNT",
+      "exchange": "NYSE",
+      "website": "https://www.ironnet.com",
+      "title_or_role": "Founder, Chairman of the Board, and Co-CEO",
+      "start_date": "2014",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +36,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

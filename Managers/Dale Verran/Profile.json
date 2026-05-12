@@ -11,11 +11,32 @@
     {
       "name": "Fortune Bay Corp.",
       "ticker": "FOR",
-      "exchange": "TSX",
+      "exchange": "TSXV",
       "title_or_role": "Chief Executive Officer",
-      "website": "https://fortunebaycorp.com",
-      "start_date": "2019-10-01",
-      "end_date": null
+      "website": "https://fortunebaycorp.com/",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Antler Gold Inc.",
+      "ticker": "ANTL",
+      "exchange": "TSXV",
+      "website": "https://antlergold.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2020",
+      "end_date": "October 3, 2025",
+      "validated": true
+    },
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DML",
+      "exchange": "TSX",
+      "website": "https://denisonmines.com/",
+      "title_or_role": "Vice President, Exploration",
+      "start_date": "Prior to 2020",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +45,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

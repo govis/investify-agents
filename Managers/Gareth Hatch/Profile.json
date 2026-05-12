@@ -11,11 +11,12 @@
     {
       "name": "Ucore Rare Metals Inc.",
       "ticker": "UCU",
-      "exchange": "TSX",
-      "title_or_role": "Chief Technology Officer",
+      "exchange": "TSXV",
+      "title_or_role": "Chief Technology Officer and Director",
       "website": "https://ucore.com",
       "start_date": "2020-05-11",
-      "end_date": null
+      "end_date": "2022-11",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +24,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

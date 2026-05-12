@@ -12,10 +12,21 @@
       "name": "Microsoft Corporation",
       "ticker": "MSFT",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.microsoft.com",
-      "start_date": "2019-12-01",
-      "end_date": null
+      "start_date": "2019-12-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GSK plc",
+      "ticker": "GSK",
+      "exchange": "LSE",
+      "website": "https://www.gsk.com",
+      "title_or_role": "Director",
+      "start_date": "2017-01-01",
+      "end_date": "2025-12-31",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

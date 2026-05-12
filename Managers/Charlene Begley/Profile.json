@@ -16,6 +16,56 @@
       "website": "https://www.sentinelone.com",
       "start_date": "2021-04-01",
       "end_date": null
+    },
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.ge.com",
+      "title_or_role": "Senior Vice President and Chief Information Officer (and various other executive roles)",
+      "start_date": "1988",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Nasdaq, Inc.",
+      "ticker": "NDAQ",
+      "exchange": "NASDAQ",
+      "website": "https://www.nasdaq.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hilton Worldwide Holdings, Inc.",
+      "ticker": "HLT",
+      "exchange": "NYSE",
+      "website": "https://www.hilton.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Red Hat, Inc.",
+      "ticker": "RHT",
+      "exchange": "NYSE",
+      "website": "https://www.redhat.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "WPP plc",
+      "ticker": "WPP",
+      "exchange": "NYSE",
+      "website": "https://www.wpp.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +75,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

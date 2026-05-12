@@ -12,10 +12,41 @@
       "name": "Perseus Mining Limited",
       "ticker": "PRU",
       "exchange": "ASX",
-      "title_or_role": "Managing Director and Chief Executive Officer",
-      "website": "https://perseusmining.com/",
-      "start_date": "2013-02-01",
-      "end_date": null
+      "title_or_role": "Managing Director & CEO",
+      "website": "https://perseusmining.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Valor Resources Ltd",
+      "ticker": "VAL",
+      "exchange": "ASX",
+      "website": "https://www.valorresources.com.au",
+      "title_or_role": "Chief Financial Officer & Executive Director",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "validated": true
+    },
+    {
+      "name": "Tri Origin Minerals Ltd",
+      "ticker": "TRO",
+      "exchange": "ASX",
+      "website": null,
+      "title_or_role": "Chief Financial Officer & Company Secretary",
+      "start_date": "2008",
+      "end_date": "Unknown",
+      "validated": true
+    },
+    {
+      "name": "Amara Mining Ltd",
+      "ticker": "AMA",
+      "exchange": "LSE (AIM)",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "Unknown",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +54,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

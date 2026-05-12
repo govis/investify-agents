@@ -10,12 +10,13 @@
   "company_affiliations": [
     {
       "name": "Seabridge Gold Inc.",
-      "ticker": "SA",
-      "exchange": "NYSE",
-      "title_or_role": "Vice President, General Counsel and Corporate Secretary",
+      "ticker": "SEA",
+      "exchange": "TSX",
+      "title_or_role": "Senior Vice President, General Counsel, and Corporate Secretary",
       "website": "https://www.seabridgegold.com",
-      "start_date": "2011-01-01",
-      "end_date": null
+      "start_date": "1999",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +24,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

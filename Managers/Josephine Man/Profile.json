@@ -10,12 +10,13 @@
   "company_affiliations": [
     {
       "name": "Uranium Royalty Corp.",
-      "ticker": "UROY",
-      "exchange": "NASDAQ",
+      "ticker": "URC",
+      "exchange": "TSX",
       "title_or_role": "Chief Financial Officer",
-      "website": "https://www.uraniumroyalty.com",
-      "start_date": "2018-08-01",
-      "end_date": null
+      "website": "https://www.uraniumroyalty.com/",
+      "start_date": "Prior to 2024",
+      "end_date": "August 1, 2025",
+      "validated": true
     },
     {
       "name": "Uranium Royalty Corp.",
@@ -25,6 +26,16 @@
       "website": "https://www.uraniumroyalty.com/",
       "start_date": "2018-08-01",
       "end_date": null
+    },
+    {
+      "name": "Uranium Energy Corp.",
+      "ticker": "UEC",
+      "exchange": "NYSE American",
+      "website": "https://www.uraniumenergy.com/",
+      "title_or_role": "Chief Financial Officer, Treasurer, Secretary",
+      "start_date": "October 1, 2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -32,6 +43,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

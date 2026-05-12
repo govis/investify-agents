@@ -12,10 +12,21 @@
       "name": "ON Semiconductor Corporation",
       "ticker": "ON",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.onsemi.com",
-      "start_date": "2011-01-01",
-      "end_date": null
+      "start_date": "2011-02",
+      "end_date": "2024-10-11",
+      "validated": true
+    },
+    {
+      "name": "Fujitsu Limited",
+      "ticker": "6702",
+      "exchange": "TYO",
+      "website": "https://www.fujitsu.com",
+      "title_or_role": "Director / Chairman of the Board",
+      "start_date": "2015-06",
+      "end_date": "2025-04",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

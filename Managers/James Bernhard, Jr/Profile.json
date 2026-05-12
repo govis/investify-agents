@@ -12,10 +12,21 @@
       "name": "CSX Corporation",
       "ticker": "CSX",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.csx.com",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "www.csx.com",
+      "start_date": "2017",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "The Shaw Group Inc.",
+      "ticker": "SHAW",
+      "exchange": "NYSE",
+      "website": "www.shawgrp.com",
+      "title_or_role": "Founder, President, CEO, and Chairman of the Board",
+      "start_date": "1987",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Compensation and Talent Management Committee",
     "Governance and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

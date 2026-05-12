@@ -16,6 +16,36 @@
       "website": "https://li-cycle.com",
       "start_date": "2021-08-01",
       "end_date": null
+    },
+    {
+      "name": "Renforth Resources, Inc.",
+      "ticker": "RFR",
+      "exchange": "CSE",
+      "website": "https://renforthresources.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2006",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "ticker": "HSBA",
+      "exchange": "LSE",
+      "website": "https://www.hsbc.com/",
+      "title_or_role": "MD-Corporate & Institutional Banking",
+      "start_date": "1995",
+      "end_date": "2005",
+      "validated": true
+    },
+    {
+      "name": "Barclays PLC",
+      "ticker": "BCS",
+      "exchange": "NYSE",
+      "website": "https://home.barclays/",
+      "title_or_role": "Senior Vice President-Treasury",
+      "start_date": "1975",
+      "end_date": "1995",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
     "Compensation Committee",
     "Health, Safety, Environmental and Plant Operations Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

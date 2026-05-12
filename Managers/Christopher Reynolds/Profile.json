@@ -11,11 +11,22 @@
     {
       "name": "Lahontan Gold Corp.",
       "ticker": "LG",
-      "exchange": "TSX",
+      "exchange": "TSXV",
       "title_or_role": "Director",
       "website": "https://lahontangoldcorp.com/",
-      "start_date": "2022-04-06",
-      "end_date": null
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Golcap Resources Corp.",
+      "ticker": "GCP",
+      "exchange": "CSE",
+      "website": "https://golcapresources.com/",
+      "title_or_role": "Interim Chief Executive Officer & Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +38,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

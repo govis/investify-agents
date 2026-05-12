@@ -14,26 +14,29 @@
       "exchange": "CSE",
       "title_or_role": "Director",
       "website": "https://goldhavenresources.com",
-      "start_date": "2020-02-20",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Hudbay Minerals Inc.",
       "ticker": "HBM",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.hudbayminerals.com",
-      "start_date": "2020-05-01",
-      "end_date": null
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "IAMGOLD Corporation",
       "ticker": "IAG",
       "exchange": "NYSE",
-      "title_or_role": "Chair of the Board",
+      "title_or_role": "Director",
       "website": "https://www.iamgold.com",
-      "start_date": "2022-02-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -46,6 +49,5 @@
     "Compensation Committee (Chair)",
     "Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

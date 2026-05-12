@@ -12,10 +12,31 @@
       "name": "Centerra Gold Inc.",
       "ticker": "CGAU",
       "exchange": "NYSE",
-      "title_or_role": "Vice President, Business Development",
+      "title_or_role": "Vice President, Business Development & Exploration",
       "website": "https://www.centerragold.com",
-      "start_date": "2008-01-01",
-      "end_date": null
+      "start_date": "2016",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Florida Canyon Gold Inc.",
+      "ticker": "FCGV",
+      "exchange": "TSXV",
+      "website": "https://floridacanyongold.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Thompson Creek Metals Company Inc.",
+      "ticker": "TCM",
+      "exchange": "TSX",
+      "website": "https://www.centerragold.com",
+      "title_or_role": "President",
+      "start_date": "2016",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

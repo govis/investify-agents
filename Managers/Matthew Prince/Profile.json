@@ -12,10 +12,11 @@
       "name": "Cloudflare, Inc.",
       "ticker": "NET",
       "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer, Chair of the Board of Directors",
+      "title_or_role": "Co-founder, Executive Chairman, and Chief Executive Officer",
       "website": "https://www.cloudflare.com",
-      "start_date": "2009-07-01",
-      "end_date": null
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +24,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

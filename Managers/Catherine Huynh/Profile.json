@@ -12,10 +12,21 @@
       "name": "Lotus Resources Limited",
       "ticker": "LOT",
       "exchange": "ASX",
-      "title_or_role": "Chief Financial Officer",
-      "website": "https://lotusresources.com.au/",
-      "start_date": "2023-07-01",
-      "end_date": null
+      "title_or_role": "Company Secretary",
+      "website": "https://lotusresources.com.au",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Arafura Rare Earths Limited",
+      "ticker": "ARU",
+      "exchange": "ASX",
+      "website": "https://www.arultd.com",
+      "title_or_role": "Group Financial Controller / Joint Company Secretary",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

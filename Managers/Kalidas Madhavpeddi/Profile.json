@@ -34,6 +34,46 @@
       "website": "https://www.novagold.com",
       "start_date": "2012-01-01",
       "end_date": null
+    },
+    {
+      "name": "Dundee Precious Metals Inc.",
+      "ticker": "DPM",
+      "exchange": "TSX",
+      "website": "https://www.dundeeprecious.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Trilogy Metals Inc.",
+      "ticker": "TMQ",
+      "exchange": "TSX / NYSE American",
+      "website": "https://www.trilogymetals.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "website": "https://www.capstonecopper.com",
+      "title_or_role": "Independent Director",
+      "start_date": null,
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Namibia Critical Metals Inc.",
+      "ticker": "NMI",
+      "exchange": "TSXV",
+      "website": "https://www.namibiacriticalmetals.com",
+      "title_or_role": "Chairman",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -47,6 +87,5 @@
     "Corporate Governance and Nominating Committee",
     "Nomination Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

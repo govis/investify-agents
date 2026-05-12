@@ -11,11 +11,22 @@
     {
       "name": "Ur-Energy Inc.",
       "ticker": "URG",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "exchange": "NYSE American / TSX",
+      "title_or_role": "Director",
       "website": "https://www.ur-energy.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "start_date": "Not specified",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ADTRAN Holdings, Inc.",
+      "ticker": "ADTN",
+      "exchange": "NASDAQ",
+      "website": "https://www.adtran.com",
+      "title_or_role": "Director",
+      "start_date": "May 16, 2014",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +38,5 @@
     "Compensation Committee",
     "Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

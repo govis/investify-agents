@@ -25,6 +25,26 @@
       "website": "https://sprottetfs.com/urnm-sprott-uranium-miners-etf/",
       "start_date": "2018-01-01",
       "end_date": null
+    },
+    {
+      "name": "Sprott Focus Trust, Inc.",
+      "ticker": "FUND",
+      "exchange": "NASDAQ",
+      "website": "https://sprott.com/investment-strategies/sprott-focus-trust/",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Avino Silver & Gold Mines Ltd.",
+      "ticker": "ASM",
+      "exchange": "TSX",
+      "website": "https://www.avinoltd.com/",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -37,6 +57,5 @@
     "Audit Committee",
     "Nominating and Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

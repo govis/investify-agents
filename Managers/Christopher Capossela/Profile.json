@@ -16,6 +16,16 @@
       "website": "https://www.microsoft.com",
       "start_date": "2014-03-01",
       "end_date": null
+    },
+    {
+      "name": "Lumen Technologies, Inc.",
+      "ticker": "LUMN",
+      "exchange": "NYSE",
+      "website": "https://www.lumen.com",
+      "title_or_role": "Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -11,11 +11,32 @@
     {
       "name": "Ucore Rare Metals Inc.",
       "ticker": "UCU",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://ucore.com",
-      "start_date": "2020-09-15",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://ucore.com/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "PharmX Technologies Limited",
+      "ticker": "PHX",
+      "exchange": "ASX",
+      "website": "https://pharmx.com.au/",
+      "title_or_role": "Managing Director / CEO",
+      "start_date": "2009-09-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hastings Rare Metals Ltd",
+      "ticker": "HAS",
+      "exchange": "ASX",
+      "website": "https://hastingstechnologymetals.com/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +48,5 @@
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

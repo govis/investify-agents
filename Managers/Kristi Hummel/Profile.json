@@ -16,6 +16,36 @@
       "website": "https://www.nextracker.com",
       "start_date": "2023-02-01",
       "end_date": null
+    },
+    {
+      "name": "UnitedHealth Group, Inc.",
+      "ticker": "UNH",
+      "exchange": "NYSE",
+      "website": "https://www.unitedhealthgroup.com",
+      "title_or_role": "Chief Talent Officer",
+      "start_date": "2022-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nuburu, Inc.",
+      "ticker": "BURU",
+      "exchange": "NYSE",
+      "website": "https://www.nuburu.net",
+      "title_or_role": "Independent Director",
+      "start_date": "2023",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Skillsoft Corp.",
+      "ticker": "SKIL",
+      "exchange": "NYSE",
+      "website": "https://www.skillsoft.com",
+      "title_or_role": "Chief People Officer",
+      "start_date": "2021",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +55,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

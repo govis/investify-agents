@@ -12,10 +12,71 @@
       "name": "G Mining Ventures Corp.",
       "ticker": "GMIN",
       "exchange": "TSX",
-      "title_or_role": "Chairman & Director",
-      "website": "https://www.gminingventures.com",
-      "start_date": "2020-11-25",
-      "end_date": null
+      "title_or_role": "Non-Executive Chairman & Founder",
+      "website": "https://gmin.gold/",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cambior Inc.",
+      "ticker": "CBJ",
+      "exchange": "TSX",
+      "website": "https://www.iamgold.com/",
+      "title_or_role": "President & CEO",
+      "start_date": "1986",
+      "end_date": "2006",
+      "validated": true
+    },
+    {
+      "name": "Andean Resources Limited",
+      "ticker": "AND",
+      "exchange": "ASX",
+      "website": "https://www.goldcorp.com/",
+      "title_or_role": "Chairman",
+      "start_date": null,
+      "end_date": "2010",
+      "validated": true
+    },
+    {
+      "name": "Franco-Nevada Corporation",
+      "ticker": "FNV",
+      "exchange": "TSX",
+      "website": "https://www.franco-nevada.com/",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Domtar Corporation",
+      "ticker": "UFS",
+      "exchange": "NYSE",
+      "website": "https://www.domtar.com/",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "St. Andrew Goldfields Ltd.",
+      "ticker": "SAS",
+      "exchange": "TSX",
+      "website": "https://www.yamana.com/",
+      "title_or_role": "Chairman",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Norsemont Mining Inc.",
+      "ticker": "NOM",
+      "exchange": "TSXV",
+      "website": "https://norsemontmining.com/",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +84,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

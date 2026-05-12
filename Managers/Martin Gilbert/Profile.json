@@ -25,6 +25,46 @@
       "website": "https://www.glencore.com",
       "start_date": "2017-03-01",
       "end_date": null
+    },
+    {
+      "name": "Aberdeen Asset Management PLC",
+      "ticker": "ADN",
+      "exchange": "LSE",
+      "website": "https://www.aberdeenstandard.com",
+      "title_or_role": "Co-founder and Chief Executive Officer",
+      "start_date": "1983",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "FirstGroup plc",
+      "ticker": "FGP",
+      "exchange": "LSE",
+      "website": "https://www.firstgroup.com",
+      "title_or_role": "Chairman",
+      "start_date": "1995-04",
+      "end_date": "2014-01",
+      "validated": true
+    },
+    {
+      "name": "Standard Life Aberdeen plc (now abrdn plc)",
+      "ticker": "ABDN",
+      "exchange": "LSE",
+      "website": "https://www.abrdn.com",
+      "title_or_role": "Vice Chairman",
+      "start_date": "2019-03",
+      "end_date": "2020-05",
+      "validated": true
+    },
+    {
+      "name": "Sky plc",
+      "ticker": "SKY",
+      "exchange": "LSE",
+      "website": "https://www.sky.com",
+      "title_or_role": "Deputy Chairman",
+      "start_date": null,
+      "end_date": "2018",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +76,5 @@
     "Audit Committee",
     "Nomination Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,41 @@
       "name": "Quanta Services, Inc.",
       "ticker": "PWR",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.quantaservices.com",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "National Grid plc",
+      "ticker": "NGG",
+      "exchange": "NYSE",
+      "website": "https://www.nationalgrid.com",
+      "title_or_role": "Non-executive Director",
+      "start_date": "September 1, 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "First American Financial Corporation",
+      "ticker": "FAF",
+      "exchange": "NYSE",
+      "website": "https://www.firstam.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "January 21, 2026",
+      "validated": true
+    },
+    {
+      "name": "Sempra",
+      "ticker": "SRE",
+      "exchange": "NYSE",
+      "website": "https://www.sempra.com",
+      "title_or_role": "Executive Vice President and General Counsel",
+      "start_date": "September 3, 2013",
+      "end_date": "March 2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +58,5 @@
     "Compensation Committee",
     "Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

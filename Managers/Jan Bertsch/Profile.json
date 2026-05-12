@@ -12,10 +12,41 @@
       "name": "BWX Technologies, Inc.",
       "ticker": "BWXT",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director (since 2013), Independent Chair of the Board (since 2022)",
       "website": "https://www.bwxt.com",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Regal Rexnord Corporation",
+      "ticker": "RRX",
+      "exchange": "NYSE",
+      "website": "https://www.regalrexnord.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Axalta Coating Systems, Inc.",
+      "ticker": "AXTA",
+      "exchange": "NYSE",
+      "website": "https://www.axalta.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Meritor, Inc.",
+      "ticker": "MTOR",
+      "exchange": "NYSE",
+      "website": "https://www.meritor.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +58,5 @@
     "Audit Committee",
     "Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

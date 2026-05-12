@@ -12,10 +12,31 @@
       "name": "Steel Dynamics, Inc.",
       "ticker": "STLD",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.steeldynamics.com",
-      "start_date": "2020-05",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "steeldynamics.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Exelon Corporation",
+      "ticker": "EXC",
+      "exchange": "NASDAQ",
+      "website": "exeloncorp.com",
+      "title_or_role": "Senior Executive Vice President and CEO, Exelon Generation",
+      "start_date": "2012",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Constellation Energy Group, Inc.",
+      "ticker": "CEG",
+      "exchange": "NASDAQ",
+      "website": "constellationenergy.com",
+      "title_or_role": "President & Chief Executive Officer",
+      "start_date": "2012",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

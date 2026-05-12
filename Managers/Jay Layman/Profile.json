@@ -16,6 +16,26 @@
       "website": "https://www.seabridgegold.com",
       "start_date": "2011-01-01",
       "end_date": null
+    },
+    {
+      "name": "Star Royalties Ltd.",
+      "ticker": "STRR",
+      "exchange": "TSXV",
+      "website": "https://www.starroyalties.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Calico Resources Corp.",
+      "ticker": "CKB",
+      "exchange": "TSXV",
+      "website": "https://www.calicoresources.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +45,5 @@
   "committees": [
     "Technical Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

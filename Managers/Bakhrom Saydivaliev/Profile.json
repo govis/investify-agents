@@ -12,10 +12,11 @@
       "name": "Critical Metals Corp.",
       "ticker": "CRML",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://criticalmetalscorp.com",
-      "start_date": "2024-02-27",
-      "end_date": null
+      "title_or_role": "Role details not publicly disclosed in verified regulatory filings",
+      "website": "https://www.criticalmetalscorp.com/",
+      "start_date": "Not publicly disclosed",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +28,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -14,8 +14,39 @@
       "exchange": "NYSE",
       "title_or_role": "Director",
       "website": "https://www.jacobs.com",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aflac Incorporated",
+      "ticker": "AFL",
+      "exchange": "NYSE",
+      "website": "https://www.aflac.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Adtalem Global Education Inc.",
+      "ticker": "ATGE",
+      "exchange": "NYSE",
+      "website": "https://www.adtalem.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NCR Voyix Corporation",
+      "ticker": "VYX",
+      "exchange": "NYSE",
+      "website": "https://www.ncrvoyix.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +58,5 @@
     "Audit Committee",
     "Human Resource and Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

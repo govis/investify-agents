@@ -12,10 +12,21 @@
       "name": "Entergy Corporation",
       "ticker": "ETR",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.entergy.com",
-      "start_date": "2011-01-01",
-      "end_date": null
+      "start_date": "2011",
+      "end_date": "2024-12-31",
+      "validated": true
+    },
+    {
+      "name": "Rayonier Inc.",
+      "ticker": "RYN",
+      "exchange": "NYSE",
+      "website": "https://www.rayonier.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Corporate Governance",
     "Finance"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

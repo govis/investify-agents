@@ -12,10 +12,21 @@
       "name": "Oklo Inc.",
       "ticker": "OKLO",
       "exchange": "NYSE",
-      "title_or_role": "Director",
-      "website": "https://oklo.com",
-      "start_date": "2024-05-01",
-      "end_date": null
+      "title_or_role": "Member of the Board of Directors",
+      "website": "https://oklo.com/",
+      "start_date": "2022",
+      "end_date": "February 2025",
+      "validated": true
+    },
+    {
+      "name": "Liberty Energy Inc.",
+      "ticker": "LBRT",
+      "exchange": "NYSE",
+      "website": "https://libertyenergy.com/",
+      "title_or_role": "Founder, Chief Executive Officer, and Chairman of the Board",
+      "start_date": "2011",
+      "end_date": "February 2025",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

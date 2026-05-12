@@ -12,19 +12,41 @@
       "name": "Deere & Company",
       "ticker": "DE",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.deere.com",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "deere.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Eaton Corporation plc",
       "ticker": "ETN",
       "exchange": "NYSE",
-      "title_or_role": "Lead Director",
-      "website": "https://www.eaton.com",
-      "start_date": "2003-01-01",
-      "end_date": null
+      "title_or_role": "Non-Executive Chair of the Board",
+      "website": "eaton.com",
+      "start_date": "2003",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "3M Company",
+      "ticker": "MMM",
+      "exchange": "NYSE",
+      "website": "3m.com",
+      "title_or_role": "Director",
+      "start_date": "2003",
+      "end_date": "2025-08-11",
+      "validated": true
+    },
+    {
+      "name": "Corteva Agriscience",
+      "ticker": "CTVA",
+      "exchange": "NYSE",
+      "website": "corteva.com",
+      "title_or_role": "Non-Executive Chair of the Board",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -38,6 +60,5 @@
     "Finance Committee",
     "Governance"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

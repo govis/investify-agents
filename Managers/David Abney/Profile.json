@@ -34,6 +34,26 @@
       "website": "https://www.southerncompany.com",
       "start_date": "2020-10-01",
       "end_date": null
+    },
+    {
+      "name": "United Parcel Service, Inc.",
+      "ticker": "UPS",
+      "exchange": "NYSE",
+      "website": "https://www.ups.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2016",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Target Corporation",
+      "ticker": "TGT",
+      "exchange": "NYSE",
+      "website": "https://www.target.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -50,6 +70,5 @@
     "Compensation and Management Development Committee",
     "Compensation and Management Succession"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

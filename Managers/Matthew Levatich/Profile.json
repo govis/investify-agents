@@ -12,10 +12,21 @@
       "name": "Emerson Electric Co.",
       "ticker": "EMR",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director (Member of the Board of Directors)",
       "website": "https://www.emerson.com",
-      "start_date": "2012-01-01",
-      "end_date": null
+      "start_date": "August 2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Harley-Davidson, Inc.",
+      "ticker": "HOG",
+      "exchange": "NYSE",
+      "website": "https://www.harley-davidson.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "May 1, 2015",
+      "end_date": "February 28, 2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Compensation",
     "Finance"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

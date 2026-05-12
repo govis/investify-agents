@@ -16,6 +16,26 @@
       "website": "https://www.agnicoeagle.com",
       "start_date": "2022-02-08",
       "end_date": null
+    },
+    {
+      "name": "Discovery Silver Corp.",
+      "ticker": "DSV",
+      "exchange": "TSX",
+      "website": "https://discoverysilver.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kirkland Lake Gold Ltd.",
+      "ticker": "KL",
+      "exchange": "TSX",
+      "website": "https://www.kl.gold/",
+      "title_or_role": "Independent Director",
+      "start_date": "2014",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -30,6 +50,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

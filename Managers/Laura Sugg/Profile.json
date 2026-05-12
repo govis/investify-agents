@@ -12,10 +12,61 @@
       "name": "Public Service Enterprise Group Incorporated",
       "ticker": "PEG",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.pseg.com",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "pseg.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kinetik Holdings Inc.",
+      "ticker": "KNTK",
+      "exchange": "NYSE",
+      "website": "kinetik.com",
+      "title_or_role": "Lead Independent Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Murphy Oil Corporation",
+      "ticker": "MUR",
+      "exchange": "NYSE",
+      "website": "murphyoilcorp.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Williams Companies, Inc.",
+      "ticker": "WMB",
+      "exchange": "NYSE",
+      "website": "williams.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Denbury Inc. (formerly Denbury Resources Inc.)",
+      "ticker": "DEN",
+      "exchange": "NYSE",
+      "website": "denbury.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "ConocoPhillips",
+      "ticker": "COP",
+      "exchange": "NYSE",
+      "website": "conocophillips.com",
+      "title_or_role": "Executive (Various)",
+      "start_date": null,
+      "end_date": "2010",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +77,5 @@
     "Executive",
     "Finance (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

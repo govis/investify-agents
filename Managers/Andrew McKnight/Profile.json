@@ -14,8 +14,19 @@
       "exchange": "NYSE",
       "title_or_role": "Director",
       "website": "https://mpmaterials.com",
-      "start_date": "2020-11-17",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fortress Value Acquisition Corp. II",
+      "ticker": "FAII",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Director / CEO",
+      "start_date": "2020",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +36,5 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

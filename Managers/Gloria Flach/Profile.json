@@ -14,8 +14,19 @@
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
       "website": "https://www.emerson.com",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "title_or_role": "Corporate Vice President and Chief Operating Officer",
+      "start_date": "1981",
+      "end_date": "2017-12-31",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Audit",
     "Finance"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

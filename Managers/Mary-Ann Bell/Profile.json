@@ -16,6 +16,26 @@
       "website": "https://www.atkinsrealis.com",
       "start_date": "2019-08-01",
       "end_date": null
+    },
+    {
+      "name": "mdf commerce inc.",
+      "ticker": "MDF",
+      "exchange": "TSX",
+      "website": "https://www.mdfcommerce.com",
+      "title_or_role": "Director",
+      "start_date": "2021-06-03",
+      "end_date": "2024-05-22",
+      "validated": true
+    },
+    {
+      "name": "Bell Aliant Regional Communications",
+      "ticker": "BA.UN",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Senior Vice President, Qu\u00e9bec and Ontario",
+      "start_date": "2009",
+      "end_date": "2014",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Audit and Risk Committee",
     "Human Resources Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

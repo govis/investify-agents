@@ -16,6 +16,26 @@
       "website": "https://www.st.com",
       "start_date": "2018-05-31",
       "end_date": null
+    },
+    {
+      "name": "Capgemini SE",
+      "ticker": "CAP",
+      "exchange": "Euronext Paris",
+      "website": "https://www.capgemini.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2025-05-07",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Legrand SA",
+      "ticker": "LR",
+      "exchange": "Euronext Paris",
+      "website": "https://www.legrandgroup.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +43,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -11,11 +11,12 @@
     {
       "name": "Denison Mines Corp.",
       "ticker": "DNN",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://denisonmines.com",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "exchange": "NYSE, TSX",
+      "title_or_role": "Board Chair (Director)",
+      "website": "https://denisonmines.com/",
+      "start_date": "May 2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +27,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

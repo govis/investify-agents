@@ -16,6 +16,66 @@
       "website": "https://nucor.com",
       "start_date": "2015-06-01",
       "end_date": null
+    },
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "boeing.com",
+      "title_or_role": "President, Boeing International; SVP; Member, Office of the Chairman",
+      "start_date": "1977",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "The Goodyear Tire & Rubber Company",
+      "ticker": "GT",
+      "exchange": "NASDAQ",
+      "website": "goodyear.com",
+      "title_or_role": "Director; Non-Executive Chairman",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Celestica Inc.",
+      "ticker": "CLS",
+      "exchange": "NYSE/TSX",
+      "website": "celestica.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Papa John's International, Inc.",
+      "ticker": "PZZA",
+      "exchange": "NASDAQ",
+      "website": "papajohns.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "The Hillshire Brands Company (formerly Sara Lee)",
+      "ticker": "HSH",
+      "exchange": "NYSE (delisted)",
+      "website": "N/A",
+      "title_or_role": "Director",
+      "start_date": "N/A",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "American International Group, Inc. (ILFC subsidiary)",
+      "ticker": "AIG",
+      "exchange": "NYSE",
+      "website": "aig.com",
+      "title_or_role": "Executive Chairman (ILFC)",
+      "start_date": "2012",
+      "end_date": "2014",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +86,5 @@
     "Audit",
     "Governance and Nominating"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

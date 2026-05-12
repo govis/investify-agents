@@ -14,8 +14,9 @@
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
       "website": "https://www.southerncompany.com",
-      "start_date": "2018-03-01",
-      "end_date": null
+      "start_date": "February 2018",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +26,5 @@
   "committees": [
     "Operations, Environmental and Safety"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

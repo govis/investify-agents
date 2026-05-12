@@ -1,0 +1,68 @@
+
+--- URL: https://www.sec.gov/ix?doc=/Archives/edgar/data/1222333/000119312524276709/d765859d10k.htm ---
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    <title>XBRL Viewer</title>
+    <script language="JavaScript">
+    /* <![CDATA[ */
+        /* Created by staff of the U.S. Securities and Exchange Commission.
+        *  Data and content created by government employees within the scope of their employment
+        *  are not subject to domestic copyright protection. 17 U.S.C. 105.
+        *
+        *  This script checks the accession number of the document requested to determine
+        *  the year and sequence of filing.  If filed after the availability of ixviewer-plus
+        *  this script redirects to that viewer, otherwise to a prior ixviewer in effect
+        *  or deemed compatible with the filing.
+        */
+
+        function loadViewer(ixvUrl) {
+            // load viewer in an iframe so the end user's browser URL is not changed
+            var iFrame = document.getElementById("ixvFrame");
+            iFrame.src = ixvUrl;
+        }
+
+        const url = location.href;
+        // url doc pattern is /Archives/edgar/data/ciknum/{10digits}{YY}{sequence}/{more params}
+        // uncomment one of the following urlPatterns depending on usage:
+        // for SEC.GOV: const urlPattern = /(\?doc=(\/Archives\/edgar\/data\/[0-9]+\/[0-9]{10}([0-9]{8})\/).*$)/;
+        // for Arelle GUI: const urlPattern = /(\?doc=(\/[0-9]+\/).*$)/;
+        const urlPattern = /(\?doc=(\/Archives\/edgar\/data\/[0-9]+\/[0-9]{10}([0-9]{8})\/).*$)/;
+        const ixvPlusNsPattern = /http:\/\/xbrl.sec.gov\/(ffd|sb
+
+--- URL: https://www.bloomberg.com/profile/person/17293332 ---
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <script src="https://assets.bwbx.io/s3/foundation/event-recorder-client/1.0/event-recorder-client.min.js" crossOrigin="anonymous" async/>
+        </script>
+        <script>
+            (function eventRecorderInit() {
+                window.eventRecorder = window.eventRecorder || {
+                    cmd: [],
+                };
+
+                /**
+                 * This bootstrap is required because async code will execute all functions in cmd queue once its loaded and ready.
+                 */
+                window.eventRecorder.cmd.push(function init() {
+                    const eventRecorder = window.getEventRecorderClient("shichang");
+
+                    eventRecorder.fireEvent("PageLoaded");
+                });
+            })();
+        </script>
+        <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+        
+        
+        <script id="ccpa-stub-script">
+            (function () { var e = false; var c = window; var t = document; function r() { if (!c.frames["__uspapiLocator"]) { if (t.body) { var a = t.body; var e = t.createElement("iframe"); e.style.cssText = "display:none"; e.name = "__uspapiLocator"; a.appendChild(e) } else { setTimeout(r, 5) } } } r(); function p() { var a = arguments; __uspapi.a = __uspapi.a || []; if (!a.length) { return __uspapi.a } else if (a[0] === "ping") { a[2]({ gdprAppliesGlobally: e, cmpLoaded: false }, true) } else { __uspapi.a.push([].slice.apply(a)) } } function l(t) { var r = typeof t.data === "string"; try { var a = r ? JSON.parse(t.data) : t.data; if (a.__cmpCall) { var n = a.__cmpCall; c.__uspapi(n.command, n.parameter, function (a, e) { var c = { __cmpReturn: { returnValue: a, success: e, callId: n.callId } }; t.source.postMessage(r ? JSON.stringify(c) : c, "*") }) } } catch (a) { } } if (typeof __uspapi !== "function") { c.__uspapi = p; __uspapi.msgHandler = l; c.addEventListener("message", l, false) } })();
+        </script>
+

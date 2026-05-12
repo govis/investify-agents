@@ -12,10 +12,31 @@
       "name": "The Southern Company",
       "ticker": "SO",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.southerncompany.com",
-      "start_date": "2015-01-01",
-      "end_date": null
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Regions Financial Corporation",
+      "ticker": "RF",
+      "exchange": "NYSE",
+      "website": "https://www.regions.com",
+      "title_or_role": "Director (Chair of the Risk Committee)",
+      "start_date": "2011",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Protective Life Corporation",
+      "ticker": "PL",
+      "exchange": "NYSE",
+      "website": "https://www.protectivelife.com",
+      "title_or_role": "Chairman, President, and CEO",
+      "start_date": "2002",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +48,5 @@
     "Compensation and Management Succession",
     "Finance (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -11,11 +11,12 @@
     {
       "name": "CanAlaska Uranium Ltd.",
       "ticker": "CVV",
-      "exchange": "TSX",
+      "exchange": "TSXV",
       "title_or_role": "Director",
-      "website": "https://canalaska.com/",
-      "start_date": "2007-01-01",
-      "end_date": null
+      "website": "https://canalaska.com",
+      "start_date": "2007",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "CanAlaska Uranium Ltd.",
@@ -25,6 +26,56 @@
       "website": "https://canalaska.com/",
       "start_date": "2007-01-01",
       "end_date": null
+    },
+    {
+      "name": "Deep-South Resources Inc.",
+      "ticker": "DSM",
+      "exchange": "TSXV",
+      "website": "https://deepsouthresources.com",
+      "title_or_role": "COO & Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nine Mile Metals Ltd.",
+      "ticker": "NINE",
+      "exchange": "CSE",
+      "website": "https://ninemilemetals.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "El Nino Ventures Inc.",
+      "ticker": "ELN",
+      "exchange": "TSXV",
+      "website": "http://elninoventures.com",
+      "title_or_role": "President & CEO",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ampella Mining Ltd.",
+      "ticker": "AMX",
+      "exchange": "ASX",
+      "website": null,
+      "title_or_role": "COO",
+      "start_date": "2010",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "First Quantum Minerals Ltd.",
+      "ticker": "FM",
+      "exchange": "TSX",
+      "website": "https://first-quantum.com",
+      "title_or_role": "Managing Director (DRC)",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -35,6 +86,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,21 @@
       "name": "Array Technologies, Inc.",
       "ticker": "ARRY",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "website": "https://arraytechinc.com",
-      "start_date": "2020-10-01",
-      "end_date": null
+      "title_or_role": "Member of the Board of Directors",
+      "website": "https://arraytechinc.com/",
+      "start_date": "August 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Blackstone Inc.",
+      "ticker": "BX",
+      "exchange": "NYSE",
+      "website": "https://www.blackstone.com/",
+      "title_or_role": "Senior Managing Director, Private Equity Group",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +36,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

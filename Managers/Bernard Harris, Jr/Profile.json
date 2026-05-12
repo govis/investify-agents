@@ -12,10 +12,31 @@
       "name": "RTX Corporation",
       "ticker": "RTX",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.rtx.com",
-      "start_date": "2020-04-03",
-      "end_date": null
+      "start_date": "2002",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "U.S. Physical Therapy, Inc.",
+      "ticker": "USPH",
+      "exchange": "NYSE",
+      "website": "https://www.usph.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SPACEHAB, Inc.",
+      "ticker": "ASTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.astrotechcorp.com",
+      "title_or_role": "Vice President and Chief Scientist",
+      "start_date": "1996",
+      "end_date": "2002",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Human Capital & Compensation",
     "Public Policy & Corporate Responsibility"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

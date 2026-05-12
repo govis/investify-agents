@@ -12,19 +12,31 @@
       "name": "Capstone Copper Corp.",
       "ticker": "CS",
       "exchange": "TSX",
-      "title_or_role": "Chair and Independent Director",
+      "title_or_role": "Director",
       "website": "https://capstonecopper.com",
-      "start_date": "2011-05-01",
-      "end_date": null
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Lithium Americas Corp.",
       "ticker": "LAC",
-      "exchange": "NYSE",
-      "title_or_role": "Chair of the Board",
-      "website": "https://www.lithiumamericas.com",
-      "start_date": "2023-10-04",
-      "end_date": null
+      "exchange": "TSX/NYSE",
+      "title_or_role": "Director",
+      "website": "https://lithiumamericas.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lithium Argentina Corp.",
+      "ticker": "LAAC",
+      "exchange": "TSX/NYSE",
+      "website": "https://lithium-argentina.com",
+      "title_or_role": "Lead Director",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -37,6 +49,5 @@
     "Governance and Nominating Committee",
     "Governance and Nomination Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

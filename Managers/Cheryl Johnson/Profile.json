@@ -14,8 +14,29 @@
       "exchange": "NYSE",
       "title_or_role": "Chief Human Resources Officer",
       "website": "https://www.caterpillar.com",
-      "start_date": "2017-07-24",
-      "end_date": null
+      "start_date": "2017",
+      "end_date": "April 30, 2025",
+      "validated": true
+    },
+    {
+      "name": "Flowserve Corporation",
+      "ticker": "FLS",
+      "exchange": "NYSE",
+      "website": "https://www.flowserve.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Textron Inc.",
+      "ticker": "TXT",
+      "exchange": "NYSE",
+      "website": "https://www.textron.com",
+      "title_or_role": "Executive Vice President of Human Resources",
+      "start_date": "~1997",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

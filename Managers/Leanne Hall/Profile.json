@@ -13,9 +13,10 @@
       "ticker": "FF",
       "exchange": "TSX",
       "title_or_role": "Director",
-      "website": "https://firstmininggold.com",
-      "start_date": "2021-06-16",
-      "end_date": null
+      "website": "https://firstmininggold.com/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +28,5 @@
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

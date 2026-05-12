@@ -12,10 +12,31 @@
       "name": "Vistra Corp.",
       "ticker": "VST",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.vistracorp.com",
-      "start_date": "2023-02-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fulton Financial Corporation",
+      "ticker": "FULT",
+      "exchange": "NASDAQ",
+      "website": "https://www.fultonbank.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Buckeye Partners, L.P.",
+      "ticker": "BPL",
+      "exchange": "NYSE",
+      "website": "https://www.buckeye.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Audit Committee",
     "Sustainability and Relevant Public Policy Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

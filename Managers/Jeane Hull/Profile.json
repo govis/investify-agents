@@ -16,6 +16,86 @@
       "website": "https://www.hudbayminerals.com",
       "start_date": "2023-06-01",
       "end_date": null
+    },
+    {
+      "name": "Peabody Energy Corporation",
+      "ticker": "BTU",
+      "exchange": "NYSE",
+      "website": "https://www.peabodyenergy.com",
+      "title_or_role": "Executive Vice President and Chief Technical Officer",
+      "start_date": "2013",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Epiroc AB",
+      "ticker": "EPI-A",
+      "exchange": "STO",
+      "website": "https://www.epirocgroup.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Coeur Mining, Inc.",
+      "ticker": "CDE",
+      "exchange": "NYSE",
+      "website": "https://www.coeur.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Interfor Corporation",
+      "ticker": "IFP",
+      "exchange": "TSX",
+      "website": "https://www.interfor.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cloud Peak Energy Inc.",
+      "ticker": "CLD",
+      "exchange": "NYSE",
+      "website": "https://www.cloudpeakenergy.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Trevali Mining Corporation",
+      "ticker": "TV",
+      "exchange": "TSX",
+      "website": "https://www.trevali.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Copper Mountain Mining Corporation",
+      "ticker": "CMMC",
+      "exchange": "TSX",
+      "website": "https://www.cumtn.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Pretium Resources Inc.",
+      "ticker": "PVG",
+      "exchange": "TSX",
+      "website": "https://www.pretivm.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +106,5 @@
     "Environmental, Health, Safety and Sustainability Committee",
     "Technical Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

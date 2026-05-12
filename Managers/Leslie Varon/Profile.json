@@ -16,6 +16,36 @@
       "website": "https://www.lamresearch.com",
       "start_date": "2019-01-01",
       "end_date": null
+    },
+    {
+      "name": "Xerox Holdings Corporation",
+      "ticker": "XRX",
+      "exchange": "NASDAQ",
+      "website": "https://www.xerox.com",
+      "title_or_role": "Chief Financial Officer (Interim)",
+      "start_date": "2015",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Hamilton Lane Incorporated",
+      "ticker": "HLNE",
+      "exchange": "NASDAQ",
+      "website": "https://www.hamiltonlane.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Dentsply Sirona Inc.",
+      "ticker": "XRAY",
+      "exchange": "NASDAQ",
+      "website": "https://www.dentsplysirona.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

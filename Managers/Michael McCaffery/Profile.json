@@ -16,6 +16,26 @@
       "website": "https://www.nvidia.com",
       "start_date": "2015-01-01",
       "end_date": null
+    },
+    {
+      "name": "C3.ai, Inc.",
+      "ticker": "AI",
+      "exchange": "NYSE",
+      "website": "https://c3.ai",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "KB Home",
+      "ticker": "KBH",
+      "exchange": "NYSE",
+      "website": "https://www.kbhome.com",
+      "title_or_role": "Director",
+      "start_date": "2003",
+      "end_date": "2015",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +47,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

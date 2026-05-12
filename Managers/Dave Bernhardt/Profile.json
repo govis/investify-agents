@@ -14,8 +14,29 @@
       "exchange": "NYSE",
       "title_or_role": "Chief Financial Officer",
       "website": "https://www.sentinelone.com",
-      "start_date": "2020-09-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Palantir Technologies, Inc.",
+      "ticker": "PLTR",
+      "exchange": "NYSE",
+      "website": "https://www.palantir.com",
+      "title_or_role": "Vice President, Finance",
+      "start_date": "2009",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Chegg, Inc.",
+      "ticker": "CHGG",
+      "exchange": "NYSE",
+      "website": "https://www.chegg.com",
+      "title_or_role": "Vice President & Controller",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

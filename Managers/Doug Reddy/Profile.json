@@ -11,11 +11,32 @@
     {
       "name": "Equinox Gold Corp.",
       "ticker": "EQX",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Operating Officer",
+      "exchange": "TSX",
+      "title_or_role": "EVP Technical Services",
       "website": "https://www.equinoxgold.com",
-      "start_date": "2020-09-01",
-      "end_date": null
+      "start_date": "2020-03-01",
+      "end_date": "2020-09-01",
+      "validated": true
+    },
+    {
+      "name": "Leagold Mining Corporation",
+      "ticker": "LMC",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "EVP Technical Services",
+      "start_date": "2016-09-01",
+      "end_date": "2020-03-01",
+      "validated": true
+    },
+    {
+      "name": "Endeavour Mining Corporation",
+      "ticker": "EDV",
+      "exchange": "TSX",
+      "website": "https://www.endeavourmining.com",
+      "title_or_role": "SVP Business Development",
+      "start_date": "2006-01-01",
+      "end_date": "2016-09-01",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

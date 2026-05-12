@@ -25,6 +25,36 @@
       "website": "https://www.ford.com",
       "start_date": "2017-01-01",
       "end_date": null
+    },
+    {
+      "name": "Salesforce, Inc.",
+      "ticker": "CRM",
+      "exchange": "NYSE",
+      "website": "https://www.salesforce.com",
+      "title_or_role": "Executive Vice President and Chief Marketing Officer",
+      "start_date": "September 2013",
+      "end_date": "February 2017",
+      "validated": true
+    },
+    {
+      "name": "Booking Holdings Inc.",
+      "ticker": "BKNG",
+      "exchange": "NASDAQ",
+      "website": "https://www.bookingholdings.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Figma, Inc.",
+      "ticker": "N/A",
+      "exchange": "Private",
+      "website": "https://www.figma.com",
+      "title_or_role": "Director",
+      "start_date": "December 2019",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -38,6 +68,5 @@
     "Governance and Nominating Committee",
     "Sustainability, Innovation and Policy Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

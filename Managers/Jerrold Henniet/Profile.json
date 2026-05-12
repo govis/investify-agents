@@ -12,10 +12,11 @@
       "name": "Capstone Copper Corp.",
       "ticker": "CS",
       "exchange": "TSX",
-      "title_or_role": "Senior Vice President, People",
-      "website": "https://capstonecopper.com",
-      "start_date": "2022-03-23",
-      "end_date": null
+      "title_or_role": "Senior VP: Strategy & Capital Markets",
+      "website": "https://capstonecopper.com/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +24,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

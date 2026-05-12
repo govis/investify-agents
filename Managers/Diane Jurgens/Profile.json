@@ -16,6 +16,46 @@
       "website": "https://www.anglogoldashanti.com",
       "start_date": "2024-01-01",
       "end_date": null
+    },
+    {
+      "name": "Standard Chartered PLC",
+      "ticker": "STAN",
+      "exchange": "LSE",
+      "website": "https://www.sc.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "March 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Infosys Limited",
+      "ticker": "INFY",
+      "exchange": "NYSE",
+      "website": "https://www.infosys.com",
+      "title_or_role": "Independent Director",
+      "start_date": "April 2026",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Walt Disney Company",
+      "ticker": "DIS",
+      "exchange": "NYSE",
+      "website": "https://thewaltdisneycompany.com",
+      "title_or_role": "Chief Information Officer",
+      "start_date": "October 2020",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "NYSE",
+      "website": "https://www.bhp.com",
+      "title_or_role": "Chief Technology Officer",
+      "start_date": "2015",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +66,5 @@
     "Audit and Risk Committee",
     "Social, Ethics and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,56 @@
       "website": "https://www.dundeeprecious.com",
       "start_date": "2020-05-01",
       "end_date": null
+    },
+    {
+      "name": "Andean American Gold Corp.",
+      "ticker": "AAG",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2010",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Sinchao Metals Corp.",
+      "ticker": "SMZ",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "2012",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "INV Metals Inc.",
+      "ticker": "INV",
+      "exchange": "TSX",
+      "website": "www.invmetals.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2017",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Sabina Gold & Silver Corp.",
+      "ticker": "SBB",
+      "exchange": "TSX",
+      "website": "www.sabinagoldsilver.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2017",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Xstrata Nickel",
+      "ticker": "XTA",
+      "exchange": "LSE",
+      "website": null,
+      "title_or_role": "Senior Vice President, Europe and Africa",
+      "start_date": "2006",
+      "end_date": "2009",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +73,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

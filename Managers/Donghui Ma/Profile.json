@@ -12,10 +12,31 @@
       "name": "Li Auto Inc.",
       "ticker": "LI",
       "exchange": "NASDAQ",
-      "title_or_role": "President, Director",
-      "website": "https://www.lixiang.com",
+      "title_or_role": "President (Executive Director)",
+      "website": "https://ir.lixiang.com/",
       "start_date": "2023-01-01",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sany Heavy Industry Co., Ltd.",
+      "ticker": "600031",
+      "exchange": "Shanghai Stock Exchange",
+      "website": "https://www.sany.com.cn/",
+      "title_or_role": "Research Director",
+      "start_date": "2011-06-01",
+      "end_date": "2015-09-01",
+      "validated": true
+    },
+    {
+      "name": "IAT Automobile Technology Co., Ltd.",
+      "ticker": "300424",
+      "exchange": "Shenzhen Stock Exchange",
+      "website": "http://www.iat-auto.com/",
+      "title_or_role": "Senior Project Manager",
+      "start_date": "2010-06-01",
+      "end_date": "2011-06-01",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

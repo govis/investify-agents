@@ -12,10 +12,21 @@
       "name": "Emerson Electric Co.",
       "ticker": "EMR",
       "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
+      "title_or_role": "Executive President, Automation Solutions",
       "website": "https://www.emerson.com",
-      "start_date": "2021-02-01",
-      "end_date": null
+      "start_date": "2018",
+      "end_date": "February 2021",
+      "validated": true
+    },
+    {
+      "name": "Merck & Co., Inc.",
+      "ticker": "MRK",
+      "exchange": "NYSE",
+      "website": "https://www.merck.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "January 1, 2025",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

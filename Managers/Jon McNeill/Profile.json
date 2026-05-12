@@ -16,6 +16,56 @@
       "website": "https://www.rocketlabusa.com",
       "start_date": "2021-01-01",
       "end_date": null
+    },
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "website": "https://www.tesla.com",
+      "title_or_role": "President, Global Sales, Marketing, Policy, and Services",
+      "start_date": "2015",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Lyft, Inc.",
+      "ticker": "LYFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.lyft.com",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2018",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Starbucks Corporation",
+      "ticker": "SBUX",
+      "exchange": "NASDAQ",
+      "website": "https://www.starbucks.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "title_or_role": "Director",
+      "start_date": "2022-10-04",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lululemon Athletica Inc.",
+      "ticker": "LULU",
+      "exchange": "NASDAQ",
+      "website": "https://www.lululemon.com",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +75,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,21 @@
       "name": "Amazon.com, Inc.",
       "ticker": "AMZN",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "website": "https://www.amazon.com",
-      "start_date": "2014-07-01",
-      "end_date": null
+      "title_or_role": "Director (Board Member)",
+      "website": "https://www.aboutamazon.com",
+      "start_date": "July 2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Viacom, Inc. (now Paramount Global)",
+      "ticker": "PARA",
+      "exchange": "NASDAQ",
+      "website": "https://www.paramount.com",
+      "title_or_role": "Chair and Chief Executive Officer of MTV Networks (Division of Viacom)",
+      "start_date": "July 2004",
+      "end_date": "May 2011",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
   "committees": [
     "Leadership Development and Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

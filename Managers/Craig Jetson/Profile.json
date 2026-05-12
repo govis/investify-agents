@@ -16,6 +16,26 @@
       "website": "https://degreymining.com.au",
       "start_date": "2024-01-01",
       "end_date": null
+    },
+    {
+      "name": "St Barbara Limited",
+      "ticker": "SBM",
+      "exchange": "ASX",
+      "website": "https://stbarbara.com.au/",
+      "title_or_role": "Managing Director and Chief Executive Officer",
+      "start_date": "2020-09-01",
+      "end_date": "2022-11-14",
+      "validated": true
+    },
+    {
+      "name": "Bardoc Gold Limited",
+      "ticker": "BDC",
+      "exchange": "ASX",
+      "website": "https://www.bardocgold.com.au/",
+      "title_or_role": "Director",
+      "start_date": "2022-02-01",
+      "end_date": "2022-04-12",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +43,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

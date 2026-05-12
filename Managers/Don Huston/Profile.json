@@ -11,11 +11,22 @@
     {
       "name": "Skyharbour Resources Ltd.",
       "ticker": "SYH",
-      "exchange": "TSX",
+      "exchange": "TSXV",
       "title_or_role": "Director",
-      "website": "https://skyharbourltd.com",
-      "start_date": "2013-06-01",
-      "end_date": null
+      "website": "https://skyharbourltd.com/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aben Gold Corp.",
+      "ticker": "ABN",
+      "exchange": "TSXV",
+      "website": "https://abengold.com/",
+      "title_or_role": "President, CEO, Director, and Acting CFO",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +36,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

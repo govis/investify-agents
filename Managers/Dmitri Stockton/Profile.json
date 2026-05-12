@@ -16,6 +16,46 @@
       "website": "https://www.deere.com",
       "start_date": "2015-01-01",
       "end_date": null
+    },
+    {
+      "name": "Target Corporation",
+      "ticker": "TGT",
+      "exchange": "NYSE",
+      "website": "corporate.target.com",
+      "title_or_role": "Director",
+      "start_date": "2018-03-05",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ryder System, Inc.",
+      "ticker": "R",
+      "exchange": "NYSE",
+      "website": "ryder.com",
+      "title_or_role": "Director",
+      "start_date": "2018-03-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Smurfit Westrock plc",
+      "ticker": "SW",
+      "exchange": "NYSE",
+      "website": "smurfitwestrock.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": "2025-05-02",
+      "validated": true
+    },
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "ge.com",
+      "title_or_role": "President & CEO, GE Asset Management",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +66,5 @@
     "Audit Committee",
     "Finance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

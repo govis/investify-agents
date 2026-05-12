@@ -16,6 +16,26 @@
       "website": "https://www.teradyne.com",
       "start_date": "2006-01-01",
       "end_date": null
+    },
+    {
+      "name": "LogMeIn, Inc. (now GoTo)",
+      "ticker": "LOGM",
+      "exchange": "NASDAQ",
+      "website": "www.goto.com",
+      "title_or_role": "Director (Board Member)",
+      "start_date": "2008",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Sprinklr, Inc.",
+      "ticker": "CXM",
+      "exchange": "NYSE",
+      "website": "www.sprinklr.com",
+      "title_or_role": "Director (Board Member)",
+      "start_date": "2016-09-13",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

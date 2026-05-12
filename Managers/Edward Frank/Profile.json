@@ -13,9 +13,60 @@
       "ticker": "MRVL",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
-      "website": "https://www.marvell.com",
-      "start_date": "2016-05-01",
-      "end_date": null
+      "website": "marvell.com",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Analog Devices, Inc.",
+      "ticker": "ADI",
+      "exchange": "NASDAQ",
+      "website": "analog.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rocket Lab USA, Inc.",
+      "ticker": "RKLB",
+      "exchange": "NASDAQ",
+      "website": "rocketlabusa.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SiTime Corporation",
+      "ticker": "SITM",
+      "exchange": "NASDAQ",
+      "website": "sitime.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Broadcom Inc.",
+      "ticker": "AVGO",
+      "exchange": "NASDAQ",
+      "website": "broadcom.com",
+      "title_or_role": "Vice President",
+      "start_date": "1999",
+      "end_date": "2009",
+      "validated": true
+    },
+    {
+      "name": "Fusion-io, Inc.",
+      "ticker": "FIO",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2014",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +77,5 @@
     "Executive Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

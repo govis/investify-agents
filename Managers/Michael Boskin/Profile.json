@@ -11,11 +11,62 @@
     {
       "name": "Oracle Corporation",
       "ticker": "ORCL",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
       "website": "https://www.oracle.com",
-      "start_date": "1994-04-01",
-      "end_date": null
+      "start_date": "1994",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bloom Energy Corporation",
+      "ticker": "BE",
+      "exchange": "NYSE",
+      "website": "https://www.bloomenergy.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Exxon Mobil Corporation",
+      "ticker": "XOM",
+      "exchange": "NYSE",
+      "website": "https://www.exxonmobil.com",
+      "title_or_role": "Director",
+      "start_date": "1996",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Vodafone Group PLC",
+      "ticker": "VOD",
+      "exchange": "LSE",
+      "website": "https://www.vodafone.com",
+      "title_or_role": "Director",
+      "start_date": "1999",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "AirTouch Communications, Inc.",
+      "ticker": "ATI",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "1996",
+      "end_date": "1999",
+      "validated": true
+    },
+    {
+      "name": "Shinsei Bank",
+      "ticker": "8303",
+      "exchange": "TSE",
+      "website": "https://www.sbishinseibank.co.jp",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +77,5 @@
   "committees": [
     "Nomination and Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

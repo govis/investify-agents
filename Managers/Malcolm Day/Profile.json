@@ -12,10 +12,31 @@
       "name": "Critical Metals Corp.",
       "ticker": "CRML",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://criticalmetalscorp.com",
-      "start_date": "2024-02-27",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "criticalmetalscorp.com",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "European Lithium Limited",
+      "ticker": "EUR",
+      "exchange": "ASX",
+      "website": "europeanlithium.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Moab Minerals Limited",
+      "ticker": "MOM",
+      "exchange": "ASX",
+      "website": "moabminerals.com.au",
+      "title_or_role": "Managing Director",
+      "start_date": "1999",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +48,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -25,6 +25,26 @@
       "website": "https://www.oracle.com",
       "start_date": "2022-01-01",
       "end_date": null
+    },
+    {
+      "name": "Norfolk Southern Corporation",
+      "ticker": "NSC",
+      "exchange": "NYSE",
+      "website": "www.norfolk-southern.com",
+      "title_or_role": "Chairman",
+      "start_date": "2006",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Duke Energy Corporation",
+      "ticker": "DUK",
+      "exchange": "NYSE",
+      "website": "www.duke-energy.com",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -37,6 +57,5 @@
     "Audit Committee",
     "Board Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

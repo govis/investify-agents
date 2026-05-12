@@ -16,6 +16,26 @@
       "website": "https://www.dominionenergy.com",
       "start_date": "2017-01-01",
       "end_date": null
+    },
+    {
+      "name": "Pepco Holdings, Inc.",
+      "ticker": "POM",
+      "exchange": "NYSE",
+      "website": "https://www.pepco.com",
+      "title_or_role": "Chairman, President and Chief Executive Officer",
+      "start_date": "2009-05",
+      "end_date": "2016-03",
+      "validated": true
+    },
+    {
+      "name": "South Jersey Industries, Inc.",
+      "ticker": "SJI",
+      "exchange": "NYSE",
+      "website": "https://www.sjindustries.com",
+      "title_or_role": "Director and Non-Executive Chairman",
+      "start_date": "2016-05",
+      "end_date": "2025-02",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Audit Committee",
     "Finance and Risk Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

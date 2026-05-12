@@ -12,10 +12,31 @@
       "name": "Discovery Silver Corp.",
       "ticker": "DSV",
       "exchange": "TSX",
-      "title_or_role": "Chief Financial Officer",
-      "website": "https://discoverysilver.com",
-      "start_date": "2023-09-01",
-      "end_date": null
+      "title_or_role": "VP, Corporate Development",
+      "website": "https://discoverysilver.com/",
+      "start_date": "2020-01",
+      "end_date": "2025-06",
+      "validated": true
+    },
+    {
+      "name": "Guyana Goldfields Inc.",
+      "ticker": "GUY",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Corporate Development",
+      "start_date": "Prior to 2020",
+      "end_date": "Prior to 2020",
+      "validated": true
+    },
+    {
+      "name": "Lago Dourado Minerals Ltd.",
+      "ticker": "LDM",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Corporate Development",
+      "start_date": "Prior to 2020",
+      "end_date": "Prior to 2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

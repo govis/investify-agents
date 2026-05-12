@@ -16,6 +16,46 @@
       "website": "https://rivian.com",
       "start_date": "2021-01-01",
       "end_date": null
+    },
+    {
+      "name": "Illumina, Inc.",
+      "ticker": "ILMN",
+      "exchange": "NASDAQ",
+      "website": "https://www.illumina.com",
+      "title_or_role": "President and CEO (1999\u20132016), Executive Chairman (2016\u20132019), Chairman of the Board (2019\u20132021)",
+      "start_date": "1999",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Denali Therapeutics Inc.",
+      "ticker": "DNLI",
+      "exchange": "NASDAQ",
+      "website": "https://www.denalitherapeutics.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Coherent, Inc.",
+      "ticker": "COHR",
+      "exchange": "NYSE",
+      "website": "https://www.coherent.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2011",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Molecular Dynamics, Inc.",
+      "ticker": "MDYN",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "title_or_role": "President and CEO",
+      "start_date": "1994",
+      "end_date": "1998",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +66,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

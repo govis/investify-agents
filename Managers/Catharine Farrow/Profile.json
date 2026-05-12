@@ -25,6 +25,46 @@
       "website": "https://www.franco-nevada.com",
       "start_date": "2015-05-01",
       "end_date": null
+    },
+    {
+      "name": "TMAC Resources Inc.",
+      "ticker": "TMR",
+      "exchange": "TSX",
+      "website": "https://www.tmacresources.com",
+      "title_or_role": "Founding CEO, Director",
+      "start_date": "2012",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Centamin plc",
+      "ticker": "CEY",
+      "exchange": "LSE",
+      "website": "https://www.centamin.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "September 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aclara Resources Inc.",
+      "ticker": "ARA",
+      "exchange": "TSX",
+      "website": "https://aclara-re.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ALS Limited",
+      "ticker": "ALQ",
+      "exchange": "ASX",
+      "website": "https://www.alsglobal.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "March 24, 2025",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -37,6 +77,5 @@
     "ESG Committee",
     "Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

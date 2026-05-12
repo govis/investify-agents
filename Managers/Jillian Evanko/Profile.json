@@ -16,6 +16,46 @@
       "website": "https://www.parker.com",
       "start_date": "2023-01-01",
       "end_date": null
+    },
+    {
+      "name": "Chart Industries, Inc.",
+      "ticker": "GTLS",
+      "exchange": "NASDAQ",
+      "website": "https://www.chartindustries.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2017-02",
+      "end_date": "2018-06",
+      "validated": true
+    },
+    {
+      "name": "Greif, Inc.",
+      "ticker": "GEF",
+      "exchange": "NYSE",
+      "website": "https://www.greif.com",
+      "title_or_role": "Director",
+      "start_date": "2024-06",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Alliant Energy Corporation",
+      "ticker": "LNT",
+      "exchange": "NASDAQ",
+      "website": "https://www.alliantenergy.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2019-02",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Dover Corporation",
+      "ticker": "DOV",
+      "exchange": "NYSE",
+      "website": "https://www.dovercorporation.com",
+      "title_or_role": "Vice President and Chief Financial Officer of Dover Fluids",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +65,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,31 @@
       "name": "NANO Nuclear Energy Inc.",
       "ticker": "NNE",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://nanonuclearenergy.com",
-      "start_date": "2023-05-01",
-      "end_date": null
+      "title_or_role": "Chairman of the Executive Advisory Board for Africa",
+      "website": "https://nanonuclearenergy.com/",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Anglo American plc",
+      "ticker": "AAL",
+      "exchange": "LSE",
+      "website": "https://www.angloamerican.com/",
+      "title_or_role": "Divisional Principal Geophysicist for Africa / Director of the Geophysical Division for Africa",
+      "start_date": "1995",
+      "end_date": "2004",
+      "validated": true
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX / NYSE",
+      "website": "https://www.bhp.com/",
+      "title_or_role": "Research Geophysicist / Project Geophysicist (Africa programmes)",
+      "start_date": "1993",
+      "end_date": "1995",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +48,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

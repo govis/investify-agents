@@ -16,6 +16,26 @@
       "website": "https://www.lundinmining.com",
       "start_date": "2021-05-01",
       "end_date": null
+    },
+    {
+      "name": "Gibson Energy Inc.",
+      "ticker": "GEI",
+      "exchange": "TSX",
+      "website": "https://www.gibsonenergy.com",
+      "title_or_role": "Director",
+      "start_date": "2021-09-10",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Major Drilling Group International Inc.",
+      "ticker": "MDI",
+      "exchange": "TSX",
+      "website": "https://www.majordrilling.com",
+      "title_or_role": "Director",
+      "start_date": "2020-09-10",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Audit Committee (Chair)",
     "Human Resources and Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

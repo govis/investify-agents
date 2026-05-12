@@ -16,6 +16,36 @@
       "website": "https://www.vistracorp.com",
       "start_date": "2016-10-01",
       "end_date": null
+    },
+    {
+      "name": "Successories Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://www.successories.com/",
+      "title_or_role": "Owner and Chairman of the Board",
+      "start_date": "1999",
+      "end_date": "2009",
+      "validated": true
+    },
+    {
+      "name": "Quill Corporation",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://www.quill.com/",
+      "title_or_role": "Founder, President, and CEO",
+      "start_date": null,
+      "end_date": "1998",
+      "validated": true
+    },
+    {
+      "name": "Solix, Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://www.solixinc.com/",
+      "title_or_role": "COO, President, CEO, and Member of the Board of Directors",
+      "start_date": "2001",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
     "Nominating and Governance Committee",
     "Social Responsibility and Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

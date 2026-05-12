@@ -16,6 +16,16 @@
       "website": "https://www.netapp.com",
       "start_date": "2020-02-01",
       "end_date": null
+    },
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "website": "https://www.tesla.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "February 2017",
+      "end_date": "March 2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +35,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

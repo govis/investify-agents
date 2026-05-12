@@ -16,6 +16,56 @@
       "website": "https://www.geaerospace.com",
       "start_date": "2024-04-01",
       "end_date": null
+    },
+    {
+      "name": "AMR Corporation (now American Airlines Group Inc.)",
+      "ticker": "AAL",
+      "exchange": "NASDAQ",
+      "website": "https://www.aa.com",
+      "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "start_date": "July 22, 2010",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Gap Inc.",
+      "ticker": "GPS",
+      "exchange": "NYSE",
+      "website": "https://www.gapinc.com",
+      "title_or_role": "Director",
+      "start_date": "August 2011",
+      "end_date": "December 2021",
+      "validated": true
+    },
+    {
+      "name": "LyondellBasell Industries N.V.",
+      "ticker": "LYB",
+      "exchange": "NYSE",
+      "website": "https://www.lyondellbasell.com",
+      "title_or_role": "Director",
+      "start_date": "February 2014",
+      "end_date": "May 2021",
+      "validated": true
+    },
+    {
+      "name": "Marriott International, Inc.",
+      "ticker": "MAR",
+      "exchange": "NASDAQ",
+      "website": "https://www.marriott.com",
+      "title_or_role": "Director",
+      "start_date": "March 1, 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GE Aerospace (formerly part of General Electric Company)",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.geaerospace.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +76,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

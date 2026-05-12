@@ -25,6 +25,26 @@
       "website": "https://www.teradyne.com",
       "start_date": "2023-02-01",
       "end_date": null
+    },
+    {
+      "name": "American Airlines Group Inc.",
+      "ticker": "AAL",
+      "exchange": "NASDAQ",
+      "website": "https://www.aa.com",
+      "title_or_role": "Independent Chairman of the Board of Directors",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "https://www.boeing.com",
+      "title_or_role": "Vice President, Finance and Corporate Controller",
+      "start_date": "2010",
+      "end_date": "2012",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -37,6 +57,5 @@
   "committees": [
     "Audit & Finance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

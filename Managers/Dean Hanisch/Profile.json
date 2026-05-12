@@ -16,6 +16,26 @@
       "website": "https://strialithium.com/",
       "start_date": "2022-06-01",
       "end_date": null
+    },
+    {
+      "name": "Focus Graphite Inc.",
+      "ticker": "FMS",
+      "exchange": "TSXV",
+      "website": "https://focusgraphite.com/",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2025-01-07",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CTT Pharmaceutical Holdings, Inc.",
+      "ticker": "CTTH",
+      "exchange": "OTC",
+      "website": "https://cttpharma.com/",
+      "title_or_role": "President, Secretary, Treasurer and Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

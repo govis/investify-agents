@@ -12,10 +12,61 @@
       "name": "Juniper Networks, Inc.",
       "ticker": "JNPR",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Board of Directors",
       "website": "https://www.juniper.net",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bentley Systems, Inc.",
+      "ticker": "BSY",
+      "exchange": "NASDAQ",
+      "website": "https://www.bentley.com",
+      "title_or_role": "Board of Directors",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "West Pharmaceutical Services, Inc.",
+      "ticker": "WST",
+      "exchange": "NYSE",
+      "website": "https://www.westpharma.com",
+      "title_or_role": "Board of Directors",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NCR Voyix Corporation",
+      "ticker": "VYX",
+      "exchange": "NYSE",
+      "website": "https://www.ncrvoyix.com",
+      "title_or_role": "Board of Directors",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Unisys Corporation",
+      "ticker": "UIS",
+      "exchange": "NYSE",
+      "website": "https://www.unisys.com",
+      "title_or_role": "SVP & Chief Financial Officer",
+      "start_date": "2000",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Paycom Software, Inc.",
+      "ticker": "PAYC",
+      "exchange": "NYSE",
+      "website": "https://www.paycom.com",
+      "title_or_role": "Board of Directors",
+      "start_date": "2018",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +77,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

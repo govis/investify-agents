@@ -12,10 +12,31 @@
       "name": "First Mining Gold Corp.",
       "ticker": "FF",
       "exchange": "TSX",
-      "title_or_role": "Vice President, Exploration",
-      "website": "https://firstmininggold.com",
-      "start_date": "2019-02-01",
-      "end_date": null
+      "title_or_role": "VP, Exploration & Project Operations",
+      "website": "https://firstmininggold.com/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cassiar Gold Corp.",
+      "ticker": "GLDC",
+      "exchange": "TSXV",
+      "website": "https://cassiargold.com/",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sabina Gold & Silver Corp.",
+      "ticker": "SBB",
+      "exchange": "TSX",
+      "website": "https://www.sabinagoldsilver.com/",
+      "title_or_role": "Director of Exploration",
+      "start_date": null,
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +45,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,31 @@
       "name": "Apple Inc.",
       "ticker": "AAPL",
       "exchange": "NASDAQ",
-      "title_or_role": "Senior Vice President, Hardware Technologies",
-      "website": "https://www.apple.com",
-      "start_date": "2015-12-17",
-      "end_date": null
+      "title_or_role": "Chief Hardware Officer (formerly SVP, Hardware Technologies)",
+      "website": "apple.com",
+      "start_date": "2008",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "intel.com",
+      "title_or_role": "Senior positions (Processor development and design)",
+      "start_date": "1993",
+      "end_date": "2005",
+      "validated": true
+    },
+    {
+      "name": "International Business Machines Corporation (IBM)",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "website": "ibm.com",
+      "title_or_role": "Research Engineer / Senior positions",
+      "start_date": "1990",
+      "end_date": "1993",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -28,6 +49,5 @@
     }
   ],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

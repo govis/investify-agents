@@ -12,10 +12,61 @@
       "name": "The Southern Company",
       "ticker": "SO",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.southerncompany.com",
-      "start_date": "1999-01-01",
-      "end_date": null
+      "start_date": "1999",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vulcan Materials Company",
+      "ticker": "VMC",
+      "exchange": "NYSE",
+      "website": "https://www.vulcanmaterials.com",
+      "title_or_role": "Senior Vice President and General Counsel (1992\u20131996); President (1996\u20131997); CEO (1997\u20132014); Chairman (1997\u20132015); Director (1996\u20132015)",
+      "start_date": "1992",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Wells Fargo & Company",
+      "ticker": "WFC",
+      "exchange": "NYSE",
+      "website": "https://www.wellsfargo.com",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Wachovia Corporation",
+      "ticker": "WB",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Protective Life Corporation",
+      "ticker": "PL",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "1997",
+      "end_date": "2006",
+      "validated": true
+    },
+    {
+      "name": "SouthTrust Corporation",
+      "ticker": "SOTR",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "1998",
+      "end_date": "2004",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +78,5 @@
     "Finance",
     "Governance (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

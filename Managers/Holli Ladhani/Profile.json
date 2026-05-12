@@ -16,6 +16,26 @@
       "website": "https://www.quantaservices.com",
       "start_date": "2021-01-01",
       "end_date": null
+    },
+    {
+      "name": "Select Water Solutions, Inc. (formerly Select Energy Services, Inc.)",
+      "ticker": "WTTR",
+      "exchange": "NYSE",
+      "website": "https://selectwater.com/",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "2017",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Kayne Anderson Energy Infrastructure Fund, Inc.",
+      "ticker": "KYN",
+      "exchange": "NYSE",
+      "website": "https://kaynefunds.com/kyn/",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +47,5 @@
     "Audit Committee",
     "Investment Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

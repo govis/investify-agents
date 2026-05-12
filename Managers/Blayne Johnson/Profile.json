@@ -16,6 +16,26 @@
       "website": "https://calibremining.com",
       "start_date": "2019-10-15",
       "end_date": null
+    },
+    {
+      "name": "Newcore Gold Ltd.",
+      "ticker": "NCAU",
+      "exchange": "TSXV",
+      "website": "https://newcoregold.com/",
+      "title_or_role": "Lead Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Equinox Gold Corp.",
+      "ticker": "EQX",
+      "exchange": "TSX/NYSE",
+      "website": "https://www.equinoxgold.com/",
+      "title_or_role": "Director",
+      "start_date": "2025-06-17",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +45,5 @@
   "committees": [
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

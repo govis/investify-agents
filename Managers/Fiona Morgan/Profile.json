@@ -12,10 +12,11 @@
       "name": "Regis Resources Limited",
       "ticker": "RRL",
       "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
-      "website": "https://regisresources.com.au",
-      "start_date": "2016-02-22",
-      "end_date": null
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://regisresources.com.au/",
+      "start_date": "2020-11",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +27,5 @@
     "Audit Committee",
     "Remuneration and Nomination Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

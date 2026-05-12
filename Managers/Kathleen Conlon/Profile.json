@@ -12,10 +12,61 @@
       "name": "Pilbara Minerals Limited",
       "ticker": "PLS",
       "exchange": "ASX",
-      "title_or_role": "Non-Executive Chair",
+      "title_or_role": "Non-Executive Director / Chair",
       "website": "https://www.pilbaraminerals.com.au",
       "start_date": "2024-01-01",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nanosonics Limited",
+      "ticker": "NAN",
+      "exchange": "ASX",
+      "website": "https://www.nanosonics.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2020-10-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BlueScope Steel Limited",
+      "ticker": "BSL",
+      "exchange": "ASX",
+      "website": "https://www.bluescope.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2020-02-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lynas Rare Earths Limited",
+      "ticker": "LYC",
+      "exchange": "ASX",
+      "website": "https://www.lynasrareearths.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2011-11-01",
+      "end_date": "2020-05-22",
+      "validated": true
+    },
+    {
+      "name": "REA Group Limited",
+      "ticker": "REA",
+      "exchange": "ASX",
+      "website": "https://www.rea-group.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2007-06-01",
+      "end_date": "2018-11-15",
+      "validated": true
+    },
+    {
+      "name": "CSR Limited",
+      "ticker": "CSR",
+      "exchange": "ASX",
+      "website": "https://www.csr.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2004-01-01",
+      "end_date": "2016-06-30",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +77,5 @@
     "People and Culture Committee",
     "Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

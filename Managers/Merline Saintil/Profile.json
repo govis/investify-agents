@@ -12,10 +12,81 @@
       "name": "Rocket Lab USA, Inc.",
       "ticker": "RKLB",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Lead Independent Director",
       "website": "https://www.rocketlabusa.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "start_date": "June 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Symbotic Inc.",
+      "ticker": "SYM",
+      "exchange": "NASDAQ",
+      "website": "https://www.symbotic.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "TD SYNNEX Corporation",
+      "ticker": "SNX",
+      "exchange": "NYSE",
+      "website": "https://www.tdsynnex.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GitLab Inc.",
+      "ticker": "GTLB",
+      "exchange": "NASDAQ",
+      "website": "https://about.gitlab.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Evolv Technology Holdings, Inc.",
+      "ticker": "EVLV",
+      "exchange": "NASDAQ",
+      "website": "https://evolvtechnology.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Alkami Technology, Inc.",
+      "ticker": "ALKT",
+      "exchange": "NASDAQ",
+      "website": "https://www.alkami.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lightspeed Commerce Inc.",
+      "ticker": "LSPD",
+      "exchange": "NYSE",
+      "website": "https://www.lightspeedhq.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SoundThinking, Inc. (formerly ShotSpotter)",
+      "ticker": "SSTI",
+      "exchange": "NASDAQ",
+      "website": "https://www.soundthinking.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +97,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

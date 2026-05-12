@@ -16,6 +16,26 @@
       "website": "https://www.nio.com",
       "start_date": "2018-09-01",
       "end_date": null
+    },
+    {
+      "name": "Tencent Holdings Ltd.",
+      "ticker": "0700",
+      "exchange": "HKEX (Hong Kong Stock Exchange)",
+      "website": "https://www.tencent.com",
+      "title_or_role": "Chief Strategy Officer and Senior Executive Vice President",
+      "start_date": "2011-08",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "China Literature Limited",
+      "ticker": "0772",
+      "exchange": "HKEX (Hong Kong Stock Exchange)",
+      "website": "https://ir.yuewen.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2017-09",
+      "end_date": "2024-09",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +45,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

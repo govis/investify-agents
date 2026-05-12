@@ -12,10 +12,41 @@
       "name": "Nucor Corporation",
       "ticker": "NUE",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://nucor.com",
-      "start_date": "2008-01-01",
-      "end_date": null
+      "title_or_role": "Lead Independent Director",
+      "website": "nucor.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Otis Worldwide Corporation",
+      "ticker": "OTIS",
+      "exchange": "NYSE",
+      "website": "otis.com",
+      "title_or_role": "Lead Independent Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "O-I Glass, Inc.",
+      "ticker": "OI",
+      "exchange": "NYSE",
+      "website": "o-i.com",
+      "title_or_role": "Independent Chair of the Board",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Global Brass and Copper Holdings, Inc.",
+      "ticker": "BRSS",
+      "exchange": "NYSE",
+      "website": "n/a",
+      "title_or_role": "Chairman, CEO, Executive Chairman",
+      "start_date": "2007",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Audit",
     "Governance and Nominating"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

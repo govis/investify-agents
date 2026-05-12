@@ -12,10 +12,21 @@
       "name": "Marvell Technology, Inc.",
       "ticker": "MRVL",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
+      "title_or_role": "Director (Lead Independent Director)",
       "website": "https://www.marvell.com",
-      "start_date": "2016-05-01",
-      "end_date": null
+      "start_date": "May 2016",
+      "end_date": "June 2025",
+      "validated": true
+    },
+    {
+      "name": "LSI Corporation (formerly LSI Logic)",
+      "ticker": "LSI",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "title_or_role": "Director (Chairman of the Audit Committee)",
+      "start_date": "Unknown",
+      "end_date": "2014",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +36,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -11,21 +11,23 @@ load_dotenv(find_dotenv(), override=True) # Load/Override with local settings
 # Configuration
 CONCURRENCY_LIMIT = int(os.getenv("CONCURRENCY_LIMIT", "1"))
 MAX_CONSECUTIVE_ERRORS = int(os.getenv("MAX_CONSECUTIVE_ERRORS", "3"))
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-1.5-pro")
+GEMINI_MODEL = os.getenv("GEMINI_MODEL")
+if not GEMINI_MODEL:
+    raise ValueError("GEMINI_MODEL environment variable is not set in .env")
 
 # Global state
 consecutive_errors = 0
 error_lock = asyncio.Lock()
 stop_event = asyncio.Event()
 
-async def worker(queue, pipeline):
+async def worker(queue, pipeline, get_picture):
     global consecutive_errors
     while not queue.empty() and not stop_event.is_set():
         profile_path = await queue.get()
         
         print(f"Main: [START] Enrichment for {os.path.basename(os.path.dirname(profile_path))}")
         try:
-            result = await pipeline.run(profile_path)
+            result = await pipeline.run(profile_path, get_picture=get_picture)
             if result.get("success"):
                 print(f"Main: [DONE] Enrichment for {os.path.basename(os.path.dirname(profile_path))}")
                 async with error_lock:
@@ -47,9 +49,10 @@ async def worker(queue, pipeline):
 async def main():
     parser = argparse.ArgumentParser(description="Enrich manager profiles using multi-agent pipeline.")
     parser.add_argument("--manager", type=str, help="Specific manager name to process (e.g. 'Aaron Jagdfeld')")
+    parser.add_argument("--get_picture", type=str, default="no", choices=["yes", "no"], help="Whether to attempt picture downloads in subsequent steps (default: no)")
     args = parser.parse_args()
 
-    print(f"Workflow 5: Manager Profiles starting with CONCURRENCY_LIMIT={CONCURRENCY_LIMIT}...")
+    print(f"Workflow 5: Manager Profiles starting with CONCURRENCY_LIMIT={CONCURRENCY_LIMIT} and get_picture={args.get_picture}...")
     
     managers_dir = os.path.join("..", "Managers")
     os.makedirs(managers_dir, exist_ok=True)
@@ -81,7 +84,7 @@ async def main():
                 try:
                     with open(path, 'r', encoding='utf-8') as f:
                         data = json.load(f)
-                        if data.get("enrichment_status") == "pending":
+                        if "enrichment_socials" not in data or data.get("enrichment_socials") == "pending":
                             to_enrich.append(path)
                 except Exception:
                     continue
@@ -109,7 +112,7 @@ async def main():
     
     # Start workers
     num_workers = min(CONCURRENCY_LIMIT, len(to_enrich))
-    workers = [asyncio.create_task(worker(queue, pipeline)) for _ in range(num_workers)]
+    workers = [asyncio.create_task(worker(queue, pipeline, args.get_picture)) for _ in range(num_workers)]
     
     # Wait for completion or fatal error
     if workers:

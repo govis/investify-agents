@@ -16,6 +16,86 @@
       "website": "https://www.vistagold.com",
       "start_date": "2019-03-01",
       "end_date": null
+    },
+    {
+      "name": "Ivanhoe Mines Ltd.",
+      "ticker": "IVN",
+      "exchange": "TSX",
+      "website": "ivanhoemines.com",
+      "title_or_role": "Executive Vice President",
+      "start_date": "1995",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Iondrive Limited",
+      "ticker": "ION",
+      "exchange": "ASX",
+      "website": "iondrive.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CopperCorp Resources Inc.",
+      "ticker": "CPER",
+      "exchange": "TSXV",
+      "website": "coppercorpinc.com",
+      "title_or_role": "Founder / Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "King Copper Discovery Corp.",
+      "ticker": "KCP",
+      "exchange": "TSXV",
+      "website": "kingcopperdiscovery.com",
+      "title_or_role": "Lead Strategic & Technical Advisor",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lepanto Consolidated Mining Co.",
+      "ticker": "LC",
+      "exchange": "PSE",
+      "website": "lepantomining.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Zeus Holdings, Inc.",
+      "ticker": "ZHI",
+      "exchange": "PSE",
+      "website": "zeusholdings.com.ph",
+      "title_or_role": "Independent Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Realgold Resources Corp.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "title_or_role": "President, CEO & Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Norrland Gold Corp.",
+      "ticker": "NORR",
+      "exchange": "TSXV",
+      "website": "norrlandgold.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +107,5 @@
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

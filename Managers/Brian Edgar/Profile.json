@@ -25,6 +25,26 @@
       "website": "https://denisonmines.com",
       "start_date": "2005-01-01",
       "end_date": null
+    },
+    {
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN",
+      "exchange": "TSX",
+      "website": "https://www.lundinmining.com",
+      "title_or_role": "Director",
+      "start_date": "1994",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Metalline Mining Company",
+      "ticker": "MMG",
+      "exchange": "OTC",
+      "website": null,
+      "title_or_role": "President and Chief Executive Officer / Executive Chairman",
+      "start_date": "2005",
+      "end_date": "2011",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +56,5 @@
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

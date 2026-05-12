@@ -10,12 +10,13 @@
   "company_affiliations": [
     {
       "name": "B2Gold Corp.",
-      "ticker": "BTG",
-      "exchange": "NYSE",
+      "ticker": "BTO (TSX), BTG (NYSE American)",
+      "exchange": "TSX, NYSE American",
       "title_or_role": "Director",
       "website": "https://www.b2gold.com",
-      "start_date": "2013-03-01",
-      "end_date": null
+      "start_date": "2007",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +26,5 @@
   "committees": [
     "Health, Safety, Environmental & Social Advisory Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

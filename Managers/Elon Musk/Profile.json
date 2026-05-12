@@ -12,10 +12,21 @@
       "name": "Tesla, Inc.",
       "ticker": "TSLA",
       "exchange": "NASDAQ",
-      "title_or_role": "Technoking of Tesla and Chief Executive Officer",
+      "title_or_role": "Chief Executive Officer (CEO) and Director",
       "website": "https://www.tesla.com",
-      "start_date": "2008-10-01",
-      "end_date": null
+      "start_date": "April 2004",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "PayPal Holdings, Inc.",
+      "ticker": "PYPL",
+      "exchange": "NASDAQ",
+      "website": "https://www.paypal.com",
+      "title_or_role": "CEO (of X.com/PayPal)",
+      "start_date": "1999",
+      "end_date": "October 2000",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +35,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

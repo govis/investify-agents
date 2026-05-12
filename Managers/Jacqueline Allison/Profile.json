@@ -10,12 +10,53 @@
   "company_affiliations": [
     {
       "name": "Laramide Resources Ltd.",
-      "ticker": "LAM",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
+      "ticker": "TSX: LAM / ASX: LAM / OTCQX: LMRXF",
+      "exchange": "TSX, ASX, OTC",
+      "title_or_role": "Non-Executive Director",
       "website": "https://laramide.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "start_date": "November 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Canstar Resources Inc.",
+      "ticker": "TSXV: ROX",
+      "exchange": "TSXV",
+      "website": "https://canstarresources.com",
+      "title_or_role": "Board Chair",
+      "start_date": "Not specified",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Titan Mining Corporation",
+      "ticker": "TSX: TI",
+      "exchange": "TSX",
+      "website": "https://www.titanminingcorp.com",
+      "title_or_role": "Vice President, Investor Relations and Strategic Analysis",
+      "start_date": "January 2018",
+      "end_date": "Not specified",
+      "validated": true
+    },
+    {
+      "name": "Dominion Diamond Corporation",
+      "ticker": "TSX: DDC",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Vice President, Investor Relations",
+      "start_date": "Not specified",
+      "end_date": "Prior to January 2018",
+      "validated": true
+    },
+    {
+      "name": "Hudbay Minerals Inc.",
+      "ticker": "TSX: HBM / NYSE: HBM",
+      "exchange": "TSX, NYSE",
+      "website": "https://www.hudbayminerals.com",
+      "title_or_role": "Director, Investor Relations",
+      "start_date": "Not specified",
+      "end_date": "Prior to Dominion Diamond Corporation role",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +67,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

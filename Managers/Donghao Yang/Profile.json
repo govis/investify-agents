@@ -12,10 +12,41 @@
       "name": "XPeng Inc.",
       "ticker": "XPEV",
       "exchange": "NYSE",
-      "title_or_role": "Independent Non-executive Director",
-      "website": "https://www.xiaopeng.com",
-      "start_date": "2020-08-01",
-      "end_date": null
+      "title_or_role": "Independent Director",
+      "website": "https://www.xiaopeng.com/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Yatsen Holding Limited",
+      "ticker": "YSG",
+      "exchange": "NYSE",
+      "website": "https://ir.yatsenglobal.com/",
+      "title_or_role": "Chief Financial Officer and Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vipshop Holdings Limited",
+      "ticker": "VIPS",
+      "exchange": "NYSE",
+      "website": "https://ir.vip.com/",
+      "title_or_role": "Non-Executive Director / Independent Non-Executive Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Synutra International, Inc.",
+      "ticker": "SIIC",
+      "exchange": "NASDAQ",
+      "website": "http://www.synutra.com/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "May 2010",
+      "end_date": "August 2011",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

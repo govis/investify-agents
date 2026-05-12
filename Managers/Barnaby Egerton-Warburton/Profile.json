@@ -12,10 +12,61 @@
       "name": "Oreterra Limited",
       "ticker": "ORE",
       "exchange": "ASX",
-      "title_or_role": "Non-Executive Chairman",
+      "title_or_role": "Director",
       "website": "https://oreterra.com.au",
-      "start_date": "2023-11-01",
-      "end_date": null
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Arizona Lithium Limited",
+      "ticker": "AZL",
+      "exchange": "ASX",
+      "website": "https://arizonalithium.com",
+      "title_or_role": "Chairman",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lord Resources Limited",
+      "ticker": "LRD",
+      "exchange": "ASX",
+      "website": "https://lordresources.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Pantera Minerals Limited",
+      "ticker": "PFE",
+      "exchange": "ASX",
+      "website": "https://panterali.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NSX Limited",
+      "ticker": "NSX",
+      "exchange": "ASX",
+      "website": "https://www.nsx.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hawkstone Mining Limited",
+      "ticker": "HWK",
+      "exchange": "ASX",
+      "website": "https://arizonalithium.com",
+      "title_or_role": "Non-Executive Chair",
+      "start_date": "2019",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +78,5 @@
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

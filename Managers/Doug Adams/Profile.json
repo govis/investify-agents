@@ -9,13 +9,14 @@
   "picture_local": null,
   "company_affiliations": [
     {
-      "name": "Atha Energy Corp.",
+      "name": "ATHA Energy Corp.",
       "ticker": "SASK",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://www.athaenergy.com",
-      "start_date": "2023-01-12",
-      "end_date": null
+      "exchange": "CSE",
+      "title_or_role": "VP, Exploration",
+      "website": "https://athaenergy.com/",
+      "start_date": null,
+      "end_date": "2024-02-12",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +27,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

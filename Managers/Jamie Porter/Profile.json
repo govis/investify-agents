@@ -16,6 +16,16 @@
       "website": "https://www.agnicoeagle.com",
       "start_date": "2023-05-01",
       "end_date": null
+    },
+    {
+      "name": "Alamos Gold Inc.",
+      "ticker": "AGI",
+      "exchange": "TSX / NYSE",
+      "website": "https://www.alamosgold.com",
+      "title_or_role": "Chief Financial Officer (CFO)",
+      "start_date": "2011",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -28,6 +38,5 @@
     }
   ],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

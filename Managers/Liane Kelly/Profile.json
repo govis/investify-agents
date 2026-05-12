@@ -10,12 +10,23 @@
   "company_affiliations": [
     {
       "name": "B2Gold Corp.",
-      "ticker": "BTG",
-      "exchange": "NYSE",
+      "ticker": "BTO (TSX), BTG (NYSE)",
+      "exchange": "TSX, NYSE",
       "title_or_role": "Director",
       "website": "https://www.b2gold.com",
-      "start_date": "2020-06-12",
-      "end_date": null
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Amaroq Minerals Ltd. (formerly AEX Gold Inc.)",
+      "ticker": "AMRQ (TSX-V), AMRQ (LSE)",
+      "exchange": "TSX-V, LSE",
+      "website": "https://www.amaroqminerals.com",
+      "title_or_role": "Director / Senior Independent Director",
+      "start_date": "2020",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Corporate Governance and Nominating Committee",
     "Health, Safety, Environmental & Social Advisory Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,26 @@
       "website": "https://www.jacobs.com",
       "start_date": "2009-01-01",
       "end_date": null
+    },
+    {
+      "name": "Motorola, Inc. (now Motorola Solutions, Inc.)",
+      "ticker": "MSI",
+      "exchange": "NYSE",
+      "website": "https://www.motorolasolutions.com",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "1997",
+      "end_date": "2003",
+      "validated": true
+    },
+    {
+      "name": "Colliers International Group Inc.",
+      "ticker": "CIGI",
+      "exchange": "NASDAQ / TSX",
+      "website": "https://www.colliers.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +47,5 @@
     "Audit Committee",
     "ESG and Risk Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,21 @@
       "name": "Quanta Services, Inc.",
       "ticker": "PWR",
       "exchange": "NYSE",
-      "title_or_role": "Chairman of the Board",
+      "title_or_role": "Chairman of the Board of Directors",
       "website": "https://www.quantaservices.com",
-      "start_date": "2022-05-01",
-      "end_date": null
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CenterPoint Energy, Inc.",
+      "ticker": "CNP",
+      "exchange": "NYSE",
+      "website": "https://www.centerpointenergy.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2002",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +38,5 @@
     "Compensation Committee",
     "Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

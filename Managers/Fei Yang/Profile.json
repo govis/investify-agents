@@ -13,9 +13,30 @@
       "ticker": "XPEV",
       "exchange": "NYSE",
       "title_or_role": "Non-executive Director",
-      "website": "https://www.xiaopeng.com",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "website": "ir.xiaopeng.com",
+      "start_date": "April 2018",
+      "end_date": "June 2024",
+      "validated": true
+    },
+    {
+      "name": "Vipshop Holdings Ltd.",
+      "ticker": "VIPS",
+      "exchange": "NYSE",
+      "website": "ir.vip.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2011",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Yatsen Holding Limited",
+      "ticker": "YSG",
+      "exchange": "NYSE",
+      "website": "ir.yatsenglobal.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "November 2020",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +46,5 @@
   "committees": [
     "Nomination and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

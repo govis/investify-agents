@@ -1,6 +1,7 @@
 import os
 import json
 import asyncio
+import argparse
 import tools
 from dotenv import load_dotenv, find_dotenv
 
@@ -17,7 +18,6 @@ async def download_picture_for_profile(profile_path: str):
             profile = json.load(f)
             
         full_name = profile['name']
-        affiliations = [c['name'] for c in profile.get('companies', [])]
         socials = profile.get('socials', [])
         
         # 1. Determine primary LinkedIn URL
@@ -31,7 +31,7 @@ async def download_picture_for_profile(profile_path: str):
         
         # Try scraping LinkedIn first
         if linkedin_url:
-            print(f"Phase 3: Scraping LinkedIn for {full_name}...")
+            print(f"Phase 3b: Scraping LinkedIn for {full_name}...")
             picture_url = tools.scrape_linkedin_picture(linkedin_url)
             
             # POC: Direct Download of Captured URL if scrape failed/blocked
@@ -41,7 +41,7 @@ async def download_picture_for_profile(profile_path: str):
             is_placeholder = picture_url and any(p in picture_url.lower() for p in ['ghost_person', 'default_profile', '1c5u578iilxfi4m4dvc4q810q'])
             
             if (not picture_url or picture_url == "BLOCKED" or is_placeholder) and potential_url:
-                print(f"Phase 3: Direct LinkedIn scrape failed for {full_name}. Attempting direct download of captured URL...")
+                print(f"Phase 3b: Direct LinkedIn scrape failed for {full_name}. Attempting direct download of captured URL...")
                 
                 # Try downloading the captured potential_url directly
                 manager_dir = os.path.dirname(profile_path)
@@ -49,12 +49,12 @@ async def download_picture_for_profile(profile_path: str):
                 
                 if local_filename:
                     picture_url = potential_url
-                    print(f"Phase 3: Successfully downloaded captured URL for {full_name}")
+                    print(f"Phase 3b: Successfully downloaded captured URL for {full_name}")
                 else:
-                    print(f"Phase 3: Direct download failed for captured URL.")
+                    print(f"Phase 3b: Direct download failed for captured URL.")
             
         if picture_url and picture_url != "BLOCKED":
-            print(f"Phase 3: Found valid picture URL for {full_name}: {picture_url[:60]}...")
+            print(f"Phase 3b: Found valid picture URL for {full_name}: {picture_url[:60]}...")
             profile['picture_url'] = picture_url
             
             # 4. Download image (if not already downloaded above)
@@ -63,34 +63,45 @@ async def download_picture_for_profile(profile_path: str):
             
             if local_filename:
                 profile['picture_local'] = local_filename
-                profile['has_picture'] = "true"
-                print(f"Phase 3: Successfully downloaded picture for {full_name}")
+                # Remove download count on success from top level and nested socials
+                profile.pop('picture_download_count', None)
+                for s in profile.get('socials', []):
+                    s.pop('picture_download_count', None)
+                print(f"Phase 3b: Successfully downloaded picture for {full_name}")
             else:
-                profile['has_picture'] = "false"
+                pass
         else:
-            profile['has_picture'] = "false"
-            print(f"Phase 3: No picture found for {full_name}")
+            print(f"Phase 3b: No picture found for {full_name}")
             
         # Save updated profile
         with open(profile_path, 'w', encoding='utf-8') as f:
             json.dump(profile, f, indent=2)
             
     except Exception as e:
-        print(f"Phase 3: Error processing {profile_path}: {e}")
+        print(f"Phase 3b: Error processing {profile_path}: {e}")
 
 async def worker(queue):
     while not queue.empty():
         profile_path = await queue.get()
-        print(f"Phase 3: [START] {os.path.basename(os.path.dirname(profile_path))}")
+        print(f"Phase 3b: [START] {os.path.basename(os.path.dirname(profile_path))}")
         await download_picture_for_profile(profile_path)
-        print(f"Phase 3: [DONE] {os.path.basename(os.path.dirname(profile_path))}")
+        print(f"Phase 3b: [DONE] {os.path.basename(os.path.dirname(profile_path))}")
         queue.task_done()
 
 async def main():
+    print("\n" + "!"*60)
+    print("!!! PHASE 3B NEEDS MORE WORK - DO NOT RUN !!!")
+    print("!"*60 + "\n")
+    
+    # Still update logic as requested, even though we shouldn't run it
+    parser = argparse.ArgumentParser(description="Phase 3b: Profile picture download (experimental).")
+    parser.add_argument("--retry_failed", type=str, default="no", choices=["yes", "no"], help="Retry profiles with picture_download_count > 0")
+    args = parser.parse_args()
+
     managers_dir = os.path.join("..", "Managers")
     to_process = []
 
-    print("Scanning for profiles that need pictures...")
+    print(f"Phase 3b: Scanning for profiles needing picture downloads (retry_failed={args.retry_failed})...")
     for root, dirs, files in os.walk(managers_dir):
         if "Profile.json" in files:
             path = os.path.join(root, "Profile.json")
@@ -99,21 +110,23 @@ async def main():
                     data = json.load(f)
                 
                 picture_local = data.get("picture_local")
-                status = data.get("enrichment_status")
-                is_placeholder = False
+                status = data.get("enrichment_socials")
+                socials = data.get("socials", [])
+                has_linkedin = any('linkedin.com' in s['url'].lower() for s in socials)
+                download_count = data.get("picture_download_count", 0)
                 
-                # Check if local picture is a known placeholder
+                # Check if file actually exists if picture_local is set
+                file_exists = False
                 if picture_local:
-                    local_path = os.path.join(root, picture_local)
-                    if os.path.exists(local_path):
-                        # Check first few bytes for SVG header
-                        with open(local_path, 'r', encoding='utf-8', errors='ignore') as img_f:
-                            head = img_f.read(100)
-                            if '<svg' in head.lower():
-                                is_placeholder = True
+                    file_exists = os.path.exists(os.path.join(root, picture_local))
 
-                # Eligibility: Has success status, but no local picture or it's a placeholder
-                if status == "success" and (not picture_local or is_placeholder):
+                is_eligible = False
+                if status == "success" and has_linkedin:
+                    if not picture_local or not file_exists:
+                        if args.retry_failed == "yes" or download_count <= 0:
+                            is_eligible = True
+
+                if is_eligible:
                     to_process.append(path)
             except Exception:
                 continue
@@ -127,9 +140,9 @@ async def main():
     
     if profiles_to_enrich > 0:
         to_process = to_process[:profiles_to_enrich]
-        print(f"Phase 3: Processing next {len(to_process)} profiles.")
+        print(f"Phase 3b: Processing next {len(to_enrich)} profiles.")
     else:
-        print(f"Phase 3: Processing all {len(to_process)} profiles.")
+        print(f"Phase 3b: Processing all {len(to_process)} profiles.")
     
     queue = asyncio.Queue()
     for path in to_process:
@@ -137,7 +150,7 @@ async def main():
 
     workers = [asyncio.create_task(worker(queue)) for _ in range(CONCURRENCY_LIMIT)]
     await asyncio.gather(*workers)
-    print("Phase 3 processing finished.")
+    print("Phase 3b processing finished.")
 
 if __name__ == "__main__":
     asyncio.run(main())

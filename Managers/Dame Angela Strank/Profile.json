@@ -25,6 +25,46 @@
       "website": "https://www.rolls-royce.com",
       "start_date": "2020-05-01",
       "end_date": null
+    },
+    {
+      "name": "BP plc",
+      "ticker": "BP",
+      "exchange": "LSE",
+      "website": "https://www.bp.com",
+      "title_or_role": "Chief Scientist and Head of Downstream Technology",
+      "start_date": null,
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Mondi plc",
+      "ticker": "MNDI",
+      "exchange": "LSE",
+      "website": "https://www.mondigroup.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SSE plc",
+      "ticker": "SSE",
+      "exchange": "LSE",
+      "website": "https://www.sse.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Severn Trent plc",
+      "ticker": "SVT",
+      "exchange": "LSE",
+      "website": "https://www.severntrent.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2014",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -40,6 +80,5 @@
     "Safety, Ethics & Sustainability Committee (Chair)",
     "Science & Technology Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

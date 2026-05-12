@@ -25,6 +25,36 @@
       "website": "https://www.glencore.com",
       "start_date": "2021-02-01",
       "end_date": null
+    },
+    {
+      "name": "Anglo American plc",
+      "ticker": "AAL",
+      "exchange": "LSE",
+      "website": "https://www.angloamerican.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2007-03-01",
+      "end_date": "2013-04-01",
+      "validated": true
+    },
+    {
+      "name": "Baker Hughes Company",
+      "ticker": "BKR",
+      "exchange": "NASDAQ",
+      "website": "https://www.bakerhughes.com",
+      "title_or_role": "Director",
+      "start_date": "2017-07-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Pembina Pipeline Corporation",
+      "ticker": "PPL",
+      "exchange": "TSX",
+      "website": "https://www.pembina.com",
+      "title_or_role": "Director",
+      "start_date": "2018-01-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +66,5 @@
     "Health, Safety, Environment and Communities Committee (Chair)",
     "Remuneration Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

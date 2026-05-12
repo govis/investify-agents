@@ -16,6 +16,36 @@
       "website": "https://www.elevateuranium.com.au",
       "start_date": "2018-11-01",
       "end_date": null
+    },
+    {
+      "name": "Metro Mining Limited",
+      "ticker": "MMI",
+      "exchange": "ASX",
+      "website": "https://metromining.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Energy Resources of Australia Ltd",
+      "ticker": "ERA",
+      "exchange": "ASX",
+      "website": "https://www.energyres.com.au",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Coal and Allied Industries Ltd",
+      "ticker": "CNA",
+      "exchange": "ASX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

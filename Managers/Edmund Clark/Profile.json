@@ -11,11 +11,32 @@
     {
       "name": "Thomson Reuters Corporation",
       "ticker": "TRI",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.thomsonreuters.com",
-      "start_date": "2015-05-01",
-      "end_date": null
+      "exchange": "TSX / NYSE",
+      "title_or_role": "Director",
+      "website": "www.thomsonreuters.com",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Toronto-Dominion Bank",
+      "ticker": "TD",
+      "exchange": "TSX / NYSE",
+      "website": "www.td.com",
+      "title_or_role": "President and CEO",
+      "start_date": "2000",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Canada Trust Financial Services Inc.",
+      "ticker": "CT",
+      "exchange": "TSX (Delisted)",
+      "website": null,
+      "title_or_role": "President and CEO",
+      "start_date": "1994",
+      "end_date": "2000",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Corporate Governance Committee",
     "Human Resources Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

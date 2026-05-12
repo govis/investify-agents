@@ -16,6 +16,16 @@
       "website": "https://www.cloudflare.com",
       "start_date": "2016-09-01",
       "end_date": null
+    },
+    {
+      "name": "Vy Global Growth",
+      "ticker": "VYGG",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Chief Financial Officer / Head of Investor Relations",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +35,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

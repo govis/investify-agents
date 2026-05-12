@@ -12,10 +12,21 @@
       "name": "Public Service Enterprise Group Incorporated",
       "ticker": "PEG",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.pseg.com",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "PCTEL, Inc.",
+      "ticker": "PCTI",
+      "exchange": "NASDAQ",
+      "website": "https://www.pctel.com",
+      "title_or_role": "Director (Chairman of the Board)",
+      "start_date": null,
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Executive",
     "Organization and Compensation (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

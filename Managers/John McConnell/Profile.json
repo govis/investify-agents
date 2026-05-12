@@ -12,10 +12,71 @@
       "name": "Victoria Gold Corp.",
       "ticker": "VGCX",
       "exchange": "TSX",
-      "title_or_role": "Director, President & Chief Executive Officer",
-      "website": "https://vgcx.com",
-      "start_date": "2010-01-01",
-      "end_date": null
+      "title_or_role": "President, CEO, and Director",
+      "website": "https://vitgold.com",
+      "start_date": "2010",
+      "end_date": "August 2024",
+      "validated": true
+    },
+    {
+      "name": "Lahontan Gold Corp.",
+      "ticker": "LG",
+      "exchange": "TSXV",
+      "website": "https://www.lahontangoldcorp.com",
+      "title_or_role": "Chair and Director",
+      "start_date": null,
+      "end_date": "August 2024",
+      "validated": true
+    },
+    {
+      "name": "Abacus Mining and Exploration Corp.",
+      "ticker": "AME",
+      "exchange": "TSXV",
+      "website": "https://www.amemining.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Worthington Enterprises, Inc.",
+      "ticker": "WOR",
+      "exchange": "NYSE",
+      "website": "https://www.worthingtonenterprises.com",
+      "title_or_role": "Chairman and CEO",
+      "start_date": "1990",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Huntington Bancshares, Inc.",
+      "ticker": "HBAN",
+      "exchange": "NASDAQ",
+      "website": "https://www.huntington.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ProCentury Corporation",
+      "ticker": "PROS",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tim Hortons Inc.",
+      "ticker": "THI",
+      "exchange": "TSX/NYSE",
+      "website": "https://www.timhortons.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +84,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

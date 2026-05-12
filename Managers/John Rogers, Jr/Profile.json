@@ -16,6 +16,66 @@
       "website": "https://www.constellationenergy.com",
       "start_date": "2022-02-01",
       "end_date": null
+    },
+    {
+      "name": "Nike, Inc.",
+      "ticker": "NKE",
+      "exchange": "NYSE",
+      "website": "https://www.nike.com",
+      "title_or_role": "Director",
+      "start_date": "2003",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The New York Times Company",
+      "ticker": "NYT",
+      "exchange": "NYSE",
+      "website": "https://www.nytco.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ryan Specialty Holdings, Inc.",
+      "ticker": "RYAN",
+      "exchange": "NYSE",
+      "website": "https://www.ryanspecialty.com",
+      "title_or_role": "Lead Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Exelon Corporation",
+      "ticker": "EXC",
+      "exchange": "NASDAQ",
+      "website": "https://www.exeloncorp.com",
+      "title_or_role": "Director",
+      "start_date": "2000",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "McDonald\u2019s Corporation",
+      "ticker": "MCD",
+      "exchange": "NYSE",
+      "website": "https://www.mcdonalds.com",
+      "title_or_role": "Director",
+      "start_date": "2003",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Bally Total Fitness Corporation",
+      "ticker": "BFT",
+      "exchange": "NYSE (delisted)",
+      "website": "N/A",
+      "title_or_role": "Lead Director",
+      "start_date": "N/A",
+      "end_date": "N/A",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +86,5 @@
     "Compensation Committee",
     "Corporate Governance Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

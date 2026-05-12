@@ -12,10 +12,51 @@
       "name": "United Rentals, Inc.",
       "ticker": "URI",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.unitedrentals.com",
-      "start_date": "2017-06-01",
-      "end_date": null
+      "start_date": "June 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "TEGNA Inc.",
+      "ticker": "TGNA",
+      "exchange": "NYSE",
+      "website": "https://www.tegna.com",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "October 2011",
+      "end_date": "June 2017",
+      "validated": true
+    },
+    {
+      "name": "Gannett Co., Inc.",
+      "ticker": "GCI",
+      "exchange": "NYSE",
+      "website": "https://www.gannett.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "October 2011",
+      "end_date": "June 2015",
+      "validated": true
+    },
+    {
+      "name": "WestRock Company",
+      "ticker": "WRK",
+      "exchange": "NYSE",
+      "website": "https://www.westrock.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Omnicom Group Inc.",
+      "ticker": "OMC",
+      "exchange": "NYSE",
+      "website": "https://www.omnicomgroup.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +67,5 @@
     "Audit Committee (Chair)",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

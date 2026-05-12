@@ -16,6 +16,66 @@
       "website": "https://www.franco-nevada.com",
       "start_date": "2022-05-01",
       "end_date": null
+    },
+    {
+      "name": "Arizona Metals Corp.",
+      "ticker": "AMC",
+      "exchange": "TSX",
+      "website": "https://arizonametalscorp.com/",
+      "title_or_role": "Chairman",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "website": "https://www.centerragold.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "October 2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Torex Gold Resources Inc.",
+      "ticker": "TXG",
+      "exchange": "TSX",
+      "website": "https://torexgold.com/",
+      "title_or_role": "Director",
+      "start_date": "May 1, 2026",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Pretium Resources Inc.",
+      "ticker": "PVG",
+      "exchange": "TSX / NYSE",
+      "website": "https://www.pretivm.com/",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "April 27, 2020",
+      "end_date": "March 2022",
+      "validated": true
+    },
+    {
+      "name": "Osisko Gold Royalties Ltd.",
+      "ticker": "OR",
+      "exchange": "TSX / NYSE",
+      "website": "https://www.osiskogr.com/",
+      "title_or_role": "Director",
+      "start_date": "December 12, 2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Victoria Gold Corp.",
+      "ticker": "VGCX",
+      "exchange": "TSX",
+      "website": "https://vgcx.com/",
+      "title_or_role": "Director",
+      "start_date": "June 2018",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +86,5 @@
     "Compensation Committee",
     "ESG Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

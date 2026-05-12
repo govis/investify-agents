@@ -13,9 +13,40 @@
       "ticker": "LUG",
       "exchange": "TSX",
       "title_or_role": "Independent Director",
-      "website": "https://lundingold.com",
-      "start_date": "2023-05-01",
-      "end_date": null
+      "website": "https://www.lundingold.com",
+      "start_date": "2023-04-30",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Azimut Exploration Inc.",
+      "ticker": "AZM",
+      "exchange": "TSXV",
+      "website": "https://azimut-exploration.com",
+      "title_or_role": "Director",
+      "start_date": "2018-02-27",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Falco Resources Ltd.",
+      "ticker": "FPC",
+      "exchange": "TSXV",
+      "website": "https://www.falcores.com",
+      "title_or_role": "Director",
+      "start_date": "2019-10-14",
+      "end_date": "2021-03-08",
+      "validated": true
+    },
+    {
+      "name": "Pershimco Resources Inc.",
+      "ticker": "PRO",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +56,5 @@
   "committees": [
     "Health, Safety, Environment and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

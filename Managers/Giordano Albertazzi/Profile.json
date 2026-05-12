@@ -16,6 +16,16 @@
       "website": "https://www.vertiv.com",
       "start_date": "2023-01-01",
       "end_date": null
+    },
+    {
+      "name": "Vertiv Holdings Co.",
+      "ticker": "VRT",
+      "exchange": "NYSE",
+      "website": "https://www.vertiv.com",
+      "title_or_role": "Chief Executive Officer and Director",
+      "start_date": "January 2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

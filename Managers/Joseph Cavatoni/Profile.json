@@ -11,11 +11,22 @@
     {
       "name": "SPDR Gold Trust",
       "ticker": "GLD",
+      "exchange": "NYSE Arca",
+      "title_or_role": "Principal Executive Officer (World Gold Trust Services, LLC, the Sponsor)",
+      "website": "https://www.spdrgoldshares.com/",
+      "start_date": "September 2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "ticker": "BLK",
       "exchange": "NYSE",
-      "title_or_role": "Principal Executive Officer",
-      "website": "https://www.spdrgoldshares.com",
-      "start_date": "2017-02-01",
-      "end_date": null
+      "website": "https://www.blackrock.com/",
+      "title_or_role": "Managing Director, iShares Capital Markets \u2013 Americas",
+      "start_date": "Unknown",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

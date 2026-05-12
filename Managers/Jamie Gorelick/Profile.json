@@ -16,6 +16,36 @@
       "website": "https://www.amazon.com",
       "start_date": "2012-02-01",
       "end_date": null
+    },
+    {
+      "name": "VeriSign, Inc.",
+      "ticker": "VRSN",
+      "exchange": "NASDAQ",
+      "website": "https://www.verisign.com",
+      "title_or_role": "Director",
+      "start_date": "January 2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "United Technologies Corporation (now part of RTX Corporation)",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "title_or_role": "Director",
+      "start_date": "February 2000",
+      "end_date": "December 2014",
+      "validated": true
+    },
+    {
+      "name": "Schlumberger Limited",
+      "ticker": "SLB",
+      "exchange": "NYSE",
+      "website": "https://www.slb.com",
+      "title_or_role": "Director",
+      "start_date": "April 2002",
+      "end_date": "June 2010",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

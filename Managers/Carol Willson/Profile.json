@@ -10,12 +10,13 @@
   "company_affiliations": [
     {
       "name": "Seabridge Gold Inc.",
-      "ticker": "SA",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "website": "https://www.seabridgegold.com",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "ticker": "SEA",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.seabridgegold.com/",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +27,5 @@
     "Audit Committee",
     "Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

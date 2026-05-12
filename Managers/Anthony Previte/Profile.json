@@ -12,10 +12,31 @@
       "name": "Terran Orbital Corporation",
       "ticker": "LLAP",
       "exchange": "NYSE",
-      "title_or_role": "Director",
+      "title_or_role": "Co-Founder, Chief Strategy Officer, Executive Vice President (Director)",
       "website": "https://terranorbital.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "FriendFinder Networks Inc.",
+      "ticker": "FFN",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2012",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Globix Corporation",
+      "ticker": "GBIX / GEX",
+      "exchange": "NASDAQ / AMEX",
+      "website": null,
+      "title_or_role": "Chief Technology Officer & Chief Operating Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

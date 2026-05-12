@@ -25,6 +25,56 @@
       "website": "https://osiskogr.com",
       "start_date": "2021-05-01",
       "end_date": null
+    },
+    {
+      "name": "INV Metals Inc.",
+      "ticker": "INV",
+      "exchange": "TSX",
+      "website": "https://www.invmetals.com/",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2015",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "K / KGC",
+      "exchange": "TSX / NYSE",
+      "website": "https://www.kinross.com/",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "TransAlta Corporation",
+      "ticker": "TA / TAC",
+      "exchange": "TSX / NYSE",
+      "website": "https://www.transalta.com/",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Carbon Streaming Corporation",
+      "ticker": "NETZ",
+      "exchange": "NEO/CBOE Canada",
+      "website": "https://www.carbonstreaming.com/",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Conic Metals Corp. (now Nickel 28 Capital Corp.)",
+      "ticker": "NKL",
+      "exchange": "TSXV",
+      "website": "https://www.nickel28.com/",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -37,6 +87,5 @@
     "Compensation Committee",
     "Human Resources Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

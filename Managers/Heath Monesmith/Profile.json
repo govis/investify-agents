@@ -12,10 +12,11 @@
       "name": "Eaton Corporation plc",
       "ticker": "ETN",
       "exchange": "NYSE",
-      "title_or_role": "President and Chief Operating Officer, Electrical Sector",
+      "title_or_role": "Executive Vice President and Chief Legal Officer",
       "website": "https://www.eaton.com",
-      "start_date": "2022-07-01",
-      "end_date": null
+      "start_date": "2012",
+      "end_date": "2022-07-05",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +25,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,41 @@
       "name": "Southern Copper Corporation",
       "ticker": "SCCO",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.southerncoppercorp.com",
-      "start_date": "2004-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "southerncoppercorp.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Byline Bancorp, Inc.",
+      "ticker": "BY",
+      "exchange": "NYSE",
+      "website": "bylinebancorp.com",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sempra",
+      "ticker": "SRE",
+      "exchange": "NYSE",
+      "website": "sempra.com",
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "IEnova (Infraestructura Energ\u00e9tica Nova)",
+      "ticker": "IENOVA",
+      "exchange": "BMV",
+      "website": "ienova.com.mx",
+      "title_or_role": "Chairman & CEO",
+      "start_date": "2012",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

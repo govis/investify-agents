@@ -12,10 +12,41 @@
       "name": "Union Pacific Corporation",
       "ticker": "UNP",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.up.com",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ameriprise Financial, Inc.",
+      "ticker": "AMP",
+      "exchange": "NYSE",
+      "website": "https://www.ameriprise.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Clorox Company",
+      "ticker": "CLX",
+      "exchange": "NYSE",
+      "website": "https://www.thecloroxcompany.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Walmart Inc.",
+      "ticker": "WMT",
+      "exchange": "NYSE",
+      "website": "https://www.walmart.com",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Audit Committee",
     "Compensation and Benefits Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

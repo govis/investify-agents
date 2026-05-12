@@ -12,10 +12,51 @@
       "name": "Oracle Corporation",
       "ticker": "ORCL",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.oracle.com",
-      "start_date": "2008-07-01",
-      "end_date": null
+      "start_date": "July 2008",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "website": "https://www.adobe.com",
+      "title_or_role": "CEO, President, Director",
+      "start_date": "1994",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Synopsys, Inc.",
+      "ticker": "SNPS",
+      "exchange": "NASDAQ",
+      "website": "https://www.synopsys.com",
+      "title_or_role": "Director",
+      "start_date": "April 2001",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ChargePoint Holdings, Inc.",
+      "ticker": "CHPT",
+      "exchange": "NYSE",
+      "website": "https://www.chargepoint.com",
+      "title_or_role": "Director (Chair)",
+      "start_date": "November 2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Informatica Inc.",
+      "ticker": "INFA",
+      "exchange": "NYSE",
+      "website": "https://www.informatica.com",
+      "title_or_role": "Director (Executive Chairman)",
+      "start_date": "August 2015",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +67,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

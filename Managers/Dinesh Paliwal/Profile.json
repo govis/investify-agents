@@ -16,6 +16,26 @@
       "website": "https://www.rtx.com",
       "start_date": "2020-04-03",
       "end_date": null
+    },
+    {
+      "name": "Nestl\u00e9 S.A.",
+      "ticker": "NSRGY",
+      "exchange": "OTC",
+      "website": "https://www.nestle.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Harman International Industries, Inc.",
+      "ticker": "HAR",
+      "exchange": "NYSE",
+      "website": "https://www.harman.com",
+      "title_or_role": "President, CEO, and Director",
+      "start_date": "2007",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Audit",
     "Governance & Nominating"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -11,11 +11,22 @@
     {
       "name": "NexGen Energy Ltd.",
       "ticker": "NXE",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.nexgenenergy.ca",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "exchange": "TSX, NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.nexgenenergy.ca/",
+      "start_date": "March 21, 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ag Growth International Inc.",
+      "ticker": "AFN",
+      "exchange": "TSX",
+      "website": "https://www.aggrowth.com/",
+      "title_or_role": "Director",
+      "start_date": "February 3, 2026",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +36,5 @@
   "committees": [
     "Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

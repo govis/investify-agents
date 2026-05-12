@@ -12,10 +12,21 @@
       "name": "Clean Air Metals Inc.",
       "ticker": "AIR",
       "exchange": "TSXV",
-      "title_or_role": "Executive Chair, Chief Executive Officer",
-      "website": "https://cleanairmetals.ca",
-      "start_date": "2023-05-01",
-      "end_date": null
+      "title_or_role": "Executive Chair and Interim CEO",
+      "website": "https://www.cleanairmetals.ca/",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "North American Palladium Ltd.",
+      "ticker": "PDL",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "President and CEO",
+      "start_date": "2013",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +35,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

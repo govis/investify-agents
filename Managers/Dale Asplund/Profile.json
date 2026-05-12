@@ -14,8 +14,19 @@
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and Chief Operating Officer",
       "website": "https://www.unitedrentals.com",
-      "start_date": "2019-05-01",
-      "end_date": null
+      "start_date": "2012",
+      "end_date": "September 29, 2023",
+      "validated": true
+    },
+    {
+      "name": "BrightView Holdings, Inc.",
+      "ticker": "BV",
+      "exchange": "NYSE",
+      "website": "https://www.brightview.com",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "October 1, 2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

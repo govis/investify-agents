@@ -12,10 +12,21 @@
       "name": "ON Semiconductor Corporation",
       "ticker": "ON",
       "exchange": "NASDAQ",
-      "title_or_role": "President and Chief Executive Officer",
+      "title_or_role": "President, Chief Executive Officer, and Director",
       "website": "https://www.onsemi.com",
-      "start_date": "2020-12-07",
-      "end_date": null
+      "start_date": "December 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cypress Semiconductor Corporation",
+      "ticker": "CY",
+      "exchange": "NASDAQ",
+      "website": "https://www.infineon.com",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "2016",
+      "end_date": "April 2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

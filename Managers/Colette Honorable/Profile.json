@@ -12,10 +12,21 @@
       "name": "The Southern Company",
       "ticker": "SO",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director (Board Member)",
       "website": "https://www.southerncompany.com",
-      "start_date": "2020-10-01",
-      "end_date": null
+      "start_date": "July 31, 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Exelon Corporation",
+      "ticker": "EXC",
+      "exchange": "NASDAQ",
+      "website": "https://www.exeloncorp.com",
+      "title_or_role": "Executive Vice President, Chief Legal Officer, and Corporate Secretary",
+      "start_date": "September 5, 2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Governance",
     "Operations, Environmental and Safety"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

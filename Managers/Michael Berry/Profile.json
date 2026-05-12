@@ -12,10 +12,91 @@
       "name": "NetApp, Inc.",
       "ticker": "NTAP",
       "exchange": "NASDAQ",
-      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "title_or_role": "Executive Vice President & CFO",
       "website": "https://www.netapp.com",
-      "start_date": "2020-03-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "MongoDB, Inc.",
+      "ticker": "MDB",
+      "exchange": "NASDAQ",
+      "website": "https://www.mongodb.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "McAfee Corp.",
+      "ticker": "MCFE",
+      "exchange": "NASDAQ",
+      "website": "https://www.mcafee.com",
+      "title_or_role": "Executive Vice President & CFO",
+      "start_date": "2017",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "FireEye, Inc.",
+      "ticker": "FEYE",
+      "exchange": "NASDAQ",
+      "website": "https://www.trellix.com",
+      "title_or_role": "EVP, CFO & COO",
+      "start_date": "2015",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Informatica Inc.",
+      "ticker": "INFA",
+      "exchange": "NYSE",
+      "website": "https://www.informatica.com",
+      "title_or_role": "Executive Vice President & CFO",
+      "start_date": "2014",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "IO Data Centers",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://www.ironmountain.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2013",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "SolarWinds, Inc.",
+      "ticker": "SWI",
+      "exchange": "NYSE",
+      "website": "https://www.solarwinds.com",
+      "title_or_role": "SVP & Chief Financial Officer",
+      "start_date": "2010",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Rapid7, Inc.",
+      "ticker": "RPD",
+      "exchange": "NASDAQ",
+      "website": "https://www.rapid7.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "i2 Technologies, Inc.",
+      "ticker": "ITWO",
+      "exchange": "NASDAQ",
+      "website": "https://www.jabil.com",
+      "title_or_role": "Executive Vice President & CFO",
+      "start_date": "2005",
+      "end_date": "2010",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +104,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

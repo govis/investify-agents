@@ -25,6 +25,36 @@
       "website": "https://www.northropgrumman.com",
       "start_date": "2015-01-01",
       "end_date": null
+    },
+    {
+      "name": "Citigroup Inc.",
+      "ticker": "C",
+      "exchange": "NYSE",
+      "website": "https://www.citigroup.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Olin Corporation",
+      "ticker": "OLN",
+      "exchange": "NYSE",
+      "website": "https://www.olin.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Ernst & Young (EY)",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://www.ey.com",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "2001",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -38,6 +68,5 @@
     "Executive",
     "Governance, Nominating and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,26 @@
       "website": "https://terranorbital.com",
       "start_date": "2021-01-01",
       "end_date": null
+    },
+    {
+      "name": "ARMOUR Residential REIT, Inc.",
+      "ticker": "ARR",
+      "exchange": "NYSE",
+      "website": "https://www.armourreit.com",
+      "title_or_role": "Director / Co-Founder",
+      "start_date": "November 2009",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Javelin Mortgage Investment Corp.",
+      "ticker": "JMI",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "title_or_role": "Director / Co-Founder",
+      "start_date": "2012",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +43,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

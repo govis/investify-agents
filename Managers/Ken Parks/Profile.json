@@ -16,6 +16,26 @@
       "website": "https://www.gevernova.com",
       "start_date": "2023-10-02",
       "end_date": null
+    },
+    {
+      "name": "Owens Corning",
+      "ticker": "OC",
+      "exchange": "NYSE",
+      "website": "https://www.owenscorning.com",
+      "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "start_date": "2020-09-08",
+      "end_date": "2023-09-15",
+      "validated": true
+    },
+    {
+      "name": "Mylan N.V.",
+      "ticker": "MYL",
+      "exchange": "NASDAQ",
+      "website": "https://www.viatris.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2016-06-01",
+      "end_date": "2020-11-16",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +43,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

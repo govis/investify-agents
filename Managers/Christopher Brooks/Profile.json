@@ -12,10 +12,21 @@
       "name": "Old Dominion Freight Line, Inc.",
       "ticker": "ODFL",
       "exchange": "NASDAQ",
-      "title_or_role": "Senior Vice President and Chief Operating Officer",
+      "title_or_role": "Senior Vice President, Human Resources & Safety",
       "website": "https://www.odfl.com",
-      "start_date": "2023-07-01",
-      "end_date": null
+      "start_date": "June 2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "National General Insurance Co.",
+      "ticker": "NGHC",
+      "exchange": "NASDAQ",
+      "website": "https://www.nationalgeneral.com",
+      "title_or_role": "Senior Vice President, Human Resources",
+      "start_date": null,
+      "end_date": "Prior to June 2015",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -14,8 +14,19 @@
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
       "website": "https://www.eaton.com",
-      "start_date": "2004-01-01",
-      "end_date": null
+      "start_date": "2000",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Continental Airlines, Inc.",
+      "ticker": "CAL",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Senior Vice President, Flight Operations",
+      "start_date": "1999",
+      "end_date": "2005",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +38,5 @@
     "Audit",
     "Governance"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

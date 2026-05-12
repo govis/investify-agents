@@ -12,10 +12,41 @@
       "name": "Discovery Silver Corp.",
       "ticker": "DSV",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director / Chair of Audit Committee",
       "website": "https://discoverysilver.com",
-      "start_date": "2019-08-01",
-      "end_date": null
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Agnico Eagle Mines Limited",
+      "ticker": "AEM",
+      "exchange": "NYSE / TSX",
+      "website": "https://agnicoeagle.com",
+      "title_or_role": "Vice Chairman of the Board",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kirkland Lake Gold Ltd.",
+      "ticker": "KL (delisted)",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "website": "https://centerragold.com",
+      "title_or_role": "VP / CFO",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Audit Committee (Chair)",
     "Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

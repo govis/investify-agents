@@ -13,9 +13,30 @@
       "ticker": "BLNK",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
-      "website": "https://www.blinkcharging.com",
-      "start_date": "2020",
-      "end_date": null
+      "website": "https://blinkcharging.com",
+      "start_date": "December 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Strawberry Fields REIT, Inc.",
+      "ticker": "STRW",
+      "exchange": "NYSE",
+      "website": "https://strawberryfieldsreit.com",
+      "title_or_role": "Director",
+      "start_date": "June 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "EzFill Holdings, Inc.",
+      "ticker": "EZFL",
+      "exchange": "NASDAQ",
+      "website": "https://ezfl.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +46,5 @@
   "committees": [
     "Audit Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

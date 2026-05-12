@@ -14,8 +14,29 @@
       "exchange": "TSX",
       "title_or_role": "Independent Director",
       "website": "https://www.wesdome.com",
-      "start_date": "2022-05-01",
-      "end_date": null
+      "start_date": "February 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Champion Iron Limited",
+      "ticker": "CIA",
+      "exchange": "TSX, ASX",
+      "website": "https://www.championiron.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Agnico Eagle Mines Limited",
+      "ticker": "AEM",
+      "exchange": "TSX, NYSE",
+      "website": "https://www.agnicoeagle.com",
+      "title_or_role": "Senior Vice President, People and Culture",
+      "start_date": "2001",
+      "end_date": "January 2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Sustainability Committee (Chair)",
     "Technical Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

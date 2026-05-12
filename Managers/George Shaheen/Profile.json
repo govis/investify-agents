@@ -13,9 +13,60 @@
       "ticker": "NTAP",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
-      "website": "https://www.netapp.com",
-      "start_date": "2004-06-01",
-      "end_date": null
+      "website": "netapp.com",
+      "start_date": "2004",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Green Dot Corporation",
+      "ticker": "GDOT",
+      "exchange": "NYSE",
+      "website": "greendot.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Marcus & Millichap, Inc.",
+      "ticker": "MMI",
+      "exchange": "NYSE",
+      "website": "marcusmillichap.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Korn Ferry",
+      "ticker": "KFY",
+      "exchange": "NYSE",
+      "website": "kornferry.com",
+      "title_or_role": "Director / Non-Executive Chair",
+      "start_date": "2007",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Siebel Systems, Inc.",
+      "ticker": "SEBL (Acquired)",
+      "exchange": "NASDAQ",
+      "website": "oracle.com",
+      "title_or_role": "CEO",
+      "start_date": "2005",
+      "end_date": "2006",
+      "validated": true
+    },
+    {
+      "name": "Webvan Group, Inc.",
+      "ticker": "WBVN (Defunct)",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "title_or_role": "CEO",
+      "start_date": "1999",
+      "end_date": "2001",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +77,5 @@
     "Compensation Committee (Chair)",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

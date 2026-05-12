@@ -12,10 +12,41 @@
       "name": "Wesdome Gold Mines Ltd.",
       "ticker": "WDO",
       "exchange": "TSX",
-      "title_or_role": "Vice President, Exploration",
-      "website": "https://www.wesdome.com",
-      "start_date": "2017-05-01",
-      "end_date": null
+      "title_or_role": "Senior Vice President, Exploration and Resources",
+      "website": "https://wesdome.com",
+      "start_date": "2017",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Red Pine Exploration Inc.",
+      "ticker": "RPX",
+      "exchange": "TSXV",
+      "website": "https://redpineexp.com",
+      "title_or_role": "President, Chief Executive Officer & Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Legacy Gold Mines Ltd.",
+      "ticker": "LEGY",
+      "exchange": "TSXV",
+      "website": "https://legacygoldmines.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Iamgold Corporation",
+      "ticker": "IMG",
+      "exchange": "TSX",
+      "website": "https://iamgold.com",
+      "title_or_role": "Chief Geologist",
+      "start_date": "Prior to 2017",
+      "end_date": "Prior to 2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +54,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

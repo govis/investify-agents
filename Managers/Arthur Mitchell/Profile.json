@@ -16,6 +16,16 @@
       "website": "https://www.komatsu.jp",
       "start_date": "2023-06-01",
       "end_date": null
+    },
+    {
+      "name": "Sumitomo Mitsui Financial Group, Inc.",
+      "ticker": "SMFG",
+      "exchange": "NYSE",
+      "website": "https://www.smfg.co.jp/",
+      "title_or_role": "Outside Director",
+      "start_date": "2015",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +36,5 @@
     "Compensation Committee",
     "Nomination Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

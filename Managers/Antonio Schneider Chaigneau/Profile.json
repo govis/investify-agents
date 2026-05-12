@@ -16,6 +16,16 @@
       "website": "https://www.sqm.com",
       "start_date": "2022-04-26",
       "end_date": null
+    },
+    {
+      "name": "Sociedad Qu\u00edmica y Minera de Chile S.A. (SQM)",
+      "ticker": "SQM",
+      "exchange": "NYSE",
+      "website": "https://www.sqm.com/",
+      "title_or_role": "Director (Board Member)",
+      "start_date": "April 2023",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +35,5 @@
   "committees": [
     "Directors' Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

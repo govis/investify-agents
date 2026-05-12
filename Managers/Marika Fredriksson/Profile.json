@@ -16,6 +16,36 @@
       "website": "https://www.maersk.com",
       "start_date": "2022-03-15",
       "end_date": null
+    },
+    {
+      "name": "Sandvik AB",
+      "ticker": "SAND",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.home.sandvik",
+      "title_or_role": "Board Member",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vestas Wind Systems A/S",
+      "ticker": "VWS",
+      "exchange": "Nasdaq Copenhagen",
+      "website": "https://www.vestas.com",
+      "title_or_role": "CFO and Group EVP",
+      "start_date": "2013",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "KONE Corporation",
+      "ticker": "KNEBV",
+      "exchange": "Nasdaq Helsinki",
+      "website": "https://www.kone.com",
+      "title_or_role": "Board Member",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +55,5 @@
   "committees": [
     "Member of the Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

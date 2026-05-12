@@ -11,11 +11,22 @@
     {
       "name": "Gold Royalty Corp.",
       "ticker": "GROY",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.goldroyalty.com",
-      "start_date": "2022-03-31",
-      "end_date": null
+      "exchange": "NYSE American",
+      "title_or_role": "Director",
+      "website": "https://www.goldroyalty.com/",
+      "start_date": "February 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "TSX / NYSE",
+      "website": "https://www.nexgenenergy.ca/",
+      "title_or_role": "Director",
+      "start_date": "August 27, 2018",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +38,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

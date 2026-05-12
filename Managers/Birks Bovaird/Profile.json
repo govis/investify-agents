@@ -16,6 +16,46 @@
       "website": "https://www.energyfuels.com",
       "start_date": "2006-01-01",
       "end_date": null
+    },
+    {
+      "name": "Noble Mineral Exploration Inc.",
+      "ticker": "NOB",
+      "exchange": "TSXV",
+      "website": "https://noblemineralexploration.com/",
+      "title_or_role": "Independent Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Silver Bullet Mines Corp.",
+      "ticker": "SBMI",
+      "exchange": "TSXV",
+      "website": "https://www.silverbulletmines.com/",
+      "title_or_role": "Chairman",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Copper Road Resources Inc.",
+      "ticker": "CRD",
+      "exchange": "TSXV",
+      "website": "https://www.copperroadresources.com/",
+      "title_or_role": "Independent Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Homeland Nickel, Inc.",
+      "ticker": "HNIK",
+      "exchange": "OTC",
+      "website": "http://www.homelandnickel.com/",
+      "title_or_role": "Independent Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +66,5 @@
   "committees": [
     "Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

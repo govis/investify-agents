@@ -12,10 +12,51 @@
       "name": "AngloGold Ashanti plc",
       "ticker": "AU",
       "exchange": "NYSE",
-      "title_or_role": "Chairman and Independent Non-Executive Director",
+      "title_or_role": "Chairman of the Board",
       "website": "https://www.anglogoldashanti.com",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Emera Inc.",
+      "ticker": "EMA",
+      "exchange": "TSX",
+      "website": "https://www.emera.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nutrien Ltd.",
+      "ticker": "NTR",
+      "exchange": "TSX",
+      "website": "https://www.nutrien.com",
+      "title_or_role": "Executive Chairman",
+      "start_date": "2018",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Potash Corporation of Saskatchewan Inc.",
+      "ticker": "POT",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "President and CEO",
+      "start_date": "2014",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Inmet Mining Corporation",
+      "ticker": "IMN",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "CEO",
+      "start_date": "2009",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +67,5 @@
     "Investment Committee",
     "Nominations Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

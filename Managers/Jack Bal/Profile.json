@@ -34,6 +34,36 @@
       "website": "https://oreterra.com",
       "start_date": "2021-06-01",
       "end_date": null
+    },
+    {
+      "name": "Lexston Mining Corp.",
+      "ticker": "LEXT",
+      "exchange": "CSE",
+      "website": "https://lexston.ca",
+      "title_or_role": "CEO / Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cache Exploration Inc.",
+      "ticker": "CEXPF",
+      "exchange": "OTC",
+      "website": null,
+      "title_or_role": "President, CEO, and Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Equitorial Exploration Corp.",
+      "ticker": "EXX",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "CEO",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -44,6 +74,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

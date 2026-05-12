@@ -14,8 +14,39 @@
       "exchange": "NYSE",
       "title_or_role": "Director",
       "website": "https://www.fastly.com",
-      "start_date": "2024-03-01",
-      "end_date": null
+      "start_date": "2023-06",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "MediaAlpha, Inc.",
+      "ticker": "MAX",
+      "exchange": "NYSE",
+      "website": "https://www.mediaalpha.com",
+      "title_or_role": "Director",
+      "start_date": "2020-10",
+      "end_date": "2026-05",
+      "validated": true
+    },
+    {
+      "name": "Entravision Communications Corp.",
+      "ticker": "EVC",
+      "exchange": "NYSE",
+      "website": "https://www.entravision.com",
+      "title_or_role": "Director",
+      "start_date": "2023-10",
+      "end_date": "2026-05",
+      "validated": true
+    },
+    {
+      "name": "Snap Inc.",
+      "ticker": "SNAP",
+      "exchange": "NYSE",
+      "website": "https://www.snap.com",
+      "title_or_role": "Chief Accounting Officer",
+      "start_date": "2017-01",
+      "end_date": "2019-01",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +56,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -14,8 +14,49 @@
       "exchange": "NASDAQ",
       "title_or_role": "Director",
       "website": "https://www.netapp.com",
-      "start_date": "2017-11-01",
-      "end_date": null
+      "start_date": "2017-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vodafone Group Plc",
+      "ticker": "VOD",
+      "exchange": "LSE",
+      "website": "https://www.vodafone.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021-10",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "EXLService Holdings, Inc.",
+      "ticker": "EXLS",
+      "exchange": "NASDAQ",
+      "website": "https://www.exlservice.com",
+      "title_or_role": "Director",
+      "start_date": "2015-01",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Chico's FAS, Inc.",
+      "ticker": "CHS",
+      "exchange": "NYSE",
+      "website": "https://www.chicosfas.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Sabre Corporation",
+      "ticker": "SABR",
+      "exchange": "NASDAQ",
+      "website": "https://www.sabre.com",
+      "title_or_role": "Executive Vice President, Chief Product and Technology Officer",
+      "start_date": "2013",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +66,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

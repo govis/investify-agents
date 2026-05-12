@@ -16,6 +16,16 @@
       "website": "https://www.vistagold.com",
       "start_date": "2019-03-01",
       "end_date": null
+    },
+    {
+      "name": "Golden Minerals Company",
+      "ticker": "AUMN",
+      "exchange": "NYSE American / TSX",
+      "website": "https://www.goldenminerals.com/",
+      "title_or_role": "Director",
+      "start_date": "December 9, 2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +37,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

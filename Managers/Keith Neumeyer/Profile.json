@@ -16,6 +16,26 @@
       "website": "https://firstmininggold.com",
       "start_date": "2015-03-30",
       "end_date": null
+    },
+    {
+      "name": "First Majestic Silver Corp.",
+      "ticker": "AG",
+      "exchange": "NYSE",
+      "website": "https://www.firstmajestic.com/",
+      "title_or_role": "President, CEO & Director",
+      "start_date": "2002",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "First Quantum Minerals Ltd.",
+      "ticker": "FM",
+      "exchange": "TSX",
+      "website": "https://www.first-quantum.com/",
+      "title_or_role": "Founding President",
+      "start_date": "1992",
+      "end_date": "2002",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

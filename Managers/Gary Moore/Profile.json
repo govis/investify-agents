@@ -12,10 +12,31 @@
       "name": "KLA Corporation",
       "ticker": "KLAC",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.kla.com",
-      "start_date": "2014-01-01",
-      "end_date": null
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ServiceSource International, Inc.",
+      "ticker": "SREV",
+      "exchange": "NASDAQ",
+      "website": "https://www.servicesource.com",
+      "title_or_role": "Executive Chairman & Chief Executive Officer",
+      "start_date": "2018",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "title_or_role": "President and Chief Operating Officer",
+      "start_date": "2001",
+      "end_date": "2015",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +46,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

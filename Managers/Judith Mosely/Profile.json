@@ -10,12 +10,33 @@
   "company_affiliations": [
     {
       "name": "Eldorado Gold Corporation",
-      "ticker": "EGO",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.eldoradogold.com",
-      "start_date": "2020-04-30",
-      "end_date": null
+      "ticker": "EGO (NYSE), ELD (TSX)",
+      "exchange": "NYSE / TSX",
+      "title_or_role": "Director",
+      "website": "https://www.eldoradogold.com/",
+      "start_date": "September 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BlackRock World Mining Trust plc",
+      "ticker": "BRWM",
+      "exchange": "LSE (London Stock Exchange)",
+      "website": "https://www.blackrock.com/uk/individual/products/investment-trusts/our-range/blackrock-world-mining-trust-plc",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Galiano Gold Inc.",
+      "ticker": "GAU",
+      "exchange": "TSX (Toronto Stock Exchange)",
+      "website": "https://www.galianogold.com/",
+      "title_or_role": "Director",
+      "start_date": "January 1, 2020",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

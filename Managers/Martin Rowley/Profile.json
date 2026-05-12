@@ -16,6 +16,56 @@
       "website": "https://forsysmetals.com",
       "start_date": "2021-01-01",
       "end_date": null
+    },
+    {
+      "name": "First Quantum Minerals Ltd.",
+      "ticker": "FM",
+      "exchange": "TSX",
+      "website": "https://www.first-quantum.com",
+      "title_or_role": "Co-founder, Chief Financial Officer, Director, Executive Director (Business Development)",
+      "start_date": "1996",
+      "end_date": "2017-06-30",
+      "validated": true
+    },
+    {
+      "name": "Allkem Limited",
+      "ticker": "AKE",
+      "exchange": "ASX",
+      "website": "https://www.allkem.co",
+      "title_or_role": "Chairman",
+      "start_date": null,
+      "end_date": "2022-11",
+      "validated": true
+    },
+    {
+      "name": "Galaxy Resources Ltd.",
+      "ticker": "GXY",
+      "exchange": "ASX",
+      "website": "https://www.gxy.com",
+      "title_or_role": "Chairman",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lithium One Inc.",
+      "ticker": "LI",
+      "exchange": "TSXV",
+      "website": "https://www.lithium1.com",
+      "title_or_role": "Chairman",
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Atlas Lithium Corporation",
+      "ticker": "ATLX",
+      "exchange": "NASDAQ",
+      "website": "https://www.atlas-lithium.com",
+      "title_or_role": "Lead Strategic Advisor",
+      "start_date": "2023-09",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +75,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

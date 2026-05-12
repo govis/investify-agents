@@ -14,8 +14,59 @@
       "exchange": "NYSE",
       "title_or_role": "Director",
       "website": "https://www.planet.com",
-      "start_date": "2021-12-01",
-      "end_date": null
+      "start_date": "March 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Invitation Homes Inc.",
+      "ticker": "INVH",
+      "exchange": "NYSE",
+      "website": "https://www.invitationhomes.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Daily Mail and General Trust plc (DMGT)",
+      "ticker": "DMGT",
+      "exchange": "LSE",
+      "website": "https://www.dmgt.com",
+      "title_or_role": "Director",
+      "start_date": "September 2012",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "TiVo Corporation",
+      "ticker": "TIVO",
+      "exchange": "NASDAQ",
+      "website": "https://www.tivo.com",
+      "title_or_role": "Director",
+      "start_date": "June 2009",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Great Plains Software",
+      "ticker": "GPSI",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "title_or_role": "Director",
+      "start_date": "1997",
+      "end_date": "2001",
+      "validated": true
+    },
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "exchange": "NASDAQ",
+      "website": "https://www.apple.com",
+      "title_or_role": "Vice President of World Wide Developer Relations",
+      "start_date": "1996",
+      "end_date": "1997",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +76,5 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

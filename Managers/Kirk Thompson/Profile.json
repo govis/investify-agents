@@ -16,6 +16,16 @@
       "website": "https://www.jbhunt.com",
       "start_date": "1985-01-01",
       "end_date": null
+    },
+    {
+      "name": "Rand Logistics, Inc.",
+      "ticker": "RLOGQ",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +35,5 @@
   "committees": [
     "Executive Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

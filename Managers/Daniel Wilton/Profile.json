@@ -11,11 +11,12 @@
     {
       "name": "First Mining Gold Corp.",
       "ticker": "FF",
-      "exchange": "TSX",
+      "exchange": "TSX Venture Exchange",
       "title_or_role": "Chief Executive Officer and Director",
-      "website": "https://firstmininggold.com",
-      "start_date": "2019-01-07",
-      "end_date": null
+      "website": "https://firstmininggold.com/",
+      "start_date": "January 2019",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +25,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,51 @@
       "name": "Wesdome Gold Mines Ltd.",
       "ticker": "WDO",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://www.wesdome.com",
-      "start_date": "2017-06-01",
-      "end_date": null
+      "title_or_role": "Director / Lead Independent Director",
+      "website": "wesdome.com",
+      "start_date": "2021-07-20",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Yamana Gold Inc.",
+      "ticker": "AUY",
+      "exchange": "TSX/NYSE",
+      "website": "yamanagold.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2003",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Critical Elements Lithium Corp.",
+      "ticker": "CRE",
+      "exchange": "TSXV",
+      "website": "cecorp.ca",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2018-11-07",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Quebec Precious Metals Corp.",
+      "ticker": "QPM",
+      "exchange": "TSXV",
+      "website": "qpmcorp.ca",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2019-05-31",
+      "end_date": "2021-07-21",
+      "validated": true
+    },
+    {
+      "name": "Banff Resources Ltd.",
+      "ticker": "BFR",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Chief Financial Officer & Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +67,5 @@
     "Audit Committee (Chair)",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

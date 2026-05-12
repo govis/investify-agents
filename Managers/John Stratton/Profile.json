@@ -16,6 +16,36 @@
       "website": "https://www.gd.com",
       "start_date": "2020-01-01",
       "end_date": null
+    },
+    {
+      "name": "Abbott Laboratories",
+      "ticker": "ABT",
+      "exchange": "NYSE",
+      "website": "https://www.abbott.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Frontier Communications Parent, Inc.",
+      "ticker": "FYBR",
+      "exchange": "NASDAQ",
+      "website": "https://www.frontier.com",
+      "title_or_role": "Executive Chairman",
+      "start_date": "April 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Verizon Communications Inc.",
+      "ticker": "VZ",
+      "exchange": "NYSE",
+      "website": "https://www.verizon.com",
+      "title_or_role": "Executive Vice President and President of Global Operations",
+      "start_date": "1993",
+      "end_date": "2018",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
     "Compensation",
     "Finance"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

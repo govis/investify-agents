@@ -12,10 +12,31 @@
       "name": "Fastly, Inc.",
       "ticker": "FSLY",
       "exchange": "NYSE",
-      "title_or_role": "Lead Independent Director, Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.fastly.com",
-      "start_date": "2023-04-01",
-      "end_date": null
+      "start_date": "February 2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BILL Holdings, Inc.",
+      "ticker": "BILL",
+      "exchange": "NYSE",
+      "website": "https://www.bill.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "May 2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GitLab Inc.",
+      "ticker": "GTLB",
+      "exchange": "NASDAQ",
+      "website": "https://about.gitlab.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "July 2019",
+      "end_date": "March 2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,76 @@
       "website": "https://www.northropgrumman.com",
       "start_date": "2016-01-01",
       "end_date": null
+    },
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "ge.com",
+      "title_or_role": "Director",
+      "start_date": "1999",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Novartis AG",
+      "ticker": "NVS",
+      "exchange": "NYSE",
+      "website": "novartis.com",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Unilever PLC",
+      "ticker": "UL",
+      "exchange": "NYSE",
+      "website": "unilever.com",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Infosys Limited",
+      "ticker": "INFY",
+      "exchange": "NYSE",
+      "website": "infosys.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Honeywell International Inc.",
+      "ticker": "HON",
+      "exchange": "NYSE",
+      "website": "honeywell.com",
+      "title_or_role": "Director",
+      "start_date": "1993",
+      "end_date": "2003",
+      "validated": true
+    },
+    {
+      "name": "Marriott International, Inc.",
+      "ticker": "MAR",
+      "exchange": "NASDAQ",
+      "website": "marriott.com",
+      "title_or_role": "Director",
+      "start_date": "2001",
+      "end_date": "2003",
+      "validated": true
+    },
+    {
+      "name": "WPP plc (Young & Rubicam)",
+      "ticker": "WPP",
+      "exchange": "NYSE",
+      "website": "wpp.com",
+      "title_or_role": "Chairman & CEO (Y&R)",
+      "start_date": "2003",
+      "end_date": "2006",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +96,5 @@
     "Compensation and Management Development Committee",
     "Governance, Nominating and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

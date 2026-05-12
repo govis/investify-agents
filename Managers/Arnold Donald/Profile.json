@@ -25,6 +25,66 @@
       "website": "https://www.gevernova.com",
       "start_date": "2024-04-02",
       "end_date": null
+    },
+    {
+      "name": "Carnival Corporation & plc",
+      "ticker": "CCL",
+      "exchange": "NYSE",
+      "website": "https://www.carnivalcorp.com",
+      "title_or_role": "President and Chief Executive Officer (2013\u20132022); Director (2001\u20132023)",
+      "start_date": "2001",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Bank of America Corporation",
+      "ticker": "BAC",
+      "exchange": "NYSE",
+      "website": "https://www.bankofamerica.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Crown Holdings, Inc.",
+      "ticker": "CCK",
+      "exchange": "NYSE",
+      "website": "https://www.crowncork.com",
+      "title_or_role": "Director",
+      "start_date": "1999",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "The Laclede Group, Inc. (now Spire Inc.)",
+      "ticker": "SR",
+      "exchange": "NYSE",
+      "website": "https://www.spireenergy.com",
+      "title_or_role": "Director",
+      "start_date": "2003",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Oil-Dri Corporation of America",
+      "ticker": "ODC",
+      "exchange": "NYSE",
+      "website": "https://www.oildri.com",
+      "title_or_role": "Director",
+      "start_date": "1997",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Monsanto Company",
+      "ticker": "MON",
+      "exchange": "NYSE",
+      "website": "http://www.monsanto.com",
+      "title_or_role": "President, Agricultural Sector",
+      "start_date": null,
+      "end_date": "2000",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +96,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

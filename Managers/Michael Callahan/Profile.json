@@ -16,6 +16,46 @@
       "website": "https://www.datadoghq.com",
       "start_date": "2019-01-01",
       "end_date": null
+    },
+    {
+      "name": "Yahoo! Inc.",
+      "ticker": "YHOO",
+      "exchange": "NASDAQ",
+      "website": "https://www.yahoo.com",
+      "title_or_role": "Executive Vice President, General Counsel, and Secretary",
+      "start_date": "1999",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "LinkedIn Corporation",
+      "ticker": "LNKD",
+      "exchange": "NYSE",
+      "website": "https://www.linkedin.com",
+      "title_or_role": "Senior Vice President and General Counsel",
+      "start_date": "2014",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "FiscalNote Holdings, Inc.",
+      "ticker": "NOTE",
+      "exchange": "NYSE",
+      "website": "https://www.fiscalnote.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rivian Automotive, Inc.",
+      "ticker": "RIVN",
+      "exchange": "NASDAQ",
+      "website": "https://rivian.com",
+      "title_or_role": "Chief Legal Officer",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +65,5 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

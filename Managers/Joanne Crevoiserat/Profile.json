@@ -12,10 +12,31 @@
       "name": "General Motors Company",
       "ticker": "GM",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.gm.com",
-      "start_date": "2022-10-01",
-      "end_date": null
+      "start_date": "2022-08",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tapestry, Inc.",
+      "ticker": "TPR",
+      "exchange": "NYSE",
+      "website": "https://www.tapestry.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2019-08",
+      "end_date": "2020-07",
+      "validated": true
+    },
+    {
+      "name": "Abercrombie & Fitch Co.",
+      "ticker": "ANF",
+      "exchange": "NYSE",
+      "website": "https://www.abercrombie.com",
+      "title_or_role": "Executive Vice President & Chief Operating Officer",
+      "start_date": "2017-02",
+      "end_date": "2019-06",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

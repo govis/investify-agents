@@ -16,6 +16,26 @@
       "website": "https://www.maersk.com",
       "start_date": "2019-03-28",
       "end_date": null
+    },
+    {
+      "name": "Kingfisher plc",
+      "ticker": "KGF",
+      "exchange": "LSE",
+      "website": "https://www.kingfisher.com",
+      "title_or_role": "Chief Financial Officer & Executive Director",
+      "start_date": "October 21, 2019",
+      "end_date": "January 2025",
+      "validated": true
+    },
+    {
+      "name": "Travelport Worldwide Limited",
+      "ticker": "TVPT",
+      "exchange": "NYSE",
+      "website": "https://www.travelport.com",
+      "title_or_role": "Executive Vice President & Chief Financial Officer",
+      "start_date": "January 1, 2016",
+      "end_date": "September 2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +45,5 @@
   "committees": [
     "Chair of the Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -25,6 +25,16 @@
       "website": "https://www.cameco.com",
       "start_date": "2022-01-01",
       "end_date": null
+    },
+    {
+      "name": "Boralex Inc.",
+      "ticker": "BLX",
+      "exchange": "TSX",
+      "website": "https://www.boralex.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "January 15, 2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +46,5 @@
     "Safety, Health, Environment, Quality and Technical Committee",
     "Safety, Health, Environment, Sustainability and Technical Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

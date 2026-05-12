@@ -16,6 +16,26 @@
       "website": "https://www.st.com",
       "start_date": "2013-01-01",
       "end_date": null
+    },
+    {
+      "name": "The AES Corporation",
+      "ticker": "AES",
+      "exchange": "NYSE",
+      "website": "https://www.aes.com",
+      "title_or_role": "Director",
+      "start_date": "2019-02-22",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Millicom International Cellular S.A.",
+      "ticker": "TIGO",
+      "exchange": "NASDAQ",
+      "website": "https://www.millicom.com",
+      "title_or_role": "Director",
+      "start_date": "2016-04",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Audit Committee",
     "Remuneration Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

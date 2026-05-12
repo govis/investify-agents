@@ -25,6 +25,66 @@
       "website": "https://www.quantumscape.com",
       "start_date": "2020-11-01",
       "end_date": null
+    },
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "website": "https://www.tesla.com",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "SolarCity Corporation",
+      "ticker": "SCTY",
+      "exchange": "NASDAQ",
+      "website": "https://www.tesla.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2014",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Cypress Semiconductor Corporation",
+      "ticker": "CY",
+      "exchange": "NASDAQ",
+      "website": "https://www.cypress.com",
+      "title_or_role": "Chief Financial Officer / EVP - Finance and Administration",
+      "start_date": "August 2005",
+      "end_date": "June 2014",
+      "validated": true
+    },
+    {
+      "name": "Cavium, Inc.",
+      "ticker": "CAVM",
+      "exchange": "NASDAQ",
+      "website": "https://www.marvell.com",
+      "title_or_role": "Director",
+      "start_date": "July 2016",
+      "end_date": "July 2018",
+      "validated": true
+    },
+    {
+      "name": "Advance Auto Parts, Inc.",
+      "ticker": "AAP",
+      "exchange": "NYSE",
+      "website": "https://www.advanceautoparts.com",
+      "title_or_role": "Director",
+      "start_date": "March 2016",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "AECOM",
+      "ticker": "ACM",
+      "exchange": "NYSE",
+      "website": "https://www.aecom.com",
+      "title_or_role": "Director",
+      "start_date": "August 2018",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -37,6 +97,5 @@
     "Executive Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

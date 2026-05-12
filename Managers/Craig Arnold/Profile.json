@@ -12,10 +12,31 @@
       "name": "Eaton Corporation plc",
       "ticker": "ETN",
       "exchange": "NYSE",
-      "title_or_role": "Chairman and Chief Executive Officer",
-      "website": "https://www.eaton.com",
-      "start_date": "2016-06-01",
-      "end_date": null
+      "title_or_role": "President and Chief Operating Officer",
+      "website": "eaton.com",
+      "start_date": "Sept 1, 2015",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Medtronic plc",
+      "ticker": "MDT",
+      "exchange": "NYSE",
+      "website": "medtronic.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Procter & Gamble Company",
+      "ticker": "PG",
+      "exchange": "NYSE",
+      "website": "pg.com",
+      "title_or_role": "Director",
+      "start_date": "June 9, 2025",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +45,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

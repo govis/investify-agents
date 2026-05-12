@@ -11,11 +11,22 @@
     {
       "name": "Western Uranium & Vanadium Corp.",
       "ticker": "WUC",
-      "exchange": "TSX",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "website": "https://western-uranium.com",
-      "start_date": "2014-11-20",
-      "end_date": null
+      "exchange": "CSE",
+      "title_or_role": "President, CEO & Director",
+      "website": "https://www.western-uranium.com",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Energy Fuels Inc.",
+      "ticker": "UUUU",
+      "exchange": "NYSE",
+      "website": "https://www.energyfuels.com",
+      "title_or_role": "President, CEO & Director",
+      "start_date": "2006",
+      "end_date": "2010",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

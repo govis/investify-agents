@@ -12,10 +12,51 @@
       "name": "Cisco Systems, Inc.",
       "ticker": "CSCO",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.cisco.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Exxon Mobil Corporation",
+      "ticker": "XOM",
+      "exchange": "NYSE",
+      "website": "https://corporate.exxonmobil.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kyndryl Holdings, Inc.",
+      "ticker": "KD",
+      "exchange": "NYSE",
+      "website": "https://www.kyndryl.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Flex Ltd.",
+      "ticker": "FLEX",
+      "exchange": "NASDAQ",
+      "website": "https://flex.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Raytheon Company (now RTX Corporation)",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "title_or_role": "Chief Executive Officer, Raytheon International Inc. (Subsidiary)",
+      "start_date": "2013",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +66,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

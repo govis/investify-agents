@@ -16,6 +16,16 @@
       "website": "https://www.sentinelone.com",
       "start_date": "2021-04-01",
       "end_date": null
+    },
+    {
+      "name": "RadNet, Inc.",
+      "ticker": "RDNT",
+      "exchange": "NASDAQ",
+      "website": "https://www.radnet.com",
+      "title_or_role": "Executive Vice President and General Counsel",
+      "start_date": "2001",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +35,5 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

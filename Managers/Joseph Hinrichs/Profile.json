@@ -12,10 +12,41 @@
       "name": "CSX Corporation",
       "ticker": "CSX",
       "exchange": "NASDAQ",
-      "title_or_role": "Director, President and Chief Executive Officer",
+      "title_or_role": "President and CEO",
       "website": "https://www.csx.com",
       "start_date": "2022-09-26",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Goodyear Tire & Rubber Company",
+      "ticker": "GT",
+      "exchange": "NASDAQ",
+      "website": "https://www.goodyear.com",
+      "title_or_role": "Director",
+      "start_date": "2023-07-25",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Luminar Technologies, Inc.",
+      "ticker": "LAZR",
+      "exchange": "NASDAQ",
+      "website": "https://www.luminartech.com",
+      "title_or_role": "Director",
+      "start_date": "2021-05-31",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "website": "https://www.ford.com",
+      "title_or_role": "President, Ford Automotive (and various executive roles)",
+      "start_date": "2000-12",
+      "end_date": "2020-03-01",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +54,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

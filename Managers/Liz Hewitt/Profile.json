@@ -25,6 +25,56 @@
       "website": "https://www.glencore.com",
       "start_date": "2022-09-01",
       "end_date": null
+    },
+    {
+      "name": "Savills plc",
+      "ticker": "SVS",
+      "exchange": "LSE",
+      "website": "https://www.savills.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2014",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Melrose Industries plc",
+      "ticker": "MRO",
+      "exchange": "LSE",
+      "website": "https://www.melroseplc.net",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2013",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Novo Nordisk A/S",
+      "ticker": "NOVO-B",
+      "exchange": "Nasdaq Copenhagen",
+      "website": "https://www.novonordisk.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2012",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Synergy Health plc",
+      "ticker": "SYR",
+      "exchange": "LSE",
+      "website": "https://www.steris.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2011",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Smith & Nephew plc",
+      "ticker": "SN",
+      "exchange": "LSE",
+      "website": "https://www.smith-nephew.com",
+      "title_or_role": "Group Director, Corporate Affairs",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -37,6 +87,5 @@
     "Nomination Committee",
     "Remuneration Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

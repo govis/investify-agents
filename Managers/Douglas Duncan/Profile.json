@@ -12,10 +12,21 @@
       "name": "J.B. Hunt Transport Services, Inc.",
       "ticker": "JBHT",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.jbhunt.com",
-      "start_date": "2010-01-01",
-      "end_date": null
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.jbhunt.com/",
+      "start_date": "March 2010",
+      "end_date": "February 2023",
+      "validated": true
+    },
+    {
+      "name": "FedEx Corporation",
+      "ticker": "FDX",
+      "exchange": "NYSE",
+      "website": "https://www.fedex.com/",
+      "title_or_role": "President and CEO, FedEx Freight (a subsidiary of FedEx Corporation)",
+      "start_date": "Prior to 2010",
+      "end_date": "2010",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

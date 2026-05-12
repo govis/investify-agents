@@ -12,10 +12,31 @@
       "name": "CACI International Inc",
       "ticker": "CACI",
       "exchange": "NYSE",
-      "title_or_role": "Chairman of the Board, Director",
+      "title_or_role": "Chairman of the Board",
       "website": "https://www.caci.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "start_date": "2013",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "BlackBerry Limited",
+      "ticker": "BB",
+      "exchange": "NYSE",
+      "website": "https://www.blackberry.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Science Applications International Corporation (SAIC)",
+      "ticker": "SAIC",
+      "exchange": "NYSE",
+      "website": "https://www.saic.com",
+      "title_or_role": "Senior Executive",
+      "start_date": "1986",
+      "end_date": "2004",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Corporate Governance and Nominating Committee",
     "Executive Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

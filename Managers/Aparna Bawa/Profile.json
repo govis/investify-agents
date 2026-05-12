@@ -12,10 +12,31 @@
       "name": "Palo Alto Networks, Inc.",
       "ticker": "PANW",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.paloaltonetworks.com",
-      "start_date": "2021-05-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "title_or_role": "Executive Vice President, Chief Legal & People Officer",
+      "start_date": "May 2026",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Zoom Video Communications, Inc.",
+      "ticker": "ZM",
+      "exchange": "NASDAQ",
+      "website": "https://www.zoom.com",
+      "title_or_role": "General Counsel",
+      "start_date": "September 2018",
+      "end_date": "August 2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +46,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -11,11 +11,42 @@
     {
       "name": "Skyharbour Resources Ltd.",
       "ticker": "SYH",
-      "exchange": "TSX",
+      "exchange": "TSXV",
       "title_or_role": "Director",
-      "website": "https://skyharbourltd.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "website": "https://www.skyharbourltd.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vox Royalty Corp.",
+      "ticker": "VOXR",
+      "exchange": "NASDAQ",
+      "website": "https://www.voxroyalty.com",
+      "title_or_role": "Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rockridge Resources Ltd.",
+      "ticker": "ROCK",
+      "exchange": "TSXV",
+      "website": "https://www.rockridgeresourcesltd.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gunnison Copper Corp.",
+      "ticker": "GCU",
+      "exchange": "TSXV",
+      "website": "https://www.gunnisoncopper.com",
+      "title_or_role": "Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +54,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -25,6 +25,66 @@
       "website": "https://www.saab.com",
       "start_date": "2006-04-01",
       "end_date": null
+    },
+    {
+      "name": "Skandinaviska Enskilda Banken AB (SEB)",
+      "ticker": "SEB A",
+      "exchange": "STO",
+      "website": "sebgroup.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Investor AB",
+      "ticker": "INVE B",
+      "exchange": "STO",
+      "website": "investorab.com",
+      "title_or_role": "Executive Vice President",
+      "start_date": "1993",
+      "end_date": "1999",
+      "validated": true
+    },
+    {
+      "name": "EQT AB",
+      "ticker": "EQT",
+      "exchange": "STO",
+      "website": "eqtgroup.com",
+      "title_or_role": "Board Member",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Electrolux AB",
+      "ticker": "ELUX B",
+      "exchange": "STO",
+      "website": "electroluxgroup.com",
+      "title_or_role": "Board Member",
+      "start_date": "2005",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "AstraZeneca PLC",
+      "ticker": "AZN",
+      "exchange": "LSE",
+      "website": "astrazeneca.com",
+      "title_or_role": "Board Member",
+      "start_date": "1999",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Stora Enso Oyj",
+      "ticker": "STEAV",
+      "exchange": "STO",
+      "website": "storaenso.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2007",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -35,6 +95,5 @@
   "committees": [
     "Remuneration Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

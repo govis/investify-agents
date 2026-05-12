@@ -14,8 +14,19 @@
       "exchange": "NYSE",
       "title_or_role": "Director",
       "website": "https://www.blacksky.com",
-      "start_date": "2021-09-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Comscore, Inc.",
+      "ticker": "SCOR",
+      "exchange": "NASDAQ",
+      "website": "https://www.comscore.com",
+      "title_or_role": "Executive Chairman / Director",
+      "start_date": "1999",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Audit Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

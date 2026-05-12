@@ -12,10 +12,21 @@
       "name": "CrowdStrike Holdings, Inc.",
       "ticker": "CRWD",
       "exchange": "NASDAQ",
-      "title_or_role": "President",
+      "title_or_role": "Vice President, Technology Strategy",
       "website": "https://www.crowdstrike.com",
-      "start_date": "2023-03-01",
-      "end_date": null
+      "start_date": "2016",
+      "end_date": "February 2020",
+      "validated": true
+    },
+    {
+      "name": "McAfee",
+      "ticker": "MCFE",
+      "exchange": "NASDAQ",
+      "website": "https://www.mcafee.com",
+      "title_or_role": "Vice President & Chief Technology Officer, Security Connected",
+      "start_date": "Prior to 2014",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +35,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

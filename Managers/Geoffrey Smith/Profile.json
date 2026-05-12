@@ -10,12 +10,23 @@
   "company_affiliations": [
     {
       "name": "Denison Mines Corp.",
-      "ticker": "DNN",
-      "exchange": "NYSE",
+      "ticker": "DML",
+      "exchange": "TSX",
       "title_or_role": "Vice President, Corporate Development and Commercial",
-      "website": "https://denisonmines.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "website": "https://www.denisonmines.com",
+      "start_date": "Not explicitly disclosed",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "EMX Royalty Corporation",
+      "ticker": "EMX",
+      "exchange": "NYSE American",
+      "website": "https://emxroyalty.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2022-07-05",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +35,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

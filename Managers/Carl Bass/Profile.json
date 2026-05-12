@@ -12,10 +12,41 @@
       "name": "Planet Labs PBC",
       "ticker": "PL",
       "exchange": "NYSE",
-      "title_or_role": "Director",
+      "title_or_role": "Lead Independent Director",
       "website": "https://www.planet.com",
-      "start_date": "2021-12-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ouster, Inc.",
+      "ticker": "OUST",
+      "exchange": "NYSE",
+      "website": "https://ouster.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Zendesk, Inc.",
+      "ticker": "ZEN",
+      "exchange": "NYSE",
+      "website": "https://www.zendesk.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Autodesk, Inc.",
+      "ticker": "ADSK",
+      "exchange": "NASDAQ",
+      "website": "https://www.autodesk.com",
+      "title_or_role": "CTO / COO / Various Executive Roles",
+      "start_date": "1993",
+      "end_date": "2006",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +56,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

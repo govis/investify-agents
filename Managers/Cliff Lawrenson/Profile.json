@@ -13,9 +13,40 @@
       "ticker": "PDN",
       "exchange": "ASX",
       "title_or_role": "Non-Executive Chairman",
-      "website": "https://www.paladinenergy.com.au",
-      "start_date": "2019-10-29",
-      "end_date": null
+      "website": "paladinenergy.com.au",
+      "start_date": "Oct 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Atlas Iron Limited",
+      "ticker": "AGO (Delisted)",
+      "exchange": "ASX",
+      "website": "atlasiron.com.au",
+      "title_or_role": "Managing Director & CEO",
+      "start_date": "Feb 2017",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Avenira Limited",
+      "ticker": "AEV",
+      "exchange": "ASX",
+      "website": "avenira.com",
+      "title_or_role": "Managing Director & CEO",
+      "start_date": "2013",
+      "end_date": "Jan 2017",
+      "validated": true
+    },
+    {
+      "name": "Pacific Energy Limited",
+      "ticker": "PEA (Delisted)",
+      "exchange": "ASX",
+      "website": "pacificenergy.com.au",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2014",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -10,12 +10,13 @@
   "company_affiliations": [
     {
       "name": "Saab AB",
-      "ticker": "SAAB-B",
-      "exchange": "STO",
-      "title_or_role": "Member of the Board",
+      "ticker": "SAAB B",
+      "exchange": "Nasdaq Stockholm",
+      "title_or_role": "Board Member",
       "website": "https://www.saab.com",
-      "start_date": "2022-04-06",
-      "end_date": null
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Saab Aktiebolag",
@@ -35,6 +36,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

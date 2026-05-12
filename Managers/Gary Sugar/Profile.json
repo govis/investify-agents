@@ -10,12 +10,23 @@
   "company_affiliations": [
     {
       "name": "Seabridge Gold Inc.",
-      "ticker": "SA",
-      "exchange": "NYSE",
+      "ticker": "SEA (TSX), SA (NYSE)",
+      "exchange": "TSX, NYSE",
       "title_or_role": "Director",
-      "website": "https://www.seabridgegold.com",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "website": "https://www.seabridgegold.com/",
+      "start_date": "May 16, 2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NorZinc Ltd.",
+      "ticker": "NZC (TSX), NORZF (OTCQB)",
+      "exchange": "TSX, OTCQB",
+      "website": "https://norzinc.com/",
+      "title_or_role": "Director",
+      "start_date": "November 18, 2019",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

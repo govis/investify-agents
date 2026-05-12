@@ -12,10 +12,21 @@
       "name": "Skeena Resources Limited",
       "ticker": "SKE",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://skeenaresources.com",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "St. Elias Mines Ltd.",
+      "ticker": "SLI",
+      "exchange": "TSXV",
+      "website": "http://steliasmines.com",
+      "title_or_role": "President and CEO",
+      "start_date": "1997",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Compensation Committee",
     "Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

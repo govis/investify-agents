@@ -16,6 +16,26 @@
       "website": "https://www.exxonmobil.com",
       "start_date": "2021-03-01",
       "end_date": null
+    },
+    {
+      "name": "American Express Company",
+      "ticker": "AXP",
+      "exchange": "NYSE",
+      "website": "https://www.americanexpress.com",
+      "title_or_role": "Director",
+      "start_date": "2025-03-03",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Comcast Corporation",
+      "ticker": "CMCSA",
+      "exchange": "NASDAQ",
+      "website": "https://www.comcastcorporation.com",
+      "title_or_role": "Chief Financial Officer and Vice Chairman",
+      "start_date": "2007",
+      "end_date": "2015",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Finance Committee",
     "Public Issues and Contributions Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,51 @@
       "name": "Prologis, Inc.",
       "ticker": "PLD",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.prologis.com",
-      "start_date": "2011-01-01",
-      "end_date": null
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "AptarGroup, Inc.",
+      "ticker": "ATR",
+      "exchange": "NYSE",
+      "website": "https://www.aptar.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cantel Medical Corp.",
+      "ticker": "CMD",
+      "exchange": "NYSE",
+      "website": "https://www.cantelmedical.com",
+      "title_or_role": "President & CEO",
+      "start_date": "2019",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Catalent, Inc.",
+      "ticker": "CTLT",
+      "exchange": "NYSE",
+      "website": "https://www.catalent.com",
+      "title_or_role": "Chairman & Interim CEO",
+      "start_date": "2007",
+      "end_date": "2010",
+      "validated": true
+    },
+    {
+      "name": "Alberto-Culver Company",
+      "ticker": "ACV",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": "2011",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +67,5 @@
     "Audit Committee",
     "Governance and Nomination Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

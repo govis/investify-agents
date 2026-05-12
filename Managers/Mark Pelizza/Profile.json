@@ -25,6 +25,16 @@
       "website": "https://encoreuranium.com",
       "start_date": "2017-02-15",
       "end_date": null
+    },
+    {
+      "name": "Westwater Resources, Inc.",
+      "ticker": "WWR",
+      "exchange": "NYSE",
+      "website": "https://www.westwaterresources.net/",
+      "title_or_role": "Senior Vice President",
+      "start_date": "2005",
+      "end_date": "2015",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -37,6 +47,5 @@
     "Corporate Governance and Nominating Committee",
     "Technical Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

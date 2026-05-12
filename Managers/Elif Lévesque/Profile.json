@@ -11,11 +11,42 @@
     {
       "name": "G Mining Ventures Corp.",
       "ticker": "GMIN",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://gmin.gold/",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sandstorm Gold Ltd.",
+      "ticker": "SAND",
+      "exchange": "TSX / NYSE",
+      "website": "https://www.sandstormgold.com/",
+      "title_or_role": "Director",
+      "start_date": "June 9, 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nomad Royalty Company Ltd.",
+      "ticker": "NSR",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://www.gminingventures.com",
-      "start_date": "2022-06-22",
-      "end_date": null
+      "website": null,
+      "title_or_role": "Chief Financial Officer / Co-Founder",
+      "start_date": "2020",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Osisko Gold Royalties Ltd.",
+      "ticker": "OR",
+      "exchange": "TSX / NYSE",
+      "website": "https://www.osiskogr.com/",
+      "title_or_role": "Chief Financial Officer and Vice President, Finance",
+      "start_date": "2014",
+      "end_date": "February 2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

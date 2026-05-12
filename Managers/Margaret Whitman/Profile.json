@@ -16,6 +16,56 @@
       "website": "https://www.gm.com",
       "start_date": "2021-02-09",
       "end_date": null
+    },
+    {
+      "name": "eBay Inc.",
+      "ticker": "EBAY",
+      "exchange": "NASDAQ",
+      "website": "https://www.ebayinc.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "1998",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Hewlett-Packard Company (now HP Inc.)",
+      "ticker": "HPQ",
+      "exchange": "NYSE",
+      "website": "https://www.hp.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2011",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Hewlett Packard Enterprise Company",
+      "ticker": "HPE",
+      "exchange": "NYSE",
+      "website": "https://www.hpe.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2015",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "The Procter & Gamble Company",
+      "ticker": "PG",
+      "exchange": "NYSE",
+      "website": "https://www.pg.com",
+      "title_or_role": "Director",
+      "start_date": "2003",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Dropbox, Inc.",
+      "ticker": "DBX",
+      "exchange": "NASDAQ",
+      "website": "https://www.dropbox.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +76,5 @@
   "committees": [
     "Governance and Corporate Responsibility Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

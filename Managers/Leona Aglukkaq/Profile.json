@@ -11,20 +11,22 @@
     {
       "name": "Agnico Eagle Mines Limited",
       "ticker": "AEM",
-      "exchange": "NYSE",
+      "exchange": "NYSE/TSX",
       "title_or_role": "Director",
       "website": "https://www.agnicoeagle.com",
-      "start_date": "2022-02-08",
-      "end_date": null
+      "start_date": "April 2021",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Victoria Gold Corp.",
       "ticker": "VGCX",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://vgcx.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "start_date": "June 2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -35,6 +37,5 @@
     "Corporate Governance and Nominating Committee (Chair)",
     "Health, Safety, Environment and Sustainable Development Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -25,6 +25,46 @@
       "website": "https://www.northropgrumman.com",
       "start_date": "2015-01-01",
       "end_date": null
+    },
+    {
+      "name": "Fidelity National Information Services, Inc.",
+      "ticker": "FIS",
+      "exchange": "NYSE",
+      "website": "https://www.fisglobal.com",
+      "title_or_role": "Co-Chief Operating Officer, Global Financial Solutions",
+      "start_date": "2015",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "The Charles Schwab Corporation",
+      "ticker": "SCHW",
+      "exchange": "NYSE",
+      "website": "https://www.aboutschwab.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Akamai Technologies, Inc.",
+      "ticker": "AKAM",
+      "exchange": "NASDAQ",
+      "website": "https://www.akamai.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "VMware, Inc.",
+      "ticker": "VMW",
+      "exchange": "NYSE",
+      "website": "https://www.vmware.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,6 +76,5 @@
     "Audit Committee",
     "Governance, Nominating and Sustainability Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -14,8 +14,59 @@
       "exchange": "NASDAQ",
       "title_or_role": "Director",
       "website": "https://www.lucidmotors.com",
-      "start_date": "2021-02-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "TWFG, Inc.",
+      "ticker": "TWFG",
+      "exchange": "NASDAQ",
+      "website": "https://www.twfg.com",
+      "title_or_role": "Director",
+      "start_date": "July 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Valvoline Inc.",
+      "ticker": "VVV",
+      "exchange": "NYSE",
+      "website": "https://www.valvoline.com",
+      "title_or_role": "Director",
+      "start_date": "January 2026",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Enviva Inc.",
+      "ticker": "EVA",
+      "exchange": "NYSE",
+      "website": "https://www.envivabiomass.com",
+      "title_or_role": "Director",
+      "start_date": "May 2015",
+      "end_date": "December 2024",
+      "validated": true
+    },
+    {
+      "name": "Lumentum Holdings Inc.",
+      "ticker": "LITE",
+      "exchange": "NASDAQ",
+      "website": "https://www.lumentum.com",
+      "title_or_role": "Director",
+      "start_date": "September 2020",
+      "end_date": "November 2024",
+      "validated": true
+    },
+    {
+      "name": "Allegiance Bancshares, Inc.",
+      "ticker": "ABTX",
+      "exchange": "NASDAQ",
+      "website": "https://www.allegiancebank.com",
+      "title_or_role": "Director",
+      "start_date": "April 2020",
+      "end_date": "October 2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +76,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

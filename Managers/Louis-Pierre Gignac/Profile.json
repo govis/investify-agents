@@ -13,18 +13,30 @@
       "ticker": "CLM",
       "exchange": "TSXV",
       "title_or_role": "Director",
-      "website": "https://consolidatedlithium.com/",
-      "start_date": "2022-11-01",
-      "end_date": null
+      "website": "https://consolidatedlithium.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "G Mining Ventures Corp.",
       "ticker": "GMIN",
+      "exchange": "TSXV",
+      "title_or_role": "Founder, President, CEO & Director",
+      "website": "https://gmin.gold",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Major Drilling Group International Inc.",
+      "ticker": "MDI",
       "exchange": "TSX",
-      "title_or_role": "Director, President & Chief Executive Officer",
-      "website": "https://www.gminingventures.com",
-      "start_date": "2020-11-25",
-      "end_date": null
+      "website": "https://www.majordrilling.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -35,6 +47,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

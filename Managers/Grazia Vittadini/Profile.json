@@ -10,12 +10,33 @@
   "company_affiliations": [
     {
       "name": "Siemens Aktiengesellschaft",
-      "ticker": "SIEGY",
-      "exchange": "OTC",
+      "ticker": "SIE",
+      "exchange": "LSE",
       "title_or_role": "Member of the Supervisory Board",
       "website": "https://www.siemens.com",
-      "start_date": "2021-02-03",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Airbus SE",
+      "ticker": "AIR",
+      "exchange": "LSE",
+      "website": "https://www.airbus.com",
+      "title_or_role": "Chief Technology Officer (CTO)",
+      "start_date": "2018",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Deutsche Lufthansa AG",
+      "ticker": "LHA",
+      "exchange": "LSE",
+      "website": "https://www.lufthansagroup.com",
+      "title_or_role": "Chief Technology Officer (CTO) / Executive Board Member",
+      "start_date": "2024-07-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +46,5 @@
   "committees": [
     "Innovation and Finance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

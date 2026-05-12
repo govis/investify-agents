@@ -11,11 +11,12 @@
     {
       "name": "NexGen Energy Ltd.",
       "ticker": "NXE",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Financial Officer",
-      "website": "https://www.nexgenenergy.ca",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "exchange": "TSX, NYSE, ASX",
+      "title_or_role": "Director of Finance",
+      "website": "https://www.nexgenenergy.ca/",
+      "start_date": "June 2021",
+      "end_date": "October 2022",
+      "validated": true
     },
     {
       "name": "NexGen Energy Ltd.",
@@ -32,6 +33,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

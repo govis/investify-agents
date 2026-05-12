@@ -14,8 +14,19 @@
       "exchange": "ASX",
       "title_or_role": "Managing Director and Chief Executive Officer",
       "website": "https://regisresources.com.au",
-      "start_date": "2018-10-15",
-      "end_date": null
+      "start_date": "October 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Mount Gibson Iron Limited",
+      "ticker": "MGX",
+      "exchange": "ASX",
+      "website": "https://www.mgx.com.au",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "December 2011",
+      "end_date": "September 30, 2018",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

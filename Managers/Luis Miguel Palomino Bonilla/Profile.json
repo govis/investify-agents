@@ -12,10 +12,21 @@
       "name": "Southern Copper Corporation",
       "ticker": "SCCO",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.southerncoppercorp.com",
-      "start_date": "2004-01-01",
-      "end_date": null
+      "title_or_role": "Director (Special Independent Director)",
+      "website": "https://southerncoppercorp.com",
+      "start_date": "2004-03-19",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Byline Bancorp, Inc.",
+      "ticker": "BY",
+      "exchange": "NYSE",
+      "website": "https://investor.bylinebank.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +38,5 @@
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,21 @@
       "name": "BAE Systems plc",
       "ticker": "BA",
       "exchange": "LSE",
-      "title_or_role": "Group Finance Director",
+      "title_or_role": "Group Finance Director & Director",
       "website": "https://www.baesystems.com",
       "start_date": "2020-04-01",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Schlumberger NV",
+      "ticker": "SLB",
+      "exchange": "NYSE",
+      "website": "https://www.slb.com",
+      "title_or_role": "Director of Internal Audit",
+      "start_date": null,
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

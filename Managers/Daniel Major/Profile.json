@@ -10,12 +10,33 @@
   "company_affiliations": [
     {
       "name": "GoviEx Uranium Inc.",
-      "ticker": "GXU",
-      "exchange": "TSXV",
-      "title_or_role": "Chief Executive Officer, Director",
-      "website": "https://www.goviex.com",
-      "start_date": "2012-01-01",
-      "end_date": null
+      "ticker": "TSX-V: GXU / OTCQX: GVXXF",
+      "exchange": "TSX-V, OTC",
+      "title_or_role": "Chief Executive Officer & Director",
+      "website": "https://goviex.com/",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Leading Edge Materials Corp.",
+      "ticker": "TSX-V: LEM / OTC: LEMIF / STO: LEMSE",
+      "exchange": "TSX-V, OTC, STO",
+      "website": "https://www.leadingedgematerials.com/",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Strikeforce Mining & Resources Ltd.",
+      "ticker": "LSE: SMR",
+      "exchange": "LSE",
+      "website": "https://www.smr.uk.com/",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

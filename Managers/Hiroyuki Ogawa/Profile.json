@@ -10,12 +10,13 @@
   "company_affiliations": [
     {
       "name": "Komatsu Ltd.",
-      "ticker": "KMTUY",
-      "exchange": "OTC",
-      "title_or_role": "President and Chief Executive Officer, Representative Director",
-      "website": "https://www.komatsu.jp",
-      "start_date": "2019-04-01",
-      "end_date": null
+      "ticker": "6301",
+      "exchange": "Tokyo Stock Exchange",
+      "title_or_role": "President, CEO & Representative Director; Chairman of the Board",
+      "website": "https://www.komatsu.jp/en",
+      "start_date": "June 2019",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +24,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

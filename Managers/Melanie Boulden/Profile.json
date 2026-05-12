@@ -16,6 +16,36 @@
       "website": "https://www.adobe.com",
       "start_date": "2022-10-01",
       "end_date": null
+    },
+    {
+      "name": "Cal-Maine Foods, Inc.",
+      "ticker": "CALM",
+      "exchange": "NASDAQ",
+      "website": "https://www.calmainefoods.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2025-08-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tyson Foods, Inc.",
+      "ticker": "TSN",
+      "exchange": "NYSE",
+      "website": "https://www.tysonfoods.com",
+      "title_or_role": "Executive Vice President and Chief Growth Officer",
+      "start_date": "2023-02",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "The Coca-Cola Company",
+      "ticker": "KO",
+      "exchange": "NYSE",
+      "website": "https://www.coca-colacompany.com",
+      "title_or_role": "Chief Marketing Officer, North America Operating Unit / President, Venturing & Emerging Brands",
+      "start_date": null,
+      "end_date": "2023-02",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +55,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

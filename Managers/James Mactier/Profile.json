@@ -12,10 +12,21 @@
       "name": "Regis Resources Limited",
       "ticker": "RRL",
       "exchange": "ASX",
-      "title_or_role": "Non-Executive Chairman",
+      "title_or_role": "Non-Executive Director",
       "website": "https://regisresources.com.au",
-      "start_date": "2016-02-22",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Iluka Resources Limited",
+      "ticker": "ILU",
+      "exchange": "ASX",
+      "website": "https://www.iluka.com",
+      "title_or_role": "Chair of the Board, Non-Executive Director",
+      "start_date": "May 2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Audit Committee",
     "Remuneration and Nomination Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

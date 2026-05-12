@@ -12,10 +12,21 @@
       "name": "General Dynamics Corporation",
       "ticker": "GD",
       "exchange": "NYSE",
-      "title_or_role": "Executive Vice President, Technologies",
+      "title_or_role": "Executive Vice President, Technologies; Chief Financial Officer; Senior Vice President and CFO",
       "website": "https://www.gd.com",
-      "start_date": "2024-01-01",
-      "end_date": null
+      "start_date": "2002",
+      "end_date": "Feb 2024",
+      "validated": true
+    },
+    {
+      "name": "QXO, Inc.",
+      "ticker": "QXO",
+      "exchange": "NASDAQ",
+      "website": "https://www.qxo.com",
+      "title_or_role": "Director",
+      "start_date": "June 2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,21 @@
       "name": "SSR Mining Inc.",
       "ticker": "SSRM",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Non-Executive Director",
       "website": "https://www.ssrmining.com",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Mosaic Company",
+      "ticker": "MOS",
+      "exchange": "NYSE",
+      "website": "https://www.mosaicco.com",
+      "title_or_role": "Executive Vice President \u2013 Operations",
+      "start_date": "2004",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Environmental, Health, Safety and Sustainability Committee",
     "Technical Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

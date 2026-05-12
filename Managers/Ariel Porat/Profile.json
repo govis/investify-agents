@@ -16,6 +16,16 @@
       "website": "https://www.solaredge.com",
       "start_date": "2024-08-26",
       "end_date": null
+    },
+    {
+      "name": "Siemens Energy AG",
+      "ticker": "ENR",
+      "exchange": "XETRA (Frankfurt Stock Exchange)",
+      "website": "https://www.siemens-energy.com",
+      "title_or_role": "Senior Vice President, Head of Europe / CEO of Siemens Israel",
+      "start_date": null,
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +33,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

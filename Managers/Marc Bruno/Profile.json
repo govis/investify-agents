@@ -16,6 +16,16 @@
       "website": "https://www.unitedrentals.com",
       "start_date": "2018-05-01",
       "end_date": null
+    },
+    {
+      "name": "Aramark",
+      "ticker": "ARMK",
+      "exchange": "NYSE",
+      "website": "https://www.aramark.com",
+      "title_or_role": "Chief Operating Officer, U.S. Food and Facilities",
+      "start_date": "1993",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +35,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,21 @@
       "name": "SSR Mining Inc.",
       "ticker": "SSRM",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.ssrmining.com",
-      "start_date": "2020-09-16",
-      "end_date": null
+      "start_date": "2022-03",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Alcoa Corporation",
+      "ticker": "AA",
+      "exchange": "NYSE",
+      "website": "https://www.alcoa.com",
+      "title_or_role": "Executive Vice President and Chief Administrative Officer",
+      "start_date": "2016",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Audit Committee",
     "Compensation and Leadership Development Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

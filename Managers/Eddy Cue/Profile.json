@@ -5,17 +5,28 @@
   "age": 59,
   "age_year": 2024,
   "background": "Eddy Cue is Apple\u2019s senior vice president of Services, reporting to CEO Tim Cook. Eddy oversees the full range of Apple\u2019s services, including Apple Music, Apple TV+, Apple News, Apple Maps, Apple Pay, Apple Card, iCloud, and more.",
-  "picture_url": "https://www.sxsw.com/wp-content/uploads/2019/06/Copy-of-Eddy-Cue_credit_-Apple.jpg",
+  "picture_url": null,
   "picture_local": null,
   "company_affiliations": [
     {
       "name": "Apple Inc.",
       "ticker": "AAPL",
       "exchange": "NASDAQ",
-      "title_or_role": "Senior Vice President, Services",
+      "title_or_role": "Senior Vice President of Services",
       "website": "https://www.apple.com",
-      "start_date": "2011-09-01",
-      "end_date": null
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ferrari N.V.",
+      "ticker": "RACE",
+      "exchange": "NYSE",
+      "website": "https://www.ferrari.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "November 2012",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,11 +36,9 @@
     {
       "name": "LinkedIn",
       "url": "https://www.linkedin.com/in/eddy-cue-7483301",
-      "has_picture": "unknown",
       "picture_download_count": 2
     }
   ],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

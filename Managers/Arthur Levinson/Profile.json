@@ -9,13 +9,63 @@
   "picture_local": null,
   "company_affiliations": [
     {
+      "name": "Calico Life Sciences LLC",
+      "ticker": null,
+      "exchange": null,
+      "title_or_role": "CEO",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
       "name": "Apple Inc.",
       "ticker": "AAPL",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Chairman of the Board",
-      "website": "https://www.apple.com",
-      "start_date": "2000-01-01",
-      "end_date": null
+      "title_or_role": "Lead Independent Director",
+      "website": "apple.com",
+      "start_date": "2026",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Genentech, Inc.",
+      "ticker": "DNA (delisted)",
+      "exchange": "NYSE",
+      "website": "gene.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "1999",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Google (now Alphabet Inc.)",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "website": "abc.xyz",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2009",
+      "validated": true
+    },
+    {
+      "name": "NGM Biopharmaceuticals, Inc.",
+      "ticker": "NGM",
+      "exchange": "NASDAQ",
+      "website": "ngmbio.com",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Amyris, Inc.",
+      "ticker": "AMRSQ",
+      "exchange": "OTC",
+      "website": "amyris.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2012",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +75,6 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

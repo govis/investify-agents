@@ -16,6 +16,26 @@
       "website": "https://www.albemarle.com",
       "start_date": "2020-04-20",
       "end_date": null
+    },
+    {
+      "name": "Rockwood Holdings, Inc.",
+      "ticker": "ROC",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Foster Wheeler AG",
+      "ticker": "FWLT",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2011",
+      "end_date": "2015",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

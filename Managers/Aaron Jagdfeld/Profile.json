@@ -5,8 +5,8 @@
   "age": 52,
   "age_year": 2024,
   "background": "Mr. Jagdfeld has served as President and Chief Executive Officer of Generac since September 2008 and as a director since 2006. He joined Generac in 1994 and has served in various roles, including Chief Financial Officer from 2002 to 2007 and President from 2007 to 2008.",
-  "picture_url": null,
-  "picture_local": null,
+  "picture_url": "https://media.licdn.com/dms/image/v2/D5603AQFaKo-9WroEZQ/profile-displayphoto-shrink_200_200/B56ZXktstaGcAc-/0/1743298941539?e=2147483647&v=beta&t=N9KAyVD0tLEXWnLjq4tb9WfscPPfBOL-e2JZDGNe8Mg",
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Generac Holdings Inc.",
@@ -44,7 +44,5 @@
     }
   ],
   "committees": [],
-  "enrichment_status": "success",
-  "enrichment_step": "company_affiliations",
   "enrichment_company_affiliations": "success"
 }

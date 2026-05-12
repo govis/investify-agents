@@ -12,10 +12,41 @@
       "name": "ServiceNow, Inc.",
       "ticker": "NOW",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "President and CEO",
       "website": "https://www.servicenow.com",
-      "start_date": "2017-04-01",
-      "end_date": null
+      "start_date": "2017",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "eBay Inc.",
+      "ticker": "EBAY",
+      "exchange": "NASDAQ",
+      "website": "https://www.ebayinc.com",
+      "title_or_role": "President and CEO",
+      "start_date": "2008",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Nike, Inc.",
+      "ticker": "NKE",
+      "exchange": "NYSE",
+      "website": "https://www.nike.com",
+      "title_or_role": "President and CEO",
+      "start_date": "2020",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "PayPal Holdings, Inc.",
+      "ticker": "PYPL",
+      "exchange": "NASDAQ",
+      "website": "https://www.paypal.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2015",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +56,5 @@
   "committees": [
     "Nominating and Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

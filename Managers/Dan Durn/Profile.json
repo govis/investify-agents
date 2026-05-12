@@ -14,8 +14,39 @@
       "exchange": "NASDAQ",
       "title_or_role": "Executive Vice President and Chief Financial Officer",
       "website": "https://www.adobe.com",
-      "start_date": "2021-10-01",
-      "end_date": null
+      "start_date": "October 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Marvell Technology, Inc.",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "website": "https://www.marvell.com",
+      "title_or_role": "Director",
+      "start_date": "April 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Applied Materials, Inc.",
+      "ticker": "AMAT",
+      "exchange": "NASDAQ",
+      "website": "https://www.appliedmaterials.com",
+      "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "start_date": "2017",
+      "end_date": "October 2021",
+      "validated": true
+    },
+    {
+      "name": "NXP Semiconductors N.V.",
+      "ticker": "NXPI",
+      "exchange": "NASDAQ",
+      "website": "https://www.nxp.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "December 2015",
+      "end_date": "August 2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -28,6 +59,5 @@
     }
   ],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

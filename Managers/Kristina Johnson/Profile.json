@@ -12,10 +12,51 @@
       "name": "Cisco Systems, Inc.",
       "ticker": "CSCO",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.cisco.com",
-      "start_date": "2012-08-01",
-      "end_date": null
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Minerals Technologies Inc.",
+      "ticker": "MTX",
+      "exchange": "NYSE",
+      "website": "https://www.mineralstech.com",
+      "title_or_role": "Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "DuPont de Nemours, Inc.",
+      "ticker": "DD",
+      "exchange": "NYSE",
+      "website": "https://www.dupont.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Boston Scientific Corporation",
+      "ticker": "BSX",
+      "exchange": "NYSE",
+      "website": "https://www.bostonscientific.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "The AES Corporation",
+      "ticker": "AES",
+      "exchange": "NYSE",
+      "website": "https://www.aes.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +66,5 @@
   "committees": [
     "Nomination and Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

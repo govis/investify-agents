@@ -14,8 +14,19 @@
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and Chief Operating Officer",
       "website": "https://www.cheniere.com",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "start_date": "January 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cheniere Energy Partners, L.P.",
+      "ticker": "CQP",
+      "exchange": "NYSE",
+      "website": "https://www.cheniere.com/cheniere-energy-partners-lp",
+      "title_or_role": "Executive Vice President, Chief Operating Officer, and Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

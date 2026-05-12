@@ -16,6 +16,36 @@
       "website": "https://oreterra.com.au",
       "start_date": "2023-11-01",
       "end_date": null
+    },
+    {
+      "name": "Boss Energy Limited",
+      "ticker": "BOE",
+      "exchange": "ASX",
+      "website": "https://bossenergy.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2020",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Amex Resources Ltd.",
+      "ticker": "AXZ",
+      "exchange": "ASX",
+      "website": "https://www.businessnews.com.au/Company/Amex-Resources",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2007",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "ESSA Australia Ltd.",
+      "ticker": "ESS",
+      "exchange": "ASX",
+      "website": "https://www.businessnews.com.au/Company/Essa-Australia",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2007",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +57,5 @@
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

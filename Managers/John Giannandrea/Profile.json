@@ -14,8 +14,39 @@
       "exchange": "NASDAQ",
       "title_or_role": "Senior Vice President, Machine Learning and AI Strategy",
       "website": "https://www.apple.com",
-      "start_date": "2018-12-20",
-      "end_date": null
+      "start_date": "2018",
+      "end_date": "2026",
+      "validated": true
+    },
+    {
+      "name": "Alphabet Inc. (Google)",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://abc.xyz",
+      "title_or_role": "Senior Vice President, Engineering (Head of Search and Artificial Intelligence)",
+      "start_date": "2010",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Netscape Communications Corporation",
+      "ticker": "NSCP",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Chief Technologist",
+      "start_date": "1994",
+      "end_date": "1999",
+      "validated": true
+    },
+    {
+      "name": "General Magic, Inc.",
+      "ticker": "GMGC",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Senior Engineer",
+      "start_date": "Early 1990s",
+      "end_date": "1994",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +54,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

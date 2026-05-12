@@ -16,6 +16,36 @@
       "website": "https://www.parker.com",
       "start_date": "2004-01-01",
       "end_date": null
+    },
+    {
+      "name": "Cintas Corporation",
+      "ticker": "CTAS",
+      "exchange": "NASDAQ",
+      "website": "https://www.cintas.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "OM Group, Inc.",
+      "ticker": "OMG",
+      "exchange": "NYSE",
+      "website": "https://www.omgi.com",
+      "title_or_role": "Chairman, President, and CEO",
+      "start_date": "2005",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "The Sherwin-Williams Company",
+      "ticker": "SHW",
+      "exchange": "NYSE",
+      "website": "https://www.sherwin-williams.com",
+      "title_or_role": "President and Chief Operating Officer",
+      "start_date": "1999",
+      "end_date": "2005",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +55,5 @@
   "committees": [
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

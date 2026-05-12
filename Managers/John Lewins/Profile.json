@@ -12,10 +12,41 @@
       "name": "K92 Mining Inc.",
       "ticker": "KNT",
       "exchange": "TSX",
-      "title_or_role": "Chief Executive Officer and Director",
-      "website": "https://k92mining.com",
-      "start_date": "2017-05-01",
-      "end_date": null
+      "title_or_role": "Chief Operating Officer",
+      "website": "k92mining.com",
+      "start_date": "2016",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Zacatecas Silver Corp.",
+      "ticker": "ZAC",
+      "exchange": "TSXV",
+      "website": "zacatecassilver.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "First Dynasty Mines Ltd.",
+      "ticker": "FDM",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Acting President/CEO",
+      "start_date": "05/1999",
+      "end_date": "02/2000",
+      "validated": true
+    },
+    {
+      "name": "Platinum Australia Limited",
+      "ticker": "PLA",
+      "exchange": "ASX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +54,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

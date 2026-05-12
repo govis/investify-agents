@@ -12,10 +12,21 @@
       "name": "Li-Cycle Holdings Corp.",
       "ticker": "LICY",
       "exchange": "NYSE",
-      "title_or_role": "Unknown Role",
+      "title_or_role": "Chief Financial Officer",
       "website": "https://li-cycle.com",
-      "start_date": null,
-      "end_date": null
+      "start_date": "February 1, 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Maple Leaf Foods Inc.",
+      "ticker": "MFI",
+      "exchange": "TSX",
+      "website": "https://www.mapleleaffoods.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2014",
+      "end_date": "November 1, 2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

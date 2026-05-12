@@ -25,6 +25,26 @@
       "website": "https://www.cameco.com",
       "start_date": "2016-01-01",
       "end_date": null
+    },
+    {
+      "name": "Canfor Corporation",
+      "ticker": "CFP",
+      "exchange": "TSX",
+      "website": "https://www.canfor.com",
+      "title_or_role": "President and Chief Executive Officer, Director",
+      "start_date": "2011",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Canfor Pulp Products Inc.",
+      "ticker": "CFX",
+      "exchange": "TSX",
+      "website": "https://www.canforpulp.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -35,6 +55,5 @@
     "Human Resources and Compensation Committee",
     "Nominating, Corporate Governance and Risk Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

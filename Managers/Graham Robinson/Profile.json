@@ -14,8 +14,29 @@
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
       "website": "https://www.northropgrumman.com",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Stanley Black & Decker, Inc.",
+      "ticker": "SWK",
+      "exchange": "NYSE",
+      "website": "https://www.stanleyblackanddecker.com",
+      "title_or_role": "Senior Vice President and President, Stanley Industrial",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Honeywell International, Inc.",
+      "ticker": "HON",
+      "exchange": "NASDAQ",
+      "website": "https://www.honeywell.com",
+      "title_or_role": "President, Industrial Safety / President, Safety & Productivity Solutions",
+      "start_date": "2013",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +46,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

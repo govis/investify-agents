@@ -16,6 +16,56 @@
       "website": "https://www.solaredge.com",
       "start_date": "2017-06-01",
       "end_date": null
+    },
+    {
+      "name": "Wynn Resorts, Limited",
+      "ticker": "WYNN",
+      "exchange": "NASDAQ",
+      "website": "https://www.wynnresorts.com",
+      "title_or_role": "Director",
+      "start_date": "2018-04-18",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Volvo Car AB",
+      "ticker": "VOLCAR B",
+      "exchange": "STO",
+      "website": "https://www.volvocars.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Enovix Corporation",
+      "ticker": "ENVX",
+      "exchange": "NASDAQ",
+      "website": "https://www.enovix.com",
+      "title_or_role": "Director",
+      "start_date": "2021-07",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SL Green Realty Corp.",
+      "ticker": "SLG",
+      "exchange": "NYSE",
+      "website": "https://slgreen.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cognizant Technology Solutions Corporation",
+      "ticker": "CTSH",
+      "exchange": "NASDAQ",
+      "website": "https://www.cognizant.com",
+      "title_or_role": "Director",
+      "start_date": "2017-04",
+      "end_date": "2018-10",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +76,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

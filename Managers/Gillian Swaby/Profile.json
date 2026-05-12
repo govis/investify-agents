@@ -13,9 +13,30 @@
       "ticker": "DYL",
       "exchange": "ASX",
       "title_or_role": "Executive Director",
-      "website": "https://deepyellow.com.au",
-      "start_date": "2016-10-24",
-      "end_date": null
+      "website": "https://www.deepyellow.com.au/",
+      "start_date": null,
+      "end_date": "2026",
+      "validated": true
+    },
+    {
+      "name": "Comet Ridge Limited",
+      "ticker": "COI",
+      "exchange": "ASX",
+      "website": "https://cometridge.com.au/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2004",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Panoramic Resources Limited",
+      "ticker": "PAN",
+      "exchange": "ASX",
+      "website": "https://panoramicresources.com/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

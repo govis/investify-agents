@@ -16,6 +16,16 @@
       "website": "https://www.albemarle.com",
       "start_date": "2015-01-01",
       "end_date": null
+    },
+    {
+      "name": "Monsanto Company",
+      "ticker": "MON",
+      "exchange": "NYSE",
+      "website": "https://monsanto.com",
+      "title_or_role": "Executive Vice President, Sustainability and Corporate Affairs",
+      "start_date": null,
+      "end_date": "2013-11",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +37,5 @@
     "Executive Compensation Committee",
     "Health, Safety & Environmental Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

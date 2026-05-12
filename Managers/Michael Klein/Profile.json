@@ -13,9 +13,90 @@
       "ticker": "OKLO",
       "exchange": "NYSE",
       "title_or_role": "Director",
-      "website": "https://oklo.com",
-      "start_date": "2021-02-01",
-      "end_date": null
+      "website": "oklo.com",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "ticker": "CS",
+      "exchange": "NYSE",
+      "website": "credit-suisse.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Churchill Capital Corp",
+      "ticker": "CCC",
+      "exchange": "NYSE",
+      "website": "churchillcapitalcorp.com",
+      "title_or_role": "Chairman & CEO",
+      "start_date": "2018",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Churchill Capital Corp II",
+      "ticker": "CCX",
+      "exchange": "NYSE",
+      "website": "churchillcapitalcorp.com",
+      "title_or_role": "Chairman & CEO",
+      "start_date": "2019",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Churchill Capital Corp III",
+      "ticker": "CCXX",
+      "exchange": "NYSE",
+      "website": "churchillcapitalcorp.com",
+      "title_or_role": "Chairman & CEO",
+      "start_date": "2019",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Churchill Capital Corp IV",
+      "ticker": "CCIV",
+      "exchange": "NYSE",
+      "website": "churchillcapitalcorp.com",
+      "title_or_role": "Chairman & CEO",
+      "start_date": "2020",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Churchill Capital Corp V",
+      "ticker": "CCV",
+      "exchange": "NYSE",
+      "website": "churchillcapitalcorp.com",
+      "title_or_role": "Chairman & CEO",
+      "start_date": "2020",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Churchill Capital Corp VI",
+      "ticker": "CCVI",
+      "exchange": "NYSE",
+      "website": "churchillcapitalcorp.com",
+      "title_or_role": "Chairman & CEO",
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Churchill Capital Corp VII",
+      "ticker": "CVII",
+      "exchange": "NYSE",
+      "website": "churchillcapitalcorp.com",
+      "title_or_role": "Chairman & CEO",
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +107,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,61 @@
       "name": "Li Auto Inc.",
       "ticker": "LI",
       "exchange": "NASDAQ",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://ir.lixiang.com",
+      "start_date": "July 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bairong Inc.",
+      "ticker": "6608",
+      "exchange": "HKEX",
+      "website": "https://bairong.com",
+      "title_or_role": "Executive Director & CFO",
+      "start_date": "June 2018",
+      "end_date": "May 2023",
+      "validated": true
+    },
+    {
+      "name": "YSB Inc.",
+      "ticker": "9885",
+      "exchange": "HKEX",
+      "website": "https://ir.ysb.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "HUYA Inc.",
+      "ticker": "HUYA",
+      "exchange": "NYSE",
+      "website": "https://ir.huya.com",
       "title_or_role": "Independent Director",
-      "website": "https://www.lixiang.com",
-      "start_date": "2020-07-01",
-      "end_date": null
+      "start_date": "May 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Beisen Holding Limited",
+      "ticker": "9669",
+      "exchange": "HKEX",
+      "website": "https://beisen.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gogox Holdings Limited",
+      "ticker": "2246",
+      "exchange": "HKEX",
+      "website": "https://gogox.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "June 2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +78,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

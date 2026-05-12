@@ -12,10 +12,21 @@
       "name": "Textron Inc.",
       "ticker": "TXT",
       "exchange": "NYSE",
-      "title_or_role": "Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.textron.com",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "start_date": "July 1, 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Unisys Corporation",
+      "ticker": "UIS",
+      "exchange": "NYSE",
+      "website": "https://www.unisys.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "August 7, 2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Audit Committee",
     "Organization and Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,31 @@
       "name": "Juniper Networks, Inc.",
       "ticker": "JNPR",
       "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.juniper.net/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Advanced Energy Industries, Inc.",
+      "ticker": "AEIS",
+      "exchange": "NASDAQ",
+      "website": "https://www.advancedenergy.com/",
       "title_or_role": "Independent Director",
-      "website": "https://www.juniper.net",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "New Relic, Inc.",
+      "ticker": "NEWR",
+      "exchange": "NYSE",
+      "website": "https://newrelic.com/",
+      "title_or_role": "Director",
+      "start_date": "August 2020",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

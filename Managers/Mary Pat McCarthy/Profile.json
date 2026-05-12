@@ -16,6 +16,26 @@
       "website": "https://www.micron.com",
       "start_date": "2018-01-01",
       "end_date": null
+    },
+    {
+      "name": "Palo Alto Networks, Inc.",
+      "ticker": "PANW",
+      "exchange": "NASDAQ",
+      "website": "https://www.paloaltonetworks.com",
+      "title_or_role": "Director",
+      "start_date": "2016-10",
+      "end_date": "2026-01-23",
+      "validated": true
+    },
+    {
+      "name": "Andeavor (formerly Tesoro Corporation)",
+      "ticker": "ANDV",
+      "exchange": "NYSE",
+      "website": "https://www.andeavor.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2018",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

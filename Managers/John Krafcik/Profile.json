@@ -12,10 +12,41 @@
       "name": "Rivian Automotive, Inc.",
       "ticker": "RIVN",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member of the Board of Directors",
       "website": "https://rivian.com",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "start_date": "2023-07",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Daimler Truck Holding AG",
+      "ticker": "DTG",
+      "exchange": "XETRA",
+      "website": "https://www.daimlertruck.com",
+      "title_or_role": "Member of the Supervisory Board",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "TrueCar, Inc.",
+      "ticker": "TRUE",
+      "exchange": "NASDAQ",
+      "website": "https://www.truecar.com",
+      "title_or_role": "President",
+      "start_date": "2014",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Hyundai Motor Company",
+      "ticker": "HYMTF",
+      "exchange": "OTC",
+      "website": "https://www.hyundai.com",
+      "title_or_role": "President and CEO of Hyundai Motor America",
+      "start_date": "2008",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +56,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

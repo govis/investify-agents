@@ -14,8 +14,39 @@
       "exchange": "NYSE",
       "title_or_role": "Director",
       "website": "https://www.gd.com",
-      "start_date": "2004-01-01",
-      "end_date": null
+      "start_date": "May 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CoStar Group, Inc.",
+      "ticker": "CSGP",
+      "exchange": "NASDAQ",
+      "website": "https://www.costargroup.com",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Zenith National Insurance Corp.",
+      "ticker": "ZNT",
+      "exchange": "NYSE",
+      "website": "https://www.zenithinsurance.com",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2010",
+      "validated": true
+    },
+    {
+      "name": "Servus Financial Corp.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "N/A",
+      "title_or_role": "Founder, Chairman & Chief Executive Officer",
+      "start_date": "1993",
+      "end_date": "2000",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Compensation",
     "Governance"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

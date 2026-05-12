@@ -16,6 +16,36 @@
       "website": "https://li-cycle.com",
       "start_date": "2023-11-01",
       "end_date": null
+    },
+    {
+      "name": "Boyd Group Services Inc.",
+      "ticker": "BYD",
+      "exchange": "TSX",
+      "website": "https://boydgroup.com",
+      "title_or_role": "Investor Relations Contact",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Supreme Cannabis Company, Inc.",
+      "ticker": "FIRE",
+      "exchange": "TSX",
+      "website": "https://www.supreme.ca",
+      "title_or_role": "Head of Investor Relations",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aduro Clean Technologies, Inc.",
+      "ticker": "ADUR",
+      "exchange": "NASDAQ",
+      "website": "https://adurocleantech.com",
+      "title_or_role": "Investor Relations Contact",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +53,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

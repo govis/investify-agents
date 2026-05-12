@@ -12,10 +12,31 @@
       "name": "Quanta Services, Inc.",
       "ticker": "PWR",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director (Chairman of the Board)",
       "website": "https://www.quantaservices.com",
-      "start_date": "2016-01-01",
-      "end_date": null
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Northland Power Inc.",
+      "ticker": "NPI",
+      "exchange": "TSX",
+      "website": "https://www.northlandpower.com",
+      "title_or_role": "Director",
+      "start_date": "May 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Korn Ferry",
+      "ticker": "KFY",
+      "exchange": "NYSE",
+      "website": "https://www.kornferry.com",
+      "title_or_role": "Director",
+      "start_date": "September 2015",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +48,5 @@
     "Audit Committee",
     "Investment Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

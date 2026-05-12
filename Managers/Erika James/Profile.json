@@ -12,10 +12,21 @@
       "name": "Morgan Stanley",
       "ticker": "MS",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director (Board of Directors)",
       "website": "https://www.morganstanley.com",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Momentive Global Inc.",
+      "ticker": "MNTV",
+      "exchange": "NASDAQ",
+      "website": "https://www.momentive.ai",
+      "title_or_role": "Director (Board of Directors)",
+      "start_date": "August 14, 2018",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +36,5 @@
   "committees": [
     "Compensation, Management Development and Succession Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

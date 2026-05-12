@@ -12,10 +12,31 @@
       "name": "Energy Fuels Inc.",
       "ticker": "UUUU",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.energyfuels.com",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "start_date": "2022-01-25",
+      "end_date": "2026-04-13",
+      "validated": true
+    },
+    {
+      "name": "Rare Earths Americas Inc.",
+      "ticker": "REA",
+      "exchange": "NYSE American",
+      "website": "https://www.rareearthsamericas.com",
+      "title_or_role": "Director",
+      "start_date": "2026-04-13",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "URZ3 Energy Corp.",
+      "ticker": "URZ3",
+      "exchange": "TSXV",
+      "website": "https://www.urz3.com",
+      "title_or_role": "Director",
+      "start_date": "2026-04-13",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +48,5 @@
     "Environment, Health and Safety Committee",
     "Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

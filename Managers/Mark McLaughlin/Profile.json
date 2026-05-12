@@ -12,10 +12,51 @@
       "name": "Snowflake Inc.",
       "ticker": "SNOW",
       "exchange": "NYSE",
-      "title_or_role": "Lead Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.snowflake.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Qualcomm Incorporated",
+      "ticker": "QCOM",
+      "exchange": "NASDAQ",
+      "website": "https://www.qualcomm.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "August 13, 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Palo Alto Networks, Inc.",
+      "ticker": "PANW",
+      "exchange": "NASDAQ",
+      "website": "https://www.paloaltonetworks.com",
+      "title_or_role": "President, CEO, and Chairman",
+      "start_date": "August 2011",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "VeriSign, Inc.",
+      "ticker": "VRSN",
+      "exchange": "NASDAQ",
+      "website": "https://www.verisign.com",
+      "title_or_role": "President and CEO",
+      "start_date": "2009",
+      "end_date": "August 2011",
+      "validated": true
+    },
+    {
+      "name": "Rubrik, Inc.",
+      "ticker": "RBRK",
+      "exchange": "NYSE",
+      "website": "https://www.rubrik.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +66,5 @@
   "committees": [
     "Nominating and Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

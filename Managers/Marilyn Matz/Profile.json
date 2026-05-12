@@ -12,10 +12,21 @@
       "name": "Teradyne, Inc.",
       "ticker": "TER",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director (Board of Directors)",
       "website": "https://www.teradyne.com",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "LogMeIn, Inc.",
+      "ticker": "LOGM",
+      "exchange": "NASDAQ",
+      "website": "https://www.logmeininc.com",
+      "title_or_role": "Director (Board of Directors)",
+      "start_date": "2014",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

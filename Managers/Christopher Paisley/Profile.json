@@ -12,10 +12,41 @@
       "name": "Equinix, Inc.",
       "ticker": "EQIX",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member of the Board of Directors / Lead Independent Director",
       "website": "https://www.equinix.com",
-      "start_date": "2007-07-01",
-      "end_date": null
+      "start_date": "2007",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fastly, Inc.",
+      "ticker": "FSLY",
+      "exchange": "NYSE",
+      "website": "https://www.fastly.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "July 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "YuMe, Inc.",
+      "ticker": "YUME",
+      "exchange": "NYSE",
+      "website": "https://www.yume.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "November 2012",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "3Com Corporation",
+      "ticker": "COMS",
+      "exchange": "NASDAQ",
+      "website": "https://www.3com.com",
+      "title_or_role": "Senior Vice President of Finance and Chief Financial Officer",
+      "start_date": "1995",
+      "end_date": "2000",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +56,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

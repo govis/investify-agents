@@ -11,11 +11,42 @@
     {
       "name": "SSR Mining Inc.",
       "ticker": "SSRM",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "exchange": "TSX/NASDAQ",
+      "title_or_role": "Director",
       "website": "https://www.ssrmining.com",
-      "start_date": "2020-09-16",
-      "end_date": null
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GFG Resources Inc.",
+      "ticker": "GFG",
+      "exchange": "TSXV",
+      "website": "https://www.gfgresources.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Peninsula Energy Limited",
+      "ticker": "PEN",
+      "exchange": "ASX",
+      "website": "https://www.pel.net.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Element 29 Resources Inc.",
+      "ticker": "ECU",
+      "exchange": "TSXV",
+      "website": "https://e29copper.com",
+      "title_or_role": "President, CEO, Director",
+      "start_date": "2019",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Environmental, Health, Safety and Sustainability Committee",
     "Technical Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

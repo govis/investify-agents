@@ -12,10 +12,21 @@
       "name": "Advanced Micro Devices, Inc.",
       "ticker": "AMD",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.amd.com",
-      "start_date": "2022-02-14",
-      "end_date": null
+      "start_date": "February 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Xilinx, Inc.",
+      "ticker": "XLNX",
+      "exchange": "NASDAQ",
+      "website": "https://www.xilinx.com",
+      "title_or_role": "Director",
+      "start_date": "December 2000",
+      "end_date": "February 2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Compensation and Leadership Resources Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

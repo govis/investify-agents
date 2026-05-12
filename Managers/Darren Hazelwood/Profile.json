@@ -11,11 +11,22 @@
     {
       "name": "Stallion Uranium Corp.",
       "ticker": "STUD",
-      "exchange": "TSX",
-      "title_or_role": "Vice President, Corporate Development",
-      "website": "https://stallionuranium.com",
-      "start_date": "2023-01-10",
-      "end_date": null
+      "exchange": "TSX Venture Exchange",
+      "title_or_role": "Director",
+      "website": "https://stallionuranium.com/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Panther Metals PLC",
+      "ticker": "PALM",
+      "exchange": "London Stock Exchange",
+      "website": "https://panthermetals.com/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": null,
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

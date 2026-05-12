@@ -12,10 +12,31 @@
       "name": "Bellevue Gold Limited",
       "ticker": "BGL",
       "exchange": "ASX",
-      "title_or_role": "Non-Executive Independent Director",
-      "website": "https://www.bellevuegold.com.au",
-      "start_date": "2020-05-01",
-      "end_date": null
+      "title_or_role": "Non-Executive Director",
+      "website": "https://www.bellevuegold.com.au/",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Whitehaven Coal Limited",
+      "ticker": "WHC",
+      "exchange": "ASX",
+      "website": "https://whitehavencoal.com.au/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "16 February 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "29Metals Limited",
+      "ticker": "29M",
+      "exchange": "ASX",
+      "website": "https://www.29metals.com/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Audit and Risk Committee (Chair)",
     "Nomination and Remuneration Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

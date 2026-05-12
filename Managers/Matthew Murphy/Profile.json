@@ -16,6 +16,16 @@
       "website": "https://www.marvell.com",
       "start_date": "2016-07-01",
       "end_date": null
+    },
+    {
+      "name": "Maxim Integrated Products, Inc.",
+      "ticker": "MXIM",
+      "exchange": "NASDAQ",
+      "website": "https://www.analog.com",
+      "title_or_role": "Executive Vice President, Business Units, Sales, and Marketing",
+      "start_date": "1994",
+      "end_date": "2016-07-08",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +33,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

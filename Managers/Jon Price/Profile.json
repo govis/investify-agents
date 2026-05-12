@@ -12,10 +12,31 @@
       "name": "Paladin Energy Ltd",
       "ticker": "PDN",
       "exchange": "ASX",
-      "title_or_role": "Chief Operating Officer",
+      "title_or_role": "Non-Executive Director",
       "website": "https://www.paladinenergy.com.au",
-      "start_date": "2021-06-01",
-      "end_date": null
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Richmond Vanadium Technology Limited",
+      "ticker": "RVT",
+      "exchange": "ASX",
+      "website": "https://richmondvanadium.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2022",
+      "end_date": "2023-06-30",
+      "validated": true
+    },
+    {
+      "name": "Horizon Minerals Limited",
+      "ticker": "HRZ",
+      "exchange": "ASX",
+      "website": "https://horizonminerals.com.au",
+      "title_or_role": "Managing Director",
+      "start_date": "2016-01",
+      "end_date": "2023-06-30",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

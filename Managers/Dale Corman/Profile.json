@@ -11,11 +11,42 @@
     {
       "name": "NorthIsle Copper and Gold Inc.",
       "ticker": "NCX",
-      "exchange": "TSX",
-      "title_or_role": "Chairman",
+      "exchange": "TSXV",
+      "title_or_role": "Non-Executive Chairman",
       "website": "https://www.northisle.ca",
-      "start_date": "2011-01-01",
-      "end_date": null
+      "start_date": "2011",
+      "end_date": "2026-04-29",
+      "validated": true
+    },
+    {
+      "name": "Western Copper and Gold Corporation",
+      "ticker": "WRN",
+      "exchange": "TSX / NYSE American",
+      "website": "https://westerncopperandgold.com",
+      "title_or_role": "Founder, Chairman, CEO",
+      "start_date": null,
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Western Silver Corporation",
+      "ticker": "WSC (Delisted)",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Chairman, CEO",
+      "start_date": null,
+      "end_date": "2006",
+      "validated": true
+    },
+    {
+      "name": "Western Copper Corporation",
+      "ticker": "WTC (Delisted)",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Chairman, CEO",
+      "start_date": null,
+      "end_date": "2006",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +58,5 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

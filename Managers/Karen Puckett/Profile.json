@@ -12,10 +12,21 @@
       "name": "Entergy Corporation",
       "ticker": "ETR",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.entergy.com",
-      "start_date": "2015-01-01",
-      "end_date": null
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lumos Networks Corp.",
+      "ticker": "LMOS",
+      "exchange": "NASDAQ",
+      "website": "https://lumosfiber.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2015",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Finance",
     "Personnel"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

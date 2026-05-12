@@ -16,6 +16,16 @@
       "website": "https://www.chevron.com",
       "start_date": "2017-11-01",
       "end_date": null
+    },
+    {
+      "name": "Daily Journal Corporation",
+      "ticker": "DJCO",
+      "exchange": "NASDAQ",
+      "website": "https://ir.dailyjournal.com/",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +36,5 @@
     "Audit Committee",
     "Management Compensation Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

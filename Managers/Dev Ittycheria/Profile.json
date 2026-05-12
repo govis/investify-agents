@@ -13,9 +13,50 @@
       "ticker": "DDOG",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
-      "website": "https://www.datadoghq.com",
-      "start_date": "2014-01-01",
-      "end_date": null
+      "website": "datadoghq.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "MongoDB, Inc.",
+      "ticker": "MDB",
+      "exchange": "NASDAQ",
+      "website": "mongodb.com",
+      "title_or_role": "President, CEO & Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Altimeter Growth Corp.",
+      "ticker": "AGC",
+      "exchange": "NASDAQ",
+      "website": "altimeter.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Bazaarvoice, Inc.",
+      "ticker": "BV",
+      "exchange": "NASDAQ",
+      "website": "bazaarvoice.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "athenahealth, Inc.",
+      "ticker": "ATHN",
+      "exchange": "NASDAQ",
+      "website": "athenahealth.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2014",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +67,5 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

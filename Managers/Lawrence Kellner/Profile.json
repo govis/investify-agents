@@ -16,6 +16,36 @@
       "website": "https://www.exxonmobil.com",
       "start_date": "2023-05-01",
       "end_date": null
+    },
+    {
+      "name": "Continental Airlines, Inc.",
+      "ticker": "CAL",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "2004-12",
+      "end_date": "2009-12",
+      "validated": true
+    },
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "https://www.boeing.com",
+      "title_or_role": "Director (including Chairman of the Board)",
+      "start_date": "2011-10",
+      "end_date": "2024-04",
+      "validated": true
+    },
+    {
+      "name": "Marriott International, Inc.",
+      "ticker": "MAR",
+      "exchange": "NASDAQ",
+      "website": "https://www.marriott.com",
+      "title_or_role": "Director (including Lead Independent Director)",
+      "start_date": "2002",
+      "end_date": "2022-05",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +56,5 @@
     "Audit Committee",
     "Finance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

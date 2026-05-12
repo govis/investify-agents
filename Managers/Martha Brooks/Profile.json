@@ -16,6 +16,46 @@
       "website": "https://www.volvogroup.com",
       "start_date": "2016-04-01",
       "end_date": null
+    },
+    {
+      "name": "Jabil Inc.",
+      "ticker": "JBL",
+      "exchange": "NYSE",
+      "website": "https://www.jabil.com",
+      "title_or_role": "Director",
+      "start_date": "March 2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Harley-Davidson, Inc.",
+      "ticker": "HOG",
+      "exchange": "NYSE",
+      "website": "https://www.harley-davidson.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Constellium SE",
+      "ticker": "CSTM",
+      "exchange": "NYSE",
+      "website": "https://www.constellium.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "June 2016",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Novelis, Inc.",
+      "ticker": "NVL",
+      "exchange": "NYSE",
+      "website": "https://www.novelis.com",
+      "title_or_role": "President and Chief Operating Officer",
+      "start_date": "2005",
+      "end_date": "2007",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +65,5 @@
   "committees": [
     "Remuneration Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,41 @@
       "name": "Capstone Copper Corp.",
       "ticker": "CS",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://capstonecopper.com",
-      "start_date": "2016-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "capstonecopper.com",
+      "start_date": "2016",
+      "end_date": "2024-05-30",
+      "validated": true
+    },
+    {
+      "name": "New Gold Inc.",
+      "ticker": "NGD",
+      "exchange": "TSX",
+      "website": "newgold.com",
+      "title_or_role": "President & CEO",
+      "start_date": "2007",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Yamana Gold Inc.",
+      "ticker": "YRI",
+      "exchange": "TSX",
+      "website": "yamanagold.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Southern Arc Minerals Inc.",
+      "ticker": "SA",
+      "exchange": "TSXV",
+      "website": "southernarcminerals.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Human Resources and Compensation Committee",
     "Technical and Operational Performance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

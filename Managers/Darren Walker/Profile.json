@@ -16,6 +16,26 @@
       "website": "https://www.geaerospace.com",
       "start_date": "2024-04-01",
       "end_date": null
+    },
+    {
+      "name": "Ralph Lauren Corporation",
+      "ticker": "RL",
+      "exchange": "NYSE",
+      "website": "https://www.ralphlauren.com",
+      "title_or_role": "Director",
+      "start_date": "2020-07",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "PepsiCo, Inc.",
+      "ticker": "PEP",
+      "exchange": "NYSE",
+      "website": "https://www.pepsico.com",
+      "title_or_role": "Director",
+      "start_date": "2016-10",
+      "end_date": "2025-11-19",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
   "committees": [
     "Governance and Public Affairs Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

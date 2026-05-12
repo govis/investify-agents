@@ -16,6 +16,26 @@
       "website": "https://lotusresources.com.au/",
       "start_date": "2021-02-22",
       "end_date": null
+    },
+    {
+      "name": "Peninsula Energy Limited",
+      "ticker": "PEN",
+      "exchange": "ASX",
+      "website": "https://www.pel.net.au/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2016",
+      "end_date": "29 July 2025",
+      "validated": true
+    },
+    {
+      "name": "Prospect Resources Limited",
+      "ticker": "PSC",
+      "exchange": "ASX",
+      "website": "https://prospectresources.com.au/",
+      "title_or_role": "Chairman",
+      "start_date": "13 January 2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +46,5 @@
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

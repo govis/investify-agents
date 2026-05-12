@@ -12,10 +12,21 @@
       "name": "Regis Resources Limited",
       "ticker": "RRL",
       "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
-      "website": "https://regisresources.com.au",
-      "start_date": "2022-03-01",
-      "end_date": null
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://regisresources.com.au/",
+      "start_date": "2020-02",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sipa Resources Limited",
+      "ticker": "SRI",
+      "exchange": "ASX",
+      "website": "https://sipa.com.au/",
+      "title_or_role": "Managing Director",
+      "start_date": "2015-01",
+      "end_date": "2020-01-30",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +37,5 @@
     "Audit Committee",
     "Remuneration and Nomination Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

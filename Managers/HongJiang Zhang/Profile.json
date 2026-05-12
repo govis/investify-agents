@@ -13,9 +13,30 @@
       "ticker": "XPEV",
       "exchange": "NYSE",
       "title_or_role": "Independent Non-executive Director",
-      "website": "https://www.xiaopeng.com",
-      "start_date": "2021-07-01",
-      "end_date": null
+      "website": "https://ir.xiaopeng.com/",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "AAC Technologies Holdings Inc.",
+      "ticker": "2018",
+      "exchange": "HKEX",
+      "website": "https://www.aactechnologies.com/",
+      "title_or_role": "Independent Chairman of the Board",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kingsoft Corporation Limited",
+      "ticker": "3888",
+      "exchange": "HKEX",
+      "website": "https://www.kingsoft.com/",
+      "title_or_role": "CEO and Executive Director",
+      "start_date": "2011",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +47,5 @@
     "Audit Committee",
     "Nomination and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

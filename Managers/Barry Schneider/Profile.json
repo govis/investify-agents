@@ -13,9 +13,10 @@
       "ticker": "STLD",
       "exchange": "NASDAQ",
       "title_or_role": "President and Chief Operating Officer",
-      "website": "https://www.steeldynamics.com",
-      "start_date": "2023-03",
-      "end_date": null
+      "website": "https://www.steeldynamics.com/",
+      "start_date": "February 2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +24,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

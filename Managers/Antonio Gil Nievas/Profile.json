@@ -16,6 +16,26 @@
       "website": "https://www.sqm.com",
       "start_date": "2023-04-26",
       "end_date": null
+    },
+    {
+      "name": "LATAM Airlines Group S.A.",
+      "ticker": "LTM",
+      "exchange": "NYSE",
+      "website": "https://www.latamairlinesgroup.net",
+      "title_or_role": "Director and Chair of Finance Committee",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sociedad Qu\u00edmica y Minera de Chile S.A. (SQM)",
+      "ticker": "SQM",
+      "exchange": "NYSE",
+      "website": "https://www.sqm.com",
+      "title_or_role": "Independent Director and Member of the Directors\u2019 Committee",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +45,5 @@
   "committees": [
     "Directors' Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

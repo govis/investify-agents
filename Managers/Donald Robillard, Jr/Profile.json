@@ -14,8 +14,9 @@
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
       "website": "https://www.cheniere.com",
-      "start_date": "2014-12-15",
-      "end_date": null
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +27,5 @@
     "Audit Committee",
     "Sustainability and Corporate Responsibility Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,11 @@
       "name": "Global Atomic Corporation",
       "ticker": "GLO",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://globalatomiccorp.com",
-      "start_date": "2017-12-22",
-      "end_date": null
+      "title_or_role": "Non-Executive Director",
+      "website": "https://www.globalatomiccorp.com",
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +28,5 @@
     "Corporate Governance and Nominating Committee",
     "Technical Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

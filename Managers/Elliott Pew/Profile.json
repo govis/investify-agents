@@ -11,11 +11,42 @@
     {
       "name": "Franco-Nevada Corporation",
       "ticker": "FNV",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "exchange": "TSX",
+      "title_or_role": "Director",
       "website": "https://www.franco-nevada.com",
-      "start_date": "2019-05-01",
-      "end_date": null
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Enerplus Corporation",
+      "ticker": "ERF",
+      "exchange": "TSX",
+      "website": "https://www.enerplus.com",
+      "title_or_role": "Chairman",
+      "start_date": "2010",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Southwestern Energy Company",
+      "ticker": "SWN",
+      "exchange": "NYSE",
+      "website": "https://www.swn.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2012",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Enerplus Resources Fund",
+      "ticker": "ERF.UN",
+      "exchange": "TSX",
+      "website": "https://www.enerplus.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2011",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +57,5 @@
     "Audit Committee",
     "ESG Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

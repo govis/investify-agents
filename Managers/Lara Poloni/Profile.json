@@ -12,10 +12,11 @@
       "name": "AECOM",
       "ticker": "ACM",
       "exchange": "NYSE",
-      "title_or_role": "President",
+      "title_or_role": "Chief Executive, Europe, Middle East and Africa (EMEA)",
       "website": "https://aecom.com",
-      "start_date": "2020-10-01",
-      "end_date": null
+      "start_date": "October 2017",
+      "end_date": "August 2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -28,6 +29,5 @@
     }
   ],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

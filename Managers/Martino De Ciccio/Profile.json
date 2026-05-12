@@ -16,6 +16,36 @@
       "website": "https://www.northisle.ca",
       "start_date": "2021-05-01",
       "end_date": null
+    },
+    {
+      "name": "Montage Gold Corp.",
+      "ticker": "MAU",
+      "exchange": "TSXV",
+      "website": "https://www.montagegoldcorp.com/",
+      "title_or_role": "Chief Executive Officer & Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bluestone Resources Inc.",
+      "ticker": "BSR",
+      "exchange": "TSXV",
+      "website": "https://www.bluestoneresources.ca/",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "TSX",
+      "website": "https://www.endeavourmining.com/",
+      "title_or_role": "Vice President, Strategy and Investor Relations",
+      "start_date": null,
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +57,5 @@
     "Audit Committee",
     "Governance and Nominating Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

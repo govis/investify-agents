@@ -12,8 +12,11 @@ from data_utils import get_manager_data
 load_dotenv(find_dotenv(), override=True)
 
 # Configuration
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.0-flash")
-SEARCH_GROUNDING_MODEL = os.getenv("GEMINI_MODEL_SEARCH_GROUNDING", "gemini-2.0-flash")
+GEMINI_MODEL = os.getenv("GEMINI_MODEL")
+SEARCH_GROUNDING_MODEL = os.getenv("GEMINI_MODEL_SEARCH_GROUNDING") or GEMINI_MODEL
+
+if not GEMINI_MODEL:
+    raise ValueError("GEMINI_MODEL environment variable is not set in .env")
 
 class SocialProfileCandidate(BaseModel):
     name: str = Field(description="The name of the social platform, e.g., LinkedIn")
@@ -63,7 +66,7 @@ class Supervisor:
     def __init__(self, pipeline: 'ManagerEnrichmentPipelineV2'):
         self.pipeline = pipeline
 
-    async def orchestrate(self, profile_path: str):
+    async def orchestrate(self, profile_path: str, get_picture: str = "no"):
         print(f"Supervisor: Starting enrichment for {os.path.basename(profile_path)}")
         manager = get_manager_data(profile_path)
         manager_dir = os.path.dirname(profile_path)
@@ -128,29 +131,28 @@ class Supervisor:
         final_pic_url = None
         
         # Try Profile Image first (Agent 3 results)
-        if picture_url_li_profile:
+        if picture_url_li_profile and get_picture == "yes":
             print(f"Supervisor: Attempting to download profile image: {picture_url_li_profile[:60]}...")
             if tools.download_image(picture_url_li_profile, manager_dir):
                 print("Supervisor: Successfully downloaded profile image.")
                 final_pic_url = picture_url_li_profile
         
-        # Always run Agent 4a (LinkedIn Image Search)
+        # Always run Agent 4a (LinkedIn Image Search) to capture URL, but only download if get_picture is yes
         if best_verification and best_verification.person_name and best_verification.company_name:
             print(f"Supervisor: Executing LinkedIn Image Search (4a) for {best_verification.person_name} {best_verification.company_name}...")
             res = await self.pipeline.agents['img_li'].search(best_verification.person_name, best_verification.company_name)
             if res and res.image_url:
                 picture_url_li_search = res.image_url # Capture new search URL
                 
-                # Only try to download if we haven't succeeded with profile image yet
-                if not final_pic_url:
+                # Only try to download if we haven't succeeded with profile image yet and get_picture is yes
+                if not final_pic_url and get_picture == "yes":
                     print(f"Supervisor: Attempting to download search image: {picture_url_li_search[:60]}...")
                     if tools.download_image(picture_url_li_search, manager_dir):
                         print("Supervisor: Successfully downloaded search image.")
                         final_pic_url = picture_url_li_search
 
-        # If still no image, proceed to alternative agents (4b, 4c)
-        # These ONLY update final_pic_url for potential_picture_url, they NEVER touch li_profile or li_search fields
-        if not final_pic_url:
+        # If still no image, proceed to alternative agents (4b, 4c) ONLY if get_picture is yes
+        if not final_pic_url and get_picture == "yes":
             print("Supervisor: No LinkedIn pictures validated. Trying IR agents...")
             # 4b. IR Website Search
             print("Supervisor: Trying IR Website Search (4b)...")
@@ -168,6 +170,8 @@ class Supervisor:
                     print(f"Supervisor: Attempting to download broad search image: {res.image_url[:60]}...")
                     if tools.download_image(res.image_url, manager_dir):
                         final_pic_url = res.image_url
+        elif not final_pic_url and get_picture != "yes":
+            print(f"Supervisor: Skipping subsequent image download/search steps (get_picture={get_picture})")
 
         # Finalize
         social_entry = {
@@ -181,44 +185,69 @@ class Supervisor:
         }
         await self.finalize(profile_path, "success", [social_entry])
 
-    async def finalize(self, profile_path: str, status: str, socials: List[Dict] = None):
+    async def finalize(self, profile_path: str, status: str, new_socials: List[Dict] = None):
         with open(profile_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
-        data["enrichment_status"] = status
-        if socials:
-            data["socials"] = socials
+        
+        data["enrichment_socials"] = status
+        
+        if new_socials:
+            existing_socials = data.get("socials", [])
+            # Update or Add
+            for ns in new_socials:
+                found = False
+                for i, es in enumerate(existing_socials):
+                    if es.get('name') == ns.get('name'):
+                        existing_socials[i] = ns
+                        found = True
+                        break
+                if not found:
+                    existing_socials.append(ns)
+            data["socials"] = existing_socials
+            
         with open(profile_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2)
         print(f"Supervisor: Finished with status {status}")
 
 class LinkedInSearchAgent(Agent):
-    async def search(self, manager: Dict[str, Any]) -> List[SocialProfileCandidate]:
-        affiliations_str = ', '.join([f"{c['name']} ({c['name_clean']})" for c in manager['companies']])
-        roles_str = ', '.join([c['title_or_role'] for c in manager['companies']])
+    async def search(self, manager: Dict[str, Any]) -> SearchAgentResult:
+        affiliations = manager.get('company_affiliations', [])
+        affiliations_str = ', '.join([f"{c['name']} ({c['name_clean']})" for c in affiliations])
+        roles_str = ', '.join([c['title_or_role'] for c in affiliations])
+        
+        # Include background summary for better context (e.g. CEO of Calico)
+        background = manager.get('background', '')
+        
         prompt = (
             f"Manager: {manager['name']}\n"
+            f"Background: {background}\n"
             f"Affiliations: {affiliations_str}\n"
             f"Roles: {roles_str}\n\n"
-            "Task: Find the official LinkedIn profile for this individual.\n"
+            "Task: Find the official personal LinkedIn profile for this individual.\n"
             "Search for their name along with their current company and role.\n"
-            "Be aware that some roles might be recent (2023-2024). Look for news or press releases if the LinkedIn profile doesn't immediately show the role in the snippet."
+            "Be aware that some roles might be recent or from their background (e.g. Calico CEO).\n"
+            "Return only candidates that look like personal profiles (/in/ or /pub/)."
         )
-        res = await self.call(prompt, SearchAgentResult, use_search=True)
-        return res.candidates
+        return await self.call(prompt, SearchAgentResult, use_search=True)
 
 class LinkedInVerifierAgent(Agent):
     async def verify(self, manager: Dict[str, Any], url: str) -> VerificationResult:
-        affiliations = [f"{c['name']} / {c['name_clean']}" for c in manager['companies']]
+        affiliations = [f"{c['name']} / {c['name_clean']}" for c in manager.get('company_affiliations', [])]
+        background = manager.get('background', '')
+        
         prompt = (
             f"Verify if this LinkedIn profile: {url}\n"
             f"Matches Manager: {manager['name']}\n"
-            f"Target Affiliations (Internal Data): {', '.join(affiliations)}\n"
-            f"Target Roles (Internal Data): {', '.join([c['title_or_role'] for c in manager['companies']])}\n\n"
-            "If verified, capture:\n"
-            "1. 'person_name': Name exactly as it appears on LinkedIn.\n"
-            "2. 'company_name': The EXACT string used for the company name on the LinkedIn profile for the role that matches our target. DO NOT use the 'Target Affiliations' string; capture the name directly from the profile content (e.g., if we have 'Generac Holdings Inc.' but the profile says 'Generac Power Systems', you MUST return 'Generac Power Systems').\n"
-            "3. 'potential_picture_url': Thoroughly search for the profile picture URL (media.licdn.com/dms/image/v2/ pattern).\n\n"
-            "CRITICAL: Precision on the 'company_name' from the LinkedIn profile is essential for subsequent search steps."
+            f"Background Bio: {background}\n"
+            f"Target Affiliations: {', '.join(affiliations)}\n"
+            f"Target Roles: {', '.join([c['title_or_role'] for c in manager.get('company_affiliations', [])])}\n\n"
+            "CRITICAL RULES:\n"
+            "1. REJECT if the URL is for a company (e.g., linkedin.com/company/...) or a school (e.g., linkedin.com/school/...). We only want PERSONAL profiles.\n"
+            "2. PRIORITIZE affiliations mentioned in the Background Bio (e.g., CEO of Calico).\n"
+            "3. If verified, capture:\n"
+            "   - 'person_name': Name on the profile.\n"
+            "   - 'company_name': The EXACT string used for the matching company on the profile.\n"
+            "   - 'potential_picture_url': Profile picture URL (media.licdn.com pattern)."
         )
         return await self.call(prompt, VerificationResult, use_search=True)
 
@@ -237,13 +266,14 @@ class ImageSearchAgent4a(Agent):
 
 class ImageSearchAgent4b(Agent):
     async def search(self, manager: Dict[str, Any]) -> ImageSearchResult:
-        sites = [c['website'] for c in manager['companies'] if c.get('website')]
+        affiliations = manager.get('company_affiliations', [])
+        sites = [c['website'] for c in affiliations if c.get('website')]
         prompt = f"Find manager {manager['name']} picture on Investor Relations pages of: {', '.join(sites)}"
         return await self.call(prompt, ImageSearchResult, use_search=True)
 
 class ImageSearchAgent4c(Agent):
     async def search(self, manager: Dict[str, Any]) -> ImageSearchResult:
-        affiliations = [c['name'] for c in manager['companies']]
+        affiliations = [c['name'] for c in manager.get('company_affiliations', [])]
         prompt = f"Broad search for professional picture of {manager['name']} at {', '.join(affiliations)} on IR websites."
         return await self.call(prompt, ImageSearchResult, use_search=True)
 
@@ -260,9 +290,9 @@ class ManagerEnrichmentPipelineV2:
         }
         self.supervisor = Supervisor(self)
 
-    async def run(self, profile_path: str):
+    async def run(self, profile_path: str, get_picture: str = "no"):
         try:
-            await self.supervisor.orchestrate(profile_path)
+            await self.supervisor.orchestrate(profile_path, get_picture=get_picture)
             return {"success": True}
         except Exception as e:
             print(f"Pipeline Error: {e}")

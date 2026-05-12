@@ -12,10 +12,21 @@
       "name": "Caterpillar Inc.",
       "ticker": "CAT",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member of the Board of Directors",
       "website": "https://www.caterpillar.com",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Waste Management, Inc.",
+      "ticker": "WM",
+      "exchange": "NYSE",
+      "website": "https://www.wm.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2012",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +36,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

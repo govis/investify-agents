@@ -12,10 +12,21 @@
       "name": "Clean Air Metals Inc.",
       "ticker": "AIR",
       "exchange": "TSXV",
-      "title_or_role": "Independent Director",
-      "website": "https://cleanairmetals.ca",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.cleanairmetals.ca",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gossan Resources Ltd.",
+      "ticker": "GSS",
+      "exchange": "TSXV",
+      "website": "https://gossan.ca",
+      "title_or_role": "Chairman / Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +38,5 @@
     "Audit Committee",
     "Governance and Nominating Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

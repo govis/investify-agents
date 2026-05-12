@@ -12,10 +12,51 @@
       "name": "United Rentals, Inc.",
       "ticker": "URI",
       "exchange": "NYSE",
-      "title_or_role": "Chairman of the Board, Director",
+      "title_or_role": "Board of Directors",
       "website": "https://www.unitedrentals.com",
-      "start_date": "2022-05-01",
-      "end_date": null
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CSW Industrials, Inc.",
+      "ticker": "CSWI",
+      "exchange": "NASDAQ",
+      "website": "https://cswindustrials.com",
+      "title_or_role": "Board of Directors",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rockwell Automation, Inc.",
+      "ticker": "ROK",
+      "exchange": "NYSE",
+      "website": "https://www.rockwellautomation.com",
+      "title_or_role": "Chief Diversity, Equity & Inclusion Officer",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CBRE Group, Inc.",
+      "ticker": "CBRE",
+      "exchange": "NYSE",
+      "website": "https://www.cbre.com",
+      "title_or_role": "Vice President, Diversity and Inclusion",
+      "start_date": "2017",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Flowserve Corporation",
+      "ticker": "FLS",
+      "exchange": "NYSE",
+      "website": "https://www.flowserve.com",
+      "title_or_role": "Global Director of Diversity and Inclusion",
+      "start_date": null,
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +67,5 @@
     "Audit Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

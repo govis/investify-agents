@@ -12,10 +12,21 @@
       "name": "JPMorgan Chase & Co.",
       "ticker": "JPM",
       "exchange": "NYSE",
-      "title_or_role": "President and Chief Operating Officer",
+      "title_or_role": "President and Chief Operating Officer (formerly Vice Chairman)",
       "website": "https://www.jpmorganchase.com",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "start_date": "1983",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Johnson & Johnson",
+      "ticker": "JNJ",
+      "exchange": "NYSE",
+      "website": "https://www.jnj.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "July 1, 2025",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +35,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

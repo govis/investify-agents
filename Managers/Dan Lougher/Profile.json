@@ -14,8 +14,49 @@
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
       "website": "https://perseusmining.com/",
-      "start_date": "2022-05-01",
-      "end_date": null
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Alligator Energy Limited",
+      "ticker": "AGE",
+      "exchange": "ASX",
+      "website": "https://www.alligatorenergy.com.au/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2025-12-15",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "American West Metals Limited",
+      "ticker": "AW1",
+      "exchange": "ASX",
+      "website": "https://www.aw1metals.com/",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2022-11-09",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "St Barbara Limited",
+      "ticker": "SBM",
+      "exchange": "ASX",
+      "website": "https://stbarbara.com.au/",
+      "title_or_role": "Managing Director / CEO",
+      "start_date": "2022",
+      "end_date": "2023-06-30",
+      "validated": true
+    },
+    {
+      "name": "Western Areas Limited",
+      "ticker": "WSA",
+      "exchange": "ASX",
+      "website": "https://www.westernareas.com.au/",
+      "title_or_role": "Managing Director / CEO",
+      "start_date": "2012",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,6 +67,5 @@
     "Audit and Risk Committee",
     "Technical Committee (Chair)"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

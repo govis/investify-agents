@@ -13,9 +13,30 @@
       "ticker": "ISO",
       "exchange": "TSXV",
       "title_or_role": "Chief Financial Officer",
-      "website": "https://www.isoenergy.ca",
-      "start_date": "2023-12-05",
-      "end_date": null
+      "website": "www.isoenergy.ca",
+      "start_date": "March 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Harte Gold Corp.",
+      "ticker": "HRT",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "March 2, 2020",
+      "end_date": "February 2022",
+      "validated": true
+    },
+    {
+      "name": "Uranium One Inc.",
+      "ticker": "UUU",
+      "exchange": "TSX",
+      "website": "www.uranium1.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": null,
+      "end_date": "April 2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +44,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

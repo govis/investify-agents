@@ -11,11 +11,42 @@
     {
       "name": "Wheaton Precious Metals Corp.",
       "ticker": "WPM",
-      "exchange": "NYSE",
-      "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "exchange": "TSX / NYSE",
+      "title_or_role": "Chief Financial Officer",
       "website": "https://www.wheatonpm.com",
-      "start_date": "2008-06-01",
-      "end_date": null
+      "start_date": "2008",
+      "end_date": "2025-03-31",
+      "validated": true
+    },
+    {
+      "name": "Atlas Energy Corp.",
+      "ticker": "ATLE",
+      "exchange": "TSXV",
+      "website": "https://atlasenergycorp.ca",
+      "title_or_role": "Director",
+      "start_date": "2025-05-31",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Global Battery Metals Ltd.",
+      "ticker": "GBML",
+      "exchange": "TSXV",
+      "website": "https://gbml.ca",
+      "title_or_role": "Director",
+      "start_date": "2011-08-29",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Willow Biosciences Inc.",
+      "ticker": "WLLW",
+      "exchange": "TSX",
+      "website": "https://willowbio.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": "2025",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +54,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

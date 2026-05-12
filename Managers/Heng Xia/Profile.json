@@ -10,12 +10,13 @@
   "company_affiliations": [
     {
       "name": "XPeng Inc.",
-      "ticker": "XPEV",
-      "exchange": "NYSE",
-      "title_or_role": "Executive Director",
-      "website": "https://www.xiaopeng.com",
-      "start_date": "2015-01-01",
-      "end_date": null
+      "ticker": "XPEV / 9868",
+      "exchange": "NYSE / HKEX",
+      "title_or_role": "Co-founder, President, and Director",
+      "website": "https://www.xiaopeng.com/",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +24,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

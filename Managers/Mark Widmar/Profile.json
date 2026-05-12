@@ -12,10 +12,21 @@
       "name": "First Solar, Inc.",
       "ticker": "FSLR",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Executive Officer, Director",
+      "title_or_role": "Chief Accounting Officer",
       "website": "https://www.firstsolar.com",
-      "start_date": "2016-07-01",
-      "end_date": null
+      "start_date": "February 2012",
+      "end_date": "June 2015",
+      "validated": true
+    },
+    {
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "exchange": "NYSE",
+      "website": "https://www.albemarle.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "February 2026",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,6 +35,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

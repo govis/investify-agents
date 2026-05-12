@@ -16,6 +16,46 @@
       "website": "https://www.sqm.com",
       "start_date": "2017-04-26",
       "end_date": null
+    },
+    {
+      "name": "Sociedad Qu\u00edmica y Minera de Chile S.A. (SQM)",
+      "ticker": "SQM",
+      "exchange": "NYSE",
+      "website": "https://www.sqm.com",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Compa\u00f1\u00eda Sud Americana de Vapores S.A. (CSAV)",
+      "ticker": "VAPORES",
+      "exchange": "SNSE",
+      "website": "https://www.csav.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "S.A.C.I. Falabella",
+      "ticker": "FALABELLA",
+      "exchange": "SNSE",
+      "website": "https://www.falabella.com",
+      "title_or_role": "Director",
+      "start_date": "1996",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Banco de Chile",
+      "ticker": "CHILE",
+      "exchange": "SNSE",
+      "website": "https://www.bancochile.cl",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +65,5 @@
   "committees": [
     "Directors' Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

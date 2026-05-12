@@ -12,10 +12,21 @@
       "name": "United Rentals, Inc.",
       "ticker": "URI",
       "exchange": "NYSE",
-      "title_or_role": "Executive Vice President, Chief Administrative and Legal Officer",
+      "title_or_role": "Executive Vice President and Chief Administrative Officer",
       "website": "https://www.unitedrentals.com",
-      "start_date": "2017-03-01",
-      "end_date": null
+      "start_date": "2003",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Crompton Corporation",
+      "ticker": "CK",
+      "exchange": "NYSE",
+      "website": "https://www.cromptoncorp.com",
+      "title_or_role": "Chief Benefits and Employment Counsel",
+      "start_date": "Prior to 2003",
+      "end_date": "2003",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

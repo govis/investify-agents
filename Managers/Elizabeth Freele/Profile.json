@@ -10,12 +10,13 @@
   "company_affiliations": [
     {
       "name": "Denison Mines Corp.",
-      "ticker": "DNN",
-      "exchange": "NYSE",
-      "title_or_role": "Vice President, Sustainability and Chief ESG Officer",
-      "website": "https://denisonmines.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "ticker": "DML",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://www.denisonmines.com",
+      "start_date": "2021-05",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Denison Mines Corp.",
@@ -33,6 +34,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

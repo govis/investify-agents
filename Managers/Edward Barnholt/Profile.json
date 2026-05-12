@@ -16,6 +16,46 @@
       "website": "https://www.kla.com",
       "start_date": "1995-01-01",
       "end_date": null
+    },
+    {
+      "name": "Agilent Technologies, Inc.",
+      "ticker": "A",
+      "exchange": "NYSE",
+      "website": "agilent.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2002",
+      "end_date": "2005",
+      "validated": true
+    },
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "website": "adobe.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2005",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "eBay Inc.",
+      "ticker": "EBAY",
+      "exchange": "NASDAQ",
+      "website": "ebay.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2005",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Hewlett-Packard Company",
+      "ticker": "HPQ",
+      "exchange": "NYSE",
+      "website": "hp.com",
+      "title_or_role": "Executive Vice President",
+      "start_date": "1996",
+      "end_date": "1999",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +65,5 @@
   "committees": [
     "Nominating and Governance Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

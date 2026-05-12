@@ -16,6 +16,16 @@
       "website": "https://lynasrareearths.com",
       "start_date": "2023-11-30",
       "end_date": null
+    },
+    {
+      "name": "Spotless Group Holdings Limited",
+      "ticker": "SPO",
+      "exchange": "ASX",
+      "website": "https://www.spotless.com.au/",
+      "title_or_role": "Chairman and Non-Executive Director",
+      "start_date": "2017-01-01",
+      "end_date": "2021-01-31",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,6 +37,5 @@
     "Nomination and Governance Committee (Chair)",
     "Remuneration Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

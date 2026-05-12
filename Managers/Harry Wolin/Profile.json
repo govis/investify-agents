@@ -16,6 +16,16 @@
       "website": "https://www.amd.com",
       "start_date": "2003-01-01",
       "end_date": null
+    },
+    {
+      "name": "Motorola, Inc. (now Motorola Solutions, Inc.)",
+      "ticker": "MSI",
+      "exchange": "NYSE",
+      "website": "https://www.motorolasolutions.com",
+      "title_or_role": "Vice President and Director of Legal Affairs, Semiconductor Products Sector",
+      "start_date": "1988",
+      "end_date": "2000",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,6 +33,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,36 @@
       "website": "https://www.sunrun.com",
       "start_date": "2022-01-01",
       "end_date": null
+    },
+    {
+      "name": "SunPower Corporation",
+      "ticker": "SPWR",
+      "exchange": "NASDAQ",
+      "website": "sunpower.maxeon.com",
+      "title_or_role": "EVP & Chief Financial Officer",
+      "start_date": "May 2018",
+      "end_date": "September 2022",
+      "validated": true
+    },
+    {
+      "name": "Fluence Energy, Inc.",
+      "ticker": "FLNC",
+      "exchange": "NASDAQ",
+      "website": "fluenceenergy.com",
+      "title_or_role": "SVP & Chief Financial Officer",
+      "start_date": "September 2022",
+      "end_date": "December 2023",
+      "validated": true
+    },
+    {
+      "name": "Tenneco Inc.",
+      "ticker": "TEN",
+      "exchange": "NYSE",
+      "website": "tenneco.com",
+      "title_or_role": "EVP & Chief Financial Officer",
+      "start_date": "January 2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +55,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

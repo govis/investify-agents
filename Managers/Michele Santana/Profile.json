@@ -14,8 +14,19 @@
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
       "website": "https://www.transdigm.com",
-      "start_date": "2018-10-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Signet Jewelers Limited",
+      "ticker": "SIG",
+      "exchange": "NYSE",
+      "website": "https://www.signetjewelers.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2014",
+      "end_date": "April 2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +36,5 @@
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

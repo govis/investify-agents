@@ -13,9 +13,30 @@
       "ticker": "DEG",
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
-      "website": "https://degreymining.com.au",
-      "start_date": "2023-01-09",
-      "end_date": null
+      "website": "https://degreymining.com.au/",
+      "start_date": "January 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Minerals 260 Limited",
+      "ticker": "MI6",
+      "exchange": "ASX",
+      "website": "https://minerals260.com.au/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "October 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Santana Minerals Limited",
+      "ticker": "SMI",
+      "exchange": "ASX",
+      "website": "https://santanaminerals.com/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "May 2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,6 +46,5 @@
   "committees": [
     "Audit and Risk Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

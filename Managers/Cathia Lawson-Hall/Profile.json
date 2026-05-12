@@ -25,6 +25,36 @@
       "website": "https://www.endeavourmining.com",
       "start_date": "2022-09-29",
       "end_date": null
+    },
+    {
+      "name": "Vivendi SE",
+      "ticker": "VIV",
+      "exchange": "Euronext Paris",
+      "website": "https://www.vivendi.com",
+      "title_or_role": "Member of the Supervisory Board",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Universal Music Group N.V.",
+      "ticker": "UMG",
+      "exchange": "Euronext Amsterdam",
+      "website": "https://www.universalmusic.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Eurazeo SE",
+      "ticker": "RF",
+      "exchange": "Euronext Paris",
+      "website": "https://www.eurazeo.com",
+      "title_or_role": "Member of the Supervisory Board",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -35,6 +65,5 @@
     "Audit Committee",
     "ESG Committee"
   ],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }

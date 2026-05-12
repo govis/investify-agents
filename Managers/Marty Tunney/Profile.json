@@ -11,11 +11,12 @@
     {
       "name": "IsoEnergy Ltd.",
       "ticker": "ISO",
-      "exchange": "TSX",
+      "exchange": "TSXV",
       "title_or_role": "Chief Operating Officer",
-      "website": "https://www.isoenergy.ca",
-      "start_date": "2023-12-05",
-      "end_date": null
+      "website": "https://isoenergy.ca/",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "IsoEnergy Ltd.",
@@ -25,6 +26,36 @@
       "website": "https://www.isoenergy.ca",
       "start_date": "2023-12-05",
       "end_date": null
+    },
+    {
+      "name": "Green Shift Commodities Ltd.",
+      "ticker": "GCOM",
+      "exchange": "TSXV",
+      "website": "https://www.greenshiftcommodities.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Premier American Uranium Inc.",
+      "ticker": "PUR",
+      "exchange": "TSXV",
+      "website": "https://www.premieruranium.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Consolidated Uranium Inc.",
+      "ticker": "CUR",
+      "exchange": "TSXV",
+      "website": "https://consolidateduranium.com/",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -32,6 +63,5 @@
   ],
   "socials": [],
   "committees": [],
-  "enrichment_status": "pending",
-  "enrichment_step": null
+  "enrichment_company_affiliations": "success"
 }
