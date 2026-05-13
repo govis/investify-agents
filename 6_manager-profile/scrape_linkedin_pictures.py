@@ -53,22 +53,33 @@ def process_profile(page, profile_path):
         socials = profile.get('socials', [])
         
         # Collect all LinkedIn URLs
-        linkedin_urls = [s['url'] for s in socials if 'linkedin.com' in s['url'].lower()]
+        linkedin_urls = []
+        for s in socials:
+            if 'linkedin.com' in s.get('url', '').lower():
+                # Skip if status is not_found or private as per upstream check
+                if s.get('profile_status') in ['not_found', 'private']:
+                    print(f"  -> Skipping LinkedIn URL {s['url']} (status: {s['profile_status']})")
+                    continue
+                linkedin_urls.append(s['url'])
         
         if not linkedin_urls:
-            print(f"  -> No LinkedIn URL for {full_name}. Skipping.")
+            print(f"  -> No eligible LinkedIn URL for {full_name}. Skipping.")
             return
 
-        blocklist = tools.get_blocklist()
+        blacklist = tools.get_blacklist()
         
         found_image = False
         for linkedin_url in linkedin_urls:
-            if linkedin_url.lower().rstrip('/') in blocklist:
-                print(f"  -> LinkedIn URL {linkedin_url} is in blocklist. Skipping.")
+            if linkedin_url.lower().rstrip('/') in blacklist:
+                print(f"  -> LinkedIn URL {linkedin_url} is in blacklist. Skipping.")
                 continue
 
             # Increment download attempt count
             profile['picture_download_count'] = profile.get('picture_download_count', 0) + 1
+            for s in profile.get('socials', []):
+                if s.get('url') == linkedin_url:
+                    s['picture_download_count'] = s.get('picture_download_count', 0) + 1
+                    break
 
             print(f"  -> Navigating to {linkedin_url}...")
             username = linkedin_url.rstrip('/').split('/')[-1]
@@ -165,10 +176,12 @@ def process_profile(page, profile_path):
                 if local_filename:
                     profile['picture_local'] = local_filename
                     profile['picture_url'] = img_src
-                    # Remove download count on success from top level and nested socials
-                    profile.pop('picture_download_count', None)
+                    # Reset download count on success for top level and matching social
+                    profile['picture_download_count'] = 0
                     for s in profile.get('socials', []):
-                        s.pop('picture_download_count', None)
+                        if s.get('url') == linkedin_url:
+                            s['picture_download_count'] = 0
+                            break
                     
                     print(f"  -> Successfully updated picture metadata from {linkedin_url}.")
                     found_image = True

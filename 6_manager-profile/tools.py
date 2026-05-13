@@ -9,19 +9,70 @@ import html
 def sanitize_folder_name(name: str) -> str:
     return re.sub(r'[<>:"/\\|?*]', '', name).strip()
 
-def get_blocklist() -> Dict[str, str]:
+def get_blacklist() -> Dict[str, str]:
     """
-    Loads a dictionary of URLs to ignore from blocklist.json {url: name}.
+    Loads a dictionary of URLs to ignore from blacklist_linkedin_urls.json {url: name}.
     """
-    blocklist_path = os.path.join(os.path.dirname(__file__), "blocklist.json")
-    if os.path.exists(blocklist_path):
+    path = os.path.join(os.path.dirname(__file__), "blacklist_linkedin_urls.json")
+    if os.path.exists(path):
         try:
-            with open(blocklist_path, 'r', encoding='utf-8') as f:
+            with open(path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
                 return {url.strip().lower(): name for url, name in data.items()}
         except Exception as e:
-            print(f"Error loading blocklist.json: {e}")
+            print(f"Error loading blacklist_linkedin_urls.json: {e}")
     return {}
+
+def get_known_urls() -> Dict[str, str]:
+    """
+    Loads a dictionary of manager names to known LinkedIn URLs from known_linkedin_urls.json.
+    """
+    path = os.path.join(os.path.dirname(__file__), "known_linkedin_urls.json")
+    if os.path.exists(path):
+        try:
+            with open(path, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"Error loading known_linkedin_urls.json: {e}")
+    return {}
+
+def check_url_status(url: str) -> str:
+    """
+    Checks if a URL is valid, 404, or behind an auth wall (private).
+    Returns 'success', 'not_found', or 'private'.
+    """
+    try:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Accept-Language": "en-US,en;q=0.9",
+        }
+        # Use allow_redirects=True to follow login redirects
+        response = requests.get(url, headers=headers, timeout=15, allow_redirects=True)
+        
+        if response.status_code == 404:
+            return 'not_found'
+            
+        # Check for Auth Wall or Login Redirect
+        current_url = response.url.lower()
+        is_auth_wall = any(x in current_url for x in ['linkedin.com/authwall', 'linkedin.com/login', 'checkpoint/lg/login'])
+        
+        if is_auth_wall:
+            return 'private'
+            
+        # Check content for "Sign in" or "join" strings often seen on public-facing but restricted profiles
+        content_lower = response.text.lower()
+        if 'sign in to linkedin' in content_lower or 'join linkedin' in content_lower:
+             # This is a bit fuzzy with requests, but often true for blocked scrapers or restricted profiles
+             # LinkedIn also uses 999 status code for blocks
+             pass
+
+        if response.status_code == 999:
+            return 'private'
+
+        return 'success'
+    except Exception as e:
+        print(f"Error checking URL status for {url}: {e}")
+        return 'not_found' # Treat errors as not found for safety
 
 def download_image(url: str, manager_dir: str) -> Optional[str]:
     """

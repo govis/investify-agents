@@ -32,6 +32,9 @@ This workflow builds and enriches detailed profiles for company officers and dir
     - If `--get_picture yes`: Attempts sequential download and validation of all found images.
     - If `--search_picture_li no`: Skips specialized LinkedIn Image Search (2a).
     - If `--search_picture_li yes`: Performs specialized LinkedIn Image Search (2a) to find profile pictures.
+- **Verification & Status Enrichment**: 
+    - **Known URL Priority**: Checks `known_linkedin_urls.json` for manually verified profiles before searching.
+    - **LinkedIn URL Status Check**: Performs a real-time HTTP check after verification to detect `404` (sets `profile_status: "not_found"`) or LinkedIn login walls (sets `profile_status: "private"`).
 - **Refinement**: Agents strictly reject company or school pages; prioritize affiliations mentioned in the background bio.
 - **Status**: Sets `enrichment_socials` to `"success"` (if verified) or `"not_found"` (if no match found).
 
@@ -41,26 +44,28 @@ This workflow builds and enriches detailed profiles for company officers and dir
 - **Parameters**: 
     - `--retry_failed [yes|no]`: Default `"no"`. If `"no"`, only processes profiles with `picture_download_count <= 0`. If `"yes"`, ignores the attempt count.
 - **Logic**:
-    - Targets profiles where `picture_local` is missing **OR** the actual image file is missing.
-    - Uses **CloakBrowser** (Stealth Chromium) to bypass anti-bot mechanisms.
-    - **Multi-URL Fallback**: Iterates through ALL LinkedIn URLs in a manager's `socials` list until a valid image is found.
-    - **Auth-Wall Detection**: Programmatically identifies if a LinkedIn profile is behind a login wall (private). Logs the event and sets `"profile_status": "private"` in the corresponding social record of `Profile.json`, while still attempting automated fallbacks.
-    - **Transient Tracking**: Increments `picture_download_count` on every attempt; this field is **fully purged** (top-level and nested social records) once a picture is successfully saved.
+    - **Eligibility**: Targets profiles where `picture_local` is missing **OR** the actual image file is missing.
+    - **Attempt Filter**: By default, only processes if `picture_download_count` in the profile is 0 or missing (skips profiles that failed in previous runs).
+    - **Status Filtering**: Automatically skips profiles where `profile_status` is `"not_found"` or `"private"` (detected in Phase 2).
+    - **Multi-URL Fallback**: Iterates through ALL LinkedIn URLs in a manager's `socials` list until a valid image is found. Note that for managers with multiple profiles (e.g., Luca Maestri), the primary profile is typically marked with `"name": "LinkedIn"`.
+    - **Transient Tracking**: Increments `picture_download_count` in the profile and the specific social record on every attempt; this field is **set to 0** for the profile and the matching social record once a picture is successfully saved.
     - **Validation**: Automatically detects and rejects SVG placeholders (masked as JPGs).
     - Updates `picture_local` and `picture_url`.
 
 ## Configuration & Tools
 
-### Profile Blocklist
-- **File**: `blocklist.json`
-- **Format**: JSON object mapping `{ "LinkedIn URL": "Manager Name" }`.
-- **Purpose**: Explicitly ignores specific profiles known to be incorrect (false positives).
+### Blacklist & Known URLs
+- **Files**: 
+    - `blacklist_linkedin_urls.json`: Maps `{ "LinkedIn URL": "Manager Name" }` to explicitly ignore false positives.
+    - `known_linkedin_urls.json`: Maps `{ "Manager Name": "LinkedIn URL" }` for manual overrides and high-precision matches.
 - **Integration**: Checked by Phase 2 (Supervisor) and Phase 3a (Stealth Scraper).
 
 ### Tools Utility
 - **File**: `tools.py`
 - **Functions**:
-    - `get_blocklist()`: Loads and normalizes the blocklist.
+    - `get_blacklist()`: Loads and normalizes the LinkedIn URL blacklist.
+    - `get_known_urls()`: Loads manually verified LinkedIn URLs for specific managers.
+    - `check_url_status()`: Performs HTTP checks for 404s and Auth-Walls.
     - `download_image()`: Shared logic for image retrieval with SVG detection.
     - `populate_base_profile()`: Phase 1 deterministic logic.
 

@@ -70,69 +70,89 @@ class Supervisor:
         print(f"Supervisor: Starting enrichment for {os.path.basename(profile_path)}")
         manager = get_manager_data(profile_path)
         manager_dir = os.path.dirname(profile_path)
-        blocklist = tools.get_blocklist()
+        blacklist = tools.get_blacklist()
+        known_urls = tools.get_known_urls()
         
-        # Check if we already have a LinkedIn URL to verify
-        existing_linkedin = next((s['url'] for s in manager.get('socials', []) if 'linkedin.com' in s['url'].lower()), None)
-        
+        # Check if we have a known URL for this manager
+        best_candidate_url = known_urls.get(manager['name'])
         best_verification = None
-        best_candidate_url = None
-
-        if existing_linkedin:
-            if existing_linkedin.lower().rstrip('/') in blocklist:
-                print(f"Supervisor: Existing URL {existing_linkedin} is in blocklist. Skipping.")
-            else:
-                print(f"Supervisor: Found existing LinkedIn URL {existing_linkedin}. Attempting verification...")
-                v_res = await self.pipeline.agents['verifier'].verify(manager, existing_linkedin)
-                if v_res and v_res.is_verified:
-                    best_verification = v_res
-                    best_candidate_url = existing_linkedin
-                    print(f"Supervisor: Verified existing URL {existing_linkedin}")
-                else:
-                    reason = v_res.verification_reasoning if v_res else "No response"
-                    print(f"Supervisor: Existing URL {existing_linkedin} not verified. Reasoning: {reason}")
         
+        if best_candidate_url:
+            print(f"Supervisor: Found known LinkedIn URL for {manager['name']}: {best_candidate_url}")
+            # Verify the known URL to capture metadata (name, company, photo)
+            v_res = await self.pipeline.agents['verifier'].verify(manager, best_candidate_url)
+            if v_res and v_res.is_verified:
+                best_verification = v_res
+                print(f"Supervisor: Verified known URL {best_candidate_url}")
+            else:
+                print(f"Supervisor: Known URL {best_candidate_url} could not be verified by agent.")
+                # We'll continue with search if known URL fails verification
+                best_candidate_url = None
+
         if not best_verification:
-            # 1. Search for LinkedIn Profile
-            print(f"Supervisor: Delegating to LinkedIn Search Agent...")
-            search_res = await self.pipeline.agents['search'].search(manager)
-            candidates = search_res.candidates if search_res else []
+            # Check if we already have a LinkedIn URL to verify from existing profile
+            existing_linkedin = next((s['url'] for s in manager.get('socials', []) if 'linkedin.com' in s['url'].lower()), None)
             
-            # Filter candidates using blocklist
-            original_count = len(candidates)
-            candidates = [c for c in candidates if c.url.lower().rstrip('/') not in blocklist]
-            if len(candidates) < original_count:
-                print(f"Supervisor: Filtered out {original_count - len(candidates)} blocklisted candidates.")
-
-            print(f"Supervisor: Found {len(candidates)} candidates: {[c.url for c in candidates]}")
-            
-            if not candidates:
-                print("Supervisor: No candidates found.")
-                await self.finalize(profile_path, "not_found")
-                return
-
-            # 2. Verify Candidates
-            for candidate in sorted(candidates, key=lambda x: x.match_confidence, reverse=True):
-                if candidate.match_confidence < 0.3: continue
-                # Skip if it's the one we just failed to verify
-                if existing_linkedin and candidate.url.rstrip('/') == existing_linkedin.rstrip('/'):
-                    continue
-
-                print(f"Supervisor: Verifying candidate {candidate.url}...")
-                v_res = await self.pipeline.agents['verifier'].verify(manager, candidate.url)
-                if v_res and v_res.is_verified:
-                    best_verification = v_res
-                    best_candidate_url = candidate.url
-                    print(f"Supervisor: Verified {candidate.url}")
-                    break
+            if existing_linkedin:
+                if existing_linkedin.lower().rstrip('/') in blacklist:
+                    print(f"Supervisor: Existing URL {existing_linkedin} is in blacklist. Skipping.")
                 else:
-                    reason = v_res.verification_reasoning if v_res else "No response"
-                    print(f"Supervisor: Candidate {candidate.url} not verified. Reasoning: {reason}")
+                    print(f"Supervisor: Found existing LinkedIn URL {existing_linkedin}. Attempting verification...")
+                    v_res = await self.pipeline.agents['verifier'].verify(manager, existing_linkedin)
+                    if v_res and v_res.is_verified:
+                        best_verification = v_res
+                        best_candidate_url = existing_linkedin
+                        print(f"Supervisor: Verified existing URL {existing_linkedin}")
+                    else:
+                        reason = v_res.verification_reasoning if v_res else "No response"
+                        print(f"Supervisor: Existing URL {existing_linkedin} not verified. Reasoning: {reason}")
+            
+            if not best_verification:
+                # 1. Search for LinkedIn Profile
+                print(f"Supervisor: Delegating to LinkedIn Search Agent...")
+                search_res = await self.pipeline.agents['search'].search(manager)
+                candidates = search_res.candidates if search_res else []
+                
+                # Filter candidates using blacklist
+                original_count = len(candidates)
+                candidates = [c for c in candidates if c.url.lower().rstrip('/') not in blacklist]
+                if len(candidates) < original_count:
+                    print(f"Supervisor: Filtered out {original_count - len(candidates)} blacklisted candidates.")
+
+                print(f"Supervisor: Found {len(candidates)} candidates: {[c.url for c in candidates]}")
+                
+                if not candidates:
+                    print("Supervisor: No candidates found.")
+                    await self.finalize(profile_path, "not_found")
+                    return
+
+                # 2. Verify Candidates
+                for candidate in sorted(candidates, key=lambda x: x.match_confidence, reverse=True):
+                    if candidate.match_confidence < 0.3: continue
+                    # Skip if it's the one we just failed to verify
+                    if existing_linkedin and candidate.url.rstrip('/') == existing_linkedin.rstrip('/'):
+                        continue
+
+                    print(f"Supervisor: Verifying candidate {candidate.url}...")
+                    v_res = await self.pipeline.agents['verifier'].verify(manager, candidate.url)
+                    if v_res and v_res.is_verified:
+                        best_verification = v_res
+                        best_candidate_url = candidate.url
+                        print(f"Supervisor: Verified {candidate.url}")
+                        break
+                    else:
+                        reason = v_res.verification_reasoning if v_res else "No response"
+                        print(f"Supervisor: Candidate {candidate.url} not verified. Reasoning: {reason}")
         
         if not best_verification:
             print("Supervisor: No candidate verified.")
             await self.finalize(profile_path, "not_found")
             return
+
+        # 2.5 Check URL Status (404 / Private)
+        print(f"Supervisor: Checking URL status for {best_candidate_url}...")
+        url_status = await asyncio.to_thread(tools.check_url_status, best_candidate_url)
+        print(f"Supervisor: URL status: {url_status}")
 
         # 3. Handle Images - Sequential Download Validation
         # Preserve existing values from the file if we don't find new ones
@@ -141,8 +161,8 @@ class Supervisor:
         picture_url_li_search = existing_social.get('picture_url_li_search')
         final_pic_url = None
         
-        # Try Profile Image first (Agent 3 results)
-        if picture_url_li_profile and get_picture == "yes":
+        # Try Profile Image first (Agent 3 results) - Only if status is success
+        if url_status == 'success' and picture_url_li_profile and get_picture == "yes":
             print(f"Supervisor: Attempting to download profile image: {picture_url_li_profile[:60]}...")
             if tools.download_image(picture_url_li_profile, manager_dir):
                 print("Supervisor: Successfully downloaded profile image.")
@@ -192,6 +212,7 @@ class Supervisor:
             "url": best_candidate_url,
             "person_name": best_verification.person_name,
             "company_name": best_verification.company_name,
+            "profile_status": url_status,
             "potential_picture_url": final_pic_url,
             "picture_url_li_profile": picture_url_li_profile,
             "picture_url_li_search": picture_url_li_search
@@ -203,7 +224,7 @@ class Supervisor:
             data = json.load(f)
         
         data["enrichment_socials"] = status
-        blocklist = tools.get_blocklist()
+        blacklist = tools.get_blacklist()
         
         existing_socials = data.get("socials", [])
         if new_socials:
@@ -218,8 +239,8 @@ class Supervisor:
                 if not found:
                     existing_socials.append(ns)
         
-        # Filter all socials against blocklist
-        data["socials"] = [s for s in existing_socials if s.get('url', '').lower().rstrip('/') not in blocklist]
+        # Filter all socials against blacklist
+        data["socials"] = [s for s in existing_socials if s.get('url', '').lower().rstrip('/') not in blacklist]
             
         with open(profile_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2)
