@@ -67,7 +67,7 @@ def create_manager_profiles():
             "age_year": None,
             "background": None,
             "picture_url": None,
-            "companies": [],
+            "company_affiliations": [],
             "investment_theses": person_summary.get("investment_theses", []),
             "socials": [],
             "committees": set()
@@ -109,7 +109,7 @@ def create_manager_profiles():
                         company_entry["end_date"] = t.get("end_date")
                         break
             
-            profile["companies"].append(company_entry)
+            profile["company_affiliations"].append(company_entry)
             
         profile["committees"] = sorted(list(profile["committees"]))
         

@@ -9,6 +9,71 @@ import html
 def sanitize_folder_name(name: str) -> str:
     return re.sub(r'[<>:"/\\|?*]', '', name).strip()
 
+def get_blacklist() -> Dict[str, str]:
+    """
+    Loads a dictionary of URLs to ignore from blacklist_linkedin_urls.json {url: name}.
+    """
+    path = os.path.join(os.path.dirname(__file__), "blacklist_linkedin_urls.json")
+    if os.path.exists(path):
+        try:
+            with open(path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                return {url.strip().lower(): name for url, name in data.items()}
+        except Exception as e:
+            print(f"Error loading blacklist_linkedin_urls.json: {e}")
+    return {}
+
+def get_known_urls() -> Dict[str, str]:
+    """
+    Loads a dictionary of manager names to known LinkedIn URLs from known_linkedin_urls.json.
+    """
+    path = os.path.join(os.path.dirname(__file__), "known_linkedin_urls.json")
+    if os.path.exists(path):
+        try:
+            with open(path, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"Error loading known_linkedin_urls.json: {e}")
+    return {}
+
+def check_url_status(url: str) -> str:
+    """
+    Checks if a URL is valid, 404, or behind an auth wall (private).
+    Returns 'success', 'not_found', or 'private'.
+    """
+    try:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Accept-Language": "en-US,en;q=0.9",
+        }
+        # Use allow_redirects=True to follow login redirects
+        response = requests.get(url, headers=headers, timeout=15, allow_redirects=True)
+        
+        if response.status_code == 404:
+            return 'not_found'
+            
+        # Check for Auth Wall or Login Redirect
+        current_url = response.url.lower()
+        is_auth_wall = any(x in current_url for x in ['linkedin.com/authwall', 'linkedin.com/login', 'checkpoint/lg/login'])
+        
+        if is_auth_wall:
+            return 'private'
+            
+        # Check content for "Sign in" or "join" strings often seen on public-facing but restricted profiles
+        content_lower = response.text.lower()
+        if 'sign in to linkedin' in content_lower or 'join linkedin' in content_lower:
+             # This is a bit fuzzy with requests, but often true for blocked scrapers or restricted profiles
+             # LinkedIn also uses 999 status code for blocks
+             pass
+
+        if response.status_code == 999:
+            return 'private'
+
+        return 'success'
+    except Exception as e:
+        print(f"Error checking URL status for {url}: {e}")
+        return 'not_found' # Treat errors as not found for safety
+
 def download_image(url: str, manager_dir: str) -> Optional[str]:
     """
     Downloads an image from a URL and saves it as "Picture.ext" in the manager's directory.
@@ -24,8 +89,19 @@ def download_image(url: str, manager_dir: str) -> Optional[str]:
         }
         response = requests.get(url, timeout=15, stream=True, headers=headers)
         if response.status_code == 200:
+            # Capture the first chunk to check for SVG placeholder
+            content_iter = response.iter_content(chunk_size=1024)
+            try:
+                first_chunk = next(content_iter)
+            except StopIteration:
+                return None
+
+            # Validation: Check if it's actually an SVG placeholder (masked as JPG/PNG)
+            if b'<svg' in first_chunk[:500].lower():
+                print(f"Rejected SVG placeholder from {url}")
+                return None
+
             content_type = response.headers.get('content-type', '').lower()
-            
             # Determine extension
             ext = 'jpg'
             if 'png' in content_type: ext = 'png'
@@ -42,8 +118,10 @@ def download_image(url: str, manager_dir: str) -> Optional[str]:
             full_save_path = os.path.join(manager_dir, filename)
             
             with open(full_save_path, 'wb') as f:
-                for chunk in response.iter_content(1024):
+                f.write(first_chunk)
+                for chunk in content_iter:
                     f.write(chunk)
+            
             return filename
     except Exception as e:
         print(f"Failed to download image from {url}: {e}")
@@ -155,15 +233,14 @@ def populate_base_profile(person_summary: Dict[str, Any], managers_dir: str):
         "background": None,
         "picture_url": None,
         "picture_local": None,
-        "companies": [],
+        "company_affiliations": [],
         "investment_theses": person_summary.get("investment_theses", []),
         "socials": [],
-        "committees": set(),
-        "enrichment_status": "pending"
+        "committees": set()
     }
     
     # Populate company specific details and biographical info
-    for comp_brief in person_summary.get("companies", []):
+    for comp_brief in person_summary.get("company_affiliations", []):
         ticker = comp_brief["ticker"]
         exchange = comp_brief["exchange"]
         
@@ -193,7 +270,7 @@ def populate_base_profile(person_summary: Dict[str, Any], managers_dir: str):
                     company_entry["end_date"] = t.get("end_date")
                     break
         
-        profile["companies"].append(company_entry)
+        profile["company_affiliations"].append(company_entry)
         
     profile["committees"] = sorted(list(profile["committees"]))
     

@@ -9,7 +9,9 @@ load_dotenv(find_dotenv(), override=True)
 
 # Configuration
 CONCURRENCY_LIMIT = int(os.getenv("CONCURRENCY_LIMIT", "5"))
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+GEMINI_MODEL = os.getenv("GEMINI_MODEL")
+if not GEMINI_MODEL:
+    raise ValueError("GEMINI_MODEL environment variable is not set in .env")
 
 async def worker(queue, pipeline):
     while not queue.empty():

@@ -1,5 +1,6 @@
 import json
 import os
+import argparse
 from tools import populate_base_profile
 from dotenv import load_dotenv, find_dotenv
 
