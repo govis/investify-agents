@@ -12,10 +12,11 @@
       "name": "Aclara Resources Inc.",
       "ticker": "ARA",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://www.aclara.com",
-      "start_date": "2021-12-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.aclara-resources.com",
+      "start_date": "Unknown",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +26,6 @@
   "committees": [
     "Audit Committee",
     "Compensation, Nominating and Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

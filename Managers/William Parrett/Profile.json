@@ -16,6 +16,56 @@
       "website": "https://www.oracle.com",
       "start_date": "2018-06-01",
       "end_date": null
+    },
+    {
+      "name": "Blackstone Inc.",
+      "ticker": "BX",
+      "exchange": "NYSE",
+      "website": "https://www.blackstone.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2007",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Thermo Fisher Scientific Inc.",
+      "ticker": "TMO",
+      "exchange": "NYSE",
+      "website": "https://www.thermofisher.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2008",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Eastman Kodak Company",
+      "ticker": "KODK",
+      "exchange": "NYSE",
+      "website": "https://www.kodak.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2007",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "UBS Group AG",
+      "ticker": "UBS",
+      "exchange": "NYSE",
+      "website": "https://www.ubs.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2008",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Thoughtworks Holding, Inc.",
+      "ticker": "TWKS",
+      "exchange": "NASDAQ",
+      "website": "https://www.thoughtworks.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2021",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +75,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

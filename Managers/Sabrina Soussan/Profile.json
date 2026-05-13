@@ -16,6 +16,26 @@
       "website": "https://www.boeing.com",
       "start_date": "2023-04-18",
       "end_date": null
+    },
+    {
+      "name": "Continental AG",
+      "ticker": "CON",
+      "exchange": "Xetra",
+      "website": "https://www.continental.com",
+      "title_or_role": "Chair of the Supervisory Board",
+      "start_date": "2026-04-30",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "dormakaba Holding AG",
+      "ticker": "DOKA",
+      "exchange": "SIX Swiss Exchange",
+      "website": "https://www.dormakaba.com",
+      "title_or_role": "CEO",
+      "start_date": "2021-04-01",
+      "end_date": "2021-12-31",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +45,6 @@
   "committees": [
     "Aerospace Safety",
     "Finance"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

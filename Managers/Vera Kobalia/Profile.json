@@ -10,12 +10,23 @@
   "company_affiliations": [
     {
       "name": "Sandstorm Gold Ltd.",
-      "ticker": "SAND",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.sandstormgold.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "ticker": "TSX: SSL / NYSE: SAND",
+      "exchange": "Toronto Stock Exchange / New York Stock Exchange",
+      "title_or_role": "Director",
+      "website": "https://www.sandstormgold.com/",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Arras Minerals Corp.",
+      "ticker": "TSX.V: ARRK / OTCQX: ARRKF",
+      "exchange": "TSX Venture Exchange / OTCQX",
+      "website": "https://www.arrasminerals.com/",
+      "title_or_role": "Director",
+      "start_date": "March 3, 2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +35,6 @@
   "socials": [],
   "committees": [
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

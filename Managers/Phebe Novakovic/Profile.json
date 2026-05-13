@@ -25,6 +25,16 @@
       "website": "https://www.jpmorganchase.com",
       "start_date": "2020-12-07",
       "end_date": null
+    },
+    {
+      "name": "Abbott Laboratories",
+      "ticker": "ABT",
+      "exchange": "NYSE",
+      "website": "https://www.abbott.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -35,5 +45,6 @@
   "socials": [],
   "committees": [
     "Compensation & Management Development Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

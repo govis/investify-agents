@@ -11,11 +11,82 @@
     {
       "name": "Revival Gold Inc.",
       "ticker": "RVG",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "revival-gold.com",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fuerte Metals Corporation",
+      "ticker": "FMT",
+      "exchange": "TSXV",
+      "website": "fuertemetals.com",
+      "title_or_role": "CEO & Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Atacama Copper Corporation",
+      "ticker": "ACOP",
+      "exchange": "TSXV",
+      "website": "atacamacopper.ca",
+      "title_or_role": "CEO & Director",
+      "start_date": "2022",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Fiore Gold Ltd.",
+      "ticker": "F",
+      "exchange": "TSXV",
+      "website": "fioregold.com",
+      "title_or_role": "CEO",
+      "start_date": "2017",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Continental Gold Inc.",
+      "ticker": "CNL",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://revival-gold.com",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "website": "continentalgold.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Dalradian Resources Inc.",
+      "ticker": "DNA",
+      "exchange": "TSX",
+      "website": "dalradian.com",
+      "title_or_role": "President",
+      "start_date": "2012",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Malbex Resources Inc.",
+      "ticker": "MBG",
+      "exchange": "TSXV",
+      "website": "malbex.com",
+      "title_or_role": "CEO",
+      "start_date": "2009",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Aurelian Resources Inc.",
+      "ticker": "ARU",
+      "exchange": "TSX",
+      "website": "aurelian.ca",
+      "title_or_role": "VP, Corporate Development",
+      "start_date": "2006",
+      "end_date": "2008",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +95,6 @@
   "socials": [],
   "committees": [
     "Technical and Health, Safety, Environmental and Social Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

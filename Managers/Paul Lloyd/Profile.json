@@ -12,19 +12,71 @@
       "name": "Alligator Energy Limited",
       "ticker": "AGE",
       "exchange": "ASX",
-      "title_or_role": "Non-Executive Chairman",
-      "website": "https://www.alligatorenergy.com.au",
-      "start_date": "2010-10-15",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "alligatorenergy.com.au",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Critical Metals Corp.",
       "ticker": "CRML",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Financial Officer",
-      "website": "https://criticalmetalscorp.com",
-      "start_date": "2024-02-27",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "criticalmetalscorp.com",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lord Resources Ltd.",
+      "ticker": "LRD",
+      "exchange": "ASX",
+      "website": "lordresources.com",
+      "title_or_role": "Chairman",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BPM Minerals Ltd.",
+      "ticker": "BPM",
+      "exchange": "ASX",
+      "website": "bpmminerals.com",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Diablo Resources Ltd.",
+      "ticker": "DBO",
+      "exchange": "ASX",
+      "website": "diabloresources.com.au",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Arizona Lithium Ltd.",
+      "ticker": "AZL",
+      "exchange": "ASX",
+      "website": "arizonalithium.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Invictus Energy Limited",
+      "ticker": "IVZ",
+      "exchange": "ASX",
+      "website": "invictusenergy.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -35,5 +87,6 @@
   "committees": [
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

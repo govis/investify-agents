@@ -12,10 +12,21 @@
       "name": "Texas Instruments Incorporated",
       "ticker": "TXN",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member of the Board of Directors",
       "website": "https://www.ti.com",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ryder System, Inc.",
+      "ticker": "R",
+      "exchange": "NYSE",
+      "website": "https://www.ryder.com",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "2013",
+      "end_date": "March 31, 2026",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Compensation Committee",
     "Governance and Stockholder Relations Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

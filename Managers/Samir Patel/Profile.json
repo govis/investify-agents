@@ -11,16 +11,28 @@
     {
       "name": "F3 Uranium Corp.",
       "ticker": "FUU",
-      "exchange": "TSX",
-      "title_or_role": "General Counsel and Corporate Secretary",
-      "website": "https://f3uranium.com",
-      "start_date": "2022-11-01",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://f3uranium.com/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CytoDyn Inc.",
+      "ticker": "CYDY",
+      "exchange": "OTC",
+      "website": "https://www.cytodyn.com/",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "April 2020",
+      "end_date": "October 2021",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

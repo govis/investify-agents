@@ -12,10 +12,21 @@
       "name": "Dominion Energy, Inc.",
       "ticker": "D",
       "exchange": "NYSE",
-      "title_or_role": "Lead Independent Director, Independent Director",
+      "title_or_role": "Director (Lead Independent Director)",
       "website": "https://www.dominionenergy.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bassett Furniture Industries, Inc.",
+      "ticker": "BSET",
+      "exchange": "NASDAQ",
+      "website": "https://www.bassettfurniture.com",
+      "title_or_role": "President, Chief Executive Officer, and Chairman of the Board",
+      "start_date": "2000",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Compensation and Talent Development Committee",
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

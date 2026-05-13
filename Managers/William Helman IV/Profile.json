@@ -12,10 +12,21 @@
       "name": "Ford Motor Company",
       "ticker": "F",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.ford.com",
-      "start_date": "2011-01-01",
-      "end_date": null
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Zipcar, Inc.",
+      "ticker": "ZIP",
+      "exchange": "NASDAQ",
+      "website": "https://www.zipcar.com",
+      "title_or_role": "Lead Director",
+      "start_date": "2006",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,5 +38,6 @@
     "Compensation Committee",
     "Finance Committee",
     "Nominating and Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

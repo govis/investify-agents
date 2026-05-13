@@ -16,6 +16,26 @@
       "website": "https://www.tsmc.com",
       "start_date": "2019-09-01",
       "end_date": null
+    },
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company Limited (TSMC)",
+      "ticker": "TSM",
+      "exchange": "NYSE",
+      "website": "https://www.tsmc.com",
+      "title_or_role": "Chief Financial Officer & Vice President",
+      "start_date": "Not publicly specified",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Global Unichip Corp.",
+      "ticker": "3443",
+      "exchange": "TWSE",
+      "website": "https://www.globalunichip.com",
+      "title_or_role": "Director (Supervisory Board)",
+      "start_date": "Not publicly specified",
+      "end_date": "Not publicly specified",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +43,6 @@
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

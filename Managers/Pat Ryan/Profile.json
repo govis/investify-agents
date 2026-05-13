@@ -10,17 +10,19 @@
   "company_affiliations": [
     {
       "name": "Ucore Rare Metals Inc.",
-      "ticker": "UCU",
-      "exchange": "TSX",
-      "title_or_role": "Chairman and Chief Executive Officer",
-      "website": "https://ucore.com",
-      "start_date": "2020-09-15",
-      "end_date": null
+      "ticker": "UCU (TSXV), UURAF (OTCQX)",
+      "exchange": "TSXV, OTC",
+      "title_or_role": "Chairman & Chief Executive Officer",
+      "website": "https://ucore.com/",
+      "start_date": "June 2020",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

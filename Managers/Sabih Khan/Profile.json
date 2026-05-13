@@ -12,21 +12,18 @@
       "name": "Apple Inc.",
       "ticker": "AAPL",
       "exchange": "NASDAQ",
-      "title_or_role": "Senior Vice President, Operations",
+      "title_or_role": "Chief Operating Officer (formerly Senior Vice President of Operations)",
       "website": "https://www.apple.com",
-      "start_date": "2019-06-27",
-      "end_date": null
+      "start_date": "1995",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [
-    {
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/sabih-a-khan",
-      "picture_download_count": 2
-    }
-  ],
-  "committees": []
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

@@ -10,17 +10,19 @@
   "company_affiliations": [
     {
       "name": "United States Antimony Corporation",
-      "ticker": "USAR",
-      "exchange": "NYSE",
-      "title_or_role": "President of Antimony Operations",
+      "ticker": "UAMY",
+      "exchange": "NYSE American",
+      "title_or_role": "President, Director",
       "website": "https://www.usantimony.com",
-      "start_date": "2024-02-01",
-      "end_date": null
+      "start_date": "2007",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

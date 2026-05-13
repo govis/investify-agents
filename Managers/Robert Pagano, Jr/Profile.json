@@ -16,6 +16,36 @@
       "website": "https://www.eaton.com",
       "start_date": "2023-01-01",
       "end_date": null
+    },
+    {
+      "name": "Watts Water Technologies, Inc.",
+      "ticker": "WTS",
+      "exchange": "NYSE",
+      "website": "https://www.wattswater.com",
+      "title_or_role": "President, Chief Executive Officer, and Chairperson of the Board",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Applied Industrial Technologies, Inc.",
+      "ticker": "AIT",
+      "exchange": "NYSE",
+      "website": "https://www.applied.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "August 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ITT Inc.",
+      "ticker": "ITT",
+      "exchange": "NYSE",
+      "website": "https://www.itt.com",
+      "title_or_role": "Executive",
+      "start_date": "Prior to 2014",
+      "end_date": "2014",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +56,6 @@
   "committees": [
     "Audit",
     "Finance"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

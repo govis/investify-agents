@@ -13,14 +13,26 @@
       "ticker": "AA",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and Chief Financial Officer",
-      "website": "https://www.alcoa.com",
-      "start_date": "2023-02-01",
-      "end_date": null
+      "website": "www.alcoa.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Arconic Corporation",
+      "ticker": "ARNC",
+      "exchange": "NYSE",
+      "website": "www.arconic.com",
+      "title_or_role": "Various leadership positions",
+      "start_date": "2001",
+      "end_date": "2012",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

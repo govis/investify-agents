@@ -16,6 +16,36 @@
       "website": "https://www.lamresearch.com",
       "start_date": "2024-01-01",
       "end_date": null
+    },
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company (TSMC)",
+      "ticker": "TSM",
+      "exchange": "NYSE",
+      "website": "https://www.tsmc.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2005",
+      "end_date": "2009",
+      "validated": true
+    },
+    {
+      "name": "Chunghwa Telecom",
+      "ticker": "CHT",
+      "exchange": "NYSE",
+      "website": "https://www.cht.com.tw",
+      "title_or_role": "Chairman",
+      "start_date": "2014",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "MediaTek Inc.",
+      "ticker": "2454",
+      "exchange": "TWSE",
+      "website": "https://www.mediatek.com",
+      "title_or_role": "Vice Chairman and CEO",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +55,6 @@
   "socials": [],
   "committees": [
     "Nominating and Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

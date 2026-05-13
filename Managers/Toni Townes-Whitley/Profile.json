@@ -16,11 +16,32 @@
       "website": "https://www.saic.com",
       "start_date": "2023-10-02",
       "end_date": null
+    },
+    {
+      "name": "Nasdaq, Inc.",
+      "ticker": "NDAQ",
+      "exchange": "NASDAQ",
+      "website": "https://www.nasdaq.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Empowerment & Inclusion Capital I Corp.",
+      "ticker": "EPWR",
+      "exchange": "NYSE",
+      "website": "https://www.empowermentcapital.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

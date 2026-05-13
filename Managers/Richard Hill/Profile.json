@@ -12,10 +12,111 @@
       "name": "Marvell Technology, Inc.",
       "ticker": "MRVL",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
+      "title_or_role": "Chairman of the Board",
       "website": "https://www.marvell.com",
-      "start_date": "2016-05-01",
-      "end_date": null
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Symantec Corporation",
+      "ticker": "SYMC",
+      "exchange": "NASDAQ",
+      "website": "https://www.broadcom.com",
+      "title_or_role": "Interim President & CEO",
+      "start_date": "2018",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Arrow Electronics, Inc.",
+      "ticker": "ARW",
+      "exchange": "NYSE",
+      "website": "https://www.arrow.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cabot Microelectronics Corporation",
+      "ticker": "CCMP",
+      "exchange": "NASDAQ",
+      "website": "https://www.entegris.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Autodesk, Inc.",
+      "ticker": "ADSK",
+      "exchange": "NASDAQ",
+      "website": "https://www.autodesk.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Xperi Inc.",
+      "ticker": "XPER",
+      "exchange": "NASDAQ",
+      "website": "https://www.xperi.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Novellus Systems, Inc.",
+      "ticker": "NVLS",
+      "exchange": "NASDAQ",
+      "website": "https://www.lamresearch.com",
+      "title_or_role": "CEO & Director",
+      "start_date": null,
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Tessera Technologies, Inc.",
+      "ticker": "TSRA",
+      "exchange": "NASDAQ",
+      "website": "https://www.xperi.com",
+      "title_or_role": "Interim CEO & Director",
+      "start_date": "2013",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Planar Systems, Inc.",
+      "ticker": "PLNR",
+      "exchange": "NASDAQ",
+      "website": "https://www.planar.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "LSI Logic Corporation",
+      "ticker": "LSI",
+      "exchange": "NYSE",
+      "website": "https://www.broadcom.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "LTX Corporation",
+      "ticker": "LTXX",
+      "exchange": "NASDAQ",
+      "website": "https://www.ltx.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +125,6 @@
   "socials": [],
   "committees": [
     "Executive Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

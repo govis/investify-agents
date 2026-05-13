@@ -12,10 +12,21 @@
       "name": "JPMorgan Chase & Co.",
       "ticker": "JPM",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Head of Strategic Investment Group",
       "website": "https://www.jpmorganchase.com",
-      "start_date": "2016-09-19",
-      "end_date": null
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Berkshire Hathaway Inc.",
+      "ticker": "BRK.B",
+      "exchange": "NYSE",
+      "website": "https://www.berkshirehathaway.com",
+      "title_or_role": "Investment Manager",
+      "start_date": "2010",
+      "end_date": "2025",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "socials": [],
   "committees": [
     "Directors' Risk Policy Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -12,15 +12,27 @@
       "name": "RTX Corporation",
       "ticker": "RTX",
       "exchange": "NYSE",
-      "title_or_role": "President, Raytheon",
-      "website": "https://www.rtx.com",
-      "start_date": "2024-01-01",
-      "end_date": null
+      "title_or_role": "President, Raytheon (an RTX business)",
+      "website": "www.rtx.com",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rockwell Collins, Inc.",
+      "ticker": "COL",
+      "exchange": "NYSE",
+      "website": "www.rockwellcollins.com",
+      "title_or_role": "Executive Vice President and Chief Operating Officer, Government Systems",
+      "start_date": "2013",
+      "end_date": "2018",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,26 @@
       "website": "https://discoverysilver.com",
       "start_date": "2020-11-12",
       "end_date": null
+    },
+    {
+      "name": "Galiano Gold Inc.",
+      "ticker": "GAU",
+      "exchange": "TSX",
+      "website": "https://www.galianogold.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Liberty Gold Corp.",
+      "ticker": "LGD",
+      "exchange": "TSX",
+      "website": "https://libertygold.ca",
+      "title_or_role": "Corporate Technical Advisor",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +45,6 @@
   "committees": [
     "Governance and Nominating Committee",
     "Technical Committee (Chair)"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

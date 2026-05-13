@@ -12,10 +12,51 @@
       "name": "Fluor Corporation",
       "ticker": "FLR",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.fluor.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "start_date": "October 1, 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lennar Corporation",
+      "ticker": "LEN",
+      "exchange": "NYSE",
+      "website": "https://www.lennar.com",
+      "title_or_role": "Director",
+      "start_date": "June 24, 2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GMS Inc.",
+      "ticker": "GMS",
+      "exchange": "NYSE",
+      "website": "https://www.gms.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "JetBlue Airways Corporation",
+      "ticker": "JBLU",
+      "exchange": "NASDAQ",
+      "website": "https://www.jetblue.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "United Parcel Service, Inc. (UPS)",
+      "ticker": "UPS",
+      "exchange": "NYSE",
+      "website": "https://www.ups.com",
+      "title_or_role": "Chief Human Resources Officer and Senior Vice President, Labor (and various other senior legal/operations roles)",
+      "start_date": "1995",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +67,6 @@
   "committees": [
     "Governance Committee",
     "Organization and Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

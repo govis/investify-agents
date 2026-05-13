@@ -16,6 +16,16 @@
       "website": "https://cleanairmetals.ca",
       "start_date": "2021-06-01",
       "end_date": null
+    },
+    {
+      "name": "OnMobile Global Ltd.",
+      "ticker": "ONMOBILE",
+      "exchange": "NSE",
+      "website": "https://www.onmobile.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2024-05-03",
+      "end_date": "2029-05-02",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +36,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee (Chair)"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

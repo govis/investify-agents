@@ -12,15 +12,17 @@
       "name": "SentinelOne, Inc.",
       "ticker": "S",
       "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
+      "title_or_role": "Co-Founder, Chief Executive Officer, and Director",
       "website": "https://www.sentinelone.com",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

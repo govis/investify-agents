@@ -12,10 +12,51 @@
       "name": "Deere & Company",
       "ticker": "DE",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.deere.com",
-      "start_date": "2015-01-01",
-      "end_date": null
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sysco Corporation",
+      "ticker": "SYY",
+      "exchange": "NYSE",
+      "website": "https://www.sysco.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "OGE Energy Corp.",
+      "ticker": "OGE",
+      "exchange": "NYSE",
+      "website": "https://www.oge.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Wintrust Financial Corporation",
+      "ticker": "WTFC",
+      "exchange": "NASDAQ",
+      "website": "https://www.wintrust.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "ACCO Brands Corporation",
+      "ticker": "ACCO",
+      "exchange": "NYSE",
+      "website": "https://www.accobrands.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2015",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +66,6 @@
   "committees": [
     "Audit Committee",
     "Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

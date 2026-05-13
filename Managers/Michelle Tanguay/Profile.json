@@ -16,6 +16,36 @@
       "website": "https://orioncmc.com",
       "start_date": "2023-06-20",
       "end_date": null
+    },
+    {
+      "name": "Defense Metals Corp.",
+      "ticker": "DEFN",
+      "exchange": "TSXV",
+      "website": "https://www.defensemetals.com/",
+      "title_or_role": "VP, Environment & Social Performance",
+      "start_date": "January 2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Northisle Copper and Gold Inc.",
+      "ticker": "NCX",
+      "exchange": "TSXV",
+      "website": "https://www.northisle.ca/",
+      "title_or_role": "Head of Sustainability and Community Relations",
+      "start_date": "May 1, 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GT Gold Corp.",
+      "ticker": "GTT",
+      "exchange": "TSXV",
+      "website": "https://www.newmont.com/",
+      "title_or_role": "Head of Sustainability, Community and Environment",
+      "start_date": null,
+      "end_date": "May 2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +55,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee (Chair)"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

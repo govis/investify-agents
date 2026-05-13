@@ -16,11 +16,32 @@
       "website": "https://www.chevron.com",
       "start_date": null,
       "end_date": null
+    },
+    {
+      "name": "The Clorox Company",
+      "ticker": "CLX",
+      "exchange": "NYSE",
+      "website": "https://www.thecloroxcompany.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "PACCAR Inc.",
+      "ticker": "PCAR",
+      "exchange": "NASDAQ",
+      "website": "https://www.paccar.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "July 1, 2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

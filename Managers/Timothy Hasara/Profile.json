@@ -10,12 +10,13 @@
   "company_affiliations": [
     {
       "name": "United States Antimony Corporation",
-      "ticker": "USAR",
-      "exchange": "NYSE",
+      "ticker": "UAMY",
+      "exchange": "NYSE American",
       "title_or_role": "Independent Director",
-      "website": "https://www.usantimony.com",
-      "start_date": "2023-08-01",
-      "end_date": null
+      "website": "https://www.usantimony.com/",
+      "start_date": "2022",
+      "end_date": "November 3, 2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +27,6 @@
     "Audit Committee",
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

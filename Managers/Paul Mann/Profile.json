@@ -12,10 +12,11 @@
       "name": "ASP Isotopes Inc.",
       "ticker": "ASPI",
       "exchange": "NASDAQ",
-      "title_or_role": "Chairman and Chief Executive Officer, Chairman of the Board",
-      "website": "https://aspisotopes.com",
-      "start_date": "2021-09-01",
-      "end_date": null
+      "title_or_role": "Founder, Chief Executive Officer, and Executive Chairman",
+      "website": "https://www.aspisotopes.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "ASP Isotopes Inc.",
@@ -25,6 +26,26 @@
       "website": "https://aspisotopes.com",
       "start_date": "2021-09-01",
       "end_date": null
+    },
+    {
+      "name": "PolarityTE, Inc.",
+      "ticker": "PTE",
+      "exchange": "NASDAQ",
+      "website": "https://www.polarityte.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "June 2018",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Healthtech Solutions, Inc.",
+      "ticker": "HLTT",
+      "exchange": "OTC",
+      "website": "https://www.healthtechsolutions.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -32,5 +53,6 @@
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

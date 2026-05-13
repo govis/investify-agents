@@ -12,10 +12,41 @@
       "name": "Salesforce, Inc.",
       "ticker": "CRM",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.salesforce.com",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "United Airlines Holdings, Inc.",
+      "ticker": "UAL",
+      "exchange": "NASDAQ",
+      "website": "https://www.united.com",
+      "title_or_role": "Executive Chairman",
+      "start_date": "2020",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "CSX Corporation",
+      "ticker": "CSX",
+      "exchange": "NASDAQ",
+      "website": "https://www.csx.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2010",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Occidental Petroleum Corporation",
+      "ticker": "OXY",
+      "exchange": "NYSE",
+      "website": "https://www.oxy.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2014",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +55,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

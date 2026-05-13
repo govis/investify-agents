@@ -12,15 +12,47 @@
       "name": "Meta Platforms, Inc.",
       "ticker": "META",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "website": "https://about.meta.com",
-      "start_date": "2012-06-01",
-      "end_date": null
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://meta.com",
+      "start_date": "June 2012",
+      "end_date": "May 2024",
+      "validated": true
+    },
+    {
+      "name": "The Walt Disney Company",
+      "ticker": "DIS",
+      "exchange": "NYSE",
+      "website": "https://thewaltdisneycompany.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "March 2010",
+      "end_date": "March 2018",
+      "validated": true
+    },
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://abc.xyz",
+      "title_or_role": "Vice President, Global Online Sales and Operations",
+      "start_date": "November 2001",
+      "end_date": "March 2008",
+      "validated": true
+    },
+    {
+      "name": "Starbucks Corporation",
+      "ticker": "SBUX",
+      "exchange": "NASDAQ",
+      "website": "https://starbucks.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "March 2009",
+      "end_date": "March 2012",
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

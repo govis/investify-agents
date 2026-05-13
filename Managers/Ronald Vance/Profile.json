@@ -16,6 +16,16 @@
       "website": "https://www.royalgold.com",
       "start_date": "2013-01-01",
       "end_date": null
+    },
+    {
+      "name": "Ivanhoe Electric Inc.",
+      "ticker": "IE",
+      "exchange": "NYSE American",
+      "website": "https://ivanhoeelectric.com/",
+      "title_or_role": "Director",
+      "start_date": "2023-06-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +35,6 @@
   "committees": [
     "Audit Committee",
     "Compensation, Nominating and Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

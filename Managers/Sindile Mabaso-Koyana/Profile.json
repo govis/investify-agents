@@ -10,12 +10,43 @@
   "company_affiliations": [
     {
       "name": "Sibanye Stillwater Limited",
-      "ticker": "SBSW",
-      "exchange": "NYSE",
+      "ticker": "SSW",
+      "exchange": "JSE",
       "title_or_role": "Independent Non-Executive Director",
-      "website": "https://www.sibanyestillwater.com",
-      "start_date": "2021-02-24",
-      "end_date": null
+      "website": "sibanyestillwater.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "MTN Group Limited",
+      "ticker": "MTN",
+      "exchange": "JSE",
+      "website": "mtn.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2020-09-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sun International Limited",
+      "ticker": "SUI",
+      "exchange": "JSE",
+      "website": "corporate.suninternational.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Bidvest Group Limited",
+      "ticker": "BVT",
+      "exchange": "JSE",
+      "website": "bidvest.co.za",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +55,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

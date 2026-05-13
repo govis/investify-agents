@@ -10,17 +10,29 @@
   "company_affiliations": [
     {
       "name": "Centerra Gold Inc.",
-      "ticker": "CGAU",
-      "exchange": "NYSE",
-      "title_or_role": "Vice President, General Counsel and Corporate Secretary",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "title_or_role": "Executive Vice President, Legal and Public Affairs",
       "website": "https://www.centerragold.com",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "AuRico Metals Inc.",
+      "ticker": "AMI",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Vice President, General Counsel & Corporate Secretary",
+      "start_date": "Prior to 2018",
+      "end_date": "2018",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

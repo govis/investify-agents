@@ -12,10 +12,51 @@
       "name": "Union Pacific Corporation",
       "ticker": "UNP",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.up.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "www.up.com",
+      "start_date": "December 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cardinal Health, Inc.",
+      "ticker": "CAH",
+      "exchange": "NYSE",
+      "website": "www.cardinalhealth.com",
+      "title_or_role": "Director",
+      "start_date": "September 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Amcor plc",
+      "ticker": "AMCR",
+      "exchange": "NYSE",
+      "website": "www.amcor.com",
+      "title_or_role": "Executive Vice President and General Counsel",
+      "start_date": "June 2019",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Bemis Company, Inc.",
+      "ticker": "BMS",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "title_or_role": "Senior Vice President, Chief Legal Officer and Secretary",
+      "start_date": "2010",
+      "end_date": "June 2019",
+      "validated": true
+    },
+    {
+      "name": "AK Steel Holding Corporation",
+      "ticker": "AKS",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +66,6 @@
   "committees": [
     "Audit Committee",
     "Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

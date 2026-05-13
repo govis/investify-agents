@@ -10,12 +10,53 @@
   "company_affiliations": [
     {
       "name": "SSR Mining Inc.",
-      "ticker": "SSRM",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "ticker": "SSRM (TSX), SSR (NASDAQ), SSR (ASX)",
+      "exchange": "TSX, NASDAQ, ASX",
+      "title_or_role": "Non-Executive Director",
       "website": "https://www.ssrmining.com",
-      "start_date": "2020-09-16",
-      "end_date": null
+      "start_date": "September 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bank of Montreal (BMO Financial Group)",
+      "ticker": "BMO (TSX), BMO (NYSE)",
+      "exchange": "TSX, NYSE",
+      "website": "https://www.bmo.com",
+      "title_or_role": "Executive Vice President and General Counsel",
+      "start_date": "2008",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Vale S.A.",
+      "ticker": "VALE (NYSE)",
+      "exchange": "NYSE",
+      "website": "https://www.vale.com",
+      "title_or_role": "Executive Vice President and General Counsel (including tenure at Inco)",
+      "start_date": "Prior to 2008",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Shell Canada Limited",
+      "ticker": "SHC (TSX - Delisted)",
+      "exchange": "TSX",
+      "website": "https://www.shell.ca",
+      "title_or_role": "Vice President, General Counsel and Corporate Secretary",
+      "start_date": "Prior to 2008",
+      "end_date": "Prior to 2008",
+      "validated": true
+    },
+    {
+      "name": "The Toronto-Dominion Bank (TD Bank Group)",
+      "ticker": "TD (TSX), TD (NYSE)",
+      "exchange": "TSX, NYSE",
+      "website": "https://www.td.com",
+      "title_or_role": "Senior Executive Vice President and General Counsel",
+      "start_date": "September 15, 2025",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +66,6 @@
   "committees": [
     "Corporate Governance and Nominating Committee",
     "Environmental, Health, Safety and Sustainability Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

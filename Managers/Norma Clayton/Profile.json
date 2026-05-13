@@ -12,10 +12,31 @@
       "name": "Nucor Corporation",
       "ticker": "NUE",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://nucor.com",
-      "start_date": "2021-09-01",
-      "end_date": null
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.nucor.com",
+      "start_date": "September 1, 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "https://www.boeing.com",
+      "title_or_role": "Vice President, Learning, Training and Development",
+      "start_date": "July 2007",
+      "end_date": "March 2016",
+      "validated": true
+    },
+    {
+      "name": "The Goodyear Tire & Rubber Company",
+      "ticker": "GT",
+      "exchange": "NASDAQ",
+      "website": "https://www.goodyear.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "November 28, 2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "committees": [
     "Audit",
     "Governance and Nominating"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

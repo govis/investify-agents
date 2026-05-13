@@ -12,15 +12,37 @@
       "name": "Textron Inc.",
       "ticker": "TXT",
       "exchange": "NYSE",
-      "title_or_role": "Executive Vice President, General Counsel and Secretary",
+      "title_or_role": "Executive Vice President, General Counsel, Secretary and Chief Compliance Officer",
       "website": "https://www.textron.com",
-      "start_date": "2012-02-01",
-      "end_date": null
+      "start_date": "February 2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Price Communications Corporation",
+      "ticker": "PRCE",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "title_or_role": "Vice President and General Counsel",
+      "start_date": "Prior to 1999",
+      "end_date": "1999",
+      "validated": true
+    },
+    {
+      "name": "Siemens AG",
+      "ticker": "SIEGY",
+      "exchange": "OTC",
+      "website": "https://www.siemens.com",
+      "title_or_role": "Senior Vice President and General Counsel (Siemens Corporation U.S.); General Counsel for the Americas (Siemens AG)",
+      "start_date": "1999",
+      "end_date": "2012",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

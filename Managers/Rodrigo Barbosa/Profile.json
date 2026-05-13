@@ -10,17 +10,19 @@
   "company_affiliations": [
     {
       "name": "Aura Minerals Inc.",
-      "ticker": "AUGO",
+      "ticker": "ORA",
       "exchange": "TSX",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "website": "https://auraminerals.com/",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "title_or_role": "President and Chief Executive Officer",
+      "website": "https://www.auraminerals.com/",
+      "start_date": "January 2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

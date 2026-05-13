@@ -14,13 +14,25 @@
       "exchange": "TSX",
       "title_or_role": "Vice President, Business Sustainability",
       "website": "https://lundingold.com",
-      "start_date": "2015-01-01",
-      "end_date": null
+      "start_date": "April 2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN",
+      "exchange": "TSX",
+      "website": "https://www.lundinmining.com",
+      "title_or_role": "Vice President, Sustainability",
+      "start_date": "Unknown",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

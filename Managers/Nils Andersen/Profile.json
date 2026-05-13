@@ -11,11 +11,52 @@
     {
       "name": "ASML Holding N.V.",
       "ticker": "ASML",
-      "exchange": "NASDAQ",
+      "exchange": "NASDAQ / Euronext Amsterdam",
       "title_or_role": "Chairman of the Supervisory Board",
       "website": "https://www.asml.com",
-      "start_date": "2024-04-24",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Unilever PLC",
+      "ticker": "UL",
+      "exchange": "LSE / NYSE",
+      "website": "https://www.unilever.com",
+      "title_or_role": "Chairman",
+      "start_date": "2019",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "AkzoNobel N.V.",
+      "ticker": "AKZA",
+      "exchange": "Euronext Amsterdam",
+      "website": "https://www.akzonobel.com",
+      "title_or_role": "Chairman of the Supervisory Board",
+      "start_date": "2018",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "BP p.l.c.",
+      "ticker": "BP",
+      "exchange": "LSE / NYSE",
+      "website": "https://www.bp.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2015",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "A.P. Moller-Maersk A/S",
+      "ticker": "MAERSK-B",
+      "exchange": "Nasdaq Copenhagen",
+      "website": "https://www.maersk.com",
+      "title_or_role": "Group Chief Executive Officer",
+      "start_date": "2007",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +67,6 @@
   "committees": [
     "Selection and Nomination Committee (Chair)",
     "Technology Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

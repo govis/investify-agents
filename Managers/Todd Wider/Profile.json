@@ -12,10 +12,31 @@
       "name": "ASP Isotopes Inc.",
       "ticker": "ASPI",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://aspisotopes.com",
-      "start_date": "2021-09-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.aspisotopes.com/",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Genenta Science S.p.A.",
+      "ticker": "GNTA",
+      "exchange": "NASDAQ",
+      "website": "https://www.genenta.com/",
+      "title_or_role": "Director",
+      "start_date": "2024-05-02",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Abeona Therapeutics Inc.",
+      "ticker": "ABEO",
+      "exchange": "NASDAQ",
+      "website": "https://www.abeonatherapeutics.com/",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,5 +48,6 @@
     "Audit Committee",
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

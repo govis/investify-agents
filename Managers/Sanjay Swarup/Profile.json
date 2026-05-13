@@ -16,6 +16,16 @@
       "website": "https://www.aclara.com",
       "start_date": "2021-12-01",
       "end_date": null
+    },
+    {
+      "name": "Container Corporation of India Limited",
+      "ticker": "CONCOR",
+      "exchange": "NSE",
+      "website": "https://concorindia.co.in/",
+      "title_or_role": "Chairman & Managing Director (CMD)",
+      "start_date": "October 1, 2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +34,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

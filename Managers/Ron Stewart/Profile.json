@@ -12,10 +12,21 @@
       "name": "New Age Metals Inc.",
       "ticker": "NAM",
       "exchange": "TSXV",
-      "title_or_role": "Independent Director",
-      "website": "https://newagemetals.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://newagemetals.com/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Highlander Silver Corp.",
+      "ticker": "HSLV",
+      "exchange": "CSE",
+      "website": "https://highlandersilver.com/",
+      "title_or_role": "President and CEO; Director",
+      "start_date": "2021",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -12,15 +12,37 @@
       "name": "Peninsula Energy Limited",
       "ticker": "PEN",
       "exchange": "ASX",
-      "title_or_role": "Managing Director and Chief Executive Officer",
-      "website": "https://www.pel.net.au",
+      "title_or_role": "Managing Director / Chief Executive Officer",
+      "website": "https://www.pel.net.au/",
       "start_date": "2017-04-03",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "enCore Energy Corp.",
+      "ticker": "EU",
+      "exchange": "NASDAQ / TSXV",
+      "website": "https://encoreenergycorp.com/",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ur-Energy Inc.",
+      "ticker": "URG / URE",
+      "exchange": "NYSE American / TSX",
+      "website": "https://www.ur-energy.com/",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2007",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

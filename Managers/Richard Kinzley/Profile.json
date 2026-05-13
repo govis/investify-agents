@@ -14,8 +14,19 @@
       "exchange": "NYSE",
       "title_or_role": "Director",
       "website": "https://oklo.com",
-      "start_date": "2024-05-01",
-      "end_date": null
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Black Hills Corporation",
+      "ticker": "BKH",
+      "exchange": "NYSE",
+      "website": "https://www.blackhillscorp.com",
+      "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "start_date": "January 1, 2015",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +35,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

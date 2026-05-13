@@ -12,10 +12,11 @@
       "name": "GoldHaven Resources Corp.",
       "ticker": "GOH",
       "exchange": "CSE",
-      "title_or_role": "Director",
-      "website": "https://goldhavenresources.com",
-      "start_date": "2019-05-22",
-      "end_date": null
+      "title_or_role": "Director / Officer (CEO/President)",
+      "website": "https://goldhavenresources.com/",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "GoldHaven Resources Corp.",
@@ -25,6 +26,16 @@
       "website": "https://goldhavenresources.com/",
       "start_date": "2019-05-22",
       "end_date": null
+    },
+    {
+      "name": "Kingsmen Resources Ltd.",
+      "ticker": "KNG",
+      "exchange": "TSXV",
+      "website": "https://kingsmenresources.com/",
+      "title_or_role": "President & CEO",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -34,5 +45,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

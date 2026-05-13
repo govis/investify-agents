@@ -10,17 +10,19 @@
   "company_affiliations": [
     {
       "name": "Atlas Copco AB",
-      "ticker": "ATCO",
-      "exchange": "STO",
-      "title_or_role": "Chief Financial Officer",
+      "ticker": "ATCO-A.ST",
+      "exchange": "Nasdaq Stockholm",
+      "title_or_role": "Various management positions (including Controller at Atlas Copco Airpower)",
       "website": "https://www.atlascopcogroup.com",
-      "start_date": "2021-07-01",
-      "end_date": null
+      "start_date": "1993",
+      "end_date": "January 2019",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

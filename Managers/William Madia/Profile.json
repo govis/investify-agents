@@ -12,10 +12,21 @@
       "name": "Centrus Energy Corp.",
       "ticker": "LEU",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.centrusenergy.com",
-      "start_date": "2014-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.centrusenergy.com/",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "EnergySolutions, Inc.",
+      "ticker": "ES",
+      "exchange": "NYSE",
+      "website": "https://www.energysolutions.com/",
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Compensation Committee",
     "Nominating and Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

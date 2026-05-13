@@ -12,10 +12,11 @@
       "name": "Leidos Holdings, Inc.",
       "ticker": "LDOS",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director (Member of the Board of Directors)",
       "website": "https://www.leidos.com",
-      "start_date": "2007-01-01",
-      "end_date": null
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +26,6 @@
   "committees": [
     "Corporate Governance and Ethics Committee",
     "Technology and Information Security Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -12,15 +12,27 @@
       "name": "K92 Mining Inc.",
       "ticker": "KNT",
       "exchange": "TSX",
-      "title_or_role": "Senior Vice President, Operations",
-      "website": "https://k92mining.com",
-      "start_date": "2018-06-01",
-      "end_date": null
+      "title_or_role": "Chief Operating Officer",
+      "website": "https://k92mining.com/",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Eldorado Gold Corp.",
+      "ticker": "EGO",
+      "exchange": "NYSE",
+      "website": "https://www.eldoradogold.com/",
+      "title_or_role": "General Manager - White Mountain Mine",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

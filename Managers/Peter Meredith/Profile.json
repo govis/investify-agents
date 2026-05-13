@@ -12,10 +12,41 @@
       "name": "Capstone Copper Corp.",
       "ticker": "CS",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://capstonecopper.com",
-      "start_date": "2022-03-23",
-      "end_date": null
+      "title_or_role": "Director / Lead Independent Director",
+      "website": "capstonecopper.com",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ivanhoe Mines Ltd.",
+      "ticker": "IVN",
+      "exchange": "TSX",
+      "website": "ivanhoemines.com",
+      "title_or_role": "Officer / Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Great Canadian Gaming Corp.",
+      "ticker": "GC",
+      "exchange": "TSX",
+      "website": "gcgaming.com",
+      "title_or_role": "Director / Chairman",
+      "start_date": null,
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Entr\u00e9e Resources Ltd.",
+      "ticker": "ETG",
+      "exchange": "TSX",
+      "website": "entreeresourcesltd.com",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +56,6 @@
   "committees": [
     "Audit Committee",
     "Governance and Nominating Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

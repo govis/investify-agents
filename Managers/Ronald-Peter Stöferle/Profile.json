@@ -10,12 +10,33 @@
   "company_affiliations": [
     {
       "name": "Tudor Gold Corp.",
-      "ticker": "TUD",
-      "exchange": "TSX",
+      "ticker": "TUD (TSXV), TDRRF (OTC)",
+      "exchange": "TSXV, OTC",
       "title_or_role": "Independent Director",
-      "website": "https://tudor-gold.com/",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "website": "https://tudor-gold.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Goldstorm Metals Corp.",
+      "ticker": "GSTM (TSXV), GSTMF (OTC)",
+      "exchange": "TSXV, OTC",
+      "website": "https://goldstormmetals.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kaizen Capital Corp.",
+      "ticker": "KAI (TSXV)",
+      "exchange": "TSXV",
+      "website": "https://kaizencapital.ca",
+      "title_or_role": "Director",
+      "start_date": "2016-04-17",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +45,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

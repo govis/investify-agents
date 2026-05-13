@@ -13,9 +13,70 @@
       "ticker": "NOC",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
-      "website": "https://www.northropgrumman.com",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "website": "northropgrumman.com",
+      "start_date": "2013",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "exchange": "NYSE",
+      "website": "albemarle.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2011",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "USG Corporation",
+      "ticker": "USG",
+      "exchange": "NYSE",
+      "website": "usg.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2009",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Black Box Corporation",
+      "ticker": "BBOX",
+      "exchange": "NASDAQ",
+      "website": "bboxservices.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2009",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Eastman Kodak Company",
+      "ticker": "KODK",
+      "exchange": "NYSE",
+      "website": "kodak.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2011",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Pentair plc",
+      "ticker": "PNR",
+      "exchange": "NYSE",
+      "website": "pentair.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "PPG Industries, Inc.",
+      "ticker": "PPG",
+      "exchange": "NYSE",
+      "website": "ppg.com",
+      "title_or_role": "Senior VP & CFO",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +86,6 @@
   "committees": [
     "Audit Committee",
     "Governance, Nominating and Sustainability Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

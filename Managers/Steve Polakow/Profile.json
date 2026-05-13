@@ -11,11 +11,12 @@
     {
       "name": "Dryden Gold Corp.",
       "ticker": "DRY",
-      "exchange": "TSX",
-      "title_or_role": "Chief Financial Officer",
-      "website": "https://drydengold.com",
-      "start_date": "2022-10-01",
-      "end_date": null
+      "exchange": "TSX Venture Exchange",
+      "title_or_role": "Director",
+      "website": "https://drydengold.com/",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +24,6 @@
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

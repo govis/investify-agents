@@ -12,15 +12,17 @@
       "name": "Meta Platforms, Inc.",
       "ticker": "META",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Financial Officer",
-      "website": "https://about.meta.com",
-      "start_date": "2022-11-01",
-      "end_date": null
+      "title_or_role": "Chief Financial Officer (CFO)",
+      "website": "https://investor.fb.com",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

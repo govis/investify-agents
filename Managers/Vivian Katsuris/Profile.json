@@ -16,6 +16,26 @@
       "website": "https://azincourtenergy.com",
       "start_date": "2017-10-01",
       "end_date": null
+    },
+    {
+      "name": "Colossus Resources Corp.",
+      "ticker": "CLUS",
+      "exchange": "TSXV",
+      "website": "https://colossusresources.com/",
+      "title_or_role": "CFO, Corporate Secretary and Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kapa Gold Inc.",
+      "ticker": "KAPA",
+      "exchange": "TSXV",
+      "website": "https://kapagold.com/",
+      "title_or_role": "CFO, Secretary and Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,5 +47,6 @@
       "url": "https://ca.linkedin.com/in/vivian-katsuris-56984361"
     }
   ],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

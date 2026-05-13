@@ -11,11 +11,12 @@
     {
       "name": "Delta Resources Limited",
       "ticker": "DLTA",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://deltaresources.ca",
-      "start_date": "2020-06-15",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://www.deltaresources.ca/",
+      "start_date": "Prior to 2023",
+      "end_date": "June 26, 2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +27,6 @@
   "committees": [
     "Audit Committee",
     "Corporate Governance and Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

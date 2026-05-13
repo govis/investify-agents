@@ -10,12 +10,23 @@
   "company_affiliations": [
     {
       "name": "Platinum Group Metals Ltd.",
-      "ticker": "PTM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "ticker": "PLG",
+      "exchange": "NYSE American, TSX",
+      "title_or_role": "Director",
       "website": "https://www.platinumgroupmetals.net",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nickel Creek Platinum Corp.",
+      "ticker": "NCP",
+      "exchange": "TSX",
+      "website": "https://www.nickelcreekplatinum.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "October 2020",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Compensation Committee",
     "Governance and Nomination Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

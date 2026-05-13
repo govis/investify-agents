@@ -12,10 +12,11 @@
       "name": "Lundin Gold Inc.",
       "ticker": "LUG",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://lundingold.com",
-      "start_date": "2023-05-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.lundingold.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +26,6 @@
   "committees": [
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

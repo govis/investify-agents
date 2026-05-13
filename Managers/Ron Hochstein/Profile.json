@@ -10,12 +10,13 @@
   "company_affiliations": [
     {
       "name": "Denison Mines Corp.",
-      "ticker": "DNN",
-      "exchange": "NYSE",
-      "title_or_role": "Chair of the Board",
-      "website": "https://denisonmines.com",
-      "start_date": "2015-01-01",
-      "end_date": null
+      "ticker": "DML (TSX), DNN (NYSE)",
+      "exchange": "TSX, NYSE",
+      "title_or_role": "Board Chair (Current), Director (Current), Former President and CEO",
+      "website": "https://denisonmines.com/",
+      "start_date": "Director (2005), Board Chair (2022)",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Denison Mines Corp.",
@@ -28,12 +29,23 @@
     },
     {
       "name": "Lundin Gold Inc.",
-      "ticker": "LUG",
+      "ticker": "LUG (TSX)",
       "exchange": "TSX",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "website": "https://lundingold.com",
-      "start_date": "2014-11-01",
-      "end_date": null
+      "title_or_role": "President and Chief Executive Officer (Current)",
+      "website": "https://www.lundingold.com/",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fireweed Metals Corp.",
+      "ticker": "FWZ (TSXV)",
+      "exchange": "TSXV",
+      "website": "https://fireweedmetals.com/",
+      "title_or_role": "Director (Current)",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -44,5 +56,6 @@
   "socials": [],
   "committees": [
     "Corporate Governance and Nominating Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

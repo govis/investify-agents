@@ -16,11 +16,32 @@
       "website": "https://www.wheatonpm.com",
       "start_date": "2011-04-01",
       "end_date": null
+    },
+    {
+      "name": "Geologix Explorations Inc.",
+      "ticker": "GIX",
+      "exchange": "TSX",
+      "website": "https://www.geologix.ca/",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Wheaton River Minerals Ltd.",
+      "ticker": "WRM",
+      "exchange": "TSX",
+      "website": "https://www.goldcorp.com/",
+      "title_or_role": "Director of Project Development",
+      "start_date": "2001",
+      "end_date": "2005",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

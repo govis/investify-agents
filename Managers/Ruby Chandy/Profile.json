@@ -12,10 +12,51 @@
       "name": "Flowserve Corporation",
       "ticker": "FLS",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.flowserve.com",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "flowserve.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Thermo Fisher Scientific, Inc.",
+      "ticker": "TMO",
+      "exchange": "NYSE",
+      "website": "thermofisher.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "DuPont de Nemours, Inc.",
+      "ticker": "DD",
+      "exchange": "NYSE",
+      "website": "dupont.com",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "AMETEK, Inc.",
+      "ticker": "AME",
+      "exchange": "NYSE",
+      "website": "ametek.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "IDEX Corporation",
+      "ticker": "IEX",
+      "exchange": "NYSE",
+      "website": "idexcorp.com",
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +66,6 @@
   "committees": [
     "Audit Committee",
     "Corporate Governance & Nominating Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

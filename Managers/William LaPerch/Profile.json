@@ -16,6 +16,46 @@
       "website": "https://www.digitalrealty.com",
       "start_date": "2013-01-01",
       "end_date": null
+    },
+    {
+      "name": "AboveNet, Inc.",
+      "ticker": "ABVT",
+      "exchange": "NYSE",
+      "website": "https://www.zayo.com",
+      "title_or_role": "President, CEO, and Director",
+      "start_date": "2004-01",
+      "end_date": "2012-07",
+      "validated": true
+    },
+    {
+      "name": "Imation Corp.",
+      "ticker": "IMN",
+      "exchange": "NYSE",
+      "website": "https://www.imation.com",
+      "title_or_role": "Director",
+      "start_date": "2012-11",
+      "end_date": "2015-08",
+      "validated": true
+    },
+    {
+      "name": "Windstream Holdings, Inc.",
+      "ticker": "WIN",
+      "exchange": "NASDAQ",
+      "website": "https://www.windstream.com",
+      "title_or_role": "Director",
+      "start_date": "2020-09",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Schultze Special Purpose Acquisition Corp. II",
+      "ticker": "SAMA",
+      "exchange": "NASDAQ",
+      "website": "https://www.schultzespac.com",
+      "title_or_role": "Director",
+      "start_date": "2021-10",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +64,6 @@
   "socials": [],
   "committees": [
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

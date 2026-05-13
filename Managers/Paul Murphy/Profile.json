@@ -11,11 +11,52 @@
     {
       "name": "Alamos Gold Inc.",
       "ticker": "AGI",
-      "exchange": "NYSE",
-      "title_or_role": "Chairman, Director",
-      "website": "https://www.alamosgold.com",
-      "start_date": "2014-01-01",
-      "end_date": null
+      "exchange": "TSX, NYSE",
+      "title_or_role": "Director, Chair of the Board",
+      "website": "https://alamosgold.com",
+      "start_date": "2010",
+      "end_date": "December 2024",
+      "validated": true
+    },
+    {
+      "name": "Collective Mining Ltd.",
+      "ticker": "CNL",
+      "exchange": "TSX, NYSE",
+      "website": "https://collectivemining.com",
+      "title_or_role": "Independent Director, Chair of the Audit Committee",
+      "start_date": "Prior to 2024",
+      "end_date": "December 2024",
+      "validated": true
+    },
+    {
+      "name": "Red Robin Gourmet Burgers, Inc.",
+      "ticker": "RRGB",
+      "exchange": "NASDAQ",
+      "website": "https://www.redrobin.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "October 2019",
+      "end_date": "December 31, 2022",
+      "validated": true
+    },
+    {
+      "name": "Noodles & Company",
+      "ticker": "NDLS",
+      "exchange": "NASDAQ",
+      "website": "https://www.noodles.com",
+      "title_or_role": "Executive Chairman",
+      "start_date": "July 10, 2017",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Del Taco Restaurants, Inc.",
+      "ticker": "TACO",
+      "exchange": "NASDAQ",
+      "website": "https://www.deltaco.com",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "February 2006",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +66,6 @@
   "committees": [
     "Audit Committee",
     "Technical and Sustainability Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

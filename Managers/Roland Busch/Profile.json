@@ -10,17 +10,29 @@
   "company_affiliations": [
     {
       "name": "Siemens Aktiengesellschaft",
-      "ticker": "SIEGY",
-      "exchange": "OTC",
-      "title_or_role": "President and Chief Executive Officer, Member of the Managing Board",
+      "ticker": "SIE",
+      "exchange": "Xetra (Frankfurt Stock Exchange)",
+      "title_or_role": "President and Chief Executive Officer",
       "website": "https://www.siemens.com",
-      "start_date": "2021-02-01",
-      "end_date": null
+      "start_date": "February 3, 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bilfinger SE",
+      "ticker": "GBF",
+      "exchange": "Xetra (Frankfurt Stock Exchange)",
+      "website": "https://www.bilfinger.com",
+      "title_or_role": "Member of the Supervisory Board",
+      "start_date": "April 15, 2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

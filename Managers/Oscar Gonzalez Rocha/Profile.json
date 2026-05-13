@@ -12,15 +12,17 @@
       "name": "Southern Copper Corporation",
       "ticker": "SCCO",
       "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer, Director, President",
+      "title_or_role": "President and Chief Executive Officer; Member of the Board of Directors",
       "website": "https://www.southerncoppercorp.com",
-      "start_date": "1999-12-01",
-      "end_date": null
+      "start_date": "December 1999",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

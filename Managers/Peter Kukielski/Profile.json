@@ -11,16 +11,48 @@
     {
       "name": "Hudbay Minerals Inc.",
       "ticker": "HBM",
-      "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
+      "exchange": "TSX",
+      "title_or_role": "President, CEO & Director",
       "website": "https://www.hudbayminerals.com",
-      "start_date": "2019-07-01",
-      "end_date": null
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO",
+      "exchange": "TSX",
+      "website": "https://www.cameco.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Teck Resources Limited",
+      "ticker": "TECK",
+      "exchange": "TSX",
+      "website": "https://www.teck.com",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2006",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Copper Mountain Mining Corporation",
+      "ticker": "CMMC",
+      "exchange": "TSX",
+      "website": "https://www.cumtn.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

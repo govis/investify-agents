@@ -12,15 +12,17 @@
       "name": "GlobalFoundries Inc.",
       "ticker": "GFS",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Business Officer",
+      "title_or_role": "Chief Business Officer / President & COO",
       "website": "https://gf.com",
-      "start_date": "2023-09-01",
-      "end_date": null
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

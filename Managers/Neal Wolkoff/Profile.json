@@ -12,10 +12,21 @@
       "name": "SPDR Gold Trust",
       "ticker": "GLD",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director (World Gold Trust Services, LLC - Sponsor)",
       "website": "https://www.spdrgoldshares.com",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "start_date": "2013-01-24",
+      "end_date": "2023-01-01",
+      "validated": true
+    },
+    {
+      "name": "OTC Markets Group Inc.",
+      "ticker": "OTCM",
+      "exchange": "OTC",
+      "website": "https://www.otcmarkets.com",
+      "title_or_role": "Director / Non-Executive Chairman",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +35,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,26 @@
       "website": "https://www.eaton.com",
       "start_date": "2019-01-01",
       "end_date": null
+    },
+    {
+      "name": "Lucid Group, Inc.",
+      "ticker": "LCID",
+      "exchange": "NASDAQ",
+      "website": "https://lucidmotors.com",
+      "title_or_role": "Chief Executive Officer and Member of the Board of Directors",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Schindler Holding Ltd.",
+      "ticker": "SCHN",
+      "exchange": "SIX Swiss Exchange",
+      "website": "https://group.schindler.com",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "1993",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +46,6 @@
   "committees": [
     "Compensation and Organization",
     "Finance"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

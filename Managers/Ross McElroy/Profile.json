@@ -12,10 +12,51 @@
       "name": "Fission Uranium Corp.",
       "ticker": "FCU",
       "exchange": "TSX",
-      "title_or_role": "Chief Executive Officer, Director, President",
-      "website": "https://fissionuranium.com",
-      "start_date": "2013-02-13",
-      "end_date": null
+      "title_or_role": "President, CEO, and Director",
+      "website": "https://www.fissionuranium.com/",
+      "start_date": "2013",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Apollo Silver Corp.",
+      "ticker": "APGO",
+      "exchange": "TSXV",
+      "website": "https://apollosilver.com/",
+      "title_or_role": "President and CEO",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Anfield Energy Inc.",
+      "ticker": "AEC",
+      "exchange": "TSXV",
+      "website": "https://anfieldenergy.com/",
+      "title_or_role": "Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Homeland Uranium Corp.",
+      "ticker": "HUC",
+      "exchange": "TSXV",
+      "website": "https://homeland-uranium.com/",
+      "title_or_role": "Director",
+      "start_date": "2025",
+      "end_date": "2025-10-15",
+      "validated": true
+    },
+    {
+      "name": "Fission Energy Corp.",
+      "ticker": "FIS",
+      "exchange": "TSXV",
+      "website": "https://www.fissionuranium.com/",
+      "title_or_role": "President, COO, and Director",
+      "start_date": "2007",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -31,5 +72,6 @@
       "picture_url_li_search": "https://media.licdn.com/dms/image/v2/C4D03AQH7K_e-O_5Rvw/profile-displayphoto-shrink_800_800/0/1516279612046?e=1744243200&v=beta&t=4G099R-XkI_D6G97t2e6Kk5f4p_Ym2o-Lz9C4Bf4W68"
     }
   ],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -34,6 +34,16 @@
       "website": "https://strialithium.com/",
       "start_date": "2022-06-01",
       "end_date": null
+    },
+    {
+      "name": "Fortune Minerals Limited",
+      "ticker": "FT",
+      "exchange": "TSX",
+      "website": "https://www.fortuneminerals.com/",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "1988",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -41,5 +51,6 @@
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

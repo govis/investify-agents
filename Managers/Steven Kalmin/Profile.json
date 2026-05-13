@@ -25,6 +25,16 @@
       "website": "https://www.glencore.com",
       "start_date": "2005-06-01",
       "end_date": null
+    },
+    {
+      "name": "Katanga Mining Ltd",
+      "ticker": "KAT",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -32,5 +42,6 @@
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

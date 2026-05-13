@@ -12,10 +12,51 @@
       "name": "Cheniere Energy, Inc.",
       "ticker": "LNG",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.cheniere.com",
-      "start_date": "2006-03-21",
-      "end_date": null
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "TXNM Energy, Inc.",
+      "ticker": "TXNM",
+      "exchange": "NYSE",
+      "website": "https://www.txnmenergy.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "EQT Corporation",
+      "ticker": "EQT",
+      "exchange": "NYSE",
+      "website": "https://www.eqt.com",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Equitrans Midstream Corporation",
+      "ticker": "ETRN",
+      "exchange": "NYSE",
+      "website": "https://www.equitransmidstream.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Scottish Power PLC",
+      "ticker": "SPW",
+      "exchange": "LSE",
+      "website": "https://www.scottishpower.co.uk",
+      "title_or_role": "Director",
+      "start_date": "2003",
+      "end_date": "2006",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +66,6 @@
   "committees": [
     "Governance and Nominating Committee",
     "Sustainability and Corporate Responsibility Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,66 @@
       "website": "https://auraminerals.com/",
       "start_date": "2018-01-01",
       "end_date": null
+    },
+    {
+      "name": "Hot Chili Limited",
+      "ticker": "HCH",
+      "exchange": "ASX",
+      "website": "https://www.hotchili.net.au/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Osisko Development Corp.",
+      "ticker": "ODV",
+      "exchange": "TSXV",
+      "website": "https://osiskodev.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "TDG Gold Corp.",
+      "ticker": "TDG",
+      "exchange": "TSXV",
+      "website": "https://tdggold.com/",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kutcho Copper Corp.",
+      "ticker": "KC",
+      "exchange": "TSXV",
+      "website": "https://www.kutcho.ca/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bravo Mining Corp.",
+      "ticker": "BRVO",
+      "exchange": "TSXV",
+      "website": "https://bravomining.com/",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Chalice Mining Ltd",
+      "ticker": "CHN",
+      "exchange": "ASX",
+      "website": "https://chalicemining.com/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": null,
+      "end_date": "2021-11-21",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +86,6 @@
     "Audit Committee",
     "Compensation Committee",
     "Technical Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

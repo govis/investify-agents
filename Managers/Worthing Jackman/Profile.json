@@ -16,6 +16,16 @@
       "website": "https://www.quantaservices.com",
       "start_date": "2019-01-01",
       "end_date": null
+    },
+    {
+      "name": "Waste Connections, Inc.",
+      "ticker": "WCN",
+      "exchange": "NYSE",
+      "website": "https://www.wasteconnections.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2004-01-01",
+      "end_date": "2018-08-31",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +36,6 @@
   "committees": [
     "Audit Committee",
     "Governance and Nominating Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

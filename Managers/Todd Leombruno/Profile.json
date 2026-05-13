@@ -12,15 +12,27 @@
       "name": "Parker-Hannifin Corporation",
       "ticker": "PH",
       "exchange": "NYSE",
-      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "title_or_role": "Vice President and Chief Financial Officer",
       "website": "https://www.parker.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Timken Company",
+      "ticker": "TKR",
+      "exchange": "NYSE",
+      "website": "https://www.timken.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "August 2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

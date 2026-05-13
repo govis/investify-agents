@@ -10,17 +10,19 @@
   "company_affiliations": [
     {
       "name": "Sibanye Stillwater Limited",
-      "ticker": "SBSW",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Sustainability Officer",
+      "ticker": "SSW (JSE), SBSW (NYSE)",
+      "exchange": "JSE, NYSE",
+      "title_or_role": "Executive Vice President: Corporate Affairs",
       "website": "https://www.sibanyestillwater.com",
-      "start_date": "2016-01-01",
-      "end_date": null
+      "start_date": "July 2016",
+      "end_date": "May 2022",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

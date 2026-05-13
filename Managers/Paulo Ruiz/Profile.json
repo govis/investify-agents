@@ -12,10 +12,21 @@
       "name": "Eaton Corporation plc",
       "ticker": "ETN",
       "exchange": "NYSE",
-      "title_or_role": "President and Chief Operating Officer, Industrial Sector",
+      "title_or_role": "President, Hydraulics Group",
       "website": "https://www.eaton.com",
-      "start_date": "2022-07-01",
-      "end_date": null
+      "start_date": "2019-01-01",
+      "end_date": "2022-07-01",
+      "validated": true
+    },
+    {
+      "name": "Siemens AG",
+      "ticker": "SIE",
+      "exchange": "Xetra",
+      "website": "https://www.siemens.com",
+      "title_or_role": "CEO of Dresser-Rand business",
+      "start_date": "2016-01-01",
+      "end_date": "2019-01-01",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +34,6 @@
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

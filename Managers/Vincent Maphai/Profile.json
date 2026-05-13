@@ -10,12 +10,23 @@
   "company_affiliations": [
     {
       "name": "Sibanye Stillwater Limited",
-      "ticker": "SBSW",
-      "exchange": "NYSE",
-      "title_or_role": "Chairman and Independent Non-Executive Director",
+      "ticker": "SSW (JSE), SBSW (NYSE)",
+      "exchange": "JSE (Johannesburg Stock Exchange), NYSE",
+      "title_or_role": "Non-Executive Chairman of the Board",
       "website": "https://www.sibanyestillwater.com",
       "start_date": "2019-06-01",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Stadio Holdings Limited",
+      "ticker": "SDO",
+      "exchange": "JSE (Johannesburg Stock Exchange)",
+      "website": "https://stadio.co.za",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2020-07-16",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +35,6 @@
   "socials": [],
   "committees": [
     "Nomination Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

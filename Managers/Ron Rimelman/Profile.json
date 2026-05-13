@@ -11,16 +11,28 @@
     {
       "name": "NOVAGOLD RESOURCES INC.",
       "ticker": "NG",
-      "exchange": "NYSE",
-      "title_or_role": "Vice President, Environmental, Health, Safety & Sustainability",
+      "exchange": "NYSE American, TSX",
+      "title_or_role": "Vice President, Environment, Health, Safety & Sustainability",
       "website": "https://www.novagold.com",
-      "start_date": "2011-01-01",
-      "end_date": null
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "TRILOGY METALS INC.",
+      "ticker": "TMQ",
+      "exchange": "NYSE American, TSX",
+      "website": "https://www.trilogymetals.com",
+      "title_or_role": "Senior Director, Permitting (via Ambler Metals LLC, a 50/50 joint venture between Trilogy Metals and South32)",
+      "start_date": "February 2026",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

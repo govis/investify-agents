@@ -10,17 +10,29 @@
   "company_affiliations": [
     {
       "name": "Centerra Gold Inc.",
-      "ticker": "CGAU",
-      "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "website": "https://www.centerragold.com",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "title_or_role": "President and Chief Executive Officer",
+      "website": "https://www.centerragold.com/",
       "start_date": "2023-05-01",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "K (TSX), KGC (NYSE)",
+      "exchange": "TSX, NYSE",
+      "website": "https://www.kinross.com/",
+      "title_or_role": "Executive Vice President and Chief Technical Officer",
+      "start_date": "2009-01-01",
+      "end_date": "2023-04-01",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

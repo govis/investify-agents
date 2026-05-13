@@ -25,6 +25,26 @@
       "website": "https://www.chevron.com",
       "start_date": "2016-12-01",
       "end_date": null
+    },
+    {
+      "name": "Amgen Inc.",
+      "ticker": "AMGN",
+      "exchange": "NASDAQ",
+      "website": "https://www.amgen.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Virgin Galactic Holdings, Inc.",
+      "ticker": "SPCE",
+      "exchange": "NYSE",
+      "website": "https://www.virgingalactic.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -41,5 +61,6 @@
     "Audit and Finance Committee",
     "Board Governance Committee",
     "Public Policy and Sustainability Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

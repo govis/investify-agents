@@ -1,0 +1,8 @@
+python main.py
+(skips the specialized LinkedIn image search)
+
+- Enable LinkedIn Image Search:
+python main.py --search_picture_li yes
+
+- Combined with Image Download:
+python main.py --search_picture_li yes --get_picture yes

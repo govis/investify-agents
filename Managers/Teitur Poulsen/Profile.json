@@ -12,15 +12,37 @@
       "name": "Lundin Mining Corporation",
       "ticker": "LUN",
       "exchange": "TSX",
-      "title_or_role": "Senior Vice President and Chief Financial Officer",
-      "website": "https://www.lundinmining.com",
-      "start_date": "2023-09-01",
-      "end_date": null
+      "title_or_role": "Executive VP & CFO",
+      "website": "https://lundinmining.com",
+      "start_date": "Sept 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lundin Energy AB",
+      "ticker": "LUNE",
+      "exchange": "STO",
+      "website": "https://lundin-energy.com",
+      "title_or_role": "CFO",
+      "start_date": "2012",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Aker BP ASA",
+      "ticker": "AKRBP",
+      "exchange": "OSE (Oslo)",
+      "website": "https://akerbp.com",
+      "title_or_role": "CFO",
+      "start_date": "2010",
+      "end_date": "2012",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

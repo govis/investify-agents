@@ -12,10 +12,81 @@
       "name": "Meta Platforms, Inc.",
       "ticker": "META",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://about.meta.com",
-      "start_date": "2020-03-01",
-      "end_date": null
+      "title_or_role": "Member of the Board of Directors",
+      "website": "https://investor.atmeta.com",
+      "start_date": "March 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Certara, Inc.",
+      "ticker": "CERT",
+      "exchange": "NASDAQ",
+      "website": "https://www.certara.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cardinal Health, Inc.",
+      "ticker": "CAH",
+      "exchange": "NYSE",
+      "website": "https://www.cardinalhealth.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2017",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "CSRA Inc.",
+      "ticker": "CSRA",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Member of the Board of Directors (Independent Chair)",
+      "start_date": "2015",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "The Advisory Board Company",
+      "ticker": "ABCO",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2013",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Computer Sciences Corporation (now DXC Technology)",
+      "ticker": "CSC",
+      "exchange": "NYSE",
+      "website": "https://www.dxc.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2013",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Avon Products, Inc.",
+      "ticker": "AVP",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2013",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Taubman Centers, Inc.",
+      "ticker": "TCO",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2014",
+      "end_date": "2018",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +96,6 @@
   "committees": [
     "Audit Committee",
     "Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

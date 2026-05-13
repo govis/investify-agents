@@ -25,6 +25,56 @@
       "website": "https://www.micron.com",
       "start_date": "2018-01-01",
       "end_date": null
+    },
+    {
+      "name": "Nutanix, Inc.",
+      "ticker": "NTNX",
+      "exchange": "NASDAQ",
+      "website": "nutanix.com",
+      "title_or_role": "Director",
+      "start_date": "June 2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NetSuite Inc.",
+      "ticker": "N (Delisted)",
+      "exchange": "NYSE",
+      "website": "netsuite.com",
+      "title_or_role": "EVP, Finance & CFO",
+      "start_date": "October 2004",
+      "end_date": "December 2011",
+      "validated": true
+    },
+    {
+      "name": "NetApp, Inc.",
+      "ticker": "NTAP",
+      "exchange": "NASDAQ",
+      "website": "netapp.com",
+      "title_or_role": "EVP, Finance & CFO",
+      "start_date": "2002",
+      "end_date": "2004",
+      "validated": true
+    },
+    {
+      "name": "SanDisk Corporation",
+      "ticker": "SNDK (Acquired)",
+      "exchange": "NASDAQ",
+      "website": "sandisk.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Rodgers Silicon Valley Acquisition Corp",
+      "ticker": "RSVA (Delisted)",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -35,5 +85,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

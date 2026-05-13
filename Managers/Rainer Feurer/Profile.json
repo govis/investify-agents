@@ -12,10 +12,21 @@
       "name": "Solid Power, Inc.",
       "ticker": "SLDP",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "website": "https://www.solidpowerbattery.com",
-      "start_date": "2021-12-01",
-      "end_date": null
+      "title_or_role": "Member of the Board of Directors",
+      "website": "https://www.solidpowerbattery.com/",
+      "start_date": "May 2021",
+      "end_date": "June 30, 2026",
+      "validated": true
+    },
+    {
+      "name": "Bayerische Motoren Werke AG (BMW Group)",
+      "ticker": "BAMXF",
+      "exchange": "OTC",
+      "website": "https://www.bmwgroup.com/",
+      "title_or_role": "Senior Vice President, Corporate Investments",
+      "start_date": "1998",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +35,6 @@
   "socials": [],
   "committees": [
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

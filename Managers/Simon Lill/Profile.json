@@ -12,10 +12,31 @@
       "name": "De Grey Mining Limited",
       "ticker": "DEG",
       "exchange": "ASX",
+      "title_or_role": "Executive Chairman / Non-Executive Chairman",
+      "website": "https://degreymining.com.au/",
+      "start_date": "October 2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kairos Minerals Limited",
+      "ticker": "KAI",
+      "exchange": "ASX",
+      "website": "https://www.kairosminerals.com.au/",
       "title_or_role": "Non-Executive Chairman",
-      "website": "https://degreymining.com.au",
-      "start_date": "2013-10-03",
-      "end_date": null
+      "start_date": "May 12, 2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Purifloh Limited",
+      "ticker": "PO3",
+      "exchange": "ASX",
+      "website": "https://purifloh.com/",
+      "title_or_role": "Non-Executive Director / Chairman",
+      "start_date": null,
+      "end_date": "February 2025",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +45,6 @@
   "socials": [],
   "committees": [
     "Remuneration and Nomination Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

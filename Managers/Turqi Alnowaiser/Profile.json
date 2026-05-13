@@ -16,6 +16,26 @@
       "website": "https://www.lucidmotors.com",
       "start_date": "2021-02-01",
       "end_date": null
+    },
+    {
+      "name": "Uber Technologies, Inc.",
+      "ticker": "UBER",
+      "exchange": "NYSE",
+      "website": "https://www.uber.com",
+      "title_or_role": "Director",
+      "start_date": "2023-11-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hapag-Lloyd AG",
+      "ticker": "HLAG",
+      "exchange": "Xetra (Frankfurt Stock Exchange)",
+      "website": "https://www.hapag-lloyd.com",
+      "title_or_role": "Director",
+      "start_date": "2018-02-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +45,6 @@
   "committees": [
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

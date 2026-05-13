@@ -34,6 +34,26 @@
       "website": "https://sprottetfs.com/urnm-sprott-uranium-miners-etf/",
       "start_date": "2018-01-01",
       "end_date": null
+    },
+    {
+      "name": "Sprott Inc.",
+      "ticker": "SII",
+      "exchange": "TSX",
+      "website": "https://sprott.com",
+      "title_or_role": "Managing Director, Chief Controller, and Treasurer",
+      "start_date": "Not publicly specified",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sprott Physical Battery Metals Trust",
+      "ticker": "SBAT.U",
+      "exchange": "TSX",
+      "website": "https://sprott.com/investment-strategies/physical-commodity-funds/battery-metals/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "Not publicly specified",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -43,5 +63,6 @@
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

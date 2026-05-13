@@ -12,15 +12,27 @@
       "name": "Newmont Corporation",
       "ticker": "NEM",
       "exchange": "NYSE",
-      "title_or_role": "Executive Vice President and Chief Strategy and Sustainability Officer",
+      "title_or_role": "Executive Vice President and Chief Sustainability and Development Officer",
       "website": "https://www.newmont.com",
-      "start_date": "2022-07-01",
-      "end_date": null
+      "start_date": "July 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rio Tinto PLC",
+      "ticker": "RIO",
+      "exchange": "LSE",
+      "website": "https://www.riotinto.com",
+      "title_or_role": "Group Executive, Strategy and Development",
+      "start_date": "2014",
+      "end_date": "April 2022",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

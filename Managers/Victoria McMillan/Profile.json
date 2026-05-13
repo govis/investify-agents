@@ -16,6 +16,36 @@
       "website": "https://lahontangoldcorp.com/",
       "start_date": "2023-06-15",
       "end_date": null
+    },
+    {
+      "name": "Lundin Mining Corp.",
+      "ticker": "LUN",
+      "exchange": "TSX",
+      "website": "https://lundinmining.com",
+      "title_or_role": "Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Versamet Royalties Corp.",
+      "ticker": "VRMTD",
+      "exchange": "OTC",
+      "website": "https://versametroyalties.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Eclipse Gold Mining Corp.",
+      "ticker": "EGLD",
+      "exchange": "TSXV",
+      "website": "https://www.eclipsegoldmining.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2019",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +55,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

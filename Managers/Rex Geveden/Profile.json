@@ -12,10 +12,31 @@
       "name": "BWX Technologies, Inc.",
       "ticker": "BWXT",
       "exchange": "NYSE",
-      "title_or_role": "President and Chief Executive Officer",
+      "title_or_role": "Chief Operating Officer",
       "website": "https://www.bwxt.com",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "start_date": "2015-10-01",
+      "end_date": "2016-12-31",
+      "validated": true
+    },
+    {
+      "name": "TTM Technologies, Inc.",
+      "ticker": "TTMI",
+      "exchange": "NASDAQ",
+      "website": "https://www.ttm.com",
+      "title_or_role": "Director",
+      "start_date": "2018-02-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Teledyne Technologies Inc.",
+      "ticker": "TDY",
+      "exchange": "NYSE",
+      "website": "https://www.teledyne.com",
+      "title_or_role": "Executive Vice President",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +44,6 @@
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

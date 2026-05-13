@@ -13,9 +13,40 @@
       "ticker": "AMZN",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
-      "website": "https://www.amazon.com",
-      "start_date": "1997-02-01",
-      "end_date": null
+      "website": "www.aboutamazon.com",
+      "start_date": "1997-02",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CBS Corporation",
+      "ticker": "PARA",
+      "exchange": "NYSE",
+      "website": "www.paramount.com",
+      "title_or_role": "Director",
+      "start_date": "1999",
+      "end_date": "2005",
+      "validated": true
+    },
+    {
+      "name": "Alaska Air Group, Inc.",
+      "ticker": "ALK",
+      "exchange": "NYSE",
+      "website": "www.alaskaair.com",
+      "title_or_role": "Director",
+      "start_date": "1998",
+      "end_date": "2000",
+      "validated": true
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "www.microsoft.com",
+      "title_or_role": "Vice President",
+      "start_date": "1988",
+      "end_date": "1997",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +56,6 @@
   "socials": [],
   "committees": [
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

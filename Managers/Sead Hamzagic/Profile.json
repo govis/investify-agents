@@ -25,6 +25,26 @@
       "website": "https://goldhavenresources.com/",
       "start_date": "2020-02-12",
       "end_date": null
+    },
+    {
+      "name": "Foremost Lithium Resource & Technology Ltd.",
+      "ticker": "FMST",
+      "exchange": "NASDAQ",
+      "website": "https://www.foremostlithium.com/",
+      "title_or_role": "Chief Financial Officer and Corporate Secretary",
+      "start_date": "2024-02-14",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Spark Minerals Inc.",
+      "ticker": "SPAR",
+      "exchange": "CSE",
+      "website": "https://www.sparkminerals.co/",
+      "title_or_role": "Audit Committee Chair",
+      "start_date": "2025-01-22",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -32,5 +52,6 @@
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

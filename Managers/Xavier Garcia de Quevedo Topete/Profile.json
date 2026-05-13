@@ -12,15 +12,37 @@
       "name": "Southern Copper Corporation",
       "ticker": "SCCO",
       "exchange": "NYSE",
-      "title_or_role": "Vice Chairman of the Board",
-      "website": "https://www.southerncoppercorp.com",
-      "start_date": "2014-01-01",
-      "end_date": null
+      "title_or_role": "Director / Executive (Various roles including President/CEO)",
+      "website": "https://www.southerncopper.com",
+      "start_date": "1994",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Grupo Rotoplas S.A.B. de C.V.",
+      "ticker": "AGUA (BMV) / GRPRF (OTC)",
+      "exchange": "BMV / OTC",
+      "website": "https://rotoplas.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Grupo M\u00e9xico, S.A.B. de C.V.",
+      "ticker": "GMEXICOB (BMV) / GMBXF (OTC)",
+      "exchange": "BMV / OTC",
+      "website": "https://www.gmexico.com",
+      "title_or_role": "Director",
+      "start_date": "2002",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,16 @@
       "website": "https://www.fluor.com",
       "start_date": "2021-01-01",
       "end_date": null
+    },
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "title_or_role": "Senior Manager of Public Relations",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +33,6 @@
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

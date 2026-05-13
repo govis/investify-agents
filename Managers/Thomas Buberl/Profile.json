@@ -16,6 +16,26 @@
       "website": "https://www.ibm.com",
       "start_date": "2020-04-28",
       "end_date": null
+    },
+    {
+      "name": "AXA SA",
+      "ticker": "CS",
+      "exchange": "Euronext Paris",
+      "website": "https://www.axa.com",
+      "title_or_role": "Chief Executive Officer & Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "International Business Machines Corporation (IBM)",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "website": "https://www.ibm.com",
+      "title_or_role": "Director",
+      "start_date": "April 28, 2020",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +44,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

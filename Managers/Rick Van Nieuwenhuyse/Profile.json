@@ -9,18 +9,40 @@
   "picture_local": null,
   "company_affiliations": [
     {
-      "name": "Contango Ore, Inc.",
+      "name": "Contango ORE, Inc.",
       "ticker": "CTGO",
-      "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "website": "https://www.contangoore.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "exchange": "NYSE American",
+      "title_or_role": "President, CEO, and Director",
+      "website": "https://contangoore.com",
+      "start_date": "2020-01-06",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Trilogy Metals Inc.",
+      "ticker": "TMQ",
+      "exchange": "TSX / NYSE American",
+      "website": "https://trilogymetals.com",
+      "title_or_role": "President, CEO, and Director",
+      "start_date": "2012",
+      "end_date": "2019-09-05",
+      "validated": true
+    },
+    {
+      "name": "NOVAGOLD Resources Inc.",
+      "ticker": "NG",
+      "exchange": "TSX / NYSE American",
+      "website": "https://novagold.com",
+      "title_or_role": "President and CEO",
+      "start_date": "1999",
+      "end_date": "2012",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

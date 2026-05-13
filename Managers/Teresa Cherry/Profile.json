@@ -11,11 +11,12 @@
     {
       "name": "Anfield Energy Inc.",
       "ticker": "AEC",
-      "exchange": "TSX",
+      "exchange": "TSXV",
       "title_or_role": "Chief Financial Officer",
       "website": "https://anfieldenergy.com/",
-      "start_date": "2015-01-01",
-      "end_date": null
+      "start_date": "2021-07-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,5 +28,6 @@
       "url": "https://www.linkedin.com/in/teresa-cherry-1950561"
     }
   ],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

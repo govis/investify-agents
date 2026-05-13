@@ -11,11 +11,12 @@
     {
       "name": "Clean Air Metals Inc.",
       "ticker": "AIR",
-      "exchange": "TSXV",
+      "exchange": "TSX Venture Exchange",
       "title_or_role": "Chief Operating Officer",
-      "website": "https://cleanairmetals.ca",
-      "start_date": "2023-06-01",
-      "end_date": null
+      "website": "https://www.cleanairmetals.ca/",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -29,5 +30,6 @@
       "potential_picture_url": null
     }
   ],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

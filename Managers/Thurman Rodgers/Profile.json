@@ -13,9 +13,60 @@
       "ticker": "ENPH",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
-      "website": "https://enphase.com",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "website": "https://enphase.com/",
+      "start_date": "January 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Enovix Corporation",
+      "ticker": "ENVX",
+      "exchange": "NASDAQ",
+      "website": "https://www.enovix.com/",
+      "title_or_role": "Director",
+      "start_date": "July 2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "FTC Solar, Inc.",
+      "ticker": "FTCI",
+      "exchange": "NASDAQ",
+      "website": "https://www.ftcsolar.com/",
+      "title_or_role": "Director / Chairman of the Board",
+      "start_date": "January 2017",
+      "end_date": "January 2023",
+      "validated": true
+    },
+    {
+      "name": "Cypress Semiconductor Corporation",
+      "ticker": "CY",
+      "exchange": "NASDAQ",
+      "website": "https://www.infineon.com/",
+      "title_or_role": "Founder, President, CEO, and Director",
+      "start_date": "1982",
+      "end_date": "August 2016",
+      "validated": true
+    },
+    {
+      "name": "SunPower Corporation",
+      "ticker": "SPWR",
+      "exchange": "NASDAQ",
+      "website": "https://us.sunpower.com/",
+      "title_or_role": "Director",
+      "start_date": "May 2002",
+      "end_date": "May 2011",
+      "validated": true
+    },
+    {
+      "name": "Complete Solaria, Inc.",
+      "ticker": "CSLR",
+      "exchange": "NASDAQ",
+      "website": "https://completesolaria.com/",
+      "title_or_role": "Director",
+      "start_date": "July 2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +76,6 @@
   "socials": [],
   "committees": [
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

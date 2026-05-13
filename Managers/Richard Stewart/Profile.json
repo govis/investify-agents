@@ -11,16 +11,18 @@
     {
       "name": "Sibanye Stillwater Limited",
       "ticker": "SBSW",
-      "exchange": "NYSE",
+      "exchange": "New York Stock Exchange",
       "title_or_role": "Chief Operating Officer",
-      "website": "https://www.sibanyestillwater.com",
-      "start_date": "2020-12-01",
-      "end_date": null
+      "website": "https://www.sibanyestillwater.com/",
+      "start_date": "December 2020",
+      "end_date": "April 2022",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -14,13 +14,25 @@
       "exchange": "NASDAQ",
       "title_or_role": "Chief Operating Officer",
       "website": "https://www.solaredge.com",
-      "start_date": "2020-07-01",
-      "end_date": null
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Flex Ltd.",
+      "ticker": "FLEX",
+      "exchange": "NASDAQ",
+      "website": "https://flex.com",
+      "title_or_role": "Senior Vice President / General Manager",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

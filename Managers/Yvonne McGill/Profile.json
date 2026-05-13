@@ -25,6 +25,16 @@
       "website": "https://www.dell.com",
       "start_date": "2023-01-01",
       "end_date": null
+    },
+    {
+      "name": "ManTech International Corporation",
+      "ticker": "MANT",
+      "exchange": "NASDAQ",
+      "website": "https://www.mantech.com",
+      "title_or_role": "Assistant Controller",
+      "start_date": "Prior to 1997",
+      "end_date": "1997",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -35,5 +45,6 @@
   "committees": [
     "Audit Committee",
     "Human Resources and Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

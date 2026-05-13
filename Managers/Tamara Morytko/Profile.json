@@ -12,15 +12,37 @@
       "name": "Flowserve Corporation",
       "ticker": "FLS",
       "exchange": "NYSE",
-      "title_or_role": "President, Pumps Division",
-      "website": "https://www.flowserve.com",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "title_or_role": "Director (Board of Directors)",
+      "website": "https://www.flowserve.com/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "EnerSys",
+      "ticker": "ENS",
+      "exchange": "NYSE",
+      "website": "https://www.enersys.com/",
+      "title_or_role": "Director (Board of Directors)",
+      "start_date": "December 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hillenbrand, Inc.",
+      "ticker": "HI",
+      "exchange": "NYSE",
+      "website": "https://www.hillenbrand.com/",
+      "title_or_role": "SVP & President, Molding Technology Solutions",
+      "start_date": "September 2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,26 @@
       "website": "https://www.transdigm.com",
       "start_date": "2006-01-01",
       "end_date": null
+    },
+    {
+      "name": "Perimeter Solutions, Inc.",
+      "ticker": "PRM",
+      "exchange": "NYSE",
+      "website": "https://www.perimeter-solutions.com",
+      "title_or_role": "Director",
+      "start_date": "2021-11-08",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Sherwin-Williams Company",
+      "ticker": "SHW",
+      "exchange": "NYSE",
+      "website": "https://www.sherwin-williams.com",
+      "title_or_role": "Senior Vice President - Finance and Chief Financial Officer",
+      "start_date": "2001-01-01",
+      "end_date": "2016-12-31",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +44,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

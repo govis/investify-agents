@@ -11,16 +11,18 @@
     {
       "name": "QuantumScape Corporation",
       "ticker": "QS",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Technology Officer",
+      "exchange": "NASDAQ",
+      "title_or_role": "Co-Founder and Chief Technology Officer",
       "website": "https://www.quantumscape.com",
-      "start_date": "2010-05-01",
-      "end_date": null
+      "start_date": "January 2011",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

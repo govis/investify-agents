@@ -12,10 +12,41 @@
       "name": "RTX Corporation",
       "ticker": "RTX",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Special Advisor to the CEO",
       "website": "https://www.rtx.com",
-      "start_date": "2020-04-03",
-      "end_date": null
+      "start_date": "2018",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "https://www.boeing.com",
+      "title_or_role": "President and Chief Executive Officer / Director",
+      "start_date": "2024-08-08",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aptiv PLC",
+      "ticker": "APTV",
+      "exchange": "NYSE",
+      "website": "https://www.aptiv.com",
+      "title_or_role": "Director",
+      "start_date": "2018-09-13",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rockwell Collins, Inc.",
+      "ticker": "COL",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2013",
+      "end_date": "2018",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +56,6 @@
   "committees": [
     "Audit",
     "Finance"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

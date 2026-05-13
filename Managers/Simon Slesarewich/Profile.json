@@ -12,10 +12,21 @@
       "name": "Alligator Energy Limited",
       "ticker": "AGE",
       "exchange": "ASX",
-      "title_or_role": "Chief Development Officer",
-      "website": "https://www.alligatorenergy.com.au",
-      "start_date": "2024-02-01",
-      "end_date": null
+      "title_or_role": "Non-Executive Director",
+      "website": "https://www.alligatorenergy.com.au/",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Dateline Resources Limited",
+      "ticker": "DTR",
+      "exchange": "ASX",
+      "website": "https://www.datelineresources.com.au/",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -28,5 +39,6 @@
       "potential_picture_url": null
     }
   ],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

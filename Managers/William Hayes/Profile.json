@@ -12,10 +12,21 @@
       "name": "Royal Gold, Inc.",
       "ticker": "RGLD",
       "exchange": "NASDAQ",
-      "title_or_role": "Chairman of the Board, Independent Director",
-      "website": "https://www.royalgold.com",
-      "start_date": "2014-05-22",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.royalgold.com/",
+      "start_date": "2008",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Antofagasta plc",
+      "ticker": "ANTO",
+      "exchange": "LSE (London Stock Exchange)",
+      "website": "https://www.antofagasta.co.uk/",
+      "title_or_role": "Director (Senior Independent Director, Chairman of the Audit and Risk Committee)",
+      "start_date": "2006",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +35,6 @@
   "socials": [],
   "committees": [
     "Compensation, Nominating and Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

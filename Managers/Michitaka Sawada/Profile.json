@@ -16,6 +16,26 @@
       "website": "https://www.komatsu.jp",
       "start_date": "2024-06-01",
       "end_date": null
+    },
+    {
+      "name": "Kao Corporation",
+      "ticker": "4452",
+      "exchange": "Tokyo Stock Exchange",
+      "website": "https://www.kao.com",
+      "title_or_role": "Senior Advisor",
+      "start_date": "2024-03",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Panasonic Holdings Corporation",
+      "ticker": "6752",
+      "exchange": "Tokyo Stock Exchange",
+      "website": "https://holdings.panasonic",
+      "title_or_role": "Chairperson of the Board",
+      "start_date": "2024-06",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +45,6 @@
   "committees": [
     "Compensation Committee",
     "Nomination Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

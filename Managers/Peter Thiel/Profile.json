@@ -16,6 +16,16 @@
       "website": "https://www.palantir.com",
       "start_date": "2003-01-01",
       "end_date": null
+    },
+    {
+      "name": "Meta Platforms, Inc.",
+      "ticker": "META",
+      "exchange": "NASDAQ",
+      "website": "https://investor.meta.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2005",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +33,6 @@
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

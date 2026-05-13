@@ -12,15 +12,27 @@
       "name": "Juniper Networks, Inc.",
       "ticker": "JNPR",
       "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer, Director",
+      "title_or_role": "Chief Executive Officer and Member of the Board of Directors",
       "website": "https://www.juniper.net",
-      "start_date": "2014-11-01",
-      "end_date": null
+      "start_date": "November 2014",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Hewlett Packard Enterprise Company",
+      "ticker": "HPE",
+      "exchange": "NYSE",
+      "website": "https://www.hpe.com",
+      "title_or_role": "President & General Manager, HPE Networking",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

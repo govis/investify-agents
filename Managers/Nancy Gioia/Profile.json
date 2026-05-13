@@ -16,6 +16,46 @@
       "website": "https://www.lucidmotors.com",
       "start_date": "2021-02-01",
       "end_date": null
+    },
+    {
+      "name": "Power Integrations, Inc.",
+      "ticker": "POWI",
+      "exchange": "NASDAQ",
+      "website": "https://www.power.com",
+      "title_or_role": "Director",
+      "start_date": "2023-01-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Brady Corporation",
+      "ticker": "BRC",
+      "exchange": "NYSE",
+      "website": "https://www.bradycorp.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Meggitt PLC",
+      "ticker": "MGGT",
+      "exchange": "LSE",
+      "website": "https://www.meggitt.com",
+      "title_or_role": "Director",
+      "start_date": "2017-06",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Exelon Corporation",
+      "ticker": "EXC",
+      "exchange": "NASDAQ",
+      "website": "https://www.exeloncorp.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2018",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +65,6 @@
   "committees": [
     "Audit Committee",
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

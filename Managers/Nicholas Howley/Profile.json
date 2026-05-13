@@ -12,15 +12,27 @@
       "name": "TransDigm Group Incorporated",
       "ticker": "TDG",
       "exchange": "NYSE",
-      "title_or_role": "Executive Chairman",
+      "title_or_role": "Founder, Executive Chairman (Current); Former CEO (2001\u20132018)",
       "website": "https://www.transdigm.com",
-      "start_date": "2018-04-30",
-      "end_date": null
+      "start_date": "1993",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Perimeter Solutions, SA",
+      "ticker": "PRM",
+      "exchange": "NYSE",
+      "website": "https://ir.perimeter-solutions.com",
+      "title_or_role": "Director / Co-Chairman of the Board",
+      "start_date": "November 2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

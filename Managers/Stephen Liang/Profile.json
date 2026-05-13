@@ -12,10 +12,21 @@
       "name": "Vertiv Holdings Co",
       "ticker": "VRT",
       "exchange": "NYSE",
-      "title_or_role": "Chief Technology Officer",
+      "title_or_role": "President, Asia-Pacific",
       "website": "https://www.vertiv.com",
-      "start_date": "2021-02-01",
-      "end_date": null
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Emerson Electric Co.",
+      "ticker": "EMR",
+      "exchange": "NYSE",
+      "website": "https://www.emerson.com",
+      "title_or_role": "President, Emerson Network Power Asia Pacific",
+      "start_date": "2009",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +34,6 @@
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

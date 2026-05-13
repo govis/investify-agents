@@ -11,11 +11,32 @@
     {
       "name": "Pure Storage, Inc.",
       "ticker": "PSTG",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
       "website": "https://www.purestorage.com",
-      "start_date": "2020",
-      "end_date": null
+      "start_date": "February 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Unisys Corporation",
+      "ticker": "UIS",
+      "exchange": "NYSE",
+      "website": "https://www.unisys.com",
+      "title_or_role": "Director",
+      "start_date": "October 18, 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Thoughtworks Holding, Inc.",
+      "ticker": "TWKS",
+      "exchange": "NASDAQ",
+      "website": "https://www.thoughtworks.com",
+      "title_or_role": "Director",
+      "start_date": "June 16, 2021",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +45,6 @@
   "socials": [],
   "committees": [
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

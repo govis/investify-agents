@@ -16,11 +16,72 @@
       "website": "https://globalatomiccorp.com",
       "start_date": "2020-10-01",
       "end_date": null
+    },
+    {
+      "name": "Lumina Gold Corp.",
+      "ticker": "LUM",
+      "exchange": "TSXV",
+      "website": "https://luminagold.com/",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Adventus Mining Corporation",
+      "ticker": "ADZN",
+      "exchange": "TSXV",
+      "website": "https://adventusmining.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Honey Badger Silver Inc.",
+      "ticker": "TUF",
+      "exchange": "TSXV",
+      "website": "https://honeybadgersilver.com/",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Spanish Mountain Gold Ltd.",
+      "ticker": "SPA",
+      "exchange": "TSXV",
+      "website": "https://spanishmountaingold.com/",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2010",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "IAMGOLD Corporation",
+      "ticker": "IMG",
+      "exchange": "TSX",
+      "website": "https://www.iamgold.com/",
+      "title_or_role": "Vice President-Commercial",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "K",
+      "exchange": "NYSE",
+      "website": "https://www.kinross.com/",
+      "title_or_role": "Operations Director-Tasiast Mine",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

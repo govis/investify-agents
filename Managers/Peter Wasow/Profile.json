@@ -14,8 +14,59 @@
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
       "website": "https://www.alligatorenergy.com.au",
-      "start_date": "2020-05-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Alumina Limited",
+      "ticker": "AWC",
+      "exchange": "ASX",
+      "website": "https://www.aluminalimited.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2011",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "OZ Minerals Limited",
+      "ticker": "OZL",
+      "exchange": "ASX",
+      "website": "https://www.ozminerals.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2017",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "APA Group",
+      "ticker": "APA",
+      "exchange": "ASX",
+      "website": "https://www.apa.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Santos Limited",
+      "ticker": "STO",
+      "exchange": "ASX",
+      "website": "https://www.santos.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2002",
+      "end_date": "2010",
+      "validated": true
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX",
+      "website": "https://www.bhp.com",
+      "title_or_role": "Executive Position",
+      "start_date": "1979",
+      "end_date": "2002",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +76,6 @@
   "committees": [
     "Audit and Risk Committee (Chair)",
     "Remuneration and Nomination Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

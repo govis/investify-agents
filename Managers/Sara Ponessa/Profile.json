@@ -12,15 +12,27 @@
       "name": "Livent Corporation",
       "ticker": "LTHM",
       "exchange": "NYSE",
-      "title_or_role": "Vice President, General Counsel and Secretary",
+      "title_or_role": "General Counsel and Secretary",
       "website": "https://www.livent.com",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "start_date": "2018",
+      "end_date": "2025-06-01",
+      "validated": true
+    },
+    {
+      "name": "FMC Corporation",
+      "ticker": "FMC",
+      "exchange": "NYSE",
+      "website": "https://www.fmc.com",
+      "title_or_role": "Executive Vice President, General Counsel, and Corporate Secretary",
+      "start_date": "2025-06-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

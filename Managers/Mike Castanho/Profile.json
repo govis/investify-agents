@@ -9,18 +9,20 @@
   "picture_local": null,
   "company_affiliations": [
     {
-      "name": "Atha Energy Corp.",
-      "ticker": "SASK",
-      "exchange": "TSX",
-      "title_or_role": "Director, President",
-      "website": "https://www.athaenergy.com",
-      "start_date": "2023-01-12",
-      "end_date": null
+      "name": "ATHA Energy Corp.",
+      "ticker": "ATHA",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://athaenergy.com/",
+      "start_date": "March 2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

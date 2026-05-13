@@ -14,8 +14,19 @@
       "exchange": "NYSE",
       "title_or_role": "Director",
       "website": "https://www.fcx.com",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ConocoPhillips",
+      "ticker": "COP",
+      "exchange": "NYSE",
+      "website": "https://www.conocophillips.com",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "May 2012",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +37,6 @@
   "committees": [
     "Compensation",
     "Governance"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

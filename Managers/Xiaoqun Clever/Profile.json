@@ -11,11 +11,12 @@
     {
       "name": "BHP Group Limited",
       "ticker": "BHP",
-      "exchange": "ASX",
+      "exchange": "ASX / NYSE",
       "title_or_role": "Non-executive Director",
-      "website": "https://www.bhp.com",
-      "start_date": "2020-10-01",
-      "end_date": null
+      "website": "bhp.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "BHP Group Limited",
@@ -25,6 +26,56 @@
       "website": "https://www.bhp.com",
       "start_date": "2020-10-01",
       "end_date": null
+    },
+    {
+      "name": "Amadeus IT Group",
+      "ticker": "AMS",
+      "exchange": "BME (Madrid)",
+      "website": "amadeus.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Infineon Technologies AG",
+      "ticker": "IFX",
+      "exchange": "XETRA (Frankfurt)",
+      "website": "infineon.com",
+      "title_or_role": "Member of the Supervisory Board",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Straumann Holding AG",
+      "ticker": "STMN",
+      "exchange": "SIX (Swiss)",
+      "website": "straumann.com",
+      "title_or_role": "Non-executive Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Capgemini SE",
+      "ticker": "CAP",
+      "exchange": "Euronext Paris",
+      "website": "capgemini.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SAP SE",
+      "ticker": "SAP",
+      "exchange": "NYSE / XETRA",
+      "website": "sap.com",
+      "title_or_role": "EVP, President of Labs China; COO of Tech & Innovation",
+      "start_date": "1997",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,5 +87,6 @@
     "Remuneration Committee",
     "Risk and Audit Committee",
     "Sustainability Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,26 @@
       "website": "https://www.centerragold.com",
       "start_date": "2020-05-01",
       "end_date": null
+    },
+    {
+      "name": "Canfor Corporation",
+      "ticker": "CFP",
+      "exchange": "TSX",
+      "website": "https://www.canfor.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "January 2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Canfor Pulp Products Inc.",
+      "ticker": "CFX",
+      "exchange": "TSX",
+      "website": "https://www.canforpulp.com",
+      "title_or_role": "Director",
+      "start_date": "January 2025",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +45,6 @@
   "committees": [
     "Human Resources and Compensation Committee (Chair)",
     "Sustainable Development Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

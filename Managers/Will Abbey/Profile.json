@@ -12,15 +12,27 @@
       "name": "Arm Holdings plc",
       "ticker": "ARM",
       "exchange": "NASDAQ",
-      "title_or_role": "Executive Vice President and Chief Revenue Officer",
-      "website": "https://www.arm.com",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "title_or_role": "EVP and Chief Commercial Officer",
+      "website": "https://www.arm.com/",
+      "start_date": "2004",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Enpro Inc.",
+      "ticker": "NPO",
+      "exchange": "NYSE",
+      "website": "https://www.enproindustries.com/",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2022-09-06",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

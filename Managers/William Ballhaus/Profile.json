@@ -12,15 +12,27 @@
       "name": "Mercury Systems, Inc.",
       "ticker": "MRCY",
       "exchange": "NASDAQ",
-      "title_or_role": "Director, President and Chief Executive Officer",
+      "title_or_role": "Director; Interim President and CEO",
       "website": "https://www.mrcy.com",
-      "start_date": "2023-08-01",
-      "end_date": null
+      "start_date": "June 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "OSI Systems, Inc.",
+      "ticker": "OSIS",
+      "exchange": "NASDAQ",
+      "website": "https://www.osi-systems.com",
+      "title_or_role": "Director",
+      "start_date": "May 2010",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

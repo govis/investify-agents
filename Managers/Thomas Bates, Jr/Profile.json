@@ -12,10 +12,51 @@
       "name": "SSR Mining Inc.",
       "ticker": "SSRM",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director (Lead Independent Director)",
       "website": "https://www.ssrmining.com",
-      "start_date": "2020-09-16",
-      "end_date": null
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "TETRA Technologies, Inc.",
+      "ticker": "TTI",
+      "exchange": "NYSE",
+      "website": "https://www.tetratec.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Weatherford International plc",
+      "ticker": "WFRD",
+      "exchange": "NASDAQ",
+      "website": "https://www.weatherford.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2019",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Hercules Offshore, Inc.",
+      "ticker": "HERO",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2007",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Vantage Drilling International",
+      "ticker": "VTDRF",
+      "exchange": "OTC",
+      "website": "https://vantagedrilling.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +66,6 @@
   "committees": [
     "Audit Committee",
     "Compensation and Leadership Development Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

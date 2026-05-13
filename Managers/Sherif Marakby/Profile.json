@@ -16,6 +16,26 @@
       "website": "https://www.lucidmotors.com",
       "start_date": "2021-02-01",
       "end_date": null
+    },
+    {
+      "name": "American Battery Technology Company",
+      "ticker": "ABAT",
+      "exchange": "NASDAQ",
+      "website": "https://americanbatterytechnology.com/",
+      "title_or_role": "Director",
+      "start_date": "2022-02-28",
+      "end_date": "2025-09-15",
+      "validated": true
+    },
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "website": "https://www.ford.com/",
+      "title_or_role": "Vice President, Autonomous Vehicles and Electrification",
+      "start_date": "2017-06-01",
+      "end_date": "2020-07-01",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +44,6 @@
   "socials": [],
   "committees": [
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

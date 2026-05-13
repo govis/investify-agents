@@ -13,14 +13,26 @@
       "ticker": "BMN",
       "exchange": "ASX",
       "title_or_role": "Chief Financial Officer",
-      "website": "https://bannermanenergy.com",
-      "start_date": "2022-01-17",
-      "end_date": null
+      "website": "https://bannermanenergy.com/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Namibia Critical Metals Inc.",
+      "ticker": "NMI",
+      "exchange": "TSXV",
+      "website": "https://www.namibiacriticalmetals.com/",
+      "title_or_role": "Director",
+      "start_date": "May 2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

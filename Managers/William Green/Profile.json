@@ -12,10 +12,31 @@
       "name": "Dell Technologies Inc.",
       "ticker": "DELL",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.dell.com",
-      "start_date": "2016-01-01",
-      "end_date": null
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Accenture plc",
+      "ticker": "ACN",
+      "exchange": "NYSE",
+      "website": "https://www.accenture.com",
+      "title_or_role": "CEO (2004\u20132010), Chairman of the Board (2006\u20132013)",
+      "start_date": "2004",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "S&P Global Inc.",
+      "ticker": "SPGI",
+      "exchange": "NYSE",
+      "website": "https://www.spglobal.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "committees": [
     "Audit Committee",
     "Leadership Development and Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -14,17 +14,19 @@
       "exchange": "NASDAQ",
       "title_or_role": "Director",
       "website": "https://www.marvell.com",
-      "start_date": "2016-05-01",
-      "end_date": null
+      "start_date": "2018-01-01",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Micron Technology, Inc.",
       "ticker": "MU",
       "exchange": "NASDAQ",
-      "title_or_role": "Chairman of the Board",
+      "title_or_role": "Director / Chairman of the Board",
       "website": "https://www.micron.com",
       "start_date": "2006-01-01",
-      "end_date": null
+      "end_date": "2025-01-16",
+      "validated": true
     },
     {
       "name": "SentinelOne, Inc.",
@@ -32,8 +34,39 @@
       "exchange": "NYSE",
       "title_or_role": "Director",
       "website": "https://www.sentinelone.com",
-      "start_date": "2021-04-01",
-      "end_date": null
+      "start_date": "2021-01-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ADC Telecommunications, Inc.",
+      "ticker": "ADCT",
+      "exchange": "NASDAQ",
+      "website": "https://www.te.com",
+      "title_or_role": "Chairman, President, and Chief Executive Officer",
+      "start_date": "2003-08-01",
+      "end_date": "2010-12-31",
+      "validated": true
+    },
+    {
+      "name": "Broadcom Corporation",
+      "ticker": "BRCM",
+      "exchange": "NASDAQ",
+      "website": "https://www.broadcom.com",
+      "title_or_role": "Director",
+      "start_date": "2003-01-01",
+      "end_date": "2016-02-01",
+      "validated": true
+    },
+    {
+      "name": "Hickory Tech Corporation (now Consolidated Communications)",
+      "ticker": "CNSL",
+      "exchange": "NASDAQ",
+      "website": "https://www.consolidated.com",
+      "title_or_role": "Director",
+      "start_date": "1999-01-01",
+      "end_date": "2006-12-31",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -46,5 +79,6 @@
     "Compensation Committee",
     "Governance and Sustainability Committee",
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

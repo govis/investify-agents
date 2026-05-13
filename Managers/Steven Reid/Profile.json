@@ -11,20 +11,22 @@
     {
       "name": "Eldorado Gold Corporation",
       "ticker": "EGO",
-      "exchange": "NYSE",
-      "title_or_role": "Chair of the Board",
-      "website": "https://www.eldoradogold.com",
-      "start_date": "2013-05-02",
-      "end_date": null
+      "exchange": "TSX / NYSE",
+      "title_or_role": "Director / Chair of the Board",
+      "website": "eldoradogold.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Gold Fields Limited",
       "ticker": "GFI",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Non-Executive Director",
-      "website": "https://www.goldfields.com",
-      "start_date": "2016-02-01",
-      "end_date": null
+      "exchange": "JSE / NYSE",
+      "title_or_role": "Independent Non-Executive Director / Lead Independent Director",
+      "website": "goldfields.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -37,5 +39,6 @@
     "Remuneration Committee",
     "Risk Committee",
     "Sustainability Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

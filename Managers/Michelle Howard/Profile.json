@@ -16,6 +16,16 @@
       "website": "https://www.curtisswright.com",
       "start_date": "2020-01-01",
       "end_date": null
+    },
+    {
+      "name": "International Business Machines Corporation",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "website": "https://www.ibm.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2019-03-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +36,6 @@
   "committees": [
     "Committee on Corporate Governance",
     "Finance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

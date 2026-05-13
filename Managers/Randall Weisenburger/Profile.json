@@ -12,10 +12,51 @@
       "name": "MP Materials Corp.",
       "ticker": "MP",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://mpmaterials.com",
-      "start_date": "2020-11-17",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://mpmaterials.com/",
+      "start_date": "July 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Omnicom Group Inc.",
+      "ticker": "OMC",
+      "exchange": "NYSE",
+      "website": "https://www.omnicomgroup.com/",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "1998",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Valero Energy Corporation",
+      "ticker": "VLO",
+      "exchange": "NYSE",
+      "website": "https://www.valero.com/",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Carnival Corporation & plc",
+      "ticker": "CCL",
+      "exchange": "NYSE",
+      "website": "https://www.carnivalcorp.com/",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "East West Bancorp, Inc.",
+      "ticker": "EWBC",
+      "exchange": "NASDAQ",
+      "website": "https://www.eastwestbank.com/",
+      "title_or_role": "Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +66,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

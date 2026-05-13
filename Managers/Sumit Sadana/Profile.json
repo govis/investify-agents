@@ -16,6 +16,46 @@
       "website": "https://www.micron.com",
       "start_date": "2017-05-01",
       "end_date": null
+    },
+    {
+      "name": "Silicon Laboratories Inc.",
+      "ticker": "SLAB",
+      "exchange": "NASDAQ",
+      "website": "https://www.silabs.com",
+      "title_or_role": "Member of the Board of Directors / Lead Independent Director",
+      "start_date": "2015-04-27",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SanDisk Corporation",
+      "ticker": "SNDK",
+      "exchange": "NASDAQ",
+      "website": "https://www.sandisk.com",
+      "title_or_role": "Executive Vice President, Chief Strategy Officer and General Manager, Enterprise Solutions",
+      "start_date": null,
+      "end_date": "2016-05-12",
+      "validated": true
+    },
+    {
+      "name": "Freescale Semiconductor, Ltd.",
+      "ticker": "FSL",
+      "exchange": "NYSE",
+      "website": "https://www.nxp.com",
+      "title_or_role": "Senior Executive (various roles including CTO and CFO)",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "IBM Corporation",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "website": "https://www.ibm.com",
+      "title_or_role": "Senior Executive",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +63,6 @@
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

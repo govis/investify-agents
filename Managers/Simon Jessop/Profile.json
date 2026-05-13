@@ -14,13 +14,25 @@
       "exchange": "ASX",
       "title_or_role": "Chief Operating Officer",
       "website": "https://www.nsrltd.com",
-      "start_date": "2021-07-22",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Saracen Mineral Holdings Limited",
+      "ticker": "SAR",
+      "exchange": "ASX",
+      "website": null,
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2017",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

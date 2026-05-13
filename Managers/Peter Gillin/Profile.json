@@ -12,19 +12,41 @@
       "name": "Dundee Precious Metals Inc.",
       "ticker": "DPM",
       "exchange": "TSX",
-      "title_or_role": "Lead Director",
-      "website": "https://www.dundeeprecious.com",
-      "start_date": "2009-01-01",
-      "end_date": null
+      "title_or_role": "Director, Deputy Chair, Chair of the Board",
+      "website": "www.dundeeprecious.com",
+      "start_date": "2009",
+      "end_date": "2025",
+      "validated": true
     },
     {
       "name": "Wheaton Precious Metals Corp.",
       "ticker": "WPM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.wheatonpm.com",
-      "start_date": "2004-10-01",
-      "end_date": null
+      "exchange": "TSX / NYSE",
+      "title_or_role": "Founding Director",
+      "website": "www.wheatonpm.com",
+      "start_date": "2004",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Turquoise Hill Resources Ltd.",
+      "ticker": "TRQ",
+      "exchange": "TSX / NYSE",
+      "website": "www.turquoisehill.com",
+      "title_or_role": "Independent Chairman of the Board",
+      "start_date": "2012",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Sherritt International Corporation",
+      "ticker": "S",
+      "exchange": "TSX",
+      "website": "www.sherritt.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,5 +58,6 @@
     "Compensation Committee",
     "Governance and Nominating Committee",
     "Human Resources Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

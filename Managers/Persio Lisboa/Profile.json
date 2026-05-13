@@ -16,6 +16,26 @@
       "website": "https://www.jbhunt.com",
       "start_date": "2021-01-01",
       "end_date": null
+    },
+    {
+      "name": "James Hardie Industries plc",
+      "ticker": "JHX",
+      "exchange": "ASX",
+      "website": "https://www.jameshardie.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "February 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Navistar International Corporation",
+      "ticker": "NAV (Delisted/Acquired)",
+      "exchange": "NYSE",
+      "website": "https://www.navistar.com",
+      "title_or_role": "Executive Vice President and Chief Operating Officer",
+      "start_date": "March 2017",
+      "end_date": "June 30, 2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +44,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

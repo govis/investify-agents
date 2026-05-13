@@ -12,15 +12,37 @@
       "name": "Equinix, Inc.",
       "ticker": "EQIX",
       "exchange": "NASDAQ",
-      "title_or_role": "Executive Vice President, Global Operations",
+      "title_or_role": "EVP, Global Operations",
       "website": "https://www.equinix.com",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Level 3 Communications, Inc.",
+      "ticker": "LVLT",
+      "exchange": "NYSE",
+      "website": "https://www.lumen.com",
+      "title_or_role": "President, Business Markets Group",
+      "start_date": "Unknown",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "MFS Communications Company, Inc.",
+      "ticker": "MFST",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "title_or_role": "Vice President, Network Development",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

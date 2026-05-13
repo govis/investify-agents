@@ -11,11 +11,22 @@
     {
       "name": "Sitka Gold Corp.",
       "ticker": "SIG",
+      "exchange": "TSXV",
+      "title_or_role": "Vice President of Exploration",
+      "website": "https://sitkagoldcorp.com/",
+      "start_date": "2018-03-26",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Great Basin Gold Ltd.",
+      "ticker": "GBG",
       "exchange": "TSX",
-      "title_or_role": "Director",
-      "website": "https://sitkagoldcorp.com",
-      "start_date": "2018-05-15",
-      "end_date": null
+      "website": null,
+      "title_or_role": "Senior Geologist",
+      "start_date": "2001",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

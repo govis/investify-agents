@@ -12,10 +12,51 @@
       "name": "Oracle Corporation",
       "ticker": "ORCL",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.oracle.com",
-      "start_date": "2019-12-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "oracle.com",
+      "start_date": "2019-12-09",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BMW Group",
+      "ticker": "BMW",
+      "exchange": "XETRA",
+      "website": "bmwgroup.com",
+      "title_or_role": "Member of the Supervisory Board",
+      "start_date": "2019-05-16",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GSK plc",
+      "ticker": "GSK",
+      "exchange": "LSE / NYSE",
+      "website": "gsk.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2022-07-18",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Infosys Limited",
+      "ticker": "INFY",
+      "exchange": "NYSE",
+      "website": "infosys.com",
+      "title_or_role": "CEO and Managing Director",
+      "start_date": "2014-08-01",
+      "end_date": "2017-08-18",
+      "validated": true
+    },
+    {
+      "name": "SAP SE",
+      "ticker": "SAP",
+      "exchange": "XETRA",
+      "website": "sap.com",
+      "title_or_role": "Member of the Executive Board / CTO",
+      "start_date": "2002",
+      "end_date": "2014-05-04",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +64,6 @@
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

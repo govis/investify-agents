@@ -16,6 +16,46 @@
       "website": "https://consolidatedlithium.com/",
       "start_date": "2023-09-01",
       "end_date": null
+    },
+    {
+      "name": "O2Gold Inc.",
+      "ticker": "OTGO.H",
+      "exchange": "TSXV",
+      "website": "https://o2gold.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Homeland Uranium Corp.",
+      "ticker": "HLU.V",
+      "exchange": "TSXV",
+      "website": "https://www.homeland-uranium.com/",
+      "title_or_role": "President, Chief Executive Officer & Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "UEX Corporation",
+      "ticker": "UEX",
+      "exchange": "TSX",
+      "website": "https://www.uexcorporation.com/",
+      "title_or_role": "President & CEO",
+      "start_date": "2013",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Valleyview Resources Ltd.",
+      "ticker": "VVR",
+      "exchange": "TSXV",
+      "website": "https://www.valleyviewresources.com/",
+      "title_or_role": "President, Chief Executive Officer & Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +63,6 @@
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

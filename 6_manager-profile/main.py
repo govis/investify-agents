@@ -20,14 +20,14 @@ consecutive_errors = 0
 error_lock = asyncio.Lock()
 stop_event = asyncio.Event()
 
-async def worker(queue, pipeline, get_picture):
+async def worker(queue, pipeline, get_picture, search_picture_li):
     global consecutive_errors
     while not queue.empty() and not stop_event.is_set():
         profile_path = await queue.get()
         
         print(f"Main: [START] Enrichment for {os.path.basename(os.path.dirname(profile_path))}")
         try:
-            result = await pipeline.run(profile_path, get_picture=get_picture)
+            result = await pipeline.run(profile_path, get_picture=get_picture, search_picture_li=search_picture_li)
             if result.get("success"):
                 print(f"Main: [DONE] Enrichment for {os.path.basename(os.path.dirname(profile_path))}")
                 async with error_lock:
@@ -50,9 +50,10 @@ async def main():
     parser = argparse.ArgumentParser(description="Enrich manager profiles using multi-agent pipeline.")
     parser.add_argument("--manager", type=str, help="Specific manager name to process (e.g. 'Aaron Jagdfeld')")
     parser.add_argument("--get_picture", type=str, default="no", choices=["yes", "no"], help="Whether to attempt picture downloads in subsequent steps (default: no)")
+    parser.add_argument("--search_picture_li", type=str, default="no", choices=["yes", "no"], help="Whether to perform specialized LinkedIn Image Search (2a) (default: no)")
     args = parser.parse_args()
 
-    print(f"Workflow 5: Manager Profiles starting with CONCURRENCY_LIMIT={CONCURRENCY_LIMIT} and get_picture={args.get_picture}...")
+    print(f"Workflow 5: Manager Profiles starting with CONCURRENCY_LIMIT={CONCURRENCY_LIMIT}, get_picture={args.get_picture}, search_picture_li={args.search_picture_li}...")
     
     managers_dir = os.path.join("..", "Managers")
     os.makedirs(managers_dir, exist_ok=True)
@@ -112,7 +113,7 @@ async def main():
     
     # Start workers
     num_workers = min(CONCURRENCY_LIMIT, len(to_enrich))
-    workers = [asyncio.create_task(worker(queue, pipeline, args.get_picture)) for _ in range(num_workers)]
+    workers = [asyncio.create_task(worker(queue, pipeline, args.get_picture, args.search_picture_li)) for _ in range(num_workers)]
     
     # Wait for completion or fatal error
     if workers:

@@ -16,6 +16,26 @@
       "website": "https://snowlinegold.com",
       "start_date": "2021-02-25",
       "end_date": null
+    },
+    {
+      "name": "Relevant Gold Corp.",
+      "ticker": "RGC",
+      "exchange": "CSE",
+      "website": "https://relevantgoldcorp.com/",
+      "title_or_role": "Independent Chairman",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Happy Creek Minerals Ltd.",
+      "ticker": "HPY",
+      "exchange": "TSXV",
+      "website": "https://www.happycreekminerals.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +45,6 @@
   "committees": [
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -25,11 +25,52 @@
       "website": "https://www.pilbaraminerals.com.au",
       "start_date": "2023-10-01",
       "end_date": null
+    },
+    {
+      "name": "FMC Corporation",
+      "ticker": "FMC",
+      "exchange": "NYSE",
+      "website": "fmc.com",
+      "title_or_role": "Executive VP & CFO",
+      "start_date": "2012",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Lydall, Inc.",
+      "ticker": "LDL",
+      "exchange": "NYSE",
+      "website": "lydall.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Celularity Inc.",
+      "ticker": "CELU",
+      "exchange": "NASDAQ",
+      "website": "celularity.com",
+      "title_or_role": "SVP, Chief Communications Officer",
+      "start_date": "2023",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "exchange": "NYSE",
+      "website": "goldmansachs.com",
+      "title_or_role": "Head of Natural Resources Group",
+      "start_date": "2000",
+      "end_date": "2012",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

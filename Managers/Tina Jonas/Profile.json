@@ -16,6 +16,36 @@
       "website": "https://www.centrusenergy.com",
       "start_date": "2020-01-01",
       "end_date": null
+    },
+    {
+      "name": "Leidos Holdings, Inc.",
+      "ticker": "LDOS",
+      "exchange": "NYSE",
+      "website": "https://www.leidos.com",
+      "title_or_role": "Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Virgin Galactic Holdings, Inc.",
+      "ticker": "SPCE",
+      "exchange": "NYSE",
+      "website": "https://www.virgingalactic.com",
+      "title_or_role": "Director",
+      "start_date": "June 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "UnitedHealth Group Incorporated",
+      "ticker": "UNH",
+      "exchange": "NYSE",
+      "website": "https://www.unitedhealthgroup.com",
+      "title_or_role": "President, UnitedHealthcare, Military and Veterans",
+      "start_date": "2012",
+      "end_date": "2014",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +55,6 @@
   "committees": [
     "Audit Committee",
     "Nominating and Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

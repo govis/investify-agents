@@ -12,10 +12,31 @@
       "name": "Dominion Energy, Inc.",
       "ticker": "D",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.dominionenergy.com",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "title_or_role": "Director",
+      "start_date": "September 10, 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "American Water Works Company, Inc.",
+      "ticker": "AWK",
+      "exchange": "NYSE",
+      "website": "https://www.amwater.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "April 2013",
+      "end_date": "May 2014",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "committees": [
     "Audit Committee",
     "Sustainability and Corporate Responsibility Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

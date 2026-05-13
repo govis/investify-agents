@@ -16,6 +16,76 @@
       "website": "https://www.crowdstrike.com",
       "start_date": "2018-07-01",
       "end_date": null
+    },
+    {
+      "name": "Target Corporation",
+      "ticker": "TGT",
+      "exchange": "NYSE",
+      "website": "https://www.target.com",
+      "title_or_role": "Director",
+      "start_date": "2002",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Teledyne Technologies Incorporated",
+      "ticker": "TDY",
+      "exchange": "NYSE",
+      "website": "https://www.teledyne.com",
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Ericsson",
+      "ticker": "ERIC",
+      "exchange": "NASDAQ",
+      "website": "https://www.ericsson.com",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Abbott Laboratories",
+      "ticker": "ABT",
+      "exchange": "NYSE",
+      "website": "https://www.abbott.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "AbbVie Inc.",
+      "ticker": "ABBV",
+      "exchange": "NYSE",
+      "website": "https://www.abbvie.com",
+      "title_or_role": "Lead Independent Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Freshworks Inc.",
+      "ticker": "FRSH",
+      "exchange": "NASDAQ",
+      "website": "https://www.freshworks.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Verizon Communications Inc.",
+      "ticker": "VZ",
+      "exchange": "NYSE",
+      "website": "https://www.verizon.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +95,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

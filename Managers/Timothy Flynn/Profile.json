@@ -12,10 +12,51 @@
       "name": "JPMorgan Chase & Co.",
       "ticker": "JPM",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.jpmorganchase.com",
-      "start_date": "2012-05-15",
-      "end_date": null
+      "start_date": "May 2012",
+      "end_date": "May 2024",
+      "validated": true
+    },
+    {
+      "name": "Walmart Inc.",
+      "ticker": "WMT",
+      "exchange": "NYSE",
+      "website": "https://corporate.walmart.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "UnitedHealth Group Incorporated",
+      "ticker": "UNH",
+      "exchange": "NYSE",
+      "website": "https://www.unitedhealthgroup.com",
+      "title_or_role": "Director",
+      "start_date": "January 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Alcoa Corporation",
+      "ticker": "AA",
+      "exchange": "NYSE",
+      "website": "https://www.alcoa.com",
+      "title_or_role": "Director",
+      "start_date": "November 2016",
+      "end_date": "May 2021",
+      "validated": true
+    },
+    {
+      "name": "The Chubb Corporation",
+      "ticker": "CB",
+      "exchange": "NYSE",
+      "website": "https://www.chubb.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "January 2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +67,6 @@
   "committees": [
     "Audit Committee (Chair)",
     "Corporate Governance & Nominating Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

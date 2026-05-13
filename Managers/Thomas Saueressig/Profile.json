@@ -11,11 +11,22 @@
     {
       "name": "SAP SE",
       "ticker": "SAP",
-      "exchange": "NYSE",
-      "title_or_role": "Member of the Executive Board, Customer Services & Delivery",
+      "exchange": "Xetra",
+      "title_or_role": "Member of the Executive Board / Chief Customer Officer",
       "website": "https://www.sap.com",
-      "start_date": "2024-04-01",
-      "end_date": null
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nokia Corporation",
+      "ticker": "NOK",
+      "exchange": "Nasdaq Helsinki",
+      "website": "https://www.nokia.com",
+      "title_or_role": "Member of the Board of Directors / Vice-Chair of the Board",
+      "start_date": "April 2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +34,6 @@
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

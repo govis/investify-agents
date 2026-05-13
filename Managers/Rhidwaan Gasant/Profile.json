@@ -12,10 +12,41 @@
       "name": "AngloGold Ashanti plc",
       "ticker": "AU",
       "exchange": "NYSE",
-      "title_or_role": "Independent Non-Executive Director",
+      "title_or_role": "Lead Independent Director",
       "website": "https://www.anglogoldashanti.com",
-      "start_date": "2010-08-12",
-      "end_date": null
+      "start_date": "2019",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Sasol Limited",
+      "ticker": "SSL",
+      "exchange": "NYSE",
+      "website": "https://www.sasol.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2026-02-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Growthpoint Properties Limited",
+      "ticker": "GRT",
+      "exchange": "JSE",
+      "website": "https://growthpoint.co.za",
+      "title_or_role": "Chairman",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "MTN Nigeria Communications plc",
+      "ticker": "MTNN",
+      "exchange": "NGX",
+      "website": "https://www.mtn.ng",
+      "title_or_role": "Audit Committee Chairman",
+      "start_date": "2015-04-01",
+      "end_date": "2024-05-31",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +56,6 @@
   "committees": [
     "Audit and Risk Committee",
     "Investment Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

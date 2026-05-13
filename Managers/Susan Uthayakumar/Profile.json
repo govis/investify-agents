@@ -11,11 +11,42 @@
     {
       "name": "Electra Battery Materials Corporation",
       "ticker": "ELBM",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://electrabmc.com",
-      "start_date": "2021-09-01",
-      "end_date": null
+      "exchange": "TSX-V",
+      "title_or_role": "Director",
+      "website": "https://electrabmc.com/",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Prologis, Inc.",
+      "ticker": "PLD",
+      "exchange": "NYSE",
+      "website": "https://www.prologis.com/",
+      "title_or_role": "Chief Energy and Sustainability Officer",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Adesto Technologies Corporation",
+      "ticker": "IOTS",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Schneider Electric SE",
+      "ticker": "SU",
+      "exchange": "Euronext Paris",
+      "website": "https://www.se.com/",
+      "title_or_role": "President, Global Sustainability Business Division / CEO, Schneider Electric Canada",
+      "start_date": "2005",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +56,6 @@
   "committees": [
     "Audit Committee",
     "Governance and Nominating Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

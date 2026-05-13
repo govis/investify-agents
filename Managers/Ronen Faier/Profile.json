@@ -12,15 +12,27 @@
       "name": "SolarEdge Technologies, Inc.",
       "ticker": "SEDG",
       "exchange": "NASDAQ",
-      "title_or_role": "Interim Chief Executive Officer, Chief Financial Officer",
+      "title_or_role": "Chief Financial Officer and Interim CEO",
       "website": "https://www.solaredge.com",
-      "start_date": "2024-08-26",
-      "end_date": null
+      "start_date": "2010-12",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kaltura, Inc.",
+      "ticker": "KLTR",
+      "exchange": "NASDAQ",
+      "website": "https://corp.kaltura.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2021-07",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -10,17 +10,29 @@
   "company_affiliations": [
     {
       "name": "A.P. M\u00f8ller - M\u00e6rsk A/S",
-      "ticker": "AMKBY",
-      "exchange": "OTC",
-      "title_or_role": "Chief Product Officer, Logistics & Services",
-      "website": "https://www.maersk.com",
-      "start_date": "2023-02-01",
-      "end_date": null
+      "ticker": "MAERSK-B",
+      "exchange": "Nasdaq Copenhagen",
+      "title_or_role": "SVP, Head of Business Platforms / Chief Product Officer",
+      "website": "maersk.com",
+      "start_date": "2020",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Freightos Limited",
+      "ticker": "CRGO",
+      "exchange": "NASDAQ",
+      "website": "freightos.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

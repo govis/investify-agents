@@ -12,10 +12,41 @@
       "name": "Komatsu Ltd.",
       "ticker": "KMTUY",
       "exchange": "OTC",
-      "title_or_role": "Outside Director",
-      "website": "https://www.komatsu.jp",
-      "start_date": "2022-06-01",
-      "end_date": null
+      "title_or_role": "External Director",
+      "website": "https://www.komatsu.jp/",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fast Retailing Co., Ltd.",
+      "ticker": "FRCOY",
+      "exchange": "OTC",
+      "website": "https://www.fastretailing.com/",
+      "title_or_role": "External Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sumitomo Mitsui Financial Group, Inc.",
+      "ticker": "SMFG",
+      "exchange": "NYSE",
+      "website": "https://www.smfg.co.jp/",
+      "title_or_role": "Special Advisor (formerly President & CEO of Sumitomo Mitsui Banking Corporation)",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Taisho Pharmaceutical Holdings Co., Ltd.",
+      "ticker": "4581",
+      "exchange": "OTC",
+      "website": "https://www.taisho.co.jp/",
+      "title_or_role": "External Director",
+      "start_date": "2019",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +56,6 @@
   "committees": [
     "Compensation Committee",
     "Nomination Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

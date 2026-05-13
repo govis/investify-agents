@@ -16,6 +16,46 @@
       "website": "https://www.tsmc.com",
       "start_date": "2018-06-05",
       "end_date": null
+    },
+    {
+      "name": "Xilinx, Inc.",
+      "ticker": "XLNX",
+      "exchange": "NASDAQ",
+      "website": "www.xilinx.com",
+      "title_or_role": "President and CEO",
+      "start_date": "2008",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Verisity, Ltd.",
+      "ticker": "VRST",
+      "exchange": "NASDAQ",
+      "website": "www.verisity.com",
+      "title_or_role": "CEO",
+      "start_date": "1998",
+      "end_date": "2005",
+      "validated": true
+    },
+    {
+      "name": "Cadence Design Systems, Inc.",
+      "ticker": "CDNS",
+      "exchange": "NASDAQ",
+      "website": "www.cadence.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2025-01-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company Limited (TSMC)",
+      "ticker": "TSM",
+      "exchange": "NYSE",
+      "website": "www.tsmc.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +66,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

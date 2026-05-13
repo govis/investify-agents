@@ -12,10 +12,31 @@
       "name": "Jacobs Solutions Inc.",
       "ticker": "J",
       "exchange": "NYSE",
-      "title_or_role": "Director",
+      "title_or_role": "Executive Vice President and President, Critical Mission Solutions",
       "website": "https://www.jacobs.com",
-      "start_date": "2024-01-01",
-      "end_date": null
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The KeyW Holding Corporation",
+      "ticker": "KEYW",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "President, Agile Networks Sector",
+      "start_date": "2016",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Amentum Holdings, Inc.",
+      "ticker": "AMTM",
+      "exchange": "NYSE",
+      "website": "https://www.amentum.com",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +44,6 @@
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

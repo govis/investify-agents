@@ -12,15 +12,17 @@
       "name": "Spire Global, Inc.",
       "ticker": "SPIR",
       "exchange": "NYSE",
-      "title_or_role": "Chief Operating Officer",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://spire.com",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

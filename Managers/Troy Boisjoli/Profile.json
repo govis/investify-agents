@@ -11,16 +11,28 @@
     {
       "name": "Atha Energy Corp.",
       "ticker": "SASK",
-      "exchange": "TSX",
-      "title_or_role": "Chief Executive Officer, Director",
-      "website": "https://www.athaenergy.com",
-      "start_date": "2023-03-24",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "Chief Executive Officer",
+      "website": "https://athaenergy.com/",
+      "start_date": "May 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Murchison Minerals Ltd.",
+      "ticker": "MUR",
+      "exchange": "TSXV",
+      "website": "https://murchisonminerals.ca/",
+      "title_or_role": "President and CEO",
+      "start_date": "October 2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

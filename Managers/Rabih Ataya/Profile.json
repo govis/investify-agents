@@ -10,12 +10,13 @@
   "company_affiliations": [
     {
       "name": "Western Magnesium Corporation",
-      "ticker": "WMG",
-      "exchange": "TSX",
-      "title_or_role": "Director",
-      "website": "https://westernmagnesium.com",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "ticker": "WMG.V",
+      "exchange": "TSXV",
+      "title_or_role": "Director / Executive Vice President, Special Projects",
+      "website": "https://www.westernmagnesium.com/",
+      "start_date": "March 2020",
+      "end_date": "June 1, 2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +25,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

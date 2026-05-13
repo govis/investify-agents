@@ -12,10 +12,31 @@
       "name": "OceanaGold Corporation",
       "ticker": "OGC",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://oceanagold.com",
-      "start_date": "2021-05-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "oceanagold.com",
+      "start_date": "May 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Detour Gold Corporation",
+      "ticker": "DGC",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "CEO",
+      "start_date": "2018",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Stillwater Mining Company",
+      "ticker": "SWC",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "President & CEO",
+      "start_date": "2013",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "committees": [
     "Remuneration and People Committee (Chair)",
     "Sustainability Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

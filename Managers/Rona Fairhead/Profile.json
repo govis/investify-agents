@@ -16,6 +16,36 @@
       "website": "https://www.oracle.com",
       "start_date": "2019-07-01",
       "end_date": null
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "ticker": "HSBA",
+      "exchange": "LSE",
+      "website": "https://www.hsbc.com",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "PepsiCo, Inc.",
+      "ticker": "PEP",
+      "exchange": "NASDAQ",
+      "website": "https://www.pepsico.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Pearson plc",
+      "ticker": "PSON",
+      "exchange": "LSE",
+      "website": "https://www.pearson.com",
+      "title_or_role": "Chief Financial Officer / Director",
+      "start_date": "2002",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +55,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

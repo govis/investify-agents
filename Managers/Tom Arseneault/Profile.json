@@ -10,17 +10,29 @@
   "company_affiliations": [
     {
       "name": "BAE Systems plc",
-      "ticker": "BA",
-      "exchange": "LSE",
-      "title_or_role": "President and CEO, BAE Systems, Inc.",
+      "ticker": "BA.L",
+      "exchange": "LSE (London Stock Exchange)",
+      "title_or_role": "Executive Director (Board of Directors)",
       "website": "https://www.baesystems.com",
-      "start_date": "2020-04-01",
-      "end_date": null
+      "start_date": "April 1, 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BAE Systems, Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://www.baesystems.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "April 1, 2020",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

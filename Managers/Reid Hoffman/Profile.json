@@ -12,10 +12,51 @@
       "name": "Microsoft Corporation",
       "ticker": "MSFT",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Board Member",
       "website": "https://www.microsoft.com",
-      "start_date": "2017-03-01",
-      "end_date": null
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "LinkedIn Corporation",
+      "ticker": "LNKD",
+      "exchange": "NYSE",
+      "website": "https://www.linkedin.com",
+      "title_or_role": "Co-Founder, Executive Chairman, Board Member",
+      "start_date": "2002",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Reinvent Technology Partners (SPAC)",
+      "ticker": "RTP",
+      "exchange": "NYSE",
+      "website": "https://www.reinventtechnologypartners.com",
+      "title_or_role": "Co-Founder, Director",
+      "start_date": "2020",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Reinvent Technology Partners Y (SPAC)",
+      "ticker": "RTPY",
+      "exchange": "NASDAQ",
+      "website": "https://www.reinventtechnologypartners.com",
+      "title_or_role": "Co-Founder, Director",
+      "start_date": "2021",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Reinvent Technology Partners Z (SPAC)",
+      "ticker": "RTPZ",
+      "exchange": "NYSE",
+      "website": "https://www.reinventtechnologypartners.com",
+      "title_or_role": "Co-Founder, Director",
+      "start_date": "2020",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +66,6 @@
   "socials": [],
   "committees": [
     "Governance and Nominating Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

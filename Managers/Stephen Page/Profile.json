@@ -12,10 +12,31 @@
       "name": "AeroVironment, Inc.",
       "ticker": "AVAV",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
+      "title_or_role": "Independent Director",
       "website": "https://www.avinc.com",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "start_date": "2013-04-24",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "United Technologies Corporation",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "title_or_role": "President and Chief Executive Officer of Otis Elevator",
+      "start_date": null,
+      "end_date": "2004",
+      "validated": true
+    },
+    {
+      "name": "The Black & Decker Corporation",
+      "ticker": "SWK",
+      "exchange": "NYSE",
+      "website": "https://www.stanleyblackanddecker.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "committees": [
     "Audit Committee",
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

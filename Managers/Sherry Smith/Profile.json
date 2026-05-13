@@ -12,10 +12,31 @@
       "name": "Deere & Company",
       "ticker": "DE",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member of the Board of Directors (Lead Director)",
       "website": "https://www.deere.com",
-      "start_date": "2011-01-01",
-      "end_date": null
+      "start_date": "2011",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Piper Sandler Companies",
+      "ticker": "PIPR",
+      "exchange": "NYSE",
+      "website": "https://www.pipersandler.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": null,
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Anywhere Real Estate Inc.",
+      "ticker": "HOUS",
+      "exchange": "NYSE",
+      "website": "https://anywhere.re",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2014",
+      "end_date": "2025",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

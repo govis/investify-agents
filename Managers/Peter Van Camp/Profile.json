@@ -12,15 +12,47 @@
       "name": "Equinix, Inc.",
       "ticker": "EQIX",
       "exchange": "NASDAQ",
-      "title_or_role": "Executive Chairman, Director",
+      "title_or_role": "Chief Executive Officer, President, Executive Chairman",
       "website": "https://www.equinix.com",
-      "start_date": "2007-04-01",
-      "end_date": null
+      "start_date": "2000",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Silver Spring Networks, Inc.",
+      "ticker": "SSNI",
+      "exchange": "NYSE",
+      "website": "https://www.itron.com",
+      "title_or_role": "Director / Lead Independent Director",
+      "start_date": "2013",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Packeteer, Inc.",
+      "ticker": "PKTR",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Paradyne Networks, Inc.",
+      "ticker": "PDYN",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "title_or_role": "Director",
+      "start_date": "2000",
+      "end_date": "2002",
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

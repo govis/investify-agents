@@ -16,6 +16,26 @@
       "website": "https://www.arm.com",
       "start_date": "2022-01-01",
       "end_date": null
+    },
+    {
+      "name": "Zurn Elkay Water Solutions Corporation",
+      "ticker": "ZWS",
+      "exchange": "NYSE",
+      "website": "https://www.zurnelkay.com/",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cloudera, Inc.",
+      "ticker": "CLDR",
+      "exchange": "NYSE",
+      "website": "https://www.cloudera.com/",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +44,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

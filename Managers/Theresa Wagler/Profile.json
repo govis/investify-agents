@@ -12,15 +12,27 @@
       "name": "Steel Dynamics, Inc.",
       "ticker": "STLD",
       "exchange": "NASDAQ",
-      "title_or_role": "Executive Vice President, Chief Financial Officer and Corporate Secretary",
+      "title_or_role": "Executive Vice President, Chief Financial Officer, and Corporate Secretary",
       "website": "https://www.steeldynamics.com",
-      "start_date": "2007-05",
-      "end_date": null
+      "start_date": "May 2007",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CF Industries Holdings, Inc.",
+      "ticker": "CF",
+      "exchange": "NYSE",
+      "website": "https://www.cfindustries.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

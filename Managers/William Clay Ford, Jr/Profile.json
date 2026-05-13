@@ -12,10 +12,11 @@
       "name": "Ford Motor Company",
       "ticker": "F",
       "exchange": "NYSE",
-      "title_or_role": "Executive Chair",
+      "title_or_role": "Director (1988\u2013Present), Chairman of the Board (1999\u2013Present), CEO (2001\u20132006), Various management positions (Prior to 1999)",
       "website": "https://www.ford.com",
-      "start_date": "2006-09-01",
-      "end_date": null
+      "start_date": "1988",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +24,6 @@
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -12,15 +12,97 @@
       "name": "Artemis Gold Inc.",
       "ticker": "ARTG",
       "exchange": "TSX",
-      "title_or_role": "Chairman and Chief Executive Officer",
+      "title_or_role": "Executive Chairman",
       "website": "https://www.artemisgoldinc.com",
-      "start_date": "2019-01-10",
-      "end_date": null
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Oceanic Iron Ore Corp.",
+      "ticker": "FEO",
+      "exchange": "TSX-V",
+      "website": "https://oceanicironore.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Amerigo Resources Ltd.",
+      "ticker": "ARG",
+      "exchange": "TSX",
+      "website": "https://www.amerigoresources.com",
+      "title_or_role": "Chairman & Director",
+      "start_date": "2003",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Calibre Mining Corp.",
+      "ticker": "CXB",
+      "exchange": "TSX",
+      "website": "https://calibremining.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Oriel Resources Plc",
+      "ticker": "N/A",
+      "exchange": "LSE",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rusoro Mining Ltd.",
+      "ticker": "RML",
+      "exchange": "TSX-V",
+      "website": "https://rusoro.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Terrane Metals Corp.",
+      "ticker": "TRX",
+      "exchange": "TSX-V",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Infinito Gold Ltd.",
+      "ticker": "IG",
+      "exchange": "TSX-V",
+      "website": "https://infinitogold.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Spur Ventures Inc.",
+      "ticker": "SVU",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

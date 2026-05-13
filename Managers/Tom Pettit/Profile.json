@@ -14,13 +14,55 @@
       "exchange": "NYSE",
       "title_or_role": "Chief Operations Officer",
       "website": "https://www.generac.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "start_date": "February 17, 2020",
+      "end_date": "November 1, 2022",
+      "validated": true
+    },
+    {
+      "name": "Xylem Inc.",
+      "ticker": "XYL",
+      "exchange": "NYSE",
+      "website": "https://www.xylem.com",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "nVent Electric PLC",
+      "ticker": "NVT",
+      "exchange": "NYSE",
+      "website": "https://www.nvent.com",
+      "title_or_role": "Executive Vice President / Chief Integrated Supply Chain Officer",
+      "start_date": null,
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Ryder System, Inc.",
+      "ticker": "R",
+      "exchange": "NYSE",
+      "website": "https://www.ryder.com",
+      "title_or_role": "Senior Vice President and General Manager, Supply Chain Solutions",
+      "start_date": null,
+      "end_date": "Prior to 2020",
+      "validated": true
+    },
+    {
+      "name": "Pentair plc",
+      "ticker": "PNR",
+      "exchange": "NYSE",
+      "website": "https://www.pentair.com",
+      "title_or_role": "Senior Vice President, Global Operations and Supply",
+      "start_date": null,
+      "end_date": "Prior to 2020",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

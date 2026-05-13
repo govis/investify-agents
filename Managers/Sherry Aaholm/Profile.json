@@ -16,6 +16,26 @@
       "website": "https://www.odfl.com",
       "start_date": "2022-01-01",
       "end_date": null
+    },
+    {
+      "name": "nVent Electric plc",
+      "ticker": "NVT",
+      "exchange": "NYSE",
+      "website": "https://www.nvent.com",
+      "title_or_role": "Director",
+      "start_date": "2023-05-16",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cummins Inc.",
+      "ticker": "CMI",
+      "exchange": "NYSE",
+      "website": "https://www.cummins.com",
+      "title_or_role": "Chief Information Officer",
+      "start_date": "2013",
+      "end_date": "2021-03-31",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +44,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

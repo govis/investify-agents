@@ -10,17 +10,39 @@
   "company_affiliations": [
     {
       "name": "Seabridge Gold Inc.",
-      "ticker": "SA",
-      "exchange": "NYSE",
+      "ticker": "SEA",
+      "exchange": "NYSE, TSX",
       "title_or_role": "Senior Vice President, Exploration",
       "website": "https://www.seabridgegold.com",
-      "start_date": "2000-01-01",
-      "end_date": null
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gold Standard Ventures Corp.",
+      "ticker": "GSV",
+      "exchange": "TSX",
+      "website": "https://www.goldstandardv.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Orla Mining Ltd.",
+      "ticker": "OLA, ORLA",
+      "exchange": "TSX, NYSE",
+      "website": "https://www.orlamining.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,66 @@
       "website": "https://lynasrareearths.com",
       "start_date": "2020-10-01",
       "end_date": null
+    },
+    {
+      "name": "Toro Energy Limited",
+      "ticker": "TOE",
+      "exchange": "ASX",
+      "website": "https://toroenergy.com.au/",
+      "title_or_role": "Managing Director",
+      "start_date": "2013",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Santos Limited",
+      "ticker": "STO",
+      "exchange": "ASX",
+      "website": "https://www.santos.com/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2017",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Adbri Limited (formerly Adelaide Brighton)",
+      "ticker": "ABC",
+      "exchange": "ASX",
+      "website": "https://www.adbri.com.au/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2018",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Vimy Resources Limited",
+      "ticker": "VMY",
+      "exchange": "ASX",
+      "website": "https://vimyresources.com.au/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2017",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Cleanaway Waste Management Limited",
+      "ticker": "CWY",
+      "exchange": "ASX",
+      "website": "https://www.cleanaway.com.au/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "IGO Limited",
+      "ticker": "IGO",
+      "exchange": "ASX",
+      "website": "https://www.igo.com.au/",
+      "title_or_role": "Non-Executive Director / Incoming Chair",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +85,6 @@
   "committees": [
     "Nomination and Governance Committee",
     "Remuneration Committee (Chair)"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

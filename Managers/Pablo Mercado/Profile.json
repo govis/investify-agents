@@ -12,10 +12,41 @@
       "name": "Lithium Americas Corp.",
       "ticker": "LAC",
       "exchange": "NYSE",
-      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "title_or_role": "Chief Financial Officer",
       "website": "https://www.lithiumamericas.com",
-      "start_date": "2023-10-04",
-      "end_date": null
+      "start_date": "2023-05",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "EnLink Midstream, LLC",
+      "ticker": "ENLC",
+      "exchange": "NYSE",
+      "website": "https://www.enlink.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2020-07",
+      "end_date": "2023-05",
+      "validated": true
+    },
+    {
+      "name": "Forum Energy Technologies, Inc.",
+      "ticker": "FET",
+      "exchange": "NYSE",
+      "website": "https://www.f-e-t.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2013",
+      "end_date": "2020-07",
+      "validated": true
+    },
+    {
+      "name": "Comfort Systems USA, Inc.",
+      "ticker": "FIX",
+      "exchange": "NYSE",
+      "website": "https://www.comfortsystemsusa.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +54,6 @@
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

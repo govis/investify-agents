@@ -12,10 +12,61 @@
       "name": "Micron Technology, Inc.",
       "ticker": "MU",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.micron.com",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Freescale Semiconductor, Inc.",
+      "ticker": "FSL",
+      "exchange": "NYSE",
+      "website": "https://www.nxp.com",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Intersil Corporation",
+      "ticker": "ISIL",
+      "exchange": "NASDAQ",
+      "website": "https://www.renesas.com",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "2002",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Microsemi Corporation",
+      "ticker": "MSCC",
+      "exchange": "NASDAQ",
+      "website": "https://www.microchip.com",
+      "title_or_role": "Independent Director",
+      "start_date": null,
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Analog Devices, Inc.",
+      "ticker": "ADI",
+      "exchange": "NASDAQ",
+      "website": "https://www.analog.com",
+      "title_or_role": "Independent Non-Employee Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "VLSI Technology, Inc.",
+      "ticker": "VLSI",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "President, Chief Operating Officer, and Director",
+      "start_date": "1996",
+      "end_date": "1998",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +77,6 @@
   "committees": [
     "Compensation Committee",
     "Governance and Sustainability Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

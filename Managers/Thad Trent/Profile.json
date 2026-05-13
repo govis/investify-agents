@@ -16,11 +16,32 @@
       "website": "https://www.onsemi.com",
       "start_date": "2021-02-16",
       "end_date": null
+    },
+    {
+      "name": "Lumentum Holdings Inc.",
+      "ticker": "LITE",
+      "exchange": "NASDAQ",
+      "website": "https://www.lumentum.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2025-12-15",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cypress Semiconductor Corporation",
+      "ticker": "CY",
+      "exchange": "NASDAQ",
+      "website": "https://www.infineon.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": null,
+      "end_date": "2020-04-16",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

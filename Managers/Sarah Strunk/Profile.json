@@ -16,6 +16,16 @@
       "website": "https://www.teck.com",
       "start_date": "2023-04-26",
       "end_date": null
+    },
+    {
+      "name": "Arizona Sonoran Copper Company Inc.",
+      "ticker": "ASCU",
+      "exchange": "TSX",
+      "website": "https://arizonasonoran.com/",
+      "title_or_role": "Director",
+      "start_date": "2022-01-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +35,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

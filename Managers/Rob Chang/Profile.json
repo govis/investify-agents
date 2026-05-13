@@ -12,28 +12,31 @@
       "name": "Fission Uranium Corp.",
       "ticker": "FCU",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://fissionuranium.com",
-      "start_date": "2018-04-25",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.fissionuranium.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Revival Gold Inc.",
       "ticker": "RVG",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
       "website": "https://revival-gold.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Ur-Energy Inc.",
       "ticker": "URG",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "exchange": "NYSE/TSX",
+      "title_or_role": "Director",
       "website": "https://www.ur-energy.com",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -47,5 +50,6 @@
     "Compensation, Governance and Nominating Committee",
     "Corporate Governance and Nominating Committee",
     "Governance and Nominating Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

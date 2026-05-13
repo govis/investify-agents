@@ -12,10 +12,31 @@
       "name": "TransDigm Group Incorporated",
       "ticker": "TDG",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Lead Independent Director",
       "website": "https://www.transdigm.com",
-      "start_date": "2010-01-01",
-      "end_date": null
+      "start_date": "2003",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Carter's, Inc.",
+      "ticker": "CRI",
+      "exchange": "NYSE",
+      "website": "https://www.carters.com",
+      "title_or_role": "Director",
+      "start_date": "2001",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Coty Inc.",
+      "ticker": "COTY",
+      "exchange": "NYSE",
+      "website": "https://www.coty.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "committees": [
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

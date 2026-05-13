@@ -16,11 +16,42 @@
       "website": "https://www.kla.com",
       "start_date": "2006-01-01",
       "end_date": null
+    },
+    {
+      "name": "Marvell Technology, Inc.",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "website": "https://www.marvell.com",
+      "title_or_role": "Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NetApp, Inc.",
+      "ticker": "NTAP",
+      "exchange": "NASDAQ",
+      "website": "https://www.netapp.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2011",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Proofpoint, Inc.",
+      "ticker": "PFPT",
+      "exchange": "NASDAQ",
+      "website": "https://www.proofpoint.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

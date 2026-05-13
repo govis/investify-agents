@@ -16,6 +16,16 @@
       "website": "https://www.paladinenergy.com.au",
       "start_date": "2019-12-11",
       "end_date": null
+    },
+    {
+      "name": "Paladin Energy Ltd.",
+      "ticker": "PDN",
+      "exchange": "ASX",
+      "website": "https://www.paladinenergy.com/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "December 2019",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +35,6 @@
   "committees": [
     "Audit and Risk Committee (Chair)",
     "Remuneration and Nomination Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

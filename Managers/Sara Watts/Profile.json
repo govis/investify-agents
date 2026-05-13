@@ -16,6 +16,16 @@
       "website": "https://www.syrahresources.com.au",
       "start_date": "2019-06-03",
       "end_date": null
+    },
+    {
+      "name": "Nuix Limited",
+      "ticker": "NXL",
+      "exchange": "ASX",
+      "website": "https://www.nuix.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "January 2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +35,6 @@
   "committees": [
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

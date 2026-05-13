@@ -12,10 +12,21 @@
       "name": "Li-Cycle Holdings Corp.",
       "ticker": "LICY",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director (Board of Directors)",
       "website": "https://li-cycle.com",
-      "start_date": "2021-08-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "iClick Interactive Asia Group Limited",
+      "ticker": "ICLK",
+      "exchange": "NASDAQ",
+      "website": "https://ir.i-click.com",
+      "title_or_role": "Director (Board of Directors)",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Audit Committee",
     "Health, Safety, Environmental and Plant Operations Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,26 @@
       "website": "https://www.pel.net.au",
       "start_date": "2022-06-01",
       "end_date": null
+    },
+    {
+      "name": "Kumba Iron Ore Limited",
+      "ticker": "KIO",
+      "exchange": "Johannesburg Stock Exchange",
+      "website": "https://www.angloamericankumba.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2019-11-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Orion Minerals Limited",
+      "ticker": "ORN",
+      "exchange": "Australian Securities Exchange",
+      "website": "https://orionminerals.com.au",
+      "title_or_role": "Executive - Finance & Administration (South Africa)",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +44,6 @@
   "socials": [],
   "committees": [
     "Audit and Risk Management Committee (Chair)"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

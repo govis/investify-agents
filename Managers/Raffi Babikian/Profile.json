@@ -13,9 +13,10 @@
       "ticker": "LAM",
       "exchange": "TSX",
       "title_or_role": "Independent Director",
-      "website": "https://laramide.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "website": "https://laramide.com/",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +26,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

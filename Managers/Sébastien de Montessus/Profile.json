@@ -11,16 +11,38 @@
     {
       "name": "Endeavour Mining plc",
       "ticker": "EDV",
-      "exchange": "TSX",
-      "title_or_role": "Unknown Role",
+      "exchange": "LSE",
+      "title_or_role": "President and CEO",
       "website": "https://www.endeavourmining.com",
-      "start_date": null,
-      "end_date": null
+      "start_date": "2016",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "La Mancha Resources Inc.",
+      "ticker": "LMA",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Mansa Resources Ltd",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://mansaresources.com",
+      "title_or_role": "CEO",
+      "start_date": "2026",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

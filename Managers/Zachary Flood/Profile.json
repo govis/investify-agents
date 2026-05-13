@@ -12,15 +12,37 @@
       "name": "Faraday Copper Corp.",
       "ticker": "FDY",
       "exchange": "TSX",
-      "title_or_role": "Vice President, Exploration and Director",
-      "website": "https://faradaycopper.com",
-      "start_date": "2021-03-01",
-      "end_date": null
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "website": "https://faradaycopper.com/",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kenorland Minerals Ltd.",
+      "ticker": "KLD",
+      "exchange": "TSXV",
+      "website": "https://kenorlandminerals.com/",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "2020",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "CopperBank Resources Corp.",
+      "ticker": "CBK",
+      "exchange": "CSE",
+      "website": "https://faradaycopper.com/",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "2014",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

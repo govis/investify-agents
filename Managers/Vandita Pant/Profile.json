@@ -14,8 +14,9 @@
       "exchange": "ASX",
       "title_or_role": "Chief Financial Officer",
       "website": "https://www.bhp.com",
-      "start_date": "2024-03-01",
-      "end_date": null
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "BHP Group Limited",
@@ -25,6 +26,26 @@
       "website": "https://www.bhp.com",
       "start_date": "2024-03-01",
       "end_date": null
+    },
+    {
+      "name": "NatWest Group plc",
+      "ticker": "NWG",
+      "exchange": "LSE",
+      "website": "https://www.natwestgroup.com",
+      "title_or_role": "Business Treasurer",
+      "start_date": "2008",
+      "end_date": "2010",
+      "validated": true
+    },
+    {
+      "name": "ABN AMRO Bank N.V.",
+      "ticker": "ABN",
+      "exchange": "AEX",
+      "website": "https://www.abnamro.com",
+      "title_or_role": "Executive Director, Head of Strategy, Global Markets",
+      "start_date": null,
+      "end_date": "2008",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -32,5 +53,6 @@
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -13,14 +13,16 @@
       "ticker": "DEG",
       "exchange": "ASX",
       "title_or_role": "Project Director",
-      "website": "https://degreymining.com.au",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "website": "https://degreymining.com.au/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

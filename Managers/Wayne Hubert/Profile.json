@@ -16,6 +16,46 @@
       "website": "https://revival-gold.com",
       "start_date": "2017-01-01",
       "end_date": null
+    },
+    {
+      "name": "InZinc Mining Ltd.",
+      "ticker": "IZN",
+      "exchange": "TSXV",
+      "website": "https://inzincmining.com/",
+      "title_or_role": "Chief Executive Officer & Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Austral Gold Limited",
+      "ticker": "AGLD",
+      "exchange": "ASX",
+      "website": "https://www.australgold.com/",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Candelaria Mining Corp.",
+      "ticker": "CAND",
+      "exchange": "TSXV",
+      "website": "https://www.candelariamining.com/",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Andean Resources Limited",
+      "ticker": "AND",
+      "exchange": "ASX",
+      "website": "https://www.asx.com.au/markets/company/and",
+      "title_or_role": "Chief Executive Officer & Director",
+      "start_date": "2006",
+      "end_date": "2010",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +65,6 @@
   "committees": [
     "Audit Committee",
     "Compensation, Governance and Nominating Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

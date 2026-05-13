@@ -16,6 +16,26 @@
       "website": "https://www.boeing.com",
       "start_date": "2024-03-25",
       "end_date": null
+    },
+    {
+      "name": "Dell Technologies Inc.",
+      "ticker": "DELL",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Qualcomm Incorporated",
+      "ticker": "QCOM",
+      "exchange": "NASDAQ",
+      "website": "https://www.qualcomm.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2013",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +45,6 @@
   "committees": [
     "Compensation",
     "Governance & Public Policy (Chair)"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

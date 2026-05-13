@@ -12,15 +12,17 @@
       "name": "Datadog, Inc.",
       "ticker": "DDOG",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Executive Officer, Director",
-      "website": "https://www.datadoghq.com",
-      "start_date": "2010-01-01",
-      "end_date": null
+      "title_or_role": "Co-founder and Chief Executive Officer (Director)",
+      "website": "https://www.datadoghq.com/",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

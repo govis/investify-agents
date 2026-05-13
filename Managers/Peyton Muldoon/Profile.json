@@ -16,6 +16,16 @@
       "website": "https://www.sprottetfs.com/setm-sprott-energy-transition-materials-etf/",
       "start_date": "2018",
       "end_date": null
+    },
+    {
+      "name": "Sprott Focus Trust, Inc.",
+      "ticker": "FUND",
+      "exchange": "NASDAQ",
+      "website": "https://sprottfocustrust.com",
+      "title_or_role": "Director",
+      "start_date": "March 26, 2018",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +36,6 @@
   "committees": [
     "Audit Committee",
     "Nominating and Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

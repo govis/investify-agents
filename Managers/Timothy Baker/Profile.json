@@ -11,11 +11,52 @@
     {
       "name": "Triple Flag Precious Metals Corp.",
       "ticker": "TFPM",
-      "exchange": "NYSE",
+      "exchange": "TSX/NYSE",
       "title_or_role": "Independent Director",
       "website": "https://www.tripleflagpm.com",
-      "start_date": "2019-10-01",
-      "end_date": null
+      "start_date": "May 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "K/KGC",
+      "exchange": "TSX/NYSE",
+      "website": "https://www.kinross.com",
+      "title_or_role": "Executive Vice President and Chief Operating Officer",
+      "start_date": "June 2006",
+      "end_date": "October 2010",
+      "validated": true
+    },
+    {
+      "name": "Sherritt International Corporation",
+      "ticker": "S",
+      "exchange": "TSX",
+      "website": "https://www.sherritt.com",
+      "title_or_role": "Independent Director",
+      "start_date": "May 6, 2014",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Antofagasta PLC",
+      "ticker": "ANTO",
+      "exchange": "LSE",
+      "website": "https://www.antofagasta.co.uk",
+      "title_or_role": "Independent Director",
+      "start_date": "March 2012",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Augusta Resource Corporation",
+      "ticker": "AZC",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Independent Director",
+      "start_date": "September 2008",
+      "end_date": "2014",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +66,6 @@
   "committees": [
     "Audit Committee",
     "Compensation and ESG Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

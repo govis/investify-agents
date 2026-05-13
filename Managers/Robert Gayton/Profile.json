@@ -10,12 +10,43 @@
   "company_affiliations": [
     {
       "name": "B2Gold Corp.",
-      "ticker": "BTG",
-      "exchange": "NYSE",
+      "ticker": "BTO",
+      "exchange": "TSX",
       "title_or_role": "Director",
-      "website": "https://www.b2gold.com",
-      "start_date": "2007-11-30",
-      "end_date": null
+      "website": "https://b2gold.com",
+      "start_date": "2007",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Amerigo Resources Ltd.",
+      "ticker": "ARG",
+      "exchange": "TSX",
+      "website": "https://www.amerigoresources.com",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Western Silver Corporation",
+      "ticker": "WTZ",
+      "exchange": "AMEX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2006",
+      "validated": true
+    },
+    {
+      "name": "Silvercorp Metals Inc.",
+      "ticker": "SVM",
+      "exchange": "TSX",
+      "website": "https://silvercorpmetals.com",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +56,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

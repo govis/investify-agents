@@ -9,6 +9,20 @@ import html
 def sanitize_folder_name(name: str) -> str:
     return re.sub(r'[<>:"/\\|?*]', '', name).strip()
 
+def get_blocklist() -> Dict[str, str]:
+    """
+    Loads a dictionary of URLs to ignore from blocklist.json {url: name}.
+    """
+    blocklist_path = os.path.join(os.path.dirname(__file__), "blocklist.json")
+    if os.path.exists(blocklist_path):
+        try:
+            with open(blocklist_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                return {url.strip().lower(): name for url, name in data.items()}
+        except Exception as e:
+            print(f"Error loading blocklist.json: {e}")
+    return {}
+
 def download_image(url: str, manager_dir: str) -> Optional[str]:
     """
     Downloads an image from a URL and saves it as "Picture.ext" in the manager's directory.

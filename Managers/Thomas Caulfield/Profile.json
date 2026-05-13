@@ -12,15 +12,27 @@
       "name": "GlobalFoundries Inc.",
       "ticker": "GFS",
       "exchange": "NASDAQ",
-      "title_or_role": "Director, President and Chief Executive Officer",
+      "title_or_role": "President and Chief Executive Officer",
       "website": "https://gf.com",
-      "start_date": "2018-03-01",
-      "end_date": null
+      "start_date": "2018",
+      "end_date": "April 2025",
+      "validated": true
+    },
+    {
+      "name": "Western Digital Corporation",
+      "ticker": "WDC",
+      "exchange": "NASDAQ",
+      "website": "https://www.westerndigital.com",
+      "title_or_role": "Board Member",
+      "start_date": "2021",
+      "end_date": "February 2025",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

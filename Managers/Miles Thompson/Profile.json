@@ -14,13 +14,45 @@
       "exchange": "TSX",
       "title_or_role": "Director",
       "website": "https://forsysmetals.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lara Exploration Ltd.",
+      "ticker": "LRA",
+      "exchange": "TSXV",
+      "website": "https://laraexploration.com",
+      "title_or_role": "Chairman, President & CEO",
+      "start_date": "2003",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Reservoir Capital Corp.",
+      "ticker": "REO",
+      "exchange": "TSXV",
+      "website": "http://www.reservoircapitalcorp.com",
+      "title_or_role": "Chairman",
+      "start_date": "2005",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Reservoir Minerals Inc.",
+      "ticker": "RMC",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "President & CEO",
+      "start_date": "2009",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

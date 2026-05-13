@@ -16,6 +16,26 @@
       "website": "https://www.orlamining.com",
       "start_date": "2023-05-11",
       "end_date": null
+    },
+    {
+      "name": "AuRico Gold Inc.",
+      "ticker": "AUQ",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2011",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "website": "https://www.centerragold.com",
+      "title_or_role": "Senior Finance Roles",
+      "start_date": "2004",
+      "end_date": "2011",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +45,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

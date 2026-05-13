@@ -12,10 +12,21 @@
       "name": "SPDR Gold Trust",
       "ticker": "GLD",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member of the Board of Directors (World Gold Trust Services, LLC)",
       "website": "https://www.spdrgoldshares.com",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "start_date": "January 2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Caliber Imaging & Diagnostics",
+      "ticker": "CIBD",
+      "exchange": "NASDAQ",
+      "website": "https://caliberid.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "February 2011",
+      "end_date": "Not publicly specified",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +35,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

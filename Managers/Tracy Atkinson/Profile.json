@@ -13,18 +13,40 @@
       "ticker": "RTX",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
-      "website": "https://www.rtx.com",
-      "start_date": "2020-04-03",
-      "end_date": null
+      "website": "rtx.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "United States Steel Corporation",
       "ticker": "X",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
-      "website": "https://www.ussteel.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "website": "ussteel.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Citizens Financial Group, Inc.",
+      "ticker": "CFG",
+      "exchange": "NYSE",
+      "website": "citizensbank.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "State Street Corporation",
+      "ticker": "STT",
+      "exchange": "NYSE",
+      "website": "statestreet.com",
+      "title_or_role": "Executive Vice President / Chief Administration Officer",
+      "start_date": "2008",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,5 +58,6 @@
     "Audit",
     "Audit Committee",
     "Finance"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

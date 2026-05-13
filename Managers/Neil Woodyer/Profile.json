@@ -16,6 +16,36 @@
       "website": "https://www.equinoxgold.com",
       "start_date": "2020-03-10",
       "end_date": null
+    },
+    {
+      "name": "Aris Mining Corp.",
+      "ticker": "ARIS",
+      "exchange": "TSX",
+      "website": "https://aris-mining.com",
+      "title_or_role": "Chair and CEO",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Leagold Mining Corporation",
+      "ticker": "LMC",
+      "exchange": "TSX",
+      "website": "https://www.leagold.com",
+      "title_or_role": "CEO and Director",
+      "start_date": "2016",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Endeavour Mining",
+      "ticker": "EDV",
+      "exchange": "LSE/TSX",
+      "website": "https://www.endeavourmining.com",
+      "title_or_role": "CEO",
+      "start_date": "2003",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +55,6 @@
   "committees": [
     "Compensation Committee",
     "Governance and Nominating Committee (Chair)"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

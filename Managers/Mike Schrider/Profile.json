@@ -10,17 +10,19 @@
   "company_affiliations": [
     {
       "name": "Ucore Rare Metals Inc.",
-      "ticker": "UCU",
-      "exchange": "TSX",
-      "title_or_role": "Vice President, Chief Operating Officer",
+      "ticker": "UCU (TSXV), UURAF (OTCQX)",
+      "exchange": "TSXV, OTCQX",
+      "title_or_role": "Vice President and Chief Operating Officer (COO)",
       "website": "https://ucore.com",
-      "start_date": "2021-02-01",
-      "end_date": null
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

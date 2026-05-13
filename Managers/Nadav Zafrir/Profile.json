@@ -12,10 +12,21 @@
       "name": "SolarEdge Technologies, Inc.",
       "ticker": "SEDG",
       "exchange": "NASDAQ",
-      "title_or_role": "Chairman of the Board",
+      "title_or_role": "Member of the Board of Directors (formerly Chairman)",
       "website": "https://www.solaredge.com",
-      "start_date": "2019-05-01",
-      "end_date": null
+      "start_date": "2019",
+      "end_date": "2025-10-02",
+      "validated": true
+    },
+    {
+      "name": "Check Point Software Technologies Ltd.",
+      "ticker": "CHKP",
+      "exchange": "NASDAQ",
+      "website": "https://www.checkpoint.com",
+      "title_or_role": "CEO and Member of the Board of Directors",
+      "start_date": "2024-12-16",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +35,6 @@
   "socials": [],
   "committees": [
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

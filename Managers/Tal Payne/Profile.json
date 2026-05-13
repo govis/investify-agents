@@ -12,10 +12,41 @@
       "name": "SolarEdge Technologies, Inc.",
       "ticker": "SEDG",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "website": "https://www.solaredge.com",
-      "start_date": "2015-02-01",
-      "end_date": null
+      "title_or_role": "Member of the Board of Directors",
+      "website": "https://www.solaredge.com/",
+      "start_date": "2015-03",
+      "end_date": "2024-11-05",
+      "validated": true
+    },
+    {
+      "name": "Check Point Software Technologies Ltd.",
+      "ticker": "CHKP",
+      "exchange": "NASDAQ",
+      "website": "https://www.checkpoint.com/",
+      "title_or_role": "Chief Financial Officer (CFO) and Chief Operating Officer (COO)",
+      "start_date": "2008",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "ironSource Ltd.",
+      "ticker": "IS",
+      "exchange": "NYSE",
+      "website": "https://www.is.com/",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2021-02",
+      "end_date": "2022-11",
+      "validated": true
+    },
+    {
+      "name": "Gilat Satellite Networks Ltd.",
+      "ticker": "GILT",
+      "exchange": "NASDAQ",
+      "website": "https://www.gilat.com/",
+      "title_or_role": "Chief Financial Officer (CFO)",
+      "start_date": "2003",
+      "end_date": "2008",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +55,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

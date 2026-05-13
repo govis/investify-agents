@@ -12,10 +12,21 @@
       "name": "Nucor Corporation",
       "ticker": "NUE",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://nucor.com",
-      "start_date": "2016-10-01",
-      "end_date": null
+      "title_or_role": "Director (Member of the Board of Directors)",
+      "website": "https://www.nucor.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Barnes Group Inc.",
+      "ticker": "B",
+      "exchange": "NYSE",
+      "website": "https://www.onebarnes.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2013",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Compensation and Executive Development",
     "Governance and Nominating"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

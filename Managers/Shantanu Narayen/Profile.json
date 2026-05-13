@@ -16,22 +16,22 @@
       "website": "https://www.adobe.com",
       "start_date": "2017-01-01",
       "end_date": null
+    },
+    {
+      "name": "Pfizer Inc.",
+      "ticker": "PFE",
+      "exchange": "NYSE",
+      "website": "https://www.pfizer.com",
+      "title_or_role": "Director (Lead Independent Director)",
+      "start_date": "2013-09-27",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
-  "socials": [
-    {
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/shantanu-narayen",
-      "picture_download_count": 2
-    },
-    {
-      "name": "Twitter",
-      "url": "https://x.com/snarayen",
-      "picture_download_count": 0
-    }
-  ],
-  "committees": []
+  "committees": [],
+  "enrichment_socials": "not_found",
+  "enrichment_company_affiliations": "success"
 }

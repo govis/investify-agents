@@ -11,11 +11,32 @@
     {
       "name": "Oracle Corporation",
       "ticker": "ORCL",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer, Director",
+      "exchange": "NASDAQ",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.oracle.com",
-      "start_date": "2014-09-01",
-      "end_date": null
+      "start_date": "2001",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "ticker": "HSBA",
+      "exchange": "LSE",
+      "website": "https://www.hsbc.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2008",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "The Walt Disney Company",
+      "ticker": "DIS",
+      "exchange": "NYSE",
+      "website": "https://thewaltdisneycompany.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "February 2018",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +44,6 @@
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

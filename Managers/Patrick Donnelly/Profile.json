@@ -11,16 +11,48 @@
     {
       "name": "Hudbay Minerals Inc.",
       "ticker": "HBM",
-      "exchange": "NYSE",
-      "title_or_role": "Senior Vice President, Legal and Organizational Effectiveness",
-      "website": "https://www.hudbayminerals.com",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "exchange": "TSX / NYSE",
+      "title_or_role": "Senior VP, Legal & Organizational Effectiveness",
+      "website": "hudbayminerals.com",
+      "start_date": "2008",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hana Mining Ltd.",
+      "ticker": "HMG",
+      "exchange": "TSXV",
+      "website": "hanamining.com",
+      "title_or_role": "VP, Corporate Development",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Copper Mountain Mining Corp.",
+      "ticker": "CMMC",
+      "exchange": "TSX",
+      "website": "cu-mt.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "HudBay Arizona Corp.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

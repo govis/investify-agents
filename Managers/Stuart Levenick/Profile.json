@@ -16,6 +16,26 @@
       "website": "https://www.entergy.com",
       "start_date": "2005-01-01",
       "end_date": null
+    },
+    {
+      "name": "Caterpillar Inc.",
+      "ticker": "CAT",
+      "exchange": "NYSE",
+      "website": "https://www.caterpillar.com",
+      "title_or_role": "Group President",
+      "start_date": "2004",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Finning International Inc.",
+      "ticker": "FTT",
+      "exchange": "TSX",
+      "website": "https://www.finning.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2016",
+      "end_date": "2025",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +46,6 @@
     "Corporate Governance",
     "Executive",
     "Personnel"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

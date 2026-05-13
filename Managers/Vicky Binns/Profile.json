@@ -13,9 +13,30 @@
       "ticker": "EVN",
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
-      "website": "https://evolutionmining.com.au",
-      "start_date": "2020-04-01",
-      "end_date": null
+      "website": "https://evolutionmining.com.au/",
+      "start_date": "March 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sims Limited",
+      "ticker": "SGM",
+      "exchange": "ASX",
+      "website": "https://www.simsltd.com/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "October 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX / NYSE",
+      "website": "https://www.bhp.com/",
+      "title_or_role": "Executive Leadership Roles (various, including Vice President Minerals Marketing)",
+      "start_date": "~2011",
+      "end_date": "~2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "committees": [
     "Audit Committee",
     "Nomination and Remuneration Committee (Chair)"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

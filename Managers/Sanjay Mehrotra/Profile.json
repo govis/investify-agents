@@ -12,10 +12,41 @@
       "name": "Micron Technology, Inc.",
       "ticker": "MU",
       "exchange": "NASDAQ",
-      "title_or_role": "Director, President and Chief Executive Officer",
+      "title_or_role": "President and CEO",
       "website": "https://www.micron.com",
-      "start_date": "2017-05-08",
-      "end_date": null
+      "start_date": "May 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CDW Corporation",
+      "ticker": "CDW",
+      "exchange": "NASDAQ",
+      "website": "https://www.cdw.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "March 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cavium, Inc.",
+      "ticker": "CAVM",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2009",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "SanDisk Corporation",
+      "ticker": "SNDK",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "1988",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +54,6 @@
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

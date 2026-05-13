@@ -12,15 +12,37 @@
       "name": "Northern Star Resources Limited",
       "ticker": "NST",
       "exchange": "ASX",
-      "title_or_role": "Managing Director and Chief Executive Officer",
+      "title_or_role": "Managing Director & Chief Executive Officer",
       "website": "https://www.nsrltd.com",
-      "start_date": "2021-07-22",
-      "end_date": null
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Oxiana Ltd (now OZ Minerals)",
+      "ticker": "OXR",
+      "exchange": "ASX",
+      "website": null,
+      "title_or_role": "Senior Leadership Role",
+      "start_date": null,
+      "end_date": null,
+      "validated": false
+    },
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "title_or_role": "Senior Leadership Role",
+      "start_date": null,
+      "end_date": null,
+      "validated": false
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

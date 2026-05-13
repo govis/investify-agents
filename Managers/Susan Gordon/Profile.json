@@ -12,19 +12,21 @@
       "name": "BlackSky Technology Inc.",
       "ticker": "BKSY",
       "exchange": "NYSE",
-      "title_or_role": "Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.blacksky.com",
-      "start_date": "2021-09-01",
-      "end_date": null
+      "start_date": "2021-10-05",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "CACI International Inc",
       "ticker": "CACI",
       "exchange": "NYSE",
-      "title_or_role": "Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.caci.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "start_date": "2020-02-12",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -35,5 +37,6 @@
     "Audit Committee",
     "Nominating and Corporate Governance Committee",
     "Security and Risk Assessment Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

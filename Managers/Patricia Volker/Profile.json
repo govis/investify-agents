@@ -10,12 +10,23 @@
   "company_affiliations": [
     {
       "name": "Denison Mines Corp.",
-      "ticker": "DNN",
+      "ticker": "DML",
       "exchange": "TSX",
-      "title_or_role": "Director",
-      "website": "https://denisonmines.com",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "title_or_role": "Independent Director",
+      "website": "https://www.denisonmines.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Labrador Iron Ore Royalty Corporation",
+      "ticker": "LIF",
+      "exchange": "TSX",
+      "website": "https://www.labradorironore.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

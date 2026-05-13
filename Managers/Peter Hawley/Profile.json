@@ -16,6 +16,26 @@
       "website": "https://www.isoenergy.ca",
       "start_date": "2023-12-05",
       "end_date": null
+    },
+    {
+      "name": "Fabled Copper Corp.",
+      "ticker": "FABL",
+      "exchange": "CSE",
+      "website": "https://fabledcopper.org/",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fabled Silver Gold Corp.",
+      "ticker": "FCO",
+      "exchange": "TSXV",
+      "website": "https://fabledcopper.org/",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2016",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +45,6 @@
   "committees": [
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

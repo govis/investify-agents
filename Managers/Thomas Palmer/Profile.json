@@ -12,15 +12,27 @@
       "name": "Newmont Corporation",
       "ticker": "NEM",
       "exchange": "NYSE",
-      "title_or_role": "President and Chief Executive Officer",
+      "title_or_role": "SVP, Indonesia",
       "website": "https://www.newmont.com",
-      "start_date": "2019-10-01",
-      "end_date": null
+      "start_date": "2014",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Rio Tinto",
+      "ticker": "RIO",
+      "exchange": "LSE/ASX/NYSE",
+      "website": "https://www.riotinto.com",
+      "title_or_role": "COO, Pilbara Mines",
+      "start_date": "1994",
+      "end_date": "2014",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

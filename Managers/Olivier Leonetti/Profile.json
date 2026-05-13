@@ -13,9 +13,50 @@
       "ticker": "ETN",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and Chief Financial Officer",
-      "website": "https://www.eaton.com",
-      "start_date": "2024-02-01",
-      "end_date": null
+      "website": "eaton.com",
+      "start_date": "February 2024",
+      "end_date": "March 2026",
+      "validated": true
+    },
+    {
+      "name": "Equinix, Inc.",
+      "ticker": "EQIX",
+      "exchange": "NASDAQ",
+      "website": "equinix.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "March 2026",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Johnson Controls International plc",
+      "ticker": "JCI",
+      "exchange": "NYSE",
+      "website": "johnsoncontrols.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "September 2020",
+      "end_date": "January 2024",
+      "validated": true
+    },
+    {
+      "name": "Zebra Technologies Corporation",
+      "ticker": "ZBRA",
+      "exchange": "NASDAQ",
+      "website": "zebra.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "November 2016",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Western Digital Corporation",
+      "ticker": "WDC",
+      "exchange": "NASDAQ",
+      "website": "westerndigital.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2014",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +64,6 @@
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

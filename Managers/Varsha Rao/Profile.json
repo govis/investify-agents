@@ -16,6 +16,16 @@
       "website": "https://www.viasat.com",
       "start_date": "2017-01-01",
       "end_date": null
+    },
+    {
+      "name": "Callaway Golf Company (formerly Topgolf Callaway Brands Corp.)",
+      "ticker": "MODG",
+      "exchange": "NYSE",
+      "website": "https://www.callawaygolf.com",
+      "title_or_role": "Director",
+      "start_date": "2022-03-14",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +34,6 @@
   "socials": [],
   "committees": [
     "Compensation and Human Resources Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,31 @@
       "name": "Array Technologies, Inc.",
       "ticker": "ARRY",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "website": "https://arraytechinc.com",
-      "start_date": "2022-05-10",
-      "end_date": null
+      "title_or_role": "Director (Board Member)",
+      "website": "https://arraytechinc.com/",
+      "start_date": "August 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Engie SA",
+      "ticker": "ENGIY",
+      "exchange": "OTC",
+      "website": "https://www.engie.com/",
+      "title_or_role": "Executive Vice President, Chief Operating Officer, Senior Executive Vice President",
+      "start_date": "2016",
+      "end_date": "2026",
+      "validated": true
+    },
+    {
+      "name": "Engie Brasil Energia S.A.",
+      "ticker": "EGIEY",
+      "exchange": "OTC",
+      "website": "https://www.engie.com.br/",
+      "title_or_role": "Board Member",
+      "start_date": "2026",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +45,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

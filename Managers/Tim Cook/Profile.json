@@ -16,6 +16,16 @@
       "website": "https://www.apple.com",
       "start_date": "2011-08-24",
       "end_date": null
+    },
+    {
+      "name": "Nike, Inc.",
+      "ticker": "NKE",
+      "exchange": "NYSE",
+      "website": "https://www.nike.com",
+      "title_or_role": "Director / Lead Independent Director",
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,5 +37,6 @@
       "url": "https://x.com/tim_cook"
     }
   ],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

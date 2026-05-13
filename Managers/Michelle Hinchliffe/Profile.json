@@ -12,10 +12,11 @@
       "name": "BHP Group Limited",
       "ticker": "BHP",
       "exchange": "ASX",
-      "title_or_role": "Non-executive Director",
+      "title_or_role": "Independent Non-executive Director",
       "website": "https://www.bhp.com",
-      "start_date": "2022-03-01",
-      "end_date": null
+      "start_date": "March 2022",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "BHP Group Limited",
@@ -25,6 +26,36 @@
       "website": "https://www.bhp.com",
       "start_date": "2022-03-01",
       "end_date": null
+    },
+    {
+      "name": "Macquarie Group Limited",
+      "ticker": "MQG",
+      "exchange": "ASX",
+      "website": "https://www.macquarie.com",
+      "title_or_role": "Independent Non-executive Director",
+      "start_date": "March 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Santander UK Group Holdings plc",
+      "ticker": "SAN",
+      "exchange": "LSE",
+      "website": "https://www.santander.co.uk",
+      "title_or_role": "Independent Non-executive Director",
+      "start_date": "June 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "TSB Bank plc",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://www.tsb.co.uk",
+      "title_or_role": "Non-Executive Director, Board Audit Committee Chair",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,5 +67,6 @@
     "Nomination and Governance Committee",
     "Remuneration Committee",
     "Risk and Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

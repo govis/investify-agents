@@ -16,6 +16,26 @@
       "website": "https://www.appliedmaterials.com",
       "start_date": "2017-01-01",
       "end_date": null
+    },
+    {
+      "name": "Hewlett-Packard Company",
+      "ticker": "HPQ",
+      "exchange": "NYSE",
+      "website": "https://www.hp.com",
+      "title_or_role": "Senior Vice President and General Manager, Enterprise Services",
+      "start_date": "2009-02",
+      "end_date": "2011-10",
+      "validated": true
+    },
+    {
+      "name": "Rigetti Computing, Inc.",
+      "ticker": "RGTI",
+      "exchange": "NASDAQ",
+      "website": "https://www.rigetti.com",
+      "title_or_role": "Chairman of the Board of Directors",
+      "start_date": "2022-03",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +46,6 @@
   "committees": [
     "Corporate Governance and Nominating Committee",
     "Human Resources and Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

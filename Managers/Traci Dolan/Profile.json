@@ -12,10 +12,21 @@
       "name": "Steel Dynamics, Inc.",
       "ticker": "STLD",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director (Member of the Board of Directors)",
       "website": "https://www.steeldynamics.com",
-      "start_date": "2014-05",
-      "end_date": null
+      "start_date": "August 2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ExactTarget, Inc.",
+      "ticker": "ET",
+      "exchange": "NYSE",
+      "website": "https://www.salesforce.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2005",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Audit Committee (Chair)",
     "Corporate Governance and Nominating Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

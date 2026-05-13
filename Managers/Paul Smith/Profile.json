@@ -21,10 +21,11 @@
       "name": "ServiceNow, Inc.",
       "ticker": "NOW",
       "exchange": "NYSE",
-      "title_or_role": "Chief Commercial Officer",
-      "website": "https://www.servicenow.com",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "title_or_role": "Advisor",
+      "website": "servicenow.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -32,5 +33,6 @@
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,36 @@
       "website": "https://www.duke-energy.com",
       "start_date": "2017-01-01",
       "end_date": null
+    },
+    {
+      "name": "Edison International",
+      "ticker": "EIX",
+      "exchange": "NYSE",
+      "website": "edison.com",
+      "title_or_role": "Executive Vice President / CFO",
+      "start_date": "1996",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Wells Fargo & Company",
+      "ticker": "WFC",
+      "exchange": "NYSE",
+      "website": "wellsfargo.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Health Net, Inc.",
+      "ticker": "HNT",
+      "exchange": "NYSE",
+      "website": "healthnet.com",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +55,6 @@
   "committees": [
     "Audit Committee",
     "Finance and Risk Management Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

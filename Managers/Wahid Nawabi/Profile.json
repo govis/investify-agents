@@ -12,15 +12,27 @@
       "name": "AeroVironment, Inc.",
       "ticker": "AVAV",
       "exchange": "NASDAQ",
-      "title_or_role": "Chairman, Chairman of the Board, Director, President and Chief Executive Officer",
+      "title_or_role": "Chairman of the Board, Chief Executive Officer, President, and Director",
       "website": "https://www.avinc.com",
-      "start_date": "2021-08-01",
-      "end_date": null
+      "start_date": "2016-05",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "American Power Conversion Corporation (APC)",
+      "ticker": "APCC",
+      "exchange": "NASDAQ",
+      "website": "https://www.apc.com",
+      "title_or_role": "Segment Manager and other leadership roles",
+      "start_date": "1995",
+      "end_date": "2011",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

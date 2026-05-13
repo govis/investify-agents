@@ -11,11 +11,12 @@
     {
       "name": "NorthIsle Copper and Gold Inc.",
       "ticker": "NCX",
-      "exchange": "TSX",
-      "title_or_role": "Chief Financial Officer",
-      "website": "https://www.northisle.ca",
-      "start_date": "2020-11-01",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "Vice President, Corporate Development and Investor Relations",
+      "website": "https://www.northisle.ca/",
+      "start_date": "2020",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +24,6 @@
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

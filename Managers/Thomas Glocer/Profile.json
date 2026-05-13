@@ -12,10 +12,41 @@
       "name": "Morgan Stanley",
       "ticker": "MS",
       "exchange": "NYSE",
-      "title_or_role": "Lead Independent Director",
+      "title_or_role": "Independent Lead Director",
       "website": "https://www.morganstanley.com",
-      "start_date": "2013-05-01",
-      "end_date": null
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Merck & Co., Inc.",
+      "ticker": "MRK",
+      "exchange": "NYSE",
+      "website": "https://www.merck.com",
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Publicis Groupe",
+      "ticker": "PUB",
+      "exchange": "Euronext Paris",
+      "website": "https://www.publicisgroupe.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Thomson Reuters Corporation",
+      "ticker": "TRI",
+      "exchange": "NYSE / TSX",
+      "website": "https://www.thomsonreuters.com",
+      "title_or_role": "Chief Executive Officer and Director",
+      "start_date": "2008",
+      "end_date": "2011",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +56,6 @@
   "committees": [
     "Nominating and Governance Committee",
     "Operations and Technology Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

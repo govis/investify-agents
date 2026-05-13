@@ -12,19 +12,31 @@
       "name": "Cheniere Energy, Inc.",
       "ticker": "LNG",
       "exchange": "NYSE",
-      "title_or_role": "Chairman of the Board",
-      "website": "https://www.cheniere.com",
-      "start_date": "2016-05-12",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://cheniere.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Livent Corporation",
       "ticker": "LTHM",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.livent.com",
-      "start_date": "2018-05-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://livent.com",
+      "start_date": "2018",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Apache Corporation (now APA Corporation)",
+      "ticker": "APA",
+      "exchange": "NASDAQ",
+      "website": "https://apacorp.com",
+      "title_or_role": "President, CEO, Chairman",
+      "start_date": "1988",
+      "end_date": "2015",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,5 +48,6 @@
     "Audit Committee",
     "Governance and Nominating Committee",
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

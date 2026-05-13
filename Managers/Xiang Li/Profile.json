@@ -16,11 +16,22 @@
       "website": "https://www.lixiang.com",
       "start_date": "2015-04-01",
       "end_date": null
+    },
+    {
+      "name": "Autohome Inc.",
+      "ticker": "ATHM",
+      "exchange": "NYSE",
+      "website": "https://www.autohome.com.cn",
+      "title_or_role": "Founder and President",
+      "start_date": "2005",
+      "end_date": "2015",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

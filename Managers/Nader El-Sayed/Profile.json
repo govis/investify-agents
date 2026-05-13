@@ -16,6 +16,16 @@
       "website": "https://atomiceagle.com.au",
       "start_date": "2024-05-24",
       "end_date": null
+    },
+    {
+      "name": "Hammer Metals Limited",
+      "ticker": "HMX",
+      "exchange": "ASX",
+      "website": "https://www.hammermetals.com.au/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2013-06",
+      "end_date": "2014-07",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,5 +37,6 @@
       "name": "LinkedIn"
     }
   ],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

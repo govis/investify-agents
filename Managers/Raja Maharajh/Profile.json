@@ -12,15 +12,37 @@
       "name": "RTX Corporation",
       "ticker": "RTX",
       "exchange": "NYSE",
-      "title_or_role": "Chief Legal Officer",
+      "title_or_role": "General Counsel (Executive Vice President)",
       "website": "https://www.rtx.com",
-      "start_date": "2022-12-01",
-      "end_date": null
+      "start_date": "December 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Raytheon Technologies (now RTX Corporation)",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "title_or_role": "Chief of Staff",
+      "start_date": "April 2020",
+      "end_date": "December 2021",
+      "validated": true
+    },
+    {
+      "name": "United Technologies Corporation (merged into RTX Corporation)",
+      "ticker": "N/A",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "title_or_role": "Various legal roles, including Vice President and Counsel for Pratt & Whitney Commercial Engines",
+      "start_date": "2004",
+      "end_date": "April 2020",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

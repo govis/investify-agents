@@ -16,6 +16,36 @@
       "website": "https://www.atkinsrealis.com",
       "start_date": "2020-09-09",
       "end_date": null
+    },
+    {
+      "name": "Autolus Therapeutics plc",
+      "ticker": "AUTL",
+      "exchange": "NASDAQ",
+      "website": "https://www.autolus.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Praxis Precision Medicines, Inc.",
+      "ticker": "PRAX",
+      "exchange": "NASDAQ",
+      "website": "https://praxismedicines.com",
+      "title_or_role": "Independent Director",
+      "start_date": "December 2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Theravance Biopharma, Inc.",
+      "ticker": "TBPH",
+      "exchange": "NASDAQ",
+      "website": "https://www.theravance.com",
+      "title_or_role": "Director",
+      "start_date": "Prior to 2021",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +54,6 @@
   "socials": [],
   "committees": [
     "Governance, Ethics and Sustainability Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

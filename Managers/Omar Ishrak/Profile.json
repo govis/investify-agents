@@ -12,10 +12,31 @@
       "name": "Intel Corporation",
       "ticker": "INTC",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member, Board of Directors (Chairman of the Board 2020\u20132023)",
       "website": "https://www.intel.com",
-      "start_date": "2017-03-01",
-      "end_date": null
+      "start_date": "March 2017",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Medtronic plc",
+      "ticker": "MDT",
+      "exchange": "NYSE",
+      "website": "https://www.medtronic.com",
+      "title_or_role": "CEO and Chairman of the Board",
+      "start_date": "June 2011",
+      "end_date": "December 2020",
+      "validated": true
+    },
+    {
+      "name": "Amgen Inc.",
+      "ticker": "AMGN",
+      "exchange": "NASDAQ",
+      "website": "https://www.amgen.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "July 2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "socials": [],
   "committees": [
     "Corporate Governance and Nominating Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

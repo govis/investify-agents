@@ -14,8 +14,19 @@
       "exchange": "TSX",
       "title_or_role": "Director",
       "website": "https://www.atkinsrealis.com",
-      "start_date": "2022-11-01",
-      "end_date": null
+      "start_date": "April 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "National Bank of Canada",
+      "ticker": "NA",
+      "exchange": "TSX",
+      "website": "https://www.nbc.ca",
+      "title_or_role": "Chairman of the Board (Director)",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Governance, Ethics and Sustainability Committee",
     "Human Resources Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

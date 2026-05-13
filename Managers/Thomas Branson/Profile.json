@@ -11,16 +11,18 @@
     {
       "name": "Snowline Gold Corp.",
       "ticker": "SGD",
-      "exchange": "TSX",
-      "title_or_role": "Vice President, Exploration",
-      "website": "https://snowlinegold.com",
-      "start_date": "2023-05-01",
-      "end_date": null
+      "exchange": "TSX Venture Exchange",
+      "title_or_role": "Exploration Manager",
+      "website": "https://snowlinegold.com/",
+      "start_date": "2022",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

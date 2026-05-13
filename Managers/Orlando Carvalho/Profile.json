@@ -12,10 +12,21 @@
       "name": "Mercury Systems, Inc.",
       "ticker": "MRCY",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.mrcy.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "exchange": "NYSE",
+      "website": "https://www.lockheedmartin.com",
+      "title_or_role": "Executive Vice President, Aeronautics",
+      "start_date": "2006",
+      "end_date": "2018",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

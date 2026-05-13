@@ -16,6 +16,36 @@
       "website": "https://www.geaerospace.com",
       "start_date": "2018-01-01",
       "end_date": null
+    },
+    {
+      "name": "Walmart Inc.",
+      "ticker": "WMT",
+      "exchange": "NYSE",
+      "website": "https://corporate.walmart.com",
+      "title_or_role": "Director (Lead Independent Director)",
+      "start_date": "2014-11-21",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "American Airlines Group Inc.",
+      "ticker": "AAL",
+      "exchange": "NASDAQ",
+      "website": "https://www.aa.com",
+      "title_or_role": "Chairman",
+      "start_date": "2013-12-09",
+      "end_date": "2014-06-11",
+      "validated": true
+    },
+    {
+      "name": "AMR Corporation",
+      "ticker": "AAMRQ",
+      "exchange": "OTC",
+      "website": "https://www.aa.com",
+      "title_or_role": "Chairman, President, and CEO",
+      "start_date": "2010-11-01",
+      "end_date": "2013-12-09",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +56,6 @@
   "committees": [
     "Audit Committee",
     "Finance and Capital Allocation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

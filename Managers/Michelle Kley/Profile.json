@@ -12,10 +12,31 @@
       "name": "Spire Global, Inc.",
       "ticker": "SPIR",
       "exchange": "NYSE",
-      "title_or_role": "Director",
-      "website": "https://spire.com",
-      "start_date": "2022-12-01",
-      "end_date": null
+      "title_or_role": "Chief Legal Officer & Secretary",
+      "website": "spire.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "EGH Acquisition Corp.",
+      "ticker": "EGHA",
+      "exchange": "NASDAQ",
+      "website": "eghspac.com",
+      "title_or_role": "Chief Legal Officer & Secretary",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Volta Inc.",
+      "ticker": "VLTA",
+      "exchange": "NYSE",
+      "website": "voltacharging.com",
+      "title_or_role": "Chief Legal Officer",
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +45,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

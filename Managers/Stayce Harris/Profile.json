@@ -16,6 +16,36 @@
       "website": "https://www.boeing.com",
       "start_date": "2021-08-01",
       "end_date": null
+    },
+    {
+      "name": "BlackRock Health Sciences Trust",
+      "ticker": "BME",
+      "exchange": "NYSE",
+      "website": "blackrock.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BlackRock Capital Allocation Term Trust",
+      "ticker": "BCAT",
+      "exchange": "NYSE",
+      "website": "blackrock.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BlackRock MuniYield California Fund, Inc.",
+      "ticker": "MYC",
+      "exchange": "NYSE",
+      "website": "blackrock.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +55,6 @@
   "committees": [
     "Aerospace Safety",
     "Governance & Public Policy"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

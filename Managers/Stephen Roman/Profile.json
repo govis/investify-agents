@@ -12,19 +12,31 @@
       "name": "Global Atomic Corporation",
       "ticker": "GLO",
       "exchange": "TSX",
-      "title_or_role": "Chairman, President and Chief Executive Officer",
-      "website": "https://globalatomiccorp.com",
-      "start_date": "2017-12-22",
-      "end_date": null
+      "title_or_role": "Chairman, President, and Chief Executive Officer",
+      "website": "https://www.globalatomiccorp.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Stallion Uranium Corp.",
       "ticker": "STUD",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://www.stallionuranium.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Silvermet Inc.",
+      "ticker": "SYI",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://stallionuranium.com",
-      "start_date": "2023-05-15",
-      "end_date": null
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": "2011",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -34,5 +46,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

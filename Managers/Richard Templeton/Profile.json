@@ -12,15 +12,17 @@
       "name": "Texas Instruments Incorporated",
       "ticker": "TXN",
       "exchange": "NASDAQ",
-      "title_or_role": "Chairman of the Board",
+      "title_or_role": "Executive Chairman",
       "website": "https://www.ti.com",
-      "start_date": "2008-04-01",
-      "end_date": null
+      "start_date": "2023-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

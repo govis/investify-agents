@@ -5,8 +5,8 @@
   "age": 69,
   "age_year": 2024,
   "background": "Dr. de Geus is the co-founder and Executive Chair of Synopsys, Inc. He has served as Synopsys' CEO or co-CEO from 1994 to 2023.",
-  "picture_url": "https://www.avfirewalls.com.au/images/FortiGate/FG-200F.png",
-  "picture_local": "Picture.png",
+  "picture_url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAC4ALgMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAFBAYBAwcIAP/EADAQAAIBAwMDAQYFBQAAAAAAAAECAwAEEQUSIRMxQWEGIlFxgZEUIzLB8DNSobHR/8QAGQEBAQEAAwAAAAAAAAAAAAAABQQCAAED/8QAHxEAAgICAgMBAAAAAAAAAAAAAQIAAxESIUEEIjET/9oADAMBAAIRAxEAPwAa2jV0QnjcO9KzRbNFuGx4X/YqZZxez7Qxdb8ft2ZUJjt45rOo9CTR7k2gfpsdqiQcjn0q91xIkbOZVO+GAHHxPFL2Fzrl+5ihupIiiFmMznAHioEZtlSPqbgyjB3Hg+uPvT2lfhprG5DxGQhkbbu5wB3z3xmo7mKISJT4wFloVvkKW+1jTbiOPWrsTQTOY12OfdY9iQfFNXEt5PbRbrzUmUMcKlyo2/XHOaAS1jvZvzFywZriTeScEZP/ACjbq6jRtqhhjzng5FY8eximWnr5dapYAsv3sXFBFGhvY8hbHOCMgnCjGPjUYoRpFyAjHLHaq96TsbWKOzVoup1SgVt3YZ71i9sLTpSWxnuFhbksEywPwHpSVhHBhqHgznevXFvY3pRCzzKi5HhcgHFaNA1xTfzxX0eyK4jEYlU8xYPf5H9qCuLk3V1NLy29i2W74r61bZcqzHhQzfYE4o+075HUSpX88HuTn1iWw1aeOxfqQJui6jc9QdicHwaw13FcZZsK3kfSiDknJPzrS74bANYHqMCbb2bYzvquBDCwIaNSC21u5qNreq9DT7q9/SY4Wx6nBwKdTSINv5bsqnxtUftUfV/Z2HU9OntJZSBJGVDBR7p8HirnUtzmFoMHmeddxDqAfSpdokk0rBFZjsfCqMn9JpDRbK1vNZgt7+NmjLMH6bYJwCe/zFP+0j2enC3jtY3sY5VwotUTLY/uJG7PnOTyO1Hu+pxF0r2G3UoruD5z9a0gN3IbB4Bxwf5kferzqF1EtgbW+tI7jYv9R/efPx3YH+AKpZlwNqrgV0j7Tllenc//2Q==",
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Applied Materials, Inc.",
@@ -37,12 +37,18 @@
     {
       "name": "LinkedIn",
       "url": "https://www.linkedin.com/in/aart-de-geus",
-      "potential_picture_url": null
+      "person_name": "Aart de Geus",
+      "company_name": "Synopsys",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "profile_status": "private"
     }
   ],
   "committees": [
     "Human Resources and Compensation Committee",
     "Investment Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

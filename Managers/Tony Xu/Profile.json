@@ -16,6 +16,16 @@
       "website": "https://about.meta.com",
       "start_date": "2022-01-01",
       "end_date": null
+    },
+    {
+      "name": "DoorDash, Inc.",
+      "ticker": "DASH",
+      "exchange": "NASDAQ",
+      "website": "https://www.doordash.com",
+      "title_or_role": "Board Chair",
+      "start_date": "2020-11",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +34,6 @@
   "socials": [],
   "committees": [
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

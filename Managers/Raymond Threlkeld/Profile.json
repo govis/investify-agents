@@ -12,10 +12,71 @@
       "name": "Calibre Mining Corp.",
       "ticker": "CXB",
       "exchange": "TSX",
+      "title_or_role": "Senior Advisor / Director",
+      "website": "https://calibremining.com/",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Western Copper & Gold Corp.",
+      "ticker": "WRN",
+      "exchange": "TSX",
+      "website": "https://westerncoppercorp.com/",
+      "title_or_role": "Chairman",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "New Found Gold Corp.",
+      "ticker": "NFG",
+      "exchange": "TSXV",
+      "website": "https://newfoundgold.ca/",
       "title_or_role": "Director",
-      "website": "https://calibremining.com",
-      "start_date": "2019-10-15",
-      "end_date": null
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kirkland Lake Gold Ltd.",
+      "ticker": "KL",
+      "exchange": "TSX",
+      "website": "https://www.kl.gold/",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Newmarket Gold Inc.",
+      "ticker": "NMI",
+      "exchange": "TSX",
+      "website": "https://www.newmarketgoldinc.com/",
+      "title_or_role": "Chairman",
+      "start_date": "2015",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Northern Empire Resources Corp.",
+      "ticker": "NM",
+      "exchange": "TSXV",
+      "website": "https://northernempireresources.com/",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "New Gold Inc.",
+      "ticker": "NGD",
+      "exchange": "TSX",
+      "website": "https://www.newgold.com/",
+      "title_or_role": "President & CEO / Director",
+      "start_date": "2009",
+      "end_date": "2012",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +86,6 @@
   "committees": [
     "Compensation Committee (Chair)",
     "Health, Safety, Environmental and Sustainability Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -12,15 +12,17 @@
       "name": "Salesforce, Inc.",
       "ticker": "CRM",
       "exchange": "NYSE",
-      "title_or_role": "Director",
+      "title_or_role": "Co-Founder and Director",
       "website": "https://www.salesforce.com",
-      "start_date": "2018-08-01",
-      "end_date": null
+      "start_date": "1999",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

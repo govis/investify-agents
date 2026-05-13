@@ -16,6 +16,46 @@
       "website": "https://aecom.com",
       "start_date": "2010-01-01",
       "end_date": null
+    },
+    {
+      "name": "Royal Dutch Shell plc (now Shell plc)",
+      "ticker": "SHEL",
+      "exchange": "LSE",
+      "website": "https://www.shell.com",
+      "title_or_role": "Executive Director, Downstream",
+      "start_date": "2004",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Aegon N.V.",
+      "ticker": "AEG",
+      "exchange": "NYSE",
+      "website": "https://www.aegon.com",
+      "title_or_role": "Chairman of the Supervisory Board",
+      "start_date": "2010",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Koninklijke DSM N.V. (Royal DSM)",
+      "ticker": "DSM",
+      "exchange": "Euronext Amsterdam (STO)",
+      "website": "https://www.dsm.com",
+      "title_or_role": "Chairman of the Supervisory Board",
+      "start_date": "2010",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "ATCO Ltd.",
+      "ticker": "ACO.X",
+      "exchange": "TSX",
+      "website": "https://www.atco.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +64,6 @@
   "socials": [],
   "committees": [
     "Compensation Committee (Chair)"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

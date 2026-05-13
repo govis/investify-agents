@@ -16,6 +16,36 @@
       "website": "https://www.wesdome.com",
       "start_date": "2019-06-01",
       "end_date": null
+    },
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "KGC",
+      "exchange": "NYSE",
+      "website": "https://www.kinross.com",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2014-10-01",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Amaroq Minerals Ltd.",
+      "ticker": "AMRQ",
+      "exchange": "LSE",
+      "website": "https://www.amaroqminerals.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NexMetals Mining Corp.",
+      "ticker": "NEXM",
+      "exchange": "TSXV",
+      "website": "https://nexmetalsmining.com",
+      "title_or_role": "Director",
+      "start_date": "2026-01-08",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +55,6 @@
   "committees": [
     "Governance and Nominating Committee",
     "Technical Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -16,11 +16,22 @@
       "website": "https://www.xiaopeng.com",
       "start_date": "2015-01-01",
       "end_date": null
+    },
+    {
+      "name": "Alibaba Group Holding Limited",
+      "ticker": "BABA",
+      "exchange": "NYSE",
+      "website": "https://www.alibabagroup.com/",
+      "title_or_role": "President of Alibaba Mobile Business Group (also served as President of UCWeb, Chairman of Ali Games, and President of Tudou)",
+      "start_date": "June 2014",
+      "end_date": "August 2017",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

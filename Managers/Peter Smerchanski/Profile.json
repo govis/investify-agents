@@ -11,16 +11,18 @@
     {
       "name": "Anfield Energy Inc.",
       "ticker": "AEC",
-      "exchange": "TSX",
-      "title_or_role": "Director, President",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
       "website": "https://anfieldenergy.com/",
-      "start_date": "2015-01-01",
-      "end_date": null
+      "start_date": "Not publicly specified",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

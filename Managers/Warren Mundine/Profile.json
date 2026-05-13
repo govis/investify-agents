@@ -13,9 +13,10 @@
       "ticker": "AEE",
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
-      "website": "https://auraenergy.com.au/",
-      "start_date": "2021-12-21",
-      "end_date": null
+      "website": "https://www.auraenergy.com.au/",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -30,5 +31,6 @@
   ],
   "committees": [
     "Remuneration and Nomination Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

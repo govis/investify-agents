@@ -16,6 +16,36 @@
       "website": "https://www.leidos.com",
       "start_date": "2016-01-01",
       "end_date": null
+    },
+    {
+      "name": "Quest Diagnostics Incorporated",
+      "ticker": "DGX",
+      "exchange": "NYSE",
+      "website": "https://www.questdiagnostics.com",
+      "title_or_role": "Chairman, President, and Chief Executive Officer",
+      "start_date": "1999",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "ITT Corporation",
+      "ticker": "ITT",
+      "exchange": "NYSE",
+      "website": "https://www.itt.com",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "Xylem Inc.",
+      "ticker": "XYL",
+      "exchange": "NYSE",
+      "website": "https://www.xylem.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +55,6 @@
   "committees": [
     "Finance Committee",
     "Human Resources and Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

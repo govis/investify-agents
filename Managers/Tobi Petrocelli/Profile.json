@@ -14,8 +14,9 @@
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
       "website": "https://terranorbital.com",
-      "start_date": "2022-03-01",
-      "end_date": null
+      "start_date": "March 25, 2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +26,6 @@
   "committees": [
     "Audit Committee",
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,31 @@
       "name": "Quanta Services, Inc.",
       "ticker": "PWR",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.quantaservices.com",
-      "start_date": "2015-01-01",
-      "end_date": null
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Main Street Capital Corporation",
+      "ticker": "MAIN",
+      "exchange": "NYSE",
+      "website": "https://www.mainstcapital.com",
+      "title_or_role": "Co-Founder, Chairman, and CEO (2007\u20132018); Executive Chairman (2018\u20132019); Director (2007\u2013Present)",
+      "start_date": "2007",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Carriage Services, Inc.",
+      "ticker": "CSV",
+      "exchange": "NYSE",
+      "website": "https://www.carriageservices.com",
+      "title_or_role": "Director",
+      "start_date": "2000",
+      "end_date": "2011",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +47,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

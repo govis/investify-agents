@@ -12,10 +12,41 @@
       "name": "BWX Technologies, Inc.",
       "ticker": "BWXT",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.bwxt.com",
-      "start_date": "2015-01-01",
-      "end_date": null
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.ge.com",
+      "title_or_role": "President and CEO of GE Power Systems",
+      "start_date": "1991",
+      "end_date": "2000",
+      "validated": true
+    },
+    {
+      "name": "The Home Depot, Inc.",
+      "ticker": "HD",
+      "exchange": "NYSE",
+      "website": "https://www.homedepot.com",
+      "title_or_role": "Chairman, President and CEO",
+      "start_date": "2000",
+      "end_date": "2007",
+      "validated": true
+    },
+    {
+      "name": "Chrysler Group LLC",
+      "ticker": "FCAU",
+      "exchange": "NYSE",
+      "website": "https://www.stellantis.com",
+      "title_or_role": "Chairman and CEO",
+      "start_date": "2007",
+      "end_date": "2009",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +57,6 @@
   "committees": [
     "Compensation Committee",
     "Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

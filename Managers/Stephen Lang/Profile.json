@@ -11,11 +11,42 @@
     {
       "name": "Hudbay Minerals Inc.",
       "ticker": "HBM",
-      "exchange": "NYSE",
-      "title_or_role": "Chair of the Board",
+      "exchange": "TSX",
+      "title_or_role": "Chair of the Board of Directors",
       "website": "https://www.hudbayminerals.com",
-      "start_date": "2019-05-01",
-      "end_date": null
+      "start_date": "2019-10",
+      "end_date": "2024-12",
+      "validated": true
+    },
+    {
+      "name": "Hycroft Mining Holding Corporation",
+      "ticker": "HYMC",
+      "exchange": "NASDAQ",
+      "website": "https://www.hycroftmining.com",
+      "title_or_role": "Director",
+      "start_date": "2021-05",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "website": "https://www.centerragold.com",
+      "title_or_role": "Board Chair",
+      "start_date": "2012",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Allied Nevada Gold Corp.",
+      "ticker": "ANV",
+      "exchange": "TSX",
+      "website": "https://www.alliednevada.com",
+      "title_or_role": "Director",
+      "start_date": "2013-08",
+      "end_date": "2015",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +55,6 @@
   "socials": [],
   "committees": [
     "Corporate Governance and Nominating Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -11,16 +11,18 @@
     {
       "name": "Franco-Nevada Corporation",
       "ticker": "FNV",
-      "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
+      "exchange": "TSX, NYSE",
+      "title_or_role": "President & Chief Executive Officer and Director",
       "website": "https://www.franco-nevada.com",
-      "start_date": "2020-05-01",
-      "end_date": null
+      "start_date": "2006",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

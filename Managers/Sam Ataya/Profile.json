@@ -11,16 +11,18 @@
     {
       "name": "Western Magnesium Corporation",
       "ticker": "WMG",
-      "exchange": "TSX",
-      "title_or_role": "Executive Chairman and Chief Executive Officer",
-      "website": "https://westernmagnesium.com",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "Executive President and Chief Executive Officer; Director",
+      "website": "https://www.westernmagnesium.com/",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -11,11 +11,32 @@
     {
       "name": "Dryden Gold Corp.",
       "ticker": "DRY",
-      "exchange": "TSX",
-      "title_or_role": "Chief Executive Officer, Director",
-      "website": "https://drydengold.com",
-      "start_date": "2022-10-01",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "CEO & Director",
+      "website": "https://drydengold.com/",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gold Royalty Corp.",
+      "ticker": "GROY",
+      "exchange": "NYSE",
+      "website": "https://www.goldroyalty.com/",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ely Gold Royalties Inc.",
+      "ticker": "ELY",
+      "exchange": "TSXV",
+      "website": "https://elygoldinc.com/",
+      "title_or_role": "President, CEO & Director",
+      "start_date": "2017",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +44,6 @@
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

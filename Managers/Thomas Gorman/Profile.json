@@ -12,10 +12,21 @@
       "name": "Alcoa Corporation",
       "ticker": "AA",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Non-executive Chairman of the Board",
       "website": "https://www.alcoa.com",
-      "start_date": "2017-05-01",
-      "end_date": null
+      "start_date": "2025-05-08",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sims Limited",
+      "ticker": "SGM",
+      "exchange": "ASX",
+      "website": "https://www.simsltd.com",
+      "title_or_role": "Non-executive Director",
+      "start_date": "2020-05-01",
+      "end_date": "2025-05-09",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -31,5 +42,6 @@
   "committees": [
     "Compensation and Benefits Committee",
     "Safety, Sustainability and Public Issues Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

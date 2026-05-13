@@ -16,6 +16,16 @@
       "website": "https://www.seabridgegold.com",
       "start_date": "2023-06-01",
       "end_date": null
+    },
+    {
+      "name": "Almadex Minerals Ltd.",
+      "ticker": "DEX",
+      "exchange": "TSXV",
+      "website": "https://www.almadexminerals.com",
+      "title_or_role": "Director",
+      "start_date": "2021-12-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +34,6 @@
   "socials": [],
   "committees": [
     "Technical Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

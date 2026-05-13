@@ -12,15 +12,37 @@
       "name": "Sandstorm Gold Ltd.",
       "ticker": "SAND",
       "exchange": "NYSE",
-      "title_or_role": "President, Chief Executive Officer and Director",
-      "website": "https://www.sandstormgold.com",
-      "start_date": "2008-01-01",
-      "end_date": null
+      "title_or_role": "President & CEO",
+      "website": "sandstormgold.com",
+      "start_date": "2008",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Silver Wheaton Corp. (now Wheaton Precious Metals)",
+      "ticker": "WPM",
+      "exchange": "NYSE",
+      "website": "wheatonpm.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2006",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Sandstorm Metals & Energy Ltd.",
+      "ticker": "SND",
+      "exchange": "TSX",
+      "website": "N/A",
+      "title_or_role": "President & CEO",
+      "start_date": "2011",
+      "end_date": "2014",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

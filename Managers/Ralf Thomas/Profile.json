@@ -16,11 +16,32 @@
       "website": "https://www.siemens.com",
       "start_date": "2013-09-18",
       "end_date": null
+    },
+    {
+      "name": "Siemens Aktiengesellschaft (Siemens AG)",
+      "ticker": "SIE",
+      "exchange": "Frankfurt Stock Exchange (XETRA)",
+      "website": "https://www.siemens.com",
+      "title_or_role": "Chief Financial Officer (CFO) / Member of the Managing Board",
+      "start_date": "September 2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Siemens Healthineers AG",
+      "ticker": "SHL",
+      "exchange": "Frankfurt Stock Exchange (XETRA)",
+      "website": "https://www.siemens-healthineers.com",
+      "title_or_role": "Chairman of the Supervisory Board",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,21 @@
       "name": "KLA Corporation",
       "ticker": "KLAC",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.kla.com",
-      "start_date": "2014-01-01",
-      "end_date": null
+      "start_date": "September 1, 2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Microchip Technology Inc.",
+      "ticker": "MCHP",
+      "exchange": "NASDAQ",
+      "website": "https://www.microchip.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +35,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,81 @@
       "name": "Taiwan Semiconductor Manufacturing Company Limited",
       "ticker": "TSM",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Non-Executive Director",
       "website": "https://www.tsmc.com",
-      "start_date": "2005-02-22",
-      "end_date": null
+      "start_date": "2002",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BT Group plc",
+      "ticker": "BT.A",
+      "exchange": "LSE",
+      "website": "https://www.bt.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "1996",
+      "end_date": "2002",
+      "validated": true
+    },
+    {
+      "name": "Ericsson (Telefonaktiebolaget LM Ericsson)",
+      "ticker": "ERIC",
+      "exchange": "NASDAQ",
+      "website": "https://www.ericsson.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2002",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "NXP Semiconductors N.V.",
+      "ticker": "NXPI",
+      "exchange": "NASDAQ",
+      "website": "https://www.nxp.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2006",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Sony Group Corporation",
+      "ticker": "SONY",
+      "exchange": "NYSE",
+      "website": "https://www.sony.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2005",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Darktrace plc",
+      "ticker": "DARK",
+      "exchange": "LSE",
+      "website": "https://www.darktrace.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "AstraZeneca PLC",
+      "ticker": "AZN",
+      "exchange": "LSE",
+      "website": "https://www.astrazeneca.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2002",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Mentor Graphics Corporation",
+      "ticker": "MENT",
+      "exchange": "NASDAQ",
+      "website": "https://www.mentor.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2002",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +97,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

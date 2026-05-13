@@ -11,11 +11,32 @@
     {
       "name": "Sitka Gold Corp.",
       "ticker": "SIG",
-      "exchange": "TSX",
+      "exchange": "TSX-V",
       "title_or_role": "Director",
       "website": "https://sitkagoldcorp.com",
-      "start_date": "2020-06-22",
-      "end_date": null
+      "start_date": "Unknown",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CanAlaska Uranium Ltd.",
+      "ticker": "CVV",
+      "exchange": "TSX-V",
+      "website": "https://www.canalaska.com",
+      "title_or_role": "President, CEO, and Director",
+      "start_date": "2004",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "New Age Metals Inc.",
+      "ticker": "NAM",
+      "exchange": "TSX-V",
+      "website": "https://newagemetals.com",
+      "title_or_role": "Vice President, Business Development",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -11,11 +11,42 @@
     {
       "name": "G Mining Ventures Corp.",
       "ticker": "GMIN",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://www.gminingventures.com",
-      "start_date": "2020-11-25",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://gminingventures.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Qu\u00e9bec Precious Metals Corporation",
+      "ticker": "QPM",
+      "exchange": "TSXV",
+      "website": "https://qpmcorp.ca",
+      "title_or_role": "CEO and Director",
+      "start_date": "2018",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Sphinx Resources Ltd.",
+      "ticker": "SFX",
+      "exchange": "TSXV",
+      "website": "https://sphinxresources.ca",
+      "title_or_role": "President and CEO",
+      "start_date": "2012",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Bonterra Resources Inc.",
+      "ticker": "BTR",
+      "exchange": "TSXV",
+      "website": "https://btrgold.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +56,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

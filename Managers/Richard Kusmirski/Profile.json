@@ -16,6 +16,36 @@
       "website": "https://f3uranium.com",
       "start_date": "2022-11-01",
       "end_date": null
+    },
+    {
+      "name": "Skyharbour Resources Ltd.",
+      "ticker": "SYH",
+      "exchange": "TSXV",
+      "website": "https://www.skyharbourltd.com",
+      "title_or_role": "Co-Founder and Director",
+      "start_date": null,
+      "end_date": "2021-12-06",
+      "validated": true
+    },
+    {
+      "name": "Bessor Minerals Inc.",
+      "ticker": "BST",
+      "exchange": "TSXV",
+      "website": "https://bessorminerals.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": "2021-12-06",
+      "validated": true
+    },
+    {
+      "name": "Noka Resources Inc.",
+      "ticker": "NX",
+      "exchange": "TSXV",
+      "website": "https://nokaresources.com",
+      "title_or_role": "Director",
+      "start_date": "2015-06-08",
+      "end_date": "2021-12-06",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +55,6 @@
   "committees": [
     "Compensation Committee",
     "Technical Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

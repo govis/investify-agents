@@ -11,11 +11,32 @@
     {
       "name": "Cabral Gold Inc.",
       "ticker": "CBR",
-      "exchange": "TSX",
+      "exchange": "TSXV",
       "title_or_role": "Director",
-      "website": "https://cabralgold.com",
-      "start_date": "2021-06-24",
-      "end_date": null
+      "website": "https://www.cabralgold.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Electric Royalties Ltd.",
+      "ticker": "ELEC",
+      "exchange": "TSXV",
+      "website": "https://www.electricroyalties.com",
+      "title_or_role": "Technical Advisor",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Labrador Iron Mines Holdings Ltd.",
+      "ticker": "LIM",
+      "exchange": "TSX",
+      "website": "http://www.labradorironmines.ca",
+      "title_or_role": "Chief Operating Officer (COO)",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

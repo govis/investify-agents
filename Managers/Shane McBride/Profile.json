@@ -12,15 +12,27 @@
       "name": "Elevate Uranium Limited",
       "ticker": "EL8",
       "exchange": "ASX",
-      "title_or_role": "Chief Financial Officer and Company Secretary",
-      "website": "https://www.elevateuranium.com.au",
-      "start_date": "2018-11-01",
-      "end_date": null
+      "title_or_role": "CFO & Company Secretary",
+      "website": "https://www.elevateuranium.com.au/",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Marenica Energy Limited (Renamed to Elevate Uranium Limited)",
+      "ticker": "MEY",
+      "exchange": "ASX",
+      "website": "https://www.elevateuranium.com.au/",
+      "title_or_role": "CFO & Company Secretary",
+      "start_date": "2017",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

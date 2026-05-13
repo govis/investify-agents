@@ -11,11 +11,12 @@
     {
       "name": "Osisko Gold Royalties Ltd",
       "ticker": "OR",
-      "exchange": "NYSE",
-      "title_or_role": "Chair of the Board, Independent Director",
-      "website": "https://osiskogr.com",
-      "start_date": "2023-05-01",
-      "end_date": null
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://www.osiskogoldroyalties.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +26,6 @@
   "committees": [
     "Environmental and Sustainability Committee",
     "Governance and Nomination Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

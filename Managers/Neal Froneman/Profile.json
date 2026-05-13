@@ -10,17 +10,29 @@
   "company_affiliations": [
     {
       "name": "Sibanye Stillwater Limited",
-      "ticker": "SBSW",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer",
-      "website": "https://www.sibanyestillwater.com",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "ticker": "SSW (JSE), SBSW (NYSE)",
+      "exchange": "JSE, NYSE",
+      "title_or_role": "Chief Executive Officer and Executive Director",
+      "website": "https://www.sibanyestillwater.com/",
+      "start_date": "2013",
+      "end_date": "September 2025",
+      "validated": true
+    },
+    {
+      "name": "Podium Minerals Limited",
+      "ticker": "POD",
+      "exchange": "ASX",
+      "website": "https://podiumminerals.com.au/",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "February 2026",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

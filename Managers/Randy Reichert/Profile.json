@@ -11,11 +11,12 @@
     {
       "name": "Skeena Resources Limited",
       "ticker": "SKE",
-      "exchange": "NYSE",
-      "title_or_role": "Director, President & CEO",
-      "website": "https://skeenaresources.com",
-      "start_date": "2023-02-01",
-      "end_date": null
+      "exchange": "TSX",
+      "title_or_role": "President, CEO, COO & Director",
+      "website": "https://skeenagoldsilver.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Skeena Resources Limited",
@@ -25,11 +26,22 @@
       "website": "https://skeenaresources.com",
       "start_date": "2023-01-01",
       "end_date": null
+    },
+    {
+      "name": "B2Gold Corp.",
+      "ticker": "BTO",
+      "exchange": "TSX",
+      "website": "https://www.b2gold.com",
+      "title_or_role": "Vice President, Operations",
+      "start_date": "2019-06-01",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

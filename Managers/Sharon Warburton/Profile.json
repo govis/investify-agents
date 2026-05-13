@@ -13,9 +13,80 @@
       "ticker": "NST",
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
-      "website": "https://www.nsrltd.com",
-      "start_date": "2021-09-01",
-      "end_date": null
+      "website": "nstmining.com.au",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Wesfarmers Limited",
+      "ticker": "WES",
+      "exchange": "ASX",
+      "website": "wesfarmers.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "South32 Limited",
+      "ticker": "S32",
+      "exchange": "ASX",
+      "website": "south32.net",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Worley Limited",
+      "ticker": "WOR",
+      "exchange": "ASX",
+      "website": "worley.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2019",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Blackmores Limited",
+      "ticker": "BKL",
+      "exchange": "ASX",
+      "website": "blackmores.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2013",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Gold Road Resources Limited",
+      "ticker": "GOR",
+      "exchange": "ASX",
+      "website": "goldroad.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2016",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Fortescue Metals Group",
+      "ticker": "FMG",
+      "exchange": "ASX",
+      "website": "fortescue.com",
+      "title_or_role": "Non-Executive Director / Co-Deputy Chairman",
+      "start_date": "2013",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "NEXTDC Limited",
+      "ticker": "NXT",
+      "exchange": "ASX",
+      "website": "nextdc.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2013",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +96,6 @@
   "committees": [
     "Audit and Risk Committee",
     "Remuneration Committee (Chair)"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

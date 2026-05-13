@@ -16,6 +16,16 @@
       "website": "https://www.platinumgroupmetals.net",
       "start_date": "2014-01-01",
       "end_date": null
+    },
+    {
+      "name": "Alcon Silver Corp.",
+      "ticker": "N/A",
+      "exchange": "Private",
+      "website": "https://www.alconsilver.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +35,6 @@
   "committees": [
     "Audit Committee",
     "Governance and Nomination Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

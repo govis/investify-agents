@@ -16,6 +16,36 @@
       "website": "https://www.newmont.com",
       "start_date": "2023-11-01",
       "end_date": null
+    },
+    {
+      "name": "Future Metals NL",
+      "ticker": "FME",
+      "exchange": "ASX",
+      "website": "https://future-metals.com.au/",
+      "title_or_role": "Executive Chairman",
+      "start_date": "2023-10",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "New Century Resources Limited",
+      "ticker": "NCZ",
+      "exchange": "ASX",
+      "website": "https://www.newcenturyresources.com/",
+      "title_or_role": "Managing Director",
+      "start_date": "2017-02",
+      "end_date": "2021-02",
+      "validated": true
+    },
+    {
+      "name": "Broken Hill Mines",
+      "ticker": "BHM",
+      "exchange": "ASX",
+      "website": "https://brokenhillmines.com.au/",
+      "title_or_role": "Executive Chair",
+      "start_date": "2022-09",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +54,6 @@
   "socials": [],
   "committees": [
     "Safety and Sustainability Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

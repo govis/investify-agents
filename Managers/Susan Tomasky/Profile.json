@@ -16,6 +16,26 @@
       "website": "https://www.pseg.com",
       "start_date": "2012-01-01",
       "end_date": null
+    },
+    {
+      "name": "Marathon Petroleum Corporation",
+      "ticker": "MPC",
+      "exchange": "NYSE",
+      "website": "https://www.marathonpetroleum.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "American Electric Power Company, Inc.",
+      "ticker": "AEP",
+      "exchange": "NASDAQ",
+      "website": "https://www.aep.com",
+      "title_or_role": "President, AEP Transmission (and other senior executive roles including CFO and General Counsel)",
+      "start_date": "1998",
+      "end_date": "2011",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +45,6 @@
   "committees": [
     "Executive",
     "Governance and Nominating (Chair)"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

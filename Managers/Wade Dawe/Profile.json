@@ -16,6 +16,56 @@
       "website": "https://fortunebaycorp.com",
       "start_date": "2016-02-04",
       "end_date": null
+    },
+    {
+      "name": "Torrent Capital Ltd.",
+      "ticker": "TORR",
+      "exchange": "TSXV",
+      "website": "https://www.torrentcapital.ca/",
+      "title_or_role": "Chairman and CEO",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Antler Gold Inc.",
+      "ticker": "ANTL",
+      "exchange": "TSXV",
+      "website": "https://www.antlergold.com/",
+      "title_or_role": "Founder / Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Pivot Technology Solutions Inc.",
+      "ticker": "PTG",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Chairman of the Board",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kneat.com, Inc.",
+      "ticker": "KSI",
+      "exchange": "TSX",
+      "website": "https://www.kneat.com/",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Linear Gold Corp.",
+      "ticker": "LRG",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Founder",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +76,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

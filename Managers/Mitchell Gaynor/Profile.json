@@ -12,15 +12,47 @@
       "name": "Marvell Technology, Inc.",
       "ticker": "MRVL",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Administration Officer",
+      "title_or_role": "Executive Vice President, Chief Administrative Officer, Chief Legal Officer, and Secretary",
       "website": "https://www.marvell.com",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Juniper Networks, Inc.",
+      "ticker": "JNPR",
+      "exchange": "NYSE",
+      "website": "https://www.juniper.net",
+      "title_or_role": "Executive Vice President, General Counsel, and Secretary",
+      "start_date": "2004",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Portal Software, Inc.",
+      "ticker": "PRSF",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "title_or_role": "Vice President and General Counsel",
+      "start_date": "Prior to 2004",
+      "end_date": "2004",
+      "validated": true
+    },
+    {
+      "name": "Sybase, Inc.",
+      "ticker": "SY",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "title_or_role": "General Counsel",
+      "start_date": "Prior to 1998",
+      "end_date": "Prior to 2004",
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

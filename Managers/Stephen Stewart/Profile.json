@@ -11,11 +11,82 @@
     {
       "name": "Baselode Energy Corp.",
       "ticker": "FIND",
-      "exchange": "TSX",
-      "title_or_role": "Chairman and Director",
+      "exchange": "TSXV",
+      "title_or_role": "Chairman / Director",
       "website": "https://baselode.com",
-      "start_date": "2020-06-01",
-      "end_date": null
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "American Eagle Gold Corp.",
+      "ticker": "AE",
+      "exchange": "TSXV",
+      "website": "https://americaneaglegold.ca",
+      "title_or_role": "Chairman / Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Orecap Invest Corp.",
+      "ticker": "OCI",
+      "exchange": "TSXV",
+      "website": "https://orecapinvest.com",
+      "title_or_role": "Chairman / Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "XXIX Metal Corp.",
+      "ticker": "XXIX",
+      "exchange": "TSXV",
+      "website": "https://xxix.ca",
+      "title_or_role": "Chairman / Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Mistango River Resources Inc.",
+      "ticker": "MIS",
+      "exchange": "CSE",
+      "website": "https://mistango.com",
+      "title_or_role": "Chairman / Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Metal Energy Corp.",
+      "ticker": "MERG",
+      "exchange": "TSXV",
+      "website": "https://metalenergy.ca",
+      "title_or_role": "Chairman / Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Orefinders Resources Inc.",
+      "ticker": "ORX",
+      "exchange": "TSXV",
+      "website": "https://orefinders.ca",
+      "title_or_role": "CEO / Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Awal\u00e9 Resources Ltd.",
+      "ticker": "ARIC",
+      "exchange": "TSXV",
+      "website": "https://awaleresources.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +95,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

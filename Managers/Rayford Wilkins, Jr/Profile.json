@@ -12,10 +12,41 @@
       "name": "Caterpillar Inc.",
       "ticker": "CAT",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.caterpillar.com",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "AT&T Inc.",
+      "ticker": "T",
+      "exchange": "NYSE",
+      "website": "https://www.att.com",
+      "title_or_role": "CEO of Diversified Businesses",
+      "start_date": "1982",
+      "end_date": "March 2012",
+      "validated": true
+    },
+    {
+      "name": "Valero Energy Corporation",
+      "ticker": "VLO",
+      "exchange": "NYSE",
+      "website": "https://www.valero.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "exchange": "NYSE",
+      "website": "https://www.morganstanley.com",
+      "title_or_role": "Director",
+      "start_date": "August 1, 2013",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +56,6 @@
   "committees": [
     "Compensation and Human Capital Committee",
     "Governance and Nominating Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

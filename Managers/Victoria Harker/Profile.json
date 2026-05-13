@@ -14,8 +14,59 @@
       "exchange": "NYSE",
       "title_or_role": "Director",
       "website": "https://www.hii.com",
-      "start_date": "2012-01-01",
-      "end_date": null
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Philip Morris International Inc.",
+      "ticker": "PM",
+      "exchange": "NYSE",
+      "website": "https://www.pmi.com",
+      "title_or_role": "Director",
+      "start_date": "2024-01-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Xylem Inc.",
+      "ticker": "XYL",
+      "exchange": "NYSE",
+      "website": "https://www.xylem.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gannett Co., Inc.",
+      "ticker": "GCI",
+      "exchange": "NYSE",
+      "website": "https://www.gannett.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2012",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "TEGNA Inc.",
+      "ticker": "TGNA",
+      "exchange": "NYSE",
+      "website": "https://www.tegna.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2015",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "AES Corporation",
+      "ticker": "AES",
+      "exchange": "NYSE",
+      "website": "https://www.aes.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2006",
+      "end_date": "2012",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +76,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

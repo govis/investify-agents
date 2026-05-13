@@ -16,6 +16,16 @@
       "website": "https://www.avinc.com",
       "start_date": "2022-01-01",
       "end_date": null
+    },
+    {
+      "name": "Norfolk Southern Corporation",
+      "ticker": "NSC",
+      "exchange": "NYSE",
+      "website": "https://www.norfolksouthern.com",
+      "title_or_role": "Director",
+      "start_date": "2023-07",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +34,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

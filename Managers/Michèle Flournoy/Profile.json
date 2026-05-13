@@ -12,10 +12,21 @@
       "name": "Booz Allen Hamilton Holding Corporation",
       "ticker": "BAH",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.boozallen.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CSRA Inc.",
+      "ticker": "CSRA",
+      "exchange": "NYSE",
+      "website": "https://www.gd.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2015-11-30",
+      "end_date": "2018-04-02",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

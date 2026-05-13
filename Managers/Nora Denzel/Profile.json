@@ -12,10 +12,71 @@
       "name": "Advanced Micro Devices, Inc.",
       "ticker": "AMD",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.amd.com",
-      "start_date": "2014-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "amd.com",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gen Digital Inc.",
+      "ticker": "GEN",
+      "exchange": "NASDAQ",
+      "website": "gendigital.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sony Group Corporation",
+      "ticker": "SONY",
+      "exchange": "NYSE",
+      "website": "sony.com",
+      "title_or_role": "Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ericsson",
+      "ticker": "ERIC",
+      "exchange": "NASDAQ",
+      "website": "ericsson.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Talend S.A.",
+      "ticker": "TLND",
+      "exchange": "NASDAQ",
+      "website": "talend.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Saba Software, Inc.",
+      "ticker": "SABA",
+      "exchange": "NASDAQ",
+      "website": "saba.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Overland Storage, Inc.",
+      "ticker": "OVRL",
+      "exchange": "NASDAQ",
+      "website": "overlandstorage.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2014",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +86,6 @@
   "committees": [
     "Compensation and Leadership Resources Committee",
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

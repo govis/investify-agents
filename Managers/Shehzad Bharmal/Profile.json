@@ -11,16 +11,28 @@
     {
       "name": "Teck Resources Limited",
       "ticker": "TECK",
-      "exchange": "NYSE",
+      "exchange": "TSX / NYSE",
       "title_or_role": "Senior Vice President, Base Metals",
       "website": "https://www.teck.com",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Compa\u00f1\u00eda de Minas Buenaventura S.A.A.",
+      "ticker": "BVN",
+      "exchange": "NYSE",
+      "website": "https://buenaventura.com",
+      "title_or_role": "Director",
+      "start_date": "2026",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

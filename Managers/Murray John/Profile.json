@@ -12,10 +12,31 @@
       "name": "Discovery Silver Corp.",
       "ticker": "DSV",
       "exchange": "TSX",
-      "title_or_role": "Chairman",
+      "title_or_role": "Director",
       "website": "https://discoverysilver.com",
-      "start_date": "2017-05-15",
-      "end_date": null
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "O3 Mining Inc.",
+      "ticker": "OIII",
+      "exchange": "TSXV",
+      "website": "https://o3mining.com",
+      "title_or_role": "Lead Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gladiator Metals Corp.",
+      "ticker": "GLAD",
+      "exchange": "TSXV",
+      "website": "https://gladiatormetals.com",
+      "title_or_role": "Board Advisor",
+      "start_date": "2024-09-05",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

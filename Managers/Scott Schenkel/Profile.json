@@ -12,10 +12,31 @@
       "name": "NetApp, Inc.",
       "ticker": "NTAP",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
+      "title_or_role": "Board of Directors",
       "website": "https://www.netapp.com",
-      "start_date": "2017-11-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "eBay Inc.",
+      "ticker": "EBAY",
+      "exchange": "NASDAQ",
+      "website": "https://www.ebayinc.com",
+      "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "start_date": "2015",
+      "end_date": "September 2019",
+      "validated": true
+    },
+    {
+      "name": "Expedia Group, Inc.",
+      "ticker": "EXPE",
+      "exchange": "NASDAQ",
+      "website": "https://www.expediagroup.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "February 2025",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +45,6 @@
   "socials": [],
   "committees": [
     "Audit Committee (Chair)"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

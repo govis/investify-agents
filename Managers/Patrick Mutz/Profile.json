@@ -15,7 +15,18 @@
       "title_or_role": "Non-Executive Director",
       "website": "https://auraenergy.com.au/",
       "start_date": "2022-05-18",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Image Resources NL",
+      "ticker": "IMA",
+      "exchange": "ASX",
+      "website": "https://imageresources.com.au/",
+      "title_or_role": "Managing Director and CEO",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -29,5 +40,6 @@
   ],
   "committees": [
     "Audit and Risk Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

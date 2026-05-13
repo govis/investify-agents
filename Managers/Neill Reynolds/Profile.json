@@ -12,10 +12,41 @@
       "name": "Wolfspeed, Inc.",
       "ticker": "WOLF",
       "exchange": "NYSE",
-      "title_or_role": "Executive Vice President and Chief Financial Officer",
-      "website": "https://www.wolfspeed.com",
-      "start_date": "2018-08-27",
-      "end_date": null
+      "title_or_role": "Chief Financial Officer",
+      "website": "wolfspeed.com",
+      "start_date": "August 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NXP Semiconductors N.V.",
+      "ticker": "NXPI",
+      "exchange": "NASDAQ",
+      "website": "nxp.com",
+      "title_or_role": "Senior Vice President, Finance, Strategy and Procurement",
+      "start_date": "Prior to 2018",
+      "end_date": "August 2018",
+      "validated": true
+    },
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "ge.com",
+      "title_or_role": "Various Senior Financial Roles",
+      "start_date": "Prior to NXP",
+      "end_date": "Prior to NXP",
+      "validated": true
+    },
+    {
+      "name": "Ralliant",
+      "ticker": "RALL",
+      "exchange": "NYSE",
+      "website": "ralliant.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +54,6 @@
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

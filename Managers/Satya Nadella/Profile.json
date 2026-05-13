@@ -16,6 +16,16 @@
       "website": "https://www.microsoft.com",
       "start_date": "2014-02-01",
       "end_date": null
+    },
+    {
+      "name": "Starbucks Corporation",
+      "ticker": "SBUX",
+      "exchange": "NASDAQ",
+      "website": "https://www.starbucks.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2017",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +33,6 @@
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

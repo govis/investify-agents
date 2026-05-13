@@ -12,10 +12,51 @@
       "name": "Cisco Systems, Inc.",
       "ticker": "CSCO",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.cisco.com",
-      "start_date": "2003-07-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "www.cisco.com",
+      "start_date": "2003",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "PACCAR Inc.",
+      "ticker": "PCAR",
+      "exchange": "NASDAQ",
+      "website": "www.paccar.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "National Semiconductor Corporation",
+      "ticker": "NSM",
+      "exchange": "NYSE",
+      "website": "www.ti.com",
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "Dionex Corporation",
+      "ticker": "DNEX",
+      "exchange": "NASDAQ",
+      "website": "www.thermofisher.com",
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "BearingPoint, Inc.",
+      "ticker": "BE",
+      "exchange": "NYSE",
+      "website": "www.bearingpoint.com",
+      "title_or_role": "Chairman of the Board / Director",
+      "start_date": "2004",
+      "end_date": "2009",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +65,6 @@
   "socials": [],
   "committees": [
     "Compensation and Management Development Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

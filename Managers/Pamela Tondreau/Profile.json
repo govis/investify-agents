@@ -16,11 +16,32 @@
       "website": "https://www.onsemi.com",
       "start_date": "2021-09-01",
       "end_date": null
+    },
+    {
+      "name": "Energy Recovery, Inc.",
+      "ticker": "ERII",
+      "exchange": "NASDAQ",
+      "website": "https://energyrecovery.com/",
+      "title_or_role": "Chairperson of the Board",
+      "start_date": "October 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ON Semiconductor Corporation (onsemi)",
+      "ticker": "ON",
+      "exchange": "NASDAQ",
+      "website": "https://www.onsemi.com/",
+      "title_or_role": "Executive Vice President, Chief Legal Officer, Chief Compliance Officer, and Secretary",
+      "start_date": "Historical tenure prior to 2019",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

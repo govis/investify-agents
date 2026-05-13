@@ -12,10 +12,41 @@
       "name": "Apple Inc.",
       "ticker": "AAPL",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.apple.com",
-      "start_date": "2021-01-05",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "apple.com",
+      "start_date": "2021-01-04",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Target Corporation",
+      "ticker": "TGT",
+      "exchange": "NYSE",
+      "website": "target.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bank of America Corporation",
+      "ticker": "BAC",
+      "exchange": "NYSE",
+      "website": "bankofamerica.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Walt Disney Company",
+      "ticker": "DIS",
+      "exchange": "NYSE",
+      "website": "thewaltdisneycompany.com",
+      "title_or_role": "Director",
+      "start_date": "2000",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +55,6 @@
   "socials": [],
   "committees": [
     "Audit and Finance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

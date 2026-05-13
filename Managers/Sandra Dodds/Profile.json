@@ -12,10 +12,31 @@
       "name": "OceanaGold Corporation",
       "ticker": "OGC",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Non-Executive Director",
       "website": "https://oceanagold.com",
-      "start_date": "2022-09-01",
-      "end_date": null
+      "start_date": "2020-11-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fletcher Building Limited",
+      "ticker": "FBU",
+      "exchange": "ASX",
+      "website": "https://www.fletcherbuilding.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021-09-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Contact Energy Limited",
+      "ticker": "CEN",
+      "exchange": "NZX",
+      "website": "https://contact.co.nz",
+      "title_or_role": "Independent Director",
+      "start_date": "2021-09-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "committees": [
     "Audit and Risk Committee",
     "Remuneration and People Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

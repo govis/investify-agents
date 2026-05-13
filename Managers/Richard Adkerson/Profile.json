@@ -12,10 +12,11 @@
       "name": "Freeport-McMoRan Inc.",
       "ticker": "FCX",
       "exchange": "NYSE",
-      "title_or_role": "Chairman, Chairman of the Board, Chief Executive Officer, Director",
+      "title_or_role": "Director",
       "website": "https://www.fcx.com",
-      "start_date": "2021-02-01",
-      "end_date": null
+      "start_date": "2006",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +24,6 @@
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

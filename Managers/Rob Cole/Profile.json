@@ -12,10 +12,41 @@
       "name": "Iluka Resources Limited",
       "ticker": "ILU",
       "exchange": "ASX",
+      "title_or_role": "Chairman and Non-Executive Director",
+      "website": "iluka.com",
+      "start_date": "March 2018",
+      "end_date": "December 2024",
+      "validated": true
+    },
+    {
+      "name": "Beach Energy Limited",
+      "ticker": "BPT",
+      "exchange": "ASX",
+      "website": "beachenergy.com.au",
+      "title_or_role": "Managing Director",
+      "start_date": "June 2015",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Woodside Petroleum Ltd (now Woodside Energy Group)",
+      "ticker": "WDS",
+      "exchange": "ASX",
+      "website": "woodside.com",
+      "title_or_role": "Executive Director and Executive Vice President",
+      "start_date": "Unknown",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Perenti Limited",
+      "ticker": "PRN",
+      "exchange": "ASX",
+      "website": "perentigroup.com",
       "title_or_role": "Chairman",
-      "website": "https://www.iluka.com",
-      "start_date": "2022-04-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +55,6 @@
   "socials": [],
   "committees": [
     "Nominations Committee (Chair)"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

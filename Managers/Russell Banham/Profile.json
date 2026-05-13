@@ -12,10 +12,31 @@
       "name": "National Atomic Company Kazatomprom JSC",
       "ticker": "KAP",
       "exchange": "LSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.kazatomprom.kz/",
+      "start_date": "2018",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Eureka Group Holdings Limited",
+      "ticker": "EGH",
+      "exchange": "ASX",
+      "website": "https://www.eurekagroupholdings.com.au/",
+      "title_or_role": "Chairman / Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "MGM China Holdings Limited",
+      "ticker": "2282",
+      "exchange": "HKSE",
+      "website": "https://www.mgmchinaholdings.com/",
       "title_or_role": "Independent Non-Executive Director",
-      "website": "https://www.kazatomprom.kz",
-      "start_date": "2018-10-01",
-      "end_date": null
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "committees": [
     "Audit Committee (Chair)",
     "Nomination and Remuneration Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

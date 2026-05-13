@@ -11,16 +11,48 @@
     {
       "name": "NexGold Mining Corp.",
       "ticker": "NEXG",
-      "exchange": "TSX",
-      "title_or_role": "Chief Executive Officer, Director, President",
-      "website": "https://www.nexgold.com",
-      "start_date": "2023-11-01",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "President & Director",
+      "website": "https://nexgold.com/",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Blackwolf Copper and Gold Ltd.",
+      "ticker": "BWCG",
+      "exchange": "TSXV",
+      "website": "https://blackwolfcopperandgold.com/",
+      "title_or_role": "CEO & Director",
+      "start_date": "2021",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Streamex Corp.",
+      "ticker": "STEX",
+      "exchange": "NASDAQ",
+      "website": "https://ir.streamex.com/",
+      "title_or_role": "Co-Founder & Executive Chairman",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NexMetals Mining Corp.",
+      "ticker": "NEXM",
+      "exchange": "TSXV",
+      "website": "https://nexmetalsmining.com/",
+      "title_or_role": "CEO & Director",
+      "start_date": "2025",
+      "end_date": "2026",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

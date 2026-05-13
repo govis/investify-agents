@@ -16,6 +16,46 @@
       "website": "https://www.yellowcakeplc.com",
       "start_date": "2018-06-01",
       "end_date": null
+    },
+    {
+      "name": "Ivanhoe Electric Inc.",
+      "ticker": "IE",
+      "exchange": "NYSE",
+      "website": "https://ivanhoeelectric.com/",
+      "title_or_role": "Director",
+      "start_date": "2023-07",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kenmare Resources plc",
+      "ticker": "KMR",
+      "exchange": "LSE",
+      "website": "https://www.kenmareresources.com/",
+      "title_or_role": "Senior Independent Director",
+      "start_date": "2008",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "LSE",
+      "website": "https://www.endeavourmining.com/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Canagold Resources Ltd.",
+      "ticker": "CCM",
+      "exchange": "TSX",
+      "website": "https://canagoldresources.com/",
+      "title_or_role": "Chairman",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +66,6 @@
     "Audit Committee (Chair)",
     "Nomination Committee",
     "Remuneration Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

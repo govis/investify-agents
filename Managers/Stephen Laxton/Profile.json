@@ -12,15 +12,27 @@
       "name": "Nucor Corporation",
       "ticker": "NUE",
       "exchange": "NYSE",
-      "title_or_role": "Chief Financial Officer, Treasurer and Executive Vice President",
-      "website": "https://nucor.com",
-      "start_date": "2022-03-06",
-      "end_date": null
+      "title_or_role": "General Manager of Business Development",
+      "website": "https://www.nucor.com",
+      "start_date": "2003",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Cinergy Corp.",
+      "ticker": "CIN",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Manager of Corporate Development",
+      "start_date": null,
+      "end_date": "2003",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

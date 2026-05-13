@@ -12,10 +12,41 @@
       "name": "Consolidated Lithium Metals Inc.",
       "ticker": "CLM",
       "exchange": "TSXV",
-      "title_or_role": "Chief Executive Officer and President, Director",
+      "title_or_role": "Executive Chairman / CEO",
       "website": "https://consolidatedlithium.com/",
-      "start_date": "2023-05-01",
-      "end_date": null
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Jourdan Resources Inc.",
+      "ticker": "JOR",
+      "exchange": "TSXV",
+      "website": "https://www.jourdaninc.com/",
+      "title_or_role": "Executive Chairman",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sama Resources Inc.",
+      "ticker": "SME",
+      "exchange": "TSXV",
+      "website": "https://www.samaresources.com/",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NextSource Materials Inc.",
+      "ticker": "NEXT",
+      "exchange": "TSX",
+      "website": "https://www.nextsourcematerials.com/",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +54,6 @@
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

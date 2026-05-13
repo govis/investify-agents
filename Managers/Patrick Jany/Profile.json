@@ -10,17 +10,29 @@
   "company_affiliations": [
     {
       "name": "A.P. M\u00f8ller - M\u00e6rsk A/S",
-      "ticker": "AMKBY",
-      "exchange": "OTC",
+      "ticker": "MAERSK-B",
+      "exchange": "STO",
       "title_or_role": "Chief Financial Officer (CFO)",
       "website": "https://www.maersk.com",
-      "start_date": "2020-05-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": "2026",
+      "validated": true
+    },
+    {
+      "name": "Comet Holding AG",
+      "ticker": "COTN",
+      "exchange": "LSE",
+      "website": "https://www.comet-group.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

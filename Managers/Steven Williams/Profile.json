@@ -16,6 +16,26 @@
       "website": "https://www.alcoa.com",
       "start_date": "2023-05-01",
       "end_date": null
+    },
+    {
+      "name": "Suncor Energy Inc.",
+      "ticker": "SU",
+      "exchange": "TSX",
+      "website": "https://www.suncor.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2002",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Enbridge Inc.",
+      "ticker": "ENB",
+      "exchange": "TSX",
+      "website": "https://www.enbridge.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +44,6 @@
   "socials": [],
   "committees": [
     "Governance and Nominating Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

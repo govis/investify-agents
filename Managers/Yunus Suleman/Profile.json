@@ -12,10 +12,31 @@
       "name": "Gold Fields Limited",
       "ticker": "GFI",
       "exchange": "NYSE",
-      "title_or_role": "Chairperson, Independent Non-Executive Director",
+      "title_or_role": "Independent Non-Executive Director (2016\u20132022), Chairperson (2022\u2013Present)",
       "website": "https://www.goldfields.com",
-      "start_date": "2022-06-01",
-      "end_date": null
+      "start_date": "2016-09-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tiger Brands Limited",
+      "ticker": "TBS",
+      "exchange": "JSE",
+      "website": "https://www.tigerbrands.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2015-07-13",
+      "end_date": "2018-01-01",
+      "validated": true
+    },
+    {
+      "name": "Liberty Holdings Limited",
+      "ticker": "LBH",
+      "exchange": "JSE",
+      "website": "https://www.liberty.co.za",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2017-01-01",
+      "end_date": "2022-01-01",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "committees": [
     "Capital Projects Control and Review Committee",
     "Nominating and Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

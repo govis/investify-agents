@@ -13,9 +13,90 @@
       "ticker": "PL",
       "exchange": "NYSE",
       "title_or_role": "Director",
-      "website": "https://www.planet.com",
-      "start_date": "2021-12-01",
-      "end_date": null
+      "website": "planet.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "IonQ, Inc.",
+      "ticker": "IONQ",
+      "exchange": "NYSE",
+      "website": "ionq.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Glu Mobile Inc.",
+      "ticker": "GLUU",
+      "exchange": "NASDAQ",
+      "website": "glu.com",
+      "title_or_role": "CEO",
+      "start_date": "2010",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "dMY Technology Group, Inc.",
+      "ticker": "DMY",
+      "exchange": "NYSE",
+      "website": "dmytechnology.com",
+      "title_or_role": "CEO & Director",
+      "start_date": "2020",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "dMY Technology Group, Inc. II",
+      "ticker": "DMYD",
+      "exchange": "NYSE",
+      "website": "dmytechnology.com",
+      "title_or_role": "CEO & Director",
+      "start_date": "2020",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "dMY Technology Group, Inc. III",
+      "ticker": "DMYI",
+      "exchange": "NYSE",
+      "website": "dmytechnology.com",
+      "title_or_role": "CEO & Director",
+      "start_date": "2020",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "dMY Technology Group, Inc. IV",
+      "ticker": "DMYQ",
+      "exchange": "NYSE",
+      "website": "dmytechnology.com",
+      "title_or_role": "CEO & Director",
+      "start_date": "2021",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "dMY Technology Group, Inc. V",
+      "ticker": "DMYV",
+      "exchange": "NYSE",
+      "website": "dmytechnology.com",
+      "title_or_role": "CEO & Director",
+      "start_date": "2021",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "dMY Technology Group, Inc. VI",
+      "ticker": "DMYS",
+      "exchange": "NYSE",
+      "website": "dmytechnology.com",
+      "title_or_role": "CEO & Director",
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +105,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

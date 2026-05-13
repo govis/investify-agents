@@ -16,6 +16,76 @@
       "website": "https://www.gm.com",
       "start_date": "2009-07-24",
       "end_date": null
+    },
+    {
+      "name": "Lucent Technologies",
+      "ticker": "LU",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2002",
+      "end_date": "2006",
+      "validated": true
+    },
+    {
+      "name": "Alcatel-Lucent",
+      "ticker": "ALU",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2006",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Hewlett-Packard Company (HP)",
+      "ticker": "HPQ",
+      "exchange": "NYSE",
+      "website": "www.hp.com",
+      "title_or_role": "Member, Board of Directors / Lead Independent Director",
+      "start_date": "2011",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Hewlett Packard Enterprise (HPE)",
+      "ticker": "HPE",
+      "exchange": "NYSE",
+      "website": "www.hpe.com",
+      "title_or_role": "Chair of the Board of Directors",
+      "start_date": "2015",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Arconic Inc.",
+      "ticker": "ARNC",
+      "exchange": "NYSE",
+      "website": "www.arconic.com",
+      "title_or_role": "Member, Board of Directors / Interim Chair",
+      "start_date": "2016",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Merck & Co., Inc.",
+      "ticker": "MRK",
+      "exchange": "NYSE",
+      "website": "www.merck.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2008",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "KKR & Co. Inc.",
+      "ticker": "KKR",
+      "exchange": "NYSE",
+      "website": "www.kkr.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2011",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +96,6 @@
   "committees": [
     "Compensation Committee",
     "Governance and Corporate Responsibility Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

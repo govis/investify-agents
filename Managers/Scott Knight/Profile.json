@@ -12,10 +12,21 @@
       "name": "Nextracker Inc.",
       "ticker": "NXT",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Chief Operating Officer (COO)",
       "website": "https://www.nextracker.com",
-      "start_date": "2023-02-01",
-      "end_date": null
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Mainfreight Limited",
+      "ticker": "MFT",
+      "exchange": "NZX",
+      "website": "https://www.mainfreight.com",
+      "title_or_role": "Branch Manager (Adelaide)",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +35,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

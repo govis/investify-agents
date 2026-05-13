@@ -10,17 +10,49 @@
   "company_affiliations": [
     {
       "name": "IAMGOLD Corporation",
-      "ticker": "IAG",
-      "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "website": "https://www.iamgold.com",
-      "start_date": "2023-04-01",
-      "end_date": null
+      "ticker": "IMG",
+      "exchange": "TSX",
+      "title_or_role": "President and Chief Executive Officer",
+      "website": "iamgold.com",
+      "start_date": "2023-04-03",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "New Gold Inc.",
+      "ticker": "NGD",
+      "exchange": "TSX",
+      "website": "newgold.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2018-09-12",
+      "end_date": "2022-11-23",
+      "validated": true
+    },
+    {
+      "name": "Richmont Mines Inc.",
+      "ticker": "RIC",
+      "exchange": "TSX",
+      "website": "richmont-mines.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2014",
+      "end_date": "2017-11",
+      "validated": true
+    },
+    {
+      "name": "Omai Gold Mines Corp.",
+      "ticker": "OMG",
+      "exchange": "TSXV",
+      "website": "omaigoldmines.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2024-05-22",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,51 @@
       "name": "Skeena Resources Limited",
       "ticker": "SKE",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://skeenaresources.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aurizon Mines Ltd.",
+      "ticker": "ARZ",
+      "exchange": "TSX",
+      "website": "https://www.hecla-mining.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Kirkland Lake Gold Inc.",
+      "ticker": "KL",
+      "exchange": "TSX",
+      "website": "https://www.agnicoeagle.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Vulcan Materials Company",
+      "ticker": "VMC",
+      "exchange": "NYSE",
+      "website": "https://www.vulcanmaterials.com",
+      "title_or_role": "Executive Vice-President, Construction Materials",
+      "start_date": "1981",
+      "end_date": "1990",
+      "validated": true
+    },
+    {
+      "name": "Denison Mines Ltd.",
+      "ticker": "DML",
+      "exchange": "TSX",
+      "website": "https://www.denisonmines.com",
+      "title_or_role": "President of Quintette Coal Ltd.",
+      "start_date": "1985",
+      "end_date": "1988",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +66,6 @@
   "committees": [
     "Compensation Committee",
     "Technical Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

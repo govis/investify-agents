@@ -16,6 +16,16 @@
       "website": "https://www.nvidia.com",
       "start_date": "1993-01-01",
       "end_date": null
+    },
+    {
+      "name": "Artisan Partners Asset Management Inc.",
+      "ticker": "APAM",
+      "exchange": "NYSE",
+      "website": "https://www.artisanpartners.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2013-03-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +36,6 @@
   "socials": [],
   "committees": [
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -12,15 +12,27 @@
       "name": "Li Auto Inc.",
       "ticker": "LI",
       "exchange": "NASDAQ",
-      "title_or_role": "Non-executive Director",
-      "website": "https://www.lixiang.com",
-      "start_date": "2019-07-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://ir.lixiang.com/",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Meituan",
+      "ticker": "MPNGY",
+      "exchange": "OTC",
+      "website": "https://about.meituan.com/",
+      "title_or_role": "Chairman of the Board, Chief Executive Officer, Co-Founder",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

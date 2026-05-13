@@ -11,11 +11,42 @@
     {
       "name": "Rio Tinto Group",
       "ticker": "RIO",
-      "exchange": "NYSE",
-      "title_or_role": "Senior Independent Director",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
       "website": "https://www.riotinto.com",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "start_date": "January 1, 2019",
+      "end_date": "May 2, 2024",
+      "validated": true
+    },
+    {
+      "name": "National Australia Bank",
+      "ticker": "NAB",
+      "exchange": "ASX",
+      "website": "https://www.nab.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "February 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Spotless Group",
+      "ticker": "SPO",
+      "exchange": "ASX",
+      "website": null,
+      "title_or_role": "Non-Executive Director",
+      "start_date": "December 1, 2016",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "AMP Limited",
+      "ticker": "AMP",
+      "exchange": "ASX",
+      "website": "https://www.amp.com.au",
+      "title_or_role": "Chairman",
+      "start_date": "2014",
+      "end_date": "2015",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +57,6 @@
     "Audit Committee",
     "Nominations Committee",
     "Remuneration Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

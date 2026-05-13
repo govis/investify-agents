@@ -10,12 +10,13 @@
   "company_affiliations": [
     {
       "name": "Alphabet Inc.",
-      "ticker": "GOOGL",
+      "ticker": "GOOG / GOOGL",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
+      "title_or_role": "Co-Founder, Board Member (formerly President)",
       "website": "https://abc.xyz",
-      "start_date": "1998-09-01",
-      "end_date": null
+      "start_date": "1998",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +24,6 @@
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

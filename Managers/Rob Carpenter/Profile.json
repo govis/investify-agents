@@ -11,20 +11,52 @@
     {
       "name": "Dryden Gold Corp.",
       "ticker": "DRY",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://drydengold.com",
-      "start_date": "2023-05-01",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "drydengold.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Prospector Metals Corp.",
       "ticker": "PPP",
-      "exchange": "TSX",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "website": "https://prospectormetalscorp.com",
-      "start_date": "2024-03-11",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "CEO",
+      "website": "prospectormetalscorp.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kaminak Gold Corporation",
+      "ticker": "KAM",
+      "exchange": "TSXV (delisted)",
+      "website": "N/A",
+      "title_or_role": "Co-Founder, President, CEO",
+      "start_date": "2005",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "White Gold Corp.",
+      "ticker": "WGO",
+      "exchange": "TSXV",
+      "website": "whitegoldcorp.ca",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tectonic Metals Inc.",
+      "ticker": "TECT",
+      "exchange": "TSXV",
+      "website": "tectonicmetals.com",
+      "title_or_role": "Co-Founder / Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -35,5 +67,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

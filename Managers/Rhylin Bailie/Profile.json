@@ -11,16 +11,58 @@
     {
       "name": "Equinox Gold Corp.",
       "ticker": "EQX",
-      "exchange": "NYSE",
-      "title_or_role": "Vice President, Investor Relations",
+      "exchange": "TSX",
+      "title_or_role": "VP, Investor Relations",
       "website": "https://www.equinoxgold.com",
-      "start_date": "2016-10-01",
-      "end_date": null
+      "start_date": "Oct 2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Luna Gold Corp.",
+      "ticker": "LGC",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "VP, Investor Relations",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Southern Arc Minerals Inc.",
+      "ticker": "SA",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Investor Relations",
+      "start_date": "July 2011",
+      "end_date": "Oct 2016",
+      "validated": true
+    },
+    {
+      "name": "Eagle Hill Exploration Corp.",
+      "ticker": "EAG",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Investor Relations",
+      "start_date": "July 2011",
+      "end_date": "Oct 2016",
+      "validated": true
+    },
+    {
+      "name": "Sandspring Resources Ltd.",
+      "ticker": "SSP",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Investor Relations",
+      "start_date": "July 2011",
+      "end_date": "Oct 2016",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

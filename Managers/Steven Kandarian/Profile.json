@@ -16,6 +16,16 @@
       "website": "https://www.exxonmobil.com",
       "start_date": "2018-02-01",
       "end_date": null
+    },
+    {
+      "name": "MetLife, Inc.",
+      "ticker": "MET",
+      "exchange": "NYSE",
+      "website": "https://www.metlife.com",
+      "title_or_role": "President, Chief Executive Officer, and Chairman",
+      "start_date": "2005",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +35,6 @@
   "committees": [
     "Compensation Committee",
     "Nominating and Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

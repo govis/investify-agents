@@ -12,19 +12,21 @@
       "name": "Marvell Technology, Inc.",
       "ticker": "MRVL",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.marvell.com",
-      "start_date": "2022-04-01",
-      "end_date": null
+      "start_date": "August 2022",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Rockwell Automation, Inc.",
       "ticker": "ROK",
       "exchange": "NYSE",
-      "title_or_role": "Senior Vice President, Chief People and Legal Officer, and Secretary",
+      "title_or_role": "Senior Vice President, Chief People and Legal Officer and Secretary",
       "website": "https://www.rockwellautomation.com",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "start_date": "January 2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -34,5 +36,6 @@
   "socials": [],
   "committees": [
     "Executive Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

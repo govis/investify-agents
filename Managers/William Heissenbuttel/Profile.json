@@ -12,15 +12,17 @@
       "name": "Royal Gold, Inc.",
       "ticker": "RGLD",
       "exchange": "NASDAQ",
-      "title_or_role": "Director, President and Chief Executive Officer",
+      "title_or_role": "Chief Financial Officer and Vice President, Strategy",
       "website": "https://www.royalgold.com",
-      "start_date": "2020-01-02",
-      "end_date": null
+      "start_date": "2007-01-01",
+      "end_date": "2019-12-31",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

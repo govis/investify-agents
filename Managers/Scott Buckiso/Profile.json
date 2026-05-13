@@ -12,15 +12,17 @@
       "name": "United States Steel Corporation",
       "ticker": "X",
       "exchange": "NYSE",
-      "title_or_role": "Senior Vice President and Chief Manufacturing Officer",
+      "title_or_role": "Senior Vice President / Chief Manufacturing Officer, North American Flat-Rolled (NAFR)",
       "website": "https://www.ussteel.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

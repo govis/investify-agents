@@ -10,12 +10,103 @@
   "company_affiliations": [
     {
       "name": "Victoria Gold Corp.",
-      "ticker": "VGCX",
+      "ticker": "VGC",
       "exchange": "TSX",
-      "title_or_role": "Chairman",
+      "title_or_role": "Non-Executive Chairman",
       "website": "https://vgcx.com",
-      "start_date": "2007-07-31",
-      "end_date": null
+      "start_date": "2007",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Orezone Gold Corp.",
+      "ticker": "ORE",
+      "exchange": "TSX",
+      "website": "https://orezone.com",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Perseus Mining Limited",
+      "ticker": "PRU",
+      "exchange": "ASX/TSX",
+      "website": "https://perseusmining.com",
+      "title_or_role": "Non-Executive Director/Chair",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Serabi Gold plc",
+      "ticker": "SRB",
+      "exchange": "LSE",
+      "website": "https://serabigold.com",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sarama Resources Ltd.",
+      "ticker": "SWA",
+      "exchange": "TSXV",
+      "website": "https://saramaresources.com",
+      "title_or_role": "Founder / Non-Executive Chairman",
+      "start_date": "2010",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Orvana Minerals Corp.",
+      "ticker": "ORV",
+      "exchange": "TSX",
+      "website": "https://orvana.com",
+      "title_or_role": "President and CEO",
+      "start_date": "2005",
+      "end_date": "2006",
+      "validated": true
+    },
+    {
+      "name": "TVX Gold, Inc.",
+      "ticker": "TVX",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "President and CEO",
+      "start_date": null,
+      "end_date": "2003",
+      "validated": true
+    },
+    {
+      "name": "Andina Minerals Inc.",
+      "ticker": "ADM",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Chairman",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Polaris Geothermal Inc.",
+      "ticker": "TSXV",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Australian Solomons Gold Limited",
+      "ticker": "TSX",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +116,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

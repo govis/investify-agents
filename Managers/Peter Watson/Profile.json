@@ -14,8 +14,39 @@
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
       "website": "https://www.paladinenergy.com.au",
-      "start_date": "2019-12-11",
-      "end_date": null
+      "start_date": "December 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Australian Vanadium Ltd",
+      "ticker": "AVL",
+      "exchange": "ASX",
+      "website": "https://www.australianvanadium.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "February 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Strandline Resources Ltd",
+      "ticker": "STA",
+      "exchange": "ASX",
+      "website": "https://www.strandline.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "December 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sedgman Ltd",
+      "ticker": "SDM",
+      "exchange": "ASX",
+      "website": "https://www.sedgman.com",
+      "title_or_role": "Chief Executive Officer & Managing Director",
+      "start_date": "2014",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +56,6 @@
   "committees": [
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee (Chair)"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

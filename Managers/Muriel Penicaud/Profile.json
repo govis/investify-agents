@@ -16,6 +16,16 @@
       "website": "https://www.ussteel.com",
       "start_date": "2022-01-01",
       "end_date": null
+    },
+    {
+      "name": "ManpowerGroup Inc.",
+      "ticker": "MAN",
+      "exchange": "NYSE",
+      "website": "https://www.manpowergroup.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "December 12, 2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +34,6 @@
   "socials": [],
   "committees": [
     "Corporate Governance and Public Policy Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

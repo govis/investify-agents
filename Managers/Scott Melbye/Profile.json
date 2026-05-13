@@ -10,12 +10,13 @@
   "company_affiliations": [
     {
       "name": "Uranium Royalty Corp.",
-      "ticker": "UROY",
-      "exchange": "NASDAQ",
-      "title_or_role": "Chief Executive Officer, Director",
-      "website": "https://www.uraniumroyalty.com",
-      "start_date": "2019-10-01",
-      "end_date": null
+      "ticker": "URC",
+      "exchange": "TSXV, NASDAQ",
+      "title_or_role": "Chief Executive Officer and Director",
+      "website": "https://www.uraniumroyalty.com/",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Uranium Royalty Corp.",
@@ -25,11 +26,42 @@
       "website": "https://www.uraniumroyalty.com/",
       "start_date": "2019-10-01",
       "end_date": null
+    },
+    {
+      "name": "Uranium Energy Corp.",
+      "ticker": "UEC",
+      "exchange": "NYSE",
+      "website": "https://www.uraniumenergy.com/",
+      "title_or_role": "Executive Vice President",
+      "start_date": "September 2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Uranium One Inc.",
+      "ticker": "UUU",
+      "exchange": "TSX",
+      "website": "https://www.uranium1.com/",
+      "title_or_role": "Executive Vice President, Marketing",
+      "start_date": "2007",
+      "end_date": "June 2014",
+      "validated": true
+    },
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO",
+      "exchange": "TSX, NYSE",
+      "website": "https://www.cameco.com/",
+      "title_or_role": "Various leadership positions",
+      "start_date": "1985",
+      "end_date": "2007",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -11,16 +11,18 @@
     {
       "name": "NOVAGOLD RESOURCES INC.",
       "ticker": "NG",
-      "exchange": "NYSE",
-      "title_or_role": "Vice President, General Counsel and Corporate Secretary",
+      "exchange": "NYSE / TSX",
+      "title_or_role": "Secretary / Compliance Officer",
       "website": "https://www.novagold.com",
-      "start_date": "2014-01-01",
-      "end_date": null
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

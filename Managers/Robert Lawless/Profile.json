@@ -14,8 +14,9 @@
       "exchange": "NASDAQ",
       "title_or_role": "Chairman of the Board",
       "website": "https://www.constellationenergy.com",
-      "start_date": "2022-02-01",
-      "end_date": null
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Constellation Energy Corporation",
@@ -25,6 +26,36 @@
       "website": "https://www.constellationenergy.com",
       "start_date": "2022-02-01",
       "end_date": null
+    },
+    {
+      "name": "Constellation Energy Group, Inc.",
+      "ticker": "CEG",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2002",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Exelon Corporation",
+      "ticker": "EXC",
+      "exchange": "NASDAQ",
+      "website": "https://www.exeloncorp.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "McCormick & Company, Incorporated",
+      "ticker": "MKC",
+      "exchange": "NYSE",
+      "website": "https://www.mccormickcorporation.com",
+      "title_or_role": "Chairman, President, and CEO",
+      "start_date": "1977",
+      "end_date": "2008",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -35,5 +66,6 @@
     "Compensation Committee",
     "Corporate Governance Committee",
     "Executive Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

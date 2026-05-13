@@ -13,9 +13,20 @@
       "ticker": "BOE",
       "exchange": "ASX",
       "title_or_role": "Non-Executive Chairman",
-      "website": "https://www.bossenergy.com",
-      "start_date": "2021-11-01",
-      "end_date": null
+      "website": "https://bossenergy.com/",
+      "start_date": "2023-03-30",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Paladin Energy Ltd",
+      "ticker": "PDN",
+      "exchange": "ASX",
+      "website": "https://www.paladinenergy.com.au/",
+      "title_or_role": "Executive General Manager \u2013 Operations / Production",
+      "start_date": "2009-09",
+      "end_date": "2011-05",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

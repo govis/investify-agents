@@ -24,11 +24,14 @@ This workflow builds and enriches detailed profiles for company officers and dir
 - **Execution**: 
     - Supports targeted enrichment via `--manager "Name"` flag.
     - Supports `--get_picture` runtime flag (default: `"no"`).
+    - Supports `--search_picture_li` runtime flag (default: `"no"`).
 - **Architecture**: **Orchestrated Multi-Agent Pipeline** using Gemini Flash models.
 - **Model Config**: Requires `GEMINI_MODEL` to be set in `.env` (no default).
-- **Logic Modification**: Respects `--get_picture` command-line argument.
-    - If `--get_picture no`: Captures image URLs (`picture_url_li_profile`, `picture_url_li_search`) but skips download validation and skips alternative search steps (4b/4c).
+- **Logic Modification**: Respects `--get_picture` and `--search_picture_li` command-line arguments.
+    - If `--get_picture no`: Captures image URLs (if found) but skips download validation and skips alternative search steps (2b/2c).
     - If `--get_picture yes`: Attempts sequential download and validation of all found images.
+    - If `--search_picture_li no`: Skips specialized LinkedIn Image Search (2a).
+    - If `--search_picture_li yes`: Performs specialized LinkedIn Image Search (2a) to find profile pictures.
 - **Refinement**: Agents strictly reject company or school pages; prioritize affiliations mentioned in the background bio.
 - **Status**: Sets `enrichment_socials` to `"success"` (if verified) or `"not_found"` (if no match found).
 
@@ -40,21 +43,26 @@ This workflow builds and enriches detailed profiles for company officers and dir
 - **Logic**:
     - Targets profiles where `picture_local` is missing **OR** the actual image file is missing.
     - Uses **CloakBrowser** (Stealth Chromium) to bypass anti-bot mechanisms.
+    - **Multi-URL Fallback**: Iterates through ALL LinkedIn URLs in a manager's `socials` list until a valid image is found.
+    - **Auth-Wall Detection**: Programmatically identifies if a LinkedIn profile is behind a login wall (private). Logs the event and sets `"profile_status": "private"` in the corresponding social record of `Profile.json`, while still attempting automated fallbacks.
     - **Transient Tracking**: Increments `picture_download_count` on every attempt; this field is **fully purged** (top-level and nested social records) once a picture is successfully saved.
     - **Validation**: Automatically detects and rejects SVG placeholders (masked as JPGs).
     - Updates `picture_local` and `picture_url`.
 
-### 4. Phase 3b: Profile Picture Download (EXPERIMENTAL)
-- **Script**: `download_profile_pictures.py`
-- **Warning**: **NEEDS MORE WORK - DO NOT RUN!**
-- **Action**: Final fallback for downloading images from `potential_picture_url` or performing a basic LinkedIn scrape (non-stealth).
-- **Logic**: Logic-synchronized with Phase 3a but currently deferred.
+## Configuration & Tools
 
-## Scripts
-- `populate_base_profiles.py`: Phase 1 - Deterministic profile creation.
-- `main.py`: Phase 2 - High-precision LinkedIn validation.
-- `scrape_linkedin_pictures.py`: Phase 3a - Stealth LinkedIn image scraping.
-- `download_profile_pictures.py`: Phase 3b - (EXPERIMENTAL) Final image download.
+### Profile Blocklist
+- **File**: `blocklist.json`
+- **Format**: JSON object mapping `{ "LinkedIn URL": "Manager Name" }`.
+- **Purpose**: Explicitly ignores specific profiles known to be incorrect (false positives).
+- **Integration**: Checked by Phase 2 (Supervisor) and Phase 3a (Stealth Scraper).
+
+### Tools Utility
+- **File**: `tools.py`
+- **Functions**:
+    - `get_blocklist()`: Loads and normalizes the blocklist.
+    - `download_image()`: Shared logic for image retrieval with SVG detection.
+    - `populate_base_profile()`: Phase 1 deterministic logic.
 
 ## Configuration (.env)
 - `GOOGLE_API_KEY`: Required for Gemini and Google Search.
@@ -65,3 +73,4 @@ This workflow builds and enriches detailed profiles for company officers and dir
 - `PROFILES_TO_ENRICH`: 
     - `> 0`: Limit processing to this number of profiles.
     - `0`: Attempt to process all eligible profiles.
+

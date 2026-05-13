@@ -16,6 +16,16 @@
       "website": "https://www.lockheedmartin.com",
       "start_date": "2021-01-01",
       "end_date": null
+    },
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "website": "https://www.chevron.com",
+      "title_or_role": "Vice President and Treasurer",
+      "start_date": "2007-01-01",
+      "end_date": "2008-12-31",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +35,6 @@
   "committees": [
     "Audit Committee",
     "Management Development and Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

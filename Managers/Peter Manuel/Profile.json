@@ -11,16 +11,28 @@
     {
       "name": "Ucore Rare Metals Inc.",
       "ticker": "UCU",
-      "exchange": "TSX",
-      "title_or_role": "Vice President and Chief Financial Officer",
-      "website": "https://ucore.com",
-      "start_date": "2006-06-01",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "Chief Financial Officer, Secretary & VP",
+      "website": "https://ucore.com/",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sixth Wave Innovations Inc.",
+      "ticker": "SIXW",
+      "exchange": "CSE",
+      "website": "https://www.sixthwave.com/",
+      "title_or_role": "Interim Chief Financial Officer",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

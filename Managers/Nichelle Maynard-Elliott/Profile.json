@@ -14,8 +14,39 @@
       "exchange": "NASDAQ",
       "title_or_role": "Director",
       "website": "https://www.lucidmotors.com",
-      "start_date": "2021-02-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Xerox Holdings Corporation",
+      "ticker": "XRX",
+      "exchange": "NASDAQ",
+      "website": "https://www.xerox.com",
+      "title_or_role": "Director",
+      "start_date": "May 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aramark",
+      "ticker": "ARMK",
+      "exchange": "NYSE",
+      "website": "https://www.aramark.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Element Solutions Inc",
+      "ticker": "ESI",
+      "exchange": "NYSE",
+      "website": "https://www.elementsolutionsinc.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +55,6 @@
   "socials": [],
   "committees": [
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

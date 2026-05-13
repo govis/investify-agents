@@ -14,8 +14,29 @@
       "exchange": "NASDAQ",
       "title_or_role": "Director",
       "website": "https://arraytechinc.com",
-      "start_date": "2021-03-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Starbucks Corporation",
+      "ticker": "SBUX",
+      "exchange": "NASDAQ",
+      "website": "https://www.starbucks.com",
+      "title_or_role": "Chief Operating Officer (and various senior executive roles including CFO)",
+      "start_date": "1992",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Harley-Davidson, Inc.",
+      "ticker": "HOG",
+      "exchange": "NYSE",
+      "website": "https://www.harley-davidson.com",
+      "title_or_role": "Director (and Chairman of the Board effective October 1, 2025)",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

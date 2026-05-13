@@ -16,6 +16,16 @@
       "website": "https://www.ti.com",
       "start_date": "2013-01-01",
       "end_date": null
+    },
+    {
+      "name": "Mister Car Wash, Inc.",
+      "ticker": "MCW",
+      "exchange": "NYSE",
+      "website": "https://www.mistercarwash.com/",
+      "title_or_role": "Director (Member of the Board of Directors)",
+      "start_date": "October 2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +34,6 @@
   "socials": [],
   "committees": [
     "Governance and Stockholder Relations Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

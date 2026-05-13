@@ -10,12 +10,13 @@
   "company_affiliations": [
     {
       "name": "Rolls-Royce Holdings plc",
-      "ticker": "RR",
-      "exchange": "LSE",
-      "title_or_role": "Independent Non-Executive Director",
+      "ticker": "RR.L",
+      "exchange": "London Stock Exchange (LSE)",
+      "title_or_role": "Chief Financial Officer and Executive Director",
       "website": "https://www.rolls-royce.com",
       "start_date": "2021-05-03",
-      "end_date": null
+      "end_date": "2024-08-31",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +27,6 @@
   "committees": [
     "Audit Committee (Chair)",
     "Nominations & Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

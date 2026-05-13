@@ -12,10 +12,31 @@
       "name": "L3Harris Technologies, Inc.",
       "ticker": "LHX",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.l3harris.com",
-      "start_date": "2019-06-29",
-      "end_date": null
+      "start_date": "2023-12-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Raytheon Company (now RTX Corporation)",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "2004-01-01",
+      "end_date": "2014-09-30",
+      "validated": true
+    },
+    {
+      "name": "The TJX Companies, Inc.",
+      "ticker": "TJX",
+      "exchange": "NYSE",
+      "website": "https://www.tjx.com",
+      "title_or_role": "Director",
+      "start_date": "2015-02-03",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "committees": [
     "Finance Committee",
     "Nominating and Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

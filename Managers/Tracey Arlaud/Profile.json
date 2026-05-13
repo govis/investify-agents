@@ -12,10 +12,21 @@
       "name": "Global Atomic Corporation",
       "ticker": "GLO",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://globalatomiccorp.com",
-      "start_date": "2022-06-23",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.globalatomiccorp.com/",
+      "start_date": "2021-06-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Imdex Limited",
+      "ticker": "IMD",
+      "exchange": "ASX",
+      "website": "https://www.imdex.com/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021-02-11",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Audit Committee",
     "Technical Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

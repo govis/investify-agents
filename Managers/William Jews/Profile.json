@@ -14,8 +14,19 @@
       "exchange": "NYSE",
       "title_or_role": "Director",
       "website": "https://www.caci.com",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "start_date": "2013",
+      "end_date": "2025-12-31",
+      "validated": true
+    },
+    {
+      "name": "Choice Hotels International, Inc.",
+      "ticker": "CHH",
+      "exchange": "NYSE",
+      "website": "https://www.choicehotels.com",
+      "title_or_role": "Director",
+      "start_date": "2000",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

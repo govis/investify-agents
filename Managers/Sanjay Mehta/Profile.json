@@ -12,10 +12,21 @@
       "name": "Teradyne, Inc.",
       "ticker": "TER",
       "exchange": "NASDAQ",
-      "title_or_role": "Vice President and Chief Financial Officer",
+      "title_or_role": "Chief Financial Officer, Treasurer, VP",
       "website": "https://www.teradyne.com",
-      "start_date": "2019-04-01",
-      "end_date": null
+      "start_date": "Apr 2019",
+      "end_date": "Nov 2025",
+      "validated": true
+    },
+    {
+      "name": "Qualcomm Incorporated",
+      "ticker": "QCOM",
+      "exchange": "NASDAQ",
+      "website": "https://www.qualcomm.com",
+      "title_or_role": "Segment Chief Financial Officer (QCT)",
+      "start_date": "2010",
+      "end_date": "2015",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +34,6 @@
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,21 @@
       "name": "Lockheed Martin Corporation",
       "ticker": "LMT",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.lockheedmartin.com",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "start_date": "2018-06",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Occidental Petroleum Corporation",
+      "ticker": "OXY",
+      "exchange": "NYSE",
+      "website": "https://www.oxy.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2015-12",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Audit Committee",
     "Strategic Affairs Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

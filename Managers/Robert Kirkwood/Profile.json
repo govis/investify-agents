@@ -11,11 +11,12 @@
     {
       "name": "Energy Fuels Inc.",
       "ticker": "UUUU",
-      "exchange": "NYSE",
+      "exchange": "NYSE American",
       "title_or_role": "Independent Director",
       "website": "https://www.energyfuels.com",
-      "start_date": "2012-01-01",
-      "end_date": null
+      "start_date": "2017",
+      "end_date": "October 15, 2025",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +27,6 @@
   "committees": [
     "Audit Committee",
     "Environment, Health and Safety Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

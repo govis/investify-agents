@@ -14,8 +14,19 @@
       "exchange": "TSX",
       "title_or_role": "Director",
       "website": "https://www.atkinsrealis.com",
-      "start_date": "2022-11-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Mitie Group PLC",
+      "ticker": "MTO",
+      "exchange": "LSE",
+      "website": "https://www.mitie.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2007",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Audit and Risk Committee",
     "Governance, Ethics and Sustainability Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

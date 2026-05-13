@@ -25,6 +25,36 @@
       "website": "https://regisresources.com.au",
       "start_date": "2019-07-01",
       "end_date": null
+    },
+    {
+      "name": "Australis Oil and Gas Limited",
+      "ticker": "ATS",
+      "exchange": "ASX",
+      "website": "https://www.australisoil.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "Nov 2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Altona Mining Limited",
+      "ticker": "AOH",
+      "exchange": "ASX",
+      "website": "https://www.altonamining.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "18 Mar 2013",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Aquila Resources Limited",
+      "ticker": "AQA",
+      "exchange": "ASX",
+      "website": null,
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2012",
+      "end_date": "2014",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -37,5 +67,6 @@
     "Audit and Risk Committee (Chair)",
     "People and Culture Committee",
     "Remuneration and Nomination Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -11,11 +11,42 @@
     {
       "name": "Science Applications International Corporation",
       "ticker": "SAIC",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "saic.com",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Amdocs Limited",
+      "ticker": "DOX",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.saic.com",
-      "start_date": "2019-08-13",
-      "end_date": null
+      "website": "amdocs.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sprinklr, Inc.",
+      "ticker": "CXM",
+      "exchange": "NYSE",
+      "website": "sprinklr.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Entegris, Inc.",
+      "ticker": "ENTG",
+      "exchange": "NASDAQ",
+      "website": "entegris.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +55,6 @@
   "socials": [],
   "committees": [
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

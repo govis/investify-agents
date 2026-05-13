@@ -12,10 +12,11 @@
       "name": "AECOM",
       "ticker": "ACM",
       "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer, Director",
+      "title_or_role": "Various operational and financial leadership positions",
       "website": "https://aecom.com",
-      "start_date": "2020-10-01",
-      "end_date": null
+      "start_date": "2009",
+      "end_date": "2015",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,5 +28,6 @@
       "url": "https://www.linkedin.com/in/troy-rudd-11b93290"
     }
   ],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -11,16 +11,28 @@
     {
       "name": "Science Applications International Corporation",
       "ticker": "SAIC",
-      "exchange": "NASDAQ",
-      "title_or_role": "Chief Financial Officer",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President, Chief Financial Officer",
       "website": "https://www.saic.com",
-      "start_date": "2021-01-04",
-      "end_date": null
+      "start_date": "2020-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "title_or_role": "Various financial, tax, and management roles",
+      "start_date": "2011",
+      "end_date": "2020-11",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

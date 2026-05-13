@@ -25,6 +25,26 @@
       "website": "https://www.snowflake.com",
       "start_date": "2020-03-01",
       "end_date": null
+    },
+    {
+      "name": "DocuSign, Inc.",
+      "ticker": "DOCU",
+      "exchange": "NASDAQ",
+      "website": "https://www.docusign.com",
+      "title_or_role": "Board of Directors",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Warby Parker Inc.",
+      "ticker": "WRBY",
+      "exchange": "NYSE",
+      "website": "https://www.warbyparker.com",
+      "title_or_role": "Board of Directors",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -33,5 +53,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

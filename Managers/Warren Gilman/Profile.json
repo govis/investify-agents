@@ -34,6 +34,26 @@
       "website": "https://www.nexgenenergy.ca",
       "start_date": "2017-05-01",
       "end_date": null
+    },
+    {
+      "name": "Queen's Road Capital Investment Ltd.",
+      "ticker": "QRC",
+      "exchange": "TSX",
+      "website": "https://queensrdcapital.com/",
+      "title_or_role": "Chairman, CEO & Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CEF Holdings Ltd.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://www.cefholdings.com/",
+      "title_or_role": "Chairman & Chief Executive Officer",
+      "start_date": "2011",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -46,5 +66,6 @@
     "Compensation Committee",
     "Governance Committee",
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

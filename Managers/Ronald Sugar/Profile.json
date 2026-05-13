@@ -12,10 +12,81 @@
       "name": "Apple Inc.",
       "ticker": "AAPL",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.apple.com",
-      "start_date": "2010-11-17",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "apple.com",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Uber Technologies, Inc.",
+      "ticker": "UBER",
+      "exchange": "NYSE",
+      "website": "uber.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "northropgrumman.com",
+      "title_or_role": "Chairman and CEO",
+      "start_date": "2003",
+      "end_date": "2010",
+      "validated": true
+    },
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "website": "chevron.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Amgen Inc.",
+      "ticker": "AMGN",
+      "exchange": "NASDAQ",
+      "website": "amgen.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Air Lease Corporation",
+      "ticker": "AL",
+      "exchange": "NYSE",
+      "website": "airleasecorp.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "TRW Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "N/A",
+      "title_or_role": "CFO / Senior Executive",
+      "start_date": "N/A",
+      "end_date": "N/A",
+      "validated": true
+    },
+    {
+      "name": "Litton Industries",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "N/A",
+      "title_or_role": "Senior Executive",
+      "start_date": "N/A",
+      "end_date": "N/A",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +96,6 @@
   "committees": [
     "Audit and Finance Committee",
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

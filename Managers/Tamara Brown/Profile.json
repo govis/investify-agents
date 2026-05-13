@@ -12,10 +12,41 @@
       "name": "Orla Mining Ltd.",
       "ticker": "OLA",
       "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://orlamining.com/",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lithium Royalty Corp.",
+      "ticker": "LIRC",
+      "exchange": "TSX",
+      "website": "https://lithiumroyaltycorp.com/",
       "title_or_role": "Independent Director",
-      "website": "https://www.orlamining.com",
-      "start_date": "2022-04-01",
-      "end_date": null
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "New Found Gold Corp.",
+      "ticker": "NFGC",
+      "exchange": "TSX",
+      "website": "https://newfoundgold.ca/",
+      "title_or_role": "Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "29Metals Limited",
+      "ticker": "29M",
+      "exchange": "ASX",
+      "website": "https://www.29metals.com/",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2023-04-17",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +56,6 @@
   "committees": [
     "Compensation Committee (Chair)",
     "Environmental, Sustainability, Health & Safety Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

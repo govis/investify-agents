@@ -13,14 +13,16 @@
       "ticker": "XOM",
       "exchange": "NYSE",
       "title_or_role": "Senior Vice President",
-      "website": "https://www.exxonmobil.com",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "website": "https://corporate.exxonmobil.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

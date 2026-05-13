@@ -14,13 +14,25 @@
       "exchange": "NYSE",
       "title_or_role": "President and Chief Executive Officer",
       "website": "https://www.flowserve.com",
-      "start_date": "2017-04-01",
-      "end_date": null
+      "start_date": "2017-04",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cameron International Corporation",
+      "ticker": "CAM",
+      "exchange": "NYSE",
+      "website": "https://www.slb.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2002",
+      "end_date": "2017-03",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,76 @@
       "website": "https://www.atlascopcogroup.com",
       "start_date": "2003-01-01",
       "end_date": null
+    },
+    {
+      "name": "AB Electrolux",
+      "ticker": "ELUX-B",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.electroluxgroup.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2018",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Boliden AB",
+      "ticker": "BOL",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.boliden.com",
+      "title_or_role": "Board Member",
+      "start_date": "2006",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Ratos AB",
+      "ticker": "RATO-B",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.ratos.com",
+      "title_or_role": "Board Member",
+      "start_date": "2006",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Trelleborg AB",
+      "ticker": "TREL-B",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.trelleborg.com",
+      "title_or_role": "Board Member",
+      "start_date": "2006",
+      "end_date": "2010",
+      "validated": true
+    },
+    {
+      "name": "Rezidor Hotel Group AB",
+      "ticker": "REZT",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.radissonhotels.com",
+      "title_or_role": "Board Member",
+      "start_date": "2006",
+      "end_date": "2010",
+      "validated": true
+    },
+    {
+      "name": "Sapa AB",
+      "ticker": "SAPA",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.sapagroup.com",
+      "title_or_role": "CEO",
+      "start_date": "1999",
+      "end_date": "2004",
+      "validated": true
+    },
+    {
+      "name": "Alfa Laval AB",
+      "ticker": "ALFA",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.alfalaval.com",
+      "title_or_role": "CFO",
+      "start_date": "1988",
+      "end_date": "1991",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +94,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

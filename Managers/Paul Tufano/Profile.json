@@ -16,6 +16,36 @@
       "website": "https://www.teradyne.com",
       "start_date": "2023-02-01",
       "end_date": null
+    },
+    {
+      "name": "Benchmark Electronics, Inc.",
+      "ticker": "BHE",
+      "exchange": "NYSE",
+      "website": "https://www.bench.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "September 2016",
+      "end_date": "March 2019",
+      "validated": true
+    },
+    {
+      "name": "Maxtor Corporation",
+      "ticker": "MXTR",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "1996",
+      "end_date": "2001",
+      "validated": true
+    },
+    {
+      "name": "EnerSys",
+      "ticker": "ENS",
+      "exchange": "NYSE",
+      "website": "https://www.enersys.com",
+      "title_or_role": "Director",
+      "start_date": "April 2015",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +56,6 @@
   "committees": [
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

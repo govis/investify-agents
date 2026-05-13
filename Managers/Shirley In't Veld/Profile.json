@@ -12,10 +12,61 @@
       "name": "Karora Resources Inc.",
       "ticker": "KRR",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://www.karoraresources.com",
-      "start_date": "2021-12-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.karoraresources.com/",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Alumina Limited",
+      "ticker": "AWC",
+      "exchange": "ASX",
+      "website": "https://www.aluminalimited.com/",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "APA Group",
+      "ticker": "APA",
+      "exchange": "ASX",
+      "website": "https://www.apa.com.au/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2018",
+      "end_date": "2024-03-28",
+      "validated": true
+    },
+    {
+      "name": "DEVELOP Global Limited",
+      "ticker": "DVP",
+      "exchange": "ASX",
+      "website": "https://www.develop.com.au/",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Americas Gold and Silver Corporation",
+      "ticker": "USA",
+      "exchange": "TSX",
+      "website": "https://www.americas-gold.com/",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "DUET Group",
+      "ticker": "DUE",
+      "exchange": "ASX",
+      "website": "https://www.duet.net.au/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": null,
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +76,6 @@
   "committees": [
     "Compensation Committee",
     "Technical, Safety and Sustainability Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

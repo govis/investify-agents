@@ -10,17 +10,39 @@
   "company_affiliations": [
     {
       "name": "Kinross Gold Corporation",
-      "ticker": "KGC",
-      "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
+      "ticker": "K",
+      "exchange": "TSX",
+      "title_or_role": "Executive Vice-President, Corporate Development",
       "website": "https://www.kinross.com",
-      "start_date": "2012-08-01",
-      "end_date": null
+      "start_date": "2008",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Sylvamo Corporation",
+      "ticker": "SLVM",
+      "exchange": "NYSE",
+      "website": "https://www.sylvamo.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Innophos Holdings, Inc.",
+      "ticker": "IPHS",
+      "exchange": "NASDAQ",
+      "website": "https://www.innophos.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2018",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

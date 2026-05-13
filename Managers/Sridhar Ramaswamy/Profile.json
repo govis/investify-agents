@@ -12,15 +12,27 @@
       "name": "Snowflake Inc.",
       "ticker": "SNOW",
       "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer, Director",
+      "title_or_role": "Chief Executive Officer",
       "website": "https://www.snowflake.com",
-      "start_date": "2024-02-28",
-      "end_date": null
+      "start_date": "February 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://abc.xyz",
+      "title_or_role": "Senior Vice President, Advertising and Commerce",
+      "start_date": "2003",
+      "end_date": "October 2018",
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

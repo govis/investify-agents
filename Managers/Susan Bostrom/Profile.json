@@ -16,6 +16,26 @@
       "website": "https://www.servicenow.com",
       "start_date": "2014-07-01",
       "end_date": null
+    },
+    {
+      "name": "Samsara, Inc.",
+      "ticker": "IOT",
+      "exchange": "NYSE",
+      "website": "https://www.samsara.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nutanix, Inc.",
+      "ticker": "NTNX",
+      "exchange": "NASDAQ",
+      "website": "https://www.nutanix.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +45,6 @@
   "committees": [
     "Leadership Development and Compensation Committee",
     "Nominating and Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

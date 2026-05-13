@@ -11,16 +11,38 @@
     {
       "name": "Gold Royalty Corp.",
       "ticker": "GROY",
-      "exchange": "NYSE",
+      "exchange": "NYSE American",
       "title_or_role": "Vice President, Evaluations",
-      "website": "https://www.goldroyalty.com",
-      "start_date": "2020-09-01",
-      "end_date": null
+      "website": "https://goldroyalty.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GoldMining Inc.",
+      "ticker": "GLDG",
+      "exchange": "NYSE American",
+      "website": "https://www.goldmining.com",
+      "title_or_role": "Director, Engineering Studies",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Wheaton Precious Metals Corp.",
+      "ticker": "WPM",
+      "exchange": "TSX",
+      "website": "https://www.wheatonpm.com",
+      "title_or_role": "Senior Director, Project Evaluations",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

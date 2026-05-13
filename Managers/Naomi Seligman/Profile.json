@@ -12,10 +12,21 @@
       "name": "Oracle Corporation",
       "ticker": "ORCL",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member of the Board of Directors",
       "website": "https://www.oracle.com",
-      "start_date": "2005-11-01",
-      "end_date": null
+      "start_date": "2005",
+      "end_date": "2026",
+      "validated": true
+    },
+    {
+      "name": "Akamai Technologies, Inc.",
+      "ticker": "AKAM",
+      "exchange": "NASDAQ",
+      "website": "https://www.akamai.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "November 2001",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "socials": [],
   "committees": [
     "Nomination and Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

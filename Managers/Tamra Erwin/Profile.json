@@ -12,10 +12,21 @@
       "name": "Deere & Company",
       "ticker": "DE",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member of the Board of Directors",
       "website": "https://www.deere.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "start_date": "May 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Verizon Communications Inc.",
+      "ticker": "VZ",
+      "exchange": "NYSE",
+      "website": "https://www.verizon.com",
+      "title_or_role": "Executive Vice President and CEO of Verizon Business",
+      "start_date": "2019",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Compensation Committee",
     "Finance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

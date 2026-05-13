@@ -12,10 +12,51 @@
       "name": "Cisco Systems, Inc.",
       "ticker": "CSCO",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.cisco.com",
-      "start_date": "2022-07-01",
-      "end_date": null
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Weyerhaeuser Company",
+      "ticker": "WY",
+      "exchange": "NYSE",
+      "website": "https://www.weyerhaeuser.com",
+      "title_or_role": "Director",
+      "start_date": "2003",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BAE Systems plc",
+      "ticker": "BA.L",
+      "exchange": "LSE",
+      "website": "https://www.baesystems.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BWX Technologies, Inc.",
+      "ticker": "BWXT",
+      "exchange": "NYSE",
+      "website": "https://www.bwxt.com",
+      "title_or_role": "Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "https://www.boeing.com",
+      "title_or_role": "Various Executive Roles (including Vice President of Business Development and Strategic Integration, President of Boeing Japan, and Vice President of Propulsion Systems)",
+      "start_date": "1992",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +65,6 @@
   "socials": [],
   "committees": [
     "Compensation and Management Development Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

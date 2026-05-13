@@ -12,10 +12,21 @@
       "name": "Duke Energy Corporation",
       "ticker": "DUK",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.duke-energy.com",
       "start_date": "2018-01-01",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Merck & Co., Inc.",
+      "ticker": "MRK",
+      "exchange": "NYSE",
+      "website": "https://www.merck.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2014-01-01",
+      "end_date": "2015-12-31",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Compensation and People Development Committee",
     "Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

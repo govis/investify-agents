@@ -12,10 +12,51 @@
       "name": "Parsons Corporation",
       "ticker": "PSN",
       "exchange": "NYSE",
-      "title_or_role": "Lead Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.parsons.com",
-      "start_date": "2013",
-      "end_date": null
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Arch Resources, Inc.",
+      "ticker": "ARCH",
+      "exchange": "NYSE",
+      "website": "https://www.archrsc.com",
+      "title_or_role": "President, CEO, Chairman",
+      "start_date": "1992",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Norfolk Southern Corporation",
+      "ticker": "NSC",
+      "exchange": "NYSE",
+      "website": "https://www.nscorp.com",
+      "title_or_role": "Director / Lead Independent Director",
+      "start_date": "2011",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "USG Corporation",
+      "ticker": "USG",
+      "exchange": "NYSE",
+      "website": "https://www.usg.com",
+      "title_or_role": "Director / Lead Director / Non-Executive Chairman",
+      "start_date": "2005",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Cenovus Energy Inc.",
+      "ticker": "CVE",
+      "exchange": "TSX / NYSE",
+      "website": "https://www.cenovus.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +66,6 @@
   "committees": [
     "Audit Committee",
     "Corporate Governance and Responsibility Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

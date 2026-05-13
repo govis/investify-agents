@@ -11,16 +11,18 @@
     {
       "name": "Western Uranium & Vanadium Corp.",
       "ticker": "WUC",
-      "exchange": "TSX",
-      "title_or_role": "Chief Financial Officer",
-      "website": "https://western-uranium.com",
-      "start_date": "2016-06-15",
-      "end_date": null
+      "exchange": "CSE / OTCQX",
+      "title_or_role": "President, CEO, and Chief Financial Officer",
+      "website": "https://www.western-uranium.com/",
+      "start_date": "2023-01-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

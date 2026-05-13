@@ -12,10 +12,21 @@
       "name": "ASML Holding N.V.",
       "ticker": "ASML",
       "exchange": "NASDAQ",
-      "title_or_role": "Executive Vice President and Chief Strategic Sourcing & Procurement Officer",
+      "title_or_role": "Executive Vice President Customer Support",
       "website": "https://www.asml.com",
-      "start_date": "2023-04-26",
-      "end_date": null
+      "start_date": "2018-11",
+      "end_date": "2023-04",
+      "validated": true
+    },
+    {
+      "name": "Micron Technology, Inc.",
+      "ticker": "MU",
+      "exchange": "NASDAQ",
+      "website": "https://www.micron.com",
+      "title_or_role": "Vice President of Wafer Fabs",
+      "start_date": null,
+      "end_date": "2018-11",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +34,6 @@
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

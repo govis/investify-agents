@@ -12,15 +12,27 @@
       "name": "Huntington Ingalls Industries, Inc.",
       "ticker": "HII",
       "exchange": "NYSE",
-      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "title_or_role": "CFO, Ingalls Shipbuilding division",
       "website": "https://www.hii.com",
-      "start_date": "2021-02-01",
-      "end_date": null
+      "start_date": "2011",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "title_or_role": "Shipbuilding-Gulf Coast CFO / Various roles (24-year career)",
+      "start_date": "~1987",
+      "end_date": "2011",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

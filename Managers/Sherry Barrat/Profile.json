@@ -16,6 +16,26 @@
       "website": "https://www.nexteraenergy.com",
       "start_date": "1998-01-01",
       "end_date": null
+    },
+    {
+      "name": "Arthur J. Gallagher & Co.",
+      "ticker": "AJG",
+      "exchange": "NYSE",
+      "website": "https://www.ajg.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "May 2026",
+      "validated": true
+    },
+    {
+      "name": "Northern Trust Corporation",
+      "ticker": "NTRS",
+      "exchange": "NASDAQ",
+      "website": "https://www.northerntrust.com",
+      "title_or_role": "Vice Chairman",
+      "start_date": null,
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +45,6 @@
   "committees": [
     "Finance & Investment",
     "Governance & Nominating (Chair)"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

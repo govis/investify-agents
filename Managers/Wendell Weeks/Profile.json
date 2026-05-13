@@ -16,6 +16,26 @@
       "website": "https://www.amazon.com",
       "start_date": "2016-02-01",
       "end_date": null
+    },
+    {
+      "name": "Corning Incorporated",
+      "ticker": "GLW",
+      "exchange": "NYSE",
+      "website": "https://www.corning.com",
+      "title_or_role": "Director",
+      "start_date": "2000-12",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Merck & Co., Inc.",
+      "ticker": "MRK",
+      "exchange": "NYSE",
+      "website": "https://www.merck.com",
+      "title_or_role": "Director",
+      "start_date": "2004-02-23",
+      "end_date": "2020-05-25",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +45,6 @@
   "socials": [],
   "committees": [
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

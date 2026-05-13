@@ -12,15 +12,27 @@
       "name": "Thomson Reuters Corporation",
       "ticker": "TRI",
       "exchange": "NYSE",
-      "title_or_role": "President and Chief Executive Officer",
+      "title_or_role": "President and CEO",
       "website": "https://www.thomsonreuters.com",
       "start_date": "2020-03-15",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nielsen Holdings PLC",
+      "ticker": "NLSN",
+      "exchange": "NYSE",
+      "website": "https://www.nielsen.com",
+      "title_or_role": "Global President and COO",
+      "start_date": "2009",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

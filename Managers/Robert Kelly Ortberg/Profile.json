@@ -12,15 +12,37 @@
       "name": "The Boeing Company",
       "ticker": "BA",
       "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
+      "title_or_role": "President and Chief Executive Officer",
       "website": "https://www.boeing.com",
-      "start_date": "2024-08-08",
-      "end_date": null
+      "start_date": "August 8, 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aptiv PLC",
+      "ticker": "APTV",
+      "exchange": "NYSE",
+      "website": "https://www.aptiv.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "September 13, 2018",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Rockwell Collins, Inc.",
+      "ticker": "COL",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2013",
+      "end_date": "2018",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

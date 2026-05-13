@@ -12,15 +12,27 @@
       "name": "Leidos Holdings, Inc.",
       "ticker": "LDOS",
       "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer, Director",
+      "title_or_role": "Chief Executive Officer",
       "website": "https://www.leidos.com",
-      "start_date": "2023-05-03",
-      "end_date": null
+      "start_date": "May 3, 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rolls-Royce Holdings plc",
+      "ticker": "RR.",
+      "exchange": "LSE",
+      "website": "https://www.rolls-royce.com",
+      "title_or_role": "President and CEO, Rolls-Royce North America; President, Global Defense",
+      "start_date": "March 2018",
+      "end_date": "May 2023",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -66,10 +66,11 @@ class Supervisor:
     def __init__(self, pipeline: 'ManagerEnrichmentPipelineV2'):
         self.pipeline = pipeline
 
-    async def orchestrate(self, profile_path: str, get_picture: str = "no"):
+    async def orchestrate(self, profile_path: str, get_picture: str = "no", search_picture_li: str = "no"):
         print(f"Supervisor: Starting enrichment for {os.path.basename(profile_path)}")
         manager = get_manager_data(profile_path)
         manager_dir = os.path.dirname(profile_path)
+        blocklist = tools.get_blocklist()
         
         # Check if we already have a LinkedIn URL to verify
         existing_linkedin = next((s['url'] for s in manager.get('socials', []) if 'linkedin.com' in s['url'].lower()), None)
@@ -78,21 +79,31 @@ class Supervisor:
         best_candidate_url = None
 
         if existing_linkedin:
-            print(f"Supervisor: Found existing LinkedIn URL {existing_linkedin}. Attempting verification...")
-            v_res = await self.pipeline.agents['verifier'].verify(manager, existing_linkedin)
-            if v_res and v_res.is_verified:
-                best_verification = v_res
-                best_candidate_url = existing_linkedin
-                print(f"Supervisor: Verified existing URL {existing_linkedin}")
+            if existing_linkedin.lower().rstrip('/') in blocklist:
+                print(f"Supervisor: Existing URL {existing_linkedin} is in blocklist. Skipping.")
             else:
-                reason = v_res.verification_reasoning if v_res else "No response"
-                print(f"Supervisor: Existing URL {existing_linkedin} not verified. Reasoning: {reason}")
+                print(f"Supervisor: Found existing LinkedIn URL {existing_linkedin}. Attempting verification...")
+                v_res = await self.pipeline.agents['verifier'].verify(manager, existing_linkedin)
+                if v_res and v_res.is_verified:
+                    best_verification = v_res
+                    best_candidate_url = existing_linkedin
+                    print(f"Supervisor: Verified existing URL {existing_linkedin}")
+                else:
+                    reason = v_res.verification_reasoning if v_res else "No response"
+                    print(f"Supervisor: Existing URL {existing_linkedin} not verified. Reasoning: {reason}")
         
         if not best_verification:
             # 1. Search for LinkedIn Profile
             print(f"Supervisor: Delegating to LinkedIn Search Agent...")
             search_res = await self.pipeline.agents['search'].search(manager)
             candidates = search_res.candidates if search_res else []
+            
+            # Filter candidates using blocklist
+            original_count = len(candidates)
+            candidates = [c for c in candidates if c.url.lower().rstrip('/') not in blocklist]
+            if len(candidates) < original_count:
+                print(f"Supervisor: Filtered out {original_count - len(candidates)} blocklisted candidates.")
+
             print(f"Supervisor: Found {len(candidates)} candidates: {[c.url for c in candidates]}")
             
             if not candidates:
@@ -137,9 +148,9 @@ class Supervisor:
                 print("Supervisor: Successfully downloaded profile image.")
                 final_pic_url = picture_url_li_profile
         
-        # Always run Agent 4a (LinkedIn Image Search) to capture URL, but only download if get_picture is yes
-        if best_verification and best_verification.person_name and best_verification.company_name:
-            print(f"Supervisor: Executing LinkedIn Image Search (4a) for {best_verification.person_name} {best_verification.company_name}...")
+        # Execute LinkedIn Image Search (2a) ONLY if search_picture_li is "yes"
+        if search_picture_li == "yes" and best_verification and best_verification.person_name and best_verification.company_name:
+            print(f"Supervisor: Executing LinkedIn Image Search (2a) for {best_verification.person_name} {best_verification.company_name}...")
             res = await self.pipeline.agents['img_li'].search(best_verification.person_name, best_verification.company_name)
             if res and res.image_url:
                 picture_url_li_search = res.image_url # Capture new search URL
@@ -150,21 +161,23 @@ class Supervisor:
                     if tools.download_image(picture_url_li_search, manager_dir):
                         print("Supervisor: Successfully downloaded search image.")
                         final_pic_url = picture_url_li_search
+        elif search_picture_li != "yes":
+            print(f"Supervisor: Skipping LinkedIn Image Search (2a) (search_picture_li={search_picture_li})")
 
-        # If still no image, proceed to alternative agents (4b, 4c) ONLY if get_picture is yes
+        # If still no image, proceed to alternative agents (2b, 2c) ONLY if get_picture is yes
         if not final_pic_url and get_picture == "yes":
             print("Supervisor: No LinkedIn pictures validated. Trying IR agents...")
-            # 4b. IR Website Search
-            print("Supervisor: Trying IR Website Search (4b)...")
+            # 2b. IR Website Search
+            print("Supervisor: Trying IR Website Search (2b)...")
             res = await self.pipeline.agents['img_ir'].search(manager)
             if res and res.image_url:
                 print(f"Supervisor: Attempting to download IR website image: {res.image_url[:60]}...")
                 if tools.download_image(res.image_url, manager_dir):
                     final_pic_url = res.image_url
             
-            # 4c. Broad IR Search
+            # 2c. Broad IR Search
             if not final_pic_url:
-                print("Supervisor: Trying Broad IR Search (4c)...")
+                print("Supervisor: Trying Broad IR Search (2c)...")
                 res = await self.pipeline.agents['img_broad'].search(manager)
                 if res and res.image_url:
                     print(f"Supervisor: Attempting to download broad search image: {res.image_url[:60]}...")
@@ -190,9 +203,10 @@ class Supervisor:
             data = json.load(f)
         
         data["enrichment_socials"] = status
+        blocklist = tools.get_blocklist()
         
+        existing_socials = data.get("socials", [])
         if new_socials:
-            existing_socials = data.get("socials", [])
             # Update or Add
             for ns in new_socials:
                 found = False
@@ -203,7 +217,9 @@ class Supervisor:
                         break
                 if not found:
                     existing_socials.append(ns)
-            data["socials"] = existing_socials
+        
+        # Filter all socials against blocklist
+        data["socials"] = [s for s in existing_socials if s.get('url', '').lower().rstrip('/') not in blocklist]
             
         with open(profile_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2)
@@ -251,7 +267,7 @@ class LinkedInVerifierAgent(Agent):
         )
         return await self.call(prompt, VerificationResult, use_search=True)
 
-class ImageSearchAgent4a(Agent):
+class ImageSearchAgent2a(Agent):
     async def search(self, name: str, company: str) -> ImageSearchResult:
         prompt = (
             f"Perform an image search for: '{name} {company}'.\n"
@@ -264,14 +280,14 @@ class ImageSearchAgent4a(Agent):
         )
         return await self.call(prompt, ImageSearchResult, use_search=True)
 
-class ImageSearchAgent4b(Agent):
+class ImageSearchAgent2b(Agent):
     async def search(self, manager: Dict[str, Any]) -> ImageSearchResult:
         affiliations = manager.get('company_affiliations', [])
         sites = [c['website'] for c in affiliations if c.get('website')]
         prompt = f"Find manager {manager['name']} picture on Investor Relations pages of: {', '.join(sites)}"
         return await self.call(prompt, ImageSearchResult, use_search=True)
 
-class ImageSearchAgent4c(Agent):
+class ImageSearchAgent2c(Agent):
     async def search(self, manager: Dict[str, Any]) -> ImageSearchResult:
         affiliations = [c['name'] for c in manager.get('company_affiliations', [])]
         prompt = f"Broad search for professional picture of {manager['name']} at {', '.join(affiliations)} on IR websites."
@@ -284,15 +300,15 @@ class ManagerEnrichmentPipelineV2:
         self.agents = {
             'search': LinkedInSearchAgent(self.client, GEMINI_MODEL, "You are a LinkedIn Profile Search Agent. Find the best match profile."),
             'verifier': LinkedInVerifierAgent(self.client, SEARCH_GROUNDING_MODEL, "You are a LinkedIn Verifier Agent. Use search to visit the profile and verify it. Capture name, company and photo URL (v2 media.licdn.com pattern, prioritize shrink_200_200, then 100_100, 400_400, 800_800)."),
-            'img_li': ImageSearchAgent4a(self.client, GEMINI_MODEL, "You are a LinkedIn Image Search Agent."),
-            'img_ir': ImageSearchAgent4b(self.client, GEMINI_MODEL, "You are an IR Website Image Search Agent."),
-            'img_broad': ImageSearchAgent4c(self.client, GEMINI_MODEL, "You are a Broad IR Search Agent.")
+            'img_li': ImageSearchAgent2a(self.client, GEMINI_MODEL, "You are a LinkedIn Image Search Agent."),
+            'img_ir': ImageSearchAgent2b(self.client, GEMINI_MODEL, "You are an IR Website Image Search Agent."),
+            'img_broad': ImageSearchAgent2c(self.client, GEMINI_MODEL, "You are a Broad IR Search Agent.")
         }
         self.supervisor = Supervisor(self)
 
-    async def run(self, profile_path: str, get_picture: str = "no"):
+    async def run(self, profile_path: str, get_picture: str = "no", search_picture_li: str = "no"):
         try:
-            await self.supervisor.orchestrate(profile_path, get_picture=get_picture)
+            await self.supervisor.orchestrate(profile_path, get_picture=get_picture, search_picture_li=search_picture_li)
             return {"success": True}
         except Exception as e:
             print(f"Pipeline Error: {e}")

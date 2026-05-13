@@ -16,6 +16,56 @@
       "website": "https://eagleonemetals.com",
       "start_date": "2023-06-01",
       "end_date": null
+    },
+    {
+      "name": "Abraplata Resource Corp.",
+      "ticker": "ABRA",
+      "exchange": "TSXV",
+      "website": "https://www.abraplata.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2016",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Planet Ventures Inc.",
+      "ticker": "PXI",
+      "exchange": "TSXV",
+      "website": "https://planetventuresinc.com",
+      "title_or_role": "CFO, Corporate Secretary, and Director",
+      "start_date": "2012-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rockshield Capital Corp.",
+      "ticker": "VALDY",
+      "exchange": "TSXV",
+      "website": "https://valdyinvestments.com",
+      "title_or_role": "Director",
+      "start_date": "2016-11",
+      "end_date": "2017-11",
+      "validated": true
+    },
+    {
+      "name": "Flying Nickel Mining Corp.",
+      "ticker": "FLYN",
+      "exchange": "TSXV",
+      "website": "https://flynickel.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sacre-Coeur Minerals Ltd.",
+      "ticker": "SCM",
+      "exchange": "TSXV",
+      "website": "https://www.scminerals.com",
+      "title_or_role": "Financial Controller",
+      "start_date": "2008",
+      "end_date": "2011",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +73,6 @@
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

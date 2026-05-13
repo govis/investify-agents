@@ -14,13 +14,25 @@
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and Chief Operating Officer",
       "website": "https://www.emerson.com",
-      "start_date": "2021-02-01",
-      "end_date": null
+      "start_date": "February 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Autodesk, Inc.",
+      "ticker": "ADSK",
+      "exchange": "NASDAQ",
+      "website": "https://www.autodesk.com",
+      "title_or_role": "Independent Director (Member of the Board of Directors)",
+      "start_date": "December 18, 2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

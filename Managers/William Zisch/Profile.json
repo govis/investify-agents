@@ -11,11 +11,52 @@
     {
       "name": "Contango Ore, Inc.",
       "ticker": "CTGO",
+      "exchange": "NYSE American",
+      "title_or_role": "Director",
+      "website": "https://www.contangoore.com/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Argonaut Gold Inc.",
+      "ticker": "AR",
+      "exchange": "TSX",
+      "website": "https://www.argonautgold.com/",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2016",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Midway Gold Corp.",
+      "ticker": "MDW",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2014",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Royal Gold, Inc.",
+      "ticker": "RGLD",
+      "exchange": "NASDAQ",
+      "website": "https://www.royalgold.com/",
+      "title_or_role": "Vice President of Operations",
+      "start_date": "2009",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.contangoore.com",
-      "start_date": "2020-11-01",
-      "end_date": null
+      "website": "https://www.newmont.com/",
+      "title_or_role": "Operations Manager / Vice President of African Operations",
+      "start_date": "1997",
+      "end_date": "2009",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +66,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -12,15 +12,47 @@
       "name": "United Rentals, Inc.",
       "ticker": "URI",
       "exchange": "NYSE",
-      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "title_or_role": "Chief Financial Officer",
       "website": "https://www.unitedrentals.com",
-      "start_date": "2008-12-01",
-      "end_date": null
+      "start_date": "2008",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Waste Management, Inc.",
+      "ticker": "WM",
+      "exchange": "NYSE",
+      "website": "https://www.wm.com",
+      "title_or_role": "Independent Director",
+      "start_date": "August 19, 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Global Payments Inc.",
+      "ticker": "GPN",
+      "exchange": "NYSE",
+      "website": "https://www.globalpayments.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "John Wiley & Sons, Inc.",
+      "ticker": "WLY",
+      "exchange": "NYSE",
+      "website": "https://www.wiley.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

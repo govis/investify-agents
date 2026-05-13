@@ -12,10 +12,41 @@
       "name": "NVIDIA Corporation",
       "ticker": "NVDA",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.nvidia.com",
-      "start_date": "2011-01-01",
-      "end_date": null
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Macromedia, Inc.",
+      "ticker": "MACR",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "CEO and Chairman",
+      "start_date": "1996",
+      "end_date": "2005",
+      "validated": true
+    },
+    {
+      "name": "Alias Research Inc.",
+      "ticker": "ALIAS",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "CEO",
+      "start_date": "1991",
+      "end_date": "1995",
+      "validated": true
+    },
+    {
+      "name": "Silicon Graphics, Inc. (SGI)",
+      "ticker": "SGI",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "President (Alias/Wavefront integration)",
+      "start_date": "1995",
+      "end_date": "1996",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +57,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

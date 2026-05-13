@@ -11,11 +11,12 @@
     {
       "name": "Skeena Resources Limited",
       "ticker": "SKE",
-      "exchange": "NYSE",
+      "exchange": "TSX",
       "title_or_role": "Executive Chairman",
       "website": "https://skeenaresources.com",
-      "start_date": "2023-02-01",
-      "end_date": null
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Skeena Resources Limited",
@@ -25,11 +26,32 @@
       "website": "https://skeenaresources.com",
       "start_date": "2023-01-01",
       "end_date": null
+    },
+    {
+      "name": "Gold Bull Resources Corp.",
+      "ticker": "GBRC",
+      "exchange": "TSXV",
+      "website": "https://goldbull.ca",
+      "title_or_role": "Independent Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "QuestEx Gold & Copper Ltd. (formerly Colorado Resources Ltd.)",
+      "ticker": "QEX",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

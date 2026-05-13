@@ -11,11 +11,42 @@
     {
       "name": "Endeavour Mining plc",
       "ticker": "EDV",
-      "exchange": "TSX",
+      "exchange": "LSE / TSX",
       "title_or_role": "Non-Executive Director",
       "website": "https://www.endeavourmining.com",
-      "start_date": "2015-11-27",
-      "end_date": null
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Telekom Austria AG (now A1 Telekom Austria Group)",
+      "ticker": "TKA",
+      "exchange": "Vienna Stock Exchange",
+      "website": "https://www.a1.group",
+      "title_or_role": "Member of the Supervisory Board",
+      "start_date": "2012",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Orascom Telecom Holding S.A.E.",
+      "ticker": "OTH (Historical)",
+      "exchange": "EGX (Egyptian Exchange)",
+      "website": "N/A",
+      "title_or_role": "Chairman and CEO",
+      "start_date": "1998",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "Orascom Telecom Media and Technology Holding (now Orascom Investment Holding)",
+      "ticker": "OIH",
+      "exchange": "EGX (Egyptian Exchange)",
+      "website": "https://www.orascomih.com",
+      "title_or_role": "Executive Chairman",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +55,6 @@
   "socials": [],
   "committees": [
     "Nomination and Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

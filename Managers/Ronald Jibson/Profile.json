@@ -12,10 +12,41 @@
       "name": "Dominion Energy, Inc.",
       "ticker": "D",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.dominionenergy.com",
-      "start_date": "2016-01-01",
-      "end_date": null
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Questar Corporation",
+      "ticker": "STR",
+      "exchange": "NYSE",
+      "website": "https://www.dominionenergy.com",
+      "title_or_role": "Chairman, President, and CEO",
+      "start_date": "2010",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "IDACORP, Inc.",
+      "ticker": "IDA",
+      "exchange": "NYSE",
+      "website": "https://www.idacorpinc.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "National Fuel Gas Company",
+      "ticker": "NFG",
+      "exchange": "NYSE",
+      "website": "https://www.nationalfuel.com",
+      "title_or_role": "Director",
+      "start_date": "March 13, 2014",
+      "end_date": "June 3, 2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +56,6 @@
   "committees": [
     "Finance and Risk Committee",
     "Sustainability and Corporate Responsibility Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,31 @@
       "name": "Aecon Group Inc.",
       "ticker": "ARE",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.aecon.com",
-      "start_date": "2016-05-10",
-      "end_date": null
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hydro One Limited",
+      "ticker": "H",
+      "exchange": "TSX",
+      "website": "https://www.hydroone.com",
+      "title_or_role": "Director (Interim Chair of the Board as of March 2025)",
+      "start_date": "January 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Laurentian Bank of Canada",
+      "ticker": "LB",
+      "exchange": "TSX",
+      "website": "https://www.laurentianbank.ca",
+      "title_or_role": "Director",
+      "start_date": "December 2014",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "committees": [
     "Audit Committee",
     "Corporate Governance, Nominating and Risk Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

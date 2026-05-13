@@ -13,9 +13,20 @@
       "ticker": "BKSY",
       "exchange": "NYSE",
       "title_or_role": "Director",
-      "website": "https://www.blacksky.com",
-      "start_date": "2021-09-01",
-      "end_date": null
+      "website": "https://www.blacksky.com/",
+      "start_date": "September 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vertex Energy, Inc.",
+      "ticker": "VTNR",
+      "exchange": "NASDAQ",
+      "website": "https://www.vertexenergy.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2013",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,71 @@
       "name": "Ford Motor Company",
       "ticker": "F",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.ford.com",
       "start_date": "2015-01-01",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "AT&T Inc.",
+      "ticker": "T",
+      "exchange": "NYSE",
+      "website": "https://www.att.com",
+      "title_or_role": "Director (Chairman of the Board as of 2021)",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "MetLife, Inc.",
+      "ticker": "MET",
+      "exchange": "NYSE",
+      "website": "https://www.metlife.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Duke Energy Corporation",
+      "ticker": "DUK",
+      "exchange": "NYSE",
+      "website": "https://www.duke-energy.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The New York Times Company",
+      "ticker": "NYT",
+      "exchange": "NYSE",
+      "website": "https://www.nytco.com",
+      "title_or_role": "Director",
+      "start_date": "2001",
+      "end_date": "2009",
+      "validated": true
+    },
+    {
+      "name": "Sprint Corporation (formerly Sprint Nextel Corp.)",
+      "ticker": "S (Delisted/Acquired)",
+      "exchange": "NYSE",
+      "website": "https://www.sprint.com",
+      "title_or_role": "Director",
+      "start_date": "2001",
+      "end_date": "2009",
+      "validated": true
+    },
+    {
+      "name": "Dex Media, Inc.",
+      "ticker": "DXM (Delisted/Acquired)",
+      "exchange": "NASDAQ",
+      "website": "https://www.dexmedia.com",
+      "title_or_role": "Director",
+      "start_date": "2003",
+      "end_date": "2009",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +87,6 @@
   "committees": [
     "Finance Committee",
     "Nominating and Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

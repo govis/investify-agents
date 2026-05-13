@@ -11,16 +11,18 @@
     {
       "name": "F3 Uranium Corp.",
       "ticker": "FUU",
-      "exchange": "TSX",
-      "title_or_role": "Chief Financial Officer",
-      "website": "https://f3uranium.com",
-      "start_date": "2022-11-01",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "Corporate Secretary",
+      "website": "https://f3uranium.com/",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

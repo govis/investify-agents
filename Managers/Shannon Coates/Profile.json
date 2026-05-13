@@ -12,10 +12,31 @@
       "name": "Bellevue Gold Limited",
       "ticker": "BGL",
       "exchange": "ASX",
-      "title_or_role": "Non-Executive Independent Director",
-      "website": "https://www.bellevuegold.com.au",
-      "start_date": "2020-05-01",
-      "end_date": null
+      "title_or_role": "Non-Executive Director",
+      "website": "bellevuegold.com.au",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Flinders Mines Limited",
+      "ticker": "FMS",
+      "exchange": "ASX",
+      "website": "flindersmines.com.au",
+      "title_or_role": "Company Secretary",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Barton Gold Holdings Limited",
+      "ticker": "BGD",
+      "exchange": "ASX",
+      "website": "bartongold.com.au",
+      "title_or_role": "Company Secretary",
+      "start_date": "2021",
+      "end_date": "2024-11-29",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "committees": [
     "Audit and Risk Committee",
     "Nomination and Remuneration Committee (Chair)"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

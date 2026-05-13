@@ -12,10 +12,21 @@
       "name": "JPMorgan Chase & Co.",
       "ticker": "JPM",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.jpmorganchase.com",
       "start_date": "2020-05-19",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "International Business Machines Corporation",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "website": "https://www.ibm.com",
+      "title_or_role": "Chairman, President, and CEO",
+      "start_date": "1981",
+      "end_date": "2020-12-31",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "socials": [],
   "committees": [
     "Compensation & Management Development Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,21 @@
       "name": "Textron Inc.",
       "ticker": "TXT",
       "exchange": "NYSE",
-      "title_or_role": "Director",
+      "title_or_role": "Director (Board of Directors)",
       "website": "https://www.textron.com",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "start_date": "March 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "exchange": "NYSE",
+      "website": "https://www.lockheedmartin.com",
+      "title_or_role": "Executive Vice President, Space",
+      "start_date": "~2002",
+      "end_date": "March 1, 2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Audit Committee",
     "Organization and Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

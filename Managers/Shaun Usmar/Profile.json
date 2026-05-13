@@ -11,20 +11,42 @@
     {
       "name": "Alamos Gold Inc.",
       "ticker": "AGI",
-      "exchange": "NYSE",
+      "exchange": "TSX / NYSE",
       "title_or_role": "Director",
-      "website": "https://www.alamosgold.com",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "website": "https://alamosgold.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Triple Flag Precious Metals Corp.",
       "ticker": "TFPM",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer, Director",
-      "website": "https://www.tripleflagpm.com",
-      "start_date": "2016-04-01",
-      "end_date": null
+      "exchange": "TSX",
+      "title_or_role": "Founder and CEO",
+      "website": "https://tripleflagpm.com",
+      "start_date": "2016",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "ABX",
+      "exchange": "TSX / NYSE",
+      "website": "https://barrick.com",
+      "title_or_role": "Senior Executive Vice President and CFO",
+      "start_date": "2014",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Vale Base Metals",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://vale.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -39,5 +61,6 @@
   "committees": [
     "Audit Committee",
     "Technical and Sustainability Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

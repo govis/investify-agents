@@ -12,10 +12,51 @@
       "name": "KLA Corporation",
       "ticker": "KLAC",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.kla.com",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "start_date": "February 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "title_or_role": "President, Adaptive and Embedded Computing Group",
+      "start_date": "February 2022",
+      "end_date": "August 2024",
+      "validated": true
+    },
+    {
+      "name": "Xilinx, Inc.",
+      "ticker": "XLNX",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "January 2018",
+      "end_date": "February 2022",
+      "validated": true
+    },
+    {
+      "name": "Microchip Technology Incorporated",
+      "ticker": "MCHP",
+      "exchange": "NASDAQ",
+      "website": "https://www.microchip.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "May 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rambus Inc.",
+      "ticker": "RMBS",
+      "exchange": "NASDAQ",
+      "website": "https://www.rambus.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "February 2026",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +65,6 @@
   "socials": [],
   "committees": [
     "Nominating and Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

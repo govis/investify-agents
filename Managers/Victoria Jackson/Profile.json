@@ -10,12 +10,13 @@
   "company_affiliations": [
     {
       "name": "Deep Yellow Limited",
-      "ticker": "DYL",
-      "exchange": "ASX",
+      "ticker": "DYLLF",
+      "exchange": "OTCQX",
       "title_or_role": "Non-Executive Director",
-      "website": "https://deepyellow.com.au",
-      "start_date": "2023-10-20",
-      "end_date": null
+      "website": "https://deepyellow.com.au/",
+      "start_date": "October 2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +26,6 @@
   "committees": [
     "Audit Committee",
     "Remuneration Committee (Chair)"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

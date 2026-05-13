@@ -16,6 +16,26 @@
       "website": "https://www.goldfields.com",
       "start_date": "2019-03-01",
       "end_date": null
+    },
+    {
+      "name": "AECI Ltd",
+      "ticker": "AFE",
+      "exchange": "Johannesburg Stock Exchange (JSE)",
+      "website": "https://www.aeciworld.com/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "MTN Group Limited",
+      "ticker": "MTN",
+      "exchange": "Johannesburg Stock Exchange (JSE)",
+      "website": "https://www.mtn.com/",
+      "title_or_role": "Chief Executive Officer (MTN Cameroon)",
+      "start_date": "2016",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +45,6 @@
   "committees": [
     "Audit Committee",
     "Risk Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

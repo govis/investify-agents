@@ -16,11 +16,22 @@
       "website": "https://capstonecopper.com",
       "start_date": "2018-05-01",
       "end_date": null
+    },
+    {
+      "name": "Goldcorp Inc.",
+      "ticker": "G",
+      "exchange": "NYSE",
+      "website": "https://www.goldcorp.com",
+      "title_or_role": "Regional Finance Director (Canada-U.S. operations)",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

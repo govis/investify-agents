@@ -11,11 +11,12 @@
     {
       "name": "enCore Energy Corp.",
       "ticker": "EU",
-      "exchange": "NASDAQ",
+      "exchange": "NYSE American, TSX",
       "title_or_role": "Chief Operating Officer",
-      "website": "https://encoreuranium.com",
-      "start_date": "2022-03-01",
-      "end_date": null
+      "website": "https://encoreuranium.com/",
+      "start_date": "April 2022",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "enCore Energy Corp.",
@@ -25,11 +26,22 @@
       "website": "https://encoreuranium.com",
       "start_date": "2022-03-01",
       "end_date": null
+    },
+    {
+      "name": "Energy Fuels Inc.",
+      "ticker": "UUUU",
+      "exchange": "NYSE American, TSX",
+      "website": "https://www.energyfuels.com/",
+      "title_or_role": "Director of Texas Operations",
+      "start_date": "Prior to 2022",
+      "end_date": "April 2022",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

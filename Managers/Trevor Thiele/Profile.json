@@ -11,11 +11,12 @@
     {
       "name": "NexGen Energy Ltd.",
       "ticker": "NXE",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.nexgenenergy.ca",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://www.nexgenenergy.ca/",
+      "start_date": "2013-04-18",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "NexGen Energy Ltd.",
@@ -25,6 +26,26 @@
       "website": "https://www.nexgenenergy.ca",
       "start_date": "2013-02-01",
       "end_date": null
+    },
+    {
+      "name": "ISO Energy Ltd.",
+      "ticker": "ISO",
+      "exchange": "TSXV",
+      "website": "https://isoenergy.ca/",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bionomics Limited",
+      "ticker": "BNO",
+      "exchange": "ASX",
+      "website": "https://www.bionomics.com.au/",
+      "title_or_role": "Chief Financial Officer (CFO)",
+      "start_date": "Prior to 2011",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -35,5 +56,6 @@
     "Audit Committee",
     "Audit Committee (Chair)",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

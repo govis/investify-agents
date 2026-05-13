@@ -14,8 +14,29 @@
       "exchange": "NYSE",
       "title_or_role": "Director",
       "website": "https://www.planet.com",
-      "start_date": "2021-12-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Symbotic Inc.",
+      "ticker": "SYM",
+      "exchange": "NASDAQ",
+      "website": "https://www.symbotic.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "WeWork Inc.",
+      "ticker": "WE",
+      "exchange": "NYSE",
+      "website": "https://www.wework.com",
+      "title_or_role": "Director",
+      "start_date": "December 2022",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +45,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

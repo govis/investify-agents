@@ -16,11 +16,22 @@
       "website": "https://www.arm.com",
       "start_date": "2022-02-01",
       "end_date": null
+    },
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "website": "https://www.nvidia.com",
+      "title_or_role": "Vice President and General Manager of Computing Products Business Unit",
+      "start_date": "2006",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

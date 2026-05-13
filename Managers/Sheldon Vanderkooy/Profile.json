@@ -16,11 +16,32 @@
       "website": "https://www.tripleflagpm.com",
       "start_date": "2021-03-01",
       "end_date": null
+    },
+    {
+      "name": "First Quantum Minerals Ltd.",
+      "ticker": "FM",
+      "exchange": "TSX",
+      "website": "https://www.first-quantum.com",
+      "title_or_role": "Assistant General Counsel",
+      "start_date": "2013",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Inmet Mining Corporation",
+      "ticker": "IMN",
+      "exchange": "TSX",
+      "website": "https://www.inmetmining.com",
+      "title_or_role": "Senior Director, Legal Affairs",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

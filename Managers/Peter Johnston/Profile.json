@@ -16,11 +16,52 @@
       "website": "https://electrabmc.com",
       "start_date": "2023-08-15",
       "end_date": null
+    },
+    {
+      "name": "Jervois Global Limited",
+      "ticker": "JRV",
+      "exchange": "ASX",
+      "website": "https://jervoisglobal.com/",
+      "title_or_role": "Chairman / Non-Executive Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tronox Holdings plc",
+      "ticker": "TROX",
+      "exchange": "NYSE",
+      "website": "https://www.tronox.com/",
+      "title_or_role": "Interim CEO",
+      "start_date": "May 15, 2017",
+      "end_date": "November 30, 2017",
+      "validated": true
+    },
+    {
+      "name": "Vault Minerals Limited (formerly Red 5 Limited)",
+      "ticker": "VAU",
+      "exchange": "ASX",
+      "website": "https://vaultminerals.com.au/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Glencore plc",
+      "ticker": "GLEN",
+      "exchange": "LSE",
+      "website": "https://www.glencore.com/",
+      "title_or_role": "Global Head of Nickel Assets",
+      "start_date": "May 2013",
+      "end_date": "December 2015",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

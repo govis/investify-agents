@@ -12,10 +12,51 @@
       "name": "Pilbara Minerals Limited",
       "ticker": "PLS",
       "exchange": "ASX",
-      "title_or_role": "Independent Non-Executive Director",
+      "title_or_role": "Non-Executive Director",
       "website": "https://www.pilbaraminerals.com.au",
-      "start_date": "2017-02-06",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "29Metals Limited",
+      "ticker": "29M",
+      "exchange": "ASX",
+      "website": "https://www.29metals.com",
+      "title_or_role": "Non-Executive Director (appointed Deputy Chair in 2025)",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Venture Minerals Limited",
+      "ticker": "VMS",
+      "exchange": "ASX",
+      "website": "https://www.ventureminerals.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "New Century Resources Limited",
+      "ticker": "NCZ",
+      "exchange": "ASX",
+      "website": null,
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2020",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Macmahon Holdings Limited",
+      "ticker": "MAH",
+      "exchange": "ASX",
+      "website": "https://www.macmahon.com.au",
+      "title_or_role": "Chief Operating Officer (Underground & International & Engineering)",
+      "start_date": "2013",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +66,6 @@
   "committees": [
     "Audit and Risk Committee",
     "Sustainability Committee (Chair)"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

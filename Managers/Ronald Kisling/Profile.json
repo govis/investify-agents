@@ -14,13 +14,25 @@
       "exchange": "NYSE",
       "title_or_role": "Chief Financial Officer",
       "website": "https://www.fastly.com",
-      "start_date": "2021-08-01",
-      "end_date": null
+      "start_date": "August 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fitbit, Inc.",
+      "ticker": "FIT",
+      "exchange": "NYSE",
+      "website": "https://www.fitbit.com",
+      "title_or_role": "Chief Accounting Officer",
+      "start_date": "2014",
+      "end_date": "June 2018",
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

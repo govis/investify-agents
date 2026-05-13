@@ -14,13 +14,25 @@
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President, Oil, Products & Gas",
       "website": "https://www.chevron.com",
-      "start_date": "2022-10-01",
-      "end_date": null
+      "start_date": "October 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Texaco",
+      "ticker": "N/A",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Power Engineer / Refinery Operations Manager",
+      "start_date": "1989",
+      "end_date": "2001",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -12,15 +12,27 @@
       "name": "GE Vernova Inc.",
       "ticker": "GEV",
       "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer, Director",
+      "title_or_role": "Chief Executive Officer and President",
       "website": "https://www.gevernova.com",
-      "start_date": "2024-04-02",
-      "end_date": null
+      "start_date": "November 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.ge.com",
+      "title_or_role": "CEO of GE Power (including Gas Power)",
+      "start_date": "2018",
+      "end_date": "April 2024",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

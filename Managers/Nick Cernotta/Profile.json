@@ -13,9 +13,50 @@
       "ticker": "NST",
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
-      "website": "https://www.nsrltd.com",
-      "start_date": "2019-07-01",
-      "end_date": null
+      "website": "nstmining.com.au",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "29Metals Limited",
+      "ticker": "29M",
+      "exchange": "ASX",
+      "website": "29metals.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Critica Limited",
+      "ticker": "CRI",
+      "exchange": "ASX",
+      "website": "critica.limited",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Pilbara Minerals Limited",
+      "ticker": "PLS",
+      "exchange": "ASX",
+      "website": "pilbaraminerals.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2017",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Macmahon Holdings Limited",
+      "ticker": "MAH",
+      "exchange": "ASX",
+      "website": "macmahon.com.au",
+      "title_or_role": "COO: Underground & Intl & Engg",
+      "start_date": "Unknown",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +66,6 @@
   "committees": [
     "ESG Committee (Chair)",
     "Remuneration Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

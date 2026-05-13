@@ -16,6 +16,26 @@
       "website": "https://www.teradyne.com",
       "start_date": "2011-01-01",
       "end_date": null
+    },
+    {
+      "name": "Varex Imaging Corporation",
+      "ticker": "VREX",
+      "exchange": "NASDAQ",
+      "website": "https://www.vareximaging.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Varian Medical Systems, Inc.",
+      "ticker": "VAR",
+      "exchange": "NYSE",
+      "website": "https://www.varian.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +46,6 @@
   "committees": [
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -11,11 +11,12 @@
     {
       "name": "Endeavour Mining plc",
       "ticker": "EDV",
-      "exchange": "LSE",
-      "title_or_role": "Chair, Independent Non-Executive Director",
+      "exchange": "TSX, LSE",
+      "title_or_role": "Chair of the Board",
       "website": "https://www.endeavourmining.com",
-      "start_date": "2022-05-24",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Endeavour Mining plc",
@@ -25,6 +26,46 @@
       "website": "https://www.endeavourmining.com",
       "start_date": "2024-01-04",
       "end_date": null
+    },
+    {
+      "name": "The Weir Group PLC",
+      "ticker": "WEIR",
+      "exchange": "LSE",
+      "website": "https://www.global.weir",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "January 2021",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "BlackRock World Mining Trust plc",
+      "ticker": "BRWM",
+      "exchange": "LSE",
+      "website": "https://www.blackrock.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "August 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vedanta Limited",
+      "ticker": "VEDL",
+      "exchange": "NSE/BSE",
+      "website": "https://www.vedantalimited.com",
+      "title_or_role": "CEO and Director",
+      "start_date": "August 31, 2018",
+      "end_date": "April 5, 2020",
+      "validated": true
+    },
+    {
+      "name": "AngloGold Ashanti Limited",
+      "ticker": "AU",
+      "exchange": "NYSE",
+      "website": "https://www.anglogoldashanti.com",
+      "title_or_role": "CEO (previously CFO)",
+      "start_date": "2013",
+      "end_date": "August 2018",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -34,5 +75,6 @@
   "committees": [
     "Nomination and Governance Committee",
     "Remuneration Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -11,11 +11,12 @@
     {
       "name": "Sigma Lithium Corporation",
       "ticker": "SGML",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.sigmalithiumresources.com",
-      "start_date": "2021-07-01",
-      "end_date": null
+      "exchange": "NASDAQ / TSX",
+      "title_or_role": "Senior Advisor / Chairman of the Board's Technical Committee",
+      "website": "https://sigmalithiumresources.com/",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +25,6 @@
   "socials": [],
   "committees": [
     "Technical Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

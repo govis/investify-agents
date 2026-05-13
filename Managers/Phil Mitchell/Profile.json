@@ -12,10 +12,41 @@
       "name": "Aura Energy Limited",
       "ticker": "AEE",
       "exchange": "ASX",
-      "title_or_role": "Non-Executive Chairman",
+      "title_or_role": "Executive Chairman",
       "website": "https://auraenergy.com.au/",
-      "start_date": "2021-12-21",
-      "end_date": null
+      "start_date": "November 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cobre Limited",
+      "ticker": "CBE",
+      "exchange": "ASX",
+      "website": "https://www.cobre.com.au/",
+      "title_or_role": "Board Advisor",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rio Tinto Group",
+      "ticker": "RIO",
+      "exchange": "ASX, LSE, NYSE",
+      "website": "https://www.riotinto.com/",
+      "title_or_role": "Head of Business Development and Strategy; CFO of Rio Tinto Iron Ore",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Anglo American plc",
+      "ticker": "AAL",
+      "exchange": "LSE",
+      "website": "https://www.angloamerican.com/",
+      "title_or_role": "Member of the Executive Committee",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +56,6 @@
   "committees": [
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

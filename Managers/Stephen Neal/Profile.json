@@ -12,10 +12,21 @@
       "name": "NVIDIA Corporation",
       "ticker": "NVDA",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.nvidia.com",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "nvidia.com",
+      "start_date": "2019-04-21",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Levi Strauss & Co.",
+      "ticker": "LEVI",
+      "exchange": "NYSE",
+      "website": "levistrauss.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2011-09-09",
+      "end_date": "2021-03-26",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +37,6 @@
   "socials": [],
   "committees": [
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

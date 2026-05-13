@@ -16,6 +16,36 @@
       "website": "https://www.geaerospace.com",
       "start_date": "2016-01-01",
       "end_date": null
+    },
+    {
+      "name": "Accor SA",
+      "ticker": "AC",
+      "exchange": "Euronext Paris",
+      "website": "https://group.accor.com/",
+      "title_or_role": "Director (2005\u20132013); Chairman and CEO (2013\u2013Present)",
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Edenred SE",
+      "ticker": "EDEN",
+      "exchange": "Euronext Paris",
+      "website": "https://www.edenred.com/",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Carrefour SA",
+      "ticker": "CA",
+      "exchange": "Euronext Paris",
+      "website": "https://www.carrefour.com/",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +56,6 @@
   "committees": [
     "Audit Committee",
     "Governance and Public Affairs Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

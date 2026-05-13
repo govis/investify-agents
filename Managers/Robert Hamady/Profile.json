@@ -14,13 +14,25 @@
       "exchange": "NYSE",
       "title_or_role": "Chief Financial Officer",
       "website": "https://www.nuscalepower.com",
-      "start_date": "2023-04-01",
-      "end_date": null
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Western Magnesium Corporation",
+      "ticker": "WMG",
+      "exchange": "TSXV",
+      "website": "https://www.magnesium.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2022",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

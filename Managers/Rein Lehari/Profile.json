@@ -12,15 +12,27 @@
       "name": "Global Atomic Corporation",
       "ticker": "GLO",
       "exchange": "TSX",
-      "title_or_role": "Chief Financial Officer",
-      "website": "https://globalatomiccorp.com",
-      "start_date": "2017-12-22",
-      "end_date": null
+      "title_or_role": "Chief Financial Officer (CFO)",
+      "website": "https://www.globalatomiccorp.com/",
+      "start_date": "2016-12-31",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Silvermet Inc.",
+      "ticker": "N/A",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "CFO, President, and Director",
+      "start_date": null,
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

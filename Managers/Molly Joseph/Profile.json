@@ -12,10 +12,21 @@
       "name": "First Solar, Inc.",
       "ticker": "FSLR",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.firstsolar.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "UnitedHealth Group Incorporated",
+      "ticker": "UNH",
+      "exchange": "NYSE",
+      "website": "https://www.unitedhealthgroup.com",
+      "title_or_role": "CEO, UnitedHealthcare Global / Executive Vice President, Global",
+      "start_date": "2014",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

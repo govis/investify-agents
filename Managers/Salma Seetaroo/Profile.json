@@ -10,12 +10,23 @@
   "company_affiliations": [
     {
       "name": "GoviEx Uranium Inc.",
-      "ticker": "GXU",
+      "ticker": "TSXV: GXU",
       "exchange": "TSXV",
-      "title_or_role": "Independent Director",
-      "website": "https://www.goviex.com",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://goviex.com/",
+      "start_date": "February 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fortuna Mining Corp. (formerly Fortuna Silver Mines Inc.)",
+      "ticker": "TSX: FVI / NYSE: FSM",
+      "exchange": "TSX / NYSE",
+      "website": "https://fortunasilver.com/",
+      "title_or_role": "Director",
+      "start_date": "June 2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +35,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

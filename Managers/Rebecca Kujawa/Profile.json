@@ -12,15 +12,27 @@
       "name": "NextEra Energy, Inc.",
       "ticker": "NEE",
       "exchange": "NYSE",
-      "title_or_role": "President, NextEra Energy Resources, LLC",
+      "title_or_role": "President and Chief Executive Officer, NextEra Energy Resources",
       "website": "https://www.nexteraenergy.com",
-      "start_date": "2022-03-01",
-      "end_date": null
+      "start_date": "2006",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Equinix, Inc.",
+      "ticker": "EQIX",
+      "exchange": "NASDAQ",
+      "website": "https://www.equinix.com",
+      "title_or_role": "Independent Director",
+      "start_date": "November 3, 2025",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

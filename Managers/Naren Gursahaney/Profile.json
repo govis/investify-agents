@@ -12,10 +12,41 @@
       "name": "NextEra Energy, Inc.",
       "ticker": "NEE",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.nexteraenergy.com",
-      "start_date": "2014-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "nexteraenergy.com",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Stericycle, Inc.",
+      "ticker": "SRCL",
+      "exchange": "NASDAQ",
+      "website": "stericycle.com",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ServiceMaster Global Holdings, Inc.",
+      "ticker": "SERV",
+      "exchange": "NYSE",
+      "website": "servicemaster.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "The ADT Corporation",
+      "ticker": "ADT",
+      "exchange": "NYSE",
+      "website": "adt.com",
+      "title_or_role": "President, CEO, and Director",
+      "start_date": "2012",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +56,6 @@
   "committees": [
     "Audit (Chair)",
     "Governance & Nominating"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,21 @@
       "name": "Union Pacific Corporation",
       "ticker": "UNP",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director (Board of Directors)",
       "website": "https://www.up.com",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "start_date": "February 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "TriMas Corporation",
+      "ticker": "TRS",
+      "exchange": "NASDAQ",
+      "website": "https://www.trimas.com",
+      "title_or_role": "Interim Chief Financial Officer",
+      "start_date": "March 20, 2025",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Audit Committee",
     "Finance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

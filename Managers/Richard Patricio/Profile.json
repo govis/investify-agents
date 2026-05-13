@@ -11,20 +11,52 @@
     {
       "name": "NexGen Energy Ltd.",
       "ticker": "NXE",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://www.nexgenenergy.ca",
-      "start_date": "2013-02-01",
-      "end_date": null
+      "exchange": "TSX/NYSE",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://www.nexgenenergy.ca/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Toro Energy Limited",
       "ticker": "TOE",
       "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
-      "website": "https://www.toroenergy.com.au",
-      "start_date": "2015-12-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://toroenergy.com.au/",
+      "start_date": "2006",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Mega Uranium Ltd.",
+      "ticker": "MGA",
+      "exchange": "TSX",
+      "website": "https://megauranium.com/",
+      "title_or_role": "Executive Vice President",
+      "start_date": "2005",
+      "end_date": "Feb 2015",
+      "validated": true
+    },
+    {
+      "name": "IsoEnergy Ltd.",
+      "ticker": "ISO",
+      "exchange": "TSXV",
+      "website": "https://isoenergy.ca/",
+      "title_or_role": "Chairman",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Generic Gold Corp.",
+      "ticker": "GGC",
+      "exchange": "CSE",
+      "website": "https://genericgold.ca/",
+      "title_or_role": "President & CEO",
+      "start_date": "July 2020",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -35,5 +67,6 @@
     "Audit Committee",
     "Audit and Risk Committee",
     "Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

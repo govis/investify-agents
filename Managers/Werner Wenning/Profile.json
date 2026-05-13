@@ -16,6 +16,46 @@
       "website": "https://www.siemens.com",
       "start_date": "2013-10-01",
       "end_date": null
+    },
+    {
+      "name": "Bayer AG",
+      "ticker": "BAYN",
+      "exchange": "Frankfurt Stock Exchange",
+      "website": "https://www.bayer.com",
+      "title_or_role": "Chairman of the Supervisory Board",
+      "start_date": "October 1, 2012",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "E.ON SE",
+      "ticker": "EOAN",
+      "exchange": "Frankfurt Stock Exchange",
+      "website": "https://www.eon.com",
+      "title_or_role": "Chairman of the Supervisory Board",
+      "start_date": "2013",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Deutsche Bank AG",
+      "ticker": "DBK",
+      "exchange": "Frankfurt Stock Exchange",
+      "website": "https://www.db.com",
+      "title_or_role": "Member of the Supervisory Board",
+      "start_date": "2008",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Henkel AG & Co. KGaA",
+      "ticker": "HEN3",
+      "exchange": "Frankfurt Stock Exchange",
+      "website": "https://www.henkel.com",
+      "title_or_role": "Member of the Supervisory Board",
+      "start_date": "2006",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +66,6 @@
     "Audit Committee",
     "Chairman's Committee",
     "Nominating Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

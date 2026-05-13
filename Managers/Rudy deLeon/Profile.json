@@ -16,6 +16,16 @@
       "website": "https://www.gd.com",
       "start_date": "2014-01-01",
       "end_date": null
+    },
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "https://www.boeing.com",
+      "title_or_role": "Senior Vice President",
+      "start_date": "July 2001",
+      "end_date": "July 2006",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +35,6 @@
   "committees": [
     "Audit",
     "Sustainability"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

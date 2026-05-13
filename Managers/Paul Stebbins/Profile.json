@@ -16,6 +16,16 @@
       "website": "https://www.firstsolar.com",
       "start_date": "2014-01-01",
       "end_date": null
+    },
+    {
+      "name": "World Fuel Services Corporation (now World Kinect Corporation)",
+      "ticker": "INT",
+      "exchange": "NYSE",
+      "website": "https://www.worldkinect.com",
+      "title_or_role": "Executive Chairman",
+      "start_date": "2012",
+      "end_date": "2014",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +36,6 @@
   "committees": [
     "Compensation Committee",
     "Nominating and Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,56 @@
       "website": "https://www.fastly.com",
       "start_date": "2021-05-01",
       "end_date": null
+    },
+    {
+      "name": "American International Group, Inc.",
+      "ticker": "AIG",
+      "exchange": "NYSE",
+      "website": "https://www.aig.com",
+      "title_or_role": "Director",
+      "start_date": "2023-03-16",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Booking Holdings, Inc.",
+      "ticker": "BKNG",
+      "exchange": "NASDAQ",
+      "website": "https://www.bookingholdings.com",
+      "title_or_role": "Director",
+      "start_date": "2019-05-22",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Oscar Health, Inc.",
+      "ticker": "OSCR",
+      "exchange": "NYSE",
+      "website": "https://www.hioscar.com",
+      "title_or_role": "Director",
+      "start_date": "2021-03-03",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Marsh & McLennan Companies, Inc.",
+      "ticker": "MMC",
+      "exchange": "NYSE",
+      "website": "https://www.marshmclennan.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2008",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "Motorola Mobility Holdings, Inc.",
+      "ticker": "MMI",
+      "exchange": "NYSE",
+      "website": "https://www.motorola.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2011",
+      "end_date": "2012",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +75,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

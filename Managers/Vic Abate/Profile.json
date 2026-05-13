@@ -12,19 +12,21 @@
       "name": "General Electric Company",
       "ticker": "GE",
       "exchange": "NYSE",
-      "title_or_role": "CEO, Wind and Gas Power",
-      "website": "https://www.geaerospace.com",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "title_or_role": "Senior Vice President and Chief Technology Officer",
+      "website": "https://www.ge.com",
+      "start_date": "1990-01-01",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "GE Vernova Inc.",
       "ticker": "GEV",
       "exchange": "NYSE",
-      "title_or_role": "CEO, Wind",
+      "title_or_role": "CEO, Wind Business",
       "website": "https://www.gevernova.com",
       "start_date": "2024-04-02",
-      "end_date": null
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -33,5 +35,6 @@
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

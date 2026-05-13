@@ -11,16 +11,28 @@
     {
       "name": "OceanaGold Corporation",
       "ticker": "OGC",
-      "exchange": "ASX",
-      "title_or_role": "Chief People and Culture Officer",
+      "exchange": "TSX",
+      "title_or_role": "Executive Vice President and Chief People and Technology Officer",
       "website": "https://oceanagold.com",
-      "start_date": "2022-09-01",
-      "end_date": null
+      "start_date": "March 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "NYSE / ASX / LSE",
+      "website": "https://www.bhp.com",
+      "title_or_role": "Various operational and strategic roles (including Global HR operations)",
+      "start_date": "~2008",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

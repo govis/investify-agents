@@ -11,16 +11,28 @@
     {
       "name": "Science Applications International Corporation",
       "ticker": "SAIC",
-      "exchange": "NASDAQ",
-      "title_or_role": "Executive Vice President and Chief Human Resources Officer",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Human Resources Officer",
       "website": "https://www.saic.com",
       "start_date": "2019-10-01",
-      "end_date": null
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Humana Inc.",
+      "ticker": "HUM",
+      "exchange": "NYSE",
+      "website": "https://www.humana.com",
+      "title_or_role": "Chief Human Resources Officer",
+      "start_date": "2025-01-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

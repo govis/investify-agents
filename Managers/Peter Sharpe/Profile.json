@@ -11,16 +11,48 @@
     {
       "name": "OceanaGold Corporation",
       "ticker": "OGC",
-      "exchange": "ASX",
-      "title_or_role": "Chief Operating Officer",
+      "exchange": "TSX",
+      "title_or_role": "COO, Asia-Pacific",
       "website": "https://oceanagold.com",
-      "start_date": "2022-10-01",
-      "end_date": null
+      "start_date": "July 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Postmedia Network Canada Corp.",
+      "ticker": "PNC.A",
+      "exchange": "TSX",
+      "website": "https://www.postmedia.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "Past",
+      "validated": true
+    },
+    {
+      "name": "First Industrial Realty Trust",
+      "ticker": "FR",
+      "exchange": "NYSE",
+      "website": "https://www.firstindustrial.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "Past",
+      "validated": true
+    },
+    {
+      "name": "Morguard Corporation",
+      "ticker": "MRC",
+      "exchange": "TSX",
+      "website": "https://www.morguard.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

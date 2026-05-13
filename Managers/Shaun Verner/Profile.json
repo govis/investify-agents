@@ -13,14 +13,26 @@
       "ticker": "SYR",
       "exchange": "ASX",
       "title_or_role": "Managing Director and Chief Executive Officer",
-      "website": "https://www.syrahresources.com.au",
-      "start_date": "2017-02-03",
-      "end_date": null
+      "website": "https://www.syrahresources.com.au/",
+      "start_date": "February 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX / NYSE / LSE",
+      "website": "https://www.bhp.com/",
+      "title_or_role": "Vice President, Marketing (Coal and Base Metals)",
+      "start_date": "Prior to 2012",
+      "end_date": "February 2017",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

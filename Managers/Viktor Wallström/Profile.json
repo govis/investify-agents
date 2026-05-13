@@ -11,16 +11,28 @@
     {
       "name": "Saab AB",
       "ticker": "SAAB-B",
-      "exchange": "STO",
-      "title_or_role": "Head of Group Communication and Sustainability",
+      "exchange": "Nasdaq Stockholm",
+      "title_or_role": "Senior Vice President and Head of Group Communication & Brand",
       "website": "https://www.saab.com",
-      "start_date": "2022-10-01",
-      "end_date": null
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tele2 AB",
+      "ticker": "TEL2-B",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.tele2.com",
+      "title_or_role": "Executive Vice President, Communications & Sustainability",
+      "start_date": "2015",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

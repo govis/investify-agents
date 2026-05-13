@@ -16,6 +16,46 @@
       "website": "https://www.viasat.com",
       "start_date": "2020-01-01",
       "end_date": null
+    },
+    {
+      "name": "Impinj, Inc.",
+      "ticker": "PI",
+      "exchange": "NASDAQ",
+      "website": "https://www.impinj.com/",
+      "title_or_role": "Board of Directors",
+      "start_date": "2016-05-18",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Acropolis Infrastructure Acquisition Corp.",
+      "ticker": "ACRO",
+      "exchange": "NYSE",
+      "website": "https://www.acropolis-infrastructure.com/",
+      "title_or_role": "Board of Directors",
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Delta Air Lines, Inc.",
+      "ticker": "DAL",
+      "exchange": "NYSE",
+      "website": "https://www.delta.com/",
+      "title_or_role": "Senior Vice President and Chief Information Officer",
+      "start_date": "2008",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Northwest Airlines",
+      "ticker": "NWA",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Senior Vice President and Chief Information Officer",
+      "start_date": "2001",
+      "end_date": "2008",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +64,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

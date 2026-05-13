@@ -12,10 +12,41 @@
       "name": "Marvell Technology, Inc.",
       "ticker": "MRVL",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
+      "title_or_role": "Member of the Board of Directors",
       "website": "https://www.marvell.com",
-      "start_date": "2022-04-01",
-      "end_date": null
+      "start_date": "April 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "FireEye, Inc. (now Trellix)",
+      "ticker": "FEYE",
+      "exchange": "NASDAQ",
+      "website": "https://www.trellix.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "August 2020",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Mandiant, Inc.",
+      "ticker": "MNDT",
+      "exchange": "NASDAQ",
+      "website": "https://www.mandiant.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2021",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "LogMeIn, Inc.",
+      "ticker": "LOGM",
+      "exchange": "NASDAQ",
+      "website": "https://www.goto.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "April 2018",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +55,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -14,8 +14,19 @@
       "exchange": "NASDAQ",
       "title_or_role": "Executive Vice President and Chief Operating Officer",
       "website": "https://www.lamresearch.com",
-      "start_date": "2023-09-01",
-      "end_date": null
+      "start_date": "2016",
+      "end_date": "March 2026",
+      "validated": true
+    },
+    {
+      "name": "Novellus Systems, Inc.",
+      "ticker": "NVLS",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "title_or_role": "Senior Vice President & General Manager, CMP Business Unit",
+      "start_date": "Prior to 2012",
+      "end_date": "2012",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +34,6 @@
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -12,15 +12,37 @@
       "name": "STMicroelectronics N.V.",
       "ticker": "STM",
       "exchange": "NYSE",
-      "title_or_role": "President, Microcontrollers and Digital ICs Group",
+      "title_or_role": "President, Microcontrollers and Digital ICs Group (Member of Executive Committee)",
       "website": "https://www.st.com",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "start_date": "January 1, 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "title_or_role": "Vice President and Chief Operating Officer, AI Products Group",
+      "start_date": "2016",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Texas Instruments Incorporated",
+      "ticker": "TXN",
+      "exchange": "NASDAQ",
+      "website": "https://www.ti.com",
+      "title_or_role": "Vice President and Worldwide General Manager, Open Multimedia Applications Platform (OMAP)",
+      "start_date": "1997",
+      "end_date": "2012",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

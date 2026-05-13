@@ -25,6 +25,26 @@
       "website": "https://www.globalxetfs.com/funds/ura/",
       "start_date": "2021-01-01",
       "end_date": null
+    },
+    {
+      "name": "Global X Funds (Trust)",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://www.globalxetfs.com",
+      "title_or_role": "Independent Trustee",
+      "start_date": "Unknown",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "EGA Emerging Global Shares Trust",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "N/A",
+      "title_or_role": "Chief Financial Officer & Treasurer",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -35,5 +55,6 @@
   "committees": [
     "Audit Committee",
     "Nominating and Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

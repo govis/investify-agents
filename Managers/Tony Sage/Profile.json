@@ -12,15 +12,37 @@
       "name": "Critical Metals Corp.",
       "ticker": "CRML",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Executive Officer and Executive Chairman",
-      "website": "https://criticalmetalscorp.com",
-      "start_date": "2024-02-27",
-      "end_date": null
+      "title_or_role": "Executive Chairman & Chief Executive Officer",
+      "website": "https://www.criticalmetalscorp.com/",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CuFe Ltd.",
+      "ticker": "CUF",
+      "exchange": "ASX",
+      "website": "https://cufe.com.au/",
+      "title_or_role": "Executive Chairman",
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "European Lithium Ltd.",
+      "ticker": "EUR",
+      "exchange": "ASX",
+      "website": "https://europeanlithium.com/",
+      "title_or_role": "Non-Executive Chairman (2016-2021); Executive Chairman (2021-Present)",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

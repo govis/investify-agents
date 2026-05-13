@@ -12,10 +12,41 @@
       "name": "General Electric Company",
       "ticker": "GE",
       "exchange": "NYSE",
-      "title_or_role": "Senior Vice President and Chief Financial Officer, CFO, GE Aerospace",
+      "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "website": "https://www.ge.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GE Aerospace",
+      "ticker": "GE",
+      "exchange": "NYSE",
       "website": "https://www.geaerospace.com",
-      "start_date": "2023-09-01",
-      "end_date": null
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "August 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Otis Worldwide Corporation",
+      "ticker": "OTIS",
+      "exchange": "NYSE",
+      "website": "https://www.otis.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "September 2019",
+      "end_date": "August 2022",
+      "validated": true
+    },
+    {
+      "name": "Harris Corporation",
+      "ticker": "LHX",
+      "exchange": "NYSE",
+      "website": "https://www.l3harris.com",
+      "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "start_date": "February 2017",
+      "end_date": "September 2019",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +54,6 @@
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

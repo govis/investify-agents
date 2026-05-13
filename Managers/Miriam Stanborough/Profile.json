@@ -12,10 +12,31 @@
       "name": "Pilbara Minerals Limited",
       "ticker": "PLS",
       "exchange": "ASX",
-      "title_or_role": "Independent Non-Executive Director",
+      "title_or_role": "Non-Executive Director",
       "website": "https://www.pilbaraminerals.com.au",
-      "start_date": "2021-10-04",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BCI Minerals Limited",
+      "ticker": "BCI",
+      "exchange": "ASX",
+      "website": "https://bciminerals.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Australian Vanadium Limited",
+      "ticker": "AVL",
+      "exchange": "ASX",
+      "website": "https://www.australianvanadium.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "committees": [
     "People and Culture Committee (Chair)",
     "Sustainability Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

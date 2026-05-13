@@ -14,13 +14,25 @@
       "exchange": "NYSE",
       "title_or_role": "Chairman of the Board",
       "website": "https://www.juniper.net",
-      "start_date": "1996-10-01",
-      "end_date": null
+      "start_date": "2008-09",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Equinix, Inc.",
+      "ticker": "EQIX",
+      "exchange": "NASDAQ",
+      "website": "https://www.equinix.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2000-07",
+      "end_date": "2020-06",
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

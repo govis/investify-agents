@@ -16,6 +16,36 @@
       "website": "https://www.appliedmaterials.com",
       "start_date": "2018-01-01",
       "end_date": null
+    },
+    {
+      "name": "Broadcom Corporation",
+      "ticker": "BRCM",
+      "exchange": "NASDAQ",
+      "website": "www.broadcom.com",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "2005",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Equifax Inc.",
+      "ticker": "EFX",
+      "exchange": "NYSE",
+      "website": "www.equifax.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Xactly Corporation",
+      "ticker": "XTLY",
+      "exchange": "NYSE",
+      "website": "www.xactlycorp.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +56,6 @@
   "committees": [
     "Audit Committee",
     "Investment Committee (Chair)"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

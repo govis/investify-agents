@@ -21,10 +21,31 @@
       "name": "K92 Mining Inc.",
       "ticker": "KNT",
       "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://k92mining.com",
-      "start_date": "2019-05-01",
-      "end_date": null
+      "title_or_role": "Director and Audit Committee Chair",
+      "website": "https://k92mining.com/",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Metalla Royalty & Streaming Ltd.",
+      "ticker": "MTA",
+      "exchange": "TSXV, NYSE American",
+      "website": "https://www.metallaroyalty.com/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2020-11-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Carbon Streaming Corporation",
+      "ticker": "NETZ",
+      "exchange": "Cboe Canada",
+      "website": "https://www.carbonstreaming.com/",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -41,5 +62,6 @@
     "Audit Committee",
     "Audit Committee (Chair)",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

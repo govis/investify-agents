@@ -12,15 +12,47 @@
       "name": "Karora Resources Inc.",
       "ticker": "KRR",
       "exchange": "TSX",
-      "title_or_role": "Chairman and Chief Executive Officer, Executive Chairman",
-      "website": "https://www.karoraresources.com",
-      "start_date": "2019-07-18",
-      "end_date": null
+      "title_or_role": "Chairman & CEO",
+      "website": "https://karoraresources.com",
+      "start_date": "2019-02",
+      "end_date": "2024-08",
+      "validated": true
+    },
+    {
+      "name": "Americas Gold and Silver Corporation",
+      "ticker": "USA",
+      "exchange": "NYSE",
+      "website": "https://americas-gold.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2024-11-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Klondex Mines Ltd.",
+      "ticker": "KDX",
+      "exchange": "TSX",
+      "website": "https://klondexmines.com",
+      "title_or_role": "President & CEO",
+      "start_date": "2012-05",
+      "end_date": "2018-07",
+      "validated": true
+    },
+    {
+      "name": "RNC Minerals (now Karora)",
+      "ticker": "RNX",
+      "exchange": "TSX",
+      "website": "https://karoraresources.com",
+      "title_or_role": "Interim CEO",
+      "start_date": "2019-02",
+      "end_date": "2019-02",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

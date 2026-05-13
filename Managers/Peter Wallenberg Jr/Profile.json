@@ -10,12 +10,23 @@
   "company_affiliations": [
     {
       "name": "Atlas Copco AB",
-      "ticker": "ATCO",
-      "exchange": "STO",
-      "title_or_role": "Director",
+      "ticker": "ATCO-A",
+      "exchange": "Nasdaq Stockholm",
+      "title_or_role": "Board Member",
       "website": "https://www.atlascopcogroup.com",
-      "start_date": "2012-01-01",
-      "end_date": null
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Scania AB",
+      "ticker": "N/A",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.scania.com",
+      "title_or_role": "Board Member",
+      "start_date": "2005",
+      "end_date": "2015",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +35,6 @@
   "socials": [],
   "committees": [
     "Remuneration Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

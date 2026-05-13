@@ -14,13 +14,35 @@
       "exchange": "NASDAQ",
       "title_or_role": "President, Unmanned Systems Division",
       "website": "https://www.kratosdefense.com",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "start_date": "January 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Composite Engineering, Inc.",
+      "ticker": "KTOS",
+      "exchange": "NASDAQ",
+      "website": "https://www.kratosdefense.com",
+      "title_or_role": "Vice President of Engineering / Senior VP / CTO / General Manager",
+      "start_date": "2014",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "5-D Systems, Inc.",
+      "ticker": "KTOS",
+      "exchange": "NASDAQ",
+      "website": "https://www.kratosdefense.com",
+      "title_or_role": "President",
+      "start_date": "August 1999",
+      "end_date": "January 2017",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

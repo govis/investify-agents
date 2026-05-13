@@ -12,10 +12,41 @@
       "name": "Wolfspeed, Inc.",
       "ticker": "WOLF",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.wolfspeed.com",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "start_date": "January 23, 2023",
+      "end_date": "September 29, 2025",
+      "validated": true
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "title_or_role": "Executive Vice President, Group President of Manufacturing, Operations and Sales (Past); Director (Current)",
+      "start_date": "1988",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Autodesk, Inc.",
+      "ticker": "ADSK",
+      "exchange": "NASDAQ",
+      "website": "https://www.autodesk.com",
+      "title_or_role": "Director / Chairman of the Board",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kioxia Holdings Corporation",
+      "ticker": "6600",
+      "exchange": "TSE",
+      "website": "https://www.kioxia-holdings.com",
+      "title_or_role": "Executive Chairman",
+      "start_date": "October 1, 2018",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +56,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

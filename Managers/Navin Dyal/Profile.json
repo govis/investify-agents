@@ -16,11 +16,32 @@
       "website": "https://www.dundeeprecious.com",
       "start_date": "2022-01-01",
       "end_date": null
+    },
+    {
+      "name": "Teranga Gold Corporation",
+      "ticker": "TGZ",
+      "exchange": "TSX",
+      "website": "https://www.terangagold.com",
+      "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "start_date": "2016",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Galiano Gold Inc.",
+      "ticker": "GAU",
+      "exchange": "TSX",
+      "website": "https://www.galianogold.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

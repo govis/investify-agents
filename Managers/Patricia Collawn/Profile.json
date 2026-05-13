@@ -25,6 +25,26 @@
       "website": "https://www.cheniere.com",
       "start_date": "2021-07-12",
       "end_date": null
+    },
+    {
+      "name": "TXNM Energy, Inc.",
+      "ticker": "TXNM",
+      "exchange": "NYSE",
+      "website": "https://www.txnmenergy.com",
+      "title_or_role": "Chairman, President & Chief Executive Officer",
+      "start_date": "2007",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Equitrans Midstream Corporation",
+      "ticker": "ETRN",
+      "exchange": "NYSE",
+      "website": "https://www.equitransmidstream.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "April 2020",
+      "end_date": "2024",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -35,5 +55,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

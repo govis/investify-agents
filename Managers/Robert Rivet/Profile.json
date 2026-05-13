@@ -12,10 +12,21 @@
       "name": "Curtiss-Wright Corporation",
       "ticker": "CW",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.curtisswright.com",
-      "start_date": "2011-01-01",
-      "end_date": null
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Advanced Micro Devices, Inc. (AMD)",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "title_or_role": "Executive Vice President, Chief Operations and Administrative Officer (formerly CFO)",
+      "start_date": "2004",
+      "end_date": "2011",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +37,6 @@
   "committees": [
     "Audit Committee",
     "Executive Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

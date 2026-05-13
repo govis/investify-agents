@@ -12,10 +12,31 @@
       "name": "Intel Corporation",
       "ticker": "INTC",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Executive Officer",
+      "title_or_role": "Member of the Board of Directors",
       "website": "https://www.intel.com",
       "start_date": "2021-02-15",
-      "end_date": null
+      "end_date": "2024-12-01",
+      "validated": true
+    },
+    {
+      "name": "VMware, Inc.",
+      "ticker": "VMW",
+      "exchange": "NYSE",
+      "website": "https://www.vmware.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2012-09-01",
+      "end_date": "2021-02-15",
+      "validated": true
+    },
+    {
+      "name": "EMC Corporation",
+      "ticker": "EMC",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "title_or_role": "President and Chief Operating Officer, Information Infrastructure Products",
+      "start_date": "2009-09-01",
+      "end_date": "2012-08-31",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +44,6 @@
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

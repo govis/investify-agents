@@ -16,6 +16,56 @@
       "website": "https://www.tripleflagpm.com",
       "start_date": "2019-10-01",
       "end_date": null
+    },
+    {
+      "name": "Appia Rare Earths & Uranium Corp.",
+      "ticker": "CSE:API / OTCQX:APAAF",
+      "exchange": "CSE, OTC",
+      "website": "https://appiare.com/",
+      "title_or_role": "Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Imperial Mining Group Ltd.",
+      "ticker": "TSXV:IPG / OTCQB:IMPNF",
+      "exchange": "TSXV, OTC",
+      "website": "https://imperialmining.com/",
+      "title_or_role": "President, CEO and Director",
+      "start_date": "2017",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Scandium Canada Ltd.",
+      "ticker": "TSXV:SCD / OTCQB:SCDCF",
+      "exchange": "TSXV, OTC",
+      "website": "https://scandium-canada.com/",
+      "title_or_role": "President, CEO and Director",
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Kintavar Exploration Inc.",
+      "ticker": "TSXV:KTR",
+      "exchange": "TSXV",
+      "website": "https://kintavar.com/",
+      "title_or_role": "CEO",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Quest Rare Minerals Ltd.",
+      "ticker": "TSX:QRM",
+      "exchange": "TSX",
+      "website": "N/A",
+      "title_or_role": "President, CEO and Director",
+      "start_date": "2007",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +75,6 @@
   "committees": [
     "Audit Committee",
     "Governance and Nominating Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

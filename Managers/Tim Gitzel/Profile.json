@@ -25,11 +25,42 @@
       "website": "https://www.cameco.com",
       "start_date": "2011-07-01",
       "end_date": null
+    },
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "TSX",
+      "website": "https://oceanagold.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": false
+    },
+    {
+      "name": "Corvus Gold Inc.",
+      "ticker": "KOR",
+      "exchange": "TSX",
+      "website": "https://corvusgold.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": false
+    },
+    {
+      "name": "Trevali Mining Corporation",
+      "ticker": "TV",
+      "exchange": "TSX",
+      "website": "https://www.trevali.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": false
     }
   ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

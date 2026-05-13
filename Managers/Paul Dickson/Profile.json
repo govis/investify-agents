@@ -12,15 +12,27 @@
       "name": "Sunrun Inc.",
       "ticker": "RUN",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Revenue Officer",
-      "website": "https://www.sunrun.com",
-      "start_date": "2022-05-01",
-      "end_date": null
+      "title_or_role": "President and Chief Revenue Officer",
+      "website": "https://investors.sunrun.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vivint Solar, Inc.",
+      "ticker": "VSLR",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Chief Revenue Officer / Chief Sales Officer / Founding Management Team",
+      "start_date": "2011",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

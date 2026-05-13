@@ -12,15 +12,27 @@
       "name": "L3Harris Technologies, Inc.",
       "ticker": "LHX",
       "exchange": "NYSE",
-      "title_or_role": "Senior Vice President, General Counsel and Secretary",
+      "title_or_role": "Senior Vice President, General Counsel, and Secretary",
       "website": "https://www.l3harris.com",
-      "start_date": "2019-06-29",
-      "end_date": null
+      "start_date": "June 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Harris Corporation",
+      "ticker": "HRS",
+      "exchange": "NYSE",
+      "website": "https://www.l3harris.com",
+      "title_or_role": "Senior Vice President, General Counsel, and Secretary",
+      "start_date": "Prior to June 2019",
+      "end_date": "June 2019",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

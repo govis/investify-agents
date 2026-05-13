@@ -11,11 +11,42 @@
     {
       "name": "Wolfspeed, Inc.",
       "ticker": "WOLF",
-      "exchange": "NYSE",
-      "title_or_role": "Chairman of the Board",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director / Chairman of the Board",
       "website": "https://www.wolfspeed.com",
-      "start_date": "2006-03-01",
-      "end_date": null
+      "start_date": "2006",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SunPower Corporation",
+      "ticker": "SPWRQ",
+      "exchange": "OTC",
+      "website": "https://www.sunpower.com",
+      "title_or_role": "Director / CEO / Executive Chairman",
+      "start_date": "2003",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Exar Corporation",
+      "ticker": "EXAR",
+      "exchange": "NASDAQ",
+      "website": "https://www.exar.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Three Five Systems, Inc.",
+      "ticker": "TFSY",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "1999",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +56,6 @@
   "socials": [],
   "committees": [
     "Governance and Nominating Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

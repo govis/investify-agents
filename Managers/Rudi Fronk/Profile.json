@@ -10,17 +10,29 @@
   "company_affiliations": [
     {
       "name": "Seabridge Gold Inc.",
-      "ticker": "SA",
-      "exchange": "NYSE",
+      "ticker": "SEA (TSX), SA (NYSE)",
+      "exchange": "TSX, NYSE",
       "title_or_role": "Chairman and Chief Executive Officer",
       "website": "https://www.seabridgegold.com",
-      "start_date": "1999-06-01",
-      "end_date": null
+      "start_date": "1999",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Paramount Gold Nevada Corp.",
+      "ticker": "PZG",
+      "exchange": "NYSE American",
+      "website": "https://www.paramountgoldnevada.com",
+      "title_or_role": "Independent Director / Board Chairman",
+      "start_date": "2017",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

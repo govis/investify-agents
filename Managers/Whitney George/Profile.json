@@ -11,16 +11,38 @@
     {
       "name": "Sprott Physical Gold Trust",
       "ticker": "PHYS",
-      "exchange": "NYSE",
+      "exchange": "NYSE / TSX",
       "title_or_role": "Director",
       "website": "https://sprott.com/investment-strategies/physical-bullion-trusts/gold/",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sprott Inc.",
+      "ticker": "SII",
+      "exchange": "NYSE / TSX",
+      "website": "https://sprott.com",
+      "title_or_role": "Non-independent Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sprott Focus Trust, Inc.",
+      "ticker": "FUND",
+      "exchange": "NASDAQ",
+      "website": "https://sprott.com/investment-strategies/managed-equities/focus-trust/",
+      "title_or_role": "Senior Portfolio Manager",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

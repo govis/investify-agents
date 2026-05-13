@@ -11,16 +11,28 @@
     {
       "name": "Franco-Nevada Corporation",
       "ticker": "FNV",
-      "exchange": "NYSE",
+      "exchange": "TSX / NYSE",
       "title_or_role": "Chief Financial Officer",
       "website": "https://www.franco-nevada.com",
-      "start_date": "2010-04-01",
-      "end_date": null
+      "start_date": "April 2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "title_or_role": "International Controller",
+      "start_date": "2002",
+      "end_date": "2003",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

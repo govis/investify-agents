@@ -12,10 +12,31 @@
       "name": "Rockwell Automation, Inc.",
       "ticker": "ROK",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.rockwellautomation.com",
-      "start_date": "2020-11-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ManpowerGroup Inc.",
+      "ticker": "MAN",
+      "exchange": "NYSE",
+      "website": "https://www.manpowergroup.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Procter & Gamble Company",
+      "ticker": "PG",
+      "exchange": "NYSE",
+      "website": "https://www.pg.com",
+      "title_or_role": "Former President, Enterprise Packaging Transformation & Chief Diversity and Inclusion Officer",
+      "start_date": "1985",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "committees": [
     "Audit Committee",
     "Technology Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

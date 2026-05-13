@@ -15,12 +15,34 @@
       "title_or_role": "Chief Executive Officer",
       "website": "https://www.fastly.com",
       "start_date": "2022-09-01",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Arista Networks, Inc.",
+      "ticker": "ANET",
+      "exchange": "NYSE",
+      "website": "https://www.arista.com",
+      "title_or_role": "President and Chief Operating Officer",
+      "start_date": "2025-07-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "title_or_role": "Executive Vice President and General Manager, Enterprise Networking and Cloud",
+      "start_date": "Prior to 2022",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -11,16 +11,38 @@
     {
       "name": "NOVAGOLD RESOURCES INC.",
       "ticker": "NG",
-      "exchange": "NYSE",
+      "exchange": "TSX / NYSE American",
       "title_or_role": "Chairman of the Board",
-      "website": "https://www.novagold.com",
-      "start_date": "2008-01-01",
-      "end_date": null
+      "website": "https://www.novagold.com/",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Apex Silver Mines Ltd. (now known as Golden Minerals Company)",
+      "ticker": "AUMN",
+      "exchange": "NYSE American",
+      "website": "https://www.goldenminerals.com/",
+      "title_or_role": "Founder, Chief Executive Officer, and Chairman",
+      "start_date": "1993",
+      "end_date": "2004",
+      "validated": true
+    },
+    {
+      "name": "Golden Minerals Company",
+      "ticker": "AUMN",
+      "exchange": "NYSE American",
+      "website": "https://www.goldenminerals.com/",
+      "title_or_role": "Chairman and Director",
+      "start_date": "2009",
+      "end_date": "2011",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

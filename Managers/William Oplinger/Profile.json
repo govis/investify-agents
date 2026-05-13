@@ -12,10 +12,11 @@
       "name": "Alcoa Corporation",
       "ticker": "AA",
       "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
+      "title_or_role": "Various roles (Joined in 2000)",
       "website": "https://www.alcoa.com",
-      "start_date": "2023-09-24",
-      "end_date": null
+      "start_date": "2000",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -28,5 +29,6 @@
       "picture_download_count": 3
     }
   ],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

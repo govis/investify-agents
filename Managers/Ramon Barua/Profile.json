@@ -12,15 +12,37 @@
       "name": "Aclara Resources Inc.",
       "ticker": "ARA",
       "exchange": "TSX",
-      "title_or_role": "Chief Executive Officer",
-      "website": "https://www.aclara.com",
-      "start_date": "2021-10-01",
-      "end_date": null
+      "title_or_role": "Chief Executive Officer & Director",
+      "website": "https://www.aclara-resources.com/",
+      "start_date": "October 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hochschild Mining PLC",
+      "ticker": "HOC",
+      "exchange": "LSE",
+      "website": "https://www.hochschildmining.com/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2011",
+      "end_date": "October 2021",
+      "validated": true
+    },
+    {
+      "name": "EarthLabs Inc.",
+      "ticker": "SPOT",
+      "exchange": "TSXV",
+      "website": "https://earthlabs.ai/",
+      "title_or_role": "Director",
+      "start_date": "January 2018",
+      "end_date": "2020",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

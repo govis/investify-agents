@@ -12,10 +12,31 @@
       "name": "Salesforce, Inc.",
       "ticker": "CRM",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member of the Board of Directors",
       "website": "https://www.salesforce.com",
-      "start_date": "2014-12-01",
-      "end_date": null
+      "start_date": "December 5, 2014",
+      "end_date": "August 9, 2024",
+      "validated": true
+    },
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOG / GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://abc.xyz",
+      "title_or_role": "Senior Vice President / Executive",
+      "start_date": "1999",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "YouTube",
+      "ticker": "GOOG / GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://www.youtube.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2014",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +45,6 @@
   "socials": [],
   "committees": [
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

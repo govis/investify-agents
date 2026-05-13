@@ -13,9 +13,40 @@
       "ticker": "GOOGL",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
-      "website": "https://abc.xyz",
-      "start_date": "2016-06-01",
-      "end_date": null
+      "website": "abc.xyz",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Corning Incorporated",
+      "ticker": "GLW",
+      "exchange": "NYSE",
+      "website": "corning.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "General Mills, Inc.",
+      "ticker": "GIS",
+      "exchange": "NYSE",
+      "website": "generalmills.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "International Flavors & Fragrances Inc.",
+      "ticker": "IFF",
+      "exchange": "NYSE",
+      "website": "iff.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +56,6 @@
   "socials": [],
   "committees": [
     "Audit and Compliance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

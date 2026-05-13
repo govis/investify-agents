@@ -11,16 +11,38 @@
     {
       "name": "QuantumScape Corporation",
       "ticker": "QS",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer, Director",
+      "exchange": "NASDAQ",
+      "title_or_role": "President & CEO",
       "website": "https://www.quantumscape.com",
-      "start_date": "2024-02-15",
-      "end_date": null
+      "start_date": "Sept 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Western Digital Corporation",
+      "ticker": "WDC",
+      "exchange": "NASDAQ",
+      "website": "https://www.westerndigital.com",
+      "title_or_role": "President, Technology and Strategy",
+      "start_date": "May 2016",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "SanDisk Corporation",
+      "ticker": "SNDK",
+      "exchange": "NASDAQ",
+      "website": "https://www.sandisk.com",
+      "title_or_role": "Executive Vice President, Memory Technology",
+      "start_date": "June 2013",
+      "end_date": "May 2016",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

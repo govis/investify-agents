@@ -11,11 +11,42 @@
     {
       "name": "Tudor Gold Corp.",
       "ticker": "TUD",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "website": "https://tudor-gold.com/",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://tudor-gold.com",
+      "start_date": null,
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Affinity Metals Corp.",
+      "ticker": "AFF",
+      "exchange": "TSXV",
+      "website": "https://www.affinity-metals.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Stinger Resources Inc.",
+      "ticker": "STNG",
+      "exchange": "CSE",
+      "website": "https://stingerresources.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "American Creek Resources Ltd.",
+      "ticker": "AMK",
+      "exchange": "TSXV",
+      "website": "https://www.americancreek.com",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +55,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

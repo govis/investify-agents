@@ -12,10 +12,21 @@
       "name": "Spire Global, Inc.",
       "ticker": "SPIR",
       "exchange": "NYSE",
-      "title_or_role": "Director",
+      "title_or_role": "Director (Lead Independent Director)",
       "website": "https://spire.com",
-      "start_date": "2014-01-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BuzzFeed, Inc.",
+      "ticker": "BZFD",
+      "exchange": "NASDAQ",
+      "website": "https://www.buzzfeed.com",
+      "title_or_role": "Director",
+      "start_date": "2010-05-01",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +36,6 @@
   "committees": [
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

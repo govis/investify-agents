@@ -12,15 +12,27 @@
       "name": "Electra Battery Materials Corporation",
       "ticker": "ELBM",
       "exchange": "TSX",
-      "title_or_role": "President, Chief Executive Officer and Director",
-      "website": "https://electrabmc.com",
-      "start_date": "2017-02-01",
-      "end_date": null
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "website": "https://electrabmc.com/",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "First Cobalt Corp.",
+      "ticker": "FCC",
+      "exchange": "TSXV",
+      "website": "https://electrabmc.com/",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "2017",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

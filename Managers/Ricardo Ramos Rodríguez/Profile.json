@@ -14,13 +14,15 @@
       "exchange": "NYSE",
       "title_or_role": "Chief Executive Officer",
       "website": "https://www.sqm.com",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "start_date": "2019-01",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

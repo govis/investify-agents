@@ -16,6 +16,16 @@
       "website": "https://auraminerals.com/",
       "start_date": "2018-01-01",
       "end_date": null
+    },
+    {
+      "name": "Katanga Mining Ltd.",
+      "ticker": "KAT",
+      "exchange": "TSX",
+      "website": "https://www.katangamining.com/",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +35,6 @@
   "committees": [
     "Audit Committee",
     "Technical Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

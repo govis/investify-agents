@@ -14,8 +14,19 @@
       "exchange": "TSX",
       "title_or_role": "Director",
       "website": "https://firstmininggold.com",
-      "start_date": "2015-03-30",
-      "end_date": null
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "First Majestic Silver Corp.",
+      "ticker": "AG",
+      "exchange": "TSX",
+      "website": "https://www.firstmajestic.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2006",
+      "end_date": "2021",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +37,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

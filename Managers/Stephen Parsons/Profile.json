@@ -13,9 +13,40 @@
       "ticker": "BGL",
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
-      "website": "https://www.bellevuegold.com.au",
-      "start_date": "2023-03-01",
-      "end_date": null
+      "website": "bellevuegold.com.au",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "FireFly Metals Ltd",
+      "ticker": "FFM",
+      "exchange": "ASX",
+      "website": "fireflymetals.com.au",
+      "title_or_role": "Managing Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Auteco Minerals Ltd",
+      "ticker": "AUT",
+      "exchange": "ASX",
+      "website": "autecominerals.com.au",
+      "title_or_role": "Managing Director",
+      "start_date": "2023",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Gryphon Minerals Ltd",
+      "ticker": "GRY (Delisted)",
+      "exchange": "ASX",
+      "website": null,
+      "title_or_role": "Managing Director",
+      "start_date": "2004",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +55,6 @@
   "socials": [],
   "committees": [
     "Health, Safety and Sustainability Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -10,17 +10,49 @@
   "company_affiliations": [
     {
       "name": "Komatsu Ltd.",
-      "ticker": "KMTUY",
-      "exchange": "OTC",
+      "ticker": "6301",
+      "exchange": "Tokyo Stock Exchange",
       "title_or_role": "Chairman of the Board",
       "website": "https://www.komatsu.jp",
-      "start_date": "2019-04-01",
-      "end_date": null
+      "start_date": "2019",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Yamaha Motor Co., Ltd.",
+      "ticker": "7272",
+      "exchange": "Tokyo Stock Exchange",
+      "website": "https://global.yamaha-motor.com",
+      "title_or_role": "Outside Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nomura Research Institute, Ltd.",
+      "ticker": "4307",
+      "exchange": "Tokyo Stock Exchange",
+      "website": "https://www.nri.com",
+      "title_or_role": "Outside Member of the Board",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Asahi Group Holdings, Ltd.",
+      "ticker": "2502",
+      "exchange": "Tokyo Stock Exchange",
+      "website": "https://www.asahigroup-holdings.com",
+      "title_or_role": "Outside Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

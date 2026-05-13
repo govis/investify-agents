@@ -12,10 +12,31 @@
       "name": "Fluor Corporation",
       "ticker": "FLR",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.fluor.com",
-      "start_date": "2010-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "fluor.com",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The TJX Companies, Inc.",
+      "ticker": "TJX",
+      "exchange": "NYSE",
+      "website": "tjx.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "UBS Group AG",
+      "ticker": "UBS",
+      "exchange": "NYSE",
+      "website": "ubs.com",
+      "title_or_role": "Vice Chairman, UBS Wealth Management Americas; Chairman, UBS Bank USA",
+      "start_date": "2010",
+      "end_date": "2018",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +47,6 @@
   "committees": [
     "Audit Committee",
     "Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,16 @@
       "website": "https://www.saic.com",
       "start_date": "2023-06-07",
       "end_date": null
+    },
+    {
+      "name": "Kimco Realty Corporation",
+      "ticker": "KIM",
+      "exchange": "NYSE",
+      "website": "https://www.kimcorealty.com",
+      "title_or_role": "Chairman Emeritus",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +34,6 @@
   "socials": [],
   "committees": [
     "Human Resources and Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

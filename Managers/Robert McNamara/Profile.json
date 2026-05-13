@@ -14,8 +14,9 @@
       "exchange": "NYSE",
       "title_or_role": "Director",
       "website": "https://www.jacobs.com",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +27,6 @@
   "committees": [
     "ESG and Risk Committee",
     "Human Resource and Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

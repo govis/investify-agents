@@ -12,15 +12,57 @@
       "name": "Palo Alto Networks, Inc.",
       "ticker": "PANW",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Executive Officer and Chairman of the Board",
+      "title_or_role": "Chairman and Chief Executive Officer",
       "website": "https://www.paloaltonetworks.com",
-      "start_date": "2018-06-01",
-      "end_date": null
+      "start_date": "June 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Uber Technologies, Inc.",
+      "ticker": "UBER",
+      "exchange": "NYSE",
+      "website": "https://www.uber.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "May 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Compagnie Financi\u00e8re Richemont S.A.",
+      "ticker": "CFR",
+      "exchange": "SIX Swiss Exchange",
+      "website": "https://www.richemont.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "September 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SoftBank Group Corp.",
+      "ticker": "9984",
+      "exchange": "Tokyo Stock Exchange",
+      "website": "https://group.softbank",
+      "title_or_role": "President and Chief Operating Officer",
+      "start_date": "October 2014",
+      "end_date": "June 2016",
+      "validated": true
+    },
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://abc.xyz",
+      "title_or_role": "Senior Vice President and Chief Business Officer",
+      "start_date": "2004",
+      "end_date": "2014",
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

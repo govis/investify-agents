@@ -16,6 +16,16 @@
       "website": "https://www.albemarle.com",
       "start_date": "2018-01-01",
       "end_date": null
+    },
+    {
+      "name": "Continental AG",
+      "ticker": "CON",
+      "exchange": "XETRA (Frankfurt Stock Exchange)",
+      "website": "https://www.continental.com",
+      "title_or_role": "President and CEO of Continental China",
+      "start_date": "2013",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +36,6 @@
   "committees": [
     "Audit Committee",
     "Health, Safety & Environmental Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

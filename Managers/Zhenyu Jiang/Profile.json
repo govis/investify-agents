@@ -10,12 +10,13 @@
   "company_affiliations": [
     {
       "name": "Li Auto Inc.",
-      "ticker": "LI",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://www.lixiang.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "ticker": "LI / 2015",
+      "exchange": "NASDAQ / HKEX",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://ir.lixiang.com/",
+      "start_date": "July 2020",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +27,6 @@
     "Audit Committee",
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

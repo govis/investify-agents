@@ -14,13 +14,45 @@
       "exchange": "NYSE",
       "title_or_role": "Chief Financial Officer",
       "website": "https://www.cloudflare.com",
-      "start_date": "2017-06-01",
-      "end_date": null
+      "start_date": "September 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Wolfspeed, Inc.",
+      "ticker": "WOLF",
+      "exchange": "NYSE",
+      "website": "https://www.wolfspeed.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Symantec Corporation (now Gen Digital Inc.)",
+      "ticker": "SYMC",
+      "exchange": "NASDAQ",
+      "website": "https://www.gendigital.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2014",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Advanced Micro Devices, Inc. (AMD)",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2009",
+      "end_date": "2012",
+      "validated": true
     }
   ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

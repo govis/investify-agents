@@ -12,10 +12,21 @@
       "name": "Jacobs Solutions Inc.",
       "ticker": "J",
       "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer",
+      "title_or_role": "Chief Executive Officer and Director",
       "website": "https://www.jacobs.com",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Eaton Corporation plc",
+      "ticker": "ETN",
+      "exchange": "NYSE",
+      "website": "https://www.eaton.com",
+      "title_or_role": "Director",
+      "start_date": "April 28, 2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -23,5 +34,6 @@
     "Reshoring"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

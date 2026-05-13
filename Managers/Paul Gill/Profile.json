@@ -10,12 +10,33 @@
   "company_affiliations": [
     {
       "name": "Azincourt Energy Corp.",
-      "ticker": "AAZ",
-      "exchange": "TSX",
-      "title_or_role": "Director",
-      "website": "https://azincourtenergy.com",
-      "start_date": "2011-01-01",
-      "end_date": null
+      "ticker": "AZI",
+      "exchange": "TSXV",
+      "title_or_role": "President, CEO, and Director",
+      "website": "https://www.azincourtenergy.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lomiko Metals Inc.",
+      "ticker": "LMR",
+      "exchange": "TSXV",
+      "website": "https://lomiko.com",
+      "title_or_role": "Former President, CEO, and Director",
+      "start_date": "2011",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Grenville Gold Corp. (now known as Grenville Strategic Royalty Corp.)",
+      "ticker": "GRC",
+      "exchange": "TSXV",
+      "website": "https://www.grenvilleroyalty.com",
+      "title_or_role": "Former President, CEO, and Director",
+      "start_date": "2008",
+      "end_date": "2012",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -30,5 +51,6 @@
   ],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

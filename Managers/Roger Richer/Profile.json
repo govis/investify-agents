@@ -12,15 +12,37 @@
       "name": "B2Gold Corp.",
       "ticker": "BTG",
       "exchange": "NYSE",
-      "title_or_role": "Executive Vice President, General Counsel and Secretary",
+      "title_or_role": "Executive Vice President, General Counsel, and Secretary",
       "website": "https://www.b2gold.com",
-      "start_date": "2007-11-30",
-      "end_date": null
+      "start_date": "2007",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "BeMetals Corp.",
+      "ticker": "BMET",
+      "exchange": "TSXV",
+      "website": "https://bemetalscorp.com",
+      "title_or_role": "Founder and Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bema Gold Corporation",
+      "ticker": "BGO",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Early Member/Executive",
+      "start_date": "Prior to 2007",
+      "end_date": "2007",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

@@ -16,6 +16,66 @@
       "website": "https://www.ti.com",
       "start_date": "2004-01-01",
       "end_date": null
+    },
+    {
+      "name": "MoneyGram International, Inc.",
+      "ticker": "MGI",
+      "exchange": "NASDAQ",
+      "website": "https://corporate.moneygram.com",
+      "title_or_role": "Executive Chairman",
+      "start_date": "2016",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Payoneer Global Inc.",
+      "ticker": "PAYO",
+      "exchange": "NASDAQ",
+      "website": "https://investor.payoneer.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hilton Grand Vacations Inc.",
+      "ticker": "HGV",
+      "exchange": "NYSE",
+      "website": "https://investors.hgv.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Keurig Dr Pepper Inc.",
+      "ticker": "KDP",
+      "exchange": "NASDAQ",
+      "website": "https://www.keurigdrpepper.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Dr Pepper Snapple Group, Inc.",
+      "ticker": "DPS",
+      "exchange": "NYSE",
+      "website": "https://www.keurigdrpepper.com",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Molson Coors Brewing Company",
+      "ticker": "TAP",
+      "exchange": "NYSE",
+      "website": "https://www.molsoncoors.com",
+      "title_or_role": "Director",
+      "start_date": "1996",
+      "end_date": "2009",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +85,6 @@
   "committees": [
     "Audit Committee",
     "Governance and Stockholder Relations Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

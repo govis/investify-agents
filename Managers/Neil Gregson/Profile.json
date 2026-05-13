@@ -11,11 +11,12 @@
     {
       "name": "Uranium Royalty Corp.",
       "ticker": "UROY",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "exchange": "NASDAQ / TSX",
+      "title_or_role": "Director",
       "website": "https://www.uraniumroyalty.com",
-      "start_date": "2021-10-01",
-      "end_date": null
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Uranium Royalty Corp.",
@@ -25,6 +26,26 @@
       "website": "https://www.uraniumroyalty.com/",
       "start_date": "2019-10-01",
       "end_date": null
+    },
+    {
+      "name": "Atalaya Mining Plc",
+      "ticker": "ATYM",
+      "exchange": "LSE",
+      "website": "https://www.atalayamining.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Meridian Mining UK Societas",
+      "ticker": "MNO",
+      "exchange": "TSXV",
+      "website": "https://meridianmining.co",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -35,5 +56,6 @@
     "Audit Committee",
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

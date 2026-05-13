@@ -12,10 +12,11 @@
       "name": "Constellation Energy Corporation",
       "ticker": "CEG",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.constellationenergy.com",
-      "start_date": "2022-02-01",
-      "end_date": null
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Constellation Energy Corporation",
@@ -25,6 +26,16 @@
       "website": "https://www.constellationenergy.com",
       "start_date": "2022-02-01",
       "end_date": null
+    },
+    {
+      "name": "Exelon Corporation",
+      "ticker": "EXC",
+      "exchange": "NYSE",
+      "website": "https://www.exeloncorp.com",
+      "title_or_role": "Director",
+      "start_date": "July 2003",
+      "end_date": "2022",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -36,5 +47,6 @@
     "Compensation Committee (Chair)",
     "Corporate Governance Committee",
     "Finance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

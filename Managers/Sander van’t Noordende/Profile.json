@@ -12,10 +12,31 @@
       "name": "AECOM",
       "ticker": "ACM",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://aecom.com",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Accenture plc",
+      "ticker": "ACN",
+      "exchange": "NYSE",
+      "website": "https://www.accenture.com",
+      "title_or_role": "Group Chief Executive (various operating groups including Products and Management Consulting)",
+      "start_date": "1987",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Randstad N.V.",
+      "ticker": "RAND",
+      "exchange": "Euronext Amsterdam (AMS)",
+      "website": "https://www.randstad.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -29,5 +50,6 @@
   ],
   "committees": [
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -12,10 +12,41 @@
       "name": "Rockwell Automation, Inc.",
       "ticker": "ROK",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "website": "https://www.rockwellautomation.com",
-      "start_date": "2019-06-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "rockwellautomation.com",
+      "start_date": "2019-06-06",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Visa Inc.",
+      "ticker": "V",
+      "exchange": "NYSE",
+      "website": "visa.com",
+      "title_or_role": "Director",
+      "start_date": "2023-03-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "MeridianLink, Inc.",
+      "ticker": "MLNK",
+      "exchange": "NYSE",
+      "website": "meridianlink.com",
+      "title_or_role": "Director",
+      "start_date": "2021-07-01",
+      "end_date": "2023-03-01",
+      "validated": true
+    },
+    {
+      "name": "Imperva, Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "imperva.com",
+      "title_or_role": "CEO",
+      "start_date": "2020-01-01",
+      "end_date": "2023-12-01",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +56,6 @@
   "committees": [
     "Audit Committee",
     "Technology Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

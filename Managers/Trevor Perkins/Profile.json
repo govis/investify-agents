@@ -11,11 +11,12 @@
     {
       "name": "Azincourt Energy Corp.",
       "ticker": "AAZ",
-      "exchange": "TSX",
-      "title_or_role": "Vice President, Exploration",
-      "website": "https://azincourtenergy.com",
-      "start_date": "2021-05-01",
-      "end_date": null
+      "exchange": "TSX Venture Exchange",
+      "title_or_role": "VP, Exploration",
+      "website": "https://azincourtenergy.com/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -27,5 +28,6 @@
       "url": "https://ca.linkedin.com/in/c-trevor-perkins-a33b0040"
     }
   ],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

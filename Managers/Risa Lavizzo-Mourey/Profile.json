@@ -12,10 +12,81 @@
       "name": "Intel Corporation",
       "ticker": "INTC",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Director",
       "website": "https://www.intel.com",
-      "start_date": "2018-03-01",
-      "end_date": null
+      "start_date": "March 2018",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Merck & Co., Inc.",
+      "ticker": "MRK",
+      "exchange": "NYSE",
+      "website": "https://www.merck.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GE HealthCare Technologies, Inc.",
+      "ticker": "GEHC",
+      "exchange": "NASDAQ",
+      "website": "https://www.gehealthcare.com",
+      "title_or_role": "Lead Director",
+      "start_date": "January 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.ge.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Better Therapeutics, Inc.",
+      "ticker": "BTTX",
+      "exchange": "NASDAQ",
+      "website": "https://www.bettertx.com",
+      "title_or_role": "Director",
+      "start_date": "April 2021",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Genworth Financial, Inc.",
+      "ticker": "GNW",
+      "exchange": "NYSE",
+      "website": "https://www.genworth.com",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Beckman Coulter, Inc.",
+      "ticker": "BEC",
+      "exchange": "NYSE",
+      "website": "https://www.beckman.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "Hess Corporation",
+      "ticker": "HES",
+      "exchange": "NYSE",
+      "website": "https://www.hess.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +97,6 @@
   "committees": [
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

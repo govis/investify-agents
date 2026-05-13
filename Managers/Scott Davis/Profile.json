@@ -11,16 +11,38 @@
     {
       "name": "Tudor Gold Corp.",
       "ticker": "TUD",
-      "exchange": "TSX",
-      "title_or_role": "Chief Financial Officer",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
       "website": "https://tudor-gold.com/",
-      "start_date": "2016-01-01",
-      "end_date": null
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Goldstorm Metals Corp.",
+      "ticker": "GSTM",
+      "exchange": "TSXV",
+      "website": "https://goldstormmetals.com/",
+      "title_or_role": "Chief Financial Officer and Secretary",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "C2C Gold Corp.",
+      "ticker": "CTOC",
+      "exchange": "CSE",
+      "website": "https://c2cgold.com/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

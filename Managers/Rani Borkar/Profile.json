@@ -12,10 +12,41 @@
       "name": "Applied Materials, Inc.",
       "ticker": "AMAT",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
+      "title_or_role": "Member, Board of Directors",
       "website": "https://www.appliedmaterials.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "start_date": "December 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "title_or_role": "Corporate Vice President, Azure Hardware Systems and Infrastructure",
+      "start_date": "June 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "IBM Corporation",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "website": "https://www.ibm.com",
+      "title_or_role": "Vice President, OpenPOWER Development",
+      "start_date": "2016",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "title_or_role": "Corporate Vice President and General Manager, Intel Architecture Development Group",
+      "start_date": "1988",
+      "end_date": "2016",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -26,5 +57,6 @@
   "committees": [
     "Audit Committee",
     "Strategy Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

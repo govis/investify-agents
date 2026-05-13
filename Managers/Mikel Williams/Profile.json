@@ -11,11 +11,32 @@
     {
       "name": "Centrus Energy Corp.",
       "ticker": "LEU",
-      "exchange": "NYSE",
-      "title_or_role": "Chairman of the Board",
-      "website": "https://www.centrusenergy.com",
-      "start_date": "2014-01-01",
-      "end_date": null
+      "exchange": "NYSE American",
+      "title_or_role": "Director",
+      "website": "https://www.centrusenergy.com/",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sonim Technologies, Inc.",
+      "ticker": "SONM",
+      "exchange": "NASDAQ",
+      "website": "https://www.sonimtech.com/",
+      "title_or_role": "Director",
+      "start_date": "October 2017",
+      "end_date": "March 2019",
+      "validated": true
+    },
+    {
+      "name": "Tellabs, Inc.",
+      "ticker": "TLAB",
+      "exchange": "NASDAQ",
+      "website": "https://www.tellabs.com/",
+      "title_or_role": "Director",
+      "start_date": "December 2012",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +46,6 @@
   "committees": [
     "Audit Committee",
     "Compensation Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

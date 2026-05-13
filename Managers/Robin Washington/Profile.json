@@ -25,6 +25,36 @@
       "website": "https://abc.xyz",
       "start_date": "2019-04-01",
       "end_date": null
+    },
+    {
+      "name": "Gilead Sciences, Inc.",
+      "ticker": "GILD",
+      "exchange": "NASDAQ",
+      "website": "www.gilead.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2008",
+      "end_date": "March 1, 2020",
+      "validated": true
+    },
+    {
+      "name": "Honeywell International Inc.",
+      "ticker": "HON",
+      "exchange": "NASDAQ",
+      "website": "www.honeywell.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "MIPS Technologies, Inc.",
+      "ticker": "MIPS",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2007",
+      "end_date": "2013",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -37,5 +67,6 @@
     "Audit and Compliance Committee",
     "Leadership Development, Inclusion and Compensation Committee",
     "Nominating and Corporate Governance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

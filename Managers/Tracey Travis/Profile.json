@@ -12,10 +12,51 @@
       "name": "Meta Platforms, Inc.",
       "ticker": "META",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "website": "https://about.meta.com",
-      "start_date": "2020-03-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://investor.fb.com",
+      "start_date": "March 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Accenture plc",
+      "ticker": "ACN",
+      "exchange": "NYSE",
+      "website": "https://investor.accenture.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hyatt Hotels Corporation",
+      "ticker": "H",
+      "exchange": "NYSE",
+      "website": "https://investors.hyatt.com",
+      "title_or_role": "Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Est\u00e9e Lauder Companies Inc.",
+      "ticker": "EL",
+      "exchange": "NYSE",
+      "website": "https://www.elcompanies.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2012",
+      "end_date": "June 2025",
+      "validated": true
+    },
+    {
+      "name": "Campbell Soup Company",
+      "ticker": "CPB",
+      "exchange": "NYSE",
+      "website": "https://investor.campbellsoupcompany.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2017",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +65,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

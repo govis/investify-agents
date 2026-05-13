@@ -11,11 +11,62 @@
     {
       "name": "STMicroelectronics N.V.",
       "ticker": "STM",
-      "exchange": "NYSE",
-      "title_or_role": "Member of the Supervisory Board",
+      "exchange": "NYSE / Euronext Paris",
+      "title_or_role": "Non-Executive Director",
       "website": "https://www.st.com",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "start_date": "2013",
+      "end_date": "May 2024",
+      "validated": true
+    },
+    {
+      "name": "Faurecia (now FORVIA)",
+      "ticker": "EO",
+      "exchange": "Euronext Paris",
+      "website": "https://www.forvia.com",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "2007",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Alstom",
+      "ticker": "ALO",
+      "exchange": "Euronext Paris",
+      "website": "https://www.alstom.com",
+      "title_or_role": "Director / Lead Independent Director",
+      "start_date": "March 2017",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Capgemini SE",
+      "ticker": "CAP",
+      "exchange": "Euronext Paris",
+      "website": "https://www.capgemini.com",
+      "title_or_role": "Non-Executive Director / Chairman of the Audit Committee",
+      "start_date": "2004",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "LeddarTech Holdings Inc.",
+      "ticker": "LDTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.leddartech.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Zodiac Aerospace",
+      "ticker": "ZOD",
+      "exchange": "Euronext Paris",
+      "website": "https://www.safran-group.com",
+      "title_or_role": "Chairman of the Executive Board",
+      "start_date": "June 2017",
+      "end_date": "February 2018",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +76,6 @@
   "committees": [
     "Audit Committee",
     "Strategic Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

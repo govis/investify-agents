@@ -12,10 +12,11 @@
       "name": "IsoEnergy Ltd.",
       "ticker": "ISO",
       "exchange": "TSX",
-      "title_or_role": "President, Chief Executive Officer and Director",
-      "website": "https://www.isoenergy.ca",
-      "start_date": "2023-12-05",
-      "end_date": null
+      "title_or_role": "Chief Executive Officer & Director",
+      "website": "https://www.isoenergy.ca/",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "IsoEnergy Ltd.",
@@ -25,11 +26,32 @@
       "website": "https://www.isoenergy.ca",
       "start_date": "2023-12-05",
       "end_date": null
+    },
+    {
+      "name": "Consolidated Uranium Inc.",
+      "ticker": "CUR",
+      "exchange": "TSXV",
+      "website": "https://encoreuranium.com/",
+      "title_or_role": "President, Chief Executive Officer & Director",
+      "start_date": "2020",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "URC",
+      "exchange": "TSX",
+      "website": "https://www.uraniumroyalty.com/",
+      "title_or_role": "President, Chief Executive Officer & Director (Co-founder)",
+      "start_date": "2017",
+      "end_date": "2019",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }

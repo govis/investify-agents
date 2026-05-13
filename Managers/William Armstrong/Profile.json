@@ -16,6 +16,16 @@
       "website": "https://www.artemisgoldinc.com",
       "start_date": "2019-01-10",
       "end_date": null
+    },
+    {
+      "name": "Atlantic Gold Corporation",
+      "ticker": "AGB",
+      "exchange": "TSX",
+      "website": "N/A",
+      "title_or_role": "Director",
+      "start_date": "2015-01-01",
+      "end_date": "2019-07-19",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -25,5 +35,6 @@
   "committees": [
     "Audit Committee",
     "Health, Safety, Environment and Social Performance Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

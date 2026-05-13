@@ -16,6 +16,36 @@
       "website": "https://www.fastly.com",
       "start_date": "2021-03-01",
       "end_date": null
+    },
+    {
+      "name": "Citrix Systems, Inc.",
+      "ticker": "CTXS",
+      "exchange": "NASDAQ",
+      "website": "https://www.citrix.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Vignette Corporation",
+      "ticker": "VIGN",
+      "exchange": "NASDAQ",
+      "website": "https://www.opentext.com",
+      "title_or_role": "President and CEO",
+      "start_date": "2006",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Siebel Systems, Inc.",
+      "ticker": "SEBL",
+      "exchange": "NASDAQ",
+      "website": "https://www.oracle.com",
+      "title_or_role": "Senior Vice President of Sales",
+      "start_date": "1999",
+      "end_date": "2001",
+      "validated": true
     }
   ],
   "investment_theses": [
@@ -24,5 +54,6 @@
   "socials": [],
   "committees": [
     "Audit Committee"
-  ]
+  ],
+  "enrichment_company_affiliations": "success"
 }

@@ -11,11 +11,12 @@
     {
       "name": "enCore Energy Corp.",
       "ticker": "EU",
-      "exchange": "NASDAQ",
-      "title_or_role": "Chief Executive Officer, Director",
-      "website": "https://encoreuranium.com",
-      "start_date": "2020-10-01",
-      "end_date": null
+      "exchange": "TSX.V",
+      "title_or_role": "CEO and Director",
+      "website": "https://www.encoreenergycorp.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "enCore Energy Corp.",
@@ -25,11 +26,32 @@
       "website": "https://encoreuranium.com",
       "start_date": "2020-10-01",
       "end_date": null
+    },
+    {
+      "name": "Energy Fuels Inc.",
+      "ticker": "UUUU",
+      "exchange": "NYSE American",
+      "website": "https://www.energyfuels.com",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2012",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Uranerz Energy Corp.",
+      "ticker": "URZ",
+      "exchange": "NYSE American",
+      "website": "http://www.uranerz.com",
+      "title_or_role": "President, Chief Operating Officer, and Director",
+      "start_date": "2013",
+      "end_date": "2015",
+      "validated": true
     }
   ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
-  "committees": []
+  "committees": [],
+  "enrichment_company_affiliations": "success"
 }
