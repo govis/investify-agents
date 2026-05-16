@@ -16,6 +16,11 @@
           "title": "Chairman of the Board",
           "start_date": "2021-01-01",
           "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer, Chairman of the Board",
+          "start_date": "2021-01-01",
+          "end_date": null
         }
       ],
       "name_original": "Marc Bell"
@@ -31,6 +36,11 @@
           "title": "Chief Financial Officer",
           "start_date": "2023-07-01",
           "end_date": null
+        },
+        {
+          "title": "Vice President and Controller",
+          "start_date": "July 2021",
+          "end_date": "2024"
         }
       ],
       "name_original": "Mathieu Riffel"
@@ -49,6 +59,62 @@
         }
       ],
       "name_original": "Hilary Hageman"
+    },
+    {
+      "name": "Anthony Previte",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Co-Founder of Terran Orbital and former CEO of Tyvak Nano-Satellite Systems. He has extensive experience in satellite manufacturing and operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Co-Founder, Chief Strategy Officer, Executive Vice President (Director)",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "James LaChance",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Founder and CEO of Discovery Capital Management. He has over 25 years of experience in investment management and corporate restructuring.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2022-03-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Stratton Sclavos",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of VeriSign, Inc. He is a seasoned executive with experience in cybersecurity and technology infrastructure.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Tobi Petrocelli",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Director of Environmental, Social, and Governance (ESG) Strategy at Mitsubishi UFJ Financial Group. Expert in corporate sustainability and governance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "March 25, 2022",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -61,6 +127,11 @@
       "tenure_dates": [
         {
           "role": "Chairman",
+          "start_date": "2021-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer, Chairman of the Board",
           "start_date": "2021-01-01",
           "end_date": null
         }
@@ -79,6 +150,11 @@
           "role": "Director",
           "start_date": "2021-01-01",
           "end_date": null
+        },
+        {
+          "title": "Co-Founder, Chief Strategy Officer, Executive Vice President (Director)",
+          "start_date": "2013",
+          "end_date": null
         }
       ],
       "committees": [],
@@ -93,6 +169,11 @@
       "tenure_dates": [
         {
           "role": "Independent Director",
+          "start_date": "2022-03-01",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
           "start_date": "2022-03-01",
           "end_date": null
         }
@@ -114,6 +195,11 @@
           "role": "Independent Director",
           "start_date": "2022-03-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2022",
+          "end_date": null
         }
       ],
       "committees": [
@@ -132,6 +218,11 @@
         {
           "role": "Independent Director",
           "start_date": "2022-03-01",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "March 25, 2022",
           "end_date": null
         }
       ],

@@ -29,6 +29,62 @@
         }
       ],
       "name_original": "Helen McCabe"
+    },
+    {
+      "name": "Anita Frew",
+      "age": 66,
+      "age_year": 2023,
+      "background": "Anita Frew was appointed Chair of Rolls-Royce in October 2021. She has extensive experience as a chair and non-executive director across various sectors including chemicals, engineering, and finance. She is also Chair of Croda International Plc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chair",
+          "start_date": "2021-10-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Dame Angela Strank",
+      "age": 71,
+      "age_year": 2023,
+      "background": "Dame Angela Strank joined the Board in 2020. She was previously Chief Scientist and Head of Downstream Technology at BP.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2020-05-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Kevin Smith",
+      "age": 69,
+      "age_year": 2023,
+      "background": "Sir Kevin Smith joined the Board in 2015. He was previously CEO of GKN plc and has a deep background in the aerospace and automotive industries.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Independent Director",
+          "start_date": "2015-11-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Thomas Bell",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Thomas A. Bell has served as our Chief Executive Officer since May 2023. Prior to joining Leidos, Mr. Bell was President of Defense at Rolls-Royce and Chairman and CEO of Rolls-Royce North America. He also previously served as Senior Vice President of Global Strategy and Business Development at Boeing Defense, Space & Security.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and CEO, Rolls-Royce North America; President, Global Defense",
+          "start_date": "March 2018",
+          "end_date": "May 2023"
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -59,6 +115,11 @@
       "tenure_dates": [
         {
           "role": "Senior Independent Director",
+          "start_date": "2015-11-01",
+          "end_date": null
+        },
+        {
+          "title": "Senior Independent Director",
           "start_date": "2015-11-01",
           "end_date": null
         }
@@ -98,6 +159,11 @@
       "tenure_dates": [
         {
           "role": "Non-Executive Director",
+          "start_date": "2020-05-01",
+          "end_date": null
+        },
+        {
+          "title": "Non-Executive Director",
           "start_date": "2020-05-01",
           "end_date": null
         }

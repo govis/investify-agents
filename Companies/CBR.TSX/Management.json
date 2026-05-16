@@ -44,6 +44,20 @@
         }
       ],
       "name_original": "Guilherme Cavalcanti"
+    },
+    {
+      "name": "Dennis Higginson",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Mr. Higginson has over 40 years of experience in the mining industry, specializing in exploration and project management. He has held senior positions with several junior mining companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017-10-30",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -72,6 +86,11 @@
       "tenure_dates": [
         {
           "role": "Director",
+          "start_date": "2017-10-30",
+          "end_date": null
+        },
+        {
+          "title": "Director",
           "start_date": "2017-10-30",
           "end_date": null
         }

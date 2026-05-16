@@ -44,27 +44,42 @@ class Agent:
         self.client = client
         self.model = model
         self.system_instruction = system_instruction
+        self.max_output_tokens = 2048
+        self.timeout = 90 # Extended timeout for search grounding
 
     async def call(self, prompt: str, schema: Any, use_search: bool = False):
         config = types.GenerateContentConfig(
             system_instruction=self.system_instruction,
             response_mime_type="application/json",
             response_schema=schema,
+            max_output_tokens=self.max_output_tokens,
+            temperature=0.0,
         )
         if use_search:
             config.tools = [types.Tool(google_search=types.GoogleSearch())]
         
-        response = await asyncio.to_thread(
-            self.client.models.generate_content,
-            model=self.model,
-            contents=prompt,
-            config=config
-        )
-        return response.parsed
+        try:
+            response = await asyncio.wait_for(
+                asyncio.to_thread(
+                    self.client.models.generate_content,
+                    model=self.model,
+                    contents=prompt,
+                    config=config
+                ),
+                timeout=self.timeout
+            )
+            return response.parsed
+        except asyncio.TimeoutError:
+            print(f"Agent: Timeout after {self.timeout}s calling model {self.model}")
+            return None
+        except Exception as e:
+            print(f"Agent: Error calling model: {e}")
+            return None
 
 class Supervisor:
     def __init__(self, pipeline: 'ManagerEnrichmentPipelineV2'):
         self.pipeline = pipeline
+        self.max_verifications = 3 # Fail-safe: don't verify more than top 3 candidates
 
     async def orchestrate(self, profile_path: str, get_picture: str = "no", search_picture_li: str = "no"):
         print(f"Supervisor: Starting enrichment for {os.path.basename(profile_path)}")
@@ -104,7 +119,7 @@ class Supervisor:
                         best_candidate_url = existing_linkedin
                         print(f"Supervisor: Verified existing URL {existing_linkedin}")
                     else:
-                        reason = v_res.verification_reasoning if v_res else "No response"
+                        reason = v_res.verification_reasoning if v_res else "No response/Timeout"
                         print(f"Supervisor: Existing URL {existing_linkedin} not verified. Reasoning: {reason}")
             
             if not best_verification:
@@ -119,6 +134,12 @@ class Supervisor:
                 if len(candidates) < original_count:
                     print(f"Supervisor: Filtered out {original_count - len(candidates)} blacklisted candidates.")
 
+                # Limit number of candidates to process to avoid excessive API costs
+                candidates = sorted(candidates, key=lambda x: x.match_confidence, reverse=True)
+                if len(candidates) > 5:
+                    print(f"Supervisor: Limiting search results from {len(candidates)} to top 5.")
+                    candidates = candidates[:5]
+
                 print(f"Supervisor: Found {len(candidates)} candidates: {[c.url for c in candidates]}")
                 
                 if not candidates:
@@ -126,22 +147,29 @@ class Supervisor:
                     await self.finalize(profile_path, "not_found")
                     return
 
-                # 2. Verify Candidates
-                for candidate in sorted(candidates, key=lambda x: x.match_confidence, reverse=True):
+                # 2. Verify Candidates (with verification limit)
+                verification_count = 0
+                for candidate in candidates:
                     if candidate.match_confidence < 0.3: continue
+                    if verification_count >= self.max_verifications:
+                        print(f"Supervisor: Reached max_verifications ({self.max_verifications}). Stopping candidate loop.")
+                        break
+                        
                     # Skip if it's the one we just failed to verify
                     if existing_linkedin and candidate.url.rstrip('/') == existing_linkedin.rstrip('/'):
                         continue
 
-                    print(f"Supervisor: Verifying candidate {candidate.url}...")
+                    print(f"Supervisor: Verifying candidate {candidate.url} (Attempt {verification_count + 1}/{self.max_verifications})...")
                     v_res = await self.pipeline.agents['verifier'].verify(manager, candidate.url)
+                    verification_count += 1
+                    
                     if v_res and v_res.is_verified:
                         best_verification = v_res
                         best_candidate_url = candidate.url
                         print(f"Supervisor: Verified {candidate.url}")
                         break
                     else:
-                        reason = v_res.verification_reasoning if v_res else "No response"
+                        reason = v_res.verification_reasoning if v_res else "No response/Timeout"
                         print(f"Supervisor: Candidate {candidate.url} not verified. Reasoning: {reason}")
         
         if not best_verification:

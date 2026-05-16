@@ -21,6 +21,11 @@
           "title": "President, EMEA",
           "start_date": "2016-01-01",
           "end_date": "2022-03-01"
+        },
+        {
+          "title": "Chief Executive Officer and Director",
+          "start_date": "January 2023",
+          "end_date": null
         }
       ],
       "name_original": "Giordano Albertazzi"
@@ -36,6 +41,11 @@
           "title": "Chief Financial Officer",
           "start_date": "2017-07-01",
           "end_date": null
+        },
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2017",
+          "end_date": "2025"
         }
       ],
       "name_original": "David Fallon"
@@ -51,9 +61,70 @@
           "title": "Chief Technology Officer",
           "start_date": "2021-02-01",
           "end_date": null
+        },
+        {
+          "title": "President, Asia-Pacific",
+          "start_date": "2016",
+          "end_date": null
         }
       ],
       "name_original": "Stephen Liang"
+    },
+    {
+      "name": "David Cote",
+      "age": 71,
+      "age_year": 2024,
+      "background": "David Cote is the Executive Chairman of the Board of Vertiv. He is the former Chairman and CEO of Honeywell. He also served as a Class B Director to the Federal Reserve Bank of New York.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Chairman",
+          "start_date": "2020-02-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jakki Haussler",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Jakki Haussler is the Chairman and co-founder of Opus Capital Management. She has extensive experience in financial services and investment management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "August 2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Joseph van Dokkum",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Joseph van Dokkum is an Operating Partner at Kleiner Perkins. He previously served as President of UTC Power, a division of United Technologies Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Roger Fradin",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Vice Chairman of Honeywell International Inc. Current Chairman of Resideo Technologies, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020-02-01",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -66,6 +137,11 @@
       "tenure_dates": [
         {
           "role": "Executive Chairman",
+          "start_date": "2020-02-01",
+          "end_date": null
+        },
+        {
+          "title": "Executive Chairman",
           "start_date": "2020-02-01",
           "end_date": null
         }
@@ -84,6 +160,11 @@
           "role": "Director",
           "start_date": "2020-02-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": null
         }
       ],
       "committees": [
@@ -101,6 +182,11 @@
       "tenure_dates": [
         {
           "role": "Director",
+          "start_date": "2020-02-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
           "start_date": "2020-02-01",
           "end_date": null
         }
@@ -122,12 +208,31 @@
           "role": "Director",
           "start_date": "2022-06-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "August 2022",
+          "end_date": null
         }
       ],
       "committees": [
         "Audit Committee"
       ],
       "name_original": "Jakki L. Haussler"
+    },
+    {
+      "name": "Giordano Albertazzi",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Giordano Albertazzi is the Chief Executive Officer of Vertiv. He was appointed CEO in January 2023. Previously, he served as President, Americas from March 2022 to December 2022 and President, Europe, Middle East and Africa (EMEA) from 2016 to 2022. He joined Emerson Network Power in 1998 and held various leadership positions.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer and Director",
+          "start_date": "January 2023",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

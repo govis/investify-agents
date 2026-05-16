@@ -32,6 +32,11 @@ This workflow builds and enriches detailed profiles for company officers and dir
     - If `--get_picture yes`: Attempts sequential download and validation of all found images.
     - If `--search_picture_li no`: Skips specialized LinkedIn Image Search (2a).
     - If `--search_picture_li yes`: Performs specialized LinkedIn Image Search (2a) to find profile pictures.
+- **Cost Management & Fail-Safes**:
+    - **Verification Limit**: `Supervisor` restricts candidate verification to the **top 3** matches per manager to prevent runaway search grounding costs.
+    - **Search Limit**: `LinkedInSearchAgent` limits raw candidates to the **top 5** matches.
+    - **Deterministic Execution**: Uses `temperature: 0.0` and `max_output_tokens: 2048` for all agent calls to ensure concise, predictable, and cost-effective responses.
+    - **Timeouts**: Implements a strict **90-second timeout** per agent call to prevent pipeline hangs and zombie processes.
 - **Verification & Status Enrichment**: 
     - **Known URL Priority**: Checks `known_linkedin_urls.json` for manually verified profiles before searching.
     - **LinkedIn URL Status Check**: Performs a real-time HTTP check after verification to detect `404` (sets `profile_status: "not_found"`) or LinkedIn login walls (sets `profile_status: "private"`).

@@ -16,6 +16,11 @@
           "title": "Chief Executive Officer",
           "start_date": "1977-06-01",
           "end_date": "2014-09-01"
+        },
+        {
+          "title": "Co-Founder, CTO, Executive Chairman",
+          "start_date": "1977",
+          "end_date": null
         }
       ],
       "name_original": "Lawrence J. Ellison"
@@ -39,6 +44,188 @@
         }
       ],
       "name_original": "Safra A. Catz"
+    },
+    {
+      "name": "Ariel Kelman",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Ariel Kelman is President and Chief Marketing Officer of Salesforce. He joined Salesforce in 2023 from Oracle, where he served as Executive Vice President and Chief Marketing Officer.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Marketing Officer",
+          "start_date": "Jan 2020",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Bruce Chizen",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Former CEO of Adobe Systems Incorporated.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "July 2008",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Charles Moorman",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Norfolk Southern Corporation. Director since 2012.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "George Conrades",
+      "age": 85,
+      "age_year": 2024,
+      "background": "Chairman Emeritus of Akamai Technologies, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2006",
+          "end_date": "2026"
+        }
+      ]
+    },
+    {
+      "name": "Harry You",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. You has served as a director since 2019. He is the co-founder and Vice Chairman of dMY Technology Group. He previously served as CFO of EMC Corporation and EVP at Oracle Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and CFO; Member of the Board of Directors (Oracle Japan)",
+          "start_date": "2004",
+          "end_date": "2005"
+        }
+      ]
+    },
+    {
+      "name": "Jeffrey Berg",
+      "age": 77,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of International Creative Management, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "1997",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Leon Panetta",
+      "age": 86,
+      "age_year": 2024,
+      "background": "Former U.S. Secretary of Defense and former Director of the Central Intelligence Agency.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2015-02-02",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Naomi Seligman",
+      "age": 86,
+      "age_year": 2024,
+      "background": "Senior Partner at Oritani Advisors and co-founder of Research Board, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "2005",
+          "end_date": "2026"
+        }
+      ]
+    },
+    {
+      "name": "Ren\u00e9e James",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Founder, Chairman and CEO of Ampere Computing and former President of Intel Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2015",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ric Smith",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Ric Smith has served as our Chief Product and Technology Officer since March 2021. Prior to joining SentinelOne, Mr. Smith served in various roles at Medallia, Inc., including as Senior Vice President of Engineering. Previously, he held various engineering leadership roles at Oracle Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Director of Engineering",
+          "start_date": "October 2009",
+          "end_date": "January 2016"
+        }
+      ]
+    },
+    {
+      "name": "Rona Fairhead",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former Minister of State for Trade and Export Promotion in the United Kingdom.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2019-07-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Vishal Sikka",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Founder and CEO of Vianai Systems, Inc. and former CEO of Infosys Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019-12-09",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "William Parrett",
+      "age": 79,
+      "age_year": 2024,
+      "background": "Former CEO of Deloitte Touche Tohmatsu.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2018-06-01",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -52,6 +239,11 @@
         {
           "role": "Chairman of the Board",
           "start_date": "1977-06-01",
+          "end_date": null
+        },
+        {
+          "title": "Co-Founder, CTO, Executive Chairman",
+          "start_date": "1977",
           "end_date": null
         }
       ],
@@ -106,6 +298,11 @@
           "role": "Independent Director",
           "start_date": "1997-02-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "1997",
+          "end_date": null
         }
       ],
       "committees": [
@@ -142,6 +339,11 @@
           "role": "Independent Director",
           "start_date": "2008-07-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "July 2008",
+          "end_date": null
         }
       ],
       "committees": [
@@ -160,6 +362,11 @@
           "role": "Independent Director",
           "start_date": "2008-01-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2006",
+          "end_date": "2026"
         }
       ],
       "committees": [
@@ -176,6 +383,11 @@
       "tenure_dates": [
         {
           "role": "Independent Director",
+          "start_date": "2019-07-01",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
           "start_date": "2019-07-01",
           "end_date": null
         }
@@ -196,6 +408,11 @@
           "role": "Independent Director",
           "start_date": "2015-12-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2015",
+          "end_date": null
         }
       ],
       "committees": [
@@ -212,6 +429,11 @@
       "tenure_dates": [
         {
           "role": "Independent Director",
+          "start_date": "2022-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
           "start_date": "2022-01-01",
           "end_date": null
         }
@@ -232,6 +454,11 @@
           "role": "Independent Director",
           "start_date": "2015-01-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2015-02-02",
+          "end_date": null
         }
       ],
       "committees": [
@@ -248,6 +475,11 @@
       "tenure_dates": [
         {
           "role": "Independent Director",
+          "start_date": "2018-06-01",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
           "start_date": "2018-06-01",
           "end_date": null
         }
@@ -268,6 +500,11 @@
           "role": "Independent Director",
           "start_date": "2005-11-01",
           "end_date": null
+        },
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "2005",
+          "end_date": "2026"
         }
       ],
       "committees": [
@@ -286,10 +523,43 @@
           "role": "Independent Director",
           "start_date": "2019-12-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2019-12-09",
+          "end_date": null
         }
       ],
       "committees": [],
       "name_original": "Vishal Sikka"
+    },
+    {
+      "name": "Harry You",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. You has served as a director since 2019. He is the co-founder and Vice Chairman of dMY Technology Group. He previously served as CFO of EMC Corporation and EVP at Oracle Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and CFO; Member of the Board of Directors (Oracle Japan)",
+          "start_date": "2004",
+          "end_date": "2005"
+        }
+      ]
+    },
+    {
+      "name": "Ric Smith",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Ric Smith has served as our Chief Product and Technology Officer since March 2021. Prior to joining SentinelOne, Mr. Smith served in various roles at Medallia, Inc., including as Senior Vice President of Engineering. Previously, he held various engineering leadership roles at Oracle Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Director of Engineering",
+          "start_date": "October 2009",
+          "end_date": "January 2016"
+        }
+      ]
     }
   ],
   "sources": [

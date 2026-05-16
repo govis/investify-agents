@@ -11,6 +11,11 @@
           "title": "Chief Executive Officer",
           "start_date": "2024-01-01",
           "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer and Executive Director",
+          "start_date": "January 1, 2024",
+          "end_date": null
         }
       ],
       "name_original": "Michael Fraser"
@@ -26,6 +31,11 @@
           "title": "Chief Financial Officer",
           "start_date": "2023-12-01",
           "end_date": null
+        },
+        {
+          "title": "Finance Department (SOX and technical accounting)",
+          "start_date": "2014",
+          "end_date": "2025-03"
         }
       ],
       "name_original": "Alex Szabo"
@@ -46,9 +56,112 @@
           "title": "Interim Chief Executive Officer",
           "start_date": "2023-01-01",
           "end_date": "2023-12-31"
+        },
+        {
+          "title": "Executive Vice President: South Africa / Interim CEO",
+          "start_date": "May 2017",
+          "end_date": "2024"
         }
       ],
       "name_original": "Martin Preece"
+    },
+    {
+      "name": "Cheryl Carolus",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Cheryl Carolus has been a member of the Board since 2009. She has held various leadership positions in the public and private sectors in South Africa.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director / Chair",
+          "start_date": "2009",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ian Cockerill",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Ian Cockerill has over 45 years of experience in the global natural resources industry. He previously served as CEO of Gold Fields and Anglo Coal, and was a non-executive director of Endeavour since 2019 before being appointed CEO.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Managing Director and COO",
+          "start_date": "1999",
+          "end_date": "2002"
+        }
+      ]
+    },
+    {
+      "name": "John MacKenzie",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. MacKenzie has over 30 years of experience in the metals and mining industry. Prior to the business combination of Capstone Mining and Mantos Copper, he was the Executive Chairman of Mantos Copper. He previously served as CEO of Copper for Anglo American.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "August 1, 2025",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Philisiwe Sibiya",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Philisiwe Sibiya was appointed to the Board in 2019. She is the former CEO of MTN Cameroon.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Non-Executive Director",
+          "start_date": "2019-03-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Steven Reid",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Steven Reid has over 40 years of experience in the mining industry. He was formerly Chief Operating Officer of Goldcorp Inc. and has held senior positions at Placer Dome and BHP.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Non-Executive Director / Lead Independent Director",
+          "start_date": "2016",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Yunus Suleman",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Yunus Suleman was appointed to the Board in 2016 and became Chairperson in 2022. He is a Chartered Accountant and former Chairperson of KPMG South Africa.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Non-Executive Director (2016\u20132022), Chairperson (2022\u2013Present)",
+          "start_date": "2016-09-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Charl Keyter",
+      "age": 50,
+      "age_year": 2023,
+      "background": "Charl Keyter was appointed executive director and CFO of Sibanye-Stillwater on 1 January 2013. He has over 25 years of experience in the mining industry and previously held various senior financial roles at Gold Fields Limited.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Vice President and Group Head of International Finance",
+          "start_date": null,
+          "end_date": "2012"
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -66,6 +179,11 @@
         },
         {
           "role": "Independent Non-Executive Director",
+          "start_date": "2016-09-01",
+          "end_date": null
+        },
+        {
+          "title": "Independent Non-Executive Director (2016\u20132022), Chairperson (2022\u2013Present)",
           "start_date": "2016-09-01",
           "end_date": null
         }
@@ -87,6 +205,11 @@
           "role": "Independent Non-Executive Director",
           "start_date": "2009-03-10",
           "end_date": null
+        },
+        {
+          "title": "Director / Chair",
+          "start_date": "2009",
+          "end_date": null
         }
       ],
       "committees": [
@@ -105,6 +228,11 @@
         {
           "role": "Independent Non-Executive Director",
           "start_date": "2016-02-01",
+          "end_date": null
+        },
+        {
+          "title": "Independent Non-Executive Director / Lead Independent Director",
+          "start_date": "2016",
           "end_date": null
         }
       ],
@@ -126,6 +254,11 @@
           "role": "Independent Non-Executive Director",
           "start_date": "2019-03-01",
           "end_date": null
+        },
+        {
+          "title": "Independent Non-Executive Director",
+          "start_date": "2019-03-01",
+          "end_date": null
         }
       ],
       "committees": [
@@ -133,6 +266,48 @@
         "Risk Committee"
       ],
       "name_original": "Philisiwe Sibiya"
+    },
+    {
+      "name": "Ian Cockerill",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Ian Cockerill has over 45 years of experience in the global natural resources industry. He previously served as CEO of Gold Fields and Anglo Coal, and was a non-executive director of Endeavour since 2019 before being appointed CEO.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Managing Director and COO",
+          "start_date": "1999",
+          "end_date": "2002"
+        }
+      ]
+    },
+    {
+      "name": "John MacKenzie",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. MacKenzie has over 30 years of experience in the metals and mining industry. Prior to the business combination of Capstone Mining and Mantos Copper, he was the Executive Chairman of Mantos Copper. He previously served as CEO of Copper for Anglo American.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "August 1, 2025",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael Fraser",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Mike Fraser was appointed as CEO and Executive Director of Gold Fields effective 1 January 2024. Prior to joining Gold Fields, he was the CEO of Chaarat Gold Holdings and previously served as Chief Operating Officer at South32.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer and Executive Director",
+          "start_date": "January 1, 2024",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

@@ -5,8 +5,8 @@
   "age": 62,
   "age_year": 2024,
   "background": "Arvind Krishna is the Chairman and Chief Executive Officer of IBM. He was elected Chairman of the Board in December 2020 and CEO in April 2020. He was previously Senior Vice President, Cloud and Cognitive Software, and was a principal architect of the acquisition of Red Hat.",
-  "picture_url": null,
-  "picture_local": null,
+  "picture_url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAC4ALgMBIgACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAADBQYEAv/EADMQAAIBAwMBBQUHBQAAAAAAAAECAwAEEQUSITETIkFRoWFxgZHBFBVCYrHR8AYjM1JT/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwUBAgQA/8QAHREAAgMAAwEBAAAAAAAAAAAAAQIAAxESITFBBP/aAAwDAQACEQMRAD8AoJZZIXchELYyeCM+/mtUFzJ9/WEtxCm8RjIVu7g7fE+GOtZSriTOSQY8ZOPLzFaruAS39gwb+12QDEHqMLx/PKgbwBMHSpduMDrs9tNdzzJDIN3jFgoT6ZrFHdpJcSPbxGUtDHFtPd25JBz7s011lERCsQUKgyxZsUuWC3eGCe3cKxbv7WyGXxrPXY+nZvt/LWqavsOtzAiSbbZ328Fu044+FJ5JCmrTFYgoliR9pOcY4p7eLJJEYYi20gEHBOPlSfV4/sl9A7EndARkjHRqPXpHcWr7NwSOS4iPZROjJjB4zWu+tEURwxhYllUZKjhOBn1NakuLBGV9pPZjjLigazfWK2yPI+wA7FbcCBkdT7OKqV0HIegGtwzSV1Sz0u10oPNfMwaczAuhPaKvG0D/AF5z8M1xpsEX2CSKwvQ8UqAGQjjaTyACepBNc6/cxpZwxSXM8ckKbXjAbJ4xxyMD4UpttQOjRmByO2G09kVyY14IB/MR18gaiutm6EYWWBRstFunhtooxLMwyFwJME4+lL9eBazspyWJIYd45PU000a/0nVoESKV45Mf4WGGXzA8xRtU0pbmCGKKZcR/9OPP96Ii8D2IqRW3TEN7rmrWu1TIyO4JAAxx8qTzXtxe3Mb30kl1iRQFd+DkgYHlzRtWkM2pyqxJ7KNVGfaM/Wh6fEsmq2cR6G4T0bP6it9SBV37LFtlTKn3bJcXWoiC5kj3zCNkJaEseAPwjGcZ688YqEmiDF551zNM244OCWPNXn9ezYaHTo12q57WQj8Z8M+vpUDq8xitZJF4Y9xPy84NXVVUdCcWZvTCRuYgjQkKRyCOOntpsuv3s1sqNOpCnqyZY+tILy5S3WKBVOFj+oA9aJbqVXYTyCc++odFbozgSJ//2Q==",
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "International Business Machines Corporation",
@@ -33,9 +33,23 @@
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/arvindkrishna",
+      "person_name": "Arvind Krishna",
+      "company_name": "IBM",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

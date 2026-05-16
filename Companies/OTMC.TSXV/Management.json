@@ -39,6 +39,34 @@
         }
       ],
       "name_original": "Aris Morfopoulos"
+    },
+    {
+      "name": "Jack Bal",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. Bal has over 25 years of experience in the capital markets and has served as a director and officer of several public companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021-06-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Larry Segerstrom",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Segerstrom is a professional geologist with over 35 years of experience in the mining industry. He was formerly COO of Paramount Gold and Silver Corp. and has held senior positions with Freeport-McMoRan.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021-06-01",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -87,6 +115,11 @@
           "role": "Director",
           "start_date": "2021-06-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2021-06-01",
+          "end_date": null
         }
       ],
       "committees": [
@@ -103,6 +136,11 @@
       "tenure_dates": [
         {
           "role": "Director",
+          "start_date": "2021-06-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
           "start_date": "2021-06-01",
           "end_date": null
         }

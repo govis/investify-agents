@@ -16,6 +16,11 @@
           "title": "Director",
           "start_date": "2003-01-01",
           "end_date": null
+        },
+        {
+          "title": "Co-founder, Chief Executive Officer, and Director",
+          "start_date": "2003",
+          "end_date": null
         }
       ],
       "name_original": "Alexander C. Karp"
@@ -41,6 +46,11 @@
           "title": "Secretary",
           "start_date": "2003-01-01",
           "end_date": "2020-12-31"
+        },
+        {
+          "title": "Co-Founder, President, Secretary, and Director",
+          "start_date": "2003",
+          "end_date": null
         }
       ],
       "name_original": "Stephen Cohen"
@@ -96,9 +106,84 @@
           "title": "Chief Operating Officer",
           "start_date": "2010-01-01",
           "end_date": "2022-12-31"
+        },
+        {
+          "title": "Chief Technology Officer (CTO)",
+          "start_date": "2006",
+          "end_date": null
         }
       ],
       "name_original": "Shyam Sankar"
+    },
+    {
+      "name": "Alexander Moore",
+      "age": 40,
+      "age_year": 2024,
+      "background": "Mr. Moore has served as a member of our Board since 2020. He is a Partner at 8VC and was a co-founder of NodePrime. He was also one of the first employees at Palantir. Mr. Moore holds a B.A. in Economics from Stanford University.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "July 2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Dave Bernhardt",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Dave Bernhardt has served as our Chief Financial Officer since September 2020. Prior to joining SentinelOne, Mr. Bernhardt served as Vice President, Finance of Chegg, Inc. from 2012 to 2020. Previously, he served as Vice President, Finance and Corporate Controller of Palantir Technologies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Finance",
+          "start_date": "2009",
+          "end_date": "2013"
+        }
+      ]
+    },
+    {
+      "name": "Eric Woersching",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Mr. Woersching has served as a member of our Board since 2020. He is the Managing Partner of Evolute Capital and was previously a Portfolio Manager at Thiel Macro, LLC. Mr. Woersching holds a B.S. and M.S. in Electrical Engineering from Stanford University.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022-06-06",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Heather Planishek",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Ms. Planishek has served as a member of our Board since 2022. She was previously the Chief Accounting Officer of GoDaddy Inc. Ms. Planishek holds a B.S. in Accounting from the University of San Francisco.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Accounting Officer",
+          "start_date": "Prior to 2025",
+          "end_date": "2025"
+        }
+      ]
+    },
+    {
+      "name": "Lauren Friedman Stat",
+      "age": 41,
+      "age_year": 2024,
+      "background": "Ms. Stat has served as a member of our Board since 2020. She previously served in various roles at Accenture for 15 years, including as a Managing Director. Ms. Stat holds a B.S. in Science, Technology, and Society from Stanford University.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -111,6 +196,11 @@
       "tenure_dates": [
         {
           "role": "Chairman of the Board",
+          "start_date": "2003-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Chairman of the Board",
           "start_date": "2003-01-01",
           "end_date": null
         }
@@ -129,6 +219,11 @@
           "role": "Director",
           "start_date": "2003-01-01",
           "end_date": null
+        },
+        {
+          "title": "Co-founder, Chief Executive Officer, and Director",
+          "start_date": "2003",
+          "end_date": null
         }
       ],
       "committees": [],
@@ -145,6 +240,11 @@
           "role": "Director",
           "start_date": "2003-01-01",
           "end_date": null
+        },
+        {
+          "title": "Co-Founder, President, Secretary, and Director",
+          "start_date": "2003",
+          "end_date": null
         }
       ],
       "committees": [],
@@ -160,6 +260,11 @@
         {
           "role": "Director",
           "start_date": "2020-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "July 2020",
           "end_date": null
         }
       ],
@@ -179,6 +284,11 @@
           "role": "Director",
           "start_date": "2020-01-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2022-06-06",
+          "end_date": null
         }
       ],
       "committees": [
@@ -197,6 +307,11 @@
         {
           "role": "Director",
           "start_date": "2020-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "2021",
           "end_date": null
         }
       ],

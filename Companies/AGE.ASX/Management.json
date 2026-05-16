@@ -16,6 +16,11 @@
           "title": "Managing Director",
           "start_date": "2015-05-01",
           "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer, Managing Director",
+          "start_date": "2015-05-01",
+          "end_date": null
         }
       ],
       "name_original": "Greg Hall"
@@ -30,6 +35,11 @@
         {
           "title": "Chief Operating Officer",
           "start_date": "2024-02-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer & Managing Director",
+          "start_date": "2025-07-01",
           "end_date": null
         }
       ],
@@ -46,6 +56,11 @@
           "title": "Chief Development Officer",
           "start_date": "2024-02-01",
           "end_date": null
+        },
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2023",
+          "end_date": null
         }
       ],
       "name_original": "Simon Slesarewich"
@@ -61,9 +76,70 @@
           "title": "Company Secretary",
           "start_date": "2023-10-01",
           "end_date": null
+        },
+        {
+          "title": "Company Secretary",
+          "start_date": "2013",
+          "end_date": null
         }
       ],
       "name_original": "Andrea Betti"
+    },
+    {
+      "name": "Dan Lougher",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Lougher is a highly experienced mining executive with over 40 years of experience in the industry, including as CEO of Western Areas Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2025-12-15",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Fiona Nicholls",
+      "age": null,
+      "age_year": null,
+      "background": "Fiona Nicholls is an environmental scientist with over 30 years' experience in the resources sector, specifically in ESG, sustainability, and external relations. She held senior executive roles at Rio Tinto and has served on various government and industry advisory bodies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "April 13, 2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Paul Lloyd",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Paul Lloyd is a Chartered Accountant with over 30 years' experience in corporate finance and the resources industry. He has been involved in the listing of several exploration and mining companies on the ASX and has served as a director and chairman of various listed entities.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2012",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Peter Wasow",
+      "age": null,
+      "age_year": null,
+      "background": "Peter Wasow has over 30 years' experience in the resources and energy sectors. He was previously the Managing Director and CEO of Alumina Limited and held senior executive roles at Santos Limited and BHP. He has extensive experience in financial management, strategy, and corporate governance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -77,6 +153,11 @@
         {
           "role": "Non-Executive Chairman",
           "start_date": "2010-10-15",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2012",
           "end_date": null
         }
       ],
@@ -97,6 +178,11 @@
           "role": "Managing Director",
           "start_date": "2015-05-01",
           "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer, Managing Director",
+          "start_date": "2015-05-01",
+          "end_date": null
         }
       ],
       "committees": [],
@@ -112,6 +198,11 @@
         {
           "role": "Non-Executive Director",
           "start_date": "2020-05-01",
+          "end_date": null
+        },
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2021",
           "end_date": null
         }
       ],
@@ -132,6 +223,11 @@
           "role": "Non-Executive Director",
           "start_date": "2022-09-01",
           "end_date": null
+        },
+        {
+          "title": "Non-Executive Director",
+          "start_date": "April 13, 2023",
+          "end_date": null
         }
       ],
       "committees": [
@@ -139,6 +235,48 @@
         "Remuneration and Nomination Committee (Chair)"
       ],
       "name_original": "Fiona Nicholls"
+    },
+    {
+      "name": "Andrea Marsland-Smith",
+      "age": null,
+      "age_year": null,
+      "background": "Dr. Andrea Marsland-Smith is a geologist with over 20 years' experience in the uranium industry. She was previously the Head of Exploration for Heathgate Resources (owner of the Beverley Uranium Mine) and is credited with the discovery of the Four Mile uranium deposit in South Australia.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer & Managing Director",
+          "start_date": "2025-07-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Dan Lougher",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Lougher is a highly experienced mining executive with over 40 years of experience in the industry, including as CEO of Western Areas Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2025-12-15",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Simon Slesarewich",
+      "age": null,
+      "age_year": null,
+      "background": "Simon Slesarewich is a mining engineer with over 25 years' experience in the resources industry. He has held various executive and operational roles, including CEO of Northern Graphite and Boardwalk Resources. He has significant experience in project development and operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

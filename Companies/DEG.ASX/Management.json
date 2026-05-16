@@ -11,6 +11,11 @@
           "title": "Managing Director",
           "start_date": "2020-05-04",
           "end_date": null
+        },
+        {
+          "title": "Managing Director",
+          "start_date": "2020",
+          "end_date": "2024"
         }
       ],
       "name_original": "Glenn Jardine"
@@ -26,6 +31,11 @@
           "title": "Chief People Officer",
           "start_date": "2022-01-01",
           "end_date": null
+        },
+        {
+          "title": "General Manager Human Resources",
+          "start_date": null,
+          "end_date": null
         }
       ],
       "name_original": "Courtney Morgan-Evans"
@@ -40,6 +50,11 @@
         {
           "title": "Project Director",
           "start_date": "2021-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Project Director",
+          "start_date": null,
           "end_date": null
         }
       ],
@@ -59,6 +74,62 @@
         }
       ],
       "name_original": "Craig Jetson"
+    },
+    {
+      "name": "Emma Scotney",
+      "age": null,
+      "age_year": null,
+      "background": "Ms. Scotney is a lawyer and strategic business advisor with over 25 years' experience in the resources, agricultural, and property sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "January 2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Paul Harvey",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Harvey is a mining professional with over 35 years' experience in the resources sector, including senior executive roles at South32 and BHP.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "July 5, 2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Peter Hood AO",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Hood is a chemical engineer with over 50 years' experience in the resource and manufacturing sectors. He was previously CEO of Coogee Chemicals and GR Engineering Services.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Lead Independent Non-Executive Director",
+          "start_date": "19 November 2018",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Simon Lill",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Lill has over 35 years' experience in stockbroking, capital raising, management, and business development in the manufacturing and resources sectors. He has been a Director of several ASX listed companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Chairman / Non-Executive Chairman",
+          "start_date": "October 2013",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -72,6 +143,11 @@
         {
           "role": "Non-Executive Chairman",
           "start_date": "2013-10-03",
+          "end_date": null
+        },
+        {
+          "title": "Executive Chairman / Non-Executive Chairman",
+          "start_date": "October 2013",
           "end_date": null
         }
       ],
@@ -91,6 +167,11 @@
           "role": "Managing Director",
           "start_date": "2020-05-04",
           "end_date": null
+        },
+        {
+          "title": "Managing Director",
+          "start_date": "2020",
+          "end_date": "2024"
         }
       ],
       "committees": [],
@@ -106,6 +187,11 @@
         {
           "role": "Non-Executive Director",
           "start_date": "2018-11-19",
+          "end_date": null
+        },
+        {
+          "title": "Lead Independent Non-Executive Director",
+          "start_date": "19 November 2018",
           "end_date": null
         }
       ],
@@ -126,6 +212,11 @@
           "role": "Non-Executive Director",
           "start_date": "2022-07-04",
           "end_date": null
+        },
+        {
+          "title": "Non-Executive Director",
+          "start_date": "July 5, 2022",
+          "end_date": null
         }
       ],
       "committees": [
@@ -145,12 +236,31 @@
           "role": "Non-Executive Director",
           "start_date": "2023-01-09",
           "end_date": null
+        },
+        {
+          "title": "Non-Executive Director",
+          "start_date": "January 2023",
+          "end_date": null
         }
       ],
       "committees": [
         "Audit and Risk Committee"
       ],
       "name_original": "Emma Scotney"
+    },
+    {
+      "name": "Peter Holmes",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Holmes is a mining engineer with over 30 years' experience in the gold industry. He has held senior roles with Barrick Gold and Placer Dome, with significant experience in project studies and operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Project Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

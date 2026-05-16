@@ -11,6 +11,11 @@
           "title": "President and Chief Executive Officer",
           "start_date": "2023-08-01",
           "end_date": null
+        },
+        {
+          "title": "Director; Interim President and CEO",
+          "start_date": "June 2022",
+          "end_date": null
         }
       ],
       "name_original": "William L. Ballhaus"
@@ -25,6 +30,11 @@
         {
           "title": "Executive Vice President and Chief Financial Officer",
           "start_date": "2023-07-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2023-07-17",
           "end_date": null
         }
       ],
@@ -41,6 +51,11 @@
           "title": "Executive Vice President, General Counsel and Secretary",
           "start_date": "2016-01-01",
           "end_date": null
+        },
+        {
+          "title": "Executive Vice President, General Counsel & Secretary",
+          "start_date": "2016",
+          "end_date": null
         }
       ],
       "name_original": "Christopher C. Cambria"
@@ -56,9 +71,98 @@
           "title": "Senior Vice President and Chief Accounting Officer",
           "start_date": "2018-01-01",
           "end_date": null
+        },
+        {
+          "title": "Senior Vice President and Chief Accounting Officer (also served as Interim Chief Financial Officer from January 2023 to approximately mid-2023)",
+          "start_date": "2022",
+          "end_date": null
         }
       ],
       "name_original": "Michelle M. McCarthy"
+    },
+    {
+      "name": "Barry Nearhos",
+      "age": 68,
+      "age_year": 2023,
+      "background": "Mr. Nearhos was a partner at PricewaterhouseCoopers LLP for over 25 years. He has extensive experience in accounting, auditing, and financial reporting.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Gerard DeMuro",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Gerard J. DeMuro has served as a member of our Board since June 2021. Mr. DeMuro previously served as President and CEO of BAE Systems, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Linda Mills",
+      "age": 73,
+      "age_year": 2023,
+      "background": "Ms. Mills previously served as Corporate Vice President of Operations for Northrop Grumman Corporation. She has significant experience in large-scale systems integration and operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Lisa Disbrow",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Under Secretary of the Air Force. She has extensive experience in national security and defense.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Mark Aslett",
+      "age": 55,
+      "age_year": 2023,
+      "background": "Mr. Aslett served as our President and CEO from 2007 until 2023. He has a background in technology and defense, previously serving in leadership roles at Enterasys Networks and Marconi plc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Chief Executive Officer, and Director",
+          "start_date": "November 2007",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Orlando Carvalho",
+      "age": 65,
+      "age_year": 2023,
+      "background": "Mr. Carvalho previously served as Executive Vice President of Lockheed Martin's Aeronautics business area. He has over 38 years of experience in the aerospace and defense industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -73,6 +177,11 @@
           "role": "Director",
           "start_date": "2022-01-01",
           "end_date": null
+        },
+        {
+          "title": "Director; Interim President and CEO",
+          "start_date": "June 2022",
+          "end_date": null
         }
       ],
       "committees": [],
@@ -83,12 +192,17 @@
       "age": 55,
       "age_year": 2023,
       "background": "Mr. Aslett served as our President and CEO from 2007 until 2023. He has a background in technology and defense, previously serving in leadership roles at Enterasys Networks and Marconi plc.",
-      "verified_current": false,
+      "verified_current": true,
       "tenure_dates": [
         {
           "role": "Director",
           "start_date": "2007-01-01",
           "end_date": "2023-06-01"
+        },
+        {
+          "title": "President, Chief Executive Officer, and Director",
+          "start_date": "November 2007",
+          "end_date": null
         }
       ],
       "committees": [],
@@ -104,6 +218,11 @@
         {
           "role": "Independent Director",
           "start_date": "2018-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2018",
           "end_date": null
         }
       ],
@@ -124,6 +243,11 @@
           "role": "Independent Director",
           "start_date": "2018-01-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2022",
+          "end_date": null
         }
       ],
       "committees": [
@@ -143,6 +267,11 @@
           "role": "Independent Director",
           "start_date": "2020-01-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": null
         }
       ],
       "committees": [
@@ -150,6 +279,34 @@
         "Compensation Committee"
       ],
       "name_original": "Orlando P. Carvalho"
+    },
+    {
+      "name": "Gerard DeMuro",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Gerard J. DeMuro has served as a member of our Board since June 2021. Mr. DeMuro previously served as President and CEO of BAE Systems, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Lisa Disbrow",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Under Secretary of the Air Force. She has extensive experience in national security and defense.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

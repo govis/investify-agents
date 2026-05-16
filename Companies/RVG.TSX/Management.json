@@ -74,6 +74,34 @@
         }
       ],
       "name_original": "Adam Rochacewich"
+    },
+    {
+      "name": "Maura Lendon",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Ms. Lendon is a legal executive with over 30 years of experience. She was previously Chief General Counsel and Senior Vice President with Hudbay Minerals Inc. and held senior roles with Primero Mining Corp.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Wayne Hubert",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Hubert is a mining executive with over 30 years of experience. He was previously CEO of Andean Resources Ltd. and held senior roles with Meridian Gold Inc. He is currently Chairman of Cassiar Gold Corp. and a Director of Inmet Mining.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Chairman",
+          "start_date": "2017-01-01",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -86,6 +114,11 @@
       "tenure_dates": [
         {
           "role": "Non-Executive Chairman",
+          "start_date": "2017-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Non-Executive Chairman",
           "start_date": "2017-01-01",
           "end_date": null
         }
@@ -161,6 +194,11 @@
       "tenure_dates": [
         {
           "role": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
           "start_date": "2021-01-01",
           "end_date": null
         }

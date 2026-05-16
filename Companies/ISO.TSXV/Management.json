@@ -26,6 +26,11 @@
           "title": "Chief Financial Officer",
           "start_date": "2023-12-05",
           "end_date": null
+        },
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "March 2022",
+          "end_date": null
         }
       ],
       "name_original": "Graham du Preez"
@@ -56,6 +61,16 @@
           "title": "Executive Vice President, Corporate Development",
           "start_date": "2023-12-05",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2023",
+          "end_date": null
+        },
+        {
+          "title": "Corporate Development, Director, Executive Vice President",
+          "start_date": "2023-12-05",
+          "end_date": null
         }
       ],
       "name_original": "Peter J. Netupsky"
@@ -71,9 +86,75 @@
           "title": "Chief Operating Officer",
           "start_date": "2023-12-05",
           "end_date": null
+        },
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2023",
+          "end_date": null
         }
       ],
       "name_original": "Marty Tunney"
+    },
+    {
+      "name": "Christopher McFadden",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. McFadden is a lawyer with over 20 years of experience in the mining industry, currently serving as Chairman of NexGen Energy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "2016-02-02",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Leigh Curyer",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Curyer is the founder, President, and CEO of NexGen Energy Ltd. He has over 20 years of experience in the resources sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Richard Pattee",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Pattee has over 30 years of experience in the mining and finance industry. He has held senior roles in investment banking and corporate development.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2016-02-02",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Trevor Thiele",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Thiele has over 30 years of experience in senior financial roles. He was the CFO of several major Australian resource companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -86,6 +167,16 @@
       "tenure_dates": [
         {
           "role": "Chairman",
+          "start_date": "2016-02-02",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
+        },
+        {
+          "title": "Chairman",
           "start_date": "2016-02-02",
           "end_date": null
         }
@@ -107,6 +198,11 @@
           "role": "Director",
           "start_date": "2023-12-05",
           "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer and Director",
+          "start_date": "2023-12-05",
+          "end_date": null
         }
       ],
       "committees": [],
@@ -121,6 +217,11 @@
       "tenure_dates": [
         {
           "role": "Independent Director",
+          "start_date": "2016-02-02",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
           "start_date": "2016-02-02",
           "end_date": null
         }
@@ -143,6 +244,16 @@
           "role": "Independent Director",
           "start_date": "2016-02-02",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "2016-02-02",
+          "end_date": null
         }
       ],
       "committees": [
@@ -162,10 +273,48 @@
           "role": "Director",
           "start_date": "2023-12-05",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2023",
+          "end_date": null
+        },
+        {
+          "title": "Corporate Development, Director, Executive Vice President",
+          "start_date": "2023-12-05",
+          "end_date": null
         }
       ],
       "committees": [],
       "name_original": "Peter Netupsky"
+    },
+    {
+      "name": "Richard Patricio",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Mr. Patricio is the President and CEO of Mega Uranium Ltd. and has over 20 years of experience in the mining sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Trevor Thiele",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Thiele has over 30 years of experience in senior financial roles. He was the CFO of several major Australian resource companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

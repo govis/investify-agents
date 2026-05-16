@@ -11,6 +11,11 @@
           "title": "Chief Executive Officer",
           "start_date": "2023-11-09",
           "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer and Director",
+          "start_date": "November 2023",
+          "end_date": null
         }
       ],
       "name_original": "Badar Khan"
@@ -26,6 +31,11 @@
           "title": "Chief Financial Officer",
           "start_date": "2019-01-01",
           "end_date": null
+        },
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "August 2018",
+          "end_date": "May 31, 2024"
         }
       ],
       "name_original": "Olga Shevorenkova"
@@ -46,9 +56,84 @@
           "title": "Chief Operating Officer",
           "start_date": "2022-01-01",
           "end_date": "2023-11-09"
+        },
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "January 2022",
+          "end_date": "January 2024"
         }
       ],
       "name_original": "Dennis Kish"
+    },
+    {
+      "name": "David Gold",
+      "age": 54,
+      "age_year": 2024,
+      "background": "David Gold has served as a member of our Board since July 2021. Mr. Gold is a Managing Director at LS Power. Prior to joining LS Power, Mr. Gold was a partner at Perseus, L.L.C.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021-07-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth Comstock",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Elizabeth Comstock has served as a member of our Board since July 2021. Ms. Comstock previously served as Vice Chair of General Electric and as President of Integrated Media at NBC Universal.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Joseph Powell",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Joseph Powell has served as a member of our Board since July 2021. Mr. Powell is the former Chief Scientist of Shell and is a member of the National Academy of Engineering.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021-07-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Patricia Collawn",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Patricia K. Collawn has served as a member of our Board since July 2021. She is the Chairman and CEO of PNM Resources, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021-07-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Rodney Slater",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Rodney Slater has served as a member of our Board since July 2021. Mr. Slater served as the U.S. Secretary of Transportation from 1997 to 2001.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -61,6 +146,11 @@
       "tenure_dates": [
         {
           "role": "Director",
+          "start_date": "2021-07-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
           "start_date": "2021-07-01",
           "end_date": null
         }
@@ -81,6 +171,11 @@
           "role": "Director",
           "start_date": "2021-07-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
         }
       ],
       "committees": [
@@ -99,6 +194,11 @@
           "role": "Director",
           "start_date": "2021-07-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2021-07-01",
+          "end_date": null
         }
       ],
       "committees": [
@@ -115,6 +215,11 @@
       "tenure_dates": [
         {
           "role": "Director",
+          "start_date": "2021-07-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
           "start_date": "2021-07-01",
           "end_date": null
         }
@@ -136,12 +241,31 @@
           "role": "Director",
           "start_date": "2021-07-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
         }
       ],
       "committees": [
         "Nominating and Governance Committee"
       ],
       "name_original": "Rodney Slater"
+    },
+    {
+      "name": "Badar Khan",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Badar Khan has served as our Chief Executive Officer since November 2023. Prior to joining EVgo, Mr. Khan served as President of National Grid US from 2019 to 2022. He also served as a member of the National Grid plc executive committee. Prior to National Grid, Mr. Khan worked at Centrica plc for 14 years, including as Chief Executive Officer of Direct Energy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer and Director",
+          "start_date": "November 2023",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

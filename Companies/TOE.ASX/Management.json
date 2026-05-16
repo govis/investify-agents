@@ -11,6 +11,11 @@
           "title": "Executive Chairman",
           "start_date": "2013-12-01",
           "end_date": null
+        },
+        {
+          "title": "Executive Chairman",
+          "start_date": "2017",
+          "end_date": null
         }
       ],
       "name_original": "Richard Homsany"
@@ -31,9 +36,56 @@
           "title": "Company Secretary",
           "start_date": "2016-01-01",
           "end_date": null
+        },
+        {
+          "title": "Chief Financial Officer, Company Secretary",
+          "start_date": "2016-01-01",
+          "end_date": null
         }
       ],
       "name_original": "Katherine Irelan"
+    },
+    {
+      "name": "Michel Marier",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Mr Marier is a co-founder and partner of Integrated Asset Management (IAM). He has extensive experience in private equity and infrastructure investments. He previously held senior positions at Sentient Asset Management Canada.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2016",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Richard Patricio",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Mr. Patricio is the President and CEO of Mega Uranium Ltd. and has over 20 years of experience in the mining sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2006",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Vanessa Guthrie",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Dr. Vanessa Guthrie was appointed as a Non-Executive Director on 1 October 2020. She has over 30 years of experience in the mining and energy sectors and is a former CEO of Toro Energy Limited.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Managing Director",
+          "start_date": "2013",
+          "end_date": "2016"
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -47,6 +99,11 @@
         {
           "role": "Executive Chairman",
           "start_date": "2013-12-01",
+          "end_date": null
+        },
+        {
+          "title": "Executive Chairman",
+          "start_date": "2017",
           "end_date": null
         }
       ],
@@ -63,6 +120,11 @@
         {
           "role": "Non-Executive Director",
           "start_date": "2015-12-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2006",
           "end_date": null
         }
       ],
@@ -82,12 +144,31 @@
           "role": "Non-Executive Director",
           "start_date": "2015-12-22",
           "end_date": null
+        },
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2016",
+          "end_date": null
         }
       ],
       "committees": [
         "Audit and Risk Committee"
       ],
       "name_original": "Michel Marier"
+    },
+    {
+      "name": "Vanessa Guthrie",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Dr. Vanessa Guthrie was appointed as a Non-Executive Director on 1 October 2020. She has over 30 years of experience in the mining and energy sectors and is a former CEO of Toro Energy Limited.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Managing Director",
+          "start_date": "2013",
+          "end_date": "2016"
+        }
+      ]
     }
   ],
   "sources": [

@@ -11,6 +11,11 @@
           "title": "President and Chief Executive Officer",
           "start_date": "2024-01-01",
           "end_date": null
+        },
+        {
+          "title": "President, Chief Executive Officer, and Director",
+          "start_date": "January 2, 2024",
+          "end_date": null
         }
       ],
       "name_original": "Jason Attew"
@@ -74,6 +79,62 @@
         }
       ],
       "name_original": "Andr\u00e9 Le Bel"
+    },
+    {
+      "name": "Candace MacGibbon",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Ms. MacGibbon is a Chartered Professional Accountant with over 25 years of experience in the mining sector and capital markets.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2021-05-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Elif L\u00e9vesque",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Ms. L\u00e9vesque is a Chartered Professional Accountant with over 20 years of experience in finance and the mining industry. She was a founder of Nomad Royalty Company.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer and Vice President, Finance",
+          "start_date": "2014",
+          "end_date": "February 2020"
+        }
+      ]
+    },
+    {
+      "name": "Jacques Perron",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former President and CEO of Pretium Resources Inc. and Thompson Creek Metals Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "December 12, 2016",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "William McInnes",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. McInnes is a lawyer with over 35 years of experience in corporate and securities law, specifically in the mining sector.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2014-06-01",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -111,6 +172,11 @@
         {
           "role": "Director",
           "start_date": "2024-01-01",
+          "end_date": null
+        },
+        {
+          "title": "President, Chief Executive Officer, and Director",
+          "start_date": "January 2, 2024",
           "end_date": null
         }
       ],
@@ -166,6 +232,11 @@
           "role": "Independent Director",
           "start_date": "2021-05-01",
           "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "2021-05-01",
+          "end_date": null
         }
       ],
       "committees": [
@@ -183,6 +254,11 @@
       "tenure_dates": [
         {
           "role": "Independent Director",
+          "start_date": "2014-06-01",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
           "start_date": "2014-06-01",
           "end_date": null
         }
@@ -211,6 +287,20 @@
         "Environmental and Sustainability Committee"
       ],
       "name_original": "Pierre-S\u00e9bastien Thivierge"
+    },
+    {
+      "name": "Jacques Perron",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former President and CEO of Pretium Resources Inc. and Thompson Creek Metals Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "December 12, 2016",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

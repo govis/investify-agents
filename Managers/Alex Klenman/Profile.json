@@ -75,9 +75,16 @@
   "socials": [
     {
       "name": "LinkedIn",
-      "url": "https://ca.linkedin.com/in/ajklenman"
+      "url": "https://ca.linkedin.com/in/ajklenman",
+      "person_name": "Alex Klenman",
+      "company_name": "Azincourt Energy Corp.",
+      "profile_status": "success",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
   ],
   "committees": [],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

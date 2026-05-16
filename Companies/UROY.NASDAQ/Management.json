@@ -34,6 +34,20 @@
         }
       ],
       "name_original": "Josephine Man"
+    },
+    {
+      "name": "Vina Kim",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Ms. Kim is a lawyer with over 15 years of experience in corporate and securities law. She has served as legal counsel for several mining companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2019-10-01",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -47,6 +61,11 @@
         {
           "role": "Chairman",
           "start_date": "2017-08-01",
+          "end_date": null
+        },
+        {
+          "title": "Chairman",
+          "start_date": "2017",
           "end_date": null
         }
       ],
@@ -80,6 +99,11 @@
           "role": "Independent Director",
           "start_date": "2019-10-01",
           "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "2019-10-01",
+          "end_date": null
         }
       ],
       "committees": [
@@ -98,6 +122,11 @@
         {
           "role": "Independent Director",
           "start_date": "2021-10-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2021",
           "end_date": null
         }
       ],

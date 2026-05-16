@@ -81,9 +81,70 @@
           "title": "Chief Legal Officer",
           "start_date": "2013-01-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": null
         }
       ],
       "name_original": "Michael McCarthy"
+    },
+    {
+      "name": "Brad Buss",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Former CFO of SolarCity and Cypress Semiconductor. Director at Tesla and Advance Auto Parts.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2020-11-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "JB Straubel",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Co-founder and CEO of Redwood Materials. Co-founder and former CTO of Tesla.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "November 2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jeneanne Hanley",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Jeneanne Hanley was formerly the Senior Vice President and President of the E-Systems division at Lear Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Susan Hensey",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former Partner at McKinsey & Company with over 30 years of experience in manufacturing and supply chain.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2022-06-01",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -96,6 +157,11 @@
       "tenure_dates": [
         {
           "role": "Chairman of the Board",
+          "start_date": "2010-05-01",
+          "end_date": null
+        },
+        {
+          "title": "Chairman of the Board",
           "start_date": "2010-05-01",
           "end_date": null
         }
@@ -146,6 +212,11 @@
           "role": "Independent Director",
           "start_date": "2020-11-01",
           "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "2020-11-01",
+          "end_date": null
         }
       ],
       "committees": [
@@ -181,6 +252,11 @@
           "role": "Independent Director",
           "start_date": "2022-06-01",
           "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "2022-06-01",
+          "end_date": null
         }
       ],
       "committees": [
@@ -199,12 +275,45 @@
           "role": "Independent Director",
           "start_date": "2019-12-01",
           "end_date": null
+        },
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "November 2020",
+          "end_date": null
         }
       ],
       "committees": [
         "Compensation Committee"
       ],
       "name_original": "JB Straubel"
+    },
+    {
+      "name": "Jeneanne Hanley",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Jeneanne Hanley was formerly the Senior Vice President and President of the E-Systems division at Lear Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael McCarthy",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Mr. McCarthy has served as our Chief Legal Officer and Head of Corporate Development since 2013. Previously, he was General Counsel at Infinera Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

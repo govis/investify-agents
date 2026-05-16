@@ -11,6 +11,16 @@
           "title": "Chief Executive Officer",
           "start_date": "2023-01-01",
           "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer and Executive Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer, Executive Director",
+          "start_date": "2023-01-01",
+          "end_date": null
         }
       ],
       "name_original": "Tufan Erginbilgic"
@@ -26,9 +36,89 @@
           "title": "Chief Financial Officer",
           "start_date": "2023-09-01",
           "end_date": null
+        },
+        {
+          "title": "Chief Financial Officer, Executive Director",
+          "start_date": "2023-09-01",
+          "end_date": null
         }
       ],
       "name_original": "Helen McCabe"
+    },
+    {
+      "name": "Anita Frew",
+      "age": 66,
+      "age_year": 2023,
+      "background": "Anita Frew was appointed Chair of Rolls-Royce in October 2021. She has extensive experience as a chair and non-executive director across various sectors including chemicals, engineering, and finance. She is also Chair of Croda International Plc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chair",
+          "start_date": "2021-10-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Beverly Goulet",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Beverly joined the Board in July 2017. She has significant experience in the airline industry, having held senior roles at American Airlines, including Senior Vice President and Chief Integration Officer.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Non-Executive Director",
+          "start_date": "2017-07-03",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Dame Angela Strank",
+      "age": 71,
+      "age_year": 2023,
+      "background": "Dame Angela Strank joined the Board in 2020. She was previously Chief Scientist and Head of Downstream Technology at BP.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Non-Executive Director",
+          "start_date": "2020-05-01",
+          "end_date": null
+        },
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2020-05-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "George Culmer",
+      "age": 61,
+      "age_year": 2023,
+      "background": "George Culmer joined the Board in 2020. He was previously CFO of Lloyds Banking Group and RSA Insurance Group. He is also Chair of Aviva plc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "J\u00f8rgen Madsen Lindemann",
+      "age": 58,
+      "age_year": 2024,
+      "background": "J\u00f8rgen Madsen Lindemann is the CEO of SAS. He was previously the President and CEO of Modern Times Group (MTG).",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Non-Executive Director",
+          "start_date": "2022-03-01",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -66,6 +156,16 @@
           "role": "Executive Director",
           "start_date": "2023-01-01",
           "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer and Executive Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer, Executive Director",
+          "start_date": "2023-01-01",
+          "end_date": null
         }
       ],
       "committees": [],
@@ -80,6 +180,11 @@
       "tenure_dates": [
         {
           "role": "Executive Director",
+          "start_date": "2023-09-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Financial Officer, Executive Director",
           "start_date": "2023-09-01",
           "end_date": null
         }
@@ -117,6 +222,16 @@
           "role": "Independent Non-Executive Director",
           "start_date": "2020-05-01",
           "end_date": null
+        },
+        {
+          "title": "Independent Non-Executive Director",
+          "start_date": "2020-05-01",
+          "end_date": null
+        },
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2020-05-01",
+          "end_date": null
         }
       ],
       "committees": [
@@ -135,6 +250,11 @@
       "tenure_dates": [
         {
           "role": "Independent Non-Executive Director",
+          "start_date": "2022-03-01",
+          "end_date": null
+        },
+        {
+          "title": "Independent Non-Executive Director",
           "start_date": "2022-03-01",
           "end_date": null
         }
@@ -156,6 +276,11 @@
           "role": "Independent Non-Executive Director",
           "start_date": "2017-07-03",
           "end_date": null
+        },
+        {
+          "title": "Independent Non-Executive Director",
+          "start_date": "2017-07-03",
+          "end_date": null
         }
       ],
       "committees": [
@@ -163,6 +288,34 @@
         "Nominations & Governance Committee"
       ],
       "name_original": "Beverly Goulet"
+    },
+    {
+      "name": "George Culmer",
+      "age": 61,
+      "age_year": 2023,
+      "background": "George Culmer joined the Board in 2020. He was previously CFO of Lloyds Banking Group and RSA Insurance Group. He is also Chair of Aviva plc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Kevin Smith",
+      "age": 69,
+      "age_year": 2023,
+      "background": "Sir Kevin Smith joined the Board in 2015. He was previously CEO of GKN plc and has a deep background in the aerospace and automotive industries.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Independent Director",
+          "start_date": "2015-11-01",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

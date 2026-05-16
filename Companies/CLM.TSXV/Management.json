@@ -11,6 +11,11 @@
           "title": "Chief Executive Officer and President",
           "start_date": "2023-05-01",
           "end_date": null
+        },
+        {
+          "title": "Executive Chairman / CEO",
+          "start_date": "2023",
+          "end_date": null
         }
       ],
       "name_original": "Richard Quesnel"
@@ -25,6 +30,11 @@
         {
           "title": "Chief Financial Officer",
           "start_date": "2021-06-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2021",
           "end_date": null
         }
       ],
@@ -44,6 +54,62 @@
         }
       ],
       "name_original": "Roger S. Lemaitre"
+    },
+    {
+      "name": "Andreas Rompel",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Dr. Rompel has over 30 years of experience in the exploration and mining industry. He has held various senior positions with Anglo American and has extensive experience in project management and exploration across several continents. He holds a PhD in Geology from the University of the Witwatersrand.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director & Vice President-Exploration",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jean-Philippe Mai",
+      "age": 42,
+      "age_year": 2024,
+      "background": "Mr. Mai is a Professional Geologist with over 15 years of experience in the mining industry. He is currently the President and CEO of Kanadario Gold Inc. and has held senior positions with several other mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Louis-Pierre Gignac",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Mr. Gignac is the President and CEO of G Mining Ventures Corp. and has over 20 years of experience in the mining industry. He holds a degree in mining engineering from McGill University and an MBA from HEC Montreal.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Mark Morabito",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. Morabito is the Chairman and CEO of King & Bay West Management Corp. and has over 20 years of experience in the mining industry. He has been involved in the founding and development of several successful mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -57,6 +123,11 @@
         {
           "role": "Director",
           "start_date": "2023-05-01",
+          "end_date": null
+        },
+        {
+          "title": "Executive Chairman / CEO",
+          "start_date": "2023",
           "end_date": null
         }
       ],
@@ -73,6 +144,11 @@
         {
           "role": "Director",
           "start_date": "2022-11-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2021",
           "end_date": null
         }
       ],
@@ -92,6 +168,11 @@
           "role": "Director",
           "start_date": "2021-06-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
         }
       ],
       "committees": [
@@ -110,12 +191,31 @@
           "role": "Director",
           "start_date": "2021-06-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
         }
       ],
       "committees": [
         "Audit Committee"
       ],
       "name_original": "Jean-Philippe Mai"
+    },
+    {
+      "name": "Andreas Rompel",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Dr. Rompel has over 30 years of experience in the exploration and mining industry. He has held various senior positions with Anglo American and has extensive experience in project management and exploration across several continents. He holds a PhD in Geology from the University of the Witwatersrand.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director & Vice President-Exploration",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

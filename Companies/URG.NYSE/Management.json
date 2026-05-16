@@ -69,6 +69,20 @@
         }
       ],
       "name_original": "Penelope (Peni) Goff-Snyder"
+    },
+    {
+      "name": "William Boberg",
+      "age": 83,
+      "age_year": 2024,
+      "background": "Mr. Boberg is a co-founder of the Company and served as President and CEO from 2006 to 2011. He is a professional geologist with over 50 years of experience.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Former President, Chief Executive Officer, and Director",
+          "start_date": "2006",
+          "end_date": "2024"
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -115,6 +129,11 @@
           "role": "Director",
           "start_date": "2004-01-01",
           "end_date": null
+        },
+        {
+          "title": "Former President, Chief Executive Officer, and Director",
+          "start_date": "2006",
+          "end_date": "2024"
         }
       ],
       "committees": [
@@ -192,6 +211,11 @@
         {
           "role": "Independent Director",
           "start_date": "2022-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2018",
           "end_date": null
         }
       ],

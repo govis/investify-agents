@@ -11,6 +11,11 @@
           "title": "Chief Executive Officer",
           "start_date": "2022-06-01",
           "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer, Director",
+          "start_date": "2022-06-01",
+          "end_date": null
         }
       ],
       "name_original": "Dean Hanisch"
@@ -24,6 +29,11 @@
       "tenure_dates": [
         {
           "title": "Executive Chairman",
+          "start_date": "2022-06-01",
+          "end_date": null
+        },
+        {
+          "title": "Director, Executive Chairman",
           "start_date": "2022-06-01",
           "end_date": null
         }
@@ -44,6 +54,48 @@
         }
       ],
       "name_original": "Judith T. Mazvihwa-MacLean"
+    },
+    {
+      "name": "Don Birak",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Mr. Birak is a geologist with over 40 years of experience in the mining industry. He was previously Senior Vice President of Exploration with Coeur Mining, Inc. and held senior roles with AngloGold Ashanti and Homestake Mining Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2024-01-11",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Harry Burgess",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Burgess is a mining engineer with over 40 years of experience in the mining industry. He is a co-founder of Micon International Limited and has been involved in the evaluation and development of numerous mineral projects worldwide.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022-06-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jeffrey Goad",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Goad has over 25 years of experience in the financial services industry, specifically in the areas of corporate finance, mergers and acquisitions, and capital markets.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022-06-01",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -56,6 +108,11 @@
       "tenure_dates": [
         {
           "role": "Director",
+          "start_date": "2022-06-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer, Director",
           "start_date": "2022-06-01",
           "end_date": null
         }
@@ -74,6 +131,11 @@
           "role": "Director",
           "start_date": "2022-06-01",
           "end_date": null
+        },
+        {
+          "title": "Director, Executive Chairman",
+          "start_date": "2022-06-01",
+          "end_date": null
         }
       ],
       "committees": [],
@@ -88,6 +150,11 @@
       "tenure_dates": [
         {
           "role": "Director",
+          "start_date": "2022-06-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
           "start_date": "2022-06-01",
           "end_date": null
         }
@@ -108,12 +175,45 @@
           "role": "Director",
           "start_date": "2022-06-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2022-06-01",
+          "end_date": null
         }
       ],
       "committees": [
         "Audit Committee"
       ],
       "name_original": "Harry J. Burgess"
+    },
+    {
+      "name": "Don Birak",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Mr. Birak is a geologist with over 40 years of experience in the mining industry. He was previously Senior Vice President of Exploration with Coeur Mining, Inc. and held senior roles with AngloGold Ashanti and Homestake Mining Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2024-01-11",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Larry Segerstrom",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Segerstrom is a professional geologist with over 35 years of experience in the mining industry. He was formerly COO of Paramount Gold and Silver Corp. and has held senior positions with Freeport-McMoRan.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023-12-12",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

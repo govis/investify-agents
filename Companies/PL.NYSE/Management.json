@@ -11,6 +11,11 @@
           "title": "Chief Executive Officer",
           "start_date": "2010-12-01",
           "end_date": null
+        },
+        {
+          "title": "Co-Founder, Chief Executive Officer, and Chairperson of the Board",
+          "start_date": "2010",
+          "end_date": null
         }
       ],
       "name_original": "Will Marshall"
@@ -25,6 +30,11 @@
         {
           "title": "Chief Strategy Officer",
           "start_date": "2010-12-01",
+          "end_date": null
+        },
+        {
+          "title": "Co-Founder, Chief Strategy Officer, and Member of the Board of Directors",
+          "start_date": "2010",
           "end_date": null
         }
       ],
@@ -41,6 +51,11 @@
           "title": "Chief Financial Officer and Treasurer",
           "start_date": "2020-02-01",
           "end_date": null
+        },
+        {
+          "title": "President & Chief Financial Officer",
+          "start_date": "2015",
+          "end_date": null
         }
       ],
       "name_original": "Ashley Johnson"
@@ -56,9 +71,98 @@
           "title": "President, Product and Business",
           "start_date": "2021-05-01",
           "end_date": null
+        },
+        {
+          "title": "President of Product and Business",
+          "start_date": "2018",
+          "end_date": "2024"
         }
       ],
       "name_original": "Kevin Weil"
+    },
+    {
+      "name": "Carl Bass",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Bass has served as a member of our board of directors since December 2021. Mr. Bass served as the President and Chief Executive Officer of Autodesk, Inc. from 2006 to 2017.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Lead Independent Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Donald James",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Retired Chairman and CEO of Vulcan Materials Company.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "1997",
+          "end_date": "2006"
+        }
+      ]
+    },
+    {
+      "name": "Heidi Roizen",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Ms. Roizen has served as a member of our board of directors since December 2021. She is a Partner at Threshold Ventures.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "March 2018",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "John Johns",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Retired Chairman and CEO of Protective Life Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman, President, and CEO",
+          "start_date": "2002",
+          "end_date": "2017"
+        }
+      ]
+    },
+    {
+      "name": "Niccolo de Masi",
+      "age": 43,
+      "age_year": 2024,
+      "background": "Mr. de Masi has served as a member of our board of directors since December 2021. He was previously the CEO of dMY Technology Group, Inc. IV.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Vikas Parekh",
+      "age": 40,
+      "age_year": 2024,
+      "background": "Mr. Parekh has served as a member of our board of directors since December 2021. Mr. Parekh is a Managing Partner at SoftBank Investment Advisers.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -89,6 +193,11 @@
           "role": "Director",
           "start_date": "2010-12-01",
           "end_date": null
+        },
+        {
+          "title": "Co-Founder, Chief Strategy Officer, and Member of the Board of Directors",
+          "start_date": "2010",
+          "end_date": null
         }
       ],
       "committees": [],
@@ -104,6 +213,11 @@
         {
           "role": "Director",
           "start_date": "2021-12-01",
+          "end_date": null
+        },
+        {
+          "title": "Lead Independent Director",
+          "start_date": "2021",
           "end_date": null
         }
       ],
@@ -123,6 +237,11 @@
           "role": "Director",
           "start_date": "2021-12-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
         }
       ],
       "committees": [
@@ -140,6 +259,11 @@
         {
           "role": "Director",
           "start_date": "2021-12-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2021",
           "end_date": null
         }
       ],
@@ -159,12 +283,45 @@
           "role": "Director",
           "start_date": "2021-12-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "March 2018",
+          "end_date": null
         }
       ],
       "committees": [
         "Nominating and Corporate Governance Committee"
       ],
       "name_original": "Heidi Roizen"
+    },
+    {
+      "name": "Donald James",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Retired Chairman and CEO of Vulcan Materials Company.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "1997",
+          "end_date": "2006"
+        }
+      ]
+    },
+    {
+      "name": "John Johns",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Retired Chairman and CEO of Protective Life Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman, President, and CEO",
+          "start_date": "2002",
+          "end_date": "2017"
+        }
+      ]
     }
   ],
   "sources": [

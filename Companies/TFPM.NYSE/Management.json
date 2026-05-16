@@ -44,6 +44,62 @@
         }
       ],
       "name_original": "James Dendle"
+    },
+    {
+      "name": "Anthony Walsh",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Mr. Walsh is a Chartered Professional Accountant with extensive experience in the mining industry, including serving as President and CEO of Miramar Mining Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Dawn Whittaker",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Ms. Whittaker is a senior lawyer with over 30 years of experience in corporate law, mergers and acquisitions, and corporate governance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Chair of the Board",
+          "start_date": "Jan 2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Peter Cashin",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Peter Cashin is a geologist with over 35 years of experience in the mining industry. He was the President and CEO of Quest Rare Minerals Ltd. and has held positions with various exploration and mining companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2019-10-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Timothy Baker",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Timothy Baker has over 30 years of experience in the mining industry. He previously served as Executive Vice President and Chief Operating Officer of Kinross Gold Corporation and held various executive positions at Placer Dome.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "May 2021",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -93,6 +149,11 @@
           "role": "Independent Director",
           "start_date": "2019-10-01",
           "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "May 2021",
+          "end_date": null
         }
       ],
       "committees": [
@@ -110,6 +171,11 @@
       "tenure_dates": [
         {
           "role": "Independent Director",
+          "start_date": "2019-10-01",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
           "start_date": "2019-10-01",
           "end_date": null
         }
@@ -154,6 +220,20 @@
       ],
       "committees": [],
       "name_original": "Mark Cicirelli"
+    },
+    {
+      "name": "Anthony Walsh",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Mr. Walsh is a Chartered Professional Accountant with extensive experience in the mining industry, including serving as President and CEO of Miramar Mining Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

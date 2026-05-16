@@ -64,6 +64,62 @@
         }
       ],
       "name_original": "Curtis H. Moore"
+    },
+    {
+      "name": "Alex Morrison",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Morrison is a CPA with over 30 years of experience in the mining industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ben Fine",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Fine has extensive experience in the uranium industry and corporate finance.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "George Glasier",
+      "age": 77,
+      "age_year": 2024,
+      "background": "Mr. Glasier is the founder of the Company and has over 40 years of experience in the uranium industry. He was the founder of Energy Fuels Inc. and served as its President and CEO. He has extensive experience in uranium exploration, development, and marketing.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President, CEO & Director",
+          "start_date": "2006",
+          "end_date": "2010"
+        }
+      ]
+    },
+    {
+      "name": "Ivy Estabrooke",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Dr. Estabrooke has a background in science and technology policy and innovation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022-01-25",
+          "end_date": "2026-04-13"
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -76,6 +132,11 @@
       "tenure_dates": [
         {
           "role": "Chairman of the Board",
+          "start_date": "2006-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Chairman of the Board",
           "start_date": "2006-01-01",
           "end_date": null
         }
@@ -131,6 +192,11 @@
           "role": "Independent Director",
           "start_date": "2021-01-01",
           "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "2021-01-01",
+          "end_date": null
         }
       ],
       "committees": [
@@ -169,6 +235,11 @@
           "role": "Independent Director",
           "start_date": "2023-01-01",
           "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "2023-01-01",
+          "end_date": null
         }
       ],
       "committees": [
@@ -188,6 +259,11 @@
           "role": "Independent Director",
           "start_date": "2023-01-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2022-01-25",
+          "end_date": "2026-04-13"
         }
       ],
       "committees": [
@@ -195,6 +271,20 @@
         "Environment, Health and Safety Committee"
       ],
       "name_original": "Ivy S. Estabrooke"
+    },
+    {
+      "name": "George Glasier",
+      "age": 77,
+      "age_year": 2024,
+      "background": "Mr. Glasier is the founder of the Company and has over 40 years of experience in the uranium industry. He was the founder of Energy Fuels Inc. and served as its President and CEO. He has extensive experience in uranium exploration, development, and marketing.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President, CEO & Director",
+          "start_date": "2006",
+          "end_date": "2010"
+        }
+      ]
     }
   ],
   "sources": [

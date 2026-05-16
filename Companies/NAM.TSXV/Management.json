@@ -44,6 +44,62 @@
         }
       ],
       "name_original": "Aliya S. Barr"
+    },
+    {
+      "name": "Colin Bowdidge",
+      "age": 78,
+      "age_year": 2024,
+      "background": "Dr. Bowdidge is a professional geologist with over 50 years of experience in mineral exploration and management.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2010-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "John Londry",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Londry is a professional geologist with over 40 years of experience in the mining industry, including senior roles with major mining companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "VP Exploration (2004\u20132009); Director (2009\u20132025)",
+          "start_date": "2004",
+          "end_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Ron Stewart",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Stewart is a mining professional with over 30 years of experience in exploration, project development, and capital markets.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Pete Dasler",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Mr. Dasler is a Professional Geologist with over 40 years of experience in the mineral exploration and mining industry. He has served as a director and officer of several public mining companies and was the President and CEO of Canex Metals Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Business Development",
+          "start_date": "Unknown",
+          "end_date": "Unknown"
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -56,6 +112,11 @@
       "tenure_dates": [
         {
           "role": "Chairman",
+          "start_date": "1996-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Chairman and Chief Executive Officer",
           "start_date": "1996-01-01",
           "end_date": null
         }
@@ -72,6 +133,11 @@
       "tenure_dates": [
         {
           "role": "Independent Director",
+          "start_date": "2010-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
           "start_date": "2010-01-01",
           "end_date": null
         }
@@ -92,6 +158,11 @@
           "role": "Independent Director",
           "start_date": "2017-01-01",
           "end_date": null
+        },
+        {
+          "title": "VP Exploration (2004\u20132009); Director (2009\u20132025)",
+          "start_date": "2004",
+          "end_date": "2025-07"
         }
       ],
       "committees": [
@@ -109,6 +180,11 @@
         {
           "role": "Independent Director",
           "start_date": "2021-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": null,
           "end_date": null
         }
       ],

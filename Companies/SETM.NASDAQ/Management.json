@@ -11,6 +11,11 @@
           "title": "President",
           "start_date": "2018",
           "end_date": null
+        },
+        {
+          "title": "Officer (Sprott Asset Management, Manager of the ETF)",
+          "start_date": "2023",
+          "end_date": null
         }
       ],
       "name_original": "John Ciampaglia"
@@ -41,9 +46,56 @@
           "title": "Secretary and Chief Compliance Officer",
           "start_date": "2018",
           "end_date": null
+        },
+        {
+          "title": "Officer (Executive)",
+          "start_date": "2023",
+          "end_date": null
         }
       ],
       "name_original": "Thomas W. Ulrich"
+    },
+    {
+      "name": "Barbara Connolly Keady",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Director of New Business Development at Ceres Partners since 2010.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael Clark",
+      "age": 65,
+      "age_year": 2024,
+      "background": "President of B-Filer Inc. since 2012. Formerly Executive Vice President at Northern Trust.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Trustee",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Peyton Muldoon",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Licensed Real Estate Salesperson at Sotheby's International Realty since 2011.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Trustee",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -92,6 +144,11 @@
         {
           "role": "Independent Trustee",
           "start_date": "2018",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "2023",
           "end_date": null
         }
       ],

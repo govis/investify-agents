@@ -11,6 +11,11 @@
           "title": "Chief Executive Officer",
           "start_date": "2012-09-01",
           "end_date": null
+        },
+        {
+          "title": "Co-Founder, Executive Chairman (formerly CEO)",
+          "start_date": "2012",
+          "end_date": null
         }
       ],
       "name_original": "Peter Platzer"
@@ -46,6 +51,11 @@
           "title": "Executive Vice President, Corporate Development",
           "start_date": "2013-02-01",
           "end_date": "2022-01-01"
+        },
+        {
+          "title": "Member, Board of Directors",
+          "start_date": null,
+          "end_date": null
         }
       ],
       "name_original": "Theresa Condor"
@@ -61,9 +71,70 @@
           "title": "General Counsel",
           "start_date": "2021-01-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
         }
       ],
       "name_original": "Ananda Martin"
+    },
+    {
+      "name": "Dirk Hoke",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Hoke has served as a director since 2023. He is the CEO of Volocopter GmbH and was previously the CEO of Airbus Defence and Space.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michelle Kley",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Ms. Kley has served as a member of our board of directors since December 2022. She is the Executive Vice President, General Counsel and Secretary of Virgin Galactic Holdings, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Legal Officer & Secretary",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Stephen Johnson",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Johnson has served as a member of our board of directors since August 2021. He previously served as a director of NavSight from September 2020 until the closing of the Business Combination. He is currently the President and CEO of North Atlantic Capital.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021-08-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "William Porteous",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Porteous has served as a member of our board of directors since 2014. He is a General Partner at RRE Ventures.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director (Lead Independent Director)",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -77,6 +148,11 @@
         {
           "role": "Director",
           "start_date": "2012-09-01",
+          "end_date": null
+        },
+        {
+          "title": "Co-Founder, Executive Chairman (formerly CEO)",
+          "start_date": "2012",
           "end_date": null
         }
       ],
@@ -92,6 +168,11 @@
       "tenure_dates": [
         {
           "role": "Director",
+          "start_date": "2021-08-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
           "start_date": "2021-08-01",
           "end_date": null
         }
@@ -113,6 +194,11 @@
           "role": "Director",
           "start_date": "2021-11-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
         }
       ],
       "committees": [
@@ -130,6 +216,11 @@
         {
           "role": "Director",
           "start_date": "2014-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Director (Lead Independent Director)",
+          "start_date": "2021",
           "end_date": null
         }
       ],
@@ -156,6 +247,34 @@
         "Audit Committee"
       ],
       "name_original": "Michelle Kley"
+    },
+    {
+      "name": "Ananda Martin",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Ms. Martin has served as our General Counsel since January 2021. Prior to joining Spire, she was a partner at Paul Hastings LLP. She holds a B.A. from Yale University and a J.D. from Harvard Law School.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Theresa Condor",
+      "age": 43,
+      "age_year": 2024,
+      "background": "Ms. Condor has served as our Chief Operating Officer since January 2022 and previously served as our Executive Vice President, Corporate Development since February 2013. She holds a B.A. in International Studies from Seattle University and an M.I.A. from Columbia University.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

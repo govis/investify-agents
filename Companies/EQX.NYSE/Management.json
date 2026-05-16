@@ -79,6 +79,90 @@
         }
       ],
       "name_original": "Rhylin Bailie"
+    },
+    {
+      "name": "Blayne Johnson",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Mr. Johnson has over 30 years of experience in the capital markets and mining sector. He was a founder of Newmarket Gold and has been involved in numerous successful mining ventures.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2025-06-17",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Darren Hall",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Hall has over 35 years of experience in the mining industry. He was previously Chief Operating Officer of Kirkland Lake Gold and has held senior roles at Newmont Mining Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Operating Officer",
+          "start_date": "Prior to July 2025",
+          "end_date": "July 22, 2025"
+        }
+      ]
+    },
+    {
+      "name": "Douglas Forster",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Forster has over 35 years of experience in the mining industry. He was the President and CEO of Newmarket Gold and has served on several public company boards.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "June 2025",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Marshall Koval",
+      "age": 64,
+      "age_year": 2024,
+      "background": "CEO of Lumina Gold Corp. Over 35 years of experience in executive and technical roles in the mining industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2017-12-22",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Maryse B\u00e9langer",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Over 30 years of experience in the mining sector. Former President and CEO of Augusta Gold and COO of Atlantic Gold.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Neil Woodyer",
+      "age": 70,
+      "age_year": 2024,
+      "background": "CEO of Aris Mining. Founder and former CEO of Endeavour Mining and Leagold Mining.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2020-03-10",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -163,6 +247,11 @@
           "role": "Independent Director",
           "start_date": "2017-12-22",
           "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "2017-12-22",
+          "end_date": null
         }
       ],
       "committees": [
@@ -181,6 +270,11 @@
         {
           "role": "Independent Director",
           "start_date": "2022-05-04",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2019",
           "end_date": null
         }
       ],
@@ -201,6 +295,11 @@
           "role": "Independent Director",
           "start_date": "2020-03-10",
           "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "2020-03-10",
+          "end_date": null
         }
       ],
       "committees": [
@@ -208,6 +307,34 @@
         "Compensation Committee"
       ],
       "name_original": "Neil Woodyer"
+    },
+    {
+      "name": "Blayne Johnson",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Mr. Johnson has over 30 years of experience in the capital markets and mining sector. He was a founder of Newmarket Gold and has been involved in numerous successful mining ventures.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2025-06-17",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Douglas Forster",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Forster has over 35 years of experience in the mining industry. He was the President and CEO of Newmarket Gold and has served on several public company boards.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "June 2025",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

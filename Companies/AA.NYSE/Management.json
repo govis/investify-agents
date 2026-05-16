@@ -21,6 +21,11 @@
           "title": "Executive Vice President and Chief Financial Officer",
           "start_date": "2016-11-01",
           "end_date": "2023-01-31"
+        },
+        {
+          "title": "Various roles (Joined in 2000)",
+          "start_date": "2000",
+          "end_date": "2013"
         }
       ],
       "name_original": "William F. Oplinger"
@@ -41,6 +46,11 @@
           "title": "Senior Vice President and Controller",
           "start_date": "2019-12-01",
           "end_date": "2023-01-31"
+        },
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2016",
+          "end_date": null
         }
       ],
       "name_original": "Molly S. Beerman"
@@ -61,6 +71,16 @@
           "title": "Executive Vice President and Chief Strategy Officer",
           "start_date": "2022-02-01",
           "end_date": "2023-01-31"
+        },
+        {
+          "title": "Executive Vice President and Chief Strategy Officer",
+          "start_date": "2022",
+          "end_date": "July 31, 2023"
+        },
+        {
+          "title": "Corporate Controller and Treasurer (Various roles)",
+          "start_date": "1997",
+          "end_date": "2016"
         }
       ],
       "name_original": "Renato Bacchi"
@@ -76,9 +96,98 @@
           "title": "Executive Vice President and General Counsel",
           "start_date": "2023-01-01",
           "end_date": null
+        },
+        {
+          "title": "Executive Vice President and General Counsel",
+          "start_date": "September 2023",
+          "end_date": null
         }
       ],
       "name_original": "Andrew P. Hastings"
+    },
+    {
+      "name": "Carol Roberts",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former Senior Vice President and CFO of International Paper Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "James Nevels",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Founder and Chairman of The Swarthmore Group.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Leigh Ann Fisher",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Independent Director. Former executive at Alcoa Corp with extensive experience in human resources and operations.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Administrative Officer",
+          "start_date": "2016",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "Steven Williams",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Steven W. Williams is the Non-Executive Chairman of the Board. He is the former President and CEO of Suncor Energy Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Chairman, Director",
+          "start_date": "2023-05-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Thomas Gorman",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former CEO of Brambles Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-executive Chairman of the Board",
+          "start_date": "2025-05-08",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Timothy Flynn",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Retired Chairman of KPMG International.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "November 2016",
+          "end_date": "May 2021"
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -97,6 +206,11 @@
         {
           "role": "Director",
           "start_date": "2016-11-01",
+          "end_date": null
+        },
+        {
+          "title": "Non-Executive Chairman, Director",
+          "start_date": "2023-05-01",
           "end_date": null
         }
       ],
@@ -132,6 +246,11 @@
           "role": "Independent Director",
           "start_date": "2016-11-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
         }
       ],
       "committees": [
@@ -150,6 +269,11 @@
         {
           "role": "Independent Director",
           "start_date": "2016-11-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2016",
           "end_date": null
         }
       ],
@@ -170,6 +294,11 @@
           "role": "Independent Director",
           "start_date": "2017-05-01",
           "end_date": null
+        },
+        {
+          "title": "Non-executive Chairman of the Board",
+          "start_date": "2025-05-08",
+          "end_date": null
         }
       ],
       "committees": [
@@ -177,6 +306,20 @@
         "Safety, Sustainability and Public Issues Committee"
       ],
       "name_original": "Thomas J. Gorman"
+    },
+    {
+      "name": "Timothy Flynn",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Retired Chairman of KPMG International.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "November 2016",
+          "end_date": "May 2021"
+        }
+      ]
     }
   ],
   "sources": [

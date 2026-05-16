@@ -54,11 +54,18 @@
   "socials": [
     {
       "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/alex-gorsky"
+      "url": "https://www.linkedin.com/in/alex-gorsky",
+      "person_name": "Alex Gorsky",
+      "company_name": "Johnson & Johnson",
+      "profile_status": "success",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/D5603AQF4sJkS000000/profile-displayphoto-shrink_200_200/0/1715000000000/alex_gorsky_profile.jpg",
+      "picture_url_li_search": null
     }
   ],
   "committees": [
     "Audit and Finance Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

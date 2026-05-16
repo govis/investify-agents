@@ -49,6 +49,104 @@
         }
       ],
       "name_original": "Attie Roux"
+    },
+    {
+      "name": "Andrea Hall",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Ms. Hall is a Chartered Accountant with over 30 years\u2019 experience in the financial services and mining sectors. She was a partner at KPMG for 12 years.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "October 2017",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jake Klein",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Klein was the founding Executive Chairman of Evolution Mining. He has over 25 years\u2019 experience in the mining industry. He was previously President and CEO of Sino Gold Mining Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Chairman",
+          "start_date": "2025-07",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "James Askew",
+      "age": 76,
+      "age_year": 2023,
+      "background": "James Askew is a mining engineer with over 40 years of experience in the resources industry. He has served as a director and executive for numerous international mining companies and has extensive experience in technical and corporate management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Founding Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jason Attew",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Attew is a mining industry executive with over 25 years of experience in investment banking and corporate strategy. He was previously CFO of Goldcorp Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jim Askew",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Mr. Askew is a mining engineer with over 40 years\u2019 experience as a Director and Chief Executive Officer of Australian and international publicly listed mining companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2011-10-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Peter Smith",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Smith is a senior mining executive with over 40 years\u2019 experience in the resources sector, including senior roles at Rio Tinto and Kazzinc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2020-04-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Vicky Binns",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Ms. Binns has over 35 years\u2019 experience in the global resources and financial services sectors, including 10 years at BHP in senior executive roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "March 2020",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -62,6 +160,11 @@
         {
           "role": "Executive Chair",
           "start_date": "2011-10-01",
+          "end_date": null
+        },
+        {
+          "title": "Non-Executive Chairman",
+          "start_date": "2025-07",
           "end_date": null
         }
       ],
@@ -77,6 +180,11 @@
       "tenure_dates": [
         {
           "role": "Non-Executive Director",
+          "start_date": "2011-10-01",
+          "end_date": null
+        },
+        {
+          "title": "Non-Executive Director",
           "start_date": "2011-10-01",
           "end_date": null
         }
@@ -98,6 +206,11 @@
           "role": "Non-Executive Director",
           "start_date": "2017-10-01",
           "end_date": null
+        },
+        {
+          "title": "Non-Executive Director",
+          "start_date": "October 2017",
+          "end_date": null
         }
       ],
       "committees": [
@@ -117,6 +230,11 @@
           "role": "Non-Executive Director",
           "start_date": "2019-12-01",
           "end_date": null
+        },
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2020",
+          "end_date": null
         }
       ],
       "committees": [
@@ -134,6 +252,11 @@
       "tenure_dates": [
         {
           "role": "Non-Executive Director",
+          "start_date": "2020-04-01",
+          "end_date": null
+        },
+        {
+          "title": "Non-Executive Director",
           "start_date": "2020-04-01",
           "end_date": null
         }
@@ -155,6 +278,11 @@
           "role": "Non-Executive Director",
           "start_date": "2020-04-01",
           "end_date": null
+        },
+        {
+          "title": "Non-Executive Director",
+          "start_date": "March 2020",
+          "end_date": null
         }
       ],
       "committees": [
@@ -162,6 +290,34 @@
         "Nomination and Remuneration Committee (Chair)"
       ],
       "name_original": "Vicky Binns"
+    },
+    {
+      "name": "James Askew",
+      "age": 76,
+      "age_year": 2023,
+      "background": "James Askew is a mining engineer with over 40 years of experience in the resources industry. He has served as a director and executive for numerous international mining companies and has extensive experience in technical and corporate management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Founding Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Lawrie Conway",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Conway was appointed as Chief Executive Officer and Managing Director on 1 January 2023. He was previously Finance Director and Chief Financial Officer since 2014. He has more than 30 years\u2019 experience in the resources sector across a diverse range of commercial, financial and operational activities.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer and Managing Director",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

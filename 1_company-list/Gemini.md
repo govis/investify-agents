@@ -8,11 +8,7 @@ Identify and create a comprehensive list of publicly traded companies mentioned 
 - **Format:** Markdown files.
 - **Thematic Scope:** AI, Defense, Electrification, Gold, Nuclear, Reshoring.
 
-## Output Requirements
-1.  **Consolidated Data:** `../CompanyList.json`.
-2.  **Hyperlinked Markdown:** `../ThesesWithLinks/` containing updated markdown files with company mentions formatted as `[Company Name](/company/TICKER.EXCHANGE)`.
-
-## Processing Logic (Dynamic SDK Pipeline)
+## Phase 1: Dynamic SDK Extraction Pipeline
 The pipeline is optimized for maximum reliability and throughput by communicating directly with LLM providers using dynamic throttling:
 
 1.  **Dynamic Rate Limiting (RPM):** Uses an asynchronous sliding window rate limiter based on the `LLM_RPM` parameter in `.env`. The script dynamically pauses only when the request limit within a rolling 60-second window is reached.
@@ -24,6 +20,27 @@ The pipeline is optimized for maximum reliability and throughput by communicatin
     *   **Double-Link Prevention:** Uses a single-pass regex to ensure that in patterns like `Name (Ticker)`, only the name is hyperlinked.
     *   **Nested Link Prevention:** Prevents hyperlinking text that is already part of a markdown link.
     *   **Exchange Filter:** Respects the `EXCHANGE_FILTER` setting.
+
+**Outputs:**
+*   **Consolidated Data:** `../CompanyList.json`.
+*   **Hyperlinked Markdown:** `../ThesesWithLinks/` containing updated markdown files with company mentions formatted as `[Company Name](/company/TICKER.EXCHANGE)`.
+
+## Phase 2: Company and Management Synchronization
+The `create_companies_from_affiliations.py` script synchronizes company and management data from manager profiles to expand the company list and build management profiles.
+
+1.  **Affiliation Processing:** Iterates over `Profile.json` files in `../Managers/` subfolders.
+2.  **Exchange Filtering:** Filters affiliations based on approved exchanges: `NYSE`, `NASDAQ`, `TSX`, `TSXV`, `CSE`, `OTC`, `ASX`, `LSE`.
+3.  **Data Normalization:**
+    *   Splits multi-ticker (e.g., `GBIX / GEX`) and multi-exchange records.
+    *   Sanitizes tickers by removing prefixes (e.g., `TSXV: `).
+4.  **Company List Update:** Automatically adds new companies to `../CompanyList.json` (search by ticker and exchange).
+5.  **Company Profile Initialization:**
+    *   Creates `../Companies/TICKER.EXCHANGE/` directories.
+    *   Generates `Profile.json` with `origin: "manager_affiliation"` and `enrichment: "pending"`.
+6.  **Management Profile Updates:**
+    *   Initializes/updates `Management.json` with `executives` and `board_of_directors` sections.
+    *   Categorizes roles based on job title heuristics (e.g., "Director" or "Chairman" for board roles; "CEO", "CFO", "President" for executive roles).
+    *   Populates `tenure_dates` and verifies current status based on validation and end-date fields.
 
 ## Environment Requirements
 - **Python Version:** Python 3.13+ (Fully compatible with Python 3.14).

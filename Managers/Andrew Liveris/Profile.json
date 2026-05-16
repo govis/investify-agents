@@ -81,9 +81,21 @@
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andrewnliveris/",
+      "person_name": "Andrew N. Liveris AO",
+      "company_name": "Lucid Motors",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C4E03AQGz5cO5G_x-0Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1628174780517?e=2147483647&v=beta&t=4G09iO0T4zQyD7z05eS4Q_G37i2ZpWqI3_nI_Q_2mYk",
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

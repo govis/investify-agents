@@ -44,6 +44,34 @@
         }
       ],
       "name_original": "Nicole G.S. Brewster"
+    },
+    {
+      "name": "Darwin Green",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Mr. Green is the President and CEO of HighGold Mining Inc. He has over 25 years of experience in the mining industry, specializing in exploration and project development.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Chairman",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael Gray",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Gray is a co-founder of Agentis Capital Mining Partners and has over 30 years of experience in the mining sector, including equity research and corporate development.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023-06-01",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -56,6 +84,11 @@
       "tenure_dates": [
         {
           "role": "Executive Chairman",
+          "start_date": "2023-06-01",
+          "end_date": null
+        },
+        {
+          "title": "Executive Chairman",
           "start_date": "2023-06-01",
           "end_date": null
         }
@@ -108,6 +141,11 @@
       "tenure_dates": [
         {
           "role": "Director",
+          "start_date": "2023-06-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
           "start_date": "2023-06-01",
           "end_date": null
         }

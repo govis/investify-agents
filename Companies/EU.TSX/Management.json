@@ -31,6 +31,16 @@
           "title": "Director",
           "start_date": "2020-10-01",
           "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer, Director",
+          "start_date": "2020-10-01",
+          "end_date": null
+        },
+        {
+          "title": "CEO and Director",
+          "start_date": "2020",
+          "end_date": null
         }
       ],
       "name_original": "Paul Goranson"
@@ -61,9 +71,70 @@
           "title": "Chief Operating Officer",
           "start_date": "2022-03-01",
           "end_date": null
+        },
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "April 2022",
+          "end_date": null
         }
       ],
       "name_original": "Peter Luthiger"
+    },
+    {
+      "name": "Jon Winter",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Winter has over 30 years of experience in the uranium industry, specifically in ISR operations. He has held senior management positions with Uranium One and Power Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Manager, Permitting & Regulatory Affairs",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Mark Pelizza",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Pelizza has over 40 years of experience in the uranium industry, specifically in ISR uranium production and licensing.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2017-02-15",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Richard Cherry",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Mr. Cherry is a veteran executive in the nuclear industry, having served as President and CEO of Cotter Corporation and as a Vice President of General Atomics.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2014-10-30",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Bill Sheriff",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Sheriff is a seasoned mining executive with over 30 years of experience. He was the founder and Chairman of Energy Metals Corp. and has held numerous board positions in the uranium sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Chairman",
+          "start_date": "2011",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -76,6 +147,11 @@
       "tenure_dates": [
         {
           "role": "Executive Chairman",
+          "start_date": "2014-10-30",
+          "end_date": null
+        },
+        {
+          "title": "Executive Chairman",
           "start_date": "2014-10-30",
           "end_date": null
         }
@@ -94,6 +170,16 @@
           "role": "Director",
           "start_date": "2020-10-01",
           "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer, Director",
+          "start_date": "2020-10-01",
+          "end_date": null
+        },
+        {
+          "title": "CEO and Director",
+          "start_date": "2020",
+          "end_date": null
         }
       ],
       "committees": [],
@@ -108,6 +194,11 @@
       "tenure_dates": [
         {
           "role": "Independent Director",
+          "start_date": "2014-10-30",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
           "start_date": "2014-10-30",
           "end_date": null
         }
@@ -129,6 +220,11 @@
           "role": "Independent Director",
           "start_date": "2017-02-15",
           "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "2017-02-15",
+          "end_date": null
         }
       ],
       "committees": [
@@ -148,6 +244,11 @@
           "role": "Independent Director",
           "start_date": "2023-06-21",
           "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "2022-06-01",
+          "end_date": null
         }
       ],
       "committees": [
@@ -155,6 +256,34 @@
         "Governance and Nominating Committee"
       ],
       "name_original": "Susan Hoxie-Key"
+    },
+    {
+      "name": "Bill Sheriff",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Sheriff is a seasoned mining executive with over 30 years of experience. He was the founder and Chairman of Energy Metals Corp. and has held numerous board positions in the uranium sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Chairman",
+          "start_date": "2011",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Susan Mackenzie",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Ms. Mackenzie is a professional engineer with over 30 years of experience in the energy sector, including senior roles at Petro-Canada.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

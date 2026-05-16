@@ -29,6 +29,20 @@
         }
       ],
       "name_original": "Jack J. Kerin"
+    },
+    {
+      "name": "Brad Juneau",
+      "age": 64,
+      "age_year": 2023,
+      "background": "Mr. Juneau has served as Executive Chairman of the Board since January 2020 and was previously our President and CEO. He is the sole manager of Juneau Exploration, L.P.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Chairman, Director",
+          "start_date": "2020-01-01",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -47,6 +61,11 @@
         {
           "role": "Director",
           "start_date": "2010-09-01",
+          "end_date": null
+        },
+        {
+          "title": "Executive Chairman, Director",
+          "start_date": "2020-01-01",
           "end_date": null
         }
       ],

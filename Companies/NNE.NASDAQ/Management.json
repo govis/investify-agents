@@ -26,6 +26,11 @@
           "title": "Chief Executive Officer and Director",
           "start_date": "2022-04-01",
           "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer and Director",
+          "start_date": "2022",
+          "end_date": null
         }
       ],
       "name_original": "James Walker"
@@ -41,9 +46,42 @@
           "title": "Chief Financial Officer",
           "start_date": "2023-01-01",
           "end_date": null
+        },
+        {
+          "title": "Chief Policy Officer and Director",
+          "start_date": "May 2023",
+          "end_date": null
         }
       ],
       "name_original": "Winston Chow"
+    },
+    {
+      "name": "Lassina Zerbo",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Dr. Zerbo is the former Executive Secretary of the Comprehensive Nuclear-Test-Ban Treaty Organization (CTBTO) and has served as the Prime Minister of Burkina Faso. He is a renowned expert in nuclear non-proliferation and international diplomacy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman of the Executive Advisory Board for Africa",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Robert Hill",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Hill has over 40 years of experience in the nuclear industry, including senior leadership roles at major nuclear engineering firms. He is an expert in nuclear reactor design and safety.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2023-05-01",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -56,6 +94,11 @@
       "tenure_dates": [
         {
           "role": "Executive Chairman",
+          "start_date": "2022-04-01",
+          "end_date": null
+        },
+        {
+          "title": "Founder and Executive Chairman",
           "start_date": "2022-04-01",
           "end_date": null
         }
@@ -74,6 +117,11 @@
           "role": "Director",
           "start_date": "2022-04-01",
           "end_date": null
+        },
+        {
+          "title": "Chief Executive Officer and Director",
+          "start_date": "2022",
+          "end_date": null
         }
       ],
       "committees": [],
@@ -89,6 +137,11 @@
         {
           "role": "Independent Director",
           "start_date": "2023-05-01",
+          "end_date": null
+        },
+        {
+          "title": "Chairman of the Executive Advisory Board for Africa",
+          "start_date": "2024",
           "end_date": null
         }
       ],
@@ -109,6 +162,11 @@
           "role": "Independent Director",
           "start_date": "2023-05-01",
           "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "2023-05-01",
+          "end_date": null
         }
       ],
       "committees": [
@@ -116,6 +174,20 @@
         "Nominating and Corporate Governance Committee"
       ],
       "name_original": "Robert S. Hill"
+    },
+    {
+      "name": "Winston Chow",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Chow is the Chief Financial Officer of NANO Nuclear Energy Inc. He has over 25 years of experience in finance and accounting, including roles as CFO and Controller for several public and private companies. He is a Certified Public Accountant.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Policy Officer and Director",
+          "start_date": "May 2023",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

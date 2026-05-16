@@ -11,6 +11,11 @@
           "title": "Managing Director and Chief Executive Officer",
           "start_date": "2017-01-09",
           "end_date": null
+        },
+        {
+          "title": "Managing Director & Chief Executive Officer",
+          "start_date": "August 2017",
+          "end_date": null
         }
       ],
       "name_original": "Duncan Craib"
@@ -56,9 +61,84 @@
           "title": "Chief Financial Officer and Company Secretary",
           "start_date": "2023-01-01",
           "end_date": null
+        },
+        {
+          "title": "Company Secretary",
+          "start_date": "2019",
+          "end_date": "2022"
         }
       ],
       "name_original": "Mathew O'Hara"
+    },
+    {
+      "name": "Bryn Jones",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Mr. Jones is an industrial chemist with over 20 years\u2019 experience in the mining industry, specifically in uranium. He is also a director of several other ASX-listed companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2019-09-18",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Dudley Kingsnorth",
+      "age": null,
+      "age_year": null,
+      "background": "Professor Kingsnorth is a metallurgist with over 50 years of experience in the international mining industry. He is a globally recognized expert in the rare earths industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2020",
+          "end_date": "2021"
+        }
+      ]
+    },
+    {
+      "name": "Grant Davey",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Davey is a mining engineer with over 30 years' experience in the mining industry. He has been involved in the development and operation of several mining projects in Africa and Australia.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jan Honeyman",
+      "age": null,
+      "age_year": null,
+      "background": "Ms. Honeyman is a senior mining executive with over 30 years\u2019 experience in the mining industry. She has held senior roles with several major global companies including Rio Tinto and Shell.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "Not publicly disclosed",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Wyatt Buck",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Buck is a mining executive with over 35 years\u2019 experience in the mining industry, specifically in uranium. He held senior roles at Cameco Corporation, including General Manager of the McArthur River uranium mine.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Chairman",
+          "start_date": "2023-03-30",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -72,6 +152,11 @@
         {
           "role": "Non-Executive Chairman",
           "start_date": "2021-11-01",
+          "end_date": null
+        },
+        {
+          "title": "Non-Executive Chairman",
+          "start_date": "2023-03-30",
           "end_date": null
         }
       ],
@@ -92,6 +177,11 @@
           "role": "Managing Director",
           "start_date": "2017-01-09",
           "end_date": null
+        },
+        {
+          "title": "Managing Director & Chief Executive Officer",
+          "start_date": "August 2017",
+          "end_date": null
         }
       ],
       "committees": [],
@@ -106,6 +196,11 @@
       "tenure_dates": [
         {
           "role": "Non-Executive Director",
+          "start_date": "2019-09-18",
+          "end_date": null
+        },
+        {
+          "title": "Non-Executive Director",
           "start_date": "2019-09-18",
           "end_date": null
         }
@@ -127,6 +222,11 @@
           "role": "Non-Executive Director",
           "start_date": "2023-01-01",
           "end_date": null
+        },
+        {
+          "title": "Non-Executive Director",
+          "start_date": "Not publicly disclosed",
+          "end_date": null
         }
       ],
       "committees": [
@@ -134,6 +234,34 @@
         "Remuneration and Nomination Committee"
       ],
       "name_original": "Janice (Jan) Honeyman"
+    },
+    {
+      "name": "Dudley Kingsnorth",
+      "age": null,
+      "age_year": null,
+      "background": "Professor Kingsnorth is a metallurgist with over 50 years of experience in the international mining industry. He is a globally recognized expert in the rare earths industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2020",
+          "end_date": "2021"
+        }
+      ]
+    },
+    {
+      "name": "Grant Davey",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Davey is a mining engineer with over 30 years' experience in the mining industry. He has been involved in the development and operation of several mining projects in Africa and Australia.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

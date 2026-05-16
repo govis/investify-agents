@@ -59,6 +59,20 @@
         }
       ],
       "name_original": "Cliff Revering"
+    },
+    {
+      "name": "Sean Harquail",
+      "age": 41,
+      "age_year": 2024,
+      "background": "Mr. Harquail has over 15 years of experience in the mining and finance industries. He is currently a Managing Director at a private investment firm and has served on the boards of several public companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2023-01-12",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -122,6 +136,11 @@
       "tenure_dates": [
         {
           "role": "Independent Director",
+          "start_date": "2023-01-12",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
           "start_date": "2023-01-12",
           "end_date": null
         }

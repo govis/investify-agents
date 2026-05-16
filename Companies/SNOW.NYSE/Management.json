@@ -16,6 +16,11 @@
           "title": "Senior Vice President, AI",
           "start_date": "2023-05-01",
           "end_date": "2024-02-28"
+        },
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "February 2024",
+          "end_date": null
         }
       ],
       "name_original": "Sridhar Ramaswamy"
@@ -30,6 +35,11 @@
         {
           "title": "Chief Financial Officer",
           "start_date": "2019-08-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "August 2019",
           "end_date": null
         }
       ],
@@ -51,6 +61,11 @@
           "title": "Chief Technology Officer",
           "start_date": "2012-01-01",
           "end_date": "2019-07-01"
+        },
+        {
+          "title": "Co-Founder, President of Product, and Director",
+          "start_date": "2012",
+          "end_date": null
         }
       ],
       "name_original": "Benoit Dageville"
@@ -71,6 +86,11 @@
           "title": "Senior Vice President, Product Management",
           "start_date": "2017-01-01",
           "end_date": "2024-04-01"
+        },
+        {
+          "title": "Executive Vice President, Product Management",
+          "start_date": "2015",
+          "end_date": null
         }
       ],
       "name_original": "Christian Kleinerman"
@@ -91,9 +111,126 @@
           "title": "Senior Vice President, Engineering",
           "start_date": "2019-01-01",
           "end_date": "2024-04-01"
+        },
+        {
+          "title": "Executive Vice President, Engineering and Support",
+          "start_date": "2019",
+          "end_date": "July 19, 2024"
         }
       ],
       "name_original": "Grzegorz Czajkowski"
+    },
+    {
+      "name": "Frank Slootman",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Frank Slootman has served as Chairman of our board of directors since 2019. He served as our Chief Executive Officer from 2019 to February 2024. Previously, he was Chairman and CEO of ServiceNow and Data Domain.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "CEO and Chairman of the Board",
+          "start_date": "2019-05-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jayshree Ullal",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Jayshree Ullal has served as our President and Chief Executive Officer and a member of our board of directors since October 2008. Prior to joining Arista, Ms. Ullal was Senior Vice President at Cisco Systems, Inc., where she was responsible for the data center, switching and services business. Ms. Ullal holds a B.S. in Engineering (Electrical) from San Francisco State University and an M.S. in Engineering Management from Santa Clara University.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Kelly Kramer",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Former EVP and CFO of Cisco Systems, Inc. Former executive at GE.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Mark Garrett",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Executive Vice President and CFO of Adobe Systems Incorporated.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2018-05-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Mark McLaughlin",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Palo Alto Networks. Former CEO of Verisign.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael Speiser",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Speiser has served as a member of our Board since 2009. He is a Managing Director at Sutter Hill Ventures. He was the founding CEO of Pure Storage and Snowflake Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2012",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Stephen Hamm",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Managing Director at Hellman & Friedman. Former executive at AlixPartners.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2023-10-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Teresa Briggs",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former Vice Chair and West Region Managing Partner of Deloitte LLP.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2020-03-01",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -107,6 +244,11 @@
         {
           "role": "Chairman of the Board",
           "start_date": "2019-04-26",
+          "end_date": null
+        },
+        {
+          "title": "CEO and Chairman of the Board",
+          "start_date": "2019-05-01",
           "end_date": null
         }
       ],
@@ -139,6 +281,11 @@
         {
           "role": "Director",
           "start_date": "2012-08-01",
+          "end_date": null
+        },
+        {
+          "title": "Co-Founder, President of Product, and Director",
+          "start_date": "2012",
           "end_date": null
         }
       ],
@@ -174,6 +321,11 @@
           "role": "Independent Director",
           "start_date": "2020-03-01",
           "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "2020-03-01",
+          "end_date": null
         }
       ],
       "committees": [
@@ -190,6 +342,11 @@
       "tenure_dates": [
         {
           "role": "Independent Director",
+          "start_date": "2023-10-01",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
           "start_date": "2023-10-01",
           "end_date": null
         }
@@ -210,6 +367,11 @@
           "role": "Lead Independent Director",
           "start_date": "2020-01-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
         }
       ],
       "committees": [
@@ -227,6 +389,11 @@
         {
           "role": "Independent Director",
           "start_date": "2020-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2021",
           "end_date": null
         }
       ],
@@ -246,6 +413,11 @@
           "role": "Independent Director",
           "start_date": "2020-06-01",
           "end_date": null
+        },
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2020",
+          "end_date": null
         }
       ],
       "committees": [
@@ -264,6 +436,11 @@
           "role": "Independent Director",
           "start_date": "2018-05-01",
           "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "2018-05-01",
+          "end_date": null
         }
       ],
       "committees": [
@@ -271,6 +448,20 @@
         "Nominating and Governance Committee"
       ],
       "name_original": "Mark S. Garrett"
+    },
+    {
+      "name": "Michael Speiser",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Speiser has served as a member of our Board since 2009. He is a Managing Director at Sutter Hill Ventures. He was the founding CEO of Pure Storage and Snowflake Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2012",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

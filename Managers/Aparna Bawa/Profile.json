@@ -42,9 +42,21 @@
   "investment_theses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/aparnabawa",
+      "person_name": "Aparna Bawa",
+      "company_name": "Intel Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C5603AQHzP73v653ySA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1572886470068?e=2147483647&v=beta&t=aN65m5J5Y4vLgM5nB6T9-xY2Z5l2gQ8x3hR9t-tZ5gY",
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

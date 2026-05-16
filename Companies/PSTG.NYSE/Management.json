@@ -16,6 +16,11 @@
           "title": "Chairman of the Board",
           "start_date": "2017-12",
           "end_date": null
+        },
+        {
+          "title": "Chairman and CEO",
+          "start_date": "2017",
+          "end_date": null
         }
       ],
       "name_original": "Charles Giancarlo"
@@ -31,6 +36,11 @@
           "title": "Chief Financial Officer",
           "start_date": "2019-12",
           "end_date": null
+        },
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "December 2019",
+          "end_date": "2025"
         }
       ],
       "name_original": "Kevan Krysler"
@@ -49,6 +59,48 @@
         }
       ],
       "name_original": "Ajay Singh"
+    },
+    {
+      "name": "Andrew Brown",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Brown has served as a member of our Board since 2015. He previously served as CEO of SandVideo and held executive positions at Zoran Corporation and Cadence Design Systems.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Anita Sands",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Former Group Managing Director and Head of Change Leadership at UBS Financial Services. She joined the board in 2020.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2015-07",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael Speiser",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Speiser has served as a member of our Board since 2009. He is a Managing Director at Sutter Hill Ventures. He was the founding CEO of Pure Storage and Snowflake Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2009",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -62,6 +114,11 @@
         {
           "role": "Chairman",
           "start_date": "2017-12",
+          "end_date": null
+        },
+        {
+          "title": "Chairman and CEO",
+          "start_date": "2017",
           "end_date": null
         }
       ],
@@ -77,6 +134,11 @@
       "tenure_dates": [
         {
           "role": "Independent Director",
+          "start_date": "2015-07",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
           "start_date": "2015-07",
           "end_date": null
         }
@@ -98,6 +160,11 @@
           "role": "Independent Director",
           "start_date": "2009",
           "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "2009",
+          "end_date": null
         }
       ],
       "committees": [
@@ -115,6 +182,11 @@
         {
           "role": "Independent Director",
           "start_date": "2015",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2023",
           "end_date": null
         }
       ],

@@ -11,6 +11,11 @@
           "title": "Managing Director",
           "start_date": "2024-01-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2007",
+          "end_date": "2010"
         }
       ],
       "name_original": "Matthew Salthouse"
@@ -29,6 +34,34 @@
         }
       ],
       "name_original": "Henko Vos"
+    },
+    {
+      "name": "Barnaby Egerton-Warburton",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Egerton-Warburton has over 25 years of experience in investment banking, international investment, and market experience. He has held positions at various investment banks including JP Morgan and BNP Paribas.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2010",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Dudley Kingsnorth",
+      "age": null,
+      "age_year": null,
+      "background": "Professor Kingsnorth is a metallurgist with over 50 years of experience in the international mining industry. He is a globally recognized expert in the rare earths industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2023-11-01",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -43,6 +76,11 @@
           "role": "Managing Director",
           "start_date": "2024-01-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2007",
+          "end_date": "2010"
         }
       ],
       "committees": [],
@@ -58,6 +96,11 @@
         {
           "role": "Non-Executive Chairman",
           "start_date": "2023-11-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2010",
           "end_date": null
         }
       ],
@@ -76,6 +119,11 @@
       "tenure_dates": [
         {
           "role": "Non-Executive Director",
+          "start_date": "2023-11-01",
+          "end_date": null
+        },
+        {
+          "title": "Non-Executive Director",
           "start_date": "2023-11-01",
           "end_date": null
         }

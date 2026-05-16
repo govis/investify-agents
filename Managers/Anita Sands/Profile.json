@@ -5,8 +5,8 @@
   "age": 47,
   "age_year": 2024,
   "background": "Former Group Managing Director and Head of Change Leadership at UBS Financial Services. She joined the board in 2020.",
-  "picture_url": null,
-  "picture_local": null,
+  "picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQGvGRKIfyHMzg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1696375859824?e=2147483647&v=beta&t=2azz4I8oU2IEbXmo8ZfFDpFu9nYDVYNQAdLKXAY8P5U",
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "First Solar, Inc.",
@@ -91,11 +91,25 @@
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dranitasands",
+      "person_name": "Anita Sands",
+      "company_name": "UBS Financial Services",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Nominating and Corporate Governance Committee",
     "Technology Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

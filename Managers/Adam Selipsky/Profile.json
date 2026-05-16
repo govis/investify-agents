@@ -5,8 +5,8 @@
   "age": 57,
   "age_year": 2024,
   "background": "Adam N. Selipsky was CEO of Amazon Web Services from May 2021 to June 2024. He previously served as President and CEO of Tableau Software.",
-  "picture_url": null,
-  "picture_local": null,
+  "picture_url": "https://media.licdn.com/dms/image/v2/D5603AQGZJ-njdtv_-g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1719507065628?e=2147483647&v=beta&t=xbJ_D0s7KvKOGHF17jYgCTZESZksZgzc81eHhznpR-o",
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Amazon.com, Inc.",
@@ -73,7 +73,21 @@
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/adamselipsky",
+      "person_name": "Adam Selipsky",
+      "company_name": "Amazon Web Services",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
   "committees": [],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

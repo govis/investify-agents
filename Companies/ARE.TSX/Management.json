@@ -11,6 +11,11 @@
           "title": "President and Chief Executive Officer",
           "start_date": "2018-09-04",
           "end_date": null
+        },
+        {
+          "title": "President, Chief Executive Officer and Director",
+          "start_date": "2018-09-04",
+          "end_date": null
         }
       ],
       "name_original": "Jean-Louis Servranckx"
@@ -26,6 +31,11 @@
           "title": "Executive Vice President and Chief Financial Officer",
           "start_date": "2009-11-01",
           "end_date": null
+        },
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "November 2009",
+          "end_date": "January 26, 2024"
         }
       ],
       "name_original": "David Smales"
@@ -41,9 +51,70 @@
           "title": "Executive Vice President and President, Aecon Concessions",
           "start_date": "2002-01-01",
           "end_date": null
+        },
+        {
+          "title": "Executive Vice President and President, Aecon Concessions",
+          "start_date": "Not publicly specified",
+          "end_date": null
         }
       ],
       "name_original": "Steve Nackan"
+    },
+    {
+      "name": "Christopher Hill",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Hill has over 30 years of experience in the mining industry, primarily in financial and corporate development roles. He was previously Treasurer of Kinross Gold Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Treasurer",
+          "start_date": "2011",
+          "end_date": "2016"
+        }
+      ]
+    },
+    {
+      "name": "J.D. Hole",
+      "age": 78,
+      "age_year": 2024,
+      "background": "Mr. Hole was the Chairman of Lockerbie & Hole Inc. prior to its acquisition by Aecon in 2009. He has extensive experience in the industrial construction sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2007",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "John Beck",
+      "age": 82,
+      "age_year": 2024,
+      "background": "Mr. Beck is the Founder and Chairman of Aecon Group Inc. He has been a director of Aecon or its predecessors since 1963. He is a graduate of the University of British Columbia in Civil Engineering.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Founder and Chairman (Board of Directors)",
+          "start_date": "1978",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Susan Wolburgh Jenah",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Ms. Wolburgh Jenah is the former President and CEO of the Investment Industry Regulatory Organization of Canada (IIROC). She serves on several boards and is a member of the Order of Canada.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -57,6 +128,11 @@
         {
           "role": "Chairman",
           "start_date": "1963-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Founder and Chairman (Board of Directors)",
+          "start_date": "1978",
           "end_date": null
         }
       ],
@@ -73,6 +149,11 @@
         {
           "role": "Independent Director",
           "start_date": "2016-05-10",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2016",
           "end_date": null
         }
       ],
@@ -93,6 +174,11 @@
           "role": "Independent Director",
           "start_date": "2009-06-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2007",
+          "end_date": null
         }
       ],
       "committees": [
@@ -100,6 +186,20 @@
         "Management Resources and Compensation Committee"
       ],
       "name_original": "J.D. Hole"
+    },
+    {
+      "name": "Jean-Louis Servranckx",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Servranckx has over 35 years of experience in the construction industry, having held several key management positions at VINCI and Eiffage. He joined Aecon as President and Chief Executive Officer in September 2018.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Chief Executive Officer and Director",
+          "start_date": "2018-09-04",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

@@ -44,6 +44,20 @@
         }
       ],
       "name_original": "Darren Hazelwood"
+    },
+    {
+      "name": "Graham Downs",
+      "age": 50,
+      "age_year": 2024,
+      "background": "Mr. Downs has over 25 years of experience in the mineral exploration industry and is currently the CEO of Cascadia Minerals Ltd.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2023-08-01",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -73,6 +87,11 @@
         {
           "role": "Chairman",
           "start_date": "2023-03-20",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2023",
           "end_date": null
         }
       ],
@@ -109,6 +128,11 @@
       "tenure_dates": [
         {
           "role": "Independent Director",
+          "start_date": "2023-08-01",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
           "start_date": "2023-08-01",
           "end_date": null
         }

@@ -21,6 +21,11 @@
           "title": "Chief Financial Officer",
           "start_date": "2015-04-06",
           "end_date": "2015-07-10"
+        },
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2012",
+          "end_date": null
         }
       ],
       "name_original": "Ammar Al-Joundi"
@@ -39,6 +44,48 @@
         }
       ],
       "name_original": "Jamie Porter"
+    },
+    {
+      "name": "Jeffrey Parr",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Parr is the Vice-Chair of the Board. He was previously the Chair of the Board of Kirkland Lake Gold Ltd. He is a Chartered Professional Accountant with over 30 years of experience in the mining industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Vice-Chair, Director",
+          "start_date": "2022-02-08",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Louise Grondin",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Ms. Grondin has over 30 years of experience in the mining industry, specializing in environment and sustainability, notably at Agnico Eagle.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, People and Culture",
+          "start_date": "2001",
+          "end_date": "January 2021"
+        }
+      ]
+    },
+    {
+      "name": "Sean Boyd",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Boyd is the Executive Chair of the Board of Agnico Eagle. He served as Chief Executive Officer from 1998 to 2022 and has been with the company since 1985. He is a Chartered Professional Accountant.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO",
+          "start_date": "1998",
+          "end_date": "2022"
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -79,6 +126,11 @@
           "role": "Director",
           "start_date": "2022-02-08",
           "end_date": null
+        },
+        {
+          "title": "Vice-Chair, Director",
+          "start_date": "2022-02-08",
+          "end_date": null
         }
       ],
       "committees": [
@@ -97,12 +149,31 @@
           "role": "Director",
           "start_date": "2022-02-08",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "April 2021",
+          "end_date": null
         }
       ],
       "committees": [
         "Health, Safety, Environment and Sustainable Development Committee"
       ],
       "name_original": "Leona Aglukkaq"
+    },
+    {
+      "name": "Jeff Parr",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Parr is a Chartered Professional Accountant with over 30 years of experience in the mining industry. He was previously the CFO of Centerra Gold Inc. and has served on the boards of several mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice Chairman of the Board",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

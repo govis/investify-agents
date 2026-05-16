@@ -16,6 +16,11 @@
           "title": "Chief Financial Officer",
           "start_date": "2010-01-01",
           "end_date": "2013-01-31"
+        },
+        {
+          "title": "Managing Director & CEO",
+          "start_date": "2013",
+          "end_date": null
         }
       ],
       "name_original": "Jeffrey Quartermaine"
@@ -46,9 +51,112 @@
           "title": "Chief Operating Officer",
           "start_date": "2016-01-01",
           "end_date": null
+        },
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2016-09-01",
+          "end_date": "2023-06-30"
         }
       ],
       "name_original": "Chris Woodall"
+    },
+    {
+      "name": "Amber Banfield",
+      "age": 50,
+      "age_year": 2024,
+      "background": "Ms. Banfield has over 20 years of experience in the resources and energy sectors, including management roles at Worley.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Non-Executive Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Dan Lougher",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Lougher is a highly experienced mining executive with over 40 years of experience in the industry, including as CEO of Western Areas Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jeff Quartermaine",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Managing Director and CEO of Perseus Mining Limited. Extensive experience in financial and strategic management.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Managing Director and CEO",
+          "start_date": "2013",
+          "end_date": "2024"
+        }
+      ]
+    },
+    {
+      "name": "John McGloin",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. McGloin is a geologist and graduate of the Camborne School of Mines with over 30 years of experience in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Non-Executive Director",
+          "start_date": "April 2016",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "David Ransom",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Dr. Ransom has over 45 years of experience in the mining industry as a geologist and consultant.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2019",
+          "end_date": "2024"
+        }
+      ]
+    },
+    {
+      "name": "Elissa Brown",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Ms. Brown is a Chartered Accountant with over 20 years of experience in the mining and energy sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Non-Executive Director",
+          "start_date": "November 2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Sean Harvey",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Harvey has over 25 years of experience in the investment banking and mining industries. He has served as Chairman of Victoria Gold since 2007. He was previously President and CEO of Orvana Minerals Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director/Chair",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -63,6 +171,11 @@
           "role": "Managing Director",
           "start_date": "2013-02-01",
           "end_date": null
+        },
+        {
+          "title": "Managing Director and CEO",
+          "start_date": "2013",
+          "end_date": "2024"
         }
       ],
       "committees": [],
@@ -78,6 +191,11 @@
         {
           "role": "Non-Executive Director",
           "start_date": "2021-05-12",
+          "end_date": null
+        },
+        {
+          "title": "Independent Non-Executive Director",
+          "start_date": "2021",
           "end_date": null
         }
       ],
@@ -98,6 +216,11 @@
           "role": "Non-Executive Director",
           "start_date": "2021-11-01",
           "end_date": null
+        },
+        {
+          "title": "Independent Non-Executive Director",
+          "start_date": "November 2020",
+          "end_date": null
         }
       ],
       "committees": [
@@ -116,6 +239,11 @@
         {
           "role": "Non-Executive Director",
           "start_date": "2022-05-01",
+          "end_date": null
+        },
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2024",
           "end_date": null
         }
       ],
@@ -136,6 +264,11 @@
           "role": "Non-Executive Director",
           "start_date": "2016-04-19",
           "end_date": null
+        },
+        {
+          "title": "Independent Non-Executive Director",
+          "start_date": "April 2016",
+          "end_date": null
         }
       ],
       "committees": [
@@ -155,12 +288,45 @@
           "role": "Non-Executive Director",
           "start_date": "2019-11-29",
           "end_date": null
+        },
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2019",
+          "end_date": "2024"
         }
       ],
       "committees": [
         "Technical Committee"
       ],
       "name_original": "David Ransom"
+    },
+    {
+      "name": "Jeffrey Quartermaine",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Quartermaine has more than 30 years of experience in senior financial and strategic management roles with ASX and TSX-listed resources companies. He has been central to the development of Perseus Mining into a multi-mine gold producer.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Managing Director & CEO",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Sean Harvey",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Harvey has over 25 years of experience in the investment banking and mining industries. He has served as Chairman of Victoria Gold since 2007. He was previously President and CEO of Orvana Minerals Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director/Chair",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

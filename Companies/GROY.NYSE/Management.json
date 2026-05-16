@@ -11,6 +11,11 @@
           "title": "Chairman, President and Chief Executive Officer",
           "start_date": "2020-08-01",
           "end_date": null
+        },
+        {
+          "title": "Chairman, CEO, President",
+          "start_date": "2020",
+          "end_date": null
         }
       ],
       "name_original": "David Garofalo"
@@ -25,6 +30,11 @@
         {
           "title": "Chief Financial Officer",
           "start_date": "2022-09-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2023",
           "end_date": null
         }
       ],
@@ -59,6 +69,48 @@
         }
       ],
       "name_original": "Samuel G. Mah"
+    },
+    {
+      "name": "Angela Johnson",
+      "age": 39,
+      "age_year": 2024,
+      "background": "Ms. Johnson is a professional geologist with over 12 years of experience in the mining industry. She was previously VP Corporate Development at Silvercorp Metals and has held roles at SSR Mining and Calibre Mining.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Trey Wasser",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Wasser has over 40 years of experience in the financial services and mining industries. He is currently the CEO of Dryden Gold Corp. and was previously the President and CEO of Ely Gold Royalties Inc. until its acquisition by Gold Royalty Corp. in 2021. He has extensive experience in capital markets and corporate development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Warren Gilman",
+      "age": 64,
+      "age_year": 2023,
+      "background": "Chairman and CEO of Queen\u2019s Road Capital Investment Ltd. Former Chairman and CEO of CEF Holdings.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2020-06-23",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -72,6 +124,11 @@
         {
           "role": "Chairman",
           "start_date": "2020-08-01",
+          "end_date": null
+        },
+        {
+          "title": "Chairman, CEO, President",
+          "start_date": "2020",
           "end_date": null
         }
       ],
@@ -87,6 +144,11 @@
       "tenure_dates": [
         {
           "role": "Independent Director",
+          "start_date": "2020-06-23",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
           "start_date": "2020-06-23",
           "end_date": null
         }
@@ -157,6 +219,34 @@
         "Nominating and Corporate Governance Committee"
       ],
       "name_original": "Karri Howlett"
+    },
+    {
+      "name": "Angela Johnson",
+      "age": 39,
+      "age_year": 2024,
+      "background": "Ms. Johnson is a professional geologist with over 12 years of experience in the mining industry. She was previously VP Corporate Development at Silvercorp Metals and has held roles at SSR Mining and Calibre Mining.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Trey Wasser",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Wasser has over 40 years of experience in the financial services and mining industries. He is currently the CEO of Dryden Gold Corp. and was previously the President and CEO of Ely Gold Royalties Inc. until its acquisition by Gold Royalty Corp. in 2021. He has extensive experience in capital markets and corporate development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

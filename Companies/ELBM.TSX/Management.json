@@ -11,6 +11,11 @@
           "title": "President, Chief Executive Officer and Director",
           "start_date": "2017-02-01",
           "end_date": null
+        },
+        {
+          "title": "President, Chief Executive Officer, and Director",
+          "start_date": "2017",
+          "end_date": null
         }
       ],
       "name_original": "Trent Mell"
@@ -41,6 +46,11 @@
           "title": "Vice President, Project Development",
           "start_date": "2021-06-01",
           "end_date": null
+        },
+        {
+          "title": "Vice President, Project Development",
+          "start_date": "2020",
+          "end_date": null
         }
       ],
       "name_original": "Mark Trevisiol"
@@ -56,9 +66,56 @@
           "title": "Vice President, Commercial",
           "start_date": "2021-10-01",
           "end_date": null
+        },
+        {
+          "title": "Vice President, Commercial",
+          "start_date": "2022",
+          "end_date": null
         }
       ],
       "name_original": "Michael Insulan"
+    },
+    {
+      "name": "Garett Macdonald",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Mr. Macdonald is a professional engineer with over 25 years of experience in mine development and operations. He is currently the President and CEO of Maritime Resources Corp.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "John Kanellitsas",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Kanellitsas has over 30 years of experience in the investment banking and asset management industries. He is the Executive Vice Chairman of Lithium Americas Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Beryl Fedoruk",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Ms. Fedoruk is a retired partner from KPMG with over 35 years of experience in auditing and advisory services for the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Corporate Secretary",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -72,6 +129,11 @@
         {
           "role": "Chairman and Independent Director",
           "start_date": "2017-05-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2021",
           "end_date": null
         }
       ],
@@ -91,6 +153,11 @@
         {
           "role": "Director",
           "start_date": "2017-02-01",
+          "end_date": null
+        },
+        {
+          "title": "President, Chief Executive Officer, and Director",
+          "start_date": "2017",
           "end_date": null
         }
       ],
@@ -146,6 +213,11 @@
           "role": "Independent Director",
           "start_date": "2018-11-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": "2023"
         }
       ],
       "committees": [

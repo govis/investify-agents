@@ -11,6 +11,11 @@
           "title": "President and Chief Executive Officer",
           "start_date": "2023-10-04",
           "end_date": null
+        },
+        {
+          "title": "President and CEO",
+          "start_date": "August 2018",
+          "end_date": null
         }
       ],
       "name_original": "Jonathan Evans"
@@ -25,6 +30,11 @@
         {
           "title": "Executive Vice President and Chief Financial Officer",
           "start_date": "2023-10-04",
+          "end_date": null
+        },
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2023-05",
           "end_date": null
         }
       ],
@@ -41,9 +51,98 @@
           "title": "Vice President, Exploration",
           "start_date": "2023-10-04",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2010",
+          "end_date": null
         }
       ],
       "name_original": "Richard (Aubrey) G.W. Eveleigh"
+    },
+    {
+      "name": "Fabiana Chubbs",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Ms. Chubbs was the CFO of Eldorado Gold Corporation from 2011 to 2018. She is a Chartered Professional Accountant.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023-10-04",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "George Ireland",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Mr. Ireland has over 40 years of experience in the mining and financial sectors. He is the founder, CEO and CIO of Geologic Resource Partners LLC.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jinhee Magie",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Ms. Magie is the CFO and Senior Vice President of Lundin Mining Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "June 2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "John Kanellitsas",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Kanellitsas has over 30 years of experience in the investment banking and asset management industries. He is the Executive Vice Chairman of Lithium Americas Corp.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice Chair",
+          "start_date": "2015",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Kelvin Dushnisky",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Mr. Dushnisky was the CEO of AngloGold Ashanti Ltd. and President of Barrick Gold Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Zak Mahone",
+      "age": 38,
+      "age_year": 2024,
+      "background": "Mr. Mahone is a Managing Director at Geologic Resource Partners LLC.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023-10-04",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -57,6 +156,11 @@
         {
           "role": "Chair of the Board",
           "start_date": "2023-10-04",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2023",
           "end_date": null
         }
       ],
@@ -93,6 +197,11 @@
           "role": "Director",
           "start_date": "2023-10-04",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2023-10-04",
+          "end_date": null
         }
       ],
       "committees": [
@@ -110,6 +219,11 @@
         {
           "role": "Director",
           "start_date": "2023-10-04",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2023",
           "end_date": null
         }
       ],
@@ -129,6 +243,11 @@
           "role": "Director",
           "start_date": "2023-10-04",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "June 2021",
+          "end_date": null
         }
       ],
       "committees": [
@@ -147,12 +266,31 @@
           "role": "Director",
           "start_date": "2023-10-04",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2023-10-04",
+          "end_date": null
         }
       ],
       "committees": [
         "Governance and Nomination Committee"
       ],
       "name_original": "Zachary (Zak) J. Mahone"
+    },
+    {
+      "name": "Aubrey Eveleigh",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Eveleigh has over 30 years of experience in the mineral exploration industry. He was a co-founder of the predecessor Lithium Americas Corp. and has served in various executive capacities.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2010",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [

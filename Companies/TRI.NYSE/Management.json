@@ -11,6 +11,11 @@
           "title": "President and Chief Executive Officer",
           "start_date": "2020-03-15",
           "end_date": null
+        },
+        {
+          "title": "President and CEO",
+          "start_date": "2020-03-15",
+          "end_date": null
         }
       ],
       "name_original": "Steve Hasker"
@@ -26,6 +31,11 @@
           "title": "Chief Financial Officer",
           "start_date": "2020-03-15",
           "end_date": null
+        },
+        {
+          "title": "Chief Financial Officer, Intellectual Property & Science business",
+          "start_date": "Prior to 2016",
+          "end_date": "2016"
         }
       ],
       "name_original": "Michael Eastwood"
@@ -40,6 +50,11 @@
         {
           "title": "Chief Legal Officer and Company Secretary",
           "start_date": "2019-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Chief Legal Officer & Company Secretary",
+          "start_date": "2016",
           "end_date": null
         }
       ],
@@ -56,6 +71,11 @@
           "title": "Chief People Officer",
           "start_date": "2017-11-01",
           "end_date": null
+        },
+        {
+          "title": "Chief People Officer",
+          "start_date": "2017",
+          "end_date": null
         }
       ],
       "name_original": "Mary Alice Vuicic"
@@ -71,9 +91,98 @@
           "title": "Chief Product Officer",
           "start_date": "2021-07-01",
           "end_date": null
+        },
+        {
+          "title": "Chief Product Officer",
+          "start_date": "2020",
+          "end_date": null
         }
       ],
       "name_original": "David Wong"
+    },
+    {
+      "name": "Barry Salzberg",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Global CEO of Deloitte Touche Tohmatsu Limited. Professor at Columbia Business School.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2015",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Devin Wenig",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Former President and CEO of eBay Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO, Thomson Reuters Markets",
+          "start_date": "April 2008",
+          "end_date": "August 2011"
+        }
+      ]
+    },
+    {
+      "name": "Edmund Clark",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Former President and CEO of TD Bank Group. Member of the Order of Canada.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2015",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Kirk Koenigsbauer",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Chief Operating Officer and Corporate Vice President of Microsoft's Experiences and Devices Group.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Linda Mason",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Chair and Founder of Bright Horizons Family Solutions. Former Chair of Mercy Corps.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2014-05-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Thomas Glocer",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former CEO of Thomson Reuters Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer and Director",
+          "start_date": "2008",
+          "end_date": "2011"
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -87,6 +196,11 @@
         {
           "role": "Chairman",
           "start_date": "2008-04-17",
+          "end_date": null
+        },
+        {
+          "title": "Chairman",
+          "start_date": "2006",
           "end_date": null
         }
       ],
@@ -102,6 +216,11 @@
       "tenure_dates": [
         {
           "role": "Independent Director",
+          "start_date": "2014-05-01",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
           "start_date": "2014-05-01",
           "end_date": null
         }
@@ -123,6 +242,11 @@
           "role": "Independent Director",
           "start_date": "2020-03-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": null
         }
       ],
       "committees": [
@@ -140,6 +264,11 @@
         {
           "role": "Independent Director",
           "start_date": "2015-07-01",
+          "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2015",
           "end_date": null
         }
       ],
@@ -160,6 +289,11 @@
           "role": "Independent Director",
           "start_date": "2015-05-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2015",
+          "end_date": null
         }
       ],
       "committees": [
@@ -167,6 +301,20 @@
         "Corporate Governance Committee"
       ],
       "name_original": "W. Edmund Clark"
+    },
+    {
+      "name": "Thomas Glocer",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former CEO of Thomson Reuters Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer and Director",
+          "start_date": "2008",
+          "end_date": "2011"
+        }
+      ]
     }
   ],
   "sources": [

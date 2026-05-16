@@ -16,6 +16,11 @@
           "title": "Executive Vice President and Chief Financial Officer",
           "start_date": "2013-01-01",
           "end_date": "2022-10-31"
+        },
+        {
+          "title": "Chairman of the Board and Chief Executive Officer",
+          "start_date": "2022",
+          "end_date": null
         }
       ],
       "name_original": "Andrew S. Marsh"
@@ -36,6 +41,11 @@
           "title": "Senior Vice President and Chief Accounting Officer",
           "start_date": "2019-01-01",
           "end_date": "2022-10-31"
+        },
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2022",
+          "end_date": null
         }
       ],
       "name_original": "Kimberly A. Fontan"
@@ -66,9 +76,98 @@
           "title": "Executive Vice President and General Counsel",
           "start_date": "2013-01-01",
           "end_date": null
+        },
+        {
+          "title": "Executive Vice President and General Counsel",
+          "start_date": "2012",
+          "end_date": null
         }
       ],
       "name_original": "Marcus V. Brown"
+    },
+    {
+      "name": "Blanche Lincoln",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Founder and Principal of Lincoln Policy Group. Former U.S. Senator from Arkansas.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2011",
+          "end_date": "2024-12-31"
+        }
+      ]
+    },
+    {
+      "name": "Edith Kelly-Lowney",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Former Senior Vice President and Chief Financial Officer of Dial Corporation. Extensive experience in finance and accounting.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "John Caslione",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Founder, President and CEO of GCS Business Capital, LLC. Expert in global business strategy and emerging markets.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2015-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Karen Puckett",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former President and CEO of Harte Hanks, Inc. Former President of CenturyLink.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2015",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Kirkland Donald",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Admiral Kirkland H. Donald, U.S. Navy (Ret.), has served as Chairman of the Board since 2020. He was the President and Chief Executive Officer of Systems Planning and Analysis, Inc. and served as Director, Naval Nuclear Propulsion Program.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Stuart Levenick",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Former Group President of Caterpillar Inc. Lead Independent Director of Entergy.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Lead Independent Director",
+          "start_date": "2005-01-01",
+          "end_date": null
+        }
+      ]
     }
   ],
   "board_of_directors": [
@@ -82,6 +181,11 @@
         {
           "role": "Chair of the Board",
           "start_date": "2022-11-01",
+          "end_date": null
+        },
+        {
+          "title": "Chairman of the Board and Chief Executive Officer",
+          "start_date": "2022",
           "end_date": null
         }
       ],
@@ -99,6 +203,11 @@
       "tenure_dates": [
         {
           "role": "Independent Director",
+          "start_date": "2015-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
           "start_date": "2015-01-01",
           "end_date": null
         }
@@ -120,6 +229,11 @@
           "role": "Independent Director",
           "start_date": "2015-01-01",
           "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "2015-01-01",
+          "end_date": null
         }
       ],
       "committees": [
@@ -137,6 +251,11 @@
       "tenure_dates": [
         {
           "role": "Lead Independent Director",
+          "start_date": "2005-01-01",
+          "end_date": null
+        },
+        {
+          "title": "Lead Independent Director",
           "start_date": "2005-01-01",
           "end_date": null
         }
@@ -159,6 +278,11 @@
           "role": "Independent Director",
           "start_date": "2011-01-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2011",
+          "end_date": "2024-12-31"
         }
       ],
       "committees": [
@@ -178,6 +302,11 @@
           "role": "Independent Director",
           "start_date": "2015-01-01",
           "end_date": null
+        },
+        {
+          "title": "Director",
+          "start_date": "2015",
+          "end_date": null
         }
       ],
       "committees": [
@@ -185,6 +314,20 @@
         "Finance"
       ],
       "name_original": "Karen A. Puckett"
+    },
+    {
+      "name": "Kirkland Donald",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Admiral Kirkland H. Donald, U.S. Navy (Ret.), has served as Chairman of the Board since 2020. He was the President and Chief Executive Officer of Systems Planning and Analysis, Inc. and served as Director, Naval Nuclear Propulsion Program.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
     }
   ],
   "sources": [
