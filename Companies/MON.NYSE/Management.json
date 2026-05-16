@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Arnold Donald",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former President and CEO of Carnival Corporation & plc. He joined the board in 2023.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President, Agricultural Sector",
+          "start_date": null,
+          "end_date": "2000"
+        }
+      ]
+    },
+    {
+      "name": "Gerald Steiner",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Former Executive Vice President, Sustainability and Corporate Affairs of Monsanto Company.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, Sustainability and Corporate Affairs",
+          "start_date": null,
+          "end_date": "2013-11"
+        }
+      ]
+    },
+    {
+      "name": "Gregory Boyce",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Mr. Boyce has served as Chair of the Board since 2021. He was previously the Executive Chairman of Peabody Energy Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": "2018"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Gregory Boyce",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Mr. Boyce has served as Chair of the Board since 2021. He was previously the Executive Chairman of Peabody Energy Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": "2018"
+        }
+      ]
+    }
+  ]
+}

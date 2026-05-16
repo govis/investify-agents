@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Scott Hicks",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Hicks is a corporate director with over 15 years of experience in the resource sector, specifically in corporate finance and M&A.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Tim Warman",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Warman is a geologist with over 30 years of experience. He was previously CEO of Fiore Gold Ltd. and held senior roles with Dalradian Resources Inc. and Aurelian Resources Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "CEO & Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Scott Hicks",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Hicks is a corporate director with over 15 years of experience in the resource sector, specifically in corporate finance and M&A.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Tim Warman",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Warman is a geologist with over 30 years of experience. He was previously CEO of Fiore Gold Ltd. and held senior roles with Dalradian Resources Inc. and Aurelian Resources Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "CEO & Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

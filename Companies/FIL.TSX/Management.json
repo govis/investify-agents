@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Adam Lundin",
+      "age": 37,
+      "age_year": 2024,
+      "background": "Mr. Lundin has many years of experience in the natural resource sector. He is the Chair of the Board and previously served as President and CEO of Josemaria Resources Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Carmel Daniele",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Ms. Daniele is the founder and CIO of CD Capital. She has over 25 years of experience in natural resources investment and investment banking.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ian Gibbs",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Mr. Gibbs is a Canadian Chartered Professional Accountant with over 25 years of experience in the resource sector. He has served as CFO for several public companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CFO",
+          "start_date": "2016",
+          "end_date": "2024"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Adam Lundin",
+      "age": 37,
+      "age_year": 2024,
+      "background": "Mr. Lundin has many years of experience in the natural resource sector. He is the Chair of the Board and previously served as President and CEO of Josemaria Resources Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Carmel Daniele",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Ms. Daniele is the founder and CIO of CD Capital. She has over 25 years of experience in natural resources investment and investment banking.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

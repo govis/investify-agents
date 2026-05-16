@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Judi Wood",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former executive at various energy and industrial companies. Expert in human resources and governance.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2006",
+          "end_date": "2022"
+        }
+      ]
+    },
+    {
+      "name": "Nicole Brewster",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Ms. Brewster is the President and CEO of Canadian Silver Hunter Inc. and has extensive experience in mineral exploration and project management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Chief Executive Officer, and Director",
+          "start_date": "2012",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Judi Wood",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former executive at various energy and industrial companies. Expert in human resources and governance.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2006",
+          "end_date": "2022"
+        }
+      ]
+    },
+    {
+      "name": "Nicole Brewster",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Ms. Brewster is the President and CEO of Canadian Silver Hunter Inc. and has extensive experience in mineral exploration and project management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Chief Executive Officer, and Director",
+          "start_date": "2012",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

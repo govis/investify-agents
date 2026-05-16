@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Paul Harvey",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Harvey is a mining professional with over 35 years' experience in the resources sector, including senior executive roles at South32 and BHP.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Leadership Team (Executive)",
+          "start_date": "2015",
+          "end_date": "2019"
+        }
+      ]
+    },
+    {
+      "name": "Sharon Warburton",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Ms Warburton is a Chartered Accountant with over 25 years\u2019 experience in the resources and infrastructure sectors. She is a Director of Wesfarmers, Worley, and Blackmores.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Sharon Warburton",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Ms Warburton is a Chartered Accountant with over 25 years\u2019 experience in the resources and infrastructure sectors. She is a Director of Wesfarmers, Worley, and Blackmores.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

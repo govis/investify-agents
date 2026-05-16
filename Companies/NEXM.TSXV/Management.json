@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Morgan Lekstrom",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Lekstrom has 17 years of experience in the mining industry, including executive roles at Silver Hammer Mining Corp. and Kuya Silver Corp. He has a background in project management and operations, having worked with Freeport McMoran and Rio Tinto.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO & Director",
+          "start_date": "2025",
+          "end_date": "2026"
+        }
+      ]
+    },
+    {
+      "name": "Warwick Morley-Jepson",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Morley-Jepson has over 40 years of experience in the mining industry, including senior roles at Kinross Gold and Gold Fields Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2026-01-08",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Morgan Lekstrom",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Lekstrom has 17 years of experience in the mining industry, including executive roles at Silver Hammer Mining Corp. and Kuya Silver Corp. He has a background in project management and operations, having worked with Freeport McMoran and Rio Tinto.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO & Director",
+          "start_date": "2025",
+          "end_date": "2026"
+        }
+      ]
+    },
+    {
+      "name": "Warwick Morley-Jepson",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Morley-Jepson has over 40 years of experience in the mining industry, including senior roles at Kinross Gold and Gold Fields Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2026-01-08",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

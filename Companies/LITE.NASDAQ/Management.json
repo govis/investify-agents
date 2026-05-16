@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Janet Wong",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Ms. Wong has served as a director since 2021. She is a retired partner with KPMG LLP. She also serves on the boards of Lumentum Holdings Inc. and Enviva Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "September 2020",
+          "end_date": "November 2024"
+        }
+      ]
+    },
+    {
+      "name": "Thad Trent",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Thad Trent has served as our Executive Vice President and Chief Financial Officer since February 2021. Prior to joining the Company, Mr. Trent served as Chief Financial Officer of Cypress Semiconductor Corporation from 2014 until its sale to Infineon Technologies AG in April 2020.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "2025-12-15",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Janet Wong",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Ms. Wong has served as a director since 2021. She is a retired partner with KPMG LLP. She also serves on the boards of Lumentum Holdings Inc. and Enviva Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "September 2020",
+          "end_date": "November 2024"
+        }
+      ]
+    },
+    {
+      "name": "Thad Trent",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Thad Trent has served as our Executive Vice President and Chief Financial Officer since February 2021. Prior to joining the Company, Mr. Trent served as Chief Financial Officer of Cypress Semiconductor Corporation from 2014 until its sale to Infineon Technologies AG in April 2020.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "2025-12-15",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

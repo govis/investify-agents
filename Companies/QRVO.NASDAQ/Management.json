@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Judy Bruner",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Judy Bruner was Executive Vice President and Chief Financial Officer of SanDisk Corporation from 2004 until its acquisition by Western Digital in 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Mark Murphy",
+      "age": 56,
+      "age_year": 2023,
+      "background": "Mark Murphy is Executive Vice President and Chief Financial Officer. Before joining Micron in 2022, he served as CFO of Qorvo, Inc. and held senior financial positions at Delphi Automotive and Praxair.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2016",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Judy Bruner",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Judy Bruner was Executive Vice President and Chief Financial Officer of SanDisk Corporation from 2004 until its acquisition by Western Digital in 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

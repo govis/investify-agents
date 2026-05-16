@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Garnet Dawson",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Dawson is a geologist with over 40 years of experience in the exploration and mining industry. He has held senior management positions with several public companies and has been involved in the discovery and development of several mineral deposits.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2011",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Garnet Dawson",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Dawson is a geologist with over 40 years of experience in the exploration and mining industry. He has held senior management positions with several public companies and has been involved in the discovery and development of several mineral deposits.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2011",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Harry Barr",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Mr. Barr has been the Chairman and CEO of the Company since its inception. He has over 40 years of experience in the mining industry and has guided several companies from inception to production.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Founder, Chairman",
+          "start_date": "1985",
+          "end_date": "2007"
+        }
+      ]
+    }
+  ]
+}

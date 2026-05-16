@@ -1,0 +1,202 @@
+{
+  "executives": [
+    {
+      "name": "David Cote",
+      "age": 71,
+      "age_year": 2024,
+      "background": "David Cote is the Executive Chairman of the Board of Vertiv. He is the former Chairman and CEO of Honeywell. He also served as a Class B Director to the Federal Reserve Bank of New York.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2002",
+          "end_date": "2018"
+        }
+      ]
+    },
+    {
+      "name": "Erica Brinker",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Erica Brinker has served as our Chief Commercial Officer since March 2022. Prior to joining Array, Ms. Brinker served as Chief Marketing Officer and Vice President of Commercial Excellence at Honeywell from 2019 to 2022.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Brand Marketing",
+          "start_date": "2011",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "Graham Robinson",
+      "age": 52,
+      "age_year": 2024,
+      "background": "President, Industrial Automation of Stanley Black & Decker, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President, Industrial Safety / President, Safety & Productivity Solutions",
+          "start_date": "2013",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "Indra Nooyi",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of PepsiCo, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2026",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Joshua Jepsen",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Joshua Jepsen is Senior Vice President and Chief Financial Officer. He is responsible for the company's financial functions, including accounting, treasury, tax, and investor relations. Jepsen joined John Deere in 1999 and has held positions in finance, manufacturing, and marketing.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Financial Officer, Aerospace Unit",
+          "start_date": "February 2026",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Katherine Adams",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Katherine Adams is Apple\u2019s senior vice president and General Counsel, reporting to CEO Tim Cook. Kate serves on the company\u2019s executive team and oversees all legal matters, including corporate governance, intellectual property, litigation and securities compliance, global security and privacy.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and General Counsel",
+          "start_date": "2008",
+          "end_date": "2017"
+        }
+      ]
+    },
+    {
+      "name": "Michael Lamach",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Executive Chair and Chief Executive Officer of Trane Technologies plc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director / Audit Committee Chair",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Robin Washington",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former EVP and CFO of Gilead Sciences, Inc. She has served as a Director since 2013.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Roger Fradin",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Vice Chairman of Honeywell International Inc. Current Chairman of Resideo Technologies, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and CEO of Automation and Control Solutions, Vice Chairman",
+          "start_date": "2004",
+          "end_date": "2017"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "David Cote",
+      "age": 71,
+      "age_year": 2024,
+      "background": "David Cote is the Executive Chairman of the Board of Vertiv. He is the former Chairman and CEO of Honeywell. He also served as a Class B Director to the Federal Reserve Bank of New York.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2002",
+          "end_date": "2018"
+        }
+      ]
+    },
+    {
+      "name": "Indra Nooyi",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of PepsiCo, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2026",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael Lamach",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Executive Chair and Chief Executive Officer of Trane Technologies plc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director / Audit Committee Chair",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Robin Washington",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former EVP and CFO of Gilead Sciences, Inc. She has served as a Director since 2013.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Roger Fradin",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Vice Chairman of Honeywell International Inc. Current Chairman of Resideo Technologies, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and CEO of Automation and Control Solutions, Vice Chairman",
+          "start_date": "2004",
+          "end_date": "2017"
+        }
+      ]
+    }
+  ]
+}

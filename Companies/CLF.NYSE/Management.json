@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Jane Cronin",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Former Senior Vice President, Corporate Controller of Sherwin-Williams Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "January 3, 2025",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Laurie Brlas",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Executive Vice President and Chief Financial Officer of Newmont Mining Corporation. Former CFO of Cliffs Natural Resources.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and President, Global Operations / CFO",
+          "start_date": "2006",
+          "end_date": "2013"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jane Cronin",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Former Senior Vice President, Corporate Controller of Sherwin-Williams Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "January 3, 2025",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

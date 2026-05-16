@@ -1,0 +1,132 @@
+{
+  "executives": [
+    {
+      "name": "Brad Smith",
+      "age": 60,
+      "age_year": 2024,
+      "background": "President of Marshall University and former Chairman and CEO of Intuit Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO",
+          "start_date": "2008",
+          "end_date": "2018"
+        }
+      ]
+    },
+    {
+      "name": "Forrest Norrod",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Norrod is AMD\u2019s Executive Vice President and General Manager, Data Center Solutions Business Group. He joined AMD in 2014. Previously, he was Vice President and General Manager of Dell\u2019s server business.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "July 2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "John Doerr",
+      "age": 72,
+      "age_year": 2024,
+      "background": "L. John Doerr has been a director since 1999. He is the Chairman of Kleiner Perkins, a venture capital firm.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "1993",
+          "end_date": "2011"
+        }
+      ]
+    },
+    {
+      "name": "Kiran Patel",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Kiran Patel was formerly the Executive Vice President and General Manager of the Small Business Group at Intuit Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director (Board of Directors)",
+          "start_date": "2000",
+          "end_date": "2008"
+        }
+      ]
+    },
+    {
+      "name": "Stratton Sclavos",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of VeriSign, Inc. He is a seasoned executive with experience in cybersecurity and technology infrastructure.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2005",
+          "end_date": "2010"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Forrest Norrod",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Norrod is AMD\u2019s Executive Vice President and General Manager, Data Center Solutions Business Group. He joined AMD in 2014. Previously, he was Vice President and General Manager of Dell\u2019s server business.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "July 2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "John Doerr",
+      "age": 72,
+      "age_year": 2024,
+      "background": "L. John Doerr has been a director since 1999. He is the Chairman of Kleiner Perkins, a venture capital firm.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "1993",
+          "end_date": "2011"
+        }
+      ]
+    },
+    {
+      "name": "Kiran Patel",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Kiran Patel was formerly the Executive Vice President and General Manager of the Small Business Group at Intuit Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director (Board of Directors)",
+          "start_date": "2000",
+          "end_date": "2008"
+        }
+      ]
+    },
+    {
+      "name": "Stratton Sclavos",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of VeriSign, Inc. He is a seasoned executive with experience in cybersecurity and technology infrastructure.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2005",
+          "end_date": "2010"
+        }
+      ]
+    }
+  ]
+}

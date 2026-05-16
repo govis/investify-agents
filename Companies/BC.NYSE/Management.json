@@ -1,0 +1,90 @@
+{
+  "executives": [
+    {
+      "name": "Danielle Brown",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Ms. Brown has served as the Chief People Officer of Gusto, Inc. since 2020. She previously served as the Chief Diversity and Inclusion Officer of Google.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Information Officer",
+          "start_date": "November 14, 2016",
+          "end_date": "November 2020"
+        }
+      ]
+    },
+    {
+      "name": "Dustan McCoy",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Brunswick Corporation. Lead Independent Director of FCX.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "December 2005",
+          "end_date": "2016"
+        }
+      ]
+    },
+    {
+      "name": "Kristin Coleman",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Ms. Coleman has served as Executive Vice President, General Counsel and Corporate Secretary since November 2022. Prior to joining Albemarle, she served as Executive Vice President, General Counsel and Corporate Secretary of US Foods Holding Corp.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Vice President, General Counsel and Corporate Secretary",
+          "start_date": "2009-05-20",
+          "end_date": "2014-07-07"
+        }
+      ]
+    },
+    {
+      "name": "MaryAnn Wright",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Ms. Wright has served as a member of our Board since December 2021. She previously served as Group Vice President of Engineering and Product Development at Johnson Controls International plc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "June 2021",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Dustan McCoy",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Brunswick Corporation. Lead Independent Director of FCX.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "December 2005",
+          "end_date": "2016"
+        }
+      ]
+    },
+    {
+      "name": "MaryAnn Wright",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Ms. Wright has served as a member of our Board since December 2021. She previously served as Group Vice President of Engineering and Product Development at Johnson Controls International plc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "June 2021",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

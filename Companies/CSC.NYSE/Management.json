@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Kevin Harkenrider",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Kevin Harkenrider has served as Chief Operating Officer since 2021. He joined Viasat in 2006 and has held several executive positions, including President of Broadband Services.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Account Executive",
+          "start_date": "2002",
+          "end_date": "2006"
+        }
+      ]
+    },
+    {
+      "name": "Nancy Killefer",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Retired Senior Partner at McKinsey & Company.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "2013",
+          "end_date": "2017"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Nancy Killefer",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Retired Senior Partner at McKinsey & Company.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "2013",
+          "end_date": "2017"
+        }
+      ]
+    }
+  ]
+}

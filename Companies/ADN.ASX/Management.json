@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Andrea Betti",
+      "age": null,
+      "age_year": null,
+      "background": "Andrea Betti is an accounting and corporate governance professional with over 20 years' experience in the resources sector. she has acted as Company Secretary for several ASX-listed companies and has experience in corporate advisory and financial management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Company Secretary",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "James Marsh",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Marsh is a qualified industrial chemist with over 30 years\u2019 experience in the mining and mineral processing industry. He has held senior positions with several major global companies including Rio Tinto and WMC Resources.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": "2023-10-10"
+        }
+      ]
+    },
+    {
+      "name": "Melissa Holzberger",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Ms Holzberger is a commercial lawyer with over 20 years\u2019 experience in the resources and energy sectors. She has held senior legal and board positions with several ASX-listed companies and government organisations. She has extensive experience in corporate governance and risk management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "James Marsh",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Marsh is a qualified industrial chemist with over 30 years\u2019 experience in the mining and mineral processing industry. He has held senior positions with several major global companies including Rio Tinto and WMC Resources.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": "2023-10-10"
+        }
+      ]
+    },
+    {
+      "name": "Melissa Holzberger",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Ms Holzberger is a commercial lawyer with over 20 years\u2019 experience in the resources and energy sectors. She has held senior legal and board positions with several ASX-listed companies and government organisations. She has extensive experience in corporate governance and risk management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

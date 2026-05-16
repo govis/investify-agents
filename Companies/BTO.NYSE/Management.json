@@ -1,0 +1,34 @@
+{
+  "executives": [
+    {
+      "name": "Kelvin Dushnisky",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Mr. Dushnisky was the CEO of AngloGold Ashanti Ltd. and President of Barrick Gold Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chair of the Board",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Liane Kelly",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Ms. Kelly is a Corporate Social Responsibility professional with extensive experience in the mining sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2011",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

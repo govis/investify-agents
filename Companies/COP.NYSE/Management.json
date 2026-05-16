@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Laura Sugg",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Retired executive of ConocoPhillips.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive (Various)",
+          "start_date": null,
+          "end_date": "2010"
+        }
+      ]
+    },
+    {
+      "name": "Ryan Lance",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Chairman and CEO of ConocoPhillips.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "May 2012",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Ryan Lance",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Chairman and CEO of ConocoPhillips.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "May 2012",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

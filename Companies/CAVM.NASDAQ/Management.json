@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Brad Buss",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Former CFO of SolarCity and Cypress Semiconductor. Director at Tesla and Advance Auto Parts.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "July 2016",
+          "end_date": "July 2018"
+        }
+      ]
+    },
+    {
+      "name": "Chris Koopmans",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Mr. Koopmans has served as our Chief Operations Officer since January 2023. He previously served as Executive Vice President, Marketing and Business Operations from 2020 to 2023 and as Executive Vice President, Networking and Processors from 2016 to 2020.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive",
+          "start_date": "Prior to 2018",
+          "end_date": "2018"
+        }
+      ]
+    },
+    {
+      "name": "Sanjay Mehrotra",
+      "age": 65,
+      "age_year": 2023,
+      "background": "Sanjay Mehrotra is President and Chief Executive Officer at Micron Technology. He joined Micron in 2017 after a long career at SanDisk Corporation, which he co-founded and where he served as President and CEO from 2011 to 2016.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2009",
+          "end_date": "2018"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Brad Buss",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Former CFO of SolarCity and Cypress Semiconductor. Director at Tesla and Advance Auto Parts.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "July 2016",
+          "end_date": "July 2018"
+        }
+      ]
+    },
+    {
+      "name": "Sanjay Mehrotra",
+      "age": 65,
+      "age_year": 2023,
+      "background": "Sanjay Mehrotra is President and Chief Executive Officer at Micron Technology. He joined Micron in 2017 after a long career at SanDisk Corporation, which he co-founded and where he served as President and CEO from 2011 to 2016.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2009",
+          "end_date": "2018"
+        }
+      ]
+    }
+  ]
+}

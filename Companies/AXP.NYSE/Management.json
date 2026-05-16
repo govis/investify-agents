@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "James Dimon",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Dimon has been Chairman of the Board and Chief Executive Officer since December 2005 and President since 2004. He was President and Chief Operating Officer from 2004 to 2005. He was Chairman and Chief Executive Officer of Bank One Corporation from 2000 to 2004.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Roles",
+          "start_date": "1985",
+          "end_date": "1998"
+        }
+      ]
+    },
+    {
+      "name": "Michael Angelakis",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Atairos Group Inc. and former Vice Chairman and CFO of Comcast Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2025-03-03",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ursula Burns",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Ursula Burns is an Independent Director. She was the Chairman and CEO of Xerox Corporation and VEON Ltd. She is a member of the National Academy of Engineering and serves on several other boards including Uber and Endeavor.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2004",
+          "end_date": "2023"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Michael Angelakis",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Atairos Group Inc. and former Vice Chairman and CFO of Comcast Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2025-03-03",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ursula Burns",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Ursula Burns is an Independent Director. She was the Chairman and CEO of Xerox Corporation and VEON Ltd. She is a member of the National Academy of Engineering and serves on several other boards including Uber and Endeavor.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2004",
+          "end_date": "2023"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Tracey Meintjes",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Meintjes has over 30 years of experience in mining project development. He is currently a consultant and was previously with Teck Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021-12-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Tracey Meintjes",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Meintjes has over 30 years of experience in mining project development. He is currently a consultant and was previously with Teck Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021-12-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Larry Segerstrom",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Segerstrom is a professional geologist with over 35 years of experience in the mining industry. He was formerly COO of Paramount Gold and Silver Corp. and has held senior positions with Freeport-McMoRan.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2015",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

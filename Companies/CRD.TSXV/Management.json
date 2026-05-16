@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Benoit Lafrance",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Dr. Lafrance is a geologist with over 25 years of experience in mineral exploration and academia. He is currently a Professor at Laurentian University and has served on the boards of several exploration companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Geologist",
+          "start_date": "2005",
+          "end_date": "2008"
+        }
+      ]
+    },
+    {
+      "name": "Birks Bovaird",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Mr. Bovaird is the Chairman of the Board. He has been a director of the Company since 2006. He has extensive experience in corporate finance and the resource industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Birks Bovaird",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Mr. Bovaird is the Chairman of the Board. He has been a director of the Company since 2006. He has extensive experience in corporate finance and the resource industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

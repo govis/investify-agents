@@ -1,0 +1,104 @@
+{
+  "executives": [
+    {
+      "name": "Dennis Kish",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Dennis Kish has served as our President since November 2023 and previously served as our Chief Operating Officer since January 2022. Prior to joining EVgo, Mr. Kish served as a Vice President at Google and as President of Qualcomm CDMA Technologies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and General Manager",
+          "start_date": "Prior to 2014",
+          "end_date": "July 2014"
+        }
+      ]
+    },
+    {
+      "name": "Jonathan Rubinstein",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Former co-CEO of Bridgewater Associates and former Senior Vice President at Apple Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013-05",
+          "end_date": "2016-05"
+        }
+      ]
+    },
+    {
+      "name": "Sanjay Mehta",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Sanjay Mehta has been Vice President and Chief Financial Officer since 2019. Prior to joining Teradyne, he served in various financial leadership roles at Qualcomm, including Senior Vice President and CFO of Qualcomm CDMA Technologies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Segment Chief Financial Officer (QCT)",
+          "start_date": "2010",
+          "end_date": "2015"
+        }
+      ]
+    },
+    {
+      "name": "Steven Mollenkopf",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Independent Chair of the Board. Former CEO of Qualcomm Incorporated. He has extensive experience in engineering and technology leadership.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2013",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jonathan Rubinstein",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Former co-CEO of Bridgewater Associates and former Senior Vice President at Apple Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013-05",
+          "end_date": "2016-05"
+        }
+      ]
+    },
+    {
+      "name": "Mark McLaughlin",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Palo Alto Networks. Former CEO of Verisign.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman of the Board",
+          "start_date": "August 13, 2019",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Steven Mollenkopf",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Independent Chair of the Board. Former CEO of Qualcomm Incorporated. He has extensive experience in engineering and technology leadership.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2013",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ]
+}

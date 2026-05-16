@@ -1,0 +1,118 @@
+{
+  "executives": [
+    {
+      "name": "George Conrades",
+      "age": 85,
+      "age_year": 2024,
+      "background": "Chairman Emeritus of Akamai Technologies, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman / CEO",
+          "start_date": "1999",
+          "end_date": "2013"
+        }
+      ]
+    },
+    {
+      "name": "Janaki Akella",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former Business Leader, Digital Transformation at Google LLC. Former Principal at McKinsey & Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director (Board of Directors)",
+          "start_date": "July 2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Marianne Brown",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Marianne C. Brown was Co-Chief Operating Officer, Global Financial Solutions, of Fidelity National Information Services, Inc. (FIS).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Naomi Seligman",
+      "age": 86,
+      "age_year": 2024,
+      "background": "Senior Partner at Oritani Advisors and co-founder of Research Board, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "November 2001",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "George Conrades",
+      "age": 85,
+      "age_year": 2024,
+      "background": "Chairman Emeritus of Akamai Technologies, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman / CEO",
+          "start_date": "1999",
+          "end_date": "2013"
+        }
+      ]
+    },
+    {
+      "name": "Janaki Akella",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former Business Leader, Digital Transformation at Google LLC. Former Principal at McKinsey & Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director (Board of Directors)",
+          "start_date": "July 2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Marianne Brown",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Marianne C. Brown was Co-Chief Operating Officer, Global Financial Solutions, of Fidelity National Information Services, Inc. (FIS).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Naomi Seligman",
+      "age": 86,
+      "age_year": 2024,
+      "background": "Senior Partner at Oritani Advisors and co-founder of Research Board, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "November 2001",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

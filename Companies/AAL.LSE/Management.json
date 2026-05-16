@@ -1,0 +1,118 @@
+{
+  "executives": [
+    {
+      "name": "Cynthia Carroll",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Cynthia Carroll was previously the CEO of Anglo American plc and has held senior executive roles at Alcan. She is a geologist by training.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2007-03-01",
+          "end_date": "2013-04-01"
+        }
+      ]
+    },
+    {
+      "name": "Guy Young",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Guy Young joined Endeavour in 2023. He was previously CFO of Anglo American Platinum and has held various senior financial roles within the Anglo American Group.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Finance and Business Development roles",
+          "start_date": "1997",
+          "end_date": "2010"
+        }
+      ]
+    },
+    {
+      "name": "Lassina Zerbo",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Dr. Zerbo is the former Executive Secretary of the Comprehensive Nuclear-Test-Ban Treaty Organization (CTBTO) and has served as the Prime Minister of Burkina Faso. He is a renowned expert in nuclear non-proliferation and international diplomacy.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Divisional Principal Geophysicist for Africa / Director of the Geophysical Division for Africa",
+          "start_date": "1995",
+          "end_date": "2004"
+        }
+      ]
+    },
+    {
+      "name": "Marcelo Bastos",
+      "age": 60,
+      "age_year": 2023,
+      "background": "Marcelo Bastos was appointed to the Board in February 2019. He is an experienced resources executive with over 30 years\u2019 experience in the mining industry, including senior roles at BHP, Vale and MMG.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "Apr 2019",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Natascha Viljoen",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Ms. Viljoen has served as Executive Vice President and Chief Operating Officer since October 2023. Previously, she was the CEO of Anglo American Platinum from 2020 to 2023.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Group Head of Processing",
+          "start_date": "2014",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "Phil Mitchell",
+      "age": null,
+      "age_year": null,
+      "background": "Mr Mitchell has over 40 years of experience in the mining industry, including senior executive roles at Rio Tinto and Anglo American. He has extensive experience in project development, operations, and corporate strategy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Executive Committee",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Lassina Zerbo",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Dr. Zerbo is the former Executive Secretary of the Comprehensive Nuclear-Test-Ban Treaty Organization (CTBTO) and has served as the Prime Minister of Burkina Faso. He is a renowned expert in nuclear non-proliferation and international diplomacy.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Divisional Principal Geophysicist for Africa / Director of the Geophysical Division for Africa",
+          "start_date": "1995",
+          "end_date": "2004"
+        }
+      ]
+    },
+    {
+      "name": "Marcelo Bastos",
+      "age": 60,
+      "age_year": 2023,
+      "background": "Marcelo Bastos was appointed to the Board in February 2019. He is an experienced resources executive with over 30 years\u2019 experience in the mining industry, including senior roles at BHP, Vale and MMG.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "Apr 2019",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

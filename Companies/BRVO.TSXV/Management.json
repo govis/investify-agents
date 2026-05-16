@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Heather Laxton",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Ms. Laxton has over 20 years of experience in corporate governance and legal affairs within the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Corporate Secretary",
+          "start_date": "2024-01-22",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Stephen Quin",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Quin is a geologist with over 35 years of experience in the mining industry, including executive roles at Midas Gold and Capstone Mining.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Stephen Quin",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Quin is a geologist with over 35 years of experience in the mining industry, including executive roles at Midas Gold and Capstone Mining.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

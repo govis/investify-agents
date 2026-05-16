@@ -1,0 +1,90 @@
+{
+  "executives": [
+    {
+      "name": "Beverly Goulet",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Beverly joined the Board in July 2017. She has significant experience in the airline industry, having held senior roles at American Airlines, including Senior Vice President and Chief Integration Officer.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Integration Officer",
+          "start_date": "2013-06-10",
+          "end_date": "2017-06-30"
+        }
+      ]
+    },
+    {
+      "name": "Cindy Fiedelman",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Ms. Fiedelman has served as our Chief People Officer since 2016. Previously, she held human resources leadership roles at American Airlines and Avaya.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Vice President, People & Diversity",
+          "start_date": "2013",
+          "end_date": "2015"
+        }
+      ]
+    },
+    {
+      "name": "Gregory Smith",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Gregory D. Smith has been a director since 2021. He was previously CFO and Executive Vice President of Enterprise Operations at The Boeing Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Chairman of the Board of Directors",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Isabella Goren",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former CFO of American Airlines and AMR Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Financial Officer",
+          "start_date": "July 22, 2010",
+          "end_date": "2013"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Gregory Smith",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Gregory D. Smith has been a director since 2021. He was previously CFO and Executive Vice President of Enterprise Operations at The Boeing Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Chairman of the Board of Directors",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Thomas Horton",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of American Airlines.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman",
+          "start_date": "2013-12-09",
+          "end_date": "2014-06-11"
+        }
+      ]
+    }
+  ]
+}

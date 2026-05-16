@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Jagdeep Singh",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Jagdeep Singh has served as our Chief Development Officer since February 2024. Prior to joining ChargePoint, he was the co-founder and CEO of QuantumScape Corporation from 2010 to 2024. He previously founded and served as CEO of Infinera Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Co-founder and CEO",
+          "start_date": "2000",
+          "end_date": "2013"
+        }
+      ]
+    },
+    {
+      "name": "James Dolce",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Dolce is the CEO of Lookout, Inc. and has extensive experience in the networking industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "2014-05-15",
+          "end_date": "2016-01-27"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "James Dolce",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Dolce is the CEO of Lookout, Inc. and has extensive experience in the networking industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "2014-05-15",
+          "end_date": "2016-01-27"
+        }
+      ]
+    }
+  ]
+}

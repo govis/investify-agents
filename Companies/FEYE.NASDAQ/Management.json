@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Michael Berry",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Michael J. Berry has served as our Executive Vice President and Chief Financial Officer since March 2020. Prior to joining NetApp, Mr. Berry served as Executive Vice President and Chief Financial Officer of McAfee, LLC from February 2017 to March 2020. From September 2015 to January 2017, he served as Executive Vice President, Chief Financial Officer and Chief Operating Officer at FireEye, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "EVP, CFO & COO",
+          "start_date": "2015",
+          "end_date": "2017"
+        }
+      ]
+    },
+    {
+      "name": "Sara Andrews",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Chief Information Security Officer at Experian. Former CISO at PepsiCo and Unit 42 at Palo Alto Networks.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "August 2020",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Sara Andrews",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Chief Information Security Officer at Experian. Former CISO at PepsiCo and Unit 42 at Palo Alto Networks.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "August 2020",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ]
+}

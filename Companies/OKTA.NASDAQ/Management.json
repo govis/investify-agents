@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Jeff Clarke",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Jeff Clarke is the Vice Chairman and Chief Operating Officer of Dell Technologies. He is responsible for the company's global supply chain, global support and deployment, and the Infrastructure Solutions Group and Client Solutions Group.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Board Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ric Smith",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Ric Smith has served as our Chief Product and Technology Officer since March 2021. Prior to joining SentinelOne, Mr. Smith served in various roles at Medallia, Inc., including as Senior Vice President of Engineering. Previously, he held various engineering leadership roles at Oracle Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President of Products and Technology",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jeff Clarke",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Jeff Clarke is the Vice Chairman and Chief Operating Officer of Dell Technologies. He is responsible for the company's global supply chain, global support and deployment, and the Infrastructure Solutions Group and Client Solutions Group.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Board Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

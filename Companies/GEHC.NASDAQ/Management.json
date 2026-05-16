@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Frank Jimenez",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Frank R. Jimenez is Group Vice President and General Counsel of GE HealthCare and previously served as General Counsel of the Navy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "General Counsel and Corporate Secretary",
+          "start_date": "2023-01-04",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Risa Lavizzo-Mourey",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Dr. Risa Lavizzo-Mourey has been a director since 2018. She is President Emerita of the Robert Wood Johnson Foundation and a professor at the University of Pennsylvania.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Lead Director",
+          "start_date": "January 2023",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Risa Lavizzo-Mourey",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Dr. Risa Lavizzo-Mourey has been a director since 2018. She is President Emerita of the Robert Wood Johnson Foundation and a professor at the University of Pennsylvania.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Lead Director",
+          "start_date": "January 2023",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Carrie Palin",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Carrie Palin has been a member of our Board since February 2021. She is currently the Senior Vice President and Chief Marketing Officer of Cisco Systems, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Marketing Officer",
+          "start_date": "2019",
+          "end_date": "2021"
+        }
+      ]
+    },
+    {
+      "name": "Godfrey Sullivan",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Splunk Inc. Former President and CEO of Hyperion Solutions Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors / Non-Executive Chairman",
+          "start_date": "2011",
+          "end_date": "2019"
+        }
+      ]
+    },
+    {
+      "name": "Jason Child",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Jason Child has served as our Chief Financial Officer since November 2022. Prior to joining Arm, Mr. Child served as Senior Vice President and Chief Financial Officer of Splunk Inc. from 2019 to 2022. He has also held CFO roles at Opendoor, Jawbone, and Groupon, and spent over 11 years at Amazon in various financial leadership roles.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Financial Officer",
+          "start_date": "May 6, 2019",
+          "end_date": "November 2022"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Godfrey Sullivan",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Splunk Inc. Former President and CEO of Hyperion Solutions Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors / Non-Executive Chairman",
+          "start_date": "2011",
+          "end_date": "2019"
+        }
+      ]
+    }
+  ]
+}

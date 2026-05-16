@@ -1,0 +1,132 @@
+{
+  "executives": [
+    {
+      "name": "Beth Mooney",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former Chairman and Chief Executive Officer, KeyCorp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Charles Giancarlo",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Pure Storage, Inc. Former Managing Director at Silver Lake Partners and Executive Vice President at Cisco Systems.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2008",
+          "end_date": "2017"
+        }
+      ]
+    },
+    {
+      "name": "Sander van\u2019t Noordende",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Sander van\u2019t Noordende is the CEO of Randstad N.V. and former Group Chief Executive of the Products Operating Group at Accenture.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Group Chief Executive (various operating groups including Products and Management Consulting)",
+          "start_date": "1987",
+          "end_date": "2019"
+        }
+      ]
+    },
+    {
+      "name": "Tracey Travis",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Executive Vice President and CFO of The Est\u00e9e Lauder Companies Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "William Green",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Accenture.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO (2004\u20132010), Chairman of the Board (2006\u20132013)",
+          "start_date": "2004",
+          "end_date": "2013"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Beth Mooney",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former Chairman and Chief Executive Officer, KeyCorp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Charles Giancarlo",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Pure Storage, Inc. Former Managing Director at Silver Lake Partners and Executive Vice President at Cisco Systems.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2008",
+          "end_date": "2017"
+        }
+      ]
+    },
+    {
+      "name": "Tracey Travis",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Executive Vice President and CFO of The Est\u00e9e Lauder Companies Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "William Green",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Accenture.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO (2004\u20132010), Chairman of the Board (2006\u20132013)",
+          "start_date": "2004",
+          "end_date": "2013"
+        }
+      ]
+    }
+  ]
+}

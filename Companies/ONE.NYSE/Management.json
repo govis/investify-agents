@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "James Dimon",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Dimon has been Chairman of the Board and Chief Executive Officer since December 2005 and President since 2004. He was President and Chief Operating Officer from 2004 to 2005. He was Chairman and Chief Executive Officer of Bank One Corporation from 2000 to 2004.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman and CEO",
+          "start_date": "2000",
+          "end_date": "2004"
+        }
+      ]
+    },
+    {
+      "name": "Stephen Burke",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former CEO of NBCUniversal and former COO of Comcast Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2003",
+          "end_date": "2004"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "James Dimon",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Dimon has been Chairman of the Board and Chief Executive Officer since December 2005 and President since 2004. He was President and Chief Operating Officer from 2004 to 2005. He was Chairman and Chief Executive Officer of Bank One Corporation from 2000 to 2004.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman and CEO",
+          "start_date": "2000",
+          "end_date": "2004"
+        }
+      ]
+    },
+    {
+      "name": "Stephen Burke",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former CEO of NBCUniversal and former COO of Comcast Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2003",
+          "end_date": "2004"
+        }
+      ]
+    }
+  ]
+}

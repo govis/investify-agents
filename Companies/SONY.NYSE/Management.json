@@ -1,0 +1,104 @@
+{
+  "executives": [
+    {
+      "name": "Bert Nordberg",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Deputy Chairman. Former Chairman of Vestas Wind Systems and CEO of Sony Mobile Communications.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and CEO, Sony Mobile Communications",
+          "start_date": "2009",
+          "end_date": "2012"
+        }
+      ]
+    },
+    {
+      "name": "John Roos",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former U.S. Ambassador to Japan. He has served as a Director since 2013.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "June 2014",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "Nora Denzel",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Interim CEO of Outerwall Inc. and former executive at Intuit and HP. Director since 2014.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2025",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Peter Bonfield",
+      "age": 80,
+      "age_year": 2024,
+      "background": "Sir Peter Bonfield is an Independent Director. He was formerly the CEO of British Telecommunications and Chairman and CEO of ICL plc. He has extensive experience in the international technology and telecommunications industries.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2005",
+          "end_date": "2015"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "John Roos",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former U.S. Ambassador to Japan. He has served as a Director since 2013.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "June 2014",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "Nora Denzel",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Interim CEO of Outerwall Inc. and former executive at Intuit and HP. Director since 2014.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2025",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Peter Bonfield",
+      "age": 80,
+      "age_year": 2024,
+      "background": "Sir Peter Bonfield is an Independent Director. He was formerly the CEO of British Telecommunications and Chairman and CEO of ICL plc. He has extensive experience in the international technology and telecommunications industries.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2005",
+          "end_date": "2015"
+        }
+      ]
+    }
+  ]
+}

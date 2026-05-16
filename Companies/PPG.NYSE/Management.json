@@ -1,0 +1,104 @@
+{
+  "executives": [
+    {
+      "name": "Leon Topalian",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Topalian has served as Chair of the Board since September 2022, President and Chief Executive Officer since January 2020, and President and Chief Operating Officer from September 2019 to December 2019. He previously served as an Executive Vice President from 2017 to 2019 and a Vice President from 2013 to 2017. He has been with Nucor since 1996.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "July 16, 2025",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael Lamach",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Executive Chair and Chief Executive Officer of Trane Technologies plc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director / Independent Lead Director",
+          "start_date": "2010",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Stephen Angel",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Former CEO of Linde plc. He has extensive experience in industrial and global operations.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2011",
+          "end_date": "2024"
+        }
+      ]
+    },
+    {
+      "name": "William Hernandez",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Former Senior Vice President and Chief Financial Officer of PPG Industries, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior VP & CFO",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Leon Topalian",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Topalian has served as Chair of the Board since September 2022, President and Chief Executive Officer since January 2020, and President and Chief Operating Officer from September 2019 to December 2019. He previously served as an Executive Vice President from 2017 to 2019 and a Vice President from 2013 to 2017. He has been with Nucor since 1996.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "July 16, 2025",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael Lamach",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Executive Chair and Chief Executive Officer of Trane Technologies plc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director / Independent Lead Director",
+          "start_date": "2010",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Stephen Angel",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Former CEO of Linde plc. He has extensive experience in industrial and global operations.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2011",
+          "end_date": "2024"
+        }
+      ]
+    }
+  ]
+}

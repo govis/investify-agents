@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Cecilia Sandberg",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Cecilia Sandberg is the Senior Vice President, Chief Human Resources Officer. She joined Atlas Copco in 2015 and has extensive experience in HR from various international companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Human Resources roles",
+          "start_date": "1999",
+          "end_date": "2007"
+        }
+      ]
+    },
+    {
+      "name": "Marcus Wallenberg",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Chairman of the Board. Chairman of SEB and FAM. Board member of AstraZeneca and Investor AB.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Board Member",
+          "start_date": "1999",
+          "end_date": "2014"
+        }
+      ]
+    },
+    {
+      "name": "Peter Bonfield",
+      "age": 80,
+      "age_year": 2024,
+      "background": "Sir Peter Bonfield is an Independent Director. He was formerly the CEO of British Telecommunications and Chairman and CEO of ICL plc. He has extensive experience in the international technology and telecommunications industries.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2002",
+          "end_date": "2012"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Peter Bonfield",
+      "age": 80,
+      "age_year": 2024,
+      "background": "Sir Peter Bonfield is an Independent Director. He was formerly the CEO of British Telecommunications and Chairman and CEO of ICL plc. He has extensive experience in the international technology and telecommunications industries.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2002",
+          "end_date": "2012"
+        }
+      ]
+    }
+  ]
+}

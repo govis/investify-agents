@@ -1,0 +1,104 @@
+{
+  "executives": [
+    {
+      "name": "Anil Chakravarthy",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Chakravarthy has served as President, Digital Experience Business since January 2020. Prior to joining Adobe, he was Chief Executive Officer of Informatica LLC from 2016 to 2020.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Various leadership roles, including Executive Vice President of Information Security, Senior Vice President of Enterprise Security Group, and Senior Vice President of Storage and Availability Management Group",
+          "start_date": "2004",
+          "end_date": "2013"
+        }
+      ]
+    },
+    {
+      "name": "Brett Shirk",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Brett Shirk has served as our Chief Revenue Officer since February 2020. Prior to joining Fastly, Mr. Shirk served as Executive Vice President and Chief Revenue Officer of Rubrik, Inc., a cloud data management company, from January 2019 to February 2020.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President-Worldwide Sales",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Chirantan \"CJ\" Desai",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Chirantan \"CJ\" Desai has served as our President and Chief Operating Officer since January 2023. He previously served as Chief Product and Engineering Officer from 2016 to 2023.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Executive",
+          "start_date": "Prior to 2013",
+          "end_date": "2013"
+        }
+      ]
+    },
+    {
+      "name": "Eric Brandt",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Brandt has been a director since 2011. He was Executive Vice President and CFO of Broadcom Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Nora Denzel",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Interim CEO of Outerwall Inc. and former executive at Intuit and HP. Director since 2014.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Eric Brandt",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Brandt has been a director since 2011. He was Executive Vice President and CFO of Broadcom Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Nora Denzel",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Interim CEO of Outerwall Inc. and former executive at Intuit and HP. Director since 2014.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

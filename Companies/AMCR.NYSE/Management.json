@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Sheri Edison",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Executive Vice President and General Counsel of Amcor plc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and General Counsel",
+          "start_date": "June 2019",
+          "end_date": "2021"
+        }
+      ]
+    },
+    {
+      "name": "Ken MacKenzie",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Ken MacKenzie was appointed Chairman in September 2017. He was formerly the Managing Director and CEO of Amcor Limited. He has extensive global experience in complex manufacturing and supply chains.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Managing Director and Chief Executive Officer",
+          "start_date": "2005",
+          "end_date": "2015"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Ken MacKenzie",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Ken MacKenzie was appointed Chairman in September 2017. He was formerly the Managing Director and CEO of Amcor Limited. He has extensive global experience in complex manufacturing and supply chains.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Managing Director and Chief Executive Officer",
+          "start_date": "2005",
+          "end_date": "2015"
+        }
+      ]
+    }
+  ]
+}

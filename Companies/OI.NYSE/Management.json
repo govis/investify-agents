@@ -1,0 +1,90 @@
+{
+  "executives": [
+    {
+      "name": "Anastasia Kelly",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Anastasia D. Kelly is Executive Director, Client Relations at DLA Piper and previously served as Vice Chairman of American International Group (AIG).",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2012",
+          "end_date": "2022"
+        }
+      ]
+    },
+    {
+      "name": "John Walker",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Chief Executive Officer of Global Brass and Copper Holdings, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Chair of the Board",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Joseph Rupp",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former Chairman, President and Chief Executive Officer of Olin Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "MaryBeth Wilkinson",
+      "age": 52,
+      "age_year": 2024,
+      "background": "MaryBeth Wilkinson is the Executive Vice President, Chief Legal Officer and Corporate Secretary. Before joining KLA in 2020, she served as Senior Vice President, General Counsel and Corporate Secretary at O-I Glass, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, General Counsel and Corporate Secretary",
+          "start_date": "2010",
+          "end_date": "2020"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Anastasia Kelly",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Anastasia D. Kelly is Executive Director, Client Relations at DLA Piper and previously served as Vice Chairman of American International Group (AIG).",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2012",
+          "end_date": "2022"
+        }
+      ]
+    },
+    {
+      "name": "Joseph Rupp",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former Chairman, President and Chief Executive Officer of Olin Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

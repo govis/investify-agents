@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Robert Rango",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Robert Rango is the former President and CEO of Enevate Corporation and previously held senior leadership roles at Broadcom Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Victor Peng",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Victor Peng is the former President of AMD and former CEO of Xilinx, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "May 2022",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Robert Rango",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Robert Rango is the former President and CEO of Enevate Corporation and previously held senior leadership roles at Broadcom Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Victor Peng",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Victor Peng is the former President of AMD and former CEO of Xilinx, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "May 2022",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

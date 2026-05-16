@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Carol Banducci",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Ms. Banducci was formerly the EVP and CFO of IAMGOLD Corporation. She has extensive experience in financial management and corporate strategy in the mining and manufacturing sectors.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2007",
+          "end_date": "March 31, 2021"
+        }
+      ]
+    },
+    {
+      "name": "Donald Charter",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Mr. Charter is a professional director with extensive experience in the mining industry and capital markets. He has served on numerous public company boards.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman of the Board / Director",
+          "start_date": "2014",
+          "end_date": "2022"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Donald Charter",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Mr. Charter is a professional director with extensive experience in the mining industry and capital markets. He has served on numerous public company boards.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman of the Board / Director",
+          "start_date": "2014",
+          "end_date": "2022"
+        }
+      ]
+    }
+  ]
+}

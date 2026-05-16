@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Joanna Geraghty",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Chief Executive Officer of JetBlue Airways Corporation. Previously served as President and COO of JetBlue.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, Customer Experience",
+          "start_date": "2014-01-01",
+          "end_date": "2018-02-01"
+        }
+      ]
+    },
+    {
+      "name": "Teri McClure",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Former Chief Human Resources Officer and Senior Vice President of Labor of United Parcel Service, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Teri McClure",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Former Chief Human Resources Officer and Senior Vice President of Labor of United Parcel Service, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

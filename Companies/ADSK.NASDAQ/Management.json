@@ -1,0 +1,132 @@
+{
+  "executives": [
+    {
+      "name": "Carl Bass",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Bass has served as a member of our board of directors since December 2021. Mr. Bass served as the President and Chief Executive Officer of Autodesk, Inc. from 2006 to 2017.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CTO / COO / Various Executive Roles",
+          "start_date": "1993",
+          "end_date": "2006"
+        }
+      ]
+    },
+    {
+      "name": "Jeff Clarke",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Jeff Clarke is the Vice Chairman and Chief Operating Officer of Dell Technologies. He is responsible for the company's global supply chain, global support and deployment, and the Infrastructure Solutions Group and Client Solutions Group.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Board Director",
+          "start_date": "2011",
+          "end_date": "2017"
+        }
+      ]
+    },
+    {
+      "name": "Ram Krishnan",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Ram Krishnan is Executive Vice President and Chief Operating Officer of Emerson. He joined Emerson in 1994 and has held various leadership roles, including Executive Vice President and Chief Operating Officer since 2021.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director (Member of the Board of Directors)",
+          "start_date": "December 18, 2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Richard Hill",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Novellus Systems. Former Chairman of Marvell (2016-2021).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Stacy Smith",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Stacy J. Smith joined the board in 2023. He previously served as Executive Chairman of Autodesk, Inc. and was the CFO of Intel Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director / Chairman of the Board",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jeff Clarke",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Jeff Clarke is the Vice Chairman and Chief Operating Officer of Dell Technologies. He is responsible for the company's global supply chain, global support and deployment, and the Infrastructure Solutions Group and Client Solutions Group.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Board Director",
+          "start_date": "2011",
+          "end_date": "2017"
+        }
+      ]
+    },
+    {
+      "name": "Ram Krishnan",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Ram Krishnan is Executive Vice President and Chief Operating Officer of Emerson. He joined Emerson in 1994 and has held various leadership roles, including Executive Vice President and Chief Operating Officer since 2021.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director (Member of the Board of Directors)",
+          "start_date": "December 18, 2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Richard Hill",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Novellus Systems. Former Chairman of Marvell (2016-2021).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Stacy Smith",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Stacy J. Smith joined the board in 2023. He previously served as Executive Chairman of Autodesk, Inc. and was the CFO of Intel Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director / Chairman of the Board",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "executives": [
+    {
+      "name": "Michael Clark",
+      "age": 65,
+      "age_year": 2024,
+      "background": "President of B-Filer Inc. since 2012. Formerly Executive Vice President at Northern Trust.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Peyton Muldoon",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Licensed Real Estate Salesperson at Sotheby's International Realty since 2011.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "March 26, 2018",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Thomas Ulrich",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Managing Director, General Counsel and Chief Compliance Officer of Sprott Asset Management LP since 2012.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President / Principal Executive Officer",
+          "start_date": "2015",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Whitney George",
+      "age": 66,
+      "age_year": 2024,
+      "background": "CEO of Sprott Inc. and has over 30 years of experience in the investment industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Portfolio Manager",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Michael Clark",
+      "age": 65,
+      "age_year": 2024,
+      "background": "President of B-Filer Inc. since 2012. Formerly Executive Vice President at Northern Trust.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Peyton Muldoon",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Licensed Real Estate Salesperson at Sotheby's International Realty since 2011.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "March 26, 2018",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "executives": [
+    {
+      "name": "Aarti Shah",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Former Senior Vice President and Chief Information and Digital Officer of Eli Lilly and Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Lawrence Culp, Jr.",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Culp has served as Chairman and CEO of GE since October 2018. He is also the CEO of GE Aerospace. Prior to joining GE, he served as President and CEO of Danaher Corporation from 2001 to 2014.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO and President; Member of the Board of Directors",
+          "start_date": "1990",
+          "end_date": "2014"
+        }
+      ]
+    },
+    {
+      "name": "Teri List",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Executive Vice President and Chief Financial Officer of Gap Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2011-09",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Aarti Shah",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Former Senior Vice President and Chief Information and Digital Officer of Eli Lilly and Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Lawrence Culp, Jr.",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Culp has served as Chairman and CEO of GE since October 2018. He is also the CEO of GE Aerospace. Prior to joining GE, he served as President and CEO of Danaher Corporation from 2001 to 2014.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO and President; Member of the Board of Directors",
+          "start_date": "1990",
+          "end_date": "2014"
+        }
+      ]
+    },
+    {
+      "name": "Teri List",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Executive Vice President and Chief Financial Officer of Gap Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2011-09",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "executives": [
+    {
+      "name": "Alex Morrison",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Morrison is a CPA with over 30 years of experience in the mining industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Vice President and Chief Financial Officer",
+          "start_date": "2007",
+          "end_date": "2010"
+        }
+      ]
+    },
+    {
+      "name": "David Harquail",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Mr. Harquail is the Chair of the Board. He was the CEO of Franco-Nevada from its IPO in 2007 until 2020. He has served on numerous mining industry boards.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chair of the Board (formerly CEO/President)",
+          "start_date": "2007",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Elliott Pew",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former Chairman of Enerplus Corporation and co-founder of Common Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ewan Downie",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Experienced mining executive and founder of several successful exploration companies, including Wolfden Resources and Premier Gold Mines.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Louis Gignac Sr.",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Chairman of G Mining Ventures. He was the founder of Cambior Inc. and has over 45 years of experience in the mining industry. He is a member of the Canadian Mining Hall of Fame.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Maureen Jensen",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Former Chair and CEO of the Ontario Securities Commission (OSC).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jason O'Connell",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Mr. O'Connell is the Senior Vice President, Energy. He joined Franco-Nevada in 2007 and has been involved in the management of the Company's energy portfolio.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Energy (formerly VP, Oil and Gas)",
+          "start_date": "2019",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Lloyd Hong",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. Hong is the Chief Legal Officer and Corporate Secretary. He joined Franco-Nevada in 2012. He was previously a partner at a major Canadian law firm.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Legal Officer & Corporate Secretary",
+          "start_date": "December 2012",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Paul Brink",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Mr. Brink is the President and Chief Executive Officer of Franco-Nevada. He has been with the Company since its IPO in 2007 and has held various roles including President and Chief Operating Officer. He has over 30 years of experience in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President & Chief Executive Officer and Director",
+          "start_date": "2006",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Sandip Rana",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Rana is the Chief Financial Officer of Franco-Nevada. He joined the Company in 2010. Prior to joining Franco-Nevada, he held senior financial positions at Barrick Gold Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "April 2010",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Elliott Pew",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former Chairman of Enerplus Corporation and co-founder of Common Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ewan Downie",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Experienced mining executive and founder of several successful exploration companies, including Wolfden Resources and Premier Gold Mines.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Louis Gignac Sr.",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Chairman of G Mining Ventures. He was the founder of Cambior Inc. and has over 45 years of experience in the mining industry. He is a member of the Canadian Mining Hall of Fame.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Maureen Jensen",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Former Chair and CEO of the Ontario Securities Commission (OSC).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Derek Evans",
+      "age": 68,
+      "age_year": 2024,
+      "background": "CEO of MEG Energy Corp. and former CEO of Pengrowth Energy Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jennifer Maki",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Former CEO of Vale Canada and Executive Director of Vale Base Metals.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Paul Brink",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Mr. Brink is the President and Chief Executive Officer of Franco-Nevada. He has been with the Company since its IPO in 2007 and has held various roles including President and Chief Operating Officer. He has over 30 years of experience in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President & Chief Executive Officer and Director",
+          "start_date": "2006",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Tom Albanese",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former CEO of Rio Tinto and Vedanta Resources. He has extensive global mining experience.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Diane Garrett",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Dr. Garrett has more than 25 years of experience in the mining industry. She is currently the President and CEO of Hycroft Mining Holding Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President & CEO",
+          "start_date": "2013",
+          "end_date": "2016"
+        }
+      ]
+    },
+    {
+      "name": "Greg Hall",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Greg Hall is a Mining Engineer with over 35 years' experience in the resources sector, specifically in uranium, copper, and gold. He has held senior executive roles at WMC Resources and Rio Tinto, including as Mine Manager of Olympic Dam and Ranger Uranium Mine. He was the founding CEO of Toro Energy Limited and has served as a director of the Australian Uranium Association.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2011",
+          "end_date": "2013"
+        }
+      ]
+    },
+    {
+      "name": "Stuart Harshaw",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Mr. Harshaw is a seasoned mining executive with over 30 years of experience, including senior roles at Vale SA.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "October 2020",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Greg Hall",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Greg Hall is a Mining Engineer with over 35 years' experience in the resources sector, specifically in uranium, copper, and gold. He has held senior executive roles at WMC Resources and Rio Tinto, including as Mine Manager of Olympic Dam and Ranger Uranium Mine. He was the founding CEO of Toro Energy Limited and has served as a director of the Australian Uranium Association.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2011",
+          "end_date": "2013"
+        }
+      ]
+    }
+  ]
+}

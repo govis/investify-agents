@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Moira Smith",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Dr. Smith has over 30 years of experience in the mining industry, specializing in exploration and geology. She was previously the VP Exploration for Liberty Gold Corp. and has held senior positions with Teck Resources and Fronteer Gold.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Navin Dyal",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Mr. Dyal was appointed Chief Financial Officer in 2022. He has over 20 years of experience in finance and mining, previously serving as CFO of Teranga Gold Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2021",
+          "end_date": "2023"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Moira Smith",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Dr. Smith has over 30 years of experience in the mining industry, specializing in exploration and geology. She was previously the VP Exploration for Liberty Gold Corp. and has held senior positions with Teck Resources and Fronteer Gold.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Judith Mosely",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Judith Mosely has over 20 years of experience in the mining finance sector, including senior roles at Soci\u00e9t\u00e9 G\u00e9n\u00e9rale.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "January 1, 2020",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Candace MacGibbon",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Ms. MacGibbon is a Chartered Professional Accountant with over 25 years of experience in the mining sector and capital markets.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": "2022"
+        }
+      ]
+    },
+    {
+      "name": "Christopher Wallace",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Wallace is a managing partner of Firstlight Capital and has over 30 years of experience in the investment industry. He has held senior positions with several Canadian investment dealers.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President & Chief Executive Officer",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Frank Estergaard",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Chartered Professional Accountant and former partner at KPMG. Extensive experience in auditing and financial consulting for public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director and Chair of the Audit Committee",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Candace MacGibbon",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Ms. MacGibbon is a Chartered Professional Accountant with over 25 years of experience in the mining sector and capital markets.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": "2022"
+        }
+      ]
+    },
+    {
+      "name": "Frank Estergaard",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Chartered Professional Accountant and former partner at KPMG. Extensive experience in auditing and financial consulting for public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director and Chair of the Audit Committee",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

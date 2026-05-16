@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Simon McKeon",
+      "age": 68,
+      "age_year": 2023,
+      "background": "Simon is a Non-executive Director and Senior Independent Director. He has extensive experience in the financial services sector and was previously Executive Chairman of Macquarie Group's Victorian office.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "February 2020",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Michael Chaney AO",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Mr Chaney is currently Chairman of Wesfarmers Limited and was previously Chairman of Woodside Petroleum and National Australia Bank. He was Managing Director of Wesfarmers from 1992 to 2005.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman",
+          "start_date": "2005",
+          "end_date": "2015"
+        }
+      ]
+    },
+    {
+      "name": "Simon McKeon",
+      "age": 68,
+      "age_year": 2023,
+      "background": "Simon is a Non-executive Director and Senior Independent Director. He has extensive experience in the financial services sector and was previously Executive Chairman of Macquarie Group's Victorian office.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "February 2020",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

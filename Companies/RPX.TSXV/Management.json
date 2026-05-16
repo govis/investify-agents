@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Michael Michaud",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Michaud has over 30 years of experience in gold exploration and mining. He has been with Wesdome since 2017.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Chief Executive Officer & Director",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Nils Engelstad",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Engelstad is the Vice President, General Counsel. Prior to joining Alamos, he was General Counsel at McEwen Mining Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "~2017",
+          "end_date": "April 4, 2023"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Michael Michaud",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Michaud has over 30 years of experience in gold exploration and mining. He has been with Wesdome since 2017.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, Chief Executive Officer & Director",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Nils Engelstad",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Engelstad is the Vice President, General Counsel. Prior to joining Alamos, he was General Counsel at McEwen Mining Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "~2017",
+          "end_date": "April 4, 2023"
+        }
+      ]
+    }
+  ]
+}

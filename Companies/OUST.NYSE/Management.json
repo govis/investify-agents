@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Susan Heystee",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Susan Heystee has served as a member of our Board since May 2021. She previously served as Senior Vice President of Global Automotive Business at Verizon Connect and held leadership roles at Telogis and Novell.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Carl Bass",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Bass has served as a member of our board of directors since December 2021. Mr. Bass served as the President and Chief Executive Officer of Autodesk, Inc. from 2006 to 2017.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman of the Board",
+          "start_date": "2021",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Susan Heystee",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Susan Heystee has served as a member of our Board since May 2021. She previously served as Senior Vice President of Global Automotive Business at Verizon Connect and held leadership roles at Telogis and Novell.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

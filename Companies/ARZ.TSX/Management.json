@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "George Brack",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Brack has over 30 years of experience in the mining investment banking and corporate development sectors. He was previously the Managing Director and Industry Head, Mining at BMO Nesbitt Burns.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2009",
+          "end_date": "2013"
+        }
+      ]
+    },
+    {
+      "name": "George Paspalas",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Paspalas is the President and CEO of MAG Silver Corp. He has over 30 years of experience in the mining industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President & CEO",
+          "start_date": "2011-08-15",
+          "end_date": "2013-06-01"
+        }
+      ]
+    },
+    {
+      "name": "Paul Kostuik",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Kostuik is a mining engineer with over 35 years of experience in the mining industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2010",
+          "end_date": "2013"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "George Brack",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Brack has over 30 years of experience in the mining investment banking and corporate development sectors. He was previously the Managing Director and Industry Head, Mining at BMO Nesbitt Burns.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2009",
+          "end_date": "2013"
+        }
+      ]
+    },
+    {
+      "name": "Paul Kostuik",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Kostuik is a mining engineer with over 35 years of experience in the mining industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2010",
+          "end_date": "2013"
+        }
+      ]
+    }
+  ]
+}

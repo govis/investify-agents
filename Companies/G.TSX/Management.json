@@ -1,0 +1,174 @@
+{
+  "executives": [
+    {
+      "name": "Charles Jeannes",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Jeannes is a mining industry veteran, formerly the President and CEO of Goldcorp Inc. from 2008 to 2016.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "EVP, Corporate Development",
+          "start_date": "2006",
+          "end_date": "2008"
+        }
+      ]
+    },
+    {
+      "name": "Chris Woodall",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Mr. Woodall has over 30 years of experience in the mining industry, including senior operational roles at Goldcorp and Barrick Gold.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Canada and US Operations",
+          "start_date": "2013-01-01",
+          "end_date": "2016-12-31"
+        }
+      ]
+    },
+    {
+      "name": "Clem Pelletier",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Mr. Pelletier is a process metallurgist with over 50 years of experience in the mining industry, specializing in environmental and permitting issues.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2014",
+          "end_date": "2019"
+        }
+      ]
+    },
+    {
+      "name": "Etienne Morin",
+      "age": 43,
+      "age_year": 2024,
+      "background": "Mr. Morin has over 15 years of experience in mining finance and corporate development. He previously served as Director, Corporate Development at Goldcorp Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Various finance and operations capacities",
+          "start_date": "2007",
+          "end_date": "2018"
+        }
+      ]
+    },
+    {
+      "name": "Jason Attew",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Attew is a mining industry executive with over 25 years of experience in investment banking and corporate strategy. He was previously CFO of Goldcorp Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2016",
+          "end_date": "April 2019"
+        }
+      ]
+    },
+    {
+      "name": "Kevin McArthur",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. McArthur has served as Chief Financial Officer and Treasurer since January 2020. He joined Royal Gold in 2018 as Vice President and Controller.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and CEO",
+          "start_date": "2006",
+          "end_date": "2008"
+        }
+      ]
+    },
+    {
+      "name": "Lenard Boggio",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former partner at PwC where he led the mining practice. Experienced director for several public mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth McGregor",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Ms. McGregor was previously the CFO of Tahoe Resources Inc. and is a Chartered Professional Accountant.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director of Project Finance and Cost Control; Administration Manager (Pe\u00f1asquito mine); Director of Risk",
+          "start_date": "2007",
+          "end_date": "2013"
+        }
+      ]
+    },
+    {
+      "name": "Joe Dick",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Joe Dick has over 35 years of experience in the mining industry. He previously served as Executive Vice President and Chief Operating Officer at Eldorado before transitioning to a strategic role.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Latin American Operations",
+          "start_date": "2016",
+          "end_date": "2019"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Clem Pelletier",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Mr. Pelletier is a process metallurgist with over 50 years of experience in the mining industry, specializing in environmental and permitting issues.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2014",
+          "end_date": "2019"
+        }
+      ]
+    },
+    {
+      "name": "Lenard Boggio",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former partner at PwC where he led the mining practice. Experienced director for several public mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth McGregor",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Ms. McGregor was previously the CFO of Tahoe Resources Inc. and is a Chartered Professional Accountant.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director of Project Finance and Cost Control; Administration Manager (Pe\u00f1asquito mine); Director of Risk",
+          "start_date": "2007",
+          "end_date": "2013"
+        }
+      ]
+    }
+  ]
+}

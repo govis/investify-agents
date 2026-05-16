@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Douglas Tobler",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Tobler has served as Chief Financial Officer of Vista Gold Corp. since July 2019. He has more than 35 years of financial management experience, including over 20 years in the mining industry. Previously, he served as CFO of Lydian International and Alacer Gold Corp.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2013",
+          "end_date": "June 2019"
+        }
+      ]
+    },
+    {
+      "name": "Gillian Davidson",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Dr. Davidson is a sustainability advisor with over 20 years of experience in the extractives sector. She was previously Head of Mining & Metals at the World Economic Forum.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "August 17, 2016",
+          "end_date": "March 13, 2020"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Gillian Davidson",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Dr. Davidson is a sustainability advisor with over 20 years of experience in the extractives sector. She was previously Head of Mining & Metals at the World Economic Forum.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "August 17, 2016",
+          "end_date": "March 13, 2020"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Mark Murphy",
+      "age": 56,
+      "age_year": 2023,
+      "background": "Mark Murphy is Executive Vice President and Chief Financial Officer. Before joining Micron in 2022, he served as CFO of Qorvo, Inc. and held senior financial positions at Delphi Automotive and Praxair.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2015",
+          "end_date": "2016"
+        }
+      ]
+    },
+    {
+      "name": "Robert \"Kelly\" Ortberg",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Ortberg became President and Chief Executive Officer of Boeing in August 2024. He previously served as CEO of Rockwell Collins and later as CEO of Collins Aerospace after its acquisition by United Technologies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "September 13, 2018",
+          "end_date": "2024"
+        }
+      ]
+    },
+    {
+      "name": "Robert Ortberg",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former CEO of Rockwell Collins and former Special Advisor to the Office of the CEO of RTX.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018-09-13",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Robert \"Kelly\" Ortberg",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Ortberg became President and Chief Executive Officer of Boeing in August 2024. He previously served as CEO of Rockwell Collins and later as CEO of Collins Aerospace after its acquisition by United Technologies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "September 13, 2018",
+          "end_date": "2024"
+        }
+      ]
+    },
+    {
+      "name": "Robert Ortberg",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former CEO of Rockwell Collins and former Special Advisor to the Office of the CEO of RTX.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018-09-13",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

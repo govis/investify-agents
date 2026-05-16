@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Brad Buss",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Former CFO of SolarCity and Cypress Semiconductor. Director at Tesla and Advance Auto Parts.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2014",
+          "end_date": "2016"
+        }
+      ]
+    },
+    {
+      "name": "JB Straubel",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Co-founder and CEO of Redwood Materials. Co-founder and former CTO of Tesla.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "August 2006",
+          "end_date": "November 2016"
+        }
+      ]
+    },
+    {
+      "name": "Vaibhav Taneja",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Vaibhav Taneja has served as our Chief Financial Officer since August 2023 and as our Chief Accounting Officer since March 2019. He previously served in various finance and accounting roles at Tesla and SolarCity.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Corporate Controller",
+          "start_date": "March 2016",
+          "end_date": "2016"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "JB Straubel",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Co-founder and CEO of Redwood Materials. Co-founder and former CTO of Tesla.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "August 2006",
+          "end_date": "November 2016"
+        }
+      ]
+    }
+  ]
+}

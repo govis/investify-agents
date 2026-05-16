@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Aris Morfopoulos",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Morfopoulos is a senior executive with over 30 years of experience in corporate management and finance. He has served as a director and officer for several public companies in the resource sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Chris Verrico",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Verrico has over 40 years of experience in the mining and exploration industry. He has served as a director and officer of several public companies, including Xiana Mining Inc. and various junior exploration companies. He has extensive experience in project management and corporate development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Chris Verrico",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Verrico has over 40 years of experience in the mining and exploration industry. He has served as a director and officer of several public companies, including Xiana Mining Inc. and various junior exploration companies. He has extensive experience in project management and corporate development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

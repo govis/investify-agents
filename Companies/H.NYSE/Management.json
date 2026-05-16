@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Penny Pritzker",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Founder and Chairman of PSP Partners. Former U.S. Secretary of Commerce.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2009",
+          "end_date": "2013"
+        }
+      ]
+    },
+    {
+      "name": "Tracey Travis",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Executive Vice President and CFO of The Est\u00e9e Lauder Companies Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2025",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Penny Pritzker",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Founder and Chairman of PSP Partners. Former U.S. Secretary of Commerce.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2009",
+          "end_date": "2013"
+        }
+      ]
+    },
+    {
+      "name": "Tracey Travis",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Executive Vice President and CFO of The Est\u00e9e Lauder Companies Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2025",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

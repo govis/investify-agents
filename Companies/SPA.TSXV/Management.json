@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Garnet Dawson",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Dawson is a geologist with over 40 years of experience in the exploration and mining industry. He has held senior management positions with several public companies and has been involved in the discovery and development of several mineral deposits.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ronald Halas",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Mr. Halas is a Professional Engineer with over 30 years of experience in the mining industry, including roles at IAMGOLD, Kinross Gold, and Vale.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2010",
+          "end_date": "2011"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Garnet Dawson",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Dawson is a geologist with over 40 years of experience in the exploration and mining industry. He has held senior management positions with several public companies and has been involved in the discovery and development of several mineral deposits.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

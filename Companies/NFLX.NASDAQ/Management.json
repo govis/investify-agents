@@ -1,0 +1,118 @@
+{
+  "executives": [
+    {
+      "name": "Ann Mather",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former CFO of Pixar. Director at Alphabet Inc., Netflix, and Bumble. Former director at Glu Mobile and MGM Holdings.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2010",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Brad Smith",
+      "age": 60,
+      "age_year": 2024,
+      "background": "President of Marshall University and former Chairman and CEO of Intuit Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2015",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Bradford Smith",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Brad Smith is Microsoft\u2019s vice chair and president. He leads a team of more than 1,500 business, legal and corporate affairs professionals located in 54 countries and operating in more than 120 nations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "March 2015",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Charles Giancarlo",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Pure Storage, Inc. Former Managing Director at Silver Lake Partners and Executive Vice President at Cisco Systems.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2007",
+          "end_date": "2012"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Ann Mather",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former CFO of Pixar. Director at Alphabet Inc., Netflix, and Bumble. Former director at Glu Mobile and MGM Holdings.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2010",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Brad Smith",
+      "age": 60,
+      "age_year": 2024,
+      "background": "President of Marshall University and former Chairman and CEO of Intuit Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2015",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Bradford Smith",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Brad Smith is Microsoft\u2019s vice chair and president. He leads a team of more than 1,500 business, legal and corporate affairs professionals located in 54 countries and operating in more than 120 nations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "March 2015",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Charles Giancarlo",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Pure Storage, Inc. Former Managing Director at Silver Lake Partners and Executive Vice President at Cisco Systems.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2007",
+          "end_date": "2012"
+        }
+      ]
+    }
+  ]
+}

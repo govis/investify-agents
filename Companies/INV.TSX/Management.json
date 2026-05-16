@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Candace MacGibbon",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Ms. MacGibbon is a Chartered Professional Accountant with over 25 years of experience in the mining sector and capital markets.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2015",
+          "end_date": "2021"
+        }
+      ]
+    },
+    {
+      "name": "David Rae",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Rae was appointed President and Chief Executive Officer in May 2020. He joined DPM in 2012 as Executive Vice President and Chief Operating Officer. Prior to joining DPM, he was Vice President, Operations at Falconbridge and Xstrata Nickel.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2017",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "David Rae",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Rae was appointed President and Chief Executive Officer in May 2020. He joined DPM in 2012 as Executive Vice President and Chief Operating Officer. Prior to joining DPM, he was Vice President, Operations at Falconbridge and Xstrata Nickel.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2017",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ]
+}

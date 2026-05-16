@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Laura Alber",
+      "age": 55,
+      "age_year": 2024,
+      "background": "CEO of Williams-Sonoma, Inc. She has served as a Director since 2021.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": "2021"
+        }
+      ]
+    },
+    {
+      "name": "Ronald Kisling",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Ronald W. Kisling has served as our Chief Financial Officer since August 2021. Prior to joining Fastly, Mr. Kisling served as Chief Financial Officer of Fitbit, Inc., a wearable devices company, from June 2018 to August 2021, and as Fitbit\u2019s Chief Accounting Officer from September 2014 to June 2018.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Accounting Officer",
+          "start_date": "2014",
+          "end_date": "June 2018"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Laura Alber",
+      "age": 55,
+      "age_year": 2024,
+      "background": "CEO of Williams-Sonoma, Inc. She has served as a Director since 2021.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ]
+}

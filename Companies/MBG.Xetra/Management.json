@@ -1,0 +1,33 @@
+{
+  "executives": [
+    {
+      "name": "Axel Harries",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Axel Harries has served as a member of our Board since February 2021. He currently serves as Executive Vice President, Product Management & Sales at Mercedes-Benz AG. He has held various leadership roles at Daimler AG since 1993.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President of Product Management and Sales",
+          "start_date": "1990s",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Frank Lindenberg",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Mr. Lindenberg has served as a director since 2021. He previously served as CFO of Mercedes-Benz Cars and CFO of Daimler Trucks. He is a member of the board of directors of various private companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Head of Finance & Controlling / CFO (Mercedes-Benz AG)",
+          "start_date": "2012",
+          "end_date": "2020"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": []
+}

@@ -1,0 +1,104 @@
+{
+  "executives": [
+    {
+      "name": "David Zinsner",
+      "age": 55,
+      "age_year": 2024,
+      "background": "David A. Zinsner has been Intel\u2019s Executive Vice President and CFO since January 2022. Before joining Intel, he was Executive Vice President and CFO at Micron Technology, Inc. from 2018 to 2022. He also served as President and COO of Affirmed Networks and held CFO roles at Analog Devices and Intersil Corp.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Financial Officer",
+          "start_date": "2009",
+          "end_date": "2017"
+        }
+      ]
+    },
+    {
+      "name": "Edward Frank",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Co-founder of Cloud Parity. Former Vice President of Macintosh Hardware Systems Engineering at Apple.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Lisa Su",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Dr. Su is AMD\u2019s Chair, President and Chief Executive Officer. She has been AMD\u2019s President and Chief Executive Officer since October 2014 and Chair of the Board since May 2022. Previously, she served as Senior Vice President and General Manager, Global Business Units from 2012 to 2014. Prior to joining AMD, Dr. Su served as Senior Vice President and General Manager, Networking and Multimedia at Freescale Semiconductor, Inc. and spent 13 years at IBM in various engineering and business leadership positions.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "October 2014",
+          "end_date": "December 2019"
+        }
+      ]
+    },
+    {
+      "name": "Richard Beyer",
+      "age": 75,
+      "age_year": 2023,
+      "background": "Mr. Beyer was the Chairman and CEO of Freescale Semiconductor, Inc. and has held executive roles at Intersil Corporation and Elantec Semiconductor.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Non-Employee Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Edward Frank",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Co-founder of Cloud Parity. Former Vice President of Macintosh Hardware Systems Engineering at Apple.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Lisa Su",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Dr. Su is AMD\u2019s Chair, President and Chief Executive Officer. She has been AMD\u2019s President and Chief Executive Officer since October 2014 and Chair of the Board since May 2022. Previously, she served as Senior Vice President and General Manager, Global Business Units from 2012 to 2014. Prior to joining AMD, Dr. Su served as Senior Vice President and General Manager, Networking and Multimedia at Freescale Semiconductor, Inc. and spent 13 years at IBM in various engineering and business leadership positions.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "October 2014",
+          "end_date": "December 2019"
+        }
+      ]
+    },
+    {
+      "name": "Richard Beyer",
+      "age": 75,
+      "age_year": 2023,
+      "background": "Mr. Beyer was the Chairman and CEO of Freescale Semiconductor, Inc. and has held executive roles at Intersil Corporation and Elantec Semiconductor.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Non-Employee Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

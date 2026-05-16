@@ -1,0 +1,90 @@
+{
+  "executives": [
+    {
+      "name": "David Roberts",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Roberts served as President and Chief Executive Officer of Carlisle Companies Incorporated from 2007 to 2016 and as Chairman from 2014 to 2017.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Business Development",
+          "start_date": "2006",
+          "end_date": "2008"
+        }
+      ]
+    },
+    {
+      "name": "Gregory Boyce",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Mr. Boyce has served as Chair of the Board since 2021. He was previously the Executive Chairman of Peabody Energy Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2008",
+          "end_date": "2019"
+        }
+      ]
+    },
+    {
+      "name": "Janet Clark",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former Executive Vice President and CFO of Marathon Oil Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "January 5, 2004",
+          "end_date": "October 1, 2013"
+        }
+      ]
+    },
+    {
+      "name": "Pierre Brondeau",
+      "age": 65,
+      "age_year": 2023,
+      "background": "Dr. Brondeau has served as Chairman of the Board of Livent since 2018. He is the former CEO and Chairman of FMC Corporation. He also serves on the board of TE Connectivity Ltd.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2011",
+          "end_date": "2018"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Gregory Boyce",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Mr. Boyce has served as Chair of the Board since 2021. He was previously the Executive Chairman of Peabody Energy Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2008",
+          "end_date": "2019"
+        }
+      ]
+    },
+    {
+      "name": "Pierre Brondeau",
+      "age": 65,
+      "age_year": 2023,
+      "background": "Dr. Brondeau has served as Chairman of the Board of Livent since 2018. He is the former CEO and Chairman of FMC Corporation. He also serves on the board of TE Connectivity Ltd.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2011",
+          "end_date": "2018"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Chantal Gosselin",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Ms. Gosselin is a corporate director with over 25 years of experience in the mining industry and financial services.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Chantal Gosselin",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Ms. Gosselin is a corporate director with over 25 years of experience in the mining industry and financial services.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ross Beaty",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Beaty is a geologist and resource entrepreneur with over 45 years of experience in the international minerals and renewable energy industries. He founded Pan American Silver Corp. and Alterra Power Corp.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Founder and Chairman of the Board",
+          "start_date": "1994",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "Gillian Winckler",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Ms. Winckler is a former mining executive and investment banker with over 25 years of experience in the metals and mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director, Chair of the Board",
+          "start_date": "2015",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jennifer Maki",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Former CEO of Vale Canada and Executive Director of Vale Base Metals.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018",
+          "end_date": "2023"
+        }
+      ]
+    }
+  ]
+}

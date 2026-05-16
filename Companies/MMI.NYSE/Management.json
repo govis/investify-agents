@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "George Shaheen",
+      "age": 80,
+      "age_year": 2024,
+      "background": "George T. Shaheen has been a member of our Board since June 2004. He was previously the Chief Executive Officer of Siebel Systems, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Vanessa Wittman",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Vanessa Wittman has served as a member of our board of directors since May 2021. Ms. Wittman served as the Chief Financial Officer of Glossier, Inc. from April 2019 to May 2022.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2011",
+          "end_date": "2012"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "George Shaheen",
+      "age": 80,
+      "age_year": 2024,
+      "background": "George T. Shaheen has been a member of our Board since June 2004. He was previously the Chief Executive Officer of Siebel Systems, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

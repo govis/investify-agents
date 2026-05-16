@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Dmitri Stockton",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Former Senior Vice President of General Electric Company and former Chairman, President, and CEO of GE Asset Management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018-03-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Robert Sanchez",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Ryder System, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2013",
+          "end_date": "March 31, 2026"
+        }
+      ]
+    },
+    {
+      "name": "Tom Pettit",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. Pettit has served as Chief Operations Officer since 2020. Prior to joining Generac, he held senior leadership roles at several global manufacturing companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and General Manager, Supply Chain Solutions",
+          "start_date": null,
+          "end_date": "Prior to 2020"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Dmitri Stockton",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Former Senior Vice President of General Electric Company and former Chairman, President, and CEO of GE Asset Management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018-03-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Robert Sanchez",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Ryder System, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2013",
+          "end_date": "March 31, 2026"
+        }
+      ]
+    }
+  ]
+}

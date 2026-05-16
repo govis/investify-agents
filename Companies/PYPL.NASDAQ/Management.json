@@ -1,0 +1,118 @@
+{
+  "executives": [
+    {
+      "name": "Alyssa Henry",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Alyssa Henry has been a director since 2020. She was previously CEO of Square (now Block, Inc.) and held leadership roles at Amazon Web Services and Microsoft.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "March 2026",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "David Dorman",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of AT&T Corp. and former Chairman of CVS Health Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Board Chair",
+          "start_date": "2015",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Elon Musk",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Elon Musk has served as our Chief Executive Officer since October 2008 and as a member of the Board since April 2004. He is also the founder and CEO of SpaceX, and the owner and executive chairman of X (formerly Twitter).",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO (of X.com/PayPal)",
+          "start_date": "1999",
+          "end_date": "October 2000"
+        }
+      ]
+    },
+    {
+      "name": "Frank Yeary",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Frank D. Yeary has been a director since 2009 and Chairman since January 2023. He is Principal of Darwin Capital Advisors, LLC and was previously Executive Vice Chairman of CamberView Partners, LLC and Vice Chancellor of UC Berkeley.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "July 2015",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Peggy Alford",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Executive Vice President, Global Sales at PayPal Holdings, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President",
+          "start_date": "2011",
+          "end_date": "2023"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Alyssa Henry",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Alyssa Henry has been a director since 2020. She was previously CEO of Square (now Block, Inc.) and held leadership roles at Amazon Web Services and Microsoft.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "March 2026",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Frank Yeary",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Frank D. Yeary has been a director since 2009 and Chairman since January 2023. He is Principal of Darwin Capital Advisors, LLC and was previously Executive Vice Chairman of CamberView Partners, LLC and Vice Chancellor of UC Berkeley.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "July 2015",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "John Donahoe",
+      "age": 63,
+      "age_year": 2024,
+      "background": "President and Chief Executive Officer of Nike, Inc. Former CEO of ServiceNow.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman of the Board",
+          "start_date": "2015",
+          "end_date": "2022"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Jason O'Connell",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Mr. O'Connell is the Senior Vice President, Energy. He joined Franco-Nevada in 2007 and has been involved in the management of the Company's energy portfolio.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "Unknown",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Tim Warman",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Warman is a geologist with over 30 years of experience. He was previously CEO of Fiore Gold Ltd. and held senior roles with Dalradian Resources Inc. and Aurelian Resources Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO & Director",
+          "start_date": "2022",
+          "end_date": "2023"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Tim Warman",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Warman is a geologist with over 30 years of experience. He was previously CEO of Fiore Gold Ltd. and held senior roles with Dalradian Resources Inc. and Aurelian Resources Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO & Director",
+          "start_date": "2022",
+          "end_date": "2023"
+        }
+      ]
+    }
+  ]
+}

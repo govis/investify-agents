@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Kevin Smith",
+      "age": 69,
+      "age_year": 2023,
+      "background": "Sir Kevin Smith joined the Board in 2015. He was previously CEO of GKN plc and has a deep background in the aerospace and automotive industries.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Managing Director, GKN Aerospace",
+          "start_date": "1999-11-01",
+          "end_date": "2002-12-31"
+        }
+      ]
+    },
+    {
+      "name": "Tufan Erginbilgic",
+      "age": 64,
+      "age_year": 2023,
+      "background": "Tufan Erginbilgic joined Rolls-Royce as Chief Executive Officer in January 2023. He previously spent over 20 years at BP, including as CEO of BP's Downstream business. He has held several non-executive directorships in heavy industry and manufacturing companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2011-05-09",
+          "end_date": "2018-01-01"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Kevin Smith",
+      "age": 69,
+      "age_year": 2023,
+      "background": "Sir Kevin Smith joined the Board in 2015. He was previously CEO of GKN plc and has a deep background in the aerospace and automotive industries.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Managing Director, GKN Aerospace",
+          "start_date": "1999-11-01",
+          "end_date": "2002-12-31"
+        }
+      ]
+    },
+    {
+      "name": "Tufan Erginbilgic",
+      "age": 64,
+      "age_year": 2023,
+      "background": "Tufan Erginbilgic joined Rolls-Royce as Chief Executive Officer in January 2023. He previously spent over 20 years at BP, including as CEO of BP's Downstream business. He has held several non-executive directorships in heavy industry and manufacturing companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2011-05-09",
+          "end_date": "2018-01-01"
+        }
+      ]
+    }
+  ]
+}

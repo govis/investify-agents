@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Abby Khandelwal",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Mr. Khandelwal joined B2Gold in 2024 as Chief Financial Officer. He previously served as CFO of Pretium Resources Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Finance",
+          "start_date": "2011-11-01",
+          "end_date": "2022-03-09"
+        }
+      ]
+    },
+    {
+      "name": "Jeane Hull",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Ms. Hull was formerly the EVP and Chief Technical Officer of Peabody Energy. She has extensive experience in engineering and operations.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": "2022"
+        }
+      ]
+    },
+    {
+      "name": "Ken Konkin",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Konkin is a Professional Geologist with over 35 years of experience in exploration and mining. He was instrumental in the discovery of the Valley of the Kings deposit at Pretium Resources Inc. and has worked extensively in the Golden Triangle of British Columbia.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Project Manager",
+          "start_date": "2010",
+          "end_date": "2016"
+        }
+      ]
+    },
+    {
+      "name": "Jacques Perron",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former President and CEO of Pretium Resources Inc. and Thompson Creek Metals Company.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "April 27, 2020",
+          "end_date": "March 2022"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jeane Hull",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Ms. Hull was formerly the EVP and Chief Technical Officer of Peabody Energy. She has extensive experience in engineering and operations.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": "2022"
+        }
+      ]
+    }
+  ]
+}

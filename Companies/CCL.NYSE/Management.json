@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Arnold Donald",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former President and CEO of Carnival Corporation & plc. He joined the board in 2023.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer (2013\u20132022); Director (2001\u20132023)",
+          "start_date": "2001",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Randall Weisenburger",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Weisenburger is the Managing Member of Mile 26 Capital LLC. He was previously the CFO of Omnicom Group Inc. and a founding member of Wasserstein Perella & Co.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2009",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Arnold Donald",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former President and CEO of Carnival Corporation & plc. He joined the board in 2023.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer (2013\u20132022); Director (2001\u20132023)",
+          "start_date": "2001",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Randall Weisenburger",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Weisenburger is the Managing Member of Mile 26 Capital LLC. He was previously the CFO of Omnicom Group Inc. and a founding member of Wasserstein Perella & Co.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2009",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

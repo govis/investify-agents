@@ -1,0 +1,146 @@
+{
+  "executives": [
+    {
+      "name": "Bill Washington",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Mr. Washington has over 30 years of experience in investment banking and the mining sector.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "Unknown",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Eugene Lei",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Mr. Lei was appointed Chief Financial Officer in 2022. He joined Hudbay in 2012 and has held progressively senior roles in corporate development and strategy. Prior to Hudbay, he was an investment banker at a major Canadian bank.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jeane Hull",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Ms. Hull was formerly the EVP and Chief Technical Officer of Peabody Energy. She has extensive experience in engineering and operations.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Patrick Donnelly",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Mr. Donnelly was appointed Senior Vice President, Legal and Organizational Effectiveness in 2022. He joined Hudbay in 2008 and has served as General Counsel since 2011.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Peter Kukielski",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Mr. Kukielski was appointed President and Chief Executive Officer of Hudbay in 2019. He has more than 30 years of experience in the mining industry. Previously, he was Executive Chairman of Waratah Resources Limited and President and CEO of Nevsun Resources Ltd. He also served as Chief Executive of ArcelorMittal Mining and held executive positions at Teck Resources and Falconbridge.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": "2023"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Bill Washington",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Mr. Washington has over 30 years of experience in investment banking and the mining sector.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "Unknown",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Eugene Lei",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Mr. Lei was appointed Chief Financial Officer in 2022. He joined Hudbay in 2012 and has held progressively senior roles in corporate development and strategy. Prior to Hudbay, he was an investment banker at a major Canadian bank.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jeane Hull",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Ms. Hull was formerly the EVP and Chief Technical Officer of Peabody Energy. She has extensive experience in engineering and operations.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Patrick Donnelly",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Mr. Donnelly was appointed Senior Vice President, Legal and Organizational Effectiveness in 2022. He joined Hudbay in 2008 and has served as General Counsel since 2011.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Peter Kukielski",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Mr. Kukielski was appointed President and Chief Executive Officer of Hudbay in 2019. He has more than 30 years of experience in the mining industry. Previously, he was Executive Chairman of Waratah Resources Limited and President and CEO of Nevsun Resources Ltd. He also served as Chief Executive of ArcelorMittal Mining and held executive positions at Teck Resources and Falconbridge.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": "2023"
+        }
+      ]
+    }
+  ]
+}

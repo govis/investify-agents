@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "James Hackett",
+      "age": 70,
+      "age_year": 2024,
+      "background": "President of Tessellation Services, LLC. Former Executive Chairman of Anadarko Petroleum Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Advisory Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Scott Rowe",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Rowe has served as President and Chief Executive Officer since April 2017. Prior to joining Flowserve, he served as President of the Cameron Group, a segment of Schlumberger Limited, from April 2016 to April 2017. He previously served as President and CEO of Cameron International Corporation from October 2015 to April 2016.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2002",
+          "end_date": "2017-03"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "James Hackett",
+      "age": 70,
+      "age_year": 2024,
+      "background": "President of Tessellation Services, LLC. Former Executive Chairman of Anadarko Petroleum Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Advisory Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

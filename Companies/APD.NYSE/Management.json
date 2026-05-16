@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Jessica Graziano",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Ms. Graziano was appointed Senior Vice President and Chief Financial Officer in August 2022. Before joining U. S. Steel, she served as Executive Vice President and Chief Financial Officer of United Rentals, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "December 1, 2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Robert Dixon",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former CEO of Realogy Holdings Corp. and former executive at PepsiCo.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President & General Manager (Merchant Gases)",
+          "start_date": "1983",
+          "end_date": "2012"
+        }
+      ]
+    },
+    {
+      "name": "Susan Carter",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Susan K. Carter has served as a director since 2020. She previously served as Senior Vice President and Chief Financial Officer of Ingersoll Rand plc from 2013 to 2020.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2011",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jessica Graziano",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Ms. Graziano was appointed Senior Vice President and Chief Financial Officer in August 2022. Before joining U. S. Steel, she served as Executive Vice President and Chief Financial Officer of United Rentals, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "December 1, 2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Susan Carter",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Susan K. Carter has served as a director since 2020. She previously served as Senior Vice President and Chief Financial Officer of Ingersoll Rand plc from 2013 to 2020.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2011",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "executives": [
+    {
+      "name": "Carlos Rodriguez",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Executive Chair of ADP, Inc. Former CEO of ADP.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "November 2011",
+          "end_date": "December 31, 2022"
+        }
+      ]
+    },
+    {
+      "name": "Linda Gooden",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Executive Vice President, Information Systems & Global Solutions of Lockheed Martin Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Linnie Haynesworth",
+      "age": 62,
+      "age_year": 2023,
+      "background": "Ms. Haynesworth was a Sector Vice President and General Manager at Northrop Grumman Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael Gregoire",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Former CEO of CA Technologies and Taleo Corporation. Director since 2019.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2014",
+          "end_date": "2019"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Linda Gooden",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Executive Vice President, Information Systems & Global Solutions of Lockheed Martin Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Linnie Haynesworth",
+      "age": 62,
+      "age_year": 2023,
+      "background": "Ms. Haynesworth was a Sector Vice President and General Manager at Northrop Grumman Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael Gregoire",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Former CEO of CA Technologies and Taleo Corporation. Director since 2019.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2014",
+          "end_date": "2019"
+        }
+      ]
+    }
+  ]
+}

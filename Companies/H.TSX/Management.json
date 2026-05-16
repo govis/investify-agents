@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Anne Giardini",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Ms. Giardini is a lawyer and executive with over 30 years of experience in the resource sector. She was previously President of Weyerhaeuser Company Limited and serves on several boards.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018-08-15",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "Susan Wolburgh Jenah",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Ms. Wolburgh Jenah is the former President and CEO of the Investment Industry Regulatory Organization of Canada (IIROC). She serves on several boards and is a member of the Order of Canada.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director (Interim Chair of the Board as of March 2025)",
+          "start_date": "January 2020",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Anne Giardini",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Ms. Giardini is a lawyer and executive with over 30 years of experience in the resource sector. She was previously President of Weyerhaeuser Company Limited and serves on several boards.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018-08-15",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "Susan Wolburgh Jenah",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Ms. Wolburgh Jenah is the former President and CEO of the Investment Industry Regulatory Organization of Canada (IIROC). She serves on several boards and is a member of the Order of Canada.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director (Interim Chair of the Board as of March 2025)",
+          "start_date": "January 2020",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Donald Kayne",
+      "age": 65,
+      "age_year": 2023,
+      "background": "Donald Kayne is the President and CEO of Canfor Corporation and CEO of Canfor Pulp Products Inc. He has over 40 years of experience in the forest products industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer, Director",
+          "start_date": "2011",
+          "end_date": "2024"
+        }
+      ]
+    },
+    {
+      "name": "Susan Yurkovich",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Ms. Yurkovich is the Senior Vice President, Strategy at Canfor Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "January 2025",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Donald Kayne",
+      "age": 65,
+      "age_year": 2023,
+      "background": "Donald Kayne is the President and CEO of Canfor Corporation and CEO of Canfor Pulp Products Inc. He has over 40 years of experience in the forest products industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer, Director",
+          "start_date": "2011",
+          "end_date": "2024"
+        }
+      ]
+    }
+  ]
+}

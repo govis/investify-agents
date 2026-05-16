@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Brad Smith",
+      "age": 60,
+      "age_year": 2024,
+      "background": "President of Marshall University and former Chairman and CEO of Intuit Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": "2022"
+        }
+      ]
+    },
+    {
+      "name": "Erika James",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Dean of the Wharton School of the University of Pennsylvania.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director (Board of Directors)",
+          "start_date": "August 14, 2018",
+          "end_date": "2023"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Brad Smith",
+      "age": 60,
+      "age_year": 2024,
+      "background": "President of Marshall University and former Chairman and CEO of Intuit Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": "2022"
+        }
+      ]
+    },
+    {
+      "name": "Erika James",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Dean of the Wharton School of the University of Pennsylvania.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director (Board of Directors)",
+          "start_date": "August 14, 2018",
+          "end_date": "2023"
+        }
+      ]
+    }
+  ]
+}

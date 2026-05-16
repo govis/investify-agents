@@ -1,0 +1,47 @@
+{
+  "executives": [
+    {
+      "name": "Tie Li",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Mr. Tie Li has served as our director since July 2016 and our chief financial officer since May 2016. Prior to joining our company, Mr. Li served as a vice president of Autohome from September 2014 to March 2016. Prior to that, Mr. Li worked at Autohome as its financial director from 2008 to 2014. From 2002 to 2008, Mr. Li worked at PricewaterhouseCoopers Zhong Tian LLP.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Vice President of Finance",
+          "start_date": null,
+          "end_date": "2015"
+        }
+      ]
+    },
+    {
+      "name": "Xiang Li",
+      "age": 42,
+      "age_year": 2024,
+      "background": "Mr. Xiang Li is our founder and has served as our chairman of the board of directors and chief executive officer since our inception. Mr. Li is a serial entrepreneur with approximately 20 years of experience in creating and managing internet companies in China. Prior to founding our company, Mr. Li founded autohome.com.cn, or Autohome (NYSE: ATHM), and served as its president from 1999 to June 2015.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Founder and President",
+          "start_date": "2005",
+          "end_date": "2015"
+        }
+      ]
+    },
+    {
+      "name": "Zheng Fan",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Zheng Fan has served as our independent director since October 2020. Mr. Fan served as a co-founder and vice president of Autohome from 1999 to 2016.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Co-founder and Vice President",
+          "start_date": "June 1999",
+          "end_date": "October 2016"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": []
+}

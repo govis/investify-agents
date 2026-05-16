@@ -1,0 +1,104 @@
+{
+  "executives": [
+    {
+      "name": "Douglas Kirwin",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Mr. Kirwin is an independent geologist with over 45 years of international experience. He was previously Executive Vice President of Ivanhoe Mines Limited.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President",
+          "start_date": "1995",
+          "end_date": "2012"
+        }
+      ]
+    },
+    {
+      "name": "Livia Mahler",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Livia Mahler has over 30 years of experience in the venture capital and investment sectors.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013-05-01",
+          "end_date": "2016-05-01"
+        }
+      ]
+    },
+    {
+      "name": "Peter Meredith",
+      "age": 80,
+      "age_year": 2024,
+      "background": "Mr. Meredith has over 40 years of experience in the mining industry and was previously the CFO of Ivanhoe Mines Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Officer / Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Tom Albanese",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former CEO of Rio Tinto and Vedanta Resources. He has extensive global mining experience.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2006",
+          "end_date": "2007"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Livia Mahler",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Livia Mahler has over 30 years of experience in the venture capital and investment sectors.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013-05-01",
+          "end_date": "2016-05-01"
+        }
+      ]
+    },
+    {
+      "name": "Peter Meredith",
+      "age": 80,
+      "age_year": 2024,
+      "background": "Mr. Meredith has over 40 years of experience in the mining industry and was previously the CFO of Ivanhoe Mines Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Officer / Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Tom Albanese",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former CEO of Rio Tinto and Vedanta Resources. He has extensive global mining experience.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2006",
+          "end_date": "2007"
+        }
+      ]
+    }
+  ]
+}

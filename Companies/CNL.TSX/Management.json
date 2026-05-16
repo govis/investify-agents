@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Tim Warman",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Warman is a geologist with over 30 years of experience. He was previously CEO of Fiore Gold Ltd. and held senior roles with Dalradian Resources Inc. and Aurelian Resources Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2010",
+          "end_date": "2018"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Tim Warman",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Warman is a geologist with over 30 years of experience. He was previously CEO of Fiore Gold Ltd. and held senior roles with Dalradian Resources Inc. and Aurelian Resources Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2010",
+          "end_date": "2018"
+        }
+      ]
+    },
+    {
+      "name": "Paul Murphy",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Murphy is the Chairman of the Board. He was previously a partner at PricewaterhouseCoopers LLP where he served as the National Mining Leader in Canada.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director, Chair of the Audit Committee",
+          "start_date": "Prior to 2024",
+          "end_date": "December 2024"
+        }
+      ]
+    }
+  ]
+}

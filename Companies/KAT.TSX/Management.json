@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Richmond Fenn",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Mr. Fenn has over 40 years of experience in the mining industry, including senior roles at Freeport-McMoRan.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Steven Kalmin",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Steven Kalmin joined Glencore in 1999 and has been the Chief Financial Officer since 2005. He oversaw the company's IPO in 2011 and the merger with Xstrata in 2013. He holds a Bachelor of Commerce from the University of New South Wales and is a member of the Institute of Chartered Accountants in Australia.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": "2020"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Steven Kalmin",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Steven Kalmin joined Glencore in 1999 and has been the Chief Financial Officer since 2005. He oversaw the company's IPO in 2011 and the merger with Xstrata in 2013. He holds a Bachelor of Commerce from the University of New South Wales and is a member of the Institute of Chartered Accountants in Australia.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": "2020"
+        }
+      ]
+    }
+  ]
+}

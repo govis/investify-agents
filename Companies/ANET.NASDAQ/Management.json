@@ -1,0 +1,47 @@
+{
+  "executives": [
+    {
+      "name": "Anshul Sadana",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Anshul Sadana has served as our Chief Operating Officer since May 2019. Previously, he served as our Senior Vice President, Customer Engineering from January 2016 to May 2019. Mr. Sadana joined Arista in 2007 and has held various leadership roles in engineering and customer advocacy. Prior to Arista, he held engineering positions at Cisco Systems and Nortel Networks. Mr. Sadana holds a B.E. in Electronics and Communication from the University of Delhi and an M.S. in Computer Science from the University of Illinois at Chicago.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2007",
+          "end_date": "2024-05-21"
+        }
+      ]
+    },
+    {
+      "name": "Chantelle Breithaupt",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Chantelle Breithaupt has served as our Chief Financial Officer since February 2024. Prior to joining Arista, Ms. Breithaupt served as Senior Vice President and Chief Financial Officer of Aspen Technology, Inc. from 2021 to 2023. Previously, she held various senior finance roles at Cisco Systems, Inc. and General Electric Company. Ms. Breithaupt holds a B.A. in Economics and Business from Wilfrid Laurier University.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer & Senior Vice President",
+          "start_date": "January 2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Kenneth Duda",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Kenneth Duda is a co-founder of Arista and has served as our Chief Technology Officer and Senior Vice President, Software Engineering since September 2011. He previously served as our Vice President, Software Engineering from 2004 to 2011. Prior to Arista, Dr. Duda was a co-founder of Granite Systems and held engineering roles at Cisco Systems. Dr. Duda holds a B.S. and M.S. in Computer Science and Electrical Engineering from MIT and a Ph.D. in Computer Science from Stanford University.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Founder, Chief Technology Officer, and Senior Vice President of Software Engineering",
+          "start_date": "November 2004",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": []
+}

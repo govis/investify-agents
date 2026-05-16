@@ -1,0 +1,216 @@
+{
+  "executives": [
+    {
+      "name": "David Dorman",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of AT&T Corp. and former Chairman of CVS Health Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2014",
+          "end_date": "2015"
+        }
+      ]
+    },
+    {
+      "name": "Devin Wenig",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Former President and CEO of eBay Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "July 2015",
+          "end_date": "August 2019"
+        }
+      ]
+    },
+    {
+      "name": "Edward Barnholt",
+      "age": 81,
+      "age_year": 2024,
+      "background": "Edward Barnholt is the Chairman of the Board of KLA. He was formerly the President and CEO of Agilent Technologies, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "2005",
+          "end_date": "2015"
+        }
+      ]
+    },
+    {
+      "name": "Frank Yeary",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Frank D. Yeary has been a director since 2009 and Chairman since January 2023. He is Principal of Darwin Capital Advisors, LLC and was previously Executive Vice Chairman of CamberView Partners, LLC and Vice Chancellor of UC Berkeley.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "January 2015",
+          "end_date": "July 2015"
+        }
+      ]
+    },
+    {
+      "name": "John Donahoe",
+      "age": 63,
+      "age_year": 2024,
+      "background": "President and Chief Executive Officer of Nike, Inc. Former CEO of ServiceNow.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and CEO",
+          "start_date": "2008",
+          "end_date": "2015"
+        }
+      ]
+    },
+    {
+      "name": "Marc Andreessen",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Co-founder and General Partner of Andreessen Horowitz.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "September 2008",
+          "end_date": "2014"
+        }
+      ]
+    },
+    {
+      "name": "Margaret Whitman",
+      "age": 67,
+      "age_year": 2024,
+      "background": "U.S. Ambassador to Kenya; former CEO of Hewlett Packard Enterprise.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "1998",
+          "end_date": "2008"
+        }
+      ]
+    },
+    {
+      "name": "Maynard Webb",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Founder of Webb Investment Network and former COO of eBay Inc. He has served as a Director since 2006.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2002",
+          "end_date": "2006"
+        }
+      ]
+    },
+    {
+      "name": "Peggy Alford",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Executive Vice President, Global Sales at PayPal Holdings, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Scott Schenkel",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Scott F. Schenkel has been a member of our Board since November 2017. He previously served as the interim Chief Executive Officer of eBay Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Financial Officer",
+          "start_date": "2015",
+          "end_date": "September 2019"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "David Dorman",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of AT&T Corp. and former Chairman of CVS Health Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2014",
+          "end_date": "2015"
+        }
+      ]
+    },
+    {
+      "name": "Devin Wenig",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Former President and CEO of eBay Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "July 2015",
+          "end_date": "August 2019"
+        }
+      ]
+    },
+    {
+      "name": "Edward Barnholt",
+      "age": 81,
+      "age_year": 2024,
+      "background": "Edward Barnholt is the Chairman of the Board of KLA. He was formerly the President and CEO of Agilent Technologies, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "2005",
+          "end_date": "2015"
+        }
+      ]
+    },
+    {
+      "name": "Frank Yeary",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Frank D. Yeary has been a director since 2009 and Chairman since January 2023. He is Principal of Darwin Capital Advisors, LLC and was previously Executive Vice Chairman of CamberView Partners, LLC and Vice Chancellor of UC Berkeley.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "January 2015",
+          "end_date": "July 2015"
+        }
+      ]
+    },
+    {
+      "name": "Marc Andreessen",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Co-founder and General Partner of Andreessen Horowitz.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "September 2008",
+          "end_date": "2014"
+        }
+      ]
+    }
+  ]
+}

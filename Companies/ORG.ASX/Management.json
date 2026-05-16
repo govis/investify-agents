@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Helen Hardy",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Helen Hardy is an independent director. She has extensive experience in the energy sector, having served as Company Secretary of Origin Energy Limited.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Corporate Secretary",
+          "start_date": "2019",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Sandra McInnes",
+      "age": null,
+      "age_year": null,
+      "background": "Sandra McInnes is the Chief Sustainability Officer, leading the Company's ESG strategy, health, safety, and community relations. She has extensive experience in corporate affairs and sustainability within the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "October 2024",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Sandra McInnes",
+      "age": null,
+      "age_year": null,
+      "background": "Sandra McInnes is the Chief Sustainability Officer, leading the Company's ESG strategy, health, safety, and community relations. She has extensive experience in corporate affairs and sustainability within the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "October 2024",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

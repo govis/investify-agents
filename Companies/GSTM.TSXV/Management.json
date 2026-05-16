@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Helmut Finger",
+      "age": 78,
+      "age_year": 2024,
+      "background": "Mr. Finger is a businessman with extensive experience in international trade and finance, particularly in the European markets.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Advisor",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ken Konkin",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Konkin is a Professional Geologist with over 35 years of experience in exploration and mining. He was instrumental in the discovery of the Valley of the Kings deposit at Pretium Resources Inc. and has worked extensively in the Golden Triangle of British Columbia.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and CEO",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Scott Davis",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Mr. Davis is a partner of Cross Davis & Company LLP, a firm focused on providing accounting and management services to publicly listed companies. He has over 20 years of experience in the financial sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer and Secretary",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Ronald-Peter St\u00f6ferle",
+      "age": 43,
+      "age_year": 2024,
+      "background": "Mr. St\u00f6ferle is a Managing Partner and Fund Manager at Incrementum AG. He is well-known for his 'In Gold We Trust' report and has deep expertise in precious metals markets.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

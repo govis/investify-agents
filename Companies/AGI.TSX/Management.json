@@ -1,0 +1,174 @@
+{
+  "executives": [
+    {
+      "name": "Andrew Cormier",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Cormier has over 30 years of experience in project development and operations. He was previously Vice President, Project Development at Torex Gold Resources Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Development and Construction",
+          "start_date": "2013",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "David Fleck",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Fleck is a seasoned executive with over 30 years of experience in the investment industry. He was formerly Co-CEO of BMO Capital Markets.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "March 2014",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Christine Barwell",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Ms. Barwell is the Vice President, Human Resources. She has over 20 years of experience in human resources management in the mining and manufacturing sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Human Resources",
+          "start_date": "April 2010",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Greg Fisher",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Mr. Fisher was appointed Chief Financial Officer in 2023. He joined the Company in 2010 and has held various senior financial roles, including Senior Vice President, Finance.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Controller",
+          "start_date": "2010-01-01",
+          "end_date": "2012-12-31"
+        }
+      ]
+    },
+    {
+      "name": "Jamie Porter",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Porter was appointed Executive Vice-President, Finance and Chief Financial Officer in May 2023. Prior to joining Agnico Eagle, he served as Chief Financial Officer of Alamos Gold Inc. for 11 years.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer (CFO)",
+          "start_date": "2011",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "John McCluskey",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. McCluskey is the President and Chief Executive Officer of Alamos Gold Inc. and has been a Director since February 2003. He was a co-founder of the Company. Previously, he was the President and CEO of Grayd Resource Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2003",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Luc Guimond",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mr. Guimond is the Chief Operating Officer. He has over 30 years of experience in the mining industry and joined Alamos in 2015 following the merger with AuRico Gold.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Vice President of Operations",
+          "start_date": "January 2022",
+          "end_date": "August 31, 2022"
+        }
+      ]
+    },
+    {
+      "name": "Nils Engelstad",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Engelstad is the Vice President, General Counsel. Prior to joining Alamos, he was General Counsel at McEwen Mining Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, General Counsel",
+          "start_date": "May 2015",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "David Fleck",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Fleck is a seasoned executive with over 30 years of experience in the investment industry. He was formerly Co-CEO of BMO Capital Markets.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "March 2014",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Elaine Ellingham",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Ms. Ellingham is a geologist with over 30 years of experience in the mining industry. She has held senior positions with the Toronto Stock Exchange.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2011",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Paul Murphy",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Murphy is the Chairman of the Board. He was previously a partner at PricewaterhouseCoopers LLP where he served as the National Mining Leader in Canada.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director, Chair of the Board",
+          "start_date": "2010",
+          "end_date": "December 2024"
+        }
+      ]
+    },
+    {
+      "name": "Shaun Usmar",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. Usmar is the Founder and CEO of Triple Flag Precious Metals Corp. and was previously CFO of Barrick Gold Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

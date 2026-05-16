@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Ashley Johnson",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Ms. Johnson has served as our Chief Financial Officer and Treasurer since February 2020. Prior to joining Planet, Ms. Johnson served as Chief Financial Officer and Chief Operating Officer of Wealthfront from 2015 to 2020. Ms. Johnson holds a B.A. in International Relations and an M.A. in International Policy from Stanford University.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Interim CEO / Chief Customer Officer",
+          "start_date": "2013",
+          "end_date": "2015"
+        }
+      ]
+    },
+    {
+      "name": "Gary Moore",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Gary Moore is the former Executive Chairman and CEO of ServiceSource International, Inc. and previously served as President and COO of Cisco Systems, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Chairman & Chief Executive Officer",
+          "start_date": "2018",
+          "end_date": "2022"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Gary Moore",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Gary Moore is the former Executive Chairman and CEO of ServiceSource International, Inc. and previously served as President and COO of Cisco Systems, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Chairman & Chief Executive Officer",
+          "start_date": "2018",
+          "end_date": "2022"
+        }
+      ]
+    }
+  ]
+}

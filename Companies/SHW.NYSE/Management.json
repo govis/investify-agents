@@ -1,0 +1,47 @@
+{
+  "executives": [
+    {
+      "name": "Jane Cronin",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Former Senior Vice President, Corporate Controller of Sherwin-Williams Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Former Senior Vice President, Enterprise Finance",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Joseph Scaminace",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Former Chairman and Chief Executive Officer of OM Group, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Operating Officer",
+          "start_date": "1999",
+          "end_date": "2005"
+        }
+      ]
+    },
+    {
+      "name": "Sean Hennessy",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Senior Vice President, Corporate Planning, Development & Administration of Sherwin-Williams Company.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President - Finance and Chief Financial Officer",
+          "start_date": "2001-01-01",
+          "end_date": "2016-12-31"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": []
+}

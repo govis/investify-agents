@@ -1,0 +1,90 @@
+{
+  "executives": [
+    {
+      "name": "Andrew Liveris",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Mr. Liveris has served as Chairman of our Board since 2021. He is the former Chairman and CEO of The Dow Chemical Company and former Executive Chairman of DowDuPont. He serves on the boards of Saudi Aramco, IBM, and Worley.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2004",
+          "end_date": "2018"
+        }
+      ]
+    },
+    {
+      "name": "Neal Sheorey",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Mr. Sheorey has served as Executive Vice President and Chief Financial Officer since November 2023. Prior to joining Albemarle, he served as Vice President, Finance for Dow Inc.'s Coatings & Performance Monomers and Plastic Additives businesses.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Various leadership roles, including Vice President of Investor Relations, Senior Director of Corporate Development, and Global Finance Director for the Chemicals business group.",
+          "start_date": "2004",
+          "end_date": "May 2024"
+        }
+      ]
+    },
+    {
+      "name": "Wesley Bush",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Northrop Grumman Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Andrew Liveris",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Mr. Liveris has served as Chairman of our Board since 2021. He is the former Chairman and CEO of The Dow Chemical Company and former Executive Chairman of DowDuPont. He serves on the boards of Saudi Aramco, IBM, and Worley.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2004",
+          "end_date": "2018"
+        }
+      ]
+    },
+    {
+      "name": "Neal Sheorey",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Mr. Sheorey has served as Executive Vice President and Chief Financial Officer since November 2023. Prior to joining Albemarle, he served as Vice President, Finance for Dow Inc.'s Coatings & Performance Monomers and Plastic Additives businesses.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Various leadership roles, including Vice President of Investor Relations, Senior Director of Corporate Development, and Global Finance Director for the Chemicals business group.",
+          "start_date": "2004",
+          "end_date": "May 2024"
+        }
+      ]
+    },
+    {
+      "name": "Wesley Bush",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Northrop Grumman Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

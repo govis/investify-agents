@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Joe Dick",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Joe Dick has over 35 years of experience in the mining industry. He previously served as Executive Vice President and Chief Operating Officer at Eldorado before transitioning to a strategic role.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Operating Officer",
+          "start_date": "December 2019",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Judith Mosely",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Judith Mosely has over 20 years of experience in the mining finance sector, including senior roles at Soci\u00e9t\u00e9 G\u00e9n\u00e9rale.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "September 2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Pamela Gibson",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Pamela Gibson is a former partner at Shearman & Sterling LLP with extensive experience in international corporate finance and M&A.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2014-09-02",
+          "end_date": "2024-06-04"
+        }
+      ]
+    },
+    {
+      "name": "Steven Reid",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Steven Reid has over 40 years of experience in the mining industry. He was formerly Chief Operating Officer of Goldcorp Inc. and has held senior positions at Placer Dome and BHP.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director / Chair of the Board",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Teresa Conway",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Teresa Conway is a former executive with over 25 years of experience in the energy sector, including as President and CEO of Powerex Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "Prior to 2020",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

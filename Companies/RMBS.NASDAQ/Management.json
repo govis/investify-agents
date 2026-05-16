@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Kevin Kennedy",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Former President and Chief Executive Officer of Avaya Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Director",
+          "start_date": "2005",
+          "end_date": "2008"
+        }
+      ]
+    },
+    {
+      "name": "Victor Peng",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Victor Peng is the former President of AMD and former CEO of Xilinx, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "February 2026",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Kevin Kennedy",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Former President and Chief Executive Officer of Avaya Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Director",
+          "start_date": "2005",
+          "end_date": "2008"
+        }
+      ]
+    },
+    {
+      "name": "Victor Peng",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Victor Peng is the former President of AMD and former CEO of Xilinx, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "February 2026",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "executives": [
+    {
+      "name": "Charles Woodburn",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Charles joined BAE Systems in 2017 as Chief Operating Officer and was appointed Chief Executive later that year. He previously held senior roles at Schlumberger and Expro Group.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "July 2017",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "DeEtte Gray",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Ms. Gray has served as President of Business and Information Technology Solutions since 2017. Prior to CACI, she held leadership roles at BAE Systems.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President, Intelligence & Security Sector",
+          "start_date": "June 2012",
+          "end_date": "2017"
+        }
+      ]
+    },
+    {
+      "name": "Nicole Piasecki",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former Vice President and General Manager of Propulsion Systems at Boeing Commercial Airplanes.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Edward \"Ed\" Gelsthorpe",
+      "age": null,
+      "age_year": null,
+      "background": "Ed was appointed Group General Counsel in 2023. He joined BAE Systems in 2007 and has held several senior legal roles across the Group.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Counsel UK",
+          "start_date": "2012",
+          "end_date": "2022"
+        }
+      ]
+    },
+    {
+      "name": "Mark Sedwill",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Mark was formerly Cabinet Secretary and National Security Adviser. He has extensive experience in national security, international relations, and public policy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "November 1, 2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Tom Arseneault",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Tom is President and CEO of BAE Systems, Inc. and an Executive Director of BAE Systems plc. He has held various senior leadership positions within the US business.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Director (Board of Directors)",
+          "start_date": "April 1, 2020",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Nicole Piasecki",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former Vice President and General Manager of Propulsion Systems at Boeing Commercial Airplanes.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Mark Sedwill",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Mark was formerly Cabinet Secretary and National Security Adviser. He has extensive experience in national security, international relations, and public policy.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "November 1, 2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Tom Arseneault",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Tom is President and CEO of BAE Systems, Inc. and an Executive Director of BAE Systems plc. He has held various senior leadership positions within the US business.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Director (Board of Directors)",
+          "start_date": "April 1, 2020",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

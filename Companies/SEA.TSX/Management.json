@@ -1,0 +1,216 @@
+{
+  "executives": [
+    {
+      "name": "Bruce Scott",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Scott is a lawyer with over 30 years of experience in corporate and securities law. He has served as General Counsel for Seabridge since 2011.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, General Counsel, and Corporate Secretary",
+          "start_date": "1999",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Carol Willson",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Ms. Willson is a Chartered Professional Accountant with over 35 years of experience in audit and risk management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Clem Pelletier",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Mr. Pelletier is a process metallurgist with over 50 years of experience in the mining industry, specializing in environmental and permitting issues.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2012",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Eliseo Gonzalez-Urien",
+      "age": 78,
+      "age_year": 2024,
+      "background": "Mr. Gonzalez-Urien is a geologist with over 50 years of experience. He was formerly the President of Placer Dome Exploration.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "January 2006",
+          "end_date": "2024"
+        }
+      ]
+    },
+    {
+      "name": "Melanie Miller",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Ms. Miller has over 25 years of experience in the mining and financial sectors. She is currently an independent consultant.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director, Chief Sustainability Officer & VP",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "William Threlkeld",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Threlkeld has over 40 years of experience in mineral exploration. He has been with Seabridge since 2000 and is responsible for the design and execution of the company's exploration programs.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Exploration",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Chris Reynolds",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Reynolds has over 30 years of experience in the mining industry. He joined Seabridge in 2007 and has served as Vice President, Finance and Chief Financial Officer since that time.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer (CFO)",
+          "start_date": "2011",
+          "end_date": "March 31, 2026"
+        }
+      ]
+    },
+    {
+      "name": "Rudi Fronk",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Fronk is a co-founder of Seabridge and has over 35 years of experience in the gold business, primarily as a senior executive in corporate development, bankable feasibility studies, and finance. Prior to Seabridge, he held senior positions with Greenstone Resources, Kirkwood Resources, and Amax Gold.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "1999",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Carol Willson",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Ms. Willson is a Chartered Professional Accountant with over 35 years of experience in audit and risk management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Clem Pelletier",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Mr. Pelletier is a process metallurgist with over 50 years of experience in the mining industry, specializing in environmental and permitting issues.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2012",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Eliseo Gonzalez-Urien",
+      "age": 78,
+      "age_year": 2024,
+      "background": "Mr. Gonzalez-Urien is a geologist with over 50 years of experience. He was formerly the President of Placer Dome Exploration.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "January 2006",
+          "end_date": "2024"
+        }
+      ]
+    },
+    {
+      "name": "Melanie Miller",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Ms. Miller has over 25 years of experience in the mining and financial sectors. She is currently an independent consultant.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director, Chief Sustainability Officer & VP",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Gary Sugar",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Sugar has over 40 years of experience in investment banking, specializing in the mining sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "May 16, 2016",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "John Sabine",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Mr. Sabine is a lawyer with over 40 years of experience in mining law and corporate finance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director (Lead Director)",
+          "start_date": "2014",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Rudi Fronk",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Fronk is a co-founder of Seabridge and has over 35 years of experience in the gold business, primarily as a senior executive in corporate development, bankable feasibility studies, and finance. Prior to Seabridge, he held senior positions with Greenstone Resources, Kirkwood Resources, and Amax Gold.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "1999",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

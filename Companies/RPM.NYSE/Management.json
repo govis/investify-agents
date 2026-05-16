@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Beth Whited",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Beth Whited is the President of Union Pacific. She has served in numerous executive roles including Executive Vice President - Sustainability and Strategy, and Chief Human Resources Officer.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Julie Lagacy",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Ms. Lagacy previously served as Chief Sustainability and Strategy Officer at Caterpillar Inc. She joined the board in 2023.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017-07-18",
+          "end_date": "2023-10-05"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Beth Whited",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Beth Whited is the President of Union Pacific. She has served in numerous executive roles including Executive Vice President - Sustainability and Strategy, and Chief Human Resources Officer.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Julie Lagacy",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Ms. Lagacy previously served as Chief Sustainability and Strategy Officer at Caterpillar Inc. She joined the board in 2023.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017-07-18",
+          "end_date": "2023-10-05"
+        }
+      ]
+    }
+  ]
+}

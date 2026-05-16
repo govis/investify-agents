@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Andrew Houston",
+      "age": 41,
+      "age_year": 2024,
+      "background": "Co-founder and CEO of Dropbox, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Co-founder, CEO, and Chairman of the Board",
+          "start_date": "2007-06",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Margaret Whitman",
+      "age": 67,
+      "age_year": 2024,
+      "background": "U.S. Ambassador to Kenya; former CEO of Hewlett Packard Enterprise.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Andrew Houston",
+      "age": 41,
+      "age_year": 2024,
+      "background": "Co-founder and CEO of Dropbox, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Co-founder, CEO, and Chairman of the Board",
+          "start_date": "2007-06",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Margaret Whitman",
+      "age": 67,
+      "age_year": 2024,
+      "background": "U.S. Ambassador to Kenya; former CEO of Hewlett Packard Enterprise.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ]
+}

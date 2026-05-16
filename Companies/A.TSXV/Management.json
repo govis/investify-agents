@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "John Londry",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Londry is a professional geologist with over 40 years of experience in the mining industry, including senior roles with major mining companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Rein Lehari",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Lehari is a Chartered Professional Accountant and was formerly a partner with PricewaterhouseCoopers LLP. He has over 30 years of experience in the mining industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CFO, President, and Director",
+          "start_date": null,
+          "end_date": "2017"
+        }
+      ]
+    },
+    {
+      "name": "Thomas Parker",
+      "age": 81,
+      "age_year": 2024,
+      "background": "Mr. Parker has over 50 years of experience in the mining industry, including executive roles at High Plains Uranium and Anderson & Schwab.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President & Chief Executive Officer",
+          "start_date": "2006",
+          "end_date": "2007"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "John Londry",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Londry is a professional geologist with over 40 years of experience in the mining industry, including senior roles with major mining companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": "2025-07"
+        }
+      ]
+    },
+    {
+      "name": "Rein Lehari",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Lehari is a Chartered Professional Accountant and was formerly a partner with PricewaterhouseCoopers LLP. He has over 30 years of experience in the mining industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CFO, President, and Director",
+          "start_date": null,
+          "end_date": "2017"
+        }
+      ]
+    }
+  ]
+}

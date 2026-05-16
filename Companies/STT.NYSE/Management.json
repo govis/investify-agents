@@ -1,0 +1,104 @@
+{
+  "executives": [
+    {
+      "name": "Joseph Hooley",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of State Street Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2009",
+          "end_date": "2018"
+        }
+      ]
+    },
+    {
+      "name": "Lynn Dugle",
+      "age": 64,
+      "age_year": 2023,
+      "background": "Ms. Dugle was the CEO and President of Engility Holdings, Inc. and held senior leadership positions at Raytheon Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2015-12-14",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Patrick de Saint-Aignan",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Patrick de Saint-Aignan has over 40 years of experience in the financial services industry, primarily at Morgan Stanley.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2008",
+          "end_date": "2018"
+        }
+      ]
+    },
+    {
+      "name": "Tracy Atkinson",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Former Executive Vice President of State Street Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President / Chief Administration Officer",
+          "start_date": "2008",
+          "end_date": "2020"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Joseph Hooley",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of State Street Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2009",
+          "end_date": "2018"
+        }
+      ]
+    },
+    {
+      "name": "Lynn Dugle",
+      "age": 64,
+      "age_year": 2023,
+      "background": "Ms. Dugle was the CEO and President of Engility Holdings, Inc. and held senior leadership positions at Raytheon Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2015-12-14",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Patrick de Saint-Aignan",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Patrick de Saint-Aignan has over 40 years of experience in the financial services industry, primarily at Morgan Stanley.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2008",
+          "end_date": "2018"
+        }
+      ]
+    }
+  ]
+}

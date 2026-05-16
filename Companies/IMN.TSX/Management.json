@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "David Garofalo",
+      "age": 58,
+      "age_year": 2023,
+      "background": "Mr. Garofalo has served as our Chairman, President and Chief Executive Officer since August 2020. He has over 30 years of experience in the metals and mining industry. Previously, he served as President and Chief Executive Officer of Goldcorp Inc. from 2016 to 2019 and as President and Chief Executive Officer of Hudbay Minerals Inc. from 2010 to 2016.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Treasurer",
+          "start_date": "1990",
+          "end_date": "1998"
+        }
+      ]
+    },
+    {
+      "name": "Jochen Tilk",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Jochen Tilk was appointed as an independent non-executive director and Chairman of the Board. He was previously the President and CEO of PotashCorp and Executive Chair of Nutrien Ltd.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO",
+          "start_date": "2009",
+          "end_date": "2013"
+        }
+      ]
+    },
+    {
+      "name": "Sheldon Vanderkooy",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Sheldon Vanderkooy is the Chief Financial Officer of Triple Flag. Prior to this role, he served as the company's General Counsel. Before joining Triple Flag, he was Assistant General Counsel at First Quantum Minerals Ltd. and a partner at Blake, Cassels & Graydon LLP.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Director, Legal Affairs",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Sheldon Vanderkooy",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Sheldon Vanderkooy is the Chief Financial Officer of Triple Flag. Prior to this role, he served as the company's General Counsel. Before joining Triple Flag, he was Assistant General Counsel at First Quantum Minerals Ltd. and a partner at Blake, Cassels & Graydon LLP.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Director, Legal Affairs",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

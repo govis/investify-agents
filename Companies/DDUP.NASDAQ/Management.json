@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Frank Slootman",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Frank Slootman has served as Chairman of our board of directors since 2019. He served as our Chief Executive Officer from 2019 to February 2024. Previously, he was Chairman and CEO of ServiceNow and Data Domain.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO",
+          "start_date": "2003-05-01",
+          "end_date": "2009-07-01"
+        }
+      ]
+    },
+    {
+      "name": "Jeffrey Miller",
+      "age": 67,
+      "age_year": 2024,
+      "background": "President and CEO of JAMM Ventures.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2007",
+          "end_date": "2009"
+        }
+      ]
+    },
+    {
+      "name": "Michael Scarpelli",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Michael P. Scarpelli has served as our Chief Financial Officer since August 2019. From 2011 to 2019, Mr. Scarpelli served as Chief Financial Officer of ServiceNow, Inc. From 2009 to 2011, he served as Senior Vice President of Finance and Business Operations of the Backup Recovery Systems Division of EMC Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2006",
+          "end_date": "2009"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jeffrey Miller",
+      "age": 67,
+      "age_year": 2024,
+      "background": "President and CEO of JAMM Ventures.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2007",
+          "end_date": "2009"
+        }
+      ]
+    }
+  ]
+}

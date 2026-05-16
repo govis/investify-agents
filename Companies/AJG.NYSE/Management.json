@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Ilene Gordon",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Retired Chairman, President and CEO of Ingredion Incorporated.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Sherry Barrat",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Retired vice chairman of Northern Trust Corporation. Director since 1998.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": "May 2026"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Ilene Gordon",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Retired Chairman, President and CEO of Ingredion Incorporated.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Sherry Barrat",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Retired vice chairman of Northern Trust Corporation. Director since 1998.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": "May 2026"
+        }
+      ]
+    }
+  ]
+}

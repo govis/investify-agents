@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Brian Cothran",
+      "age": null,
+      "age_year": null,
+      "background": "Brian Cothran is the Chief Operating Officer of Venture Global LNG. He joined the company with extensive experience in the energy and industrial sectors, including roles at GE and Baker Hughes.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Vice President - Global Sales (Oil Field Equipment)",
+          "start_date": "2017",
+          "end_date": "2019"
+        }
+      ]
+    },
+    {
+      "name": "Cynthia Carroll",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Cynthia Carroll was previously the CEO of Anglo American plc and has held senior executive roles at Alcan. She is a geologist by training.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017-07-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Cynthia Carroll",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Cynthia Carroll was previously the CEO of Anglo American plc and has held senior executive roles at Alcan. She is a geologist by training.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017-07-01",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

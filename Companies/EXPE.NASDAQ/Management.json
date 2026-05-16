@@ -1,0 +1,33 @@
+{
+  "executives": [
+    {
+      "name": "Amy Weaver",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Amy Weaver is President and Chief Financial Officer of Salesforce. She previously served as the company's President and Chief Legal Officer from 2020 to 2021 and as President, Legal and Corporate Affairs from 2017 to 2020.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President & Deputy General Counsel",
+          "start_date": "2005",
+          "end_date": "2010"
+        }
+      ]
+    },
+    {
+      "name": "Scott Schenkel",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Scott F. Schenkel has been a member of our Board since November 2017. He previously served as the interim Chief Executive Officer of eBay Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "February 2025",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": []
+}

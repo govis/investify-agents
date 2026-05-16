@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Ann Mather",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former CFO of Pixar. Director at Alphabet Inc., Netflix, and Bumble. Former director at Glu Mobile and MGM Holdings.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2005",
+          "end_date": "2021"
+        }
+      ]
+    },
+    {
+      "name": "Niccolo de Masi",
+      "age": 43,
+      "age_year": 2024,
+      "background": "Mr. de Masi has served as a member of our board of directors since December 2021. He was previously the CEO of dMY Technology Group, Inc. IV.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO",
+          "start_date": "2010",
+          "end_date": "2016"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Ann Mather",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former CFO of Pixar. Director at Alphabet Inc., Netflix, and Bumble. Former director at Glu Mobile and MGM Holdings.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2005",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ]
+}

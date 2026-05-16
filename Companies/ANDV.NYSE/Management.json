@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Gregory Goff",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Former Executive Vice Chairman of Marathon Petroleum Corporation and former Chairman and CEO of Andeavor.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "2010-05",
+          "end_date": "2018-10"
+        }
+      ]
+    },
+    {
+      "name": "Mary Pat McCarthy",
+      "age": 68,
+      "age_year": 2023,
+      "background": "Ms. McCarthy was a Vice Chair at KPMG LLP and has extensive experience in audit and risk management.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2012",
+          "end_date": "2018"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Mary Pat McCarthy",
+      "age": 68,
+      "age_year": 2023,
+      "background": "Ms. McCarthy was a Vice Chair at KPMG LLP and has extensive experience in audit and risk management.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2012",
+          "end_date": "2018"
+        }
+      ]
+    }
+  ]
+}

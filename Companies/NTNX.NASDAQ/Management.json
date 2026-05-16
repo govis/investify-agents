@@ -1,0 +1,118 @@
+{
+  "executives": [
+    {
+      "name": "Craig Conway",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former President and CEO of PeopleSoft, Inc. He has served as a Director since 2005.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Dheeraj Pandey",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Co-founder and CEO of DevRev. Former CEO of Nutanix. Director since 2021.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Co-founder, Chief Executive Officer, and Chairman",
+          "start_date": "2009",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "Steven Gomo",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Steven Gomo has served as a director since March 2011. He was Executive Vice President and Chief Financial Officer of NetApp, Inc. from 2002 to 2011. He also serves on the boards of Micron Technology and Nutanix.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "June 2015",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Susan Bostrom",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former Executive Vice President, Chief Marketing Officer, and Worldwide Government Affairs at Cisco Systems, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Craig Conway",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former President and CEO of PeopleSoft, Inc. He has served as a Director since 2005.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Dheeraj Pandey",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Co-founder and CEO of DevRev. Former CEO of Nutanix. Director since 2021.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Co-founder, Chief Executive Officer, and Chairman",
+          "start_date": "2009",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "Steven Gomo",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Steven Gomo has served as a director since March 2011. He was Executive Vice President and Chief Financial Officer of NetApp, Inc. from 2002 to 2011. He also serves on the boards of Micron Technology and Nutanix.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "June 2015",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Susan Bostrom",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former Executive Vice President, Chief Marketing Officer, and Worldwide Government Affairs at Cisco Systems, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

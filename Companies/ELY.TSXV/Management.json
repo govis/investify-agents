@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Maura Kolb",
+      "age": 39,
+      "age_year": 2024,
+      "background": "Ms. Kolb is a professional geologist with over 15 years of experience in the mining industry. She previously served as the Director of Exploration for Treasury Metals and held various roles at Newmont's Musselwhite Mine. She holds a Master of Science in Geology.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President & CEO",
+          "start_date": "2010",
+          "end_date": "2021"
+        }
+      ]
+    },
+    {
+      "name": "Trey Wasser",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Wasser has over 40 years of experience in the financial services and mining industries. He is currently the CEO of Dryden Gold Corp. and was previously the President and CEO of Ely Gold Royalties Inc. until its acquisition by Gold Royalty Corp. in 2021. He has extensive experience in capital markets and corporate development.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President, CEO & Director",
+          "start_date": "2017",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Trey Wasser",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Wasser has over 40 years of experience in the financial services and mining industries. He is currently the CEO of Dryden Gold Corp. and was previously the President and CEO of Ely Gold Royalties Inc. until its acquisition by Gold Royalty Corp. in 2021. He has extensive experience in capital markets and corporate development.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President, CEO & Director",
+          "start_date": "2017",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ]
+}

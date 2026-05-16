@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Robert Gayton",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Dr. Gayton is a Chartered Professional Accountant and has directed several public mining companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2008",
+          "end_date": "2023"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Robert Gayton",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Dr. Gayton is a Chartered Professional Accountant and has directed several public mining companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2008",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Ken Robertson",
+      "age": 68,
+      "age_year": 2023,
+      "background": "Former partner at EY with over 35 years of experience in public accounting and the mining sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

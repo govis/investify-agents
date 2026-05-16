@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Ian Atkinson",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Atkinson was previously the President and CEO of Centerra Gold Inc. and has extensive experience in the mining industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": "2024"
+        }
+      ]
+    },
+    {
+      "name": "William Zisch",
+      "age": 65,
+      "age_year": 2023,
+      "background": "Mr. Zisch has served as a director since 2020. He has over 40 years of experience in the mining industry, including roles at Newmont and Argonaut Gold.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2016",
+          "end_date": "2019"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Ian Atkinson",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Mr. Atkinson was previously the President and CEO of Centerra Gold Inc. and has extensive experience in the mining industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": "2024"
+        }
+      ]
+    }
+  ]
+}

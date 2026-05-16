@@ -1,0 +1,146 @@
+{
+  "executives": [
+    {
+      "name": "Alex Gorsky",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Gorsky is the former Chairman and CEO of Johnson & Johnson, where he served as Chairman and CEO from 2012 to 2021 and Executive Chairman in 2022.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "April 2012",
+          "end_date": "January 2022"
+        }
+      ]
+    },
+    {
+      "name": "Daniel Pinto",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Pinto has been President and Chief Operating Officer since January 2022. He was Co-President and Co-Chief Operating Officer from 2018 to 2021 and CEO of the Corporate & Investment Bank from 2014 to 2024.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "July 1, 2025",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Dominic Caruso",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Chief Financial Officer of Johnson & Johnson.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2007",
+          "end_date": "2018-07-01"
+        }
+      ]
+    },
+    {
+      "name": "Marillyn Hewson",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Chairman, President and CEO of Lockheed Martin Corporation. Director since 2021.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Nadja West",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Retired Lieutenant General in the United States Army and 44th Surgeon General of the U.S. Army.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020-12-03",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Alex Gorsky",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Gorsky is the former Chairman and CEO of Johnson & Johnson, where he served as Chairman and CEO from 2012 to 2021 and Executive Chairman in 2022.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "April 2012",
+          "end_date": "January 2022"
+        }
+      ]
+    },
+    {
+      "name": "Daniel Pinto",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Pinto has been President and Chief Operating Officer since January 2022. He was Co-President and Co-Chief Operating Officer from 2018 to 2021 and CEO of the Corporate & Investment Bank from 2014 to 2024.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "July 1, 2025",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Marillyn Hewson",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Chairman, President and CEO of Lockheed Martin Corporation. Director since 2021.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2019-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Nadja West",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Retired Lieutenant General in the United States Army and 44th Surgeon General of the U.S. Army.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020-12-03",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Sandra Peterson",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Operating Partner at Clayton, Dubilier & Rice. Former Group Worldwide Chairman of Johnson & Johnson.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Group Worldwide Chairman",
+          "start_date": "2012",
+          "end_date": "2018"
+        }
+      ]
+    }
+  ]
+}

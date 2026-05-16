@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "George Oliver",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Johnson Controls International plc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "September 2017",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael Lamach",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Executive Chair and Chief Executive Officer of Trane Technologies plc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Group President & Managing Director-Europe",
+          "start_date": null,
+          "end_date": "2004"
+        }
+      ]
+    },
+    {
+      "name": "Olivier Leonetti",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Olivier Leonetti is Executive Vice President and Chief Financial Officer of Eaton. He joined Eaton in 2024. Prior to joining Eaton, he served as Executive Vice President and Chief Financial Officer of Johnson Controls International plc from 2020 to 2024. He also served as CFO of Zebra Technologies and Western Digital.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "September 2020",
+          "end_date": "January 2024"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "George Oliver",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Johnson Controls International plc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "September 2017",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael Lamach",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Executive Chair and Chief Executive Officer of Trane Technologies plc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Group President & Managing Director-Europe",
+          "start_date": null,
+          "end_date": "2004"
+        }
+      ]
+    }
+  ]
+}

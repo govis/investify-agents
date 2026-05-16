@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Amy Banse",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former Managing Director and Head of Funds for Comcast Ventures. Director since 2012.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President / EVP",
+          "start_date": "1991",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "Michael Angelakis",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Atairos Group Inc. and former Vice Chairman and CFO of Comcast Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer and Vice Chairman",
+          "start_date": "2007",
+          "end_date": "2015"
+        }
+      ]
+    },
+    {
+      "name": "Stephen Burke",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former CEO of NBCUniversal and former COO of Comcast Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Executive Vice President (formerly COO and CEO of NBCUniversal)",
+          "start_date": "1998",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Michael Angelakis",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Chairman and CEO of Atairos Group Inc. and former Vice Chairman and CFO of Comcast Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer and Vice Chairman",
+          "start_date": "2007",
+          "end_date": "2015"
+        }
+      ]
+    }
+  ]
+}

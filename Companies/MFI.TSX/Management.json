@@ -1,0 +1,33 @@
+{
+  "executives": [
+    {
+      "name": "David Smales",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Smales joined Aecon in 2009 as Executive Vice President and Chief Financial Officer. Prior to joining Aecon, he was the Chief Financial Officer of Catalyst Paper Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "January 29, 2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Debbie Simpson",
+      "age": 56,
+      "age_year": 2023,
+      "background": "Former CFO of Li-Cycle. She stepped down in late 2023.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2014",
+          "end_date": "November 1, 2019"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": []
+}

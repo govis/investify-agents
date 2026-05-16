@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Jack Lazar",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Former CFO of GoPro and Atheros Communications. He serves on several public company boards.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jack Lazar",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Former CFO of GoPro and Atheros Communications. He serves on several public company boards.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Roger Fradin",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Vice Chairman of Honeywell International Inc. Current Chairman of Resideo Technologies, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman of the Board",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

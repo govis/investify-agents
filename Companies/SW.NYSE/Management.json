@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Dmitri Stockton",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Former Senior Vice President of General Electric Company and former Chairman, President, and CEO of GE Asset Management.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022",
+          "end_date": "2025-05-02"
+        }
+      ]
+    },
+    {
+      "name": "Kaisa Hietala",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Former Executive Vice President of Renewable Products at Neste Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Independent Non-Executive Director",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Dmitri Stockton",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Former Senior Vice President of General Electric Company and former Chairman, President, and CEO of GE Asset Management.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022",
+          "end_date": "2025-05-02"
+        }
+      ]
+    },
+    {
+      "name": "Kaisa Hietala",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Former Executive Vice President of Renewable Products at Neste Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Independent Non-Executive Director",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Drew Zimmerman",
+      "age": 39,
+      "age_year": 2024,
+      "background": "Mr. Zimmerman has over 15 years of experience in the financial services and resource sectors. He previously served as a derivatives trader and has been involved in various capacities with public resource companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "CEO",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Stephen Roman",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Mr. Roman is an entrepreneur who has successfully identified, financed, developed, and operated several mining and oil and gas projects. He was formerly the Chairman, President and CEO of Gold Eagle Mines Ltd. and Harte Gold Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Stephen Roman",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Mr. Roman is an entrepreneur who has successfully identified, financed, developed, and operated several mining and oil and gas projects. He was formerly the Chairman, President and CEO of Gold Eagle Mines Ltd. and Harte Gold Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Darren Hazelwood",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Hazelwood has over 20 years of experience in the mining industry, focusing on project management and corporate development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

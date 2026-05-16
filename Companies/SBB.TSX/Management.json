@@ -1,0 +1,104 @@
+{
+  "executives": [
+    {
+      "name": "Anthony Walsh",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Mr. Walsh is a Chartered Professional Accountant with extensive experience in the mining industry, including serving as President and CEO of Miramar Mining Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and CEO",
+          "start_date": "2008",
+          "end_date": "2011"
+        }
+      ]
+    },
+    {
+      "name": "David Fennell",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Fennell has been involved in the mining industry for over 35 years. He was the founder of Golden Star Resources Ltd. and has served on numerous boards of public mining companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2011",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "David Rae",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Rae was appointed President and Chief Executive Officer in May 2020. He joined DPM in 2012 as Executive Vice President and Chief Operating Officer. Prior to joining DPM, he was Vice President, Operations at Falconbridge and Xstrata Nickel.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2017",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "James Maxwell",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Mr. Maxwell is a professional geoscientist with over 20 years of experience in mineral exploration. He has held senior roles at Sabina Gold & Silver and Claude Resources.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director of Exploration",
+          "start_date": null,
+          "end_date": "2021"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "David Fennell",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Fennell has been involved in the mining industry for over 35 years. He was the founder of Golden Star Resources Ltd. and has served on numerous boards of public mining companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2011",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "David Rae",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Rae was appointed President and Chief Executive Officer in May 2020. He joined DPM in 2012 as Executive Vice President and Chief Operating Officer. Prior to joining DPM, he was Vice President, Operations at Falconbridge and Xstrata Nickel.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2017",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "James Maxwell",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Mr. Maxwell is a professional geoscientist with over 20 years of experience in mineral exploration. He has held senior roles at Sabina Gold & Silver and Claude Resources.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director of Exploration",
+          "start_date": null,
+          "end_date": "2021"
+        }
+      ]
+    }
+  ]
+}

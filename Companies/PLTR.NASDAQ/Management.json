@@ -1,0 +1,33 @@
+{
+  "executives": [
+    {
+      "name": "David Glazer",
+      "age": 39,
+      "age_year": 2024,
+      "background": "Mr. Glazer has served as our Chief Financial Officer and Treasurer since 2020. He joined Palantir in 2013 and previously served as our Head of Finance. Prior to joining us, Mr. Glazer was a corporate attorney at Sullivan & Cromwell LLP. Mr. Glazer holds a B.A. from Emory University and a J.D. from Harvard Law School.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer and Treasurer",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ryan Taylor",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Mr. Taylor has served as our Chief Revenue Officer and Chief Legal Officer since 2022. He previously served as our Chief Legal Officer and Business Affairs Officer from 2020 to 2022. Mr. Taylor joined Palantir in 2010. Mr. Taylor holds a B.S. and M.S. in Management Science & Engineering from Stanford University and a J.D. from Harvard Law School.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Revenue Officer and Chief Legal Officer",
+          "start_date": "2010",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": []
+}

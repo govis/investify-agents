@@ -1,0 +1,104 @@
+{
+  "executives": [
+    {
+      "name": "Chris Woodall",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Mr. Woodall has over 30 years of experience in the mining industry, including senior operational roles at Goldcorp and Barrick Gold.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2016-09-01",
+          "end_date": "2023-06-30"
+        }
+      ]
+    },
+    {
+      "name": "David Ransom",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Dr. Ransom has over 45 years of experience in the mining industry as a geologist and consultant.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2019",
+          "end_date": "2024"
+        }
+      ]
+    },
+    {
+      "name": "Elissa Brown",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Ms. Brown is a Chartered Accountant with over 20 years of experience in the mining and energy sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Non-Executive Director",
+          "start_date": "November 2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Sean Harvey",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Harvey has over 25 years of experience in the investment banking and mining industries. He has served as Chairman of Victoria Gold since 2007. He was previously President and CEO of Orvana Minerals Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director/Chair",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "David Ransom",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Dr. Ransom has over 45 years of experience in the mining industry as a geologist and consultant.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "2019",
+          "end_date": "2024"
+        }
+      ]
+    },
+    {
+      "name": "Elissa Brown",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Ms. Brown is a Chartered Accountant with over 20 years of experience in the mining and energy sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Non-Executive Director",
+          "start_date": "November 2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Sean Harvey",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Harvey has over 25 years of experience in the investment banking and mining industries. He has served as Chairman of Victoria Gold since 2007. He was previously President and CEO of Orvana Minerals Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director/Chair",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

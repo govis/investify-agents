@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Donna Morea",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Ms. Morea has served as Chair of the Board since 2019. She was previously President of CGI Technologies and Solutions. She is an expert in IT professional services and strategic management.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President, CGI Technologies and Solutions (Subsidiary)",
+          "start_date": "2004",
+          "end_date": "2011"
+        }
+      ]
+    },
+    {
+      "name": "Mary Powell",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mary Powell has served as our Chief Executive Officer and as a member of our Board since August 2021. Prior to joining Sunrun, Ms. Powell served as the President and Chief Executive Officer of Green Mountain Power Corporation from 2008 to 2019. She has also served on the board of directors of CGI Inc. since 2015 and previously served on the board of directors of Hawaiian Electric Industries, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Mary Powell",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mary Powell has served as our Chief Executive Officer and as a member of our Board since August 2021. Prior to joining Sunrun, Ms. Powell served as the President and Chief Executive Officer of Green Mountain Power Corporation from 2008 to 2019. She has also served on the board of directors of CGI Inc. since 2015 and previously served on the board of directors of Hawaiian Electric Industries, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

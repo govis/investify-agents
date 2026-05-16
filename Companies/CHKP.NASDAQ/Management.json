@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Nadav Zafrir",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Zafrir has served as Chairman of the Board since 2019. He is the co-founder and Managing Partner of Team8, a venture creation and venture capital fund. He previously served as the Commander of the Israel Defense Forces Unit 8200.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "CEO and Member of the Board of Directors",
+          "start_date": "2024-12-16",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Tal Payne",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Ms. Payne has served as a director since 2015. She is the Chief Financial and Operations Officer of Check Point Software Technologies Ltd.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer (CFO) and Chief Operating Officer (COO)",
+          "start_date": "2008",
+          "end_date": "2022"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Nadav Zafrir",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Zafrir has served as Chairman of the Board since 2019. He is the co-founder and Managing Partner of Team8, a venture creation and venture capital fund. He previously served as the Commander of the Israel Defense Forces Unit 8200.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "CEO and Member of the Board of Directors",
+          "start_date": "2024-12-16",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

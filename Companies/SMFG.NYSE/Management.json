@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Arthur Mitchell",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Senior Counselor at White & Case LLP. Expert in international law and finance.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Outside Director",
+          "start_date": "2015",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Takeshi Kunibe",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Chairman of the Board of Sumitomo Mitsui Financial Group, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Special Advisor (formerly President & CEO of Sumitomo Mitsui Banking Corporation)",
+          "start_date": "2011",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Arthur Mitchell",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Senior Counselor at White & Case LLP. Expert in international law and finance.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Outside Director",
+          "start_date": "2015",
+          "end_date": "2023"
+        }
+      ]
+    }
+  ]
+}

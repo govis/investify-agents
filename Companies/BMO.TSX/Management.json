@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Daniel Breeze",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Breeze has served as Vice President, Corporate Development of RGLD Gold (Canada) since 2018. He joined Royal Gold in 2011.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Managing Director, Equities (BMO Capital Markets)",
+          "start_date": "2010",
+          "end_date": "December 2018"
+        }
+      ]
+    },
+    {
+      "name": "David Harquail",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Mr. Harquail is the Chair of the Board. He was the CEO of Franco-Nevada from its IPO in 2007 until 2020. He has served on numerous mining industry boards.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Simon Fish",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Independent Director. Former General Counsel of BMO Financial Group and Vale S.A.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and General Counsel",
+          "start_date": "2008",
+          "end_date": "2020"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Daniel Breeze",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Breeze has served as Vice President, Corporate Development of RGLD Gold (Canada) since 2018. He joined Royal Gold in 2011.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Managing Director, Equities (BMO Capital Markets)",
+          "start_date": "2010",
+          "end_date": "December 2018"
+        }
+      ]
+    },
+    {
+      "name": "David Harquail",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Mr. Harquail is the Chair of the Board. He was the CEO of Franco-Nevada from its IPO in 2007 until 2020. He has served on numerous mining industry boards.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

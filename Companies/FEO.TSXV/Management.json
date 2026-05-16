@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Gerrie van der Westhuizen",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Mr. van der Westhuizen is a Chartered Accountant with over 20 years of experience in the mining industry. He was previously the VP Finance of Atlantic Gold Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "CFO and Corporate Secretary",
+          "start_date": "2022-01-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jeremy Langford",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Langford is a mining engineer with over 25 years of experience in the mining industry. He was previously the COO of Endeavour Mining Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jeremy Langford",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Langford is a mining engineer with over 25 years of experience in the mining industry. He was previously the COO of Endeavour Mining Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Steven Dean",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Dean is a Fellow of the Australasian Institute of Mining and Metallurgy and a Member of the Institute of Chartered Accountants of Australia. He was formerly the Chairman and CEO of Atlantic Gold Corporation and President of Teck Resources Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2010",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

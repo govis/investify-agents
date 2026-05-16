@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Jason Attew",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Attew is a mining industry executive with over 25 years of experience in investment banking and corporate strategy. He was previously CFO of Goldcorp Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President, Chief Executive Officer, and Director",
+          "start_date": "October 11, 2022",
+          "end_date": "November 2023"
+        }
+      ]
+    },
+    {
+      "name": "Lisa Wade",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Ms. Wade is an environmental engineer with over 25 years of experience in the mining industry. She was previously the VP, Environmental, Social and Governance at Goldcorp Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Moira Smith",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Dr. Smith has over 30 years of experience in the mining industry, specializing in exploration and geology. She was previously the VP Exploration for Liberty Gold Corp. and has held senior positions with Teck Resources and Fronteer Gold.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Corporate Technical Advisor",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jason Attew",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Attew is a mining industry executive with over 25 years of experience in investment banking and corporate strategy. He was previously CFO of Goldcorp Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President, Chief Executive Officer, and Director",
+          "start_date": "October 11, 2022",
+          "end_date": "November 2023"
+        }
+      ]
+    },
+    {
+      "name": "Lisa Wade",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Ms. Wade is an environmental engineer with over 25 years of experience in the mining industry. She was previously the VP, Environmental, Social and Governance at Goldcorp Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

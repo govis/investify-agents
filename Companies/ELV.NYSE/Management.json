@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Angela Braly",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former Chairman, President, and CEO of WellPoint, Inc. (now Elevance Health).",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President, Chief Executive Officer, and Chair of the Board",
+          "start_date": "2007",
+          "end_date": "2012"
+        }
+      ]
+    },
+    {
+      "name": "Kerry Clark",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Retired Chairman and Chief Executive Officer of Cardinal Health, Inc. Former Vice Chairman of the Board of The Procter & Gamble Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2006",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Kerry Clark",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Retired Chairman and Chief Executive Officer of Cardinal Health, Inc. Former Vice Chairman of the Board of The Procter & Gamble Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2006",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

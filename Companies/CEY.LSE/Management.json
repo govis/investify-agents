@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Catharine Farrow",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Dr. Catharine Farrow is a professional geoscientist with over 25 years of experience in the mining industry. She was previously the CEO of TMAC Resources Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Non-Executive Director",
+          "start_date": "September 2019",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Mark Morcombe",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Mark Morcombe has over 30 years of experience in the mining industry. He previously held senior roles at AngloGold Ashanti and Acacia Mining.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2018-01",
+          "end_date": "2019-02"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Catharine Farrow",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Dr. Catharine Farrow is a professional geoscientist with over 25 years of experience in the mining industry. She was previously the CEO of TMAC Resources Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Non-Executive Director",
+          "start_date": "September 2019",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

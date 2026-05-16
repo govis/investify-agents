@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Duane Lo",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Lo is a senior financial executive with over 25 years of experience in the mining industry. He was previously the CFO of Entr\u00e9e Resources Ltd. and Luna Gold Corp. He is a Chartered Professional Accountant.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Peter Meredith",
+      "age": 80,
+      "age_year": 2024,
+      "background": "Mr. Meredith has over 40 years of experience in the mining industry and was previously the CFO of Ivanhoe Mines Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2004",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Peter Meredith",
+      "age": 80,
+      "age_year": 2024,
+      "background": "Mr. Meredith has over 40 years of experience in the mining industry and was previously the CFO of Ivanhoe Mines Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2004",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

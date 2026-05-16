@@ -1,0 +1,90 @@
+{
+  "executives": [
+    {
+      "name": "Omar Ishrak",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Dr. Omar Ishrak has been a director since 2017 and served as Chairman from 2020 to 2023. He was Chairman and CEO of Medtronic plc from 2011 to 2020.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "July 2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ronald Sugar",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Dr. Sugar is the former Chairman and CEO of Northrop Grumman Corporation, where he served from 2003 to 2010.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2010",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Wanda Austin",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Dr. Austin is the former President and CEO of The Aerospace Corporation, a leading architect for the nation\u2019s national security space programs. She served in this role from 2008 to 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Omar Ishrak",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Dr. Omar Ishrak has been a director since 2017 and served as Chairman from 2020 to 2023. He was Chairman and CEO of Medtronic plc from 2011 to 2020.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "July 2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ronald Sugar",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Dr. Sugar is the former Chairman and CEO of Northrop Grumman Corporation, where he served from 2003 to 2010.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2010",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Wanda Austin",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Dr. Austin is the former President and CEO of The Aerospace Corporation, a leading architect for the nation\u2019s national security space programs. She served in this role from 2008 to 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

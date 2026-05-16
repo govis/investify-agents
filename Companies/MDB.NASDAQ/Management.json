@@ -1,0 +1,104 @@
+{
+  "executives": [
+    {
+      "name": "Adam Selipsky",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Adam N. Selipsky was CEO of Amazon Web Services from May 2021 to June 2024. He previously served as President and CEO of Tableau Software.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director (Board of Directors)",
+          "start_date": "2019-10-31",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Chirantan \"CJ\" Desai",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Chirantan \"CJ\" Desai has served as our President and Chief Operating Officer since January 2023. He previously served as Chief Product and Engineering Officer from 2016 to 2023.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer; Member of the Board of Directors",
+          "start_date": "November 2025",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Dev Ittycheria",
+      "age": 57,
+      "age_year": 2024,
+      "background": "President and CEO of MongoDB, Inc. Previously co-founder and CEO of BladeLogic.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, CEO & Director",
+          "start_date": "2014",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael Berry",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Michael J. Berry has served as our Executive Vice President and Chief Financial Officer since March 2020. Prior to joining NetApp, Mr. Berry served as Executive Vice President and Chief Financial Officer of McAfee, LLC from February 2017 to March 2020. From September 2015 to January 2017, he served as Executive Vice President, Chief Financial Officer and Chief Operating Officer at FireEye, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2025",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Adam Selipsky",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Adam N. Selipsky was CEO of Amazon Web Services from May 2021 to June 2024. He previously served as President and CEO of Tableau Software.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director (Board of Directors)",
+          "start_date": "2019-10-31",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Chirantan \"CJ\" Desai",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Chirantan \"CJ\" Desai has served as our President and Chief Operating Officer since January 2023. He previously served as Chief Product and Engineering Officer from 2016 to 2023.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer; Member of the Board of Directors",
+          "start_date": "November 2025",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Dev Ittycheria",
+      "age": 57,
+      "age_year": 2024,
+      "background": "President and CEO of MongoDB, Inc. Previously co-founder and CEO of BladeLogic.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, CEO & Director",
+          "start_date": "2014",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "executives": [
+    {
+      "name": "Gerard Arpey",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of AMR Corporation and American Airlines, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2015",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Linda Gooden",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Executive Vice President, Information Systems & Global Solutions of Lockheed Martin Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2015",
+          "end_date": "2024"
+        }
+      ]
+    },
+    {
+      "name": "Robert Nardelli",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Mr. Nardelli is the founder of XLR-8, LLC and previously served as Chairman and CEO of Chrysler LLC and The Home Depot, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman, President and CEO",
+          "start_date": "2000",
+          "end_date": "2007"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Gerard Arpey",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of AMR Corporation and American Airlines, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2015",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Linda Gooden",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Executive Vice President, Information Systems & Global Solutions of Lockheed Martin Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2015",
+          "end_date": "2024"
+        }
+      ]
+    },
+    {
+      "name": "Robert Nardelli",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Mr. Nardelli is the founder of XLR-8, LLC and previously served as Chairman and CEO of Chrysler LLC and The Home Depot, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman, President and CEO",
+          "start_date": "2000",
+          "end_date": "2007"
+        }
+      ]
+    }
+  ]
+}

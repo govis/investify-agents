@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "John Harris II",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former Vice President of Business Development for Raytheon Company and CEO of Raytheon International.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Uri Bechor",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Bechor has served as our Chief Operating Officer since 2020. Prior to joining SolarEdge, he served as Senior Vice President, Global Operations at Flex Ltd.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President / General Manager",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "John Harris II",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former Vice President of Business Development for Raytheon Company and CEO of Raytheon International.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

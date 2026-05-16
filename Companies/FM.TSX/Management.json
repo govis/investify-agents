@@ -1,0 +1,118 @@
+{
+  "executives": [
+    {
+      "name": "Jean Luc Roy",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Roy has over 30 years of experience in the mining industry, primarily in Africa.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Managing Director (DRC)",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Keith Neumeyer",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Neumeyer has worked in the investment community since 1984. He is the founder and CEO of First Majestic Silver Corp. and was the founding President of First Quantum Minerals Ltd.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Founding President",
+          "start_date": "1992",
+          "end_date": "2002"
+        }
+      ]
+    },
+    {
+      "name": "Kevin McArthur",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. McArthur has served as Chief Financial Officer and Treasurer since January 2020. He joined Royal Gold in 2018 as Vice President and Controller.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Board Chair, Independent Director",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Martin Rowley",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Rowley was a co-founder of First Quantum Minerals Ltd. and served as its Executive Director until 2017. He is currently the Chairman of Forsys Metals Corp. and has extensive experience in the mining industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Co-founder, Chief Financial Officer, Director, Executive Director (Business Development)",
+          "start_date": "1996",
+          "end_date": "2017-06-30"
+        }
+      ]
+    },
+    {
+      "name": "Sheldon Vanderkooy",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Sheldon Vanderkooy is the Chief Financial Officer of Triple Flag. Prior to this role, he served as the company's General Counsel. Before joining Triple Flag, he was Assistant General Counsel at First Quantum Minerals Ltd. and a partner at Blake, Cassels & Graydon LLP.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Assistant General Counsel",
+          "start_date": "2013",
+          "end_date": "2015"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jean Luc Roy",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Roy has over 30 years of experience in the mining industry, primarily in Africa.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Managing Director (DRC)",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Kevin McArthur",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. McArthur has served as Chief Financial Officer and Treasurer since January 2020. He joined Royal Gold in 2018 as Vice President and Controller.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Board Chair, Independent Director",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Martin Rowley",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Rowley was a co-founder of First Quantum Minerals Ltd. and served as its Executive Director until 2017. He is currently the Chairman of Forsys Metals Corp. and has extensive experience in the mining industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Co-founder, Chief Financial Officer, Director, Executive Director (Business Development)",
+          "start_date": "1996",
+          "end_date": "2017-06-30"
+        }
+      ]
+    }
+  ]
+}

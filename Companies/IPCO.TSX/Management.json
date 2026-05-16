@@ -1,0 +1,34 @@
+{
+  "executives": [
+    {
+      "name": "Ashley Heppenstall",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Heppenstall has over 30 years of experience in the oil and gas and resource sectors. He was the President and CEO of Lundin Petroleum AB from 2002 to 2015.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chair of the Board",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Donald Charter",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Mr. Charter is a professional director with extensive experience in the mining industry and capital markets. He has served on numerous public company boards.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

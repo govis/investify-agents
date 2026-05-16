@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Fergus Kerr",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Kerr is a Professional Engineer with over 40 years of experience in the mining industry, specializing in underground mining operations.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": "2019"
+        }
+      ]
+    },
+    {
+      "name": "Graham du Preez",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. du Preez is a Chartered Accountant with over 25 years of experience in the mining industry. He previously served as CFO of Uranium Royalty Corp. and has held senior financial roles at several mining companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "March 2, 2020",
+          "end_date": "February 2022"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Fergus Kerr",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Kerr is a Professional Engineer with over 40 years of experience in the mining industry, specializing in underground mining operations.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": "2019"
+        }
+      ]
+    }
+  ]
+}

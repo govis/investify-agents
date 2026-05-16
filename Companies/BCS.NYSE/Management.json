@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Dambisa Moyo",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Co-principal of Versaca Investments. Director since 2016.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2010",
+          "end_date": "2017"
+        }
+      ]
+    },
+    {
+      "name": "Judi Wood",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former executive at various energy and industrial companies. Expert in human resources and governance.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President-Treasury",
+          "start_date": "1975",
+          "end_date": "1995"
+        }
+      ]
+    },
+    {
+      "name": "Diane de Saint Victor",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Diane de Saint Victor was the General Counsel and Company Secretary of ABB. She has extensive experience in legal, compliance, and corporate governance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Dambisa Moyo",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Co-principal of Versaca Investments. Director since 2016.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2010",
+          "end_date": "2017"
+        }
+      ]
+    },
+    {
+      "name": "Diane de Saint Victor",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Diane de Saint Victor was the General Counsel and Company Secretary of ABB. She has extensive experience in legal, compliance, and corporate governance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

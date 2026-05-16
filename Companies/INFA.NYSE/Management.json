@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Bruce Chizen",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Former CEO of Adobe Systems Incorporated.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director (Executive Chairman)",
+          "start_date": "August 2015",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Gerald Held",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Gerald Held has been a member of our Board since December 2009. He is the Chief Executive Officer of Held Consulting Group, LLC.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "Unknown",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael Berry",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Michael J. Berry has served as our Executive Vice President and Chief Financial Officer since March 2020. Prior to joining NetApp, Mr. Berry served as Executive Vice President and Chief Financial Officer of McAfee, LLC from February 2017 to March 2020. From September 2015 to January 2017, he served as Executive Vice President, Chief Financial Officer and Chief Operating Officer at FireEye, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President & CFO",
+          "start_date": "2014",
+          "end_date": "2015"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Bruce Chizen",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Former CEO of Adobe Systems Incorporated.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director (Executive Chairman)",
+          "start_date": "August 2015",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Gerald Held",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Gerald Held has been a member of our Board since December 2009. He is the Chief Executive Officer of Held Consulting Group, LLC.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "Unknown",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

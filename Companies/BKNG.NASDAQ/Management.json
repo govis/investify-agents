@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Lynn Vojvodich Radakovich",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Former Executive Vice President and Chief Marketing Officer of Salesforce.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "Vanessa Wittman",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Vanessa Wittman has served as a member of our board of directors since May 2021. Ms. Wittman served as the Chief Financial Officer of Glossier, Inc. from April 2019 to May 2022.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019-05-22",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Lynn Vojvodich Radakovich",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Former Executive Vice President and Chief Marketing Officer of Salesforce.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "Vanessa Wittman",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Vanessa Wittman has served as a member of our board of directors since May 2021. Ms. Wittman served as the Chief Financial Officer of Glossier, Inc. from April 2019 to May 2022.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019-05-22",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

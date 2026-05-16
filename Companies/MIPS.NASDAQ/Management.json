@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "John Hennessy",
+      "age": 71,
+      "age_year": 2024,
+      "background": "John L. Hennessy has served as the Chair of the Board of Alphabet since 2018 and as a director since 2004. He was the President of Stanford University from 2000 to 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Co-founder",
+          "start_date": "1984",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Robin Washington",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former EVP and CFO of Gilead Sciences, Inc. She has served as a Director since 2013.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2007",
+          "end_date": "2013"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Robin Washington",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former EVP and CFO of Gilead Sciences, Inc. She has served as a Director since 2013.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2007",
+          "end_date": "2013"
+        }
+      ]
+    }
+  ]
+}

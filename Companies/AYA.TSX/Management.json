@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Benoit La Salle",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. La Salle is a Chartered Professional Accountant and has over 25 years of experience in the mining industry. He is the founder of SEMAFO Inc. and has extensive experience in developing mining projects in Africa.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President & CEO",
+          "start_date": "2020-04",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Bruno Lemelin",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Mr. Lemelin has over 25 years of experience in the mining industry. He joined IAMGOLD in 2014 and has held various senior operational roles, including Senior Vice President, Operations and Projects.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Bruno Lemelin",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Mr. Lemelin has over 25 years of experience in the mining industry. He joined IAMGOLD in 2014 and has held various senior operational roles, including Senior Vice President, Operations and Projects.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

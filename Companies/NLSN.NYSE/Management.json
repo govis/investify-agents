@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Brian West",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. West has served as Executive Vice President and Chief Financial Officer since August 2021. Prior to joining Boeing, he was CFO of Refinitiv and Oscar Health.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer, then Chief Operating Officer",
+          "start_date": "2007",
+          "end_date": "2016"
+        }
+      ]
+    },
+    {
+      "name": "David Calhoun",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Former President and CEO of The Boeing Company; former Executive Chairman of Nielsen Holdings plc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO, Executive Chairman",
+          "start_date": "2006",
+          "end_date": "2016"
+        }
+      ]
+    },
+    {
+      "name": "David Wong",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Chief Product Officer since 2021. Previously held product leadership roles at Facebook and Microsoft.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Product Leadership",
+          "start_date": "2014",
+          "end_date": "2018"
+        }
+      ]
+    },
+    {
+      "name": "Steve Hasker",
+      "age": 55,
+      "age_year": 2024,
+      "background": "President and Chief Executive Officer of Thomson Reuters since March 2020. Previously served as CEO of CAA Global and held senior roles at Nielsen Holdings PLC and McKinsey & Company.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Global President and COO",
+          "start_date": "2009",
+          "end_date": "2017"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "David Calhoun",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Former President and CEO of The Boeing Company; former Executive Chairman of Nielsen Holdings plc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO, Executive Chairman",
+          "start_date": "2006",
+          "end_date": "2016"
+        }
+      ]
+    }
+  ]
+}

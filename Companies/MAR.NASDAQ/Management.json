@@ -1,0 +1,132 @@
+{
+  "executives": [
+    {
+      "name": "Ann Fudge",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Former Chairman and Chief Executive Officer of Young & Rubicam Brands.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2001",
+          "end_date": "2003"
+        }
+      ]
+    },
+    {
+      "name": "Carolyn Handlon",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Executive Vice President and Treasurer of Marriott International, Inc. Expert in global finance, capital markets, and risk management.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "EVP, Finance & Global Treasurer",
+          "start_date": "~2005",
+          "end_date": "Apr 2022"
+        }
+      ]
+    },
+    {
+      "name": "Horacio Rozanski",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Rozanski is our President and Chief Executive Officer. He has been our CEO since 2015 and President since 2014. He joined the firm in 1992 and has served in various roles including Chief Operating Officer and Chief Strategy and Talent Officer.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "March 15, 2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Isabella Goren",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former CFO of American Airlines and AMR Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "March 1, 2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Lawrence Kellner",
+      "age": 65,
+      "age_year": 2024,
+      "background": "President of Emerald Creek Group, LLC and former Chairman and CEO of Continental Airlines, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director (including Lead Independent Director)",
+          "start_date": "2002",
+          "end_date": "2022-05"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Ann Fudge",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Former Chairman and Chief Executive Officer of Young & Rubicam Brands.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2001",
+          "end_date": "2003"
+        }
+      ]
+    },
+    {
+      "name": "Horacio Rozanski",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Rozanski is our President and Chief Executive Officer. He has been our CEO since 2015 and President since 2014. He joined the firm in 1992 and has served in various roles including Chief Operating Officer and Chief Strategy and Talent Officer.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "March 15, 2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Isabella Goren",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former CFO of American Airlines and AMR Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "March 1, 2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Lawrence Kellner",
+      "age": 65,
+      "age_year": 2024,
+      "background": "President of Emerald Creek Group, LLC and former Chairman and CEO of Continental Airlines, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director (including Lead Independent Director)",
+          "start_date": "2002",
+          "end_date": "2022-05"
+        }
+      ]
+    }
+  ]
+}

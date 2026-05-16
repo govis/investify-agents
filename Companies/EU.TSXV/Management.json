@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Richard Cherry",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Mr. Cherry is a veteran executive in the nuclear industry, having served as President and CEO of Cotter Corporation and as a Vice President of General Atomics.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "January 6, 2015",
+          "end_date": "2024"
+        }
+      ]
+    },
+    {
+      "name": "Wayne Heili",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Heili has spent over 30 years in the uranium mining industry. He previously served as President and CEO of Ur-Energy Inc. and held various operations and engineering roles at the Smith Ranch-Highland ISR uranium project.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "William Sheriff",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Sheriff is the Executive Chairman of the Company. He has over 30 years of experience in the minerals industry and was a co-founder of Energy Metals Corp. and served as its Chairman and CEO.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Founder, Executive Chair",
+          "start_date": "2011",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Richard Cherry",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Mr. Cherry is a veteran executive in the nuclear industry, having served as President and CEO of Cotter Corporation and as a Vice President of General Atomics.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "January 6, 2015",
+          "end_date": "2024"
+        }
+      ]
+    },
+    {
+      "name": "Wayne Heili",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Heili has spent over 30 years in the uranium mining industry. He previously served as President and CEO of Ur-Energy Inc. and held various operations and engineering roles at the Smith Ranch-Highland ISR uranium project.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

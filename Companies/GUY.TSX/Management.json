@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Forbes Gemmell",
+      "age": 42,
+      "age_year": 2024,
+      "background": "Mr. Gemmell has over 15 years of experience in the capital markets and mining industry. He previously served as Vice President, Corporate Development and Investor Relations at Discovery Silver. Prior to joining the company, he worked in equity research and investment banking focused on the mining sector.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Corporate Development",
+          "start_date": "Prior to 2020",
+          "end_date": "Prior to 2020"
+        }
+      ]
+    },
+    {
+      "name": "Michael Richings",
+      "age": 79,
+      "age_year": 2024,
+      "background": "Mr. Richings has been a director of Vista Gold Corp. since 1995. He served as Executive Chairman from 2012 to 2017 and as President and CEO from 2004 to 2012. He has extensive experience in the mining industry, having held senior positions with several mining companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": "2020"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Michael Richings",
+      "age": 79,
+      "age_year": 2024,
+      "background": "Mr. Richings has been a director of Vista Gold Corp. since 1995. He served as Executive Chairman from 2012 to 2017 and as President and CEO from 2004 to 2012. He has extensive experience in the mining industry, having held senior positions with several mining companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": "2020"
+        }
+      ]
+    }
+  ]
+}

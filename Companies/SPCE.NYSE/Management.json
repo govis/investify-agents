@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Tina Jonas",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former Under Secretary of Defense (Comptroller) and CFO for the Department of Defense. She has held senior positions at United Technologies and Lumina Analytics.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "June 2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Wanda Austin",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Dr. Austin is the former President and CEO of The Aerospace Corporation, a leading architect for the nation\u2019s national security space programs. She served in this role from 2008 to 2016.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Tina Jonas",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former Under Secretary of Defense (Comptroller) and CFO for the Department of Defense. She has held senior positions at United Technologies and Lumina Analytics.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "June 2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Wanda Austin",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Dr. Austin is the former President and CEO of The Aerospace Corporation, a leading architect for the nation\u2019s national security space programs. She served in this role from 2008 to 2016.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Adam Rochacewich",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Rochacewich is a Chartered Professional Accountant with over 20 years of experience in the mining industry. He was previously Chief Financial Officer of several junior mining companies and has held senior financial roles with Noranda Inc. and Falconbridge Limited.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "May 15, 2017",
+          "end_date": "August 14, 2017"
+        }
+      ]
+    },
+    {
+      "name": "Sean Harvey",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Harvey has over 25 years of experience in the investment banking and mining industries. He has served as Chairman of Victoria Gold since 2007. He was previously President and CEO of Orvana Minerals Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Chairman",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Sean Harvey",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Harvey has over 25 years of experience in the investment banking and mining industries. He has served as Chairman of Victoria Gold since 2007. He was previously President and CEO of Orvana Minerals Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Chairman",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

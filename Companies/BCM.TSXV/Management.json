@@ -1,0 +1,118 @@
+{
+  "executives": [
+    {
+      "name": "Alan Hair",
+      "age": 62,
+      "age_year": 2023,
+      "background": "Former President and CEO of Hudbay Minerals Inc. Over 35 years of experience in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Andrew Swarthout",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Former CEO and Executive Chairman of Bear Creek Mining Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018",
+          "end_date": "March 2025"
+        }
+      ]
+    },
+    {
+      "name": "Catherine McLeod-Seltzer",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Ms. McLeod-Seltzer is an independent director and has been the Chair of the Board since 2019. She is a recognized leader in the minerals industry and has helped raise over $600 million in working capital for mining exploration.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chair of the Board / Director",
+          "start_date": "2003",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ken Robertson",
+      "age": 68,
+      "age_year": 2023,
+      "background": "Former partner at EY with over 35 years of experience in public accounting and the mining sector.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "September 2019",
+          "end_date": "2023"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Alan Hair",
+      "age": 62,
+      "age_year": 2023,
+      "background": "Former President and CEO of Hudbay Minerals Inc. Over 35 years of experience in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Andrew Swarthout",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Former CEO and Executive Chairman of Bear Creek Mining Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018",
+          "end_date": "March 2025"
+        }
+      ]
+    },
+    {
+      "name": "Catherine McLeod-Seltzer",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Ms. McLeod-Seltzer is an independent director and has been the Chair of the Board since 2019. She is a recognized leader in the minerals industry and has helped raise over $600 million in working capital for mining exploration.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chair of the Board / Director",
+          "start_date": "2003",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ken Robertson",
+      "age": 68,
+      "age_year": 2023,
+      "background": "Former partner at EY with over 35 years of experience in public accounting and the mining sector.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "September 2019",
+          "end_date": "2023"
+        }
+      ]
+    }
+  ]
+}

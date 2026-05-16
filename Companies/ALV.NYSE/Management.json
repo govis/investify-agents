@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Laurie Brlas",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Executive Vice President and Chief Financial Officer of Newmont Mining Corporation. Former CFO of Cliffs Natural Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Martin Lundstedt",
+      "age": 57,
+      "age_year": 2024,
+      "background": "President and CEO of AB Volvo since 2015. Previously President and CEO of Scania. Member of the Group Executive Board since 2015. Holds an MSc in Industrial Management and Technology.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "2021",
+          "end_date": "2026-05-07"
+        }
+      ]
+    },
+    {
+      "name": "Mats Backman",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Chief Financial Officer of AB Volvo. Previously CFO of Trustly, Autoliv, and Sandvik. Member of the Group Executive Board since 2023.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2016",
+          "end_date": "2019"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Laurie Brlas",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Executive Vice President and Chief Financial Officer of Newmont Mining Corporation. Former CFO of Cliffs Natural Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Martin Lundstedt",
+      "age": 57,
+      "age_year": 2024,
+      "background": "President and CEO of AB Volvo since 2015. Previously President and CEO of Scania. Member of the Group Executive Board since 2015. Holds an MSc in Industrial Management and Technology.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "2021",
+          "end_date": "2026-05-07"
+        }
+      ]
+    }
+  ]
+}

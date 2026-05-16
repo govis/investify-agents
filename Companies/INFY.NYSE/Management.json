@@ -1,0 +1,90 @@
+{
+  "executives": [
+    {
+      "name": "Ann Fudge",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Former Chairman and Chief Executive Officer of Young & Rubicam Brands.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2011",
+          "end_date": "2014"
+        }
+      ]
+    },
+    {
+      "name": "Diane Jurgens",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Diane Jurgens is an independent non-executive director. She was formerly the CTO of BHP and has held senior leadership roles at The Walt Disney Company and General Motors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "April 2026",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Vishal Sikka",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Founder and CEO of Vianai Systems, Inc. and former CEO of Infosys Limited.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO and Managing Director",
+          "start_date": "2014-08-01",
+          "end_date": "2017-08-18"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Ann Fudge",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Former Chairman and Chief Executive Officer of Young & Rubicam Brands.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2011",
+          "end_date": "2014"
+        }
+      ]
+    },
+    {
+      "name": "Diane Jurgens",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Diane Jurgens is an independent non-executive director. She was formerly the CTO of BHP and has held senior leadership roles at The Walt Disney Company and General Motors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "April 2026",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Vishal Sikka",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Founder and CEO of Vianai Systems, Inc. and former CEO of Infosys Limited.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO and Managing Director",
+          "start_date": "2014-08-01",
+          "end_date": "2017-08-18"
+        }
+      ]
+    }
+  ]
+}

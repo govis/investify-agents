@@ -1,0 +1,216 @@
+{
+  "executives": [
+    {
+      "name": "Andrew Power",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Mr. Power has served as our President since 2021 and our Chief Executive Officer since 2022. He previously served as our Chief Financial Officer from 2015 to 2022. Prior to joining Digital Realty, he was Managing Director at Bank of America Merrill Lynch.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Managing Director of Real Estate, Gaming and Lodging Investment Banking",
+          "start_date": "Unknown",
+          "end_date": "2015"
+        }
+      ]
+    },
+    {
+      "name": "Andy Saperstein",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Mr. Saperstein has served as Co-President of Morgan Stanley since January 2024 and Head of Wealth Management.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer of the Direct Division; Member of the Global Private Client Executive Committee",
+          "start_date": "Prior to 2006",
+          "end_date": "2006"
+        }
+      ]
+    },
+    {
+      "name": "Arnold Donald",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former President and CEO of Carnival Corporation & plc. He joined the board in 2023.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": "2024"
+        }
+      ]
+    },
+    {
+      "name": "Charles Holliday, Jr.",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Former Chairman of Royal Dutch Shell plc and former Chairman and CEO of DuPont.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director and Chairman",
+          "start_date": "2009",
+          "end_date": "2014"
+        }
+      ]
+    },
+    {
+      "name": "John Griffith",
+      "age": 54,
+      "age_year": 2023,
+      "background": "Mr. Griffith has served as our Chief Development Officer since September 2020. He has over 25 years of experience in the mining sector, including senior roles in investment banking at Merrill Lynch and HSBC.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Managing Director, Head of Americas Metals & Mining Investment Banking",
+          "start_date": "2006",
+          "end_date": "2020-05"
+        }
+      ]
+    },
+    {
+      "name": "Lionel Nowell III",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Retired Senior Vice President and Treasurer of PepsiCo, Inc. Former Lead Director of Bank of America Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Lead Independent Director",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Maria Martinez",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Maria Martinez is Chief Operating Officer of Cisco. She joined Cisco in 2018. Previously, she was President, Global Customer Success and Salesforce Services at Salesforce.com.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2025-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Monica Lozano",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Ms. Lozano is the former President and CEO of College Futures Foundation and former Chairman and CEO of ImpreMedia, LLC.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2014",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Andrew Power",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Mr. Power has served as our President since 2021 and our Chief Executive Officer since 2022. He previously served as our Chief Financial Officer from 2015 to 2022. Prior to joining Digital Realty, he was Managing Director at Bank of America Merrill Lynch.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Managing Director of Real Estate, Gaming and Lodging Investment Banking",
+          "start_date": "Unknown",
+          "end_date": "2015"
+        }
+      ]
+    },
+    {
+      "name": "Arnold Donald",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former President and CEO of Carnival Corporation & plc. He joined the board in 2023.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": "2024"
+        }
+      ]
+    },
+    {
+      "name": "Charles Holliday, Jr.",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Former Chairman of Royal Dutch Shell plc and former Chairman and CEO of DuPont.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director and Chairman",
+          "start_date": "2009",
+          "end_date": "2014"
+        }
+      ]
+    },
+    {
+      "name": "John Griffith",
+      "age": 54,
+      "age_year": 2023,
+      "background": "Mr. Griffith has served as our Chief Development Officer since September 2020. He has over 25 years of experience in the mining sector, including senior roles in investment banking at Merrill Lynch and HSBC.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Managing Director, Head of Americas Metals & Mining Investment Banking",
+          "start_date": "2006",
+          "end_date": "2020-05"
+        }
+      ]
+    },
+    {
+      "name": "Lionel Nowell III",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Retired Senior Vice President and Treasurer of PepsiCo, Inc. Former Lead Director of Bank of America Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Lead Independent Director",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Maria Martinez",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Maria Martinez is Chief Operating Officer of Cisco. She joined Cisco in 2018. Previously, she was President, Global Customer Success and Salesforce Services at Salesforce.com.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2025-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Monica Lozano",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Ms. Lozano is the former President and CEO of College Futures Foundation and former Chairman and CEO of ImpreMedia, LLC.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2014",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

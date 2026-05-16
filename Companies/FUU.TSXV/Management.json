@@ -1,0 +1,160 @@
+{
+  "executives": [
+    {
+      "name": "Frank Estergaard",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Chartered Professional Accountant and former partner at KPMG. Extensive experience in auditing and financial consulting for public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Nicky Grant",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Ms. Grant has over 25 years of experience in the financial services and resource sectors. She has held senior positions in corporate finance and investor relations.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "August 3, 2022",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Raymond Ashley",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Ashley has over 35 years of experience in the mineral exploration industry. He was formerly the Vice President, Exploration of Fission Uranium Corp. and Fission Energy Corp. He has been involved in several major uranium discoveries in the Athabasca Basin.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Director (formerly VP Exploration)",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ryan Woodhouse",
+      "age": 41,
+      "age_year": 2024,
+      "background": "Mr. Woodhouse has over 15 years of experience in the mining industry, specializing in financial reporting and corporate compliance. He has served as CFO for several public companies in the resource sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Corporate Secretary",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Samir Patel",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Patel is a corporate and securities lawyer with over 15 years of experience in the resource sector. He has served as General Counsel and Corporate Secretary for several public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "William Marsh",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Geologist with over 40 years of experience in the uranium industry, including senior roles at Cameco Corp.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "Unknown",
+          "end_date": "2021-09-21"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Frank Estergaard",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Chartered Professional Accountant and former partner at KPMG. Extensive experience in auditing and financial consulting for public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Nicky Grant",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Ms. Grant has over 25 years of experience in the financial services and resource sectors. She has held senior positions in corporate finance and investor relations.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "August 3, 2022",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Raymond Ashley",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Ashley has over 35 years of experience in the mineral exploration industry. He was formerly the Vice President, Exploration of Fission Uranium Corp. and Fission Energy Corp. He has been involved in several major uranium discoveries in the Athabasca Basin.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Director (formerly VP Exploration)",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Samir Patel",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Patel is a corporate and securities lawyer with over 15 years of experience in the resource sector. He has served as General Counsel and Corporate Secretary for several public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "William Marsh",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Geologist with over 40 years of experience in the uranium industry, including senior roles at Cameco Corp.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "Unknown",
+          "end_date": "2021-09-21"
+        }
+      ]
+    }
+  ]
+}

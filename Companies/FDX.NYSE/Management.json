@@ -1,0 +1,104 @@
+{
+  "executives": [
+    {
+      "name": "Amy Lane",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Retired managing director of Merrill Lynch & Co., Inc. Director since 2015.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Douglas Duncan",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Former President and CEO of FedEx Freight. Director since 2010.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and CEO, FedEx Freight (a subsidiary of FedEx Corporation)",
+          "start_date": "Prior to 2010",
+          "end_date": "2010"
+        }
+      ]
+    },
+    {
+      "name": "Jim Vena",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Jim Vena is the Chief Executive Officer of Union Pacific. He previously served as Chief Operating Officer from 2019 to 2020 and has over 40 years of experience in the railroad industry, including a long career at CN.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Susan Schwab",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Professor Emerita at the University of Maryland and former U.S. Trade Representative.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2009",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Amy Lane",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Retired managing director of Merrill Lynch & Co., Inc. Director since 2015.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jim Vena",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Jim Vena is the Chief Executive Officer of Union Pacific. He previously served as Chief Operating Officer from 2019 to 2020 and has over 40 years of experience in the railroad industry, including a long career at CN.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Susan Schwab",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Professor Emerita at the University of Maryland and former U.S. Trade Representative.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2009",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

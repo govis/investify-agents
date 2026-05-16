@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Frank Calderoni",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Anaplan, Inc. Director since 2012.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO and President",
+          "start_date": "2017",
+          "end_date": "2022"
+        }
+      ]
+    },
+    {
+      "name": "Gagan Dhingra",
+      "age": 50,
+      "age_year": 2024,
+      "background": "Mr. Dhingra has served as our Interim Chief Financial Officer and Principal Financial Officer since December 2023. He joined Lucid in September 2022 as Vice President, Accounting and Principal Accounting Officer. Previously, he spent 14 years at Danaher Corporation in various accounting and finance leadership roles.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Chief Accounting Officer, and Corporate Controller",
+          "start_date": "2020-08-20",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Yvonne Wassenaar",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Former CEO of Puppet. Former executive at Airware, New Relic, and VMware. Director at Forrester Research and JFrog.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": "2022"
+        }
+      ]
+    }
+  ]
+}

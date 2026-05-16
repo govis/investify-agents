@@ -1,0 +1,90 @@
+{
+  "executives": [
+    {
+      "name": "Abhijit Talwalkar",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Mr. Talwalkar has been a director since 2011 and Chairman of the Board since 2019. He was President and CEO of LSI Corporation from 2005 to 2014.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President, Chief Executive Officer, and Director",
+          "start_date": "2005-05-02",
+          "end_date": "2014-05-06"
+        }
+      ]
+    },
+    {
+      "name": "Michael Strachan",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former Partner at Ernst & Young LLP.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director (Chairman of the Audit Committee)",
+          "start_date": "Unknown",
+          "end_date": "2014"
+        }
+      ]
+    },
+    {
+      "name": "Richard Hill",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Novellus Systems. Former Chairman of Marvell (2016-2021).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Abhijit Talwalkar",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Mr. Talwalkar has been a director since 2011 and Chairman of the Board since 2019. He was President and CEO of LSI Corporation from 2005 to 2014.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President, Chief Executive Officer, and Director",
+          "start_date": "2005-05-02",
+          "end_date": "2014-05-06"
+        }
+      ]
+    },
+    {
+      "name": "Michael Strachan",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former Partner at Ernst & Young LLP.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director (Chairman of the Audit Committee)",
+          "start_date": "Unknown",
+          "end_date": "2014"
+        }
+      ]
+    },
+    {
+      "name": "Richard Hill",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Novellus Systems. Former Chairman of Marvell (2016-2021).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

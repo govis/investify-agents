@@ -1,0 +1,118 @@
+{
+  "executives": [
+    {
+      "name": "Brandon Macdonald",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Macdonald is a professional geologist and the CEO of Fireweed Metals Corp. He has extensive experience in capital markets and mineral exploration.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO / Director",
+          "start_date": "2017",
+          "end_date": "2024"
+        }
+      ]
+    },
+    {
+      "name": "Graham Richardson",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Mr. Richardson is a Chartered Professional Accountant with over 15 years of experience in finance and accounting. He was previously CFO of Nova Royalty Corp. and has held senior roles at Teck Resources and KPMG.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "September 30, 2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ian Gibbs",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Mr. Gibbs is a Canadian Chartered Professional Accountant with over 25 years of experience in the resource sector. He has served as CFO for several public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, CEO & Director",
+          "start_date": "2025",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Paul Harbidge",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Mr. Harbidge has over 30 years of experience in the mining industry. He was previously President and CEO of GT Gold Corp. and Senior Vice President, Exploration at Goldcorp Inc. He also served as General Manager, Exploration at Randgold Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Brandon Macdonald",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Macdonald is a professional geologist and the CEO of Fireweed Metals Corp. He has extensive experience in capital markets and mineral exploration.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO / Director",
+          "start_date": "2017",
+          "end_date": "2024"
+        }
+      ]
+    },
+    {
+      "name": "Ian Gibbs",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Mr. Gibbs is a Canadian Chartered Professional Accountant with over 25 years of experience in the resource sector. He has served as CFO for several public companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, CEO & Director",
+          "start_date": "2025",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Paul Harbidge",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Mr. Harbidge has over 30 years of experience in the mining industry. He was previously President and CEO of GT Gold Corp. and Senior Vice President, Exploration at Goldcorp Inc. He also served as General Manager, Exploration at Randgold Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ron Hochstein",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Hochstein is the Chair of the Board. He is currently the President and CEO of Lundin Gold Inc. and has over 30 years of experience in the mining industry.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director (Current)",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

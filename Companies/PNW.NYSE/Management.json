@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Dale Klein",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Professor Emeritus and former Associate Vice Chancellor at the University of Texas System. Former Chairman of the U.S. Nuclear Regulatory Commission.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "June 2010",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "William Post",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Pinnacle West Capital Corporation. He has served on the board since 2010.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "Prior to 2009",
+          "end_date": "April 2009"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Dale Klein",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Professor Emeritus and former Associate Vice Chancellor at the University of Texas System. Former Chairman of the U.S. Nuclear Regulatory Commission.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "June 2010",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "William Post",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Pinnacle West Capital Corporation. He has served on the board since 2010.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "Prior to 2009",
+          "end_date": "April 2009"
+        }
+      ]
+    }
+  ]
+}

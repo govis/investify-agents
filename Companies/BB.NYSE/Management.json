@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Bert Nordberg",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Deputy Chairman. Former Chairman of Vestas Wind Systems and CEO of Sony Mobile Communications.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Board Member",
+          "start_date": "2014",
+          "end_date": "2019"
+        }
+      ]
+    },
+    {
+      "name": "Michael Daniels",
+      "age": 78,
+      "age_year": 2024,
+      "background": "Mr. Daniels has served as Chairman of the Board since 2021. He was previously Chairman and CEO of Mobile 365 and a senior executive at SAIC.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2014",
+          "end_date": "2025"
+        }
+      ]
+    },
+    {
+      "name": "Lisa Disbrow",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Under Secretary of the Air Force. She has extensive experience in national security and defense.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2019",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Michael Daniels",
+      "age": 78,
+      "age_year": 2024,
+      "background": "Mr. Daniels has served as Chairman of the Board since 2021. He was previously Chairman and CEO of Mobile 365 and a senior executive at SAIC.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2014",
+          "end_date": "2025"
+        }
+      ]
+    },
+    {
+      "name": "Lisa Bahash",
+      "age": 59,
+      "age_year": 2023,
+      "background": "Lisa Bahash has over 30 years of experience in the automotive and materials sectors. She has held senior executive roles at JCI and Ride Control, LLC, and has expertise in manufacturing, supply chain, and strategic growth.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director (Board of Directors)",
+          "start_date": "2024-09-26",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

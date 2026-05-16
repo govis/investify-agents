@@ -1,0 +1,104 @@
+{
+  "executives": [
+    {
+      "name": "Alan Campbell",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Alan Campbell has served as a director since 2015 and as Chairman of the Board since 2017. He was previously the Chief Financial Officer of Freescale Semiconductor from 2004 to 2014.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer (CFO) & Senior Vice President",
+          "start_date": "May 2004",
+          "end_date": "June 2014"
+        }
+      ]
+    },
+    {
+      "name": "Gregg Lowe",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Gregg A. Lowe joined Wolfspeed in September 2017 as President and Chief Executive Officer and a member of the Board of Directors. Prior to joining Wolfspeed, Mr. Lowe served as President and Chief Executive Officer of Freescale Semiconductor, Ltd. from 2012 until its merger with NXP Semiconductors N.V. in 2015. He previously held various executive positions at Texas Instruments Incorporated.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and CEO",
+          "start_date": "June 2012",
+          "end_date": "December 2015"
+        }
+      ]
+    },
+    {
+      "name": "Mark Durcan",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former CEO of Micron Technology, Inc. Director since 2017.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2014-08-13",
+          "end_date": "2015"
+        }
+      ]
+    },
+    {
+      "name": "Richard Beyer",
+      "age": 75,
+      "age_year": 2023,
+      "background": "Mr. Beyer was the Chairman and CEO of Freescale Semiconductor, Inc. and has held executive roles at Intersil Corporation and Elantec Semiconductor.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2008",
+          "end_date": "2013"
+        }
+      ]
+    },
+    {
+      "name": "Sumit Sadana",
+      "age": 55,
+      "age_year": 2023,
+      "background": "Sumit Sadana is Executive Vice President and Chief Business Officer. He joined Micron in 2017 from SanDisk, where he was Executive Vice President and Chief Strategy Officer.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Executive (various roles including CTO and CFO)",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Mark Durcan",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former CEO of Micron Technology, Inc. Director since 2017.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2014-08-13",
+          "end_date": "2015"
+        }
+      ]
+    },
+    {
+      "name": "Richard Beyer",
+      "age": 75,
+      "age_year": 2023,
+      "background": "Mr. Beyer was the Chairman and CEO of Freescale Semiconductor, Inc. and has held executive roles at Intersil Corporation and Elantec Semiconductor.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2008",
+          "end_date": "2013"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "executives": [
+    {
+      "name": "Caroline Dorsa",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former Executive Vice President and Chief Financial Officer of Public Service Enterprise Group Incorporated.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Board of Directors",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Frances Arnold",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Frances H. Arnold has been a director since 2019. She is the Linus Pauling Professor of Chemical Engineering, Bioengineering and Biochemistry at the California Institute of Technology and a Nobel Laureate in Chemistry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2016",
+          "end_date": "2026"
+        }
+      ]
+    },
+    {
+      "name": "Jay Flatley",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Flatley has served as a member of our Board since 2021. He is the former Chairman and CEO of Illumina, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and CEO (1999\u20132016), Executive Chairman (2016\u20132019), Chairman of the Board (2019\u20132021)",
+          "start_date": "1999",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Caroline Dorsa",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former Executive Vice President and Chief Financial Officer of Public Service Enterprise Group Incorporated.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Board of Directors",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Frances Arnold",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Frances H. Arnold has been a director since 2019. She is the Linus Pauling Professor of Chemical Engineering, Bioengineering and Biochemistry at the California Institute of Technology and a Nobel Laureate in Chemistry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2016",
+          "end_date": "2026"
+        }
+      ]
+    },
+    {
+      "name": "Jay Flatley",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Flatley has served as a member of our Board since 2021. He is the former Chairman and CEO of Illumina, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and CEO (1999\u20132016), Executive Chairman (2016\u20132019), Chairman of the Board (2019\u20132021)",
+          "start_date": "1999",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ]
+}

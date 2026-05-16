@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Angelina Mehta",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Ms. Mehta is an engineer with over 20 years of experience in the mining industry, including roles in operations, investment banking, and private equity.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019-10-14",
+          "end_date": "2021-03-08"
+        }
+      ]
+    },
+    {
+      "name": "Fr\u00e9d\u00e9ric Ruel",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Mr. Ruel has over 20 years of experience in financial reporting and the mining industry. He has been with Osisko since its inception in 2014.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Corporate Controller",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Angelina Mehta",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Ms. Mehta is an engineer with over 20 years of experience in the mining industry, including roles in operations, investment banking, and private equity.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019-10-14",
+          "end_date": "2021-03-08"
+        }
+      ]
+    }
+  ]
+}

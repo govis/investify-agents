@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Anne Labelle",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Ms. Labelle is a geologist and lawyer with over 25 years of experience in the mining industry, specializing in exploration, environmental and legal matters.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Aris Morfopoulos",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Morfopoulos is a senior executive with over 30 years of experience in corporate management and finance. He has served as a director and officer for several public companies in the resource sector.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer & Secretary",
+          "start_date": "2019",
+          "end_date": "2024"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Anne Labelle",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Ms. Labelle is a geologist and lawyer with over 25 years of experience in the mining industry, specializing in exploration, environmental and legal matters.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": "2023"
+        }
+      ]
+    }
+  ]
+}

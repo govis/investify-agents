@@ -1,0 +1,90 @@
+{
+  "executives": [
+    {
+      "name": "Alan Boeckmann",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Mr. Boeckmann has served as a member of our Board since May 2022. He is the former Executive Chairman and CEO of Fluor Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2012",
+          "end_date": "2024"
+        }
+      ]
+    },
+    {
+      "name": "Donald Felsinger",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Former Chairman and Chief Executive Officer of Sempra Energy. Lead Independent Director of Northrop Grumman.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors / Lead Director",
+          "start_date": "2009",
+          "end_date": "2021"
+        }
+      ]
+    },
+    {
+      "name": "Theodore \"Ted\" Colbert III",
+      "age": 50,
+      "age_year": 2024,
+      "background": "Mr. Colbert was Executive Vice President and President and CEO of Boeing Defense, Space & Security. He previously served as CEO of Boeing Global Services and Chief Information Officer.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "May 2021",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Alan Boeckmann",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Mr. Boeckmann has served as a member of our Board since May 2022. He is the former Executive Chairman and CEO of Fluor Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2012",
+          "end_date": "2024"
+        }
+      ]
+    },
+    {
+      "name": "Donald Felsinger",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Former Chairman and Chief Executive Officer of Sempra Energy. Lead Independent Director of Northrop Grumman.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors / Lead Director",
+          "start_date": "2009",
+          "end_date": "2021"
+        }
+      ]
+    },
+    {
+      "name": "Theodore \"Ted\" Colbert III",
+      "age": 50,
+      "age_year": 2024,
+      "background": "Mr. Colbert was Executive Vice President and President and CEO of Boeing Defense, Space & Security. He previously served as CEO of Boeing Global Services and Chief Information Officer.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "May 2021",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

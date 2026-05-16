@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Mark Templeton",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Former CEO of Citrix Systems and DigitalOcean. Director at Equinix.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2008-02-08",
+          "end_date": "2018-11"
+        }
+      ]
+    },
+    {
+      "name": "Scott McGregor",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Scott McGregor was President and CEO of Broadcom Corporation from 2005 to 2016. He also served as President and CEO of the Philips Semiconductors division of Royal Philips Electronics.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Mark Templeton",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Former CEO of Citrix Systems and DigitalOcean. Director at Equinix.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2008-02-08",
+          "end_date": "2018-11"
+        }
+      ]
+    },
+    {
+      "name": "Scott McGregor",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Scott McGregor was President and CEO of Broadcom Corporation from 2005 to 2016. He also served as President and CEO of the Philips Semiconductors division of Royal Philips Electronics.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

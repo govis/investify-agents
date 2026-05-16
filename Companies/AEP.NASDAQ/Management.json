@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Lionel Nowell III",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Retired Senior Vice President and Treasurer of PepsiCo, Inc. Former Lead Director of Bank of America Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2004",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "Susan Tomasky",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Former President of AEP Transmission and former General Counsel of the Federal Energy Regulatory Commission.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President, AEP Transmission (and other senior executive roles including CFO and General Counsel)",
+          "start_date": "1998",
+          "end_date": "2011"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Lionel Nowell III",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Retired Senior Vice President and Treasurer of PepsiCo, Inc. Former Lead Director of Bank of America Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2004",
+          "end_date": "2020"
+        }
+      ]
+    }
+  ]
+}

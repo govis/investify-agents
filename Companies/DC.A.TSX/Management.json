@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Joanne Ferstman",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Ms. Ferstman is a corporate director with over 20 years of experience in the financial services sector.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "1997",
+          "end_date": "2012"
+        }
+      ]
+    },
+    {
+      "name": "Jonathan Goodman",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Goodman is the Executive Chair of the Board. He has over 30 years of experience in the resource and investment sectors. He is also the President and CEO of Dundee Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and CEO",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jonathan Goodman",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. Goodman is the Executive Chair of the Board. He has over 30 years of experience in the resource and investment sectors. He is also the President and CEO of Dundee Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman and CEO",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

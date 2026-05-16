@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "John Zillmer",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Chairman of the Board of CSX. Chief Executive Officer of Aramark.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer & Director",
+          "start_date": "2019",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Marc Bruno",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Marc A. Bruno is Chief Operating Officer, United States Food and Facilities, for Aramark.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer, U.S. Food and Facilities",
+          "start_date": "1993",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Nichelle Maynard-Elliott",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Ms. Maynard-Elliott has served as a director since 2021. She previously served as Executive Director, M&A at Praxair, Inc. She also serves on the boards of Xerox Holdings Corporation and Element Solutions Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "John Zillmer",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Chairman of the Board of CSX. Chief Executive Officer of Aramark.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer & Director",
+          "start_date": "2019",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Nichelle Maynard-Elliott",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Ms. Maynard-Elliott has served as a director since 2021. She previously served as Executive Director, M&A at Praxair, Inc. She also serves on the boards of Xerox Holdings Corporation and Element Solutions Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

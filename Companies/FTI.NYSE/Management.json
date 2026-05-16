@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Catherine MacGregor",
+      "age": 52,
+      "age_year": 2024,
+      "background": "CEO of Engie S.A.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Various Senior Executive Roles (including President, Subsea)",
+          "start_date": "2003",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "Kay Priestly",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Independent Director. Former CEO of Turquoise Hill Resources Ltd. and executive at Rio Tinto.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Kay Priestly",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Independent Director. Former CEO of Turquoise Hill Resources Ltd. and executive at Rio Tinto.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

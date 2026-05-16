@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Thomas Gorman",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former CEO of Brambles Limited.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-executive Director",
+          "start_date": "2020-05-01",
+          "end_date": "2025-05-09"
+        }
+      ]
+    },
+    {
+      "name": "Vicky Binns",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Ms. Binns has over 35 years\u2019 experience in the global resources and financial services sectors, including 10 years at BHP in senior executive roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "October 2021",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Thomas Gorman",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former CEO of Brambles Limited.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Non-executive Director",
+          "start_date": "2020-05-01",
+          "end_date": "2025-05-09"
+        }
+      ]
+    },
+    {
+      "name": "Vicky Binns",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Ms. Binns has over 35 years\u2019 experience in the global resources and financial services sectors, including 10 years at BHP in senior executive roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director",
+          "start_date": "October 2021",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

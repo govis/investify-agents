@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Amy Schwetz",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Ms. Schwetz has served as Senior Vice President and Chief Financial Officer since February 2020. Prior to joining Flowserve, she served as Executive Vice President and Chief Financial Officer of Peabody Energy Corporation from July 2015 to February 2020.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "July 1, 2015",
+          "end_date": "January 2020"
+        }
+      ]
+    },
+    {
+      "name": "Jeane Hull",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Ms. Hull was formerly the EVP and Chief Technical Officer of Peabody Energy. She has extensive experience in engineering and operations.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Technical Officer",
+          "start_date": "2013",
+          "end_date": "2015"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Gregory Boyce",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Mr. Boyce has served as Chair of the Board since 2021. He was previously the Executive Chairman of Peabody Energy Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman of the Board",
+          "start_date": "2007",
+          "end_date": "2015"
+        }
+      ]
+    }
+  ]
+}

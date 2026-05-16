@@ -1,0 +1,47 @@
+{
+  "executives": [
+    {
+      "name": "Gerhard Watzinger",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Chairman of the Board. Former CEO of i-Logix and executive at McAfee.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, Corporate Strategy, Mergers & Acquisitions",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael Berry",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Michael J. Berry has served as our Executive Vice President and Chief Financial Officer since March 2020. Prior to joining NetApp, Mr. Berry served as Executive Vice President and Chief Financial Officer of McAfee, LLC from February 2017 to March 2020. From September 2015 to January 2017, he served as Executive Vice President, Chief Financial Officer and Chief Operating Officer at FireEye, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President & CFO",
+          "start_date": "2017",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "Michael Sentonas",
+      "age": 47,
+      "age_year": 2024,
+      "background": "Michael Sentonas has served as our President since March 2023. Previously, Mr. Sentonas served as our Chief Technology Officer from February 2020 to March 2023 and as our Vice President, Technology Strategy from May 2016 to February 2020. From 1996 to May 2016, Mr. Sentonas served in various roles at McAfee, Inc., including Chief Technology Officer, Asia Pacific and Vice President, Worldwide Sales Engineering.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Vice President & Chief Technology Officer, Security Connected",
+          "start_date": "Prior to 2014",
+          "end_date": "2016"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": []
+}

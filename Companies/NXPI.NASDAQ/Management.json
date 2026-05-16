@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Annette Clayton",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Former Chief Executive Officer and Chair of Schneider Electric North America.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021-05-26",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Dan Durn",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Mr. Durn has served as Executive Vice President and Chief Financial Officer since October 2021. Prior to joining Adobe, he was Senior Vice President and Chief Financial Officer of Applied Materials, Inc. from 2017 to 2021.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "December 2015",
+          "end_date": "August 2017"
+        }
+      ]
+    },
+    {
+      "name": "Neill Reynolds",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Neill P. Reynolds joined Wolfspeed in August 2018 as Executive Vice President and Chief Financial Officer. Prior to joining Wolfspeed, Mr. Reynolds served as Senior Vice President of Finance, Strategy and Corporate Development at NXP Semiconductors N.V. and held various finance leadership roles at General Electric Company.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Finance, Strategy and Procurement",
+          "start_date": "Prior to 2018",
+          "end_date": "August 2018"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Annette Clayton",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Former Chief Executive Officer and Chair of Schneider Electric North America.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021-05-26",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Peter Bonfield",
+      "age": 80,
+      "age_year": 2024,
+      "background": "Sir Peter Bonfield is an Independent Director. He was formerly the CEO of British Telecommunications and Chairman and CEO of ICL plc. He has extensive experience in the international technology and telecommunications industries.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman of the Board",
+          "start_date": "2006",
+          "end_date": "2019"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "executives": [
+    {
+      "name": "Laurette Koellner",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former President of Boeing International.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Chairman (ILFC)",
+          "start_date": "2012",
+          "end_date": "2014"
+        }
+      ]
+    },
+    {
+      "name": "Linda Mills",
+      "age": 73,
+      "age_year": 2023,
+      "background": "Ms. Mills previously served as Corporate Vice President of Operations for Northrop Grumman Corporation. She has significant experience in large-scale systems integration and operations.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2015",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Vanessa Wittman",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Vanessa Wittman has served as a member of our board of directors since May 2021. Ms. Wittman served as the Chief Financial Officer of Glossier, Inc. from April 2019 to May 2022.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023-03-16",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Anastasia Kelly",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Anastasia D. Kelly is Executive Director, Client Relations at DLA Piper and previously served as Vice Chairman of American International Group (AIG).",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Vice Chairman",
+          "start_date": "2009",
+          "end_date": "2009"
+        }
+      ]
+    },
+    {
+      "name": "Laurette Koellner",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former President of Boeing International.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Chairman (ILFC)",
+          "start_date": "2012",
+          "end_date": "2014"
+        }
+      ]
+    },
+    {
+      "name": "Linda Mills",
+      "age": 73,
+      "age_year": 2023,
+      "background": "Ms. Mills previously served as Corporate Vice President of Operations for Northrop Grumman Corporation. She has significant experience in large-scale systems integration and operations.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2015",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Vanessa Wittman",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Vanessa Wittman has served as a member of our board of directors since May 2021. Ms. Wittman served as the Chief Financial Officer of Glossier, Inc. from April 2019 to May 2022.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023-03-16",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

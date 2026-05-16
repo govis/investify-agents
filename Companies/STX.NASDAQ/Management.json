@@ -1,0 +1,104 @@
+{
+  "executives": [
+    {
+      "name": "Dambisa Moyo",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Co-principal of Versaca Investments. Director since 2016.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2010",
+          "end_date": "2015"
+        }
+      ]
+    },
+    {
+      "name": "Judy Bruner",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Judy Bruner was Executive Vice President and Chief Financial Officer of SanDisk Corporation from 2004 until its acquisition by Western Digital in 2016.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018",
+          "end_date": "2025"
+        }
+      ]
+    },
+    {
+      "name": "Michael Cannon",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Cannon has been a director since 2011. He was President of Global Operations at Dell Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Lead Independent Director",
+          "start_date": "Prior to 2013",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Dambisa Moyo",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Co-principal of Versaca Investments. Director since 2016.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2010",
+          "end_date": "2015"
+        }
+      ]
+    },
+    {
+      "name": "Judy Bruner",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Judy Bruner was Executive Vice President and Chief Financial Officer of SanDisk Corporation from 2004 until its acquisition by Western Digital in 2016.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018",
+          "end_date": "2025"
+        }
+      ]
+    },
+    {
+      "name": "Michael Cannon",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Cannon has been a director since 2011. He was President of Global Operations at Dell Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Lead Independent Director",
+          "start_date": "Prior to 2013",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Stephen Luczo",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Seagate Technology.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman of the Board",
+          "start_date": "2019",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ]
+}

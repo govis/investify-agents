@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Benoit La Salle",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Mr. La Salle is a Chartered Professional Accountant and has over 25 years of experience in the mining industry. He is the founder of SEMAFO Inc. and has extensive experience in developing mining projects in Africa.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Founder, President & CEO",
+          "start_date": "1995",
+          "end_date": "2012"
+        }
+      ]
+    },
+    {
+      "name": "Tertius Zongo",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Tertius Zongo served as the Prime Minister of Burkina Faso from 2007 to 2011 and has held various senior government and international roles.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "May 2012",
+          "end_date": "July 1, 2020"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Tertius Zongo",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Tertius Zongo served as the Prime Minister of Burkina Faso from 2007 to 2011 and has held various senior government and international roles.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "May 2012",
+          "end_date": "July 1, 2020"
+        }
+      ]
+    }
+  ]
+}

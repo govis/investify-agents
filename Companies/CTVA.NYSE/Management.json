@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Gregory Page",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Cargill, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Chair of the Board",
+          "start_date": "2019",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael Johanns",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Former U.S. Senator and former U.S. Secretary of Agriculture.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": "2024"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Michael Johanns",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Former U.S. Senator and former U.S. Secretary of Agriculture.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": "2024"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Anne Labelle",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Ms. Labelle is a geologist and lawyer with over 25 years of experience in the mining industry, specializing in exploration, environmental and legal matters.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive (Legal/Sustainability)",
+          "start_date": "2011",
+          "end_date": "2018"
+        }
+      ]
+    },
+    {
+      "name": "Frederick Earnest",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Earnest has served as President and Chief Executive Officer of Vista Gold Corp. since January 2012. He joined the company in 2006 as Senior Vice President and Project Manager, later becoming President and Chief Operating Officer in 2007. He has over 30 years of experience in the mining industry, including roles at Pacific Rim Mining Corp. and various engineering and management positions.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2011",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Frederick Earnest",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Earnest has served as President and Chief Executive Officer of Vista Gold Corp. since January 2012. He joined the company in 2006 as Senior Vice President and Project Manager, later becoming President and Chief Operating Officer in 2007. He has over 30 years of experience in the mining industry, including roles at Pacific Rim Mining Corp. and various engineering and management positions.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2011",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michael Richings",
+      "age": 79,
+      "age_year": 2024,
+      "background": "Mr. Richings has been a director of Vista Gold Corp. since 1995. He served as Executive Chairman from 2012 to 2017 and as President and CEO from 2004 to 2012. He has extensive experience in the mining industry, having held senior positions with several mining companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2011",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ]
+}

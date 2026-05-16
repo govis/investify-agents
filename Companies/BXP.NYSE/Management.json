@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Karen Dykstra",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Karen Dykstra has served as a member of our board of directors since 2022. She previously served as CFO and CAO of AOL and CFO of Automatic Data Processing (ADP).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Board Member",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Kelly Ayotte",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Former U.S. Senator for New Hampshire and former Attorney General of New Hampshire.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Kelly Ayotte",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Former U.S. Senator for New Hampshire and former Attorney General of New Hampshire.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

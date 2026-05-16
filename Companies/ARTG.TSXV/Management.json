@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Abby Khandelwal",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Mr. Khandelwal joined B2Gold in 2024 as Chief Financial Officer. He previously served as CFO of Pretium Resources Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2024-01-15",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Janice Stairs",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Ms. Stairs is a lawyer with over 30 years of experience in the mining industry. She is currently the Chair of the Board of Trilogy Metals Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Robert Atkinson",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Atkinson has over 35 years of experience in the investment industry. He was previously the President and CEO of Loewen, Ondaatje, McCutcheon & Co. Ltd.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Janice Stairs",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Ms. Stairs is a lawyer with over 30 years of experience in the mining industry. She is currently the Chair of the Board of Trilogy Metals Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Robert Atkinson",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Atkinson has over 35 years of experience in the investment industry. He was previously the President and CEO of Loewen, Ondaatje, McCutcheon & Co. Ltd.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ]
+}

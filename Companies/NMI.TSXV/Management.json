@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Janice Stairs",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Ms. Stairs is a lawyer with over 30 years of experience in the mining industry. She is currently the Chair of the Board of Trilogy Metals Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "General Counsel and Corporate Secretary",
+          "start_date": "2011",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "Steve Herlihy",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Steve Herlihy is a Chartered Accountant with over 30 years of experience in commercial and financial roles. He has served as CFO for several ASX-listed companies and has extensive experience in capital raisings and financial management in the resources sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "May 2023",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Kalidas Madhavpeddi",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Kalidas Madhavpeddi was appointed Chairman in July 2021. He has over 40 years of experience in the international mining industry, including as CEO of China Molybdenum International. He holds degrees from the Indian Institute of Technology and the University of Iowa.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Steve Herlihy",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Steve Herlihy is a Chartered Accountant with over 30 years of experience in commercial and financial roles. He has served as CFO for several ASX-listed companies and has extensive experience in capital raisings and financial management in the resources sector.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "May 2023",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

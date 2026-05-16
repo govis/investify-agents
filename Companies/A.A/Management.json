@@ -1,0 +1,978 @@
+{
+  "executives": [
+    {
+      "name": "Akash Patel",
+      "age": 38,
+      "age_year": 2024,
+      "background": "Mr. Patel has over 10 years of experience in corporate finance and accounting. He has served as a director and officer of several public companies in the resource and technology sectors.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer (CFO)",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Alastair Short",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Former executive at various financial institutions.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director, Vice Chairman of the Board, Chairman of the Audit Committee",
+          "start_date": null,
+          "end_date": null
+        },
+        {
+          "title": "Lead Independent Director",
+          "start_date": null,
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "June 2009",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director, Chair of Audit Committee",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Alex Ashby",
+      "age": 37,
+      "age_year": 2024,
+      "background": "Head of Product Development at Global X Management Company LLC. Responsible for the design and management of the firm's ETF suite.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Director of Product Development",
+          "start_date": "Prior to 2015",
+          "end_date": "Prior to 2015"
+        }
+      ]
+    },
+    {
+      "name": "Arvin Ramos",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Ramos holds a degree in commerce from the University of Windsor and is a member of the Chartered Professional Accountants of Ontario. He has over 15 years of experience in the mining industry and has served as CFO for several junior mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer & Director",
+          "start_date": "2014",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ashley Heppenstall",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Heppenstall has over 30 years of experience in the oil and gas and resource sectors. He was the President and CEO of Lundin Petroleum AB from 2002 to 2015.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Finance Director",
+          "start_date": "1998",
+          "end_date": "2002"
+        }
+      ]
+    },
+    {
+      "name": "Brian West",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. West has served as Executive Vice President and Chief Financial Officer since August 2021. Prior to joining Boeing, he was CFO of Refinitiv and Oscar Health.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2018",
+          "end_date": "2021"
+        }
+      ]
+    },
+    {
+      "name": "Catherine Reynolds",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Chairman and CEO of the Catherine B. Reynolds Foundation. Former CEO of Educap Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Founder, Chairman & Chief Executive Officer",
+          "start_date": "1993",
+          "end_date": "2000"
+        }
+      ]
+    },
+    {
+      "name": "Chris Verrico",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Verrico has over 40 years of experience in the mining and exploration industry. He has served as a director and officer of several public companies, including Xiana Mining Inc. and various junior exploration companies. He has extensive experience in project management and corporate development.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President, Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Christopher Lewis",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Lewis is a geologist with over 25 years of experience in the mining industry, specifically in uranium exploration and development. He has been involved with GoviEx since its early stages and has led the exploration teams in Niger and Zambia.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive/Management Role",
+          "start_date": "N/A",
+          "end_date": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "Christopher Wallace",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Wallace is a managing partner of Firstlight Capital and has over 30 years of experience in the investment industry. He has held senior positions with several Canadian investment dealers.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2025",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Craig Glidden",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Craig Glidden is Executive Vice President and General Counsel. He joined GM in 2015 from LyondellBasell.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, General Counsel and Corporate Secretary",
+          "start_date": "Prior to 2009",
+          "end_date": "August 2009"
+        }
+      ]
+    },
+    {
+      "name": "Dame Elizabeth Corley",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Elizabeth is the Senior Independent Director. She was formerly CEO of Allianz Global Investors and has extensive experience in the financial services industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO",
+          "start_date": "2005",
+          "end_date": "2016"
+        }
+      ]
+    },
+    {
+      "name": "Daniel Tucker",
+      "age": 43,
+      "age_year": 2024,
+      "background": "Mr. Tucker is executive vice president and chief financial officer of Southern Company. He previously served as executive vice president and chief financial officer of Georgia Power and has held various roles in finance and treasury since joining in 2003.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, CFO, and Treasurer; Member of the Board of Directors",
+          "start_date": "Prior to 2021",
+          "end_date": "2021"
+        }
+      ]
+    },
+    {
+      "name": "David Billard",
+      "age": null,
+      "age_year": null,
+      "background": "David Billard is a P.Geo. and the Head of Exploration for Skyharbour. He is a geologist with over 35 years of experience in exploration and development, particularly in the Athabasca Basin. He has worked with companies like Cameco and JNR Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "David Frydenlund",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Frydenlund has served as the Executive Vice President, Chief Legal Officer and Corporate Secretary of Energy Fuels since 2012. He has been with the Company and its predecessors since 1997.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Vice President",
+          "start_date": "1996",
+          "end_date": "1997"
+        }
+      ]
+    },
+    {
+      "name": "Douglas Kirwin",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Mr. Kirwin is an independent geologist with over 45 years of international experience. He was previously Executive Vice President of Ivanhoe Mines Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, CEO & Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "George Kurtz",
+      "age": 53,
+      "age_year": 2024,
+      "background": "George Kurtz is our co-founder and has served as our President and Chief Executive Officer and as a member of our board of directors since November 2011. From October 2009 to September 2011, Mr. Kurtz served as Worldwide Chief Technology Officer of McAfee, Inc., a computer security software company. Prior to that, Mr. Kurtz served in various other positions at McAfee, including Senior Vice President and General Manager, Risk Management from October 2005 to October 2009. Mr. Kurtz co-founded Foundstone, Inc., a worldwide security products and services company, and served as its Chief Executive Officer from October 1999 until its acquisition by McAfee in October 2004.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Founder and CEO",
+          "start_date": "October 1999",
+          "end_date": "October 2004"
+        }
+      ]
+    },
+    {
+      "name": "Glenn Jardine",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Jardine is an experienced mining executive with over 35 years' experience in the mining industry. He has held senior executive and operational roles with companies including LionOre, Kimberley Rare Earths, and GR Engineering Services. He has extensive experience in project development and operations across a range of commodities including gold, nickel, and base metals.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Henrik Henriksson",
+      "age": 54,
+      "age_year": 2024,
+      "background": "CEO of H2 Green Steel. Former CEO of Scania.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and CEO",
+          "start_date": "2016-01-01",
+          "end_date": "2021-05-01"
+        }
+      ]
+    },
+    {
+      "name": "Howard Wenger",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Howard Wenger has served as President of Nextracker since February 2022. He previously held executive leadership roles at SunPower Corporation, including President of Business Units and President of SunPower Systems.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President / Board Director",
+          "start_date": "1990s",
+          "end_date": "2007"
+        },
+        {
+          "title": "Board Director",
+          "start_date": "2019",
+          "end_date": "2022"
+        }
+      ]
+    },
+    {
+      "name": "Jack Miller",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Mr. Miller is the retired Chairman and CEO of North American Coffee Partnership. He has served on the board since 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Founder, President, and CEO",
+          "start_date": null,
+          "end_date": "1998"
+        },
+        {
+          "title": "COO, President, CEO, and Member of the Board of Directors",
+          "start_date": "2001",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "James Mattis",
+      "age": 73,
+      "age_year": 2024,
+      "background": "General, U.S. Marine Corps (Retired). Former U.S. Secretary of Defense.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": "2016-12"
+        }
+      ]
+    },
+    {
+      "name": "James Reagan",
+      "age": 61,
+      "age_year": 2024,
+      "background": "James G. Reagan has served as our Executive Vice President and General Counsel since 2017. Prior to joining Leidos, he was Senior Vice President and General Counsel at Vencore, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and Chief Financial Officer",
+          "start_date": "2008",
+          "end_date": "2011"
+        }
+      ]
+    },
+    {
+      "name": "James Turley",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Ernst & Young. He has served as Emerson's Chair of the Board since 2021.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2001",
+          "end_date": "2013"
+        }
+      ]
+    },
+    {
+      "name": "Jan van Eck",
+      "age": 61,
+      "age_year": 2024,
+      "background": "President and Chief Executive Officer of Van Eck Associates Corporation, Van Eck Securities Corporation, and Van Eck Absolute Return Advisers, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President & Director",
+          "start_date": "Unknown",
+          "end_date": "Unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jeff Sine",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Jeff Sine has served as a member of our board of directors since 2022. He is the Co-Founder and Partner of The Raine Group.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "January 2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jennifer Maki",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Former CEO of Vale Canada and Executive Director of Vale Base Metals.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO",
+          "start_date": "2014",
+          "end_date": "2017"
+        }
+      ]
+    },
+    {
+      "name": "Joanne Ferstman",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Ms. Ferstman is a corporate director with over 20 years of experience in the financial services sector.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2009",
+          "end_date": "2012"
+        }
+      ]
+    },
+    {
+      "name": "Luis Berruga",
+      "age": 47,
+      "age_year": 2023,
+      "background": "Former CEO of Global X Management Company LLC. Previously served as COO and President.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer and Chief Financial Officer",
+          "start_date": "2014-01",
+          "end_date": "2018-09"
+        }
+      ]
+    },
+    {
+      "name": "Michael Berry",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Michael J. Berry has served as our Executive Vice President and Chief Financial Officer since March 2020. Prior to joining NetApp, Mr. Berry served as Executive Vice President and Chief Financial Officer of McAfee, LLC from February 2017 to March 2020. From September 2015 to January 2017, he served as Executive Vice President, Chief Financial Officer and Chief Operating Officer at FireEye, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2013",
+          "end_date": "2014"
+        }
+      ]
+    },
+    {
+      "name": "Michelle Hinchliffe",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Michelle Hinchliffe was a partner at KPMG for 36 years, where she held several leadership roles including UK Chair of Audit. She has extensive experience in auditing and financial services.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director, Board Audit Committee Chair",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Pamela Murphy",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Chief Executive Officer, Opportunity Network.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO",
+          "start_date": "2020-01-01",
+          "end_date": "2023-12-01"
+        }
+      ]
+    },
+    {
+      "name": "Patrick Donnelly",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Mr. Donnelly was appointed Senior Vice President, Legal and Organizational Effectiveness in 2022. He joined Hudbay in 2008 and has served as General Counsel since 2011.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Richard Cherry",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Mr. Cherry is a veteran executive in the nuclear industry, having served as President and CEO of Cotter Corporation and as a Vice President of General Atomics.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "CEO & Director",
+          "start_date": null,
+          "end_date": null
+        },
+        {
+          "title": "CEO & President",
+          "start_date": null,
+          "end_date": null
+        },
+        {
+          "title": "Regional Director-Far East / Board Member",
+          "start_date": null,
+          "end_date": null
+        },
+        {
+          "title": "President and CEO",
+          "start_date": null,
+          "end_date": null
+        },
+        {
+          "title": "President and CEO / Vice President",
+          "start_date": null,
+          "end_date": null
+        },
+        {
+          "title": "Vice President",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ronald Sugar",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Dr. Sugar is the former Chairman and CEO of Northrop Grumman Corporation, where he served from 2003 to 2010.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CFO / Senior Executive",
+          "start_date": "N/A",
+          "end_date": "N/A"
+        },
+        {
+          "title": "Senior Executive",
+          "start_date": "N/A",
+          "end_date": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "Ryan O'Connor",
+      "age": 40,
+      "age_year": 2024,
+      "background": "Chief Executive Officer of Global X Management Company LLC since April 2024. Previously held various leadership roles at Goldman Sachs Asset Management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "April 8, 2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Sandra Rivera",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Sandra Rivera is the CEO of Altera, an Intel Company. She previously served as Executive Vice President at Intel.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2023",
+          "end_date": "2025"
+        }
+      ]
+    },
+    {
+      "name": "Shaun Usmar",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. Usmar is the Founder and CEO of Triple Flag Precious Metals Corp. and was previously CFO of Barrick Gold Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Executive Officer",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Susan Ciccarone",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Independent Trustee. Managing Director at Kapitus. Previously at Goldman Sachs.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Trustee",
+          "start_date": "Unknown",
+          "end_date": null
+        },
+        {
+          "title": "Chief Financial Officer & Treasurer",
+          "start_date": "Unknown",
+          "end_date": "Unknown"
+        }
+      ]
+    },
+    {
+      "name": "S\u00e9bastien de Montessus",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Former President and CEO. He was terminated for cause in January 2024 following an investigation into an irregular payment instruction.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "CEO",
+          "start_date": "2026",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Tom Arseneault",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Tom is President and CEO of BAE Systems, Inc. and an Executive Director of BAE Systems plc. He has held various senior leadership positions within the US business.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "April 1, 2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Warren Gilman",
+      "age": 64,
+      "age_year": 2023,
+      "background": "Chairman and CEO of Queen\u2019s Road Capital Investment Ltd. Former Chairman and CEO of CEF Holdings.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman & Chief Executive Officer",
+          "start_date": "2011",
+          "end_date": "2019"
+        }
+      ]
+    },
+    {
+      "name": "Wesley Bush",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Northrop Grumman Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Systems Engineer",
+          "start_date": "1987",
+          "end_date": "2002"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Alastair Short",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Former executive at various financial institutions.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director, Vice Chairman of the Board, Chairman of the Audit Committee",
+          "start_date": null,
+          "end_date": null
+        },
+        {
+          "title": "Lead Independent Director",
+          "start_date": null,
+          "end_date": null
+        },
+        {
+          "title": "Independent Director",
+          "start_date": "June 2009",
+          "end_date": null
+        },
+        {
+          "title": "Independent Director, Chair of Audit Committee",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Alex Ashby",
+      "age": 37,
+      "age_year": 2024,
+      "background": "Head of Product Development at Global X Management Company LLC. Responsible for the design and management of the firm's ETF suite.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Vice President, Director of Product Development",
+          "start_date": "Prior to 2015",
+          "end_date": "Prior to 2015"
+        }
+      ]
+    },
+    {
+      "name": "Arvin Ramos",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Ramos holds a degree in commerce from the University of Windsor and is a member of the Chartered Professional Accountants of Ontario. He has over 15 years of experience in the mining industry and has served as CFO for several junior mining companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer & Director",
+          "start_date": "2014",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ashley Heppenstall",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Heppenstall has over 30 years of experience in the oil and gas and resource sectors. He was the President and CEO of Lundin Petroleum AB from 2002 to 2015.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Finance Director",
+          "start_date": "1998",
+          "end_date": "2002"
+        }
+      ]
+    },
+    {
+      "name": "Catherine Reynolds",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Chairman and CEO of the Catherine B. Reynolds Foundation. Former CEO of Educap Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Founder, Chairman & Chief Executive Officer",
+          "start_date": "1993",
+          "end_date": "2000"
+        }
+      ]
+    },
+    {
+      "name": "Chris Verrico",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Mr. Verrico has over 40 years of experience in the mining and exploration industry. He has served as a director and officer of several public companies, including Xiana Mining Inc. and various junior exploration companies. He has extensive experience in project management and corporate development.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President, Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Christopher Wallace",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Wallace is a managing partner of Firstlight Capital and has over 30 years of experience in the investment industry. He has held senior positions with several Canadian investment dealers.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2025",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Daniel Tucker",
+      "age": 43,
+      "age_year": 2024,
+      "background": "Mr. Tucker is executive vice president and chief financial officer of Southern Company. He previously served as executive vice president and chief financial officer of Georgia Power and has held various roles in finance and treasury since joining in 2003.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, CFO, and Treasurer; Member of the Board of Directors",
+          "start_date": "Prior to 2021",
+          "end_date": "2021"
+        }
+      ]
+    },
+    {
+      "name": "David Billard",
+      "age": null,
+      "age_year": null,
+      "background": "David Billard is a P.Geo. and the Head of Exploration for Skyharbour. He is a geologist with over 35 years of experience in exploration and development, particularly in the Athabasca Basin. He has worked with companies like Cameco and JNR Resources.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Douglas Kirwin",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Mr. Kirwin is an independent geologist with over 45 years of international experience. He was previously Executive Vice President of Ivanhoe Mines Limited.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, CEO & Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Howard Wenger",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Howard Wenger has served as President of Nextracker since February 2022. He previously held executive leadership roles at SunPower Corporation, including President of Business Units and President of SunPower Systems.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President / Board Director",
+          "start_date": "1990s",
+          "end_date": "2007"
+        },
+        {
+          "title": "Board Director",
+          "start_date": "2019",
+          "end_date": "2022"
+        }
+      ]
+    },
+    {
+      "name": "Jack Miller",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Mr. Miller is the retired Chairman and CEO of North American Coffee Partnership. He has served on the board since 2016.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Owner and Chairman of the Board",
+          "start_date": "1999",
+          "end_date": "2009"
+        },
+        {
+          "title": "COO, President, CEO, and Member of the Board of Directors",
+          "start_date": "2001",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "James Mattis",
+      "age": 73,
+      "age_year": 2024,
+      "background": "General, U.S. Marine Corps (Retired). Former U.S. Secretary of Defense.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": "2016-12"
+        }
+      ]
+    },
+    {
+      "name": "James Turley",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Ernst & Young. He has served as Emerson's Chair of the Board since 2021.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2001",
+          "end_date": "2013"
+        }
+      ]
+    },
+    {
+      "name": "Jan van Eck",
+      "age": 61,
+      "age_year": 2024,
+      "background": "President and Chief Executive Officer of Van Eck Associates Corporation, Van Eck Securities Corporation, and Van Eck Absolute Return Advisers, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President & Director",
+          "start_date": "Unknown",
+          "end_date": "Unknown"
+        }
+      ]
+    },
+    {
+      "name": "Jeff Sine",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Jeff Sine has served as a member of our board of directors since 2022. He is the Co-Founder and Partner of The Raine Group.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "January 2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Michelle Hinchliffe",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Michelle Hinchliffe was a partner at KPMG for 36 years, where she held several leadership roles including UK Chair of Audit. She has extensive experience in auditing and financial services.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Director, Board Audit Committee Chair",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Patrick Donnelly",
+      "age": 49,
+      "age_year": 2024,
+      "background": "Mr. Donnelly was appointed Senior Vice President, Legal and Organizational Effectiveness in 2022. He joined Hudbay in 2008 and has served as General Counsel since 2011.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Richard Cherry",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Mr. Cherry is a veteran executive in the nuclear industry, having served as President and CEO of Cotter Corporation and as a Vice President of General Atomics.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "CEO & Director",
+          "start_date": null,
+          "end_date": null
+        },
+        {
+          "title": "Regional Director-Far East / Board Member",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Warren Gilman",
+      "age": 64,
+      "age_year": 2023,
+      "background": "Chairman and CEO of Queen\u2019s Road Capital Investment Ltd. Former Chairman and CEO of CEF Holdings.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman & Chief Executive Officer",
+          "start_date": "2011",
+          "end_date": "2019"
+        }
+      ]
+    }
+  ]
+}

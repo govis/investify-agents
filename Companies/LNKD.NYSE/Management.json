@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Michael Callahan",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Former Senior Vice President and General Counsel of LinkedIn and former Executive Vice President and General Counsel of Yahoo!.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and General Counsel",
+          "start_date": "2014",
+          "end_date": "2018"
+        }
+      ]
+    },
+    {
+      "name": "Reid Hoffman",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Partner at Greylock Partners. Co-founder of LinkedIn.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Co-Founder, Executive Chairman, Board Member",
+          "start_date": "2002",
+          "end_date": "2016"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Reid Hoffman",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Partner at Greylock Partners. Co-founder of LinkedIn.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Co-Founder, Executive Chairman, Board Member",
+          "start_date": "2002",
+          "end_date": "2016"
+        }
+      ]
+    }
+  ]
+}

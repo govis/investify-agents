@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Betsy Atkins",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Ms. Atkins has served as a director since 2017. She is the CEO of Baja Corp and serves on the boards of Wynn Resorts and SL Green Realty.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021-07",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Thurman Rodgers",
+      "age": 75,
+      "age_year": 2024,
+      "background": "T.J. Rodgers has served as a director since January 2017. He is the founder and former CEO of Cypress Semiconductor Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "July 2012",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Betsy Atkins",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Ms. Atkins has served as a director since 2017. She is the CEO of Baja Corp and serves on the boards of Wynn Resorts and SL Green Realty.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021-07",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Thurman Rodgers",
+      "age": 75,
+      "age_year": 2024,
+      "background": "T.J. Rodgers has served as a director since January 2017. He is the founder and former CEO of Cypress Semiconductor Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "July 2012",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}
