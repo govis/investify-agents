@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Persio Lisboa",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Former President and CEO of Navistar International Corporation. Director since 2021.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Operating Officer",
+          "start_date": "March 2017",
+          "end_date": "June 30, 2020"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "John Replogle",
+      "age": 58,
+      "age_year": 2024,
+      "background": "John B. Replogle has served as a director since 2014. He is a partner at Raleigh Group and previously served as CEO of Seventh Generation, Inc. and Burt's Bees.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "September 28, 2010",
+          "end_date": "2013 (Company acquisition)"
+        }
+      ]
+    },
+    {
+      "name": "William Kennard",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Former Chairman of the U.S. Federal Communications Commission (FCC).",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2001",
+          "end_date": "2009"
+        }
+      ]
+    }
+  ]
+}
