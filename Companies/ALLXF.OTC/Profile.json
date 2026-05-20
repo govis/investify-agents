@@ -1,8 +1,20 @@
 {
-  "name": "Aris Gold Corporation",
+  "name": "Aris Mining Corporation",
+  "name_former": "Aris Gold Corporation",
+  "name_clean": "Aris Mining",
   "ticker": "ALLXF",
   "exchange": "OTC",
   "website": "https://arismining.com/",
+  "logo_url": "https://arismining.com/wp-content/uploads/2022/09/Aris-Mining-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Aris Mining Corporation, formerly known as Aris Gold Corporation, is a Canadian mining company focused on acquiring, exploring, developing, and operating gold properties in the Americas. The company operates the Segovia Operations and Marmato Mine in Colombia, and is developing the Soto Norte gold-copper project in Colombia and the Toroparu gold project in Guyana. Aris Mining is dedicated to building a leading intermediate gold producer through sustainable and responsible mining practices.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

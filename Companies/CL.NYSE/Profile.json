@@ -1,8 +1,16 @@
 {
   "name": "Colgate-Palmolive Company",
+  "name_former": null,
+  "name_clean": "Colgate-Palmolive",
   "ticker": "CL",
   "exchange": "NYSE",
   "website": "https://www.colgatepalmolive.com",
+  "logo_url": "https://www.colgatepalmolive.com/etc.clientlibs/colgate/clientlibs/clientlib-site/resources/images/colgate-palmolive-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Colgate-Palmolive Company is a leading global consumer products company, tightly focused on Oral Care, Personal Care, Home Care and Pet Nutrition. Colgate sells its products in over 200 countries and territories around the world under such internationally recognized brand names as Colgate, Palmolive, elmex, hello, Meridian, Sorrika, Tom's of Maine, EltaMD, PCA Skin, Irish Spring, Protex, Sanex, Softsoap, Speed Stick, Ajax, Axion, Fabuloso, Soupline and Suavitel, as well as Hill's Science Diet and Hill's Prescription Diet.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

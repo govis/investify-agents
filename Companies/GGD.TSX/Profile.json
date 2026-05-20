@@ -1,8 +1,19 @@
 {
   "name": "GoGold Resources Inc.",
+  "name_former": null,
+  "name_clean": "GoGold Resources",
   "ticker": "GGD",
   "exchange": "TSX",
   "website": "https://gogoldresources.com/",
+  "logo_url": "https://gogoldresources.com/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "GoGold Resources Inc. is a Canada-based silver and gold producer focused on operating, developing, and exploring projects in Mexico. The company's flagship properties include the Parral Tailings project, a producing silver-gold heap leach operation, and the Los Ricos district, which consists of two major exploration and development projects: Los Ricos South and Los Ricos North. GoGold is dedicated to building shareholder value through efficient production and significant exploration potential in historic mining districts.",
+  "metals_and_minerals": [
+    "Silver",
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

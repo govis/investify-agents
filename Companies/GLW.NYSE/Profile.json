@@ -1,8 +1,16 @@
 {
   "name": "Corning Incorporated",
+  "name_former": "Corning Glass Works",
+  "name_clean": "Corning",
   "ticker": "GLW",
   "exchange": "NYSE",
   "website": "https://www.corning.com",
+  "logo_url": "https://www.corning.com/content/dam/corning/media/worldwide/images/corning-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Corning Incorporated is a leading global innovator in materials science, specializing in glass science, ceramic science, and optical physics. For more than 170 years, the company has developed life-changing innovations and category-defining products in areas such as optical communications, mobile consumer electronics, display technology, automotive, and life sciences vessels. Corning's best-known products include damage-resistant cover glass for mobile devices, precision glass for advanced displays, optical fiber and connectivity solutions for high-speed networks, and trusted vessels for drug discovery and delivery.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

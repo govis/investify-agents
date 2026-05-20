@@ -1,8 +1,19 @@
 {
   "name": "Hana Mining Ltd.",
+  "name_former": null,
+  "name_clean": "Hana Mining",
   "ticker": "HMG",
   "exchange": "TSXV",
   "website": "hanamining.com",
+  "logo_url": "https://www.hanamining.com/images/logo.gif",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Hana Mining Ltd. is a junior mineral exploration company focused on the acquisition, exploration, and development of copper and silver properties in Botswana. The company's primary asset is the Ghanzi Copper-Silver Project, located in the highly prospective Kalahari Copper Belt in northwestern Botswana. Hana Mining is committed to advancing this project through systematic exploration and resource definition to create value for its shareholders.",
+  "metals_and_minerals": [
+    "Copper",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

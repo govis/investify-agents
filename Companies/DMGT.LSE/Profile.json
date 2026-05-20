@@ -1,8 +1,16 @@
 {
-  "name": "Daily Mail and General Trust plc (DMGT)",
+  "name": "Daily Mail and General Trust plc",
+  "name_former": null,
+  "name_clean": "Daily Mail and General Trust",
   "ticker": "DMGT",
   "exchange": "LSE",
   "website": "https://www.dmgt.com",
+  "logo_url": "https://www.dmgt.com/wp-content/uploads/2023/05/dmgt-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United Kingdom",
+  "description": "Daily Mail and General Trust plc (DMGT) is an international portfolio of information, media, and events businesses. The company operates through several segments, including consumer media, which features national newspapers such as the Daily Mail, The Mail on Sunday, and Metro, as well as the MailOnline website. DMGT also manages a portfolio of business-to-business events and exhibitions, and holds various venture capital investments. Headquartered in London, DMGT has a history of delivering high-quality content and services to diverse audiences globally.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,18 @@
 {
   "name": "Juggernaut Exploration Ltd.",
+  "name_former": "Juggernaut Exploration Inc.",
+  "name_clean": "Juggernaut Exploration",
   "ticker": "JUGR",
   "exchange": "TSXV",
   "website": "juggernautexploration.com",
+  "logo_url": "https://juggernautexploration.com/wp-content/uploads/2021/05/Juggernaut-Logo-Final-01.png",
+  "country_of_domicile": "Canada",
+  "description": "Juggernaut Exploration Ltd. is a Canadian-based mineral exploration company focused on the acquisition and exploration of precious and base metal properties in British Columbia. The company is primarily active in the Golden Triangle region, where it explores its 100% controlled properties, including the Empire, Midas, and Big One projects. Juggernaut is dedicated to identifying and developing high-potential mineral discoveries, leveraging geological expertise to advance its exploration programs in this highly prospective mining district. The company is publicly traded on the TSX Venture Exchange under the ticker symbol JUGR.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver",
+    "Copper"
+  ],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

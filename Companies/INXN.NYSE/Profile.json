@@ -1,8 +1,16 @@
 {
   "name": "Interxion Holding N.V.",
+  "name_former": null,
+  "name_clean": "Interxion",
   "ticker": "INXN",
   "exchange": "NYSE",
   "website": null,
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Interxion_logo.svg/1200px-Interxion_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "Netherlands",
+  "description": "Interxion Holding N.V. is a leading provider of carrier and cloud-neutral colocation data center services in Europe. The company supports a wide range of customers, including enterprises, system integrators, cloud service providers, and financial institutions, by offering secure, reliable, and highly connected data center environments. Interxion's state-of-the-art facilities enable customers to connect with a vast ecosystem of connectivity providers and platforms, facilitating seamless digital transformation and IT infrastructure management.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

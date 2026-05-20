@@ -1,8 +1,16 @@
 {
   "name": "Carnival Corporation & plc",
+  "name_former": null,
+  "name_clean": "Carnival",
   "ticker": "CCL",
   "exchange": "NYSE",
   "website": "https://www.carnivalcorp.com",
+  "logo_url": "https://www.carnivalcorp.com/assets/images/carnivalcorp/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Panama",
+  "description": "Carnival Corporation & plc is the world's largest leisure travel company, operating a portfolio of leading global cruise brands. The company's portfolio includes Carnival Cruise Line, Princess Cruises, Holland America Line, Seabourn, P&O Cruises (Australia), Costa Cruises, AIDA Cruises, P&O Cruises (UK), and Cunard. Together, these brands operate a fleet of cruise ships visiting destinations worldwide. Carnival is dual-listed, with Carnival Corporation incorporated in Panama and headquartered in the United States, and Carnival plc incorporated in the United Kingdom.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

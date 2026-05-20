@@ -1,8 +1,16 @@
 {
-  "name": "Standard Life Aberdeen plc (now abrdn plc)",
+  "name": "abrdn plc",
+  "name_former": "Standard Life Aberdeen plc",
+  "name_clean": "abrdn",
   "ticker": "ABDN",
   "exchange": "LSE",
   "website": "https://www.abrdn.com",
+  "logo_url": "https://www.abrdn.com/assets/images/abrdn-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United Kingdom",
+  "description": "abrdn plc is a global investment company headquartered in Edinburgh, Scotland. Formed in 2017 through the merger of Standard Life and Aberdeen Asset Management, the company rebranded as abrdn in 2021. It operates across three core businesses: Investments, Adviser, and Personal, offering a wide range of investment solutions, wealth management services, and financial planning tools to individual and institutional clients worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

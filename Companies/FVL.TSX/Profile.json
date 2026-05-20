@@ -1,8 +1,20 @@
 {
   "name": "Freegold Ventures Ltd.",
+  "name_former": null,
+  "name_clean": "Freegold Ventures",
   "ticker": "FVL",
   "exchange": "TSX",
   "website": "https://freegoldventures.com/",
+  "logo_url": "https://freegoldventures.com/site/templates/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Freegold Ventures Ltd. is a Canada-based mineral exploration company focused on the acquisition, exploration, and development of gold and copper-gold properties in Alaska. The company's key projects include the Golden Summit Gold Project, a multi-million ounce gold deposit located near Fairbanks, and the Shorty Creek Copper-Gold Project, a highly prospective copper-gold-silver-cobalt property located northwest of Fairbanks. Freegold is committed to advancing these projects through systematic exploration and drilling programs.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

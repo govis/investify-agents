@@ -1,8 +1,16 @@
 {
   "name": "Daimler Truck Holding AG",
+  "name_former": null,
+  "name_clean": "Daimler Truck",
   "ticker": "DTG",
   "exchange": "XETRA",
   "website": "https://www.daimlertruck.com",
+  "logo_url": "https://www.daimlertruck.com/assets/images/daimler-truck-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Germany",
+  "description": "Daimler Truck Holding AG is one of the world's largest commercial vehicle manufacturers, with over 40 main locations and more than 100,000 employees worldwide. The company develops, manufactures, and distributes light, medium, and heavy trucks and buses under several renowned brands, including Mercedes-Benz, Freightliner, Western Star, FUSO, BharatBenz, Thomas Built Buses, and Setra. Daimler Truck is committed to leading the transition to sustainable, emission-free transportation through battery-electric and hydrogen-based drive technologies.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

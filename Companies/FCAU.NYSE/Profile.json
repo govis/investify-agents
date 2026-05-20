@@ -1,8 +1,16 @@
 {
   "name": "Chrysler Group LLC",
+  "name_former": "Chrysler Corporation",
+  "name_clean": "Chrysler",
   "ticker": "FCAU",
   "exchange": "NYSE",
   "website": "https://www.stellantis.com",
+  "logo_url": "https://www.stellantis.com/content/dam/stellantis-corporate/brands/chrysler/Chrysler_Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Chrysler Group LLC, now operating as FCA US LLC and part of Stellantis N.V., is an American automobile manufacturer headquartered in Auburn Hills, Michigan. Originally founded in 1925 by Walter Chrysler, the company is one of the 'Big Three' American automakers. It designs, manufactures, and sells vehicles worldwide under the Chrysler, Dodge, Jeep, and Ram brands, as well as Mopar parts and accessories. Following its merger with PSA Group, it is now a subsidiary of Stellantis.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "Harris Corporation",
+  "name_former": null,
+  "name_clean": "Harris",
   "ticker": "HRS",
   "exchange": "NYSE",
   "website": "https://www.l3harris.com",
+  "logo_url": "https://www.l3harris.com/themes/custom/l3harris/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Harris Corporation was an American technology company, defense contractor, and information technology services provider that produced wireless equipment, tactical radios, electronic systems, night vision equipment, and both terrestrial and spaceborne antennas for use in the government, defense, and commercial sectors. In 2019, Harris Corporation merged with L3 Technologies to form L3Harris Technologies, creating one of the largest defense contractors in the United States.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

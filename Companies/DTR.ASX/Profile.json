@@ -1,8 +1,20 @@
 {
   "name": "Dateline Resources Limited",
+  "name_former": null,
+  "name_clean": "Dateline Resources",
   "ticker": "DTR",
   "exchange": "ASX",
   "website": "https://www.datelineresources.com.au",
+  "logo_url": "https://www.datelineresources.com.au/wp-content/uploads/2021/05/Dateline-Resources-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Dateline Resources Limited is an Australia-based mineral exploration company focused on the discovery and development of gold and copper deposits. The company's primary assets include the Colosseum Gold Mine in California, USA, which has a history of gold production and significant exploration potential for gold and rare earth elements, and the Argos Gold Project. Dateline Resources is committed to creating shareholder value through systematic exploration and development of its high-quality mineral resource projects in premier mining jurisdictions.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper",
+    "Rare Earth Elements"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

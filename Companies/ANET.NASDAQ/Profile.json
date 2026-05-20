@@ -1,8 +1,16 @@
 {
   "name": "Arista Networks, Inc.",
+  "name_former": null,
+  "name_clean": "Arista Networks",
   "ticker": "ANET",
   "exchange": "NASDAQ",
   "website": "https://www.arista.com",
+  "logo_url": "https://www.arista.com/assets/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Arista Networks, Inc. is an American computer networking company headquartered in Santa Clara, California. The company designs and sells multilayer network switches to deliver software-defined networking solutions for large datacenter, cloud computing, high-performance computing, and campus environments. Arista's products include 10/25/40/50/100/400 Gigabit Ethernet low-latency cut-through switches and its own Linux-based network operating system, Extensible Operating System (EOS).",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

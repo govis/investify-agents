@@ -1,8 +1,18 @@
 {
   "name": "Atlas Lithium Corporation",
+  "name_former": "Brazil Minerals, Inc.",
+  "name_clean": "Atlas Lithium",
   "ticker": "ATLX",
   "exchange": "NASDAQ",
   "website": "https://www.atlas-lithium.com",
+  "logo_url": "https://www.atlas-lithium.com/wp-content/uploads/2022/10/atlas-lithium-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "US",
+  "description": "Atlas Lithium Corporation is a mineral exploration and development company focused on lithium and other critical minerals in Brazil. The company's primary asset is the Minas Gerais Lithium Project, which is located in the Araçuaí district of Minas Gerais, Brazil, a premier hard-rock lithium district. Atlas Lithium is committed to developing its lithium resources in an environmentally sustainable manner to support the global transition to green energy.",
+  "metals_and_minerals": [
+    "Lithium"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "APA Group",
+  "name_former": "Australian Pipeline Trust",
+  "name_clean": "APA Group",
   "ticker": "APA",
   "exchange": "ASX",
   "website": "https://www.apa.com.au",
+  "logo_url": "https://www.apa.com.au/assets/images/apa-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "APA Group is a leading Australian energy infrastructure business. The company owns and operates a diverse portfolio of energy assets, including natural gas transmission pipelines, gas storage and processing facilities, and gas-fired and renewable energy power generation assets. APA Group delivers energy to customers across mainland Australia, transporting more than half of the nation's natural gas and investing in wind, solar, and battery storage technologies to support the transition to a lower-carbon future.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

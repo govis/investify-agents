@@ -1,8 +1,16 @@
 {
   "name": "EMC Corporation",
+  "name_former": null,
+  "name_clean": "EMC",
   "ticker": "EMC",
   "exchange": "NYSE",
   "website": "https://www.dell.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/EMC_Corporation_logo.svg/1280px-EMC_Corporation_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "EMC Corporation was a leading global technology company that specialized in data storage, information security, virtualization, analytics, and cloud computing. Headquartered in Hopkinton, Massachusetts, EMC enabled organizations to store, manage, protect, and analyze their data. The company was best known for its enterprise storage systems, such as Symmetrix and CLARiiON, and its majority ownership of VMware. In September 2016, EMC was acquired by Dell Technologies in one of the largest technology mergers in history, forming Dell EMC.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

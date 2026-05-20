@@ -1,8 +1,16 @@
 {
   "name": "Amphenol Corporation",
+  "name_former": "Amphenol-Bendix",
+  "name_clean": "Amphenol",
   "ticker": "APH",
   "exchange": "NYSE",
   "website": "https://www.amphenol.com",
+  "logo_url": "https://www.amphenol.com/images/amphenol_logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Amphenol Corporation is one of the world's largest designers, manufacturers, and marketers of electrical, electronic, and fiber optic connectors and interconnect systems, antennas, sensors and sensor-based products, and coaxial and high-speed specialty cable. The company designs, manufactures, and assembles its products at facilities in the Americas, Europe, Asia, Australia, and Africa, serving a diverse range of high-growth markets including automotive, broadband communications, commercial aerospace, industrial, information technology and data communications, military, mobile devices, and mobile networks.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

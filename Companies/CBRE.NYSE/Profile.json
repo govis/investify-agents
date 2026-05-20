@@ -1,8 +1,16 @@
 {
   "name": "CBRE Group, Inc.",
+  "name_former": "CB Richard Ellis Group, Inc.",
+  "name_clean": "CBRE Group",
   "ticker": "CBRE",
   "exchange": "NYSE",
   "website": "https://www.cbre.com",
+  "logo_url": "https://www.cbre.com/-/media/cbre/shared/images/logos/cbre_logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "CBRE Group, Inc. is the world's largest commercial real estate services and investment firm, based on 2023 revenue. The company serves real estate investors and occupiers worldwide, offering a comprehensive suite of services including facilities, transaction, and project management; property management; investment management; appraisal and valuation; property leasing; strategic consulting; property sales; mortgage services; and development services.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,18 @@
 {
-  "name": "Kairos Minerals Limited",
+  "name": "Pilbara Gold Limited",
+  "name_former": "Kairos Minerals Limited",
+  "name_clean": "Pilbara Gold",
   "ticker": "KAI",
   "exchange": "ASX",
   "website": "https://www.kairosminerals.com.au/",
+  "logo_url": "https://pilbaragold.com.au/wp-content/uploads/2026/04/Pilbara-Gold-Logo.png",
+  "country_of_domicile": "Australia",
+  "description": "Pilbara Gold Limited is an Australian gold explorer focused on advancing its 100%-owned flagship 2.1 Moz Mt York Gold Project, located in the mineral-rich Pilbara region of Western Australia. The company has defined significant gold mineralisation within the project area and is supported by an experienced management and technical team. With a substantial Mineral Resource, Pilbara Gold is actively targeting resource growth in the near-term while also exploring its broader portfolio of projects, including the Roe Hills Project, which holds potential for gold, nickel, cobalt, lithium, and rare earth elements.",
+  "metals_and_minerals": [
+    "Gold",
+    "Lithium",
+    "Nickel"
+  ],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

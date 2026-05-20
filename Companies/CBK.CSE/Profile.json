@@ -1,8 +1,18 @@
 {
-  "name": "CopperBank Resources Corp.",
+  "name": "Faraday Copper Corp.",
+  "name_former": "CopperBank Resources Corp.",
+  "name_clean": "Faraday Copper",
   "ticker": "CBK",
   "exchange": "CSE",
   "website": "https://faradaycopper.com/",
+  "logo_url": "https://faradaycopper.com/site/templates/images/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Faraday Copper Corp., formerly known as CopperBank Resources Corp., is a Canadian exploration and development company focused on advancing its flagship copper projects in the United States. The company's primary assets include the Copper Creek project in Arizona, one of the largest undeveloped copper projects in North America, and the Contact Copper project in Nevada. Faraday Copper is committed to responsible resource development and creating significant value for its stakeholders through systematic exploration and engineering studies.",
+  "metals_and_minerals": [
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

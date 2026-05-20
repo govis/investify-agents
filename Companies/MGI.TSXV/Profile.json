@@ -1,8 +1,11 @@
 {
   "name": "Magnum Goldcorp Inc.",
+  "name_former": null,
+  "name_clean": "Magnum Goldcorp",
   "ticker": "MGI",
   "exchange": "TSXV",
-  "website": "https://magnumgoldcorp.com/",
-  "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "website": "https://magnumgoldcorp.com",
+  "logo_url": "https://magnumgoldcorp.com/wp-content/uploads/2021/04/magnum-goldcorp-logo.png",
+  "country_of_domicile": "Canada",
+  "description": "Magnum Goldcorp Inc. is a Canada-based mineral exploration company engaged in the acquisition, exploration, and development of mineral properties. The company primarily focuses on gold and silver exploration, with its key project being the LH Property, a gold exploration project located in the Slocan Mining Division of southeastern British Columbia, Canada."
 }

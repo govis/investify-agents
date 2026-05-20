@@ -1,8 +1,20 @@
 {
-  "name": "Grupo M\u00e9xico S.A.B. de C.V.",
+  "name": "Grupo México, S.A.B. de C.V.",
+  "name_former": null,
+  "name_clean": "Grupo Mexico",
   "ticker": "GMBXF",
   "exchange": "OTC",
   "website": "https://www.gmexico.com",
+  "logo_url": "https://www.gmexico.com/PublishingImages/Logo_GMexico.png",
+  "logo_local": null,
+  "country_of_domicile": "Mexico",
+  "description": "Grupo México, S.A.B. de C.V. is a leading Mexican conglomerate with major operations in mining, transportation, and infrastructure. Its mining division, Americas Mining Corporation, is one of the world's largest copper producers, with significant operations in Mexico, Peru, and the United States. The transportation division operates extensive freight rail networks in Mexico and Florida, while the infrastructure division provides engineering, construction, and drilling services. The company is headquartered in Mexico City, Mexico.",
+  "metals_and_minerals": [
+    "Copper",
+    "Molybdenum",
+    "Zinc"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

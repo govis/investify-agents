@@ -1,8 +1,16 @@
 {
-  "name": "Bank of Montreal (BMO)",
+  "name": "Bank of Montreal",
+  "name_former": null,
+  "name_clean": "Bank of Montreal",
   "ticker": "BMO",
   "exchange": "TSX",
   "website": "https://www.bmo.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bank_of_Montreal_logo.svg/512px-Bank_of_Montreal_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Bank of Montreal, operating as BMO Financial Group, is a highly diversified financial services provider based in Canada. Established in 1817, it is the oldest bank in Canada and one of the largest banks in North America. BMO provides a broad range of personal and commercial banking, wealth management, and investment banking products and services to millions of customers globally. The bank operates through several business groups, including Canadian Personal and Commercial Banking, U.S. Personal and Commercial Banking, BMO Wealth Management, and BMO Capital Markets.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

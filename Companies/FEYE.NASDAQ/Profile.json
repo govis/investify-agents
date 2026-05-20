@@ -1,8 +1,16 @@
 {
   "name": "FireEye, Inc.",
+  "name_former": null,
+  "name_clean": "FireEye",
   "ticker": "FEYE",
   "exchange": "NASDAQ",
   "website": "https://www.trellix.com",
+  "logo_url": "https://www.trellix.com/assets/img/trellix-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "FireEye, Inc. is a prominent cybersecurity company that provides hardware, software, and services to investigate, prevent, and respond to cyberattacks. The company offers threat intelligence, security validation, and detection technologies. Following the sale of its product business and name to Symphony Technology Group in 2021, the remaining company was rebranded as Mandiant, while the FireEye product business merged with McAfee Enterprise to form Trellix, a leading provider of extended detection and response (XDR) security solutions.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

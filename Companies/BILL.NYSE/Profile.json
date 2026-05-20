@@ -1,8 +1,16 @@
 {
   "name": "Bill Holdings, Inc.",
+  "name_former": "Bill.com Holdings, Inc.",
+  "name_clean": "BILL",
   "ticker": "BILL",
   "exchange": "NYSE",
   "website": "bill.com",
+  "logo_url": "https://www.bill.com/assets/images/bill-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Bill Holdings, Inc. is a leading provider of cloud-based software that simplifies, digitizes, and automates back-office financial operations for small and midsize businesses. The company's platform helps customers manage end-to-end financial workflows, process payments, and streamline accounts payable and accounts receivable processes. By integrating with financial institutions, e-commerce platforms, and accounting software, BILL enables businesses to gain control over their financial operations, save time, and improve cash flow management.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

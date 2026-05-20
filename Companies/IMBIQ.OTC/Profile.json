@@ -1,8 +1,16 @@
 {
-  "name": "Legacy Imbds Inc. (formerly iMedia Brands, Inc.)",
+  "name": "Legacy Imbds Inc.",
+  "name_former": "iMedia Brands, Inc.",
+  "name_clean": "Legacy Imbds",
   "ticker": "IMBIQ",
   "exchange": "OTC",
   "website": "https://www.imediabrands.com",
+  "logo_url": "https://www.imediabrands.com/wp-content/uploads/2020/07/iMedia-Brands-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Legacy Imbds Inc., formerly known as iMedia Brands, Inc., is a global media commerce company that operates a portfolio of television networks, e-commerce sites, and social commerce platforms. The company's brands include ShopHQ, Bulldog Shopping Network, and iMedia Web Services. It specializes in interactive media, selling products directly to consumers through television, online, and mobile platforms, while also providing advertising and technology services.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

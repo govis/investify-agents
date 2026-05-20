@@ -1,8 +1,16 @@
 {
   "name": "Avaya Holdings Corp.",
+  "name_former": "Avaya Inc.",
+  "name_clean": "Avaya",
   "ticker": "AVYA",
   "exchange": "NYSE",
   "website": "https://www.avaya.com",
+  "logo_url": "https://www.avaya.com/static/avaya-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Avaya Holdings Corp. is a global leader in digital communications software, services, and devices. The company provides cloud communications solutions and multi-cloud application ecosystems for customer experience (CX) and employee experience (EX). Avaya's solutions include contact center, unified communications, and collaboration platforms, enabling organizations to deliver personalized experiences and improve productivity across various industries worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

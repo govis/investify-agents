@@ -1,8 +1,16 @@
 {
   "name": "ALS Limited",
+  "name_former": "Campbell Brothers Limited",
+  "name_clean": "ALS Limited",
   "ticker": "ALQ",
   "exchange": "ASX",
   "website": "https://www.alsglobal.com",
+  "logo_url": "https://www.alsglobal.com/-/media/als/images/logo/als-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "ALS Limited is a leading provider of professional technical services, specializing in testing, measurement, and certification. Headquartered in Brisbane, Australia, the company operates a global network of laboratories across multiple sectors, including life sciences, commodities, and industrial services. ALS provides critical analytical data and testing solutions to clients in the mining, environmental, food, pharmaceutical, and energy industries, helping them make informed decisions and meet regulatory standards.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

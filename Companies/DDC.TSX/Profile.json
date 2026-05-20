@@ -1,8 +1,18 @@
 {
   "name": "Dominion Diamond Corporation",
+  "name_former": "Harry Winston Diamond Corporation",
+  "name_clean": "Dominion Diamond",
   "ticker": "DDC",
   "exchange": "TSX",
   "website": null,
+  "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Dominion_Diamond_Corporation_logo.svg/1200px-Dominion_Diamond_Corporation_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Dominion Diamond Corporation was a Canadian diamond mining company with ownership interests in the Ekati and Diavik diamond mines in the Northwest Territories. The company focused on the mining and marketing of rough diamonds to the global market. Formerly known as Harry Winston Diamond Corporation, it sold its retail division to Swatch Group in 2013 to focus exclusively on diamond mining operations before being acquired by Washington Companies in 2017.",
+  "metals_and_minerals": [
+    "Diamonds"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "Coinbase Global, Inc.",
+  "name_former": null,
+  "name_clean": "Coinbase",
   "ticker": "COIN",
   "exchange": "NASDAQ",
   "website": "https://www.coinbase.com",
+  "logo_url": "https://images.ctfassets.net/c53z2q345m9v/706689825/861398258/coinbase-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Coinbase Global, Inc. provides financial infrastructure and technology for the crypto-economy globally. The company offers the primary financial account in the crypto-economy for consumers, a marketplace with a pool of liquidity for transacting in crypto assets for institutions, and technology and services that enable developers to build crypto-based applications and securely accept crypto assets as payment. Coinbase was founded in 2012 and is headquartered in Wilmington, Delaware.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

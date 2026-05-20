@@ -1,8 +1,16 @@
 {
   "name": "Cabot Microelectronics Corporation",
+  "name_former": "CMC Materials, Inc.",
+  "name_clean": "Cabot Microelectronics",
   "ticker": "CCMP",
   "exchange": "NASDAQ",
   "website": "https://www.entegris.com",
+  "logo_url": "https://www.entegris.com/content/dam/entegris/logos/entegris-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Cabot Microelectronics Corporation, which later rebranded as CMC Materials, Inc. before its acquisition by Entegris, Inc. in 2022, is a leading global supplier of consumable materials to semiconductor manufacturers. The company specializes in chemical mechanical planarization (CMP) slurries and CMP pads, which are critical for polishing the various layers of integrated circuits during the semiconductor fabrication process. Additionally, the company provides electronic chemicals and other performance materials designed to enhance the performance and yield of advanced semiconductor devices.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

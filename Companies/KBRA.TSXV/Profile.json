@@ -1,8 +1,16 @@
 {
   "name": "Kubera Gold Corp.",
+  "name_former": "Shafer Resources Corp.",
+  "name_clean": "Kubera Gold",
   "ticker": "KBRA",
   "exchange": "TSXV",
   "website": "kuberagold.com",
+  "logo_url": "https://kuberagold.com/wp-content/uploads/2023/10/Kubera-Gold-Logo.png",
+  "country_of_domicile": "Canada",
+  "description": "Kubera Gold Corp. is a Canada-based mineral exploration company engaged in the identification, acquisition, and development of mineral resources. Incorporated in 2018 and headquartered in Vancouver, British Columbia, the company focuses its efforts primarily on projects in Ontario. Its key asset is the Dash Lake property, which consists of 44 mining claims covering approximately 815 hectares in the Kenora Mining Division. The company, formerly known as Shafer Resources Corp., changed its name to Kubera Gold Corp. in October 2023 to better reflect its strategic focus on gold exploration.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

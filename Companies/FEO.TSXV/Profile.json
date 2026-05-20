@@ -1,8 +1,18 @@
 {
   "name": "Oceanic Iron Ore Corp.",
+  "name_former": null,
+  "name_clean": "Oceanic Iron Ore",
   "ticker": "FEO",
   "exchange": "TSXV",
   "website": "https://oceanicironore.com/",
+  "logo_url": "https://oceanicironore.com/wp-content/uploads/2021/03/oceanic-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Oceanic Iron Ore Corp. is a Canada-based exploration stage company focused on the acquisition, exploration, and development of iron ore properties in Quebec, Canada. The company's primary asset is the Ungava Bay Iron Ore Property, which consists of three project areas: Hopes Advance, Morgan Lake, and Roberts Lake, located in the Nunavik region of northern Quebec. Oceanic Iron Ore Corp. aims to develop these high-grade iron ore resources to supply global markets with high-quality iron concentrates.",
+  "metals_and_minerals": [
+    "Iron Ore"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

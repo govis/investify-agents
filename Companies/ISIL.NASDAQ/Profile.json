@@ -1,8 +1,16 @@
 {
   "name": "Intersil Corporation",
+  "name_former": null,
+  "name_clean": "Intersil",
   "ticker": "ISIL",
   "exchange": "NASDAQ",
   "website": "https://www.intersil.com",
+  "logo_url": "https://www.intersil.com/etc/designs/intersil/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Intersil Corporation is a leading provider of innovative power management and precision analog solutions. The company's products address some of the largest markets within the industrial, infrastructure, mobile, automotive, and aerospace industries. Intersil's product portfolio includes power management ICs, analog controllers, switches, multiplexers, and radiation-hardened devices designed for harsh environments. In 2017, Intersil was acquired by Renesas Electronics Corporation, integrating its advanced power management technology into Renesas' broader semiconductor portfolio.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

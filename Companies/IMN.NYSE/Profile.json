@@ -1,8 +1,16 @@
 {
   "name": "Imation Corp.",
+  "name_former": "3M Data Storage",
+  "name_clean": "Imation",
   "ticker": "IMN",
   "exchange": "NYSE",
   "website": "https://www.imation.com",
+  "logo_url": "https://www.imation.com/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Imation Corp. is a global data storage and information security company. Originally spun off from 3M in 1996, the company historically specialized in magnetic tape, optical media, and flash memory products. Over the years, Imation transitioned its focus toward data security, storage, and enterprise security solutions, providing secure data storage products and mobile security solutions to help organizations protect their digital assets.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "Gibson Energy Inc.",
+  "name_former": null,
+  "name_clean": "Gibson Energy",
   "ticker": "GEI",
   "exchange": "TSX",
   "website": "https://www.gibsonenergy.com",
+  "logo_url": "https://www.gibsonenergy.com/wp-content/uploads/2021/04/gibson-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Gibson Energy Inc. is a Calgary-based Canadian oil infrastructure company. It is engaged in the storage, optimization, processing, and marketing of liquids and refined products. The company operates crude oil terminals, pipelines, and processing facilities, including the Hardisty and Edmonton terminals in Alberta, and the Ingleside Energy Center in Texas. Gibson Energy plays a critical role in connecting oil producers with key refining markets across North America.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "Aurizon Holdings Limited",
+  "name_former": "QR National Limited",
+  "name_clean": "Aurizon",
   "ticker": "AZJ",
   "exchange": "ASX",
   "website": "https://www.aurizon.com.au",
+  "logo_url": "https://www.aurizon.com.au/assets/images/aurizon-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Aurizon Holdings Limited is Australia's largest rail freight operator, transporting more than 250 million tonnes of Australian commodities annually. The company connects miners, primary producers, and industry with domestic and international markets through its extensive rail and road network. Aurizon operates integrated network and transport supply chains, including the Central Queensland Coal Network, and provides bulk transport and containerised freight services across Australia.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

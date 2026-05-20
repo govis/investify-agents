@@ -1,8 +1,18 @@
 {
   "name": "Johnson Matthey Plc",
+  "name_former": null,
+  "name_clean": "Johnson Matthey",
   "ticker": "JMAT",
   "exchange": "LSE",
   "website": "https://matthey.com",
+  "logo_url": "https://matthey.com/assets/images/logo.svg",
+  "country_of_domicile": "United Kingdom",
+  "description": "Johnson Matthey is a global leader in sustainable technologies, specializing in the application, refining, and recycling of platinum group metals (PGMs). With over 200 years of expertise in advanced metals chemistry and catalysis, the company provides critical solutions for emission control, clean energy, and circular economy initiatives. By leveraging its deep technical knowledge, Johnson Matthey helps industries worldwide address pressing challenges such as climate change and resource scarcity, aiming to catalyze the net zero transition through innovative products that improve air quality and enable cleaner transport and energy systems.",
+  "metals_and_minerals": [
+    "Platinum",
+    "Palladium",
+    "Rhodium"
+  ],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

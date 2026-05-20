@@ -1,8 +1,16 @@
 {
   "name": "Exar Corporation",
+  "name_former": null,
+  "name_clean": "Exar",
   "ticker": "EXAR",
   "exchange": "NASDAQ",
   "website": "https://www.exar.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Exar_logo.svg/512px-Exar_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Exar Corporation was an American semiconductor manufacturer that designed, developed, and marketed high-performance analog and mixed-signal integrated circuits and sub-system solutions. Its product portfolio included power management, connectivity, data compression, and interface products used in industrial, infrastructure, and automotive applications. Founded in 1971, the company was headquartered in Fremont, California, and was acquired by MaxLinear, Inc. in May 2017.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

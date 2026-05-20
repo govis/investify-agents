@@ -1,8 +1,18 @@
 {
   "name": "Gem Diamonds Limited",
+  "name_former": null,
+  "name_clean": "Gem Diamonds",
   "ticker": "GEMD",
   "exchange": "LSE",
   "website": "https://www.gemdiamonds.com",
+  "logo_url": "https://www.gemdiamonds.com/assets/images/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United Kingdom",
+  "description": "Gem Diamonds Limited is a leading global producer of high-value diamonds. The company owns the Letšeng diamond mine in Lesotho, renowned for producing large, top-quality, exceptional white diamonds, making it the highest average dollar per carat kimberlite diamond mine in the world. Gem Diamonds is committed to responsible mining practices, focusing on sustainable development, environmental stewardship, and positive community engagement in the regions where it operates.",
+  "metals_and_minerals": [
+    "Diamonds"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

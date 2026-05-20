@@ -1,8 +1,16 @@
 {
   "name": "HSBC Holdings plc",
+  "name_former": "The Hongkong and Shanghai Banking Corporation",
+  "name_clean": "HSBC",
   "ticker": "HSBA",
   "exchange": "LSE",
   "website": "https://www.hsbc.com",
+  "logo_url": "https://www.hsbc.com/assets/images/hsbc-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United Kingdom",
+  "description": "HSBC Holdings plc is one of the world's largest banking and financial services organisations, serving approximately 42 million customers through its global businesses: Wealth and Personal Banking, Commercial Banking, and Global Banking and Markets. With a network covering 62 countries and territories across Europe, Asia, the Middle East, Africa, North America, and Latin America, HSBC aims to connect customers to opportunities, enabling businesses to thrive and economies to prosper.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

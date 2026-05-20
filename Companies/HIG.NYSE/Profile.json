@@ -1,8 +1,16 @@
 {
   "name": "The Hartford Financial Services Group, Inc.",
+  "name_former": "Hartford Fire Insurance Co",
+  "name_clean": "The Hartford",
   "ticker": "HIG",
   "exchange": "NYSE",
   "website": "thehartford.com",
+  "logo_url": "https://www.thehartford.com/content/dam/thehartford/us/en/images/the-hartford-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "The Hartford Financial Services Group, Inc. is a prominent investment and insurance company based in the United States. With over 200 years of expertise, the company provides a wide range of financial services, including property and casualty insurance, group benefits, and mutual funds. Serving both individual and business customers, The Hartford is recognized for its customer service, financial strength, and commitment to helping people and businesses prepare for the unexpected and protect what matters most.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

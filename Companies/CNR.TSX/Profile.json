@@ -1,8 +1,16 @@
 {
   "name": "Canadian National Railway Company",
+  "name_former": null,
+  "name_clean": "Canadian National Railway",
   "ticker": "CNR",
   "exchange": "TSX",
   "website": "www.cn.ca",
+  "logo_url": "https://www.cn.ca/-/media/Images/Logos/CN-Logo-Red-RGB.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Canadian National Railway Company, together with its subsidiaries, engages in the rail and related transportation business. It operates a network of approximately 20,000 route miles of track spans Canada and mid-America, connecting three coasts: the Atlantic, the Pacific, and the Gulf of Mexico. The company transports various goods, including petroleum and chemicals, grain and fertilizers, coal, metals and minerals, forest products, automotive, and intermodal containers.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "Exelon Corporation",
+  "name_former": null,
+  "name_clean": "Exelon",
   "ticker": "EXC",
   "exchange": "NASDAQ",
   "website": "https://www.exeloncorp.com",
+  "logo_url": "https://www.exeloncorp.com/images/exelon-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Exelon Corporation is a leading U.S. energy transmission and distribution company, serving more than 10 million customers through its six fully regulated utilities: Atlantic City Electric, BGE, ComEd, Delmarva Power, PECO, and Pepco. Headquartered in Chicago, Illinois, Exelon is dedicated to providing safe, reliable, and clean energy delivery while driving the transition to a clean energy future through grid modernization and sustainable infrastructure investments.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

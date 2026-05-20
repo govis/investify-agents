@@ -1,8 +1,16 @@
 {
   "name": "FedEx Corporation",
+  "name_former": "Federal Express Corporation",
+  "name_clean": "FedEx",
   "ticker": "FDX",
   "exchange": "NYSE",
   "website": "https://www.fedex.com",
+  "logo_url": "https://newsroom.fedex.com/wp-content/uploads/2021/11/FedEx_Express_Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "FedEx Corporation is a multinational conglomerate holding company focused on transportation, e-commerce, and business services. Best known for its air delivery service, FedEx Express, the company also operates FedEx Ground, FedEx Freight, and various other logistics and support services. Founded in 1971 as Federal Express Corporation, it pioneered the modern overnight shipping industry and has grown into one of the world's largest delivery services, connecting people and possibilities in more than 220 countries and territories.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

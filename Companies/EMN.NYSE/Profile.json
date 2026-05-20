@@ -1,8 +1,16 @@
 {
   "name": "Eastman Chemical Company",
+  "name_former": null,
+  "name_clean": "Eastman Chemical",
   "ticker": "EMN",
   "exchange": "NYSE",
   "website": "https://www.eastman.com",
+  "logo_url": "https://www.eastman.com/Images/EastmanLogo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Eastman Chemical Company is a global specialty materials company that produces a broad range of advanced materials, chemicals, and fibers for everyday items. Founded in 1920 and headquartered in Kingsport, Tennessee, the company serves customers in more than 100 countries. Eastman focuses on delivering innovative and sustainable solutions across diverse markets, including transportation, building and construction, consumer goods, and agriculture, leveraging its world-class technology platforms and leading positions in key end-markets.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,19 @@
 {
   "name": "Continental Gold Inc.",
+  "name_former": null,
+  "name_clean": "Continental Gold",
   "ticker": "CNL",
   "exchange": "TSX",
   "website": "continentalgold.com",
+  "logo_url": "https://www.continentalgold.com/wp-content/themes/continentalgold/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Continental Gold Inc. is an exploration and development stage company focused on the acquisition, exploration, and development of gold properties in Colombia. The company's flagship asset is the Buriticá project, which is a high-grade, major gold development project located in Antioquia, Colombia. Continental Gold was acquired by Zijin Mining Group Co., Ltd. in March 2020.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

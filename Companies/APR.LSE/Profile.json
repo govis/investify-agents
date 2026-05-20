@@ -1,8 +1,16 @@
 {
-  "name": "APR Energy",
+  "name": "APR Energy plc",
+  "name_former": null,
+  "name_clean": "APR Energy",
   "ticker": "APR",
   "exchange": "LSE",
   "website": "https://www.aprenergy.com",
+  "logo_url": "https://www.aprenergy.com/wp-content/uploads/2020/11/apr-energy-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United Kingdom",
+  "description": "APR Energy plc is a provider of temporary power generation services. The Company designs, installs, operates and maintains turnkey power plants, as well as provides rapid-deployment power solutions. It offers power generation solutions using various technologies, including gas turbines and diesel power modules, to utility, industrial and governmental customers globally.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

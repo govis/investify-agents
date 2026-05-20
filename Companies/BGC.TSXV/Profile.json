@@ -1,8 +1,18 @@
 {
-  "name": "Brazilian Gold Corp.",
+  "name": "Brazilian Gold Corporation",
+  "name_former": "Teeshin Resources Ltd.",
+  "name_clean": "Brazilian Gold",
   "ticker": "BGC",
   "exchange": "TSXV",
   "website": null,
+  "logo_url": "https://web.archive.org/web/20130530195444im_/http://braziliangold.ca/img/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Brazilian Gold Corporation is a Canadian-based mineral exploration and development company focused on the acquisition, exploration, and development of gold properties in Brazil. The company's primary focus is on the Tapajós Gold Province in northern Brazil, where it holds a significant land package including the São Jorge gold project. Brazilian Gold Corporation was acquired by Gold Canyon Resources Inc. and subsequently became part of GoldMining Inc. (formerly Brazil Resources Inc.) in 2013.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,19 @@
 {
   "name": "Avenira Limited",
+  "name_former": "Minemakers Limited",
+  "name_clean": "Avenira",
   "ticker": "AEV",
   "exchange": "ASX",
   "website": "avenira.com",
+  "logo_url": "https://www.avenira.com/wp-content/uploads/2022/08/Avenira-Logo-RGB-High-Res.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Avenira Limited is an Australian-based mineral exploration and development company focused on creating value through the development of its premium-grade phosphate and gold projects. The company's flagship asset is the Wonarah Phosphate Project in the Northern Territory, which is one of the largest high-grade phosphate deposits in Australia. Avenira is actively working to develop Wonarah to supply the agricultural and Lithium Iron Phosphate (LFP) battery markets, while also exploring its Jervois Gold Project.",
+  "metals_and_minerals": [
+    "Phosphate",
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

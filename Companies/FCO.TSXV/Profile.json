@@ -1,8 +1,20 @@
 {
   "name": "Fabled Silver Gold Corp.",
+  "name_former": "Fabled Copper Corp.",
+  "name_clean": "Fabled Silver Gold",
   "ticker": "FCO",
   "exchange": "TSXV",
   "website": "https://fabledcopper.org/",
+  "logo_url": "https://fabledcopper.org/wp-content/uploads/2021/06/fabled-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Fabled Silver Gold Corp. is a junior mineral exploration company focused on acquiring, exploring, and operating properties in Canada and Mexico. The company is primarily engaged in the exploration and development of its copper properties in British Columbia, Canada, as well as its silver and gold assets, aiming to identify and develop high-grade mineral deposits.",
+  "metals_and_minerals": [
+    "Copper",
+    "Silver",
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

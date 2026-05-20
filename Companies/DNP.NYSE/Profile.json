@@ -1,8 +1,16 @@
 {
-  "name": "DNP Select Income Fund",
+  "name": "DNP Select Income Fund Inc.",
+  "name_former": null,
+  "name_clean": "DNP Select Income Fund",
   "ticker": "DNP",
   "exchange": "NYSE",
   "website": "https://www.ncfunds.com",
+  "logo_url": "https://www.ncfunds.com/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "DNP Select Income Fund Inc. is a closed-end diversified management investment company. The Fund's primary investment objective is to seek current income and long-term growth of income, with capital appreciation as a secondary objective. It invests primarily in a diversified portfolio of equity and debt securities of public utility companies engaged in the production, transmission or distribution of electricity, gas or water, or the provision of telecommunications services.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

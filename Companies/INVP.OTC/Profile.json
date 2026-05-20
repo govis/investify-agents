@@ -1,8 +1,16 @@
 {
-  "name": "Investec PLC",
+  "name": "Investec plc",
+  "name_former": null,
+  "name_clean": "Investec",
   "ticker": "INVP",
   "exchange": "OTC",
   "website": "investec.com",
+  "logo_url": "https://www.investec.com/content/dam/investec/investec-international/images/logos/investec-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United Kingdom",
+  "description": "Investec plc is an international banking and wealth management group. It provides a range of financial products and services to a client base in Europe, Southern Africa, and Asia-Pacific. The company operates through two main divisions: Wealth & Investment and Specialist Banking. Its services include private banking, corporate and investment banking, asset management, and wealth management, catering to private, institutional, and corporate clients.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

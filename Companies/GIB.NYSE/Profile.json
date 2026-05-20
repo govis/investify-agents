@@ -1,8 +1,16 @@
 {
   "name": "CGI Inc.",
+  "name_former": "CGI Group Inc.",
+  "name_clean": "CGI",
   "ticker": "GIB",
   "exchange": "NYSE",
   "website": "https://www.cgi.com",
+  "logo_url": "https://www.cgi.com/sites/default/files/cgi-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "CGI Inc. is a multinational information technology consulting and systems integration company headquartered in Montreal, Quebec, Canada. Founded in 1976, CGI provides a comprehensive range of services, including strategic IT and business consulting, systems integration, managed IT and business process services, and intellectual property solutions. The company serves clients across various industries, including financial services, government, health, manufacturing, and telecommunications, helping them accelerate their digital transformation and achieve operational excellence.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

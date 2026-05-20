@@ -1,8 +1,16 @@
 {
-  "name": "Absolute Software Corp.",
+  "name": "Absolute Software Corporation",
+  "name_former": null,
+  "name_clean": "Absolute Software",
   "ticker": "ABST",
   "exchange": "TSX",
   "website": "https://www.absolute.com",
+  "logo_url": "https://www.absolute.com/media/1015/absolute-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Absolute Software Corporation is a Canadian cybersecurity company that specializes in endpoint security and zero-trust security solutions. The company's proprietary Persistence technology is embedded in the firmware of millions of devices, allowing organizations to maintain a secure, self-healing connection to their endpoints, regardless of whether they are on or off the corporate network. Absolute provides visibility, control, and resilient security for devices, applications, and data, helping enterprises and government organizations mitigate risks and ensure compliance.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "Fiserv, Inc.",
+  "name_former": null,
+  "name_clean": "Fiserv",
   "ticker": "FI",
   "exchange": "NYSE",
   "website": "https://www.fiserv.com",
+  "logo_url": "https://www.fiserv.com/content/dam/fiserv-com/images/global/fiserv-logo-orange.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Fiserv, Inc. is a leading global provider of payments and financial services technology. The company serves clients worldwide, including banks, thrifts, credit unions, securities broker-dealers, mortgage advisers, and merchants. Fiserv assists its clients in managing their operations through services such as electronic bill payment, account-to-account transfers, person-to-person payments, card developer services, and business analytics. Through its Clover point-of-sale platform and Carat enterprise merchant solution, Fiserv enables businesses of all sizes to accept payments and run their operations efficiently.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

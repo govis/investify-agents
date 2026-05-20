@@ -1,8 +1,16 @@
 {
   "name": "Abbott Laboratories",
+  "name_former": null,
+  "name_clean": "Abbott Laboratories",
   "ticker": "ABT",
   "exchange": "NYSE",
   "website": "https://www.abbott.com",
+  "logo_url": "https://www.abbott.com/content/dam/corp/abbott/images/abbott-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Abbott Laboratories is a global healthcare leader that discovers, develops, manufactures, and sells a broad and diversified line of healthcare products. The company operates through four primary segments: Established Pharmaceutical Products, Diagnostic Products, Nutritional Products, and Medical Devices. Abbott's innovative products span the life sciences spectrum, including medical instruments, tests, diagnostics, vascular and cardiovascular devices, and nutritional products designed to help people live healthier, fuller lives.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,20 @@
 {
   "name": "Inventus Mining Corp.",
+  "name_former": "Ginguro Exploration Inc.",
+  "name_clean": "Inventus Mining",
   "ticker": "IVS",
   "exchange": "TSXV",
   "website": "inventusmining.com",
+  "logo_url": "http://www.inventusmining.com/s/Inventus_Logo_Gold_RGB.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Inventus Mining Corp. is a Canada-based mineral exploration and development company focused on its 100%-owned Sudbury projects. The company's principal assets include the Pardo Paleoplacer Gold Project and the Sudbury 2.0 Project, which are located near Sudbury, Ontario. Inventus is actively exploring these properties for gold, copper, nickel, and platinum group elements, utilizing modern exploration techniques to advance its high-potential mineral targets.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper",
+    "Nickel"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

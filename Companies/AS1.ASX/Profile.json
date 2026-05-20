@@ -1,8 +1,18 @@
 {
   "name": "Asara Resources Limited",
+  "name_former": "Golden Rim Resources Ltd",
+  "name_clean": "Asara Resources",
   "ticker": "AS1",
   "exchange": "ASX",
   "website": "https://asararesources.com.au",
+  "logo_url": "https://asararesources.com.au/wp-content/uploads/2023/10/Asara-Resources-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Asara Resources Limited is an Australian-based mineral exploration company focused on the discovery and development of gold deposits in West Africa. The company's flagship project is the Kada Gold Project in eastern Guinea, which has a significant mineral resource estimate. Additionally, Asara holds interests in the Kouri Gold Project in Burkina Faso. The company was formerly known as Golden Rim Resources Ltd and rebranded to Asara Resources Limited in late 2023 to reflect its strategic focus and growth.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

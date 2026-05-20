@@ -1,8 +1,16 @@
 {
-  "name": "Actuant Corporation (now Enerpac Tool Group)",
+  "name": "Enerpac Tool Group Corp.",
+  "name_former": "Actuant Corporation",
+  "name_clean": "Enerpac Tool Group",
   "ticker": "EPAC",
   "exchange": "NYSE",
   "website": "enerpactoolgroup.com",
+  "logo_url": "https://www.enerpactoolgroup.com/images/enerpac-tool-group-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Enerpac Tool Group Corp. is a premier industrial tools and services company that serves customers in more than one hundred countries. The company primarily designs and manufactures high-pressure hydraulic tools, controlled force products, and solutions for precise positioning of heavy loads. Its products are used in various industries, including infrastructure, power generation, oil and gas, mining, and general manufacturing, helping customers safely and productively complete their most demanding jobs.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

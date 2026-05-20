@@ -1,8 +1,18 @@
 {
   "name": "Flying Nickel Mining Corp.",
+  "name_former": "Silver Elephant Mining Corp. (spin-off)",
+  "name_clean": "Flying Nickel Mining",
   "ticker": "FLYN",
   "exchange": "TSXV",
   "website": "https://flynickel.com",
+  "logo_url": "https://flynickel.com/wp-content/uploads/2021/11/Flying-Nickel-Logo-H-White.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Flying Nickel Mining Corp. is a premier Canadian nickel sulfide exploration and development company. The company's flagship asset is the 100%-owned Minago Nickel Project, located in the Thompson Nickel Belt in Manitoba, Canada. Flying Nickel is focused on developing Minago into a low-carbon, high-grade nickel producer to supply the rapidly growing electric vehicle battery market.",
+  "metals_and_minerals": [
+    "Nickel"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

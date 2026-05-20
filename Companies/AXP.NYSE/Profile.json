@@ -1,8 +1,16 @@
 {
   "name": "American Express Company",
+  "name_former": null,
+  "name_clean": "American Express",
   "ticker": "AXP",
   "exchange": "NYSE",
   "website": "americanexpress.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/American_Express_logo_%282018%29.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "American Express Company is a globally integrated payments company that provides customers with access to products, insights, and experiences that enrich lives and build business success. The company offers charge and credit card products, travel-related services, and merchant acquisition and processing services to individuals, small businesses, mid-sized companies, and large corporations worldwide. Founded in 1850, American Express operates as a bank holding company and is renowned for its premium customer service and robust loyalty programs.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

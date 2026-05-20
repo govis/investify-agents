@@ -1,8 +1,19 @@
 {
   "name": "Candelaria Mining Corp.",
+  "name_former": null,
+  "name_clean": "Candelaria Mining",
   "ticker": "CAND",
   "exchange": "TSXV",
   "website": "https://www.candelariamining.com/",
+  "logo_url": "https://www.candelariamining.com/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Candelaria Mining Corp. is a Canadian-based gold development and exploration company. The company's primary focus is on its portfolio of gold projects in Mexico, including the Caballo Blanco project in Veracruz and the Pinos Gold project in Zacatecas. Candelaria is committed to advancing these projects through exploration and development to create long-term value for its shareholders.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

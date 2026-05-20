@@ -1,8 +1,18 @@
 {
   "name": "Josemaria Resources Inc.",
+  "name_former": "NGEx Resources Inc.",
+  "name_clean": "Josemaria Resources",
   "ticker": "JOSE",
   "exchange": "TSX",
   "website": "josemariaresources.com",
+  "logo_url": "https://www.thelundingroup.com/wp-content/uploads/2020/05/Josemaria-Resources-Logo.png",
+  "country_of_domicile": "Canada",
+  "description": "Josemaria Resources Inc. was a Canadian natural resources company focused on the development of its advanced-stage, 100% owned Josemaria Copper-Gold Project located in the San Juan Province of Argentina. The company aimed to advance the project toward production, leveraging its significant copper and gold mineral resources. In April 2022, Josemaria Resources Inc. was acquired by Lundin Mining Corporation in a transaction that integrated the Josemaria project into Lundin Mining's portfolio of assets.",
+  "metals_and_minerals": [
+    "Copper",
+    "Gold",
+    "Silver"
+  ],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

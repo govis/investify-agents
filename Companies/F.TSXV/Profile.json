@@ -1,8 +1,18 @@
 {
   "name": "Fiore Gold Ltd.",
+  "name_former": null,
+  "name_clean": "Fiore Gold",
   "ticker": "F",
   "exchange": "TSXV",
   "website": "https://fioregold.com",
+  "logo_url": "https://fioregold.com/wp-content/uploads/2017/09/fiore-gold-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Fiore Gold Ltd. is a Canada-based gold production and development company with a focus on US-based assets. The company's primary operations include the Pan Mine, an open-pit, heap-leach gold mine in White Pine County, Nevada, and the Gold Rock project, a development-stage gold property located adjacent to the Pan Mine. Additionally, Fiore Gold holds the Golden Eagle project in Washington State. The company is committed to growing its gold production and expanding its resource base through exploration and development of its key North American gold assets.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

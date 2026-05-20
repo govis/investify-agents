@@ -1,8 +1,16 @@
 {
   "name": "Coursera, Inc.",
+  "name_former": null,
+  "name_clean": "Coursera",
   "ticker": "COUR",
   "exchange": "NYSE",
   "website": "https://www.coursera.org",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_Official.svg/1200px-Coursera-Logo_Official.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Coursera, Inc. operates an online learning platform that connects learners, educators, and institutions globally. The company offers a wide range of educational content, including guided projects, courses, Specializations, certificates, and fully online bachelor's and master's degrees. Partnering with top universities and industry leaders, Coursera provides accessible, affordable, and job-relevant learning to individuals and organizations, helping them develop skills in fields such as data science, technology, business, and personal development.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

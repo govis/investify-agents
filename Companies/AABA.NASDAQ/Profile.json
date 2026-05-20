@@ -1,8 +1,16 @@
 {
-  "name": "Altaba Inc. (formerly Yahoo! Inc.)",
+  "name": "Altaba Inc.",
+  "name_former": "Yahoo! Inc.",
+  "name_clean": "Altaba",
   "ticker": "AABA",
   "exchange": "NASDAQ",
   "website": "altaba.com",
+  "logo_url": "https://www.altaba.com/assets/images/altaba-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Altaba Inc. operates as an independent, non-diversified, closed-end management investment company. The company's assets consist primarily of equity securities, including a significant stake in Alibaba Group Holding Limited and Yahoo Japan Corporation. Formerly known as Yahoo! Inc., the company changed its name to Altaba Inc. in June 2017 following the sale of its operating business to Verizon Communications Inc. Altaba was subsequently liquidated and dissolved to distribute its remaining assets to stockholders.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

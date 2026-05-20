@@ -1,8 +1,20 @@
 {
   "name": "Arafura Rare Earths Limited",
+  "name_former": "Arafura Resources Limited",
+  "name_clean": "Arafura Rare Earths",
   "ticker": "ARU",
   "exchange": "ASX",
   "website": "https://www.arultd.com",
+  "logo_url": "https://www.arultd.com/wp-content/uploads/2022/10/Arafura-Rare-Earths-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Arafura Rare Earths Limited is an Australian mineral exploration and development company focusing on production of rare earth products. Its flagship project is the Nolans Neodymium-Praseodymium (NdPr) Project, located in the Northern Territory of Australia. The project is a premier NdPr resource, which is essential for high-strength permanent magnets used in electric vehicles, wind turbines, and other clean energy technologies. The company aims to become a trusted, long-term global supplier of sustainably mined and processed rare earth materials.",
+  "metals_and_minerals": [
+    "Neodymium",
+    "Praseodymium",
+    "Rare Earths"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

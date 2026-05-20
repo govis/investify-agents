@@ -1,8 +1,16 @@
 {
   "name": "Tableau Software, Inc.",
+  "name_former": null,
+  "name_clean": "Tableau Software",
   "ticker": "DATA",
   "exchange": "NYSE",
   "website": "https://www.tableau.com",
+  "logo_url": "https://www.tableau.com/sites/default/files/2021-06/Tableau_Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Tableau Software, Inc. is a leading provider of business intelligence and data visualization software. Founded in 2003, the company helps people see and understand data through its interactive, visual analytics platform. Tableau's products allow users to connect to various data sources, perform complex analyses, and create shareable dashboards and reports. In 2019, Tableau was acquired by Salesforce, Inc., continuing its mission to democratize data analytics across organizations worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

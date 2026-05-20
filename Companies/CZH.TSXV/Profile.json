@@ -1,8 +1,19 @@
 {
   "name": "Crazy Horse Resources Inc.",
+  "name_former": "Crazy Horse Copper Corp.",
+  "name_clean": "Crazy Horse Resources",
   "ticker": "CZH",
   "exchange": "TSXV",
   "website": "N/A",
+  "logo_url": "https://www.crazyhorseresources.com/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Crazy Horse Resources Inc. is a Canada-based exploration stage mining company. The company is engaged in the acquisition, exploration, and development of mineral properties, with a primary focus on copper and gold projects. Its key asset has historically been the Taysan Copper-Gold Project located in the Philippines, which represents a large-scale porphyry copper-gold deposit.",
+  "metals_and_minerals": [
+    "Copper",
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

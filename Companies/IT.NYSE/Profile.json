@@ -1,8 +1,16 @@
 {
   "name": "Gartner, Inc.",
+  "name_former": "Gartner Group, Inc.",
+  "name_clean": "Gartner",
   "ticker": "IT",
   "exchange": "NYSE",
   "website": "gartner.com",
+  "logo_url": "https://www.gartner.com/images/gartner-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Gartner, Inc. is a leading research and advisory company that provides actionable, objective insights to executives and their teams. The company's services include research, executive suites, conferences, and consulting, helping clients make faster, smarter decisions and execute for stronger performance. Gartner operates across three main segments: Research, Conferences, and Consulting, serving clients in more than 100 countries worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

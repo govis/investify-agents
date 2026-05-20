@@ -1,8 +1,19 @@
 {
   "name": "Etruscan Resources Inc.",
+  "name_former": null,
+  "name_clean": "Etruscan Resources",
   "ticker": "ETR",
   "exchange": "TSX",
   "website": null,
+  "logo_url": "https://web.archive.org/web/20080514195155im_/http://www.etruscan.com/images/logo.gif",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Etruscan Resources Inc. is a Canadian junior mining company focused on the acquisition, exploration, and development of gold properties in West Africa. The company's primary projects are located in Mali, Burkina Faso, and Côte d'Ivoire, including the Samira Hill Gold Mine in Niger and the Youga Gold Project in Burkina Faso. Etruscan also holds interests in diamond and base metal properties in South Africa and Namibia.",
+  "metals_and_minerals": [
+    "Gold",
+    "Diamonds"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

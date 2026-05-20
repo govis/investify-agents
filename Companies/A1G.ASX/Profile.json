@@ -1,8 +1,18 @@
 {
   "name": "African Gold Limited",
+  "name_former": null,
+  "name_clean": "African Gold",
   "ticker": "A1G",
   "exchange": "ASX",
   "website": "africangold.com.au",
+  "logo_url": "https://www.africangold.com.au/wp-content/uploads/2021/05/African-Gold-Logo-White.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "African Gold Limited is an Australia-based mineral exploration company focused on the acquisition, exploration, and evaluation of gold projects in West Africa. The company's portfolio includes highly prospective gold projects located in Côte d'Ivoire and Mali, including the Didievi Project, the Syama Shear Zone Project, and the Kedougou-Kenieba Inlier Project. African Gold aims to create shareholder value through systematic exploration and discovery in these prolific, under-explored gold-bearing greenstone belts.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

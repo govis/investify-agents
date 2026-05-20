@@ -1,8 +1,16 @@
 {
   "name": "Alberto-Culver Company",
+  "name_former": null,
+  "name_clean": "Alberto Culver",
   "ticker": "ACV",
   "exchange": "NYSE",
   "website": null,
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Alberto-Culver_logo.svg/512px-Alberto-Culver_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Alberto-Culver Company was an American corporation that manufactured and distributed personal care and household products, most notably hair care brands such as Alberto VO5, TRESemmé, and Nexxus. Founded in 1955, the company grew to become a major player in the consumer goods sector before being acquired by Unilever in 2011 for $3.7 billion. Prior to its acquisition, the company was publicly traded on the New York Stock Exchange under the ticker symbol ACV.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

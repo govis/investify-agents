@@ -1,8 +1,16 @@
 {
   "name": "Ingram Micro Holding Corporation",
+  "name_former": "Ingram Micro Inc.",
+  "name_clean": "Ingram Micro",
   "ticker": "INGM",
   "exchange": "NYSE",
   "website": "https://www.ingrammicro.com",
+  "logo_url": "https://www.ingrammicro.com/content/dam/ingrammicro/global/en/images/logos/ingram-micro-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Ingram Micro Holding Corporation is a leading global technology distributor and supply chain solutions provider. The company helps businesses fully realize the promise of technology by delivering a full spectrum of global technology and supply chain services to businesses around the world. Ingram Micro's global infrastructure and deep expertise in technology solutions, cloud, and mobility enable its business partners to operate efficiently and successfully in the markets they serve.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

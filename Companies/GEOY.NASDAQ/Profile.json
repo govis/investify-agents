@@ -1,8 +1,16 @@
 {
   "name": "GeoEye, Inc.",
+  "name_former": "ORBIMAGE Inc.",
+  "name_clean": "GeoEye",
   "ticker": "GEOY",
   "exchange": "NASDAQ",
   "website": null,
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/GeoEye_logo.svg/500px-GeoEye_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "GeoEye, Inc. was a leading American commercial satellite imagery provider. The company operated high-resolution Earth-imaging satellites and provided geospatial information, imagery, and tactical solutions to government and commercial customers worldwide, including the U.S. National Geospatial-Intelligence Agency and Google. GeoEye was originally founded as ORBIMAGE in 1992 before rebranding to GeoEye in 2006, and was subsequently acquired by DigitalGlobe in January 2013.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

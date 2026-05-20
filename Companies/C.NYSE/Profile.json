@@ -1,8 +1,16 @@
 {
   "name": "Citigroup Inc.",
+  "name_former": "Citicorp",
+  "name_clean": "Citigroup",
   "ticker": "C",
   "exchange": "NYSE",
   "website": "citigroup.com",
+  "logo_url": "https://www.citigroup.com/rcs/v1/gd/assets/images/citigroup-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Citigroup Inc. is a diversified financial services holding company that provides a broad range of financial products and services to consumers, corporations, governments, and institutions globally. Operating through segments such as Services, Markets, Banking, Wealth, and US Personal Banking, the company offers investment banking, advisory services, retail banking, credit cards, wealth management, and transaction services. With a history dating back to 1812, Citigroup serves clients in more than 160 countries and jurisdictions, making it one of the preeminent global financial institutions.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

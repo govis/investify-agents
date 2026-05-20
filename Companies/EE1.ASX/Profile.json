@@ -1,8 +1,16 @@
 {
   "name": "Earths Energy Limited",
+  "name_former": "Cradle Resources Limited",
+  "name_clean": "Earths Energy",
   "ticker": "EE1",
   "exchange": "ASX",
   "website": "https://ee1.com.au",
+  "logo_url": "https://ee1.com.au/wp-content/uploads/2023/11/Earths-Energy-Logo-1.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Earths Energy Limited is an Australia-based geothermal energy company focused on exploring and developing geothermal resources in South Australia and Queensland. The company holds multiple geothermal exploration licenses and is dedicated to unlocking zero-emission, baseload geothermal energy to support Australia's transition to a clean energy future.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

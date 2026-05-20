@@ -1,8 +1,18 @@
 {
   "name": "Founders Metals Inc.",
+  "name_former": "Avalon Investment Holdings Ltd.",
+  "name_clean": "Founders Metals",
   "ticker": "FDR",
   "exchange": "TSXV",
   "website": "https://foundersmetals.com/",
+  "logo_url": "https://foundersmetals.com/site/templates/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Founders Metals Inc. is a Canadian exploration company focused on the acquisition, exploration, and development of mineral properties in South America. The company's flagship project is the Antino Gold Project, located in the Guiana Shield of Suriname, which covers a significant area of highly prospective greenstone belt geology with historical gold production. Founders Metals is dedicated to advancing this high-grade gold asset through systematic exploration and drilling programs.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

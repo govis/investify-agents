@@ -1,8 +1,20 @@
 {
-  "name": "CuFe Ltd.",
+  "name": "CuFe Ltd",
+  "name_former": "Fe Limited",
+  "name_clean": "CuFe",
   "ticker": "CUF",
   "exchange": "ASX",
   "website": "https://cufe.com.au/",
+  "logo_url": "https://cufe.com.au/wp-content/uploads/2021/11/CuFe-Logo-RGB-01.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "CuFe Ltd is an Australian mineral exploration and development company with a diverse portfolio of assets. The company is focused on near-term, high-grade premium product iron ore projects, as well as copper, gold, and lithium exploration. Its key projects include the JWD Iron Ore Project, the Yarram Iron Ore Project, and various exploration tenements in Western Australia. CuFe Ltd aims to deliver value to shareholders through the strategic development of its resource assets and active exploration programs.",
+  "metals_and_minerals": [
+    "Iron Ore",
+    "Copper",
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

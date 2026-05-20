@@ -1,8 +1,16 @@
 {
-  "name": "Electricit\u00e9 de France SA (EDF)",
+  "name": "Electricité de France SA",
+  "name_former": null,
+  "name_clean": "EDF",
   "ticker": "EDF",
   "exchange": "LSE",
   "website": "https://www.edf.fr",
+  "logo_url": "https://www.edf.fr/sites/default/files/contrib/groupe-edf/logo-edf.png",
+  "logo_local": null,
+  "country_of_domicile": "France",
+  "description": "Electricité de France SA (EDF) is a French multinational electric utility company, largely owned by the French state. Headquartered in Paris, EDF operates a diverse portfolio of power generation assets across Europe, South America, North America, Asia, and Africa, with a strong focus on low-carbon energy. It is the world's largest producer of electricity, primarily utilizing nuclear power, alongside hydroelectric, wind, solar, and thermal energy sources. The company is involved in generation, transmission, distribution, energy supply, and trading services.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

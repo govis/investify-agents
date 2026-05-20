@@ -1,8 +1,16 @@
 {
   "name": "Baker Hughes Company",
+  "name_former": "Baker Hughes, a GE company",
+  "name_clean": "Baker Hughes",
   "ticker": "BKR",
   "exchange": "NASDAQ",
   "website": "https://www.bakerhughes.com",
+  "logo_url": "https://www.bakerhughes.com/themes/custom/bakerhughes/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Baker Hughes Company is an energy technology company that provides solutions for energy and industrial customers worldwide. Built on a century of experience and conducting business in over 120 countries, the company's innovative technologies and services are designed to take energy forward, making it safer, cleaner, and more efficient for people and the planet. Its portfolio includes oilfield services and equipment, gas technology solutions, and industrial and energy technology.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

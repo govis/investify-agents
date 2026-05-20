@@ -1,8 +1,19 @@
 {
   "name": "Cobre Limited",
+  "name_former": null,
+  "name_clean": "Cobre",
   "ticker": "CBE",
   "exchange": "ASX",
   "website": "https://www.cobre.com.au/",
+  "logo_url": "https://www.cobre.com.au/site/wp-content/themes/cobre/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Cobre Limited is an Australian mineral exploration company focused on the discovery and development of high-grade copper and base metal deposits. The company's primary projects are located in the highly prospective Kalahari Copper Belt in Botswana, where it is actively exploring for major sediment-hosted copper-silver deposits, as well as holding copper and base metal exploration assets in Western Australia.",
+  "metals_and_minerals": [
+    "Copper",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,19 @@
 {
-  "name": "X-Terra Resources Inc. (now known as CLIC - Clic Resources Inc.)",
+  "name": "CLIC Resources Inc.",
+  "name_former": "Cullinan Metals Corp.",
+  "name_clean": "CLIC Resources",
   "ticker": "CLIC",
   "exchange": "TSXV",
   "website": "https://www.clicresources.ca/",
+  "logo_url": "https://www.clicresources.ca/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "CLIC Resources Inc. is a Canadian mineral exploration company focused on the acquisition, exploration, and development of high-grade copper and gold assets in North America. The company is dedicated to identifying and advancing resource properties with significant potential, utilizing modern exploration techniques to create long-term value for its shareholders.",
+  "metals_and_minerals": [
+    "Copper",
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

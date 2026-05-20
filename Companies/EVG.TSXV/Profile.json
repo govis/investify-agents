@@ -1,8 +1,18 @@
 {
   "name": "Evolving Gold Corp.",
+  "name_former": null,
+  "name_clean": "Evolving Gold",
   "ticker": "EVG",
   "exchange": "TSXV",
   "website": "https://www.evolvinggold.com/",
+  "logo_url": "https://www.evolvinggold.com/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Evolving Gold Corp. is a Canada-based exploration stage company engaged in the acquisition, exploration, and development of mineral properties. The company historically focused on gold exploration in the United States and Canada, particularly in the Carlin Trend of Nevada and the Abitibi greenstone belt in Quebec. It continues to evaluate and acquire prospective mineral resource properties.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

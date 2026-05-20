@@ -1,8 +1,20 @@
 {
-  "name": "Boart Longyear Limited",
+  "name": "Boart Longyear Group Ltd.",
+  "name_former": "Boart Longyear Limited",
+  "name_clean": "Boart Longyear",
   "ticker": "BLY",
   "exchange": "ASX",
   "website": "https://www.boartlongyear.com",
+  "logo_url": "https://www.boartlongyear.com/wp-content/uploads/logo-boart-longyear.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Boart Longyear Group Ltd. is a leading global provider of drilling services, drilling equipment, and performance tooling for mining and mineral exploration companies. Established in 1890, the company operates across major mining regions worldwide, offering contract drilling services and manufacturing innovative drilling tools. It serves various sectors, including gold, copper, nickel, iron ore, and other metals and minerals, as well as energy and environmental exploration.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper",
+    "Nickel"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

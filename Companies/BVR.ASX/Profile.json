@@ -1,8 +1,20 @@
 {
-  "name": "Bellavista Resources",
+  "name": "Bellavista Resources Limited",
+  "name_former": null,
+  "name_clean": "Bellavista Resources",
   "ticker": "BVR",
   "exchange": "ASX",
   "website": "https://bellavistaresources.com",
+  "logo_url": "https://bellavistaresources.com/wp-content/uploads/2022/04/Bellavista-Resources-Logo-H-RGB.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Bellavista Resources Limited is an Australia-based mineral exploration company focused on finding world-class multi-commodity deposits in the Upper Gascoyne Province of Western Australia. The company's projects include the Brumby Project, Vernon Project, Vernon East Project, Gorge Creek Project, and East Wood Project, which are highly prospective for zinc, copper, silver, and other base metals.",
+  "metals_and_minerals": [
+    "Zinc",
+    "Copper",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

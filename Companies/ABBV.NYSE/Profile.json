@@ -1,8 +1,16 @@
 {
   "name": "AbbVie Inc.",
+  "name_former": null,
+  "name_clean": "AbbVie",
   "ticker": "ABBV",
   "exchange": "NYSE",
   "website": "https://www.abbvie.com",
+  "logo_url": "https://www.abbvie.com/content/dam/abbvie-dotcom/uploads/abbvie-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "AbbVie Inc. is a global, research-driven biopharmaceutical company committed to developing innovative advanced therapies for some of the world's most complex and critical conditions. The company's mission is to use its expertise, dedicated people, and unique approach to innovation to markedly improve treatments across several primary therapeutic areas, including immunology, oncology, neuroscience, eye care, and aesthetics. AbbVie was formed in 2013 following its spin-off from Abbott Laboratories.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

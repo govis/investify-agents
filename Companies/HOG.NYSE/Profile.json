@@ -1,8 +1,16 @@
 {
   "name": "Harley-Davidson, Inc.",
+  "name_former": null,
+  "name_clean": "Harley-Davidson",
   "ticker": "HOG",
   "exchange": "NYSE",
   "website": "harley-davidson.com",
+  "logo_url": "https://www.harley-davidson.com/content/dam/harley-davidson/images/logos/hd-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Harley-Davidson, Inc. is an American motorcycle manufacturer headquartered in Milwaukee, Wisconsin. Founded in 1903, the company is one of the world's largest motorcycle manufacturers and an iconic brand widely known for its loyal following. Harley-Davidson manufactures and sells heavyweight cruiser and touring motorcycles, as well as a complete line of motorcycle parts, accessories, riding gear, and apparel. Additionally, the company provides financial services, including financing and insurance, to dealers and customers.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

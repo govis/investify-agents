@@ -1,8 +1,16 @@
 {
-  "name": "Amaya Inc. (now Flutter Entertainment plc)",
+  "name": "Flutter Entertainment plc",
+  "name_former": "Paddy Power Betfair plc",
+  "name_clean": "Flutter Entertainment",
   "ticker": "FLTR",
   "exchange": "LSE",
   "website": "https://www.flutter.com",
+  "logo_url": "https://www.flutter.com/assets/images/flutter-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Ireland",
+  "description": "Flutter Entertainment plc is a leading international sports betting and gaming operator. The company operates a diverse portfolio of global brands, including FanDuel, Paddy Power, Sky Betting & Gaming, Betfair, Sportsbet, PokerStars, and Junglee Games. Flutter provides sports betting, online casino, poker, and other gaming products to millions of customers worldwide, leveraging its proprietary technology and global scale to deliver safe and entertaining experiences.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

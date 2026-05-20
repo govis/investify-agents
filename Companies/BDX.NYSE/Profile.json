@@ -1,8 +1,16 @@
 {
   "name": "Becton, Dickinson and Company",
+  "name_former": null,
+  "name_clean": "Becton Dickinson",
   "ticker": "BDX",
   "exchange": "NYSE",
   "website": "bd.com",
+  "logo_url": "https://www.bd.com/content/dam/bd/portal/global/en/brand/bd-logo-blue.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Becton, Dickinson and Company, commonly known as BD, is a global medical technology company that develops, manufactures, and sells medical devices, instrument systems, and reagents. Founded in 1897, the company is dedicated to improving medical discovery, diagnostics, and the delivery of care. BD operates through three main segments: BD Medical, BD Life Sciences, and BD Interventional, serving healthcare institutions, life science researchers, clinical laboratories, the pharmaceutical industry, and the general public worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

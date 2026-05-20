@@ -1,8 +1,19 @@
 {
-  "name": "Critical Elements Lithium Corp.",
+  "name": "Critical Elements Lithium Corporation",
+  "name_former": "Critical Elements Corporation",
+  "name_clean": "Critical Elements Lithium",
   "ticker": "CRE",
   "exchange": "TSXV",
   "website": "cecorp.ca",
+  "logo_url": "https://www.cecorp.ca/wp-content/uploads/2021/06/logo-critical-elements-lithium.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Critical Elements Lithium Corporation is a Canadian junior mining company focused on acquiring, exploring, and developing high-quality mining properties in Canada. The company's flagship project is the Rose Lithium-Tantalum Project located in the James Bay region of Quebec, which is highly prospective for lithium and tantalum. Critical Elements Lithium aims to become a reliable, large-scale supplier of high-purity lithium and tantalum to the rapidly growing electric vehicle and energy storage markets.",
+  "metals_and_minerals": [
+    "Lithium",
+    "Tantalum"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

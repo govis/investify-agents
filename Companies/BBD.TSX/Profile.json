@@ -1,8 +1,16 @@
 {
   "name": "Bombardier Inc.",
+  "name_former": null,
+  "name_clean": "Bombardier",
   "ticker": "BBD",
   "exchange": "TSX",
   "website": "https://ir.bombardier.com",
+  "logo_url": "https://bombardier.com/themes/custom/bombardier_theme/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Bombardier Inc. is a global leader in aviation, focused on designing, manufacturing, and servicing the world's most exceptional business jets. The company's Challenger and Global aircraft families are renowned for their cutting-edge innovation, cabin design, performance, and reliability. Bombardier has a worldwide fleet of about 5,000 aircraft in service with a wide variety of multinational corporations, charter and fractional ownership providers, governments, and private individuals. Bombardier aircraft are also trusted in special-mission roles. Headquartered in Montreal, Québec, Bombardier operates aerostructures, assembly, and completion facilities in Canada, the United States, and Mexico.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

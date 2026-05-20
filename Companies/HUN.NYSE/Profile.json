@@ -1,8 +1,16 @@
 {
   "name": "Huntsman Corporation",
+  "name_former": null,
+  "name_clean": "Huntsman",
   "ticker": "HUN",
   "exchange": "NYSE",
   "website": "https://www.huntsman.com",
+  "logo_url": "https://www.huntsman.com/assets/images/huntsman-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Huntsman Corporation is a publicly traded global manufacturer and marketer of differentiated and specialty chemicals. The company operates through multiple segments, including Polyurethanes, Performance Products, and Advanced Materials, serving a diverse range of consumer and industrial end markets such as aerospace, automotive, construction, and energy. Huntsman's chemical products are used in thousands of everyday applications, providing essential solutions for customers worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

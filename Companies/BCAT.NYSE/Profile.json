@@ -1,8 +1,16 @@
 {
   "name": "BlackRock Capital Allocation Term Trust",
+  "name_former": null,
+  "name_clean": "BlackRock Capital Allocation Term Trust",
   "ticker": "BCAT",
   "exchange": "NYSE",
   "website": "blackrock.com",
+  "logo_url": "https://www.blackrock.com/corporate/images/meta/br-logo-large.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "BlackRock Capital Allocation Term Trust is a closed-end management investment company. The Trust's investment objectives are to provide total return and income through a combination of current income, current gains and long-term capital appreciation. The Trust seeks to achieve its investment objectives by investing in a portfolio of equity and debt securities. Under normal market conditions, the Trust will invest in a portfolio of equity and debt securities, and may also invest in other instruments, including derivatives.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

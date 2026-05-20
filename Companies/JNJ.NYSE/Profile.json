@@ -1,8 +1,14 @@
 {
   "name": "Johnson & Johnson",
+  "name_former": "N/A",
+  "name_clean": "Johnson & Johnson",
   "ticker": "JNJ",
   "exchange": "NYSE",
   "website": "https://www.jnj.com",
+  "logo_url": "https://www.jnj.com/assets/images/jnj-logo.svg",
+  "country_of_domicile": "United States",
+  "description": "Johnson & Johnson is a multinational corporation that develops medical devices, pharmaceuticals, and consumer health products. As one of the world's largest and most diversified healthcare companies, it focuses on science-based innovation to address complex diseases and improve patient outcomes. The company operates through various segments, including Innovative Medicine and MedTech, dedicated to preventing, treating, and curing diseases while providing smarter, less invasive, and more personalized healthcare solutions to people around the globe.",
+  "metals_and_minerals": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

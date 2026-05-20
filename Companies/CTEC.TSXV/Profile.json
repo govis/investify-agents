@@ -1,8 +1,19 @@
 {
   "name": "CoTec Holdings Corp.",
+  "name_former": "EastCoal Mining Ltd.",
+  "name_clean": "CoTec Holdings",
   "ticker": "CTEC",
   "exchange": "TSXV",
   "website": "https://cotec.ca/",
+  "logo_url": "https://cotec.ca/wp-content/uploads/2022/04/CoTec-Logo-H-RGB.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "CoTec Holdings Corp. is an ESG-focused investment company with a portfolio of disruptive technologies in the mineral extraction and processing industries. The Company is actively developing a portfolio of high-potential mineral extraction opportunities, with a focus on iron ore, copper, and other critical minerals, utilizing innovative, low-carbon technologies to reduce the environmental footprint of resource recovery.",
+  "metals_and_minerals": [
+    "Iron Ore",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

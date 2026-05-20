@@ -1,8 +1,19 @@
 {
   "name": "Banff Resources Ltd.",
+  "name_former": null,
+  "name_clean": "Banff Resources",
   "ticker": "BFR",
   "exchange": "TSXV",
   "website": null,
+  "logo_url": null,
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Banff Resources Ltd. is a Canada-based junior mineral exploration company. The company has historically been engaged in the acquisition, exploration, and development of mineral resource properties, with a particular focus on base and precious metals, including copper and cobalt, such as its historical involvement in the Kasese Cobalt Project in Uganda.",
+  "metals_and_minerals": [
+    "Cobalt",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

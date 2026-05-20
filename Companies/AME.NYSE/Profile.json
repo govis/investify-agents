@@ -1,8 +1,16 @@
 {
   "name": "AMETEK, Inc.",
+  "name_former": null,
+  "name_clean": "AMETEK",
   "ticker": "AME",
   "exchange": "NYSE",
   "website": "https://www.ametek.com",
+  "logo_url": "https://www.ametek.com/-/media/ametek/images/logo/ametek-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "AMETEK, Inc. is a leading global manufacturer of electronic instruments and electromechanical devices. The company operates through two primary business segments: Electronic Instruments, which designs and manufactures advanced instruments for the process, aerospace, power, and industrial markets; and Electromechanical, which is a differentiated supplier of electrical connectors, technical motors, and systems. Headquartered in Berwyn, Pennsylvania, AMETEK serves customers in a diverse range of industries worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

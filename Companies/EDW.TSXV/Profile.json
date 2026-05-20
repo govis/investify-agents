@@ -1,8 +1,18 @@
 {
   "name": "Edgewater Exploration Ltd.",
+  "name_former": null,
+  "name_clean": "Edgewater Exploration",
   "ticker": "EDW",
   "exchange": "TSXV",
   "website": "edgewaterexploration.com",
+  "logo_url": "http://www.edgewaterexploration.com/i/logo.gif",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Edgewater Exploration Ltd. is a Canada-based mineral exploration company focused on the acquisition, exploration, and development of precious metal properties. The company's primary projects have historically included the Corcoesto Gold Project in Galicia, Spain, and the Enchi Gold Project in Ghana, West Africa. Edgewater aims to create shareholder value through the discovery and development of economic gold deposits in favorable mining jurisdictions.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

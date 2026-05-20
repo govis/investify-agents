@@ -1,8 +1,20 @@
 {
   "name": "Conquest Mining Limited",
+  "name_former": null,
+  "name_clean": "Conquest Mining",
   "ticker": "CQT",
   "exchange": "ASX",
   "website": null,
+  "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Evolution_Mining_Logo.svg/1200px-Evolution_Mining_Logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Conquest Mining Limited was an Australian mineral exploration and mining company focused on gold, silver, and copper projects. The company's flagship asset was the Mt Carlton gold-silver-copper project in Queensland. In 2011, Conquest Mining merged with Catalpa Resources and acquired the gold assets of Newcrest Mining to form Evolution Mining Limited, one of Australia's leading gold producers.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

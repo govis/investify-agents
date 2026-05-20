@@ -1,8 +1,18 @@
 {
   "name": "Coal and Allied Industries Ltd",
+  "name_former": null,
+  "name_clean": "Coal and Allied Industries",
   "ticker": "CNA",
   "exchange": "ASX",
   "website": null,
+  "logo_url": "https://www.coalandallied.com.au/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Coal & Allied Industries Limited is an Australia-based coal mining company. The company is engaged in the exploration, development, and production of coal, primarily in the Hunter Valley region of New South Wales. It operates major open-cut coal mines, including Mount Thorley Warkworth, Hunter Valley Operations, and Bengalla, producing high-quality thermal and semi-soft coking coal for export to international markets, particularly in Asia. The company was formerly a subsidiary of Rio Tinto before being acquired by Yancoal Australia.",
+  "metals_and_minerals": [
+    "Coal"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

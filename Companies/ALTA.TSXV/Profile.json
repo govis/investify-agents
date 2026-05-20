@@ -1,8 +1,19 @@
 {
   "name": "Altamira Gold Corp.",
+  "name_former": "Miramont Resources Corp.",
+  "name_clean": "Altamira Gold",
   "ticker": "ALTA",
   "exchange": "TSXV",
   "website": "altamiragold.com",
+  "logo_url": "https://altamiragold.com/wp-content/uploads/2021/05/altamira-gold-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Altamira Gold Corp. is a junior mineral exploration company focused on the acquisition, exploration, and development of gold and copper projects in Brazil. The company's primary focus is on the Juruena and Cajueiro projects, located in the Alta Floresta gold belt in central Brazil, a region known for its significant gold and copper-gold porphyry potential. Altamira Gold is dedicated to identifying and developing high-grade gold deposits and copper-gold porphyry systems through systematic exploration programs.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

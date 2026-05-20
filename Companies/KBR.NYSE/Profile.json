@@ -1,8 +1,14 @@
 {
   "name": "KBR, Inc.",
+  "name_former": "Kellogg Brown & Root",
+  "name_clean": "KBR",
   "ticker": "KBR",
   "exchange": "NYSE",
   "website": "https://www.kbr.com",
+  "logo_url": "https://www.kbr.com/themes/custom/kbr_theme/logo.svg",
+  "country_of_domicile": "United States",
+  "description": "KBR, Inc. is a global provider of science, technology, and engineering solutions, serving government and commercial clients worldwide. Headquartered in Houston, Texas, the company delivers complex project engineering, program management, and logistics support across various sectors, including defense, space, energy, and chemicals. With a history spanning over a century, KBR focuses on innovation and mission-critical services, providing proprietary process technologies and sustainable solutions to help clients address their most pressing technical and operational challenges in an evolving global landscape.",
+  "metals_and_minerals": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

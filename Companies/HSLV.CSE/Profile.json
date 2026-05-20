@@ -1,8 +1,20 @@
 {
   "name": "Highlander Silver Corp.",
+  "name_former": "Lara Exploration Ltd.",
+  "name_clean": "Highlander Silver",
   "ticker": "HSLV",
   "exchange": "CSE",
   "website": "https://highlandersilver.com/",
+  "logo_url": "https://highlandersilver.com/wp-content/uploads/2021/08/Highlander-Silver-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Highlander Silver Corp. is a mineral exploration company focused on the identification, acquisition, and exploration of silver-gold-polymetallic projects in the Central Andes of Peru. The company's key assets include the La Estrella and Alta Victoria projects, which are located in highly prospective mineral belts. Highlander Silver aims to create shareholder value through systematic exploration and discovery of high-grade silver and gold deposits.",
+  "metals_and_minerals": [
+    "Silver",
+    "Gold",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,18 @@
 {
   "name": "Bonterra Resources Inc.",
+  "name_former": null,
+  "name_clean": "Bonterra Resources",
   "ticker": "BTR",
   "exchange": "TSXV",
   "website": "https://btrgold.com",
+  "logo_url": "https://btrgold.com/wp-content/uploads/2021/04/bonterra-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Bonterra Resources Inc. is a Canadian gold exploration company with a large portfolio of advanced exploration assets anchored by a central mill in Quebec, Canada. The company's assets include the Gladiator, Barry, and Moroy deposits, as well as the Bachelor Mill, which is the only fully permitted gold mill in the region. Bonterra is focused on expanding its gold resources and advancing its projects in the prolific Abitibi Greenstone Belt.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

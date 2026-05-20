@@ -1,8 +1,18 @@
 {
   "name": "Homeland Nickel, Inc.",
+  "name_former": "Homeland Precious Metals Corp.",
+  "name_clean": "Homeland Nickel",
   "ticker": "HNIK",
   "exchange": "OTC",
   "website": "http://www.homelandnickel.com/",
+  "logo_url": "http://www.homelandnickel.com/images/logo.gif",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Homeland Nickel, Inc. is a development-stage mining company focused on the acquisition, exploration, and development of nickel properties in the United States. The company's primary asset is the Cleopatra Nickel Project, located in southwest Oregon, which contains nickel laterite deposits. Homeland Nickel, Inc. aims to identify and develop high-grade nickel resources to meet the growing global demand for nickel, particularly in the stainless steel and electric vehicle battery sectors.",
+  "metals_and_minerals": [
+    "Nickel"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

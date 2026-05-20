@@ -1,8 +1,19 @@
 {
   "name": "AuRico Metals Inc.",
+  "name_former": null,
+  "name_clean": "AuRico Metals",
   "ticker": "AMI",
   "exchange": "TSX",
   "website": null,
+  "logo_url": "https://web.archive.org/web/20170710034615im_/http://www.auricometals.ca/themes/aurico/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "AuRico Metals Inc. is a Canada-based mining development and royalty company. The company's primary development asset is the 100% owned Kemess gold-copper project in British Columbia, Canada. In addition, AuRico Metals holds a high-quality portfolio of gold royalties on producing mines and development projects, including a 1.5% net smelter return royalty on the Young-Davidson gold mine in Ontario and a 2.0% net smelter return royalty on the Fosterville gold mine in Australia.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

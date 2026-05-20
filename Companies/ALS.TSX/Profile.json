@@ -1,8 +1,20 @@
 {
   "name": "Altius Minerals Corporation",
+  "name_former": null,
+  "name_clean": "Altius Minerals",
   "ticker": "ALS",
   "exchange": "TSX",
   "website": "https://altiusminerals.com/",
+  "logo_url": "https://altiusminerals.com/images/altius-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Altius Minerals Corporation is a Canada-based company that holds royalty interests in 12 producing assets located in Canada and Brazil. These royalties produce revenue from copper, zinc, nickel, cobalt, potash, iron ore, and thermal and metallurgical coal. The company also holds a diversified portfolio of pre-production stage royalties and junior equity positions, and is actively generating new exploration projects and royalty opportunities, particularly in copper, nickel, and gold.",
+  "metals_and_minerals": [
+    "Copper",
+    "Potash",
+    "Iron Ore"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

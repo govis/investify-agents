@@ -1,8 +1,16 @@
 {
   "name": "Imdex Limited",
+  "name_former": "Austex Net Limited",
+  "name_clean": "Imdex",
   "ticker": "IMD",
   "exchange": "ASX",
   "website": "https://www.imdex.com/",
+  "logo_url": "https://www.imdex.com/assets/images/imdex-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Imdex Limited is a leading global mining technology company that enables drilling contractors and resource companies to safely find, define, and mine ore bodies with precision and speed. The company provides a comprehensive suite of drilling optimization products, cloud-connected rock knowledge sensors, and real-time data software. Operating across major mining regions globally, Imdex helps streamline operations, reduce costs, and improve decision-making throughout the mining lifecycle.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

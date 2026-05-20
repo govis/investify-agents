@@ -1,8 +1,16 @@
 {
   "name": "Booking Holdings Inc.",
+  "name_former": "The Priceline Group Inc.",
+  "name_clean": "Booking Holdings",
   "ticker": "BKNG",
   "exchange": "NASDAQ",
   "website": "https://www.bookingholdings.com",
+  "logo_url": "https://www.bookingholdings.com/wp-content/uploads/2018/02/BookingHoldings_Logo_Blue_RGB.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Booking Holdings Inc. is a world leader in online travel and related services, provided to consumers and local partners in more than 220 countries and territories through six primary consumer-facing brands: Booking.com, Priceline, Agoda, Rentalcars.com, KAYAK, and OpenTable. The company's mission is to make it easier for everyone to experience the world by offering a comprehensive platform for booking accommodations, flights, rental cars, and restaurant reservations.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

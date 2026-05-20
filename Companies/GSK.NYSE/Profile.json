@@ -1,8 +1,16 @@
 {
-  "name": "GlaxoSmithKline plc",
+  "name": "GSK plc",
+  "name_former": "GlaxoSmithKline plc",
+  "name_clean": "GSK",
   "ticker": "GSK",
   "exchange": "NYSE",
   "website": "gsk.com",
+  "logo_url": "https://www.gsk.com/media/8253/gsk-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United Kingdom",
+  "description": "GSK plc, formerly GlaxoSmithKline plc, is a global biopharmaceutical company headquartered in London, United Kingdom. The company focuses on the research, development, and manufacturing of innovative vaccines and specialty medicines to prevent and treat diseases. GSK operates across major therapeutic areas, including infectious diseases, HIV, oncology, and immunology, aiming to unite science, technology, and talent to get ahead of disease together.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,19 @@
 {
   "name": "Antler Gold Inc.",
+  "name_former": null,
+  "name_clean": "Antler Gold",
   "ticker": "ANTL",
   "exchange": "TSXV",
   "website": "https://antlergold.com/",
+  "logo_url": "https://antlergold.com/wp-content/uploads/2021/03/Antler-Gold-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Antler Gold Inc. is a Canadian mineral exploration company focused on the acquisition, exploration, and development of mineral properties in Africa, with a primary focus on gold and other critical metals. The company's project portfolio includes gold exploration projects in Namibia and Zambia, as well as lithium and other critical mineral opportunities. Antler Gold utilizes its experienced management team and technical expertise to identify high-potential assets and generate value through systematic exploration and strategic partnerships.",
+  "metals_and_minerals": [
+    "Gold",
+    "Lithium"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

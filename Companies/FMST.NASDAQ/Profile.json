@@ -1,8 +1,18 @@
 {
   "name": "Foremost Lithium Resource & Technology Ltd.",
+  "name_former": "Foremost Lithium Resource & Technology Ltd.",
+  "name_clean": "Foremost Lithium",
   "ticker": "FMST",
   "exchange": "NASDAQ",
   "website": "https://www.foremostlithium.com/",
+  "logo_url": "https://www.foremostlithium.com/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Foremost Lithium Resource & Technology Ltd. is a hard-rock lithium exploration company focused on identifying and developing lithium properties in Canada. The company's projects are strategically located in the Snow Lake region of Manitoba and the Winston Lake region of Quebec, aiming to produce high-quality lithium hydroxide to support the growing electric vehicle and battery storage markets. Through systematic exploration and development, Foremost Lithium is positioned to become a key supplier of critical minerals for the green energy transition.",
+  "metals_and_minerals": [
+    "Lithium"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,11 @@
 {
   "name": "Invinity Energy Systems plc",
+  "name_former": "redT energy plc",
+  "name_clean": "Invinity Energy Systems",
   "ticker": "IES",
   "exchange": "LSE",
   "website": "https://invinity.com",
-  "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "logo_url": "https://invinity.com/wp-content/uploads/2020/03/invinity-logo.svg",
+  "country_of_domicile": "Jersey",
+  "description": "Invinity Energy Systems plc manufactures utility-grade vanadium flow batteries designed for heavy-duty, daily use in energy storage applications. The company's products are used to store energy from renewable sources like solar and wind, providing reliable power on demand to support grid stability and accelerate the global transition to net-zero energy. Invinity serves utility, commercial, industrial, and off-grid customers worldwide."
 }

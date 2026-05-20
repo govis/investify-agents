@@ -1,8 +1,20 @@
 {
-  "name": "Gossan Resources Ltd.",
+  "name": "Gossan Resources Limited",
+  "name_former": null,
+  "name_clean": "Gossan Resources",
   "ticker": "GSS",
   "exchange": "TSXV",
   "website": "https://gossan.ca",
+  "logo_url": "https://gossan.ca/wp-content/uploads/2021/03/gossan-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Gossan Resources Limited is a Canada-based junior exploration company. The Company is engaged in the acquisition and exploration of resource properties in Canada, with a primary focus on Manitoba, northwestern Ontario, and Newfoundland. Gossan's diverse portfolio of properties is prospective for gold, platinum group elements, copper, zinc, nickel, and other minerals, as well as specialty metals like lithium and high-purity magnesium.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper",
+    "Zinc"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

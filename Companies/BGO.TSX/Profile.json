@@ -1,8 +1,19 @@
 {
-  "name": "Bema Gold Corp.",
+  "name": "Bema Gold Corporation",
+  "name_former": null,
+  "name_clean": "Bema Gold",
   "ticker": "BGO",
   "exchange": "TSX",
   "website": null,
+  "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Bema_Gold_logo.svg/1200px-Bema_Gold_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Bema Gold Corporation was a mid-tier gold producing company based in Vancouver, British Columbia, Canada. The company operated gold mines in Russia, Chile, and South Africa, and was involved in the exploration and development of precious metal properties worldwide. In 2007, Bema Gold was acquired by B2Gold Corporation in a transaction that consolidated their gold mining and exploration assets.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

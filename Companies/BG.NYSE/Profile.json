@@ -1,8 +1,16 @@
 {
   "name": "Bunge Global SA",
+  "name_former": "Bunge Limited",
+  "name_clean": "Bunge",
   "ticker": "BG",
   "exchange": "NYSE",
   "website": "https://www.bunge.com",
+  "logo_url": "https://www.bunge.com/themes/custom/bunge_theme/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Switzerland",
+  "description": "Bunge Global SA is a leading global agribusiness and food company. It operates in the sourcing, processing, and distribution of oilseeds and grains, producing specialty plant-based oils and fats, and milling wheat and corn. The company plays a critical role in the global food supply chain, connecting farmers to consumers to deliver essential food, feed, and fuel products worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

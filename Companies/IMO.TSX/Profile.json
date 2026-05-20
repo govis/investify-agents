@@ -1,8 +1,16 @@
 {
   "name": "Imperial Oil Limited",
+  "name_former": null,
+  "name_clean": "Imperial Oil",
   "ticker": "IMO",
   "exchange": "TSX",
   "website": "imperialoil.ca",
+  "logo_url": "https://www.imperialoil.ca/-/media/Imperial/Images/Logos/Imperial_logo_red_RGB.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Imperial Oil Limited is one of Canada's largest integrated oil companies. It is active in all stages of the petroleum industry, including the exploration, production, and sale of crude oil and natural gas, as well as the refining and marketing of petroleum products and petrochemicals. The company is a major producer of crude oil, a key developer of Alberta's oil sands, and a leading refiner and marketer of petroleum products under the Esso and Mobil brands.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

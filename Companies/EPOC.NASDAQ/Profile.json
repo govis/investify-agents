@@ -1,8 +1,16 @@
 {
   "name": "Epocrates, Inc.",
+  "name_former": null,
+  "name_clean": "Epocrates",
   "ticker": "EPOC",
   "exchange": "NASDAQ",
   "website": "https://www.epocrates.com",
+  "logo_url": "https://www.epocrates.com/images/epocrates-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Epocrates, Inc. provides mobile device-based clinical information and decision support tools to healthcare professionals. The company's products include drug reference information, clinical practice guidelines, diagnostic tools, and medical calculators, which help clinicians make more informed decisions at the point of care. Epocrates also offers services to pharmaceutical companies and healthcare organizations, enabling them to reach its network of active healthcare providers.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

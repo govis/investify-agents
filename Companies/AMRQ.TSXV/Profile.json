@@ -1,8 +1,11 @@
 {
-  "name": "Amaroq Minerals Ltd. (formerly AEX Gold Inc.)",
+  "name": "Amaroq Minerals Ltd.",
+  "name_former": "AEX Gold Inc.",
+  "name_clean": "Amaroq Minerals",
   "ticker": "AMRQ",
   "exchange": "TSXV",
   "website": "https://www.amaroqminerals.com",
-  "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "logo_url": "https://images.squarespace-cdn.com/content/v1/62e299696976752417666825/1659013580431-9W673989X77866768999/Amaroq_Logo_RGB_Gold_DarkBlue.png",
+  "country_of_domicile": "Canada",
+  "description": "Amaroq Minerals Ltd. is a gold and strategic mineral exploration and development company operating in Southern Greenland. The company's principal asset is a 100% interest in the Nalunaq Gold Mine, a high-grade past-producing mine. Amaroq Minerals also holds a significant portfolio of gold and strategic metal exploration licenses, covering prospective areas for copper, nickel, zinc, and rare earth elements, positioning it as a key player in Greenland's emerging mineral sector."
 }

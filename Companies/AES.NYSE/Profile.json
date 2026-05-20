@@ -1,8 +1,16 @@
 {
   "name": "The AES Corporation",
+  "name_former": null,
+  "name_clean": "AES",
   "ticker": "AES",
   "exchange": "NYSE",
   "website": "https://www.aes.com",
+  "logo_url": "https://www.aes.com/themes/custom/aes_theme/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "The AES Corporation is a Fortune 500 global energy company that provides sustainable, reliable energy to customers in 15 countries. Through its diverse portfolio of generation and distribution businesses, including renewable energy sources such as wind, solar, and energy storage, as well as traditional thermal power plants, AES is committed to accelerating the future of energy. The company operates utility businesses and power generation facilities worldwide, working to transition the global energy grid toward cleaner, more efficient solutions.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,20 @@
 {
   "name": "Collective Mining Ltd.",
+  "name_former": null,
+  "name_clean": "Collective Mining",
   "ticker": "CNL",
   "exchange": "NYSE",
   "website": "https://collectivemining.com",
+  "logo_url": "https://collectivemining.com/wp-content/uploads/2021/05/Collective-Mining-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Collective Mining Ltd. is an exploration and development company focused on identifying and exploring prospective mineral properties in South America. The company is primarily focused on its Guayabales and San Antonio projects located in Caldas, Colombia. Collective Mining is dedicated to discovering and developing large-scale copper, gold, and silver deposits, utilizing modern exploration techniques and maintaining strong environmental, social, and governance standards.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

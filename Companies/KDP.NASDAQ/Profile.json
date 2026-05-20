@@ -1,8 +1,14 @@
 {
   "name": "Keurig Dr Pepper Inc.",
+  "name_former": "Dr Pepper Snapple Group, Inc.",
+  "name_clean": "Keurig Dr Pepper",
   "ticker": "KDP",
   "exchange": "NASDAQ",
   "website": "https://www.keurigdrpepper.com",
+  "logo_url": "https://www.keurigdrpepper.com/assets/images/kdp-logo.svg",
+  "country_of_domicile": "United States",
+  "description": "Keurig Dr Pepper Inc. is a leading American beverage and coffee company formed in 2018 through the merger of Keurig Green Mountain and Dr Pepper Snapple Group. The company operates a diverse portfolio of iconic brands, including Dr Pepper, Keurig, Canada Dry, Snapple, and Green Mountain Coffee Roasters. With a unique integrated business model that combines hot and cold beverage systems, Keurig Dr Pepper serves consumers across North America through a robust distribution network, focusing on innovation and sustainability to deliver high-quality beverages for every occasion.",
+  "metals_and_minerals": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "Cintas Corporation",
+  "name_former": "Acme Industrial Laundry",
+  "name_clean": "Cintas",
   "ticker": "CTAS",
   "exchange": "NASDAQ",
   "website": "https://www.cintas.com",
+  "logo_url": "https://www.cintas.com/images/default-source/logos/cintas-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Cintas Corporation is an American company that provides a highly specialized range of products and services to businesses, primarily including corporate identity uniform programs, entrance mats, restroom supplies, promotional products, first aid and safety products, and fire protection services. Headquartered in Cincinnati, Ohio, the company operates more than 400 facilities across North America, serving over one million businesses with its dedicated service teams and distribution network.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

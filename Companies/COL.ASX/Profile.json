@@ -1,8 +1,16 @@
 {
   "name": "Coles Group Limited",
+  "name_former": null,
+  "name_clean": "Coles Group",
   "ticker": "COL",
   "exchange": "ASX",
   "website": "https://www.colesgroup.com.au",
+  "logo_url": "https://www.colesgroup.com.au/assets/images/coles-group-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Coles Group Limited is a leading Australian retailer, providing customers with everyday products including fresh food, groceries, household goods, liquor, and financial services. Operating a national store network of supermarkets, liquor outlets, and convenience stores, Coles serves millions of customers weekly. The company is committed to sustainable operations, supporting local communities, and delivering value to its shareholders through its extensive retail and supply chain network.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

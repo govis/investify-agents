@@ -1,8 +1,16 @@
 {
   "name": "General Mills, Inc.",
+  "name_former": null,
+  "name_clean": "General Mills",
   "ticker": "GIS",
   "exchange": "NYSE",
   "website": "https://www.generalmills.com",
+  "logo_url": "https://www.generalmills.com/images/default-source/logos/general-mills-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "General Mills, Inc. is a leading global food company that manufactures and markets branded consumer foods sold through retail stores. Founded in 1866 and headquartered in Minneapolis, Minnesota, the company's diverse portfolio includes iconic brands such as Cheerios, Nature Valley, Blue Buffalo, Häagen-Dazs, Betty Crocker, Pillsbury, and Yoplait. General Mills operates in four product segments: North America Retail, Pet, North America Foodservice, and International, delivering quality food products to consumers worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

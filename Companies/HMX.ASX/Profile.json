@@ -1,8 +1,20 @@
 {
   "name": "Hammer Metals Limited",
+  "name_former": null,
+  "name_clean": "Hammer Metals",
   "ticker": "HMX",
   "exchange": "ASX",
   "website": "https://www.hammermetals.com.au/",
+  "logo_url": "https://www.hammermetals.com.au/wp-content/uploads/2021/05/Hammer-Metals-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Hammer Metals Limited is an Australian mineral exploration company focused on discovering large-scale copper-gold deposits in the Mount Isa district of Northwest Queensland and gold-nickel-copper deposits in the Yandal Belt of Western Australia. The company holds a strategic tenement position in the Mount Isa province, one of the world's most significant base metal provinces, where it actively explores for Iron Oxide Copper Gold (IOCG) and other copper-gold mineralisation styles.",
+  "metals_and_minerals": [
+    "Copper",
+    "Gold",
+    "Nickel"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

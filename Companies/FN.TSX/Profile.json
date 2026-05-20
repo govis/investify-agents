@@ -1,8 +1,16 @@
 {
   "name": "First National Financial Corporation",
+  "name_former": null,
+  "name_clean": "First National Financial",
   "ticker": "FN",
   "exchange": "TSX",
   "website": "https://www.firstnational.ca",
+  "logo_url": "https://www.firstnational.ca/images/default-source/logos/first-national-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "First National Financial Corporation is a Canada-based parent company of First National Financial LP, a originator, underwriter, and servicer of prime residential and commercial mortgages. With over $140 billion in mortgages under administration, First National is one of Canada's largest non-bank mortgage originators and underwriters, offering a wide range of mortgage solutions to borrowers and investment opportunities to institutional investors.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

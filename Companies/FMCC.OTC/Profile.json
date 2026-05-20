@@ -1,8 +1,16 @@
 {
-  "name": "Federal Home Loan Mortgage Corporation (Freddie Mac)",
+  "name": "Federal Home Loan Mortgage Corporation",
+  "name_former": null,
+  "name_clean": "Freddie Mac",
   "ticker": "FMCC",
   "exchange": "OTC",
   "website": "https://www.freddiemac.com",
+  "logo_url": "https://www.freddiemac.com/themes/custom/freddiemac_theme/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "The Federal Home Loan Mortgage Corporation, known as Freddie Mac, is a government-sponsored enterprise (GSE) chartered by Congress in 1970 to support the U.S. housing finance system and to help ensure a reliable and affordable supply of mortgage funds throughout the country. Freddie Mac operates in the secondary mortgage market by purchasing residential mortgages from lenders, packaging them into mortgage-backed securities, and selling them to investors. This process provides liquidity, stability, and affordability to the nation's housing market.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

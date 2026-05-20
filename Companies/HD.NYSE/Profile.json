@@ -1,8 +1,16 @@
 {
   "name": "The Home Depot, Inc.",
+  "name_former": null,
+  "name_clean": "Home Depot",
   "ticker": "HD",
   "exchange": "NYSE",
   "website": "https://www.homedepot.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/The_Home_Depot.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "The Home Depot, Inc. is the world's largest home improvement retailer, operating home improvement warehouse stores that sell a wide assortment of building materials, home improvement products, lawn and garden products, and decor products. The company also provides various services, including home improvement installation services and tool and equipment rental. Serving both do-it-yourself (DIY) customers and professional contractors (Pro), The Home Depot operates stores across the United States, Canada, and Mexico.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

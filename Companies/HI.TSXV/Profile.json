@@ -1,8 +1,19 @@
 {
-  "name": "Highland Copper Co., Inc.",
+  "name": "Highland Copper Company Inc.",
+  "name_former": null,
+  "name_clean": "Highland Copper",
   "ticker": "HI",
   "exchange": "TSXV",
   "website": "https://www.highlandcopper.com",
+  "logo_url": "https://www.highlandcopper.com/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Highland Copper Company Inc. is a Canadian-based mineral exploration and development company focused on acquiring, exploring, and developing copper projects in the Upper Peninsula of Michigan, USA. The company's primary assets include the Copperwood project, a fully permitted, feasibility-stage copper project, and the White Pine North project, a historical copper-silver mine with significant remaining resources. Highland Copper is committed to developing these projects responsibly, utilizing modern mining practices to supply critical metals for the clean energy transition.",
+  "metals_and_minerals": [
+    "Copper",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

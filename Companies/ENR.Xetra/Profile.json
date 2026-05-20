@@ -1,8 +1,16 @@
 {
   "name": "Siemens Energy AG",
+  "name_former": null,
+  "name_clean": "Siemens Energy",
   "ticker": "ENR",
-  "exchange": "Xetra",
+  "exchange": "XETRA",
   "website": "https://www.siemens-energy.com",
+  "logo_url": "https://www.siemens-energy.com/etc.clientlibs/siemens-energy/clientlibs/clientlib-resources/resources/images/siemens-energy-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Germany",
+  "description": "Siemens Energy AG is a global energy technology company that operates along the entire energy value chain. The company's portfolio includes gas and steam turbines, generators, transformers, and compressors, as well as wind power solutions through its Siemens Gamesa business. Siemens Energy supports its customers in transitioning to a more sustainable world by offering technologies for power generation, transmission, and industrial applications, with a strong focus on reducing carbon emissions and advancing renewable energy integration.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

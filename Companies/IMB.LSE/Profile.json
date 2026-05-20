@@ -1,8 +1,16 @@
 {
   "name": "Imperial Brands PLC",
+  "name_former": "Imperial Tobacco Group PLC",
+  "name_clean": "Imperial Brands",
   "ticker": "IMB",
   "exchange": "LSE",
   "website": "https://www.imperialbrandsplc.com",
+  "logo_url": "https://www.imperialbrandsplc.com/content/dam/imperial-brands/corporate/logos/Imperial_Brands_Logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United Kingdom",
+  "description": "Imperial Brands PLC is a multinational tobacco company headquartered in Bristol, England. It is the world's fourth-largest international cigarette company measured by market share. The company manufactures and sells cigarettes, fine-cut tobacco, tobacco papers, cigars, and next-generation products such as e-cigarettes, heated tobacco, and oral nicotine. Its portfolio includes well-known brands such as Davidoff, Gauloises, JPS, West, and Winston.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

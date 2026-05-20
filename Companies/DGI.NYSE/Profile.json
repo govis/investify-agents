@@ -1,8 +1,16 @@
 {
   "name": "DigitalGlobe, Inc.",
+  "name_former": "EarthWatch Incorporated",
+  "name_clean": "DigitalGlobe",
   "ticker": "DGI",
   "exchange": "NYSE",
   "website": null,
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/DigitalGlobe_logo.svg/512px-DigitalGlobe_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "DigitalGlobe, Inc. is a leading global provider of high-resolution Earth imagery, data, and analysis. The company operates a constellation of high-resolution earth imaging satellites, providing images used in defense and intelligence, civil agencies, mapping and analysis, environmental monitoring, oil and gas exploration, and infrastructure planning. Founded in 1992, DigitalGlobe was acquired by Maxar Technologies in 2017, integrating its advanced geospatial capabilities into Maxar's broader space technology portfolio.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

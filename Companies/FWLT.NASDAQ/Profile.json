@@ -1,8 +1,16 @@
 {
   "name": "Foster Wheeler AG",
+  "name_former": "Foster Wheeler Corporation",
+  "name_clean": "Foster Wheeler",
   "ticker": "FWLT",
   "exchange": "NASDAQ",
   "website": null,
+  "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Foster_Wheeler_logo.svg/1200px-Foster_Wheeler_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "Switzerland",
+  "description": "Foster Wheeler AG was a global engineering and construction contractor and power equipment supplier. The company delivered design, engineering, and construction services for upstream oil and gas, LNG, refining, chemical, petrochemical, and pharmaceutical projects, as well as power generation facilities. Headquartered in Baar, Switzerland, with operational headquarters in Reading, United Kingdom, and Clinton, New Jersey, USA, Foster Wheeler was acquired by Amec plc in 2014 to form Amec Foster Wheeler, which was subsequently acquired by John Wood Group plc in 2017.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

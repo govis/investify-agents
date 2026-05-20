@@ -1,8 +1,16 @@
 {
   "name": "Chubb Limited",
+  "name_former": "ACE Limited",
+  "name_clean": "Chubb",
   "ticker": "CB",
   "exchange": "NYSE",
   "website": "https://www.chubb.com",
+  "logo_url": "https://www.chubb.com/content/dam/chubb-sites/chubb/global/images/chubb-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Switzerland",
+  "description": "Chubb Limited is the world's largest publicly traded property and casualty insurance company. Operating in 54 countries and territories, Chubb provides commercial and personal property and casualty insurance, personal accident and supplemental health insurance, reinsurance, and life insurance to a diverse group of clients. The company is defined by its extensive product and service offerings, broad distribution capabilities, exceptional financial strength, and local operations globally.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

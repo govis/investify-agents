@@ -1,8 +1,19 @@
 {
   "name": "Crosshair Energy Corporation",
+  "name_former": "Crosshair Exploration & Mining Corp.",
+  "name_clean": "Crosshair Energy",
   "ticker": "CXZ",
   "exchange": "TSX",
   "website": null,
+  "logo_url": "https://web.archive.org/web/20120502173817im_/http://www.crosshairenergy.com/themes/crosshair/images/logo.gif",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Crosshair Energy Corporation is a Canada-based junior mineral exploration company engaged in the acquisition, exploration, and development of uranium and gold properties in North America. The company's primary focus has been on its uranium projects in the Central Mineral Belt of Labrador, Canada, as well as its projects in the United States, including the Bootheel Uranium Project in Wyoming. Crosshair aims to identify and develop resource-rich properties to create long-term value for its shareholders.",
+  "metals_and_minerals": [
+    "Uranium",
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

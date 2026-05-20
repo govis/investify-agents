@@ -1,8 +1,16 @@
 {
   "name": "JFrog Ltd.",
+  "name_former": null,
+  "name_clean": "JFrog",
   "ticker": "FROG",
   "exchange": "NASDAQ",
   "website": "jfrog.com",
+  "logo_url": "https://jfrog.com/wp-content/uploads/2021/03/jfrog-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Israel",
+  "description": "JFrog Ltd. provides an end-to-end, hybrid, multi-cloud software supply chain platform. The company's products include JFrog Artifactory, a repository manager that connects build tools and operating systems; JFrog Pipelines, an integration and continuous delivery tool; JFrog Xray, which scans packages for security vulnerabilities and license compliance; and JFrog Distribution, which enables rapid software package delivery. Founded in 2008 and headquartered in Sunnyvale, California, and Netanya, Israel, JFrog powers software updates for organizations worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

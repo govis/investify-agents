@@ -1,8 +1,18 @@
 {
-  "name": "Baselode Energy Corp. (rebranded to Geiger Energy Corporation)",
+  "name": "Geiger Energy Corporation",
+  "name_former": "Baselode Energy Corp.",
+  "name_clean": "Geiger Energy",
   "ticker": "BSENF",
-  "exchange": "OTCQB",
+  "exchange": "OTC",
   "website": "https://baselode.com/",
+  "logo_url": "https://baselode.com/site/templates/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Geiger Energy Corporation, formerly Baselode Energy Corp., is a Canadian uranium exploration company focused on the Athabasca Basin area of northern Saskatchewan. The company utilizes innovative exploration methodologies, including deep-penetrating airborne geophysical surveys, to identify shallow, high-grade uranium targets outside of the traditional basin sandstone cover. Its key projects include the Hook, Catharsis, and Shadow properties, which are strategically positioned near existing infrastructure and active uranium discoveries.",
+  "metals_and_minerals": [
+    "Uranium"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

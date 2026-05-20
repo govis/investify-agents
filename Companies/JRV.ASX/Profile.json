@@ -1,8 +1,18 @@
 {
   "name": "Jervois Global Limited",
+  "name_former": "Jervois Mining Limited",
+  "name_clean": "Jervois Global",
   "ticker": "JRV",
   "exchange": "ASX",
   "website": "https://jervoisglobal.com/",
+  "logo_url": "https://jervoisglobal.com/wp-content/uploads/2021/09/Jervois-Logo-RGB.png",
+  "country_of_domicile": "Australia",
+  "description": "Jervois Global Limited is an Australia-based supplier of cobalt and nickel, serving both the battery and chemicals markets. The company focuses on the exploration, development, and production of mineral properties, providing responsibly sourced and produced materials to critical defense, battery, and chemicals industries. With operations and assets spanning Australia, Brazil, Finland, and the United States, Jervois Global aims to provide secure, reliable, and traceable supply chains for its global customers, positioning itself as a key player in the transition to sustainable energy and advanced manufacturing technologies.",
+  "metals_and_minerals": [
+    "Cobalt",
+    "Nickel",
+    "Copper"
+  ],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

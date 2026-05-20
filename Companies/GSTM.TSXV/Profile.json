@@ -1,8 +1,20 @@
 {
   "name": "Goldstorm Metals Corp.",
+  "name_former": null,
+  "name_clean": "Goldstorm Metals",
   "ticker": "GSTM",
   "exchange": "TSXV",
   "website": "https://goldstormmetals.com/",
+  "logo_url": "https://goldstormmetals.com/wp-content/uploads/2022/11/Goldstorm-Metals-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Goldstorm Metals Corp. is a Canada-based precious and base metals exploration company with a primary focus on acquiring, exploring, and developing mineral properties in the Golden Triangle of British Columbia. The company's flagship project is the Crown Project, which is situated situated in a premier mining district and covers several prospective exploration targets. Goldstorm Metals is committed to creating shareholder value through systematic exploration and discovery of gold, silver, and copper deposits.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

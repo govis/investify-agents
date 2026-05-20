@@ -1,8 +1,18 @@
 {
   "name": "Aurelius Minerals Inc.",
+  "name_former": "Galway Gold Inc.",
+  "name_clean": "Aurelius Minerals",
   "ticker": "AUL",
   "exchange": "TSXV",
   "website": "https://aureliusminerals.com",
+  "logo_url": "https://aureliusminerals.com/site/templates/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Aurelius Minerals Inc. is a Canada-based junior gold exploration company. The company is focused on the acquisition, exploration, and development of gold properties in North America. Its primary projects include the Aureus Gold Project, which contains the Aureus East and Aureus West gold properties, as well as the Tangier Gold Project and the Forest Hill Gold Project, all located in Nova Scotia, Canada. Aurelius also holds interest in the Mikwam Gold Property located in the Abitibi Greenstone Belt in Ontario.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "The Dun & Bradstreet Corporation",
+  "name_former": null,
+  "name_clean": "Dun & Bradstreet",
   "ticker": "DNB",
   "exchange": "NYSE",
   "website": "https://www.dnb.com",
+  "logo_url": "https://www.dnb.com/content/dam/english/image/logos/dnb-logo-blue.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "The Dun & Bradstreet Corporation is a leading global provider of business decisioning data and analytics. The company enables businesses around the world to improve their business performance through its Dun & Bradstreet Data Cloud and modern analytics solutions. These solutions provide insights that help customers accelerate revenue, mitigate risk, manage pipelines, and simplify compliance. Serving clients across various industries, Dun & Bradstreet delivers critical business information and commercial insights to support informed decision-making.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "BlackBerry Limited",
+  "name_former": "Research In Motion Limited",
+  "name_clean": "BlackBerry",
   "ticker": "BB",
   "exchange": "NYSE",
   "website": "https://www.blackberry.com",
+  "logo_url": "https://www.blackberry.com/content/dam/blackberry-com/images/logo/blackberry-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "BlackBerry Limited is a Canadian software company specializing in cybersecurity, safety-critical embedded systems, and Internet of Things (IoT) solutions. Originally known as Research In Motion (RIM), the developer of the iconic BlackBerry brand of interactive pagers, smartphones, and tablets, the company transitioned from a hardware-centric business model to a software and services provider. Today, BlackBerry provides intelligent security software and services to enterprises and governments worldwide, securing millions of endpoints including vehicles, medical devices, and industrial equipment.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

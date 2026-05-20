@@ -1,8 +1,16 @@
 {
   "name": "Comcast Corporation",
+  "name_former": null,
+  "name_clean": "Comcast",
   "ticker": "CMCSA",
   "exchange": "NASDAQ",
   "website": "comcastcorporation.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Comcast_Logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Comcast Corporation is a global media and technology company that connects millions of people to moments and experiences that matter. The company primarily operates through three business segments: Comcast Cable (Xfinity), which provides high-speed internet, video, voice, wireless, and security services; NBCUniversal, which operates news, entertainment, and sports cable networks, the NBC NBC television network, filmed entertainment, and theme parks; and Sky, a leading entertainment company in Europe offering direct-to-consumer services and broadband.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

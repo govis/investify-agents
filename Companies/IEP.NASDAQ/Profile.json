@@ -1,8 +1,16 @@
 {
   "name": "Icahn Enterprises L.P.",
+  "name_former": null,
+  "name_clean": "Icahn Enterprises",
   "ticker": "IEP",
   "exchange": "NASDAQ",
   "website": "https://www.ielp.com",
+  "logo_url": "https://www.ielp.com/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Icahn Enterprises L.P. is a diversified holding company engaged in various business segments, including Investment, Energy, Automotive, Food Packaging, Real Estate, Home Fashion, and Pharma. The company operates as a master limited partnership and is controlled by Carl C. Icahn, a well-known activist investor. Through its investment segment, Icahn Enterprises invests its proprietary capital in various private and public entities, often seeking to actively influence management and corporate strategies to unlock shareholder value.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

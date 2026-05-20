@@ -1,8 +1,20 @@
 {
   "name": "Emergent Metals Corp.",
+  "name_former": "Emgold Mining Corporation",
+  "name_clean": "Emergent Metals",
   "ticker": "EMR",
   "exchange": "TSXV",
   "website": "emergentmetals.com",
+  "logo_url": "https://emergentmetals.com/wp-content/uploads/2022/05/EmergentMetals-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Emergent Metals Corp. is a junior mining exploration company focused on acquiring and exploring gold, silver, and base metal properties in Nevada and Quebec. The company's business model is to identify and acquire undervalued properties, add value through exploration, and then seek joint ventures, sales, or other business transactions to advance the projects and create value for shareholders.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

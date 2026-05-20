@@ -1,8 +1,16 @@
 {
   "name": "Artisan Partners Asset Management Inc.",
+  "name_former": null,
+  "name_clean": "Artisan Partners Asset Management",
   "ticker": "APAM",
   "exchange": "NYSE",
   "website": "https://www.artisanpartners.com/",
+  "logo_url": "https://www.artisanpartners.com/etc.clientlibs/artisan/clientlibs/clientlib-site/resources/images/artisan-partners-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Artisan Partners Asset Management Inc. is an independent investment management firm that provides high-value-added investment strategies to sophisticated clients globally. Since its founding in 1994, the firm has grown by attracting and retaining talented investment professionals and providing them with an environment in which they can focus on investment results. Artisan Partners offers a range of active investment strategies across multiple asset classes, including growth, value, global, and emerging markets equities, as well as fixed income, through various investment vehicles.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

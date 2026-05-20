@@ -1,8 +1,18 @@
 {
   "name": "Canoe Mining Ventures Corp.",
+  "name_former": null,
+  "name_clean": "Canoe Mining Ventures",
   "ticker": "CLV",
   "exchange": "TSXV",
   "website": "https://www.canoemining.com",
+  "logo_url": null,
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Canoe Mining Ventures Corp. is a Canada-based exploration-stage company. The Company is engaged in the acquisition, exploration, and development of mineral properties in Canada, with a primary focus on gold exploration. Its projects include the Kerrs Gold Property, located in the Larder Lake Mining Division of Northeastern Ontario, which consists of contiguous mining claims.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

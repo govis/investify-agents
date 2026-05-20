@@ -1,8 +1,19 @@
 {
   "name": "Equitorial Exploration Corp.",
+  "name_former": null,
+  "name_clean": "Equitorial Exploration",
   "ticker": "EXX",
   "exchange": "TSXV",
   "website": null,
+  "logo_url": "http://equitorial.ca/wp-content/uploads/2016/08/equitorial-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Equitorial Exploration Corp. is a Canada-based junior natural resource company. The company is engaged in the acquisition, exploration, and development of mineral properties, with a primary focus on lithium and gold projects in North America. Its properties include the Cat Lake Lithium Property in Manitoba, the Tule Valley Lithium Property in Utah, and the Gerlach Lithium Property in Nevada.",
+  "metals_and_minerals": [
+    "Lithium",
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

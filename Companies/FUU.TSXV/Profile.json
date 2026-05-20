@@ -1,8 +1,18 @@
 {
-  "name": "F3 Uranium Corp. (formerly Fission 3.0 Corp.)",
+  "name": "F3 Uranium Corp.",
+  "name_former": "Fission 3.0 Corp.",
+  "name_clean": "F3 Uranium",
   "ticker": "FUU",
   "exchange": "TSXV",
   "website": "https://f3uranium.com/",
+  "logo_url": "https://f3uranium.com/wp-content/uploads/2023/04/F3-Uranium-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "F3 Uranium Corp. is a Canadian uranium project generator and exploration company focused on the Athabasca Basin in Saskatchewan, Canada. The company is led by an experienced, award-winning management and technical team with a track record of major uranium discoveries. F3 Uranium's flagship project is the PLN Project, where the high-grade JR Zone was discovered, and it holds a portfolio of other highly prospective uranium projects in the region.",
+  "metals_and_minerals": [
+    "Uranium"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

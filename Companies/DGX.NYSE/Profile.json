@@ -1,8 +1,16 @@
 {
   "name": "Quest Diagnostics Incorporated",
+  "name_former": "MetPath Inc.",
+  "name_clean": "Quest Diagnostics",
   "ticker": "DGX",
   "exchange": "NYSE",
   "website": "https://www.questdiagnostics.com",
+  "logo_url": "https://www.questdiagnostics.com/content/dam/corporate/global/images/quest-diagnostics-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Quest Diagnostics Incorporated is a leading provider of diagnostic information services. The company offers access to diagnostic testing services through its network of laboratories and patient service centers, and provides interpretive consultation services to help patients and doctors make better healthcare decisions. Quest Diagnostics serves patients, clinicians, hospitals, health plans, employers, and life insurers, delivering insights from its extensive database of clinical lab results to improve health outcomes.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

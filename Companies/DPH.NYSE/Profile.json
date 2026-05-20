@@ -1,8 +1,16 @@
 {
-  "name": "Delphi Corporation (now Aptiv PLC)",
+  "name": "Aptiv PLC",
+  "name_former": "Delphi Automotive PLC",
+  "name_clean": "Aptiv",
   "ticker": "DPH",
   "exchange": "NYSE",
   "website": "https://www.aptiv.com",
+  "logo_url": "https://www.aptiv.com/images/default-source/brand-assets/aptiv_logo_orange_rgb.png",
+  "logo_local": null,
+  "country_of_domicile": "Ireland",
+  "description": "Aptiv PLC is a global technology company that designs, develops, and manufactures software and hardware solutions for the automotive and commercial vehicle industries. The company specializes in vehicle architecture, electrical and electronic systems, and advanced safety and autonomous driving technologies. Aptiv's solutions help enable safer, greener, and more connected mobility, serving major automotive original equipment manufacturers worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

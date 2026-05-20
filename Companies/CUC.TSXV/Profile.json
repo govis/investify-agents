@@ -1,8 +1,19 @@
 {
   "name": "Carube Copper Corp.",
+  "name_former": null,
+  "name_clean": "Carube Copper",
   "ticker": "CUC",
   "exchange": "TSXV",
   "website": "https://www.carubecopper.com/",
+  "logo_url": "https://www.carubecopper.com/assets/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Carube Copper Corp. is a Canadian exploration stage junior mining company focused on the identification, acquisition, evaluation, and exploration of mineral properties, primarily copper and gold, in Jamaica and Canada. The company holds interest in several projects, including the Bellas Gate project in Jamaica, which is a joint venture, and other wholly-owned projects in Jamaica and British Columbia, Canada.",
+  "metals_and_minerals": [
+    "Copper",
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

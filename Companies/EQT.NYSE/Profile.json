@@ -1,8 +1,16 @@
 {
   "name": "EQT Corporation",
+  "name_former": "Equitable Gas Company",
+  "name_clean": "EQT",
   "ticker": "EQT",
   "exchange": "NYSE",
   "website": "https://www.eqt.com",
+  "logo_url": "https://www.eqt.com/wp-content/themes/eqt/assets/images/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "EQT Corporation is a leading independent natural gas production company with operations focused in the Appalachian Basin, spanning Pennsylvania, West Virginia, and Ohio. As the largest producer of natural gas in the United States, EQT is dedicated to responsibly developing its world-class asset base. The company is committed to environmental stewardship, operational efficiency, and safety, leveraging advanced technology to deliver clean, reliable energy while driving down emissions and creating long-term value for its stakeholders.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

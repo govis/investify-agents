@@ -1,8 +1,20 @@
 {
   "name": "Aurelia Metals Limited",
+  "name_former": "YTC Resources Limited",
+  "name_clean": "Aurelia Metals",
   "ticker": "AMI",
   "exchange": "ASX",
   "website": "https://aureliametals.com/",
+  "logo_url": "https://aureliametals.com/wp-content/uploads/2023/05/Aurelia-Metals-Logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Aurelia Metals Limited is an Australian gold and base metals mining and exploration company. The company operates the Peak and Hera Mines in the Cobar Basin of western New South Wales, and is developing the Federation and Great Cobar deposits. Aurelia Metals focuses on the exploration and extraction of gold, copper, lead, and zinc, aiming to deliver significant value through operational excellence and strategic resource expansion.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper",
+    "Zinc"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

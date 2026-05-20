@@ -1,8 +1,16 @@
 {
   "name": "Aflac Incorporated",
+  "name_former": "American Family Life Assurance Company of Columbus",
+  "name_clean": "Aflac",
   "ticker": "AFL",
   "exchange": "NYSE",
   "website": "https://www.aflac.com",
+  "logo_url": "https://www.aflac.com/images/aflac-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Aflac Incorporated is a leading provider of supplemental insurance in the United States and Japan. Founded in 1955 and headquartered in Columbus, Georgia, the company offers voluntary insurance policies designed to pay cash benefits directly to policyholders to help cover expenses that major medical insurance does not, such as deductibles, copays, and daily living costs. Aflac's product portfolio includes accident, cancer, critical illness, life, and disability insurance, marketed primarily through payroll deduction at worksites.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

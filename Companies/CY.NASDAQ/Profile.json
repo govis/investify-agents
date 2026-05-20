@@ -1,8 +1,16 @@
 {
   "name": "Cypress Semiconductor Corporation",
+  "name_former": null,
+  "name_clean": "Cypress Semiconductor",
   "ticker": "CY",
   "exchange": "NASDAQ",
   "website": "www.cypress.com",
+  "logo_url": "https://www.cypress.com/sites/default/files/cypress_logo_orange_0.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Cypress Semiconductor Corporation was an American semiconductor design and manufacturing company that offered a broad portfolio of mixed-signal, programmable solutions, flash memories, and high-performance analog and telecommunications integrated circuits. Its products served various markets including automotive, industrial, consumer, and enterprise. In April 2020, Cypress Semiconductor was acquired by Infineon Technologies AG.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,20 @@
 {
-  "name": "Atacama Copper Corporation",
+  "name": "Fuerte Metals Corporation",
+  "name_former": "Atacama Copper Corporation",
+  "name_clean": "Fuerte Metals",
   "ticker": "ACOP",
   "exchange": "TSXV",
   "website": "https://fuertemetals.com",
+  "logo_url": "https://fuertemetals.com/assets/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Fuerte Metals Corporation, formerly Atacama Copper Corporation, is a resource exploration company focused on the acquisition, exploration, and development of copper and precious metal properties in the Americas. The company's key projects include the Cristina project in Chihuahua, Mexico, which is a significant gold-silver-zinc-lead-copper deposit, and the Ylo and Placeton projects in Chile. Fuerte Metals is committed to creating shareholder value through systematic exploration and development of its high-quality mineral assets.",
+  "metals_and_minerals": [
+    "Copper",
+    "Gold",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

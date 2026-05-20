@@ -1,8 +1,14 @@
 {
   "name": "Jack in the Box Inc.",
+  "name_former": "Foodmaker, Inc.",
+  "name_clean": "Jack in the Box",
   "ticker": "JACK",
   "exchange": "NASDAQ",
   "website": "https://www.jackinthebox.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Jack_in_the_Box_logo.svg/1200px-Jack_in_the_Box_logo.svg.png",
+  "country_of_domicile": "United States",
+  "description": "Jack in the Box Inc. is an American restaurant company that operates and franchises the Jack in the Box fast-food hamburger chain, known for its diverse menu and iconic mascot. Headquartered in San Diego, California, the company also owns and operates the Del Taco brand, a Mexican-American quick-service restaurant chain. With thousands of locations primarily across the United States, the company focuses on providing a wide variety of food options, including burgers, tacos, and breakfast items, while leveraging its unique brand identity to maintain a strong presence in the competitive quick-service restaurant industry.",
+  "metals_and_minerals": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,18 @@
 {
   "name": "European Lithium Limited",
+  "name_former": "East Coast Minerals NL",
+  "name_clean": "European Lithium",
   "ticker": "EUR",
   "exchange": "ASX",
   "website": "https://europeanlithium.com/",
+  "logo_url": "https://europeanlithium.com/wp-content/uploads/2018/01/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "European Lithium Limited is an Australian-based mining exploration and development company focused on its wholly owned Wolfsberg Lithium Project in Austria. The company aims to become the first local supplier of lithium hydroxide to the European electric vehicle battery supply chain. Located in Carinthia, 270 km south of Vienna, the Wolfsberg Project is a hard-rock lithium deposit with excellent infrastructure and access to key European industrial hubs.",
+  "metals_and_minerals": [
+    "Lithium"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,20 @@
 {
   "name": "El Nino Ventures Inc.",
+  "name_former": null,
+  "name_clean": "El Nino Ventures",
   "ticker": "ELN",
   "exchange": "TSXV",
   "website": "http://elninoventures.com",
+  "logo_url": "http://elninoventures.com/img/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "El Nino Ventures Inc. is a Canada-based mineral exploration company. The Company is focused on the exploration and development of mineral properties, primarily targeting base metals such as zinc, lead, and copper. Its projects include the Murray Brook project, a large volcanogenic massive sulfide (VMS) deposit located in the Bathurst Mining Camp in New Brunswick, Canada. El Nino Ventures aims to create shareholder value through the acquisition, exploration, and development of high-potential resource properties.",
+  "metals_and_minerals": [
+    "Zinc",
+    "Lead",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

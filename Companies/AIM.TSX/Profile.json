@@ -1,8 +1,16 @@
 {
   "name": "Aimia Inc.",
+  "name_former": "Groupe Aeroplan Inc.",
+  "name_clean": "Aimia",
   "ticker": "AIM",
   "exchange": "TSX",
   "website": "https://corp.aimia.com/",
+  "logo_url": "https://corp.aimia.com/wp-content/themes/aimia/assets/images/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Aimia Inc. is a Canadian holding company focused on long-term global investments. The company operates through two main segments: Bozzetto, a provider of specialty chemicals, and Cortland Coal, a producer of metallurgical coal. Aimia also holds minority investments in various public and private companies, including Clear Media Limited and Kognitiv. Aimia aims to maximize shareholder value through strategic acquisitions and active management of its investment portfolio.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

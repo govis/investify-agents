@@ -1,8 +1,16 @@
 {
   "name": "Hamilton Lane Incorporated",
+  "name_former": null,
+  "name_clean": "Hamilton Lane",
   "ticker": "HLNE",
   "exchange": "NASDAQ",
   "website": "https://www.hamiltonlane.com",
+  "logo_url": "https://www.hamiltonlane.com/images/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "US",
+  "description": "Hamilton Lane Incorporated is a leading private markets investment management firm providing innovative solutions to institutional and private wealth investors globally. Dedicated exclusively to private markets investing for over three decades, the firm offers a variety of investment solutions, including customized portfolios, specialized funds, and discretionary and non-discretionary advisory services. Hamilton Lane manages and supervises assets across private equity, private credit, real assets, and venture capital, leveraging its extensive data and technology platform to deliver comprehensive investment programs.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

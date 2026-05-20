@@ -1,8 +1,19 @@
 {
   "name": "Alliance Nickel Limited",
+  "name_former": "GME Resources Limited",
+  "name_clean": "Alliance Nickel",
   "ticker": "AXN",
   "exchange": "ASX",
   "website": "https://alliancenickel.com.au/",
+  "logo_url": "https://alliancenickel.com.au/wp-content/uploads/2023/02/Alliance-Nickel-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Alliance Nickel Limited is an Australian mineral exploration and development company focused on the development of its flagship NiWest Nickel-Cobalt Project in Western Australia. The project is one of the largest and highest-grade undeveloped nickel-cobalt deposits in Australia, positioned to supply high-purity nickel and cobalt sulphate to the growing electric vehicle battery market.",
+  "metals_and_minerals": [
+    "Nickel",
+    "Cobalt"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

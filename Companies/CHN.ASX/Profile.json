@@ -1,8 +1,20 @@
 {
-  "name": "Chalice Mining Ltd",
+  "name": "Chalice Mining Limited",
+  "name_former": "Chalice Gold Mines Limited",
+  "name_clean": "Chalice Mining",
   "ticker": "CHN",
   "exchange": "ASX",
   "website": "https://chalicemining.com/",
+  "logo_url": "https://chalicemining.com/wp-content/uploads/2021/01/chalice-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Chalice Mining Limited is an Australian-based mineral exploration and development company. The company is primarily focused on its flagship Gonneville Nickel-Copper-PGE Project, located in Western Australia, which is a major greenfield discovery of palladium, platinum, nickel, copper, and cobalt. Chalice is dedicated to exploring and developing high-grade mineral resources to support the global transition toward a decarbonized economy.",
+  "metals_and_minerals": [
+    "Palladium",
+    "Nickel",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "Con-way Inc.",
+  "name_former": "Consolidated Freightways Inc.",
+  "name_clean": "Con-way",
   "ticker": "CNW",
   "exchange": "NYSE",
   "website": null,
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Con-way_logo.svg/500px-Con-way_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Con-way Inc. was an American multinational transportation and logistics services company headquartered in Ann Arbor, Michigan. It operated through three primary segments: Freight, Logistics, and Truckload. The company provided less-than-truckload (LTL) freight transportation, supply chain management, warehousing, and full truckload brokerage services across North America and internationally. In October 2015, Con-way Inc. was acquired by XPO Logistics, Inc. for approximately $3 billion, integrating its extensive freight and logistics network into XPO's global operations.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,18 @@
 {
   "name": "Cache Exploration Inc.",
+  "name_former": null,
+  "name_clean": "Cache Exploration",
   "ticker": "CEXPF",
   "exchange": "OTC",
   "website": null,
+  "logo_url": "http://www.cacheexploration.com/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Cache Exploration Inc. is a Canada-based junior mineral exploration company. The company is engaged in the acquisition, exploration, and development of mineral properties, with a primary focus on gold properties in Nunavut and other regions of Canada. Its key projects include the Kiyuk Lake Gold Property, which covers approximately 22,000 hectares in southern Nunavut and exhibits significant gold mineralization.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

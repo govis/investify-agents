@@ -1,8 +1,16 @@
 {
   "name": "Great Lakes Dredge & Dock Corporation",
+  "name_former": null,
+  "name_clean": "Great Lakes Dredge & Dock",
   "ticker": "GLDD",
   "exchange": "NASDAQ",
   "website": "https://gldd.com/",
+  "logo_url": "https://gldd.com/wp-content/uploads/2021/05/GLDD-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Great Lakes Dredge & Dock Corporation is the largest provider of dredging services in the United States. The company provides dredging services, including maintenance dredging, deepening of ports and harbors, beach nourishment, and land reclamation. It also provides environmental and infrastructure services, and is expanding into the offshore wind energy market by constructing the first U.S.-flagged subsea rock installation vessel.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

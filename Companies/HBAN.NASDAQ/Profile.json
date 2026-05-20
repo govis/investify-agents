@@ -1,8 +1,16 @@
 {
-  "name": "Huntington Bancshares, Inc.",
+  "name": "Huntington Bancshares Incorporated",
+  "name_former": null,
+  "name_clean": "Huntington Bancshares",
   "ticker": "HBAN",
   "exchange": "NASDAQ",
   "website": "https://www.huntington.com",
+  "logo_url": "https://www.huntington.com/assets/images/huntington-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Huntington Bancshares Incorporated is a regional bank holding company headquartered in Columbus, Ohio. Founded in 1866, the company operates primarily through its subsidiary, The Huntington National Bank, providing a comprehensive suite of commercial, consumer, and mortgage banking services. It also offers wealth management, treasury management, equipment finance, and insurance services across its multi-state footprint in the Midwestern United States.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

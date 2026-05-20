@@ -1,8 +1,20 @@
 {
   "name": "Investigator Resources Limited",
+  "name_former": null,
+  "name_clean": "Investigator Resources",
   "ticker": "IVR",
   "exchange": "ASX",
   "website": "https://investres.com.au",
+  "logo_url": "https://investres.com.au/wp-content/uploads/2021/05/Investigator-Resources-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Investigator Resources Limited is an Australia-based metals exploration company focused on the discovery and development of silver, lead, and copper deposits. The company's flagship project is the 100%-owned Paris Silver Project located in South Australia, which is one of the highest-grade undeveloped silver projects in Australia. Investigator Resources also holds a diverse portfolio of other exploration tenements targeting copper, gold, and lead-zinc mineralization across South Australia and Queensland.",
+  "metals_and_minerals": [
+    "Silver",
+    "Lead",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,18 @@
 {
   "name": "Guyana Goldfields Inc.",
+  "name_former": null,
+  "name_clean": "Guyana Goldfields",
   "ticker": "GUY",
   "exchange": "TSX",
   "website": null,
+  "logo_url": "https://www.guyanagoldfields.com/themes/custom/guyanagoldfields/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Guyana Goldfields Inc. is a Canadian-based mineral exploration and development company primarily focused on the acquisition, exploration, and development of gold deposits in Guyana, South America. The company's principal asset is the Aurora Gold Mine, which commenced commercial production in 2016. Guyana Goldfields is committed to operating in accordance with high environmental, social, and safety standards while delivering value to its shareholders and local communities.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

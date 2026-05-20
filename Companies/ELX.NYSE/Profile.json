@@ -1,8 +1,16 @@
 {
   "name": "Emulex Corporation",
+  "name_former": null,
+  "name_clean": "Emulex",
   "ticker": "ELX",
   "exchange": "NYSE",
   "website": null,
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Emulex_logo.svg/512px-Emulex_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Emulex Corporation was a provider of enterprise-class connectivity, monitoring, and management solutions for high-performance networks. The company's product portfolio included Fibre Channel Host Bus Adapters, Ethernet Network Interface Cards, Converged Network Adapters, and network performance monitoring and diagnostics solutions. Emulex products were designed to enable high-bandwidth, low-latency data transfer, and reliable network connectivity for enterprise data centers, cloud service providers, and telecommunications networks. Emulex was acquired by Avago Technologies in 2015.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

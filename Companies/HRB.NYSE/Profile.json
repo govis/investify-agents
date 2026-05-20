@@ -1,8 +1,16 @@
 {
   "name": "H&R Block, Inc.",
+  "name_former": null,
+  "name_clean": "H&R Block",
   "ticker": "HRB",
   "exchange": "NYSE",
   "website": "https://www.hrblock.com",
+  "logo_url": "https://www.hrblock.com/images/brand/hrb-logo-green.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "H&R Block, Inc. provides tax preparation, financial products, and small business solutions in the United States, Canada, and Australia. Founded in 1955 by brothers Henry and Richard Bloch, the company offers assisted and do-it-yourself tax return preparation services through a network of company-owned and franchise offices, as well as online and desktop software. Additionally, H&R Block provides financial services, including the Spruce mobile banking platform, Refund Transfers, and Emerald Card line of credit products, alongside payroll and bookkeeping services for small businesses.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

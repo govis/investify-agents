@@ -1,8 +1,19 @@
 {
   "name": "Gold79 Mines Ltd.",
+  "name_former": "Aura Resources Inc.",
+  "name_clean": "Gold79 Mines",
   "ticker": "AUU",
   "exchange": "TSXV",
   "website": "https://gold79mines.com/",
+  "logo_url": "https://gold79mines.com/wp-content/uploads/2020/08/Gold79-Logo-300.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Gold79 Mines Ltd. is a Canada-based junior gold exploration company focused on acquiring, exploring, and developing mineral properties in the Southwestern United States. The company holds a 100% interest in its flagship Gold Chain project in Arizona, as well as the Jefferson Canyon and Tip Top gold projects in Nevada. Gold79 Mines is dedicated to identifying and advancing high-quality gold and silver assets to create value for its shareholders.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

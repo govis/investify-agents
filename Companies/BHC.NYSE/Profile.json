@@ -1,8 +1,16 @@
 {
-  "name": "Valeant Pharmaceuticals International, Inc. (now Bausch Health Companies Inc.)",
+  "name": "Bausch Health Companies Inc.",
+  "name_former": "Valeant Pharmaceuticals International, Inc.",
+  "name_clean": "Bausch Health",
   "ticker": "BHC",
   "exchange": "NYSE",
   "website": "https://www.bauschhealth.com",
+  "logo_url": "https://www.bauschhealth.com/Portals/116/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Bausch Health Companies Inc. is a global diversified pharmaceutical company that develops, manufactures, and markets a broad range of products primarily in gastroenterology, hepatology, neurology, dermatology, international pharmaceuticals, and eye health through its controlling interest in Bausch + Lomb. The company is focused on improving people's lives with its healthcare products and delivers on its commitments to patients, health care providers, and stakeholders.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

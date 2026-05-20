@@ -1,8 +1,20 @@
 {
   "name": "CleanTech Vanadium Mining Corp.",
+  "name_former": "CleanTech Lithium PLC",
+  "name_clean": "CleanTech Vanadium Mining",
   "ticker": "CTV",
   "exchange": "TSXV",
   "website": "https://cleantechctv.com/",
+  "logo_url": "https://cleantechctv.com/wp-content/uploads/2024/04/CleanTech-Vanadium-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "CleanTech Vanadium Mining Corp. is a junior mineral exploration company focused on the acquisition, exploration, and development of vanadium and other mineral properties. The company's primary asset is the Lac de l'Orignal Vanadium Project located in Quebec, Canada, which is highly prospective for vanadium, titanium, and iron mineralization. CleanTech Vanadium is committed to developing sustainable and environmentally responsible sources of vanadium to support the growing demand for energy storage solutions, particularly vanadium redox flow batteries.",
+  "metals_and_minerals": [
+    "Vanadium",
+    "Titanium",
+    "Iron"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

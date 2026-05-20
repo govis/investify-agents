@@ -1,8 +1,16 @@
 {
   "name": "Freshworks Inc.",
+  "name_former": "Freshdesk Inc.",
+  "name_clean": "Freshworks",
   "ticker": "FRSH",
   "exchange": "NASDAQ",
   "website": "https://www.freshworks.com",
+  "logo_url": "https://www.freshworks.com/assets/images/freshworks-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Freshworks Inc. is a software-as-a-service (SaaS) provider that develops business software for customer support, sales, and marketing. The company's products include Freshdesk, a customer support platform, Freshservice, an IT service management solution, and Freshsales, a customer relationship management tool. Freshworks aims to make it fast and easy for businesses to delight their customers and employees by providing modern, intuitive, and affordable software solutions.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

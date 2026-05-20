@@ -1,8 +1,20 @@
 {
   "name": "Azimut Exploration Inc.",
+  "name_former": null,
+  "name_clean": "Azimut Exploration",
   "ticker": "AZM",
   "exchange": "TSXV",
   "website": "https://azimut-exploration.com",
+  "logo_url": "https://azimut-exploration.com/wp-content/uploads/2020/05/logo-azimut.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Azimut Exploration Inc. is a Canada-based mineral exploration company specializing in project generation and multicriteria data processing. The company holds a leading position in Quebec, with a diverse portfolio of properties targeting gold, copper, nickel, and lithium. Azimut uses its proprietary predictive modeling methodology, AZtechDB, to identify high-potential exploration targets. Its business model focuses on partnership agreements to limit shareholder dilution while actively exploring its key assets, including the Elmer gold property in the Eeyou Istchee James Bay region.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper",
+    "Lithium"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,20 @@
 {
   "name": "Fireweed Metals Corp.",
+  "name_former": "Fireweed Zinc Ltd.",
+  "name_clean": "Fireweed Metals",
   "ticker": "FWZ",
   "exchange": "TSXV",
   "website": "https://fireweedmetals.com/",
+  "logo_url": "https://fireweedmetals.com/wp-content/uploads/2022/06/Fireweed-Metals-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Fireweed Metals Corp. is a Canadian mineral exploration and development company focused on advancing its flagship Macmillan Pass Project in Yukon, Canada, which hosts large zinc-lead-silver deposits. The company is also exploring the Mactung Project, one of the largest high-grade tungsten deposits in the world, and the Gayna River Project, a highly prospective zinc-lead-gallium-germanium target. Fireweed aims to responsibly develop critical mineral projects to support the global transition to a low-carbon economy.",
+  "metals_and_minerals": [
+    "Zinc",
+    "Lead",
+    "Tungsten"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

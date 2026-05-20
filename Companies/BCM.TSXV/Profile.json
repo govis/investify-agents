@@ -1,8 +1,20 @@
 {
   "name": "Bear Creek Mining Corporation",
+  "name_former": null,
+  "name_clean": "Bear Creek Mining",
   "ticker": "BCM",
   "exchange": "TSXV",
   "website": "bearcreekmining.com",
+  "logo_url": "https://bearcreekmining.com/site/assets/files/1/bcm_logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Bear Creek Mining Corporation is a Canadian-based precious metals producer and development company. The company operates the Mercedes gold-silver mine in Sonora, Mexico, and is developing its world-class Corani silver-lead-zinc project in Puno, Peru. Bear Creek is focused on acquiring, exploring, and developing mineral properties in the Americas, with a strong commitment to social responsibility, environmental stewardship, and safety.",
+  "metals_and_minerals": [
+    "Silver",
+    "Gold",
+    "Zinc"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

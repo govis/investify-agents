@@ -1,8 +1,16 @@
 {
-  "name": "Kimberley Diamond Company",
+  "name": "Kimberley Diamond Company NL",
+  "name_former": "Kimberley Diamond Company Pty Ltd",
+  "name_clean": "Kimberley Diamond Company",
   "ticker": "KDC",
   "exchange": "ASX",
   "website": null,
+  "logo_url": "N/A",
+  "country_of_domicile": "Australia",
+  "description": "Kimberley Diamond Company NL was an Australian-based diamond mining and exploration company, best known for operating the Ellendale Diamond Mine in Western Australia. The company focused on the extraction of high-value fancy yellow diamonds. Following operational challenges and the suspension of mining activities at the Ellendale site in 2015, the company entered into voluntary administration and was subsequently liquidated. It was formerly listed on the Australian Securities Exchange (ASX) under the ticker KDL before being removed from the official list in 2017.",
+  "metals_and_minerals": [
+    "Diamonds"
+  ],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

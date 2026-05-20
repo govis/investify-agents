@@ -1,8 +1,20 @@
 {
   "name": "Adventus Mining Corporation",
+  "name_former": "Adventus Zinc Corporation",
+  "name_clean": "Adventus Mining",
   "ticker": "ADZN",
   "exchange": "TSXV",
   "website": "https://adventusmining.com/",
+  "logo_url": "https://adventusmining.com/assets/img/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Adventus Mining Corporation is a Canada-based mineral exploration and development company focused on identifying and acquiring mineral properties and advancing them to production. The company's flagship asset is the Curipamba copper-gold project in Ecuador, where it has a majority interest. Adventus also owns an exploration portfolio in Ecuador and is advancing various projects in Ireland.",
+  "metals_and_minerals": [
+    "Copper",
+    "Gold",
+    "Zinc"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

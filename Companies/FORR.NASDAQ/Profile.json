@@ -1,8 +1,16 @@
 {
   "name": "Forrester Research, Inc.",
+  "name_former": null,
+  "name_clean": "Forrester Research",
   "ticker": "FORR",
   "exchange": "NASDAQ",
   "website": "forrester.com",
+  "logo_url": "https://www.forrester.com/wp-content/themes/forrester/assets/images/forrester-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Forrester Research, Inc. is a leading global research and advisory company that helps organizations grow through customer obsession. The company provides proprietary research, consulting, and events designed to help business and technology leaders use customer obsession to accelerate growth. Forrester's insights are grounded in annual surveys of consumers and business leaders worldwide, rigorous methodologies, and the shared wisdom of its clients.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

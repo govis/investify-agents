@@ -1,8 +1,16 @@
 {
   "name": "CMS Energy Corporation",
+  "name_former": null,
+  "name_clean": "CMS Energy",
   "ticker": "CMS",
   "exchange": "NYSE",
   "website": "https://www.cmsenergy.com",
+  "logo_url": "https://www.cmsenergy.com/images/cms-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "CMS Energy Corporation is an energy company operating primarily in Michigan. Its principal business is Consumers Energy Company, an electric and natural gas utility that provides essential energy services to nearly 6.8 million of Michigan's 10 million residents. CMS Energy also owns CMS Enterprises, which operates independent power generation businesses.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

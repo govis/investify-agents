@@ -1,8 +1,18 @@
 {
   "name": "Fabled Copper Corp.",
+  "name_former": null,
+  "name_clean": "Fabled Copper",
   "ticker": "FABL",
   "exchange": "CSE",
   "website": "https://fabledcopper.org/",
+  "logo_url": "https://fabledcopper.org/wp-content/uploads/2021/06/Fabled-Copper-Logo-1.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Fabled Copper Corp. is a junior mining exploration company focused on acquiring, exploring, and developing copper properties in British Columbia, Canada. The company's primary asset is the Muskwa Copper Project, located in the Liard Mining Division in northern British Columbia, which consists of the Neil Property, the Toro Property, and the Bronson Property. Fabled Copper Corp. is dedicated to identifying and developing high-grade copper deposits to support the growing global demand for green energy metals.",
+  "metals_and_minerals": [
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

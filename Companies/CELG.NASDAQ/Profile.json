@@ -1,8 +1,16 @@
 {
   "name": "Celgene Corporation",
+  "name_former": null,
+  "name_clean": "Celgene",
   "ticker": "CELG",
   "exchange": "NASDAQ",
   "website": "https://www.celgene.com",
+  "logo_url": "https://www.celgene.com/wp-content/uploads/celgene-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Celgene Corporation is a global biopharmaceutical company engaged in the discovery, development, and commercialization of innovative therapies for the treatment of cancer and inflammatory diseases. The company's primary focus is on next-generation therapies that target cellular pathways to treat diseases with high unmet medical needs. Celgene's diverse portfolio includes leading treatments for multiple myeloma, myelodysplastic syndromes, and various solid tumors and inflammatory conditions. In November 2019, Celgene was acquired by Bristol Myers Squibb.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

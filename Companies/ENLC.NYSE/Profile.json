@@ -1,8 +1,16 @@
 {
   "name": "EnLink Midstream, LLC",
+  "name_former": "EnLink Midstream Partners, LP",
+  "name_clean": "EnLink Midstream",
   "ticker": "ENLC",
   "exchange": "NYSE",
   "website": "https://www.enlink.com",
+  "logo_url": "https://www.enlink.com/wp-content/themes/enlink/assets/images/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "EnLink Midstream, LLC is a leading midstream energy services provider that provides midstream energy services, including gathering, compressing, treating, processing, transporting, storing, and selling natural gas, natural gas liquids (NGLs), crude oil, and condensate. The company operates in key producing basins across the United States, including the Permian Basin, Oklahoma, North Texas, and the Gulf Coast, connecting energy supply to key demand markets.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

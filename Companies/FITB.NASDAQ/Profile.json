@@ -1,8 +1,16 @@
 {
   "name": "Fifth Third Bancorp",
+  "name_former": null,
+  "name_clean": "Fifth Third Bancorp",
   "ticker": "FITB",
   "exchange": "NASDAQ",
   "website": "https://www.53.com/",
+  "logo_url": "https://www.53.com/content/dam/fifth-third/brand/logos/53-logo-green.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Fifth Third Bancorp is a diversified financial services company headquartered in Cincinnati, Ohio. As one of the largest consumer banks in the Midwestern United States, it operates four main businesses: Commercial Banking, Branch Banking, Consumer Lending, and Wealth & Asset Management. The company provides a wide range of financial products and services, including checking and savings accounts, home equity loans, mortgages, business loans, and investment advisory services to retail, business, and institutional clients.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

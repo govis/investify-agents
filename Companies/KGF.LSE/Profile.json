@@ -1,8 +1,14 @@
 {
   "name": "Kingfisher plc",
+  "name_former": "N/A",
+  "name_clean": "Kingfisher",
   "ticker": "KGF",
   "exchange": "LSE",
   "website": "kingfisher.com",
+  "logo_url": "https://www.kingfisher.com/content/dam/kingfisher/images/logos/kingfisher-logo.svg",
+  "country_of_domicile": "United Kingdom",
+  "description": "Kingfisher plc is an international home improvement company headquartered in London, England. The company operates over 1,900 stores across eight countries in Europe, supported by a workforce of approximately 82,000 colleagues. Kingfisher's portfolio includes well-known retail brands such as B&Q, Castorama, Brico Dépôt, and Screwfix. The company specializes in retailing a wide range of home improvement products, including hand and power tools, heating and plumbing accessories, electrical and lighting equipment, bathroom and kitchen fixtures, as well as outdoor and gardening supplies, catering to both DIY enthusiasts and trade professionals.",
+  "metals_and_minerals": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

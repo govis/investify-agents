@@ -1,8 +1,16 @@
 {
   "name": "Chegg, Inc.",
+  "name_former": "Cheggpost, Inc.",
+  "name_clean": "Chegg",
   "ticker": "CHGG",
   "exchange": "NYSE",
   "website": "https://www.chegg.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Chegg_logo.svg/512px-Chegg_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Chegg, Inc. operates an interconnected, student-first learning platform designed to help students transition from high school to college and into their careers. The company offers a variety of services, including Chegg Study, which provides step-by-step textbook solutions and expert Q&A; Chegg Writing, which offers plagiarism detection and citation tools; and Chegg Math Solver. Additionally, Chegg provides textbook rentals and sales, as well as professional skills training, helping students improve their academic outcomes and career readiness.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

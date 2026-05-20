@@ -1,8 +1,16 @@
 {
   "name": "Getaround, Inc.",
+  "name_former": "InterPrivate II Acquisition Corp.",
+  "name_clean": "Getaround",
   "ticker": "GETR",
   "exchange": "NYSE",
   "website": "https://www.getaround.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Getaround_logo.svg/512px-Getaround_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Getaround, Inc. operates a digital carsharing marketplace that connects car owners with drivers in various cities worldwide. Through its proprietary Getaround Connect technology, the company enables a contactless, keyless sharing experience, allowing users to locate, book, and unlock cars directly from their mobile devices. Getaround aims to optimize vehicle utilization, reduce traffic congestion, and provide convenient, on-demand transportation solutions in urban environments.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

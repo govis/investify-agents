@@ -1,8 +1,18 @@
 {
   "name": "Jourdan Resources Inc.",
+  "name_former": "N/A",
+  "name_clean": "Jourdan Resources",
   "ticker": "JOR",
   "exchange": "TSXV",
   "website": "https://www.jourdaninc.com/",
+  "logo_url": "https://www.jourdaninc.com/wp-content/uploads/2023/02/Jourdan-Logo-Final-01.png",
+  "country_of_domicile": "Canada",
+  "description": "Jourdan Resources Inc. is a Canadian junior mining exploration company focused on the acquisition, exploration, and development of mineral properties. The company primarily targets lithium, molybdenum, and diamond deposits, with a significant emphasis on its exploration activities within the province of Quebec, Canada. As an exploration-stage entity, Jourdan Resources operates with the objective of identifying and advancing high-potential mineral assets to contribute to the growing demand for critical battery metals and other industrial minerals.",
+  "metals_and_minerals": [
+    "Lithium",
+    "Molybdenum",
+    "Diamonds"
+  ],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

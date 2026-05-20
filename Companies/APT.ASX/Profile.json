@@ -1,8 +1,16 @@
 {
   "name": "Afterpay Limited",
+  "name_former": "Afterpay Touch Group Limited",
+  "name_clean": "Afterpay",
   "ticker": "APT",
   "exchange": "ASX",
   "website": "https://www.afterpay.com/",
+  "logo_url": "https://static.afterpay.com/integration/logo-afterpay-colour-en_AU.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Afterpay Limited is an Australian technology-driven payments company that operates a buy now, pay later (BNPL) platform. The company allows retail merchants to offer their customers the ability to purchase goods and services on a buy now, pay later basis, splitting the purchase price into four interest-free installments. Founded in 2014, Afterpay has expanded its services globally, including to the United States, Canada, the United Kingdom, and New Zealand, before being acquired by Block, Inc. in 2022.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,18 @@
 {
-  "name": "Focus Graphite, Inc.",
+  "name": "Focus Graphite Inc.",
+  "name_former": null,
+  "name_clean": "Focus Graphite",
   "ticker": "FMS",
   "exchange": "TSXV",
   "website": "https://focusgraphite.com/",
+  "logo_url": "https://focusgraphite.com/wp-content/uploads/2021/05/FocusGraphite_Logo_Header.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Focus Graphite Inc. is an advanced exploration and development company focused on the production of high-grade flake graphite. The company's flagship asset is the Lac Knife crystalline flake graphite project located in the Côte-Nord region of Quebec, Canada. Focus Graphite aims to become a leading supplier of high-quality graphite concentrate and value-added graphite products, including spherical graphite for the lithium-ion battery market, supporting the global transition to clean energy.",
+  "metals_and_minerals": [
+    "Graphite"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

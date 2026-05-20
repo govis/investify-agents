@@ -1,8 +1,14 @@
 {
   "name": "Jabil Inc.",
+  "name_former": "Jabil Circuit, Inc.",
+  "name_clean": "Jabil",
   "ticker": "JBL",
   "exchange": "NYSE",
   "website": "https://www.jabil.com",
+  "logo_url": "https://www.jabil.com/content/dam/jabil/images/logos/jabil-logo.svg",
+  "country_of_domicile": "United States",
+  "description": "Jabil Inc. is an American multinational manufacturing services company that provides comprehensive engineering, manufacturing, and supply chain solutions. The company specializes in the design, development, and production of electronic circuit board assemblies and complex systems for a wide range of industries, including healthcare, automotive, cloud, and consumer electronics. By leveraging its global footprint and advanced manufacturing capabilities, Jabil partners with some of the world's leading brands to accelerate product innovation, optimize supply chain efficiency, and deliver high-quality products to market across diverse global sectors.",
+  "metals_and_minerals": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

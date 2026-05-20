@@ -1,8 +1,20 @@
 {
   "name": "Gungnir Resources Inc.",
+  "name_former": "Anglo Swiss Resources Inc.",
+  "name_clean": "Gungnir Resources",
   "ticker": "GUG",
   "exchange": "TSXV",
   "website": "https://gungnir-resources.com",
+  "logo_url": "https://gungnir-resources.com/wp-content/uploads/2018/04/gungnir-logo-300.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Gungnir Resources Inc. is a Canadian-based mineral exploration company with gold and base metal exploration projects in northern Sweden. The company's key assets include the Lappvattnet and Mjövattnet nickel-copper-cobalt-PGE deposits, as well as the Knaften gold-copper-zinc project. Gungnir is focused on discovering and developing high-grade nickel and gold resources in a mining-friendly jurisdiction with excellent infrastructure.",
+  "metals_and_minerals": [
+    "Nickel",
+    "Gold",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

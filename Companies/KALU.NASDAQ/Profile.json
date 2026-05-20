@@ -1,8 +1,16 @@
 {
   "name": "Kaiser Aluminum Corporation",
+  "name_former": "Kaiser Aluminum & Chemical Corporation",
+  "name_clean": "Kaiser Aluminum",
   "ticker": "KALU",
   "exchange": "NASDAQ",
   "website": "kaiseraluminum.com",
+  "logo_url": "https://www.kaiseraluminum.com/wp-content/themes/kaiser/assets/images/logo.svg",
+  "country_of_domicile": "United States",
+  "description": "Kaiser Aluminum Corporation is a leading producer of highly engineered, semi-fabricated aluminum products for demanding applications. With a history spanning nearly a century, the company serves diverse end markets including aerospace and high-strength applications, packaging, general engineering, and automotive. Headquartered in Franklin, Tennessee, Kaiser Aluminum focuses on delivering innovative, sustainable, and high-quality aluminum solutions, emphasizing reliability, service, and technical expertise to meet the complex needs of its global customer base.",
+  "metals_and_minerals": [
+    "Aluminum"
+  ],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

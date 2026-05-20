@@ -1,8 +1,14 @@
 {
   "name": "Kimball Electronics, Inc.",
+  "name_former": "Kimball International, Inc. (Electronics Division)",
+  "name_clean": "Kimball Electronics",
   "ticker": "KE",
   "exchange": "NASDAQ",
   "website": "kimballelectronics.com",
+  "logo_url": "https://www.kimballelectronics.com/wp-content/themes/kimball/assets/images/logo.svg",
+  "country_of_domicile": "United States",
+  "description": "Kimball Electronics, Inc. is a multifaceted manufacturing solutions provider that specializes in Electronics Manufacturing Services (EMS), Contract Manufacturing Services (CMS), and Engineering & Design Services. Headquartered in Jasper, Indiana, the company serves a diverse range of markets, including medical, automotive, and industrial sectors. With a global footprint spanning North America, Europe, and Asia, Kimball Electronics focuses on delivering high-quality, technology-driven solutions that improve health, safety, and productivity. The company is currently transitioning its brand identity to Kimball Solutions to reflect its evolution and 65-year history of excellence in the manufacturing industry.",
+  "metals_and_minerals": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

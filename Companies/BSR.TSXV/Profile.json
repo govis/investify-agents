@@ -1,8 +1,19 @@
 {
   "name": "Bluestone Resources Inc.",
+  "name_former": null,
+  "name_clean": "Bluestone Resources",
   "ticker": "BSR",
   "exchange": "TSXV",
   "website": "bluestoneresources.ca",
+  "logo_url": "https://bluestoneresources.ca/site/templates/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Bluestone Resources Inc. is a Canadian-based mineral exploration and development company focused on the advancement of its 100%-owned Cerro Blanco gold project and Mita geothermal project located in southern Guatemala. The Cerro Blanco gold project is an advanced-stage, high-grade gold project. Bluestone is committed to responsible development, adhering to high environmental, social, and safety standards while creating sustainable value for its stakeholders.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

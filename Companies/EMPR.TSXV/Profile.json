@@ -1,8 +1,19 @@
 {
   "name": "Empress Royalty Corp.",
+  "name_former": "Alto Ventures Ltd.",
+  "name_clean": "Empress Royalty",
   "ticker": "EMPR",
   "exchange": "TSXV",
   "website": "https://empressroyalty.com/",
+  "logo_url": "https://empressroyalty.com/wp-content/uploads/2020/11/empress-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Empress Royalty Corp. is a precious metals royalty and streaming company focused on the creation of unique financing solutions for mining companies. Empress has a portfolio of gold and silver royalties and streams on development and production stage projects. The company's business model is designed to provide investors with low-risk exposure to gold and silver prices while offering mining companies flexible, non-dilutive capital to advance their projects into production.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

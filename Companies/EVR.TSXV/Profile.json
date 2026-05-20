@@ -1,8 +1,20 @@
 {
   "name": "Everton Resources Inc.",
+  "name_former": null,
+  "name_clean": "Everton Resources",
   "ticker": "EVR",
   "exchange": "TSXV",
   "website": null,
+  "logo_url": "http://www.evertonresources.com/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Everton Resources Inc. is a Canada-based junior exploration company engaged in the acquisition, exploration, and evaluation of mineral properties, primarily focusing on gold, silver, and copper. The company's exploration activities have historically been concentrated in the Dominican Republic, where it holds interest in several concessions adjacent to the Pueblo Viejo gold mine, as well as in Quebec, Canada.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

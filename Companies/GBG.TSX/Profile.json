@@ -1,8 +1,19 @@
 {
   "name": "Great Basin Gold Ltd.",
+  "name_former": null,
+  "name_clean": "Great Basin Gold",
   "ticker": "GBG",
   "exchange": "TSX",
   "website": null,
+  "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Great_Basin_Gold_logo.svg/1200px-Great_Basin_Gold_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Great Basin Gold Ltd. was a Canadian-based mineral exploration and development company focused on gold and silver properties. The company's primary assets included the Hollister gold project on the Carlin Trend in Nevada, USA, and the Burnstone gold mine in the Witwatersrand Basin of South Africa. Great Basin Gold was engaged in the acquisition, exploration, and development of precious metal properties before entering business rescue and restructuring proceedings.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "The Walt Disney Company",
+  "name_former": "Disney Associates, Ltd.",
+  "name_clean": "Walt Disney",
   "ticker": "DIS",
   "exchange": "NYSE",
   "website": "https://thewaltdisneycompany.com",
+  "logo_url": "https://thewaltdisneycompany.com/wp-content/uploads/2015/10/disney-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "The Walt Disney Company, together with its subsidiaries, operates as an entertainment company worldwide. It operates through three segments: Entertainment, Sports, and Experiences. The company produces and distributes motion pictures, television programs, and streaming content; operates television networks, direct-to-consumer streaming services, and theme parks and resorts; and licenses its intellectual property for various consumer products.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

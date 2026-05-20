@@ -1,8 +1,16 @@
 {
   "name": "Aerojet Rocketdyne Holdings, Inc.",
+  "name_former": "GenCorp Inc.",
+  "name_clean": "Aerojet Rocketdyne",
   "ticker": "AJRD",
   "exchange": "NYSE",
   "website": "https://www.rocket.com",
+  "logo_url": "https://www.rocket.com/themes/custom/rocket/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Aerojet Rocketdyne Holdings, Inc. is an innovative technology-based designer, developer, manufacturer, and provider of aerospace and defense products and systems. The company operates primarily through its Aerospace and Defense segment, which designs, develops, manufactures, and sells aerospace and defense products and systems for the United States government, including the Department of Defense, the National Aeronautics and Space Administration, and major aerospace and defense prime contractors. It specializes in rocket propulsion systems, tactical systems, and energy systems for space, defense, and civil applications.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

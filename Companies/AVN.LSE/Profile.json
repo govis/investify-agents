@@ -1,8 +1,16 @@
 {
   "name": "Avanti Communications Group plc",
+  "name_former": null,
+  "name_clean": "Avanti Communications",
   "ticker": "AVN",
   "exchange": "LSE",
   "website": "https://www.avanti.space",
+  "logo_url": "https://www.avanti.space/wp-content/uploads/2020/10/Avanti-Logo-White.svg",
+  "logo_local": null,
+  "country_of_domicile": "United Kingdom",
+  "description": "Avanti Communications Group plc is a leading satellite communications services provider. The company owns and operates a fleet of high-throughput Ka-band satellites, including HYLAS 1, HYLAS 2, and HYLAS 4, which provide high-speed data and satellite broadband services across Europe, the Middle East, and Africa (EMEA). Avanti delivers secure, reliable connectivity to telecommunications companies, mobile network operators, governments, and enterprise customers, helping to bridge the digital divide in remote and underserved regions.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

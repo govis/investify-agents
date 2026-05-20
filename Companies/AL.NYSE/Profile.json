@@ -1,8 +1,16 @@
 {
   "name": "Air Lease Corporation",
+  "name_former": null,
+  "name_clean": "Air Lease",
   "ticker": "AL",
   "exchange": "NYSE",
   "website": "airleasecorp.com",
+  "logo_url": "https://www.airleasecorp.com/assets/images/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Air Lease Corporation is a leading aircraft leasing company based in Los Angeles, California. The company is principally engaged in purchasing new commercial aircraft directly from aircraft manufacturers, such as Boeing and Airbus, and leasing those aircraft to airline customers worldwide. Through its global leasing and financing activities, Air Lease Corporation provides airlines with fleet management solutions, helping them optimize their operations and capital efficiency.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

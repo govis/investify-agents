@@ -1,8 +1,16 @@
 {
   "name": "Fortinet, Inc.",
+  "name_former": null,
+  "name_clean": "Fortinet",
   "ticker": "FTNT",
   "exchange": "NASDAQ",
   "website": "fortinet.com",
+  "logo_url": "https://www.fortinet.com/content/dam/fortinet/images/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Fortinet, Inc. is a global leader in cybersecurity solutions, providing broad, integrated, and automated protection across the entire digital attack surface. The company's flagship product, the FortiGate next-generation firewall, is powered by custom-built security processing units (SPUs) and delivers industry-leading security and performance. Fortinet's comprehensive portfolio spans network security, cloud security, secure access, and security operations, enabling enterprises, service providers, and government organizations to secure their networks, devices, and data.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

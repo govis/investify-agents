@@ -1,8 +1,18 @@
 {
   "name": "Kalahari Minerals PLC",
+  "name_former": "None",
+  "name_clean": "Kalahari Minerals",
   "ticker": "KAH",
   "exchange": "LSE",
   "website": null,
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/1200px-No_image_available.svg.png",
+  "country_of_domicile": "United Kingdom",
+  "description": "Kalahari Minerals PLC was a resource exploration and development company primarily focused on assets in Namibia. The company held interests in a portfolio of mineral projects, including uranium, gold, copper, and other base metals. Kalahari Minerals was notably involved in the development of the Husab Uranium Project before being acquired by CGN Mining Company Limited in 2012, which led to its delisting from the London Stock Exchange. The company operated as an investment and exploration vehicle targeting high-potential mineral deposits in Southern Africa.",
+  "metals_and_minerals": [
+    "Uranium",
+    "Gold",
+    "Copper"
+  ],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

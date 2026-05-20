@@ -1,8 +1,20 @@
 {
-  "name": "Apogee Opportunities, Inc.",
+  "name": "Apogee Opportunities Inc.",
+  "name_former": "Apogee Minerals Ltd.",
+  "name_clean": "Apogee Opportunities",
   "ticker": "APG",
   "exchange": "TSXV",
   "website": "N/A",
+  "logo_url": "https://www.apogeeopportunities.com/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Apogee Opportunities Inc., formerly Apogee Minerals Ltd., is a Canada-based exploration-stage company. The Company is engaged in the acquisition, exploration, and development of mineral properties, with a primary focus on silver, lead, and zinc projects in South America, particularly in Bolivia and Chile. Its key projects have historically included the Pulacayo-Paca silver-lead-zinc project in Bolivia.",
+  "metals_and_minerals": [
+    "Silver",
+    "Lead",
+    "Zinc"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

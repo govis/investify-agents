@@ -1,8 +1,16 @@
 {
   "name": "Infinera Corporation",
+  "name_former": null,
+  "name_clean": "Infinera",
   "ticker": "INFN",
   "exchange": "NASDAQ",
   "website": "https://www.infinera.com",
+  "logo_url": "https://www.infinera.com/wp-content/uploads/Infinera_Logo_RGB_Orange_Black.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Infinera Corporation is a global supplier of innovative open optical networking solutions and advanced optical semiconductors. The company's products enable carriers, cloud operators, governments, and enterprises to scale network bandwidth, accelerate service innovation, and automate network operations. Infinera's end-to-end packet optical portfolio delivers industry-leading economics and performance in long-haul, metro, and data center interconnect applications.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

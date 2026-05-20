@@ -1,8 +1,19 @@
 {
   "name": "Atlas Energy Corp.",
+  "name_former": "Atlas Salt Inc.",
+  "name_clean": "Atlas Energy",
   "ticker": "ATLE",
   "exchange": "TSXV",
   "website": "https://atlasenergycorp.ca",
+  "logo_url": "https://atlasenergycorp.ca/wp-content/uploads/2024/09/Atlas-Energy-Logo-H-Dark.svg",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Atlas Energy Corp. is a Canadian mineral exploration company focused on the acquisition, exploration, and development of clean energy and industrial mineral resource properties. The company's primary asset is the Fischells Brook Salt Dome project located in southwestern Newfoundland, Canada, which is being evaluated for its potential in salt mining and underground salt cavern storage of hydrogen, natural gas, and other energy products.",
+  "metals_and_minerals": [
+    "Salt",
+    "Hydrogen"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

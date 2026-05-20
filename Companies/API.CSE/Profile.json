@@ -1,8 +1,19 @@
 {
   "name": "Appia Rare Earths & Uranium Corp.",
+  "name_former": "Appia Energy Corp.",
+  "name_clean": "Appia Rare Earths Uranium",
   "ticker": "API",
   "exchange": "CSE",
   "website": "https://appiareu.com/",
+  "logo_url": "https://appiareu.com/wp-content/uploads/2021/11/Appia_Logo_RGB_72dpi.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Appia Rare Earths & Uranium Corp. is a Canadian publicly traded company active in the acquisition, exploration, and development of uranium and rare earth element properties. The company holds significant interests in the Athabasca Basin of Saskatchewan, including the Loranger, North Wollaston, and Eastside properties, as well as the Elliot Lake uranium and rare earth element camp in Ontario. Additionally, Appia is exploring the Alces Lake high-grade rare earth elements and uranium project in Saskatchewan and has acquired interests in the Cachoeira de Cima ionic clay rare earth project in Brazil.",
+  "metals_and_minerals": [
+    "Rare Earth Elements",
+    "Uranium"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

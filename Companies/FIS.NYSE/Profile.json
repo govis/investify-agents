@@ -1,8 +1,16 @@
 {
-  "name": "Fidelity National Information Services, Inc. (FIS)",
+  "name": "Fidelity National Information Services, Inc.",
+  "name_former": null,
+  "name_clean": "Fidelity National Information Services",
   "ticker": "FIS",
   "exchange": "NYSE",
   "website": "https://www.fisglobal.com",
+  "logo_url": "https://www.fisglobal.com/-/media/fisglobal/images/logo/fis-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Fidelity National Information Services, Inc. (FIS) is a global leader in financial services technology, providing solutions to financial institutions, businesses, and developers. The company offers a wide range of services, including core banking processing, card issuer services, payment infrastructure, and wealth and retirement administration. FIS enables its clients to move money, manage investments, and optimize financial operations securely and efficiently across the globe.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "AMR Corporation",
+  "name_former": null,
+  "name_clean": "AMR Corporation",
   "ticker": "AMR",
   "exchange": "NYSE",
   "website": "https://www.aa.com",
+  "logo_url": "https://www.aa.com/content/images/chrome/rebrand/aa-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "AMR Corporation was an aviation commercial holding company based in Fort Worth, Texas, which was the parent company of American Airlines, American Eagle Airlines, Executive Airlines, and the defunct Trans World Airlines. AMR Corporation filed for Chapter 11 bankruptcy protection in November 2011 and subsequently merged with US Airways Group in December 2013 to form American Airlines Group, Inc., creating the world's largest airline.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,20 @@
 {
   "name": "Copper Mountain Mining Corporation",
+  "name_former": null,
+  "name_clean": "Copper Mountain Mining",
   "ticker": "CMMC",
   "exchange": "TSX",
   "website": "https://www.cumtn.com/",
+  "logo_url": "https://www.cumtn.com/site/templates/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Copper Mountain Mining Corporation was a Canadian mining company that operated the Copper Mountain mine located in southern British Columbia, near Princeton. The company's flagship asset, the Copper Mountain mine, is an open-pit operation producing copper, gold, and silver. In 2023, Copper Mountain Mining Corporation was acquired by Hudbay Minerals Inc., creating a premier Americas-focused copper producer.",
+  "metals_and_minerals": [
+    "Copper",
+    "Gold",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

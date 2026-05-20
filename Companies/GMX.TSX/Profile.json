@@ -1,8 +1,20 @@
 {
   "name": "Globex Mining Enterprises Inc.",
+  "name_former": null,
+  "name_clean": "Globex Mining Enterprises",
   "ticker": "GMX",
   "exchange": "TSX",
   "website": "globexmining.com",
+  "logo_url": "https://www.globexmining.com/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Globex Mining Enterprises Inc. is a Canadian exploration, evaluation, and development company with a diversified portfolio of mid-stage mineral properties in North America. The company operates under a project generator business model, acquiring properties, enhancing their value through exploration, and then optioning, joint-venturing, or selling them to third parties while retaining royalties. Its extensive portfolio includes gold, copper, zinc, silver, nickel, platinum, palladium, and various industrial minerals.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper",
+    "Zinc"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "Fulton Financial Corporation",
+  "name_former": null,
+  "name_clean": "Fulton Financial",
   "ticker": "FULT",
   "exchange": "NASDAQ",
   "website": "https://www.fultonbank.com",
+  "logo_url": "https://www.fultonbank.com/-/media/project/fulton-bank/fulton-bank/logos/fulton-bank-logo.ashx",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Fulton Financial Corporation is a financial holding company headquartered in Lancaster, Pennsylvania. Through its banking subsidiary, Fulton Bank, N.A., the company provides a comprehensive range of consumer and commercial banking, trust, investment management, and insurance services. Operating across Pennsylvania, Maryland, Delaware, New Jersey, and Virginia, Fulton Financial Corporation is dedicated to delivering personalized financial solutions and community-focused banking services to individuals, families, and businesses throughout the Mid-Atlantic region.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

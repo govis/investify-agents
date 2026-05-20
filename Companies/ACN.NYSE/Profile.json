@@ -1,8 +1,16 @@
 {
   "name": "Accenture plc",
+  "name_former": "Andersen Consulting",
+  "name_clean": "Accenture",
   "ticker": "ACN",
   "exchange": "NYSE",
   "website": "https://www.accenture.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/2560px-Accenture.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "Ireland",
+  "description": "Accenture plc is a leading global professional services company that provides a broad range of services and solutions in strategy, consulting, digital, technology, and operations. Combining unmatched experience and specialized skills across more than 40 industries and all business functions, Accenture works at the intersection of business and technology to help clients improve their performance and create sustainable value for their stakeholders. With hundreds of thousands of employees serving clients in more than 120 countries, Accenture drives innovation to improve the way the world works and lives.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

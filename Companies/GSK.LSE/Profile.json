@@ -1,8 +1,16 @@
 {
   "name": "GSK plc",
+  "name_former": "GlaxoSmithKline plc",
+  "name_clean": "GSK",
   "ticker": "GSK",
   "exchange": "LSE",
   "website": "https://www.gsk.com",
+  "logo_url": "https://www.gsk.com/media/8289/gsk-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United Kingdom",
+  "description": "GSK plc is a global biopharma company focused on uniting science, technology, and talent to get ahead of disease together. The company prioritizes innovation in vaccines and specialty medicines, focusing on science of the immunology, human genetics, and advanced technologies. GSK operates across four therapeutic areas: infectious diseases, HIV, oncology, and immunology/respiratory, aiming to deliver high-quality, impactful healthcare solutions worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,20 @@
 {
   "name": "Arizona Metals Corp.",
+  "name_former": null,
+  "name_clean": "Arizona Metals",
   "ticker": "AMC",
   "exchange": "TSX",
   "website": "https://arizonametalscorp.com/",
+  "logo_url": "https://arizonametalscorp.com/wp-content/uploads/2020/01/arizona-metals-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Arizona Metals Corp. is a mineral exploration company focused on the acquisition, exploration, and development of gold, copper, and zinc properties in Arizona, USA. The company's flagship projects include the Kay Mine Project, a high-grade volcanogenic massive sulfide (VMS) deposit located in Yavapai County, and the Sugarloaf Peak Gold Project, an open-pit heap-leach gold target in La Paz County. Arizona Metals Corp. is committed to expanding its resource base through systematic drilling and exploration programs.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper",
+    "Zinc"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

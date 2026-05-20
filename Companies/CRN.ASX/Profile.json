@@ -1,8 +1,18 @@
 {
   "name": "Coronado Global Resources Inc.",
+  "name_former": null,
+  "name_clean": "Coronado Global Resources",
   "ticker": "CRN",
   "exchange": "ASX",
   "website": "https://coronadoglobal.com/",
+  "logo_url": "https://coronadoglobal.com/wp-content/themes/coronado/assets/images/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Coronado Global Resources Inc. is a leading global producer, marketer, and exporter of high-quality metallurgical coal, an essential ingredient in the production of steel. The company operates a portfolio of operating metallurgical coal mines located in the Bowen Basin in Queensland, Australia, and the Central Appalachian region in the United States. Coronado serves customers across the Americas, Asia, and Europe, leveraging its geographically diverse operations and high-quality reserves to support global infrastructure development.",
+  "metals_and_minerals": [
+    "Metallurgical Coal"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,18 @@
 {
   "name": "Eagle Hill Exploration Corp.",
+  "name_former": null,
+  "name_clean": "Eagle Hill Exploration",
   "ticker": "EAG",
   "exchange": "TSXV",
   "website": null,
+  "logo_url": "https://www.eaglehillexploration.com/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Eagle Hill Exploration Corp. is a Canadian mineral exploration company focused on the acquisition, exploration, and development of gold properties in Canada. The company's flagship project is the Windfall Lake Gold Project, located in the Abitibi greenstone belt of Quebec, which is known for its high-grade gold mineralization. Eagle Hill was subsequently acquired by Osisko Mining Inc. (formerly Oban Mining Corporation) in 2015.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

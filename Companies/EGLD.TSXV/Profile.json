@@ -1,8 +1,19 @@
 {
   "name": "Eclipse Gold Mining Corp.",
+  "name_former": null,
+  "name_clean": "Eclipse Gold Mining",
   "ticker": "EGLD",
   "exchange": "TSXV",
   "website": "https://www.eclipsegoldmining.com",
+  "logo_url": "https://www.eclipsegoldmining.com/site/templates/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Eclipse Gold Mining Corp. is a Canada-based exploration-stage company. The Company is engaged in the acquisition, exploration, and development of gold and mineral properties in Nevada, United States. Its flagship project is the Hercules Gold Project, located in the Walker Lane gold trend of western Nevada, which is prospective for low-sulfidation epithermal gold-silver mineralization.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

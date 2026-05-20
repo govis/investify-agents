@@ -1,8 +1,16 @@
 {
-  "name": "Bolt, Beranek and Newman (BBN)",
+  "name": "Bolt, Beranek and Newman",
+  "name_former": "BBN Technologies",
+  "name_clean": "Bolt Beranek and Newman",
   "ticker": "BBN",
   "exchange": "NYSE",
   "website": null,
+  "logo_url": "https://www.raytheon.com/sites/default/files/styles/rtn_logo_desktop/public/2023-04/rtn-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Bolt, Beranek and Newman (BBN), now Raytheon BBN Technologies, is an American high-technology research and development company. Founded in 1948 by Leo Beranek, Richard Bolt, and Robert Newman, the firm initially specialized in acoustics before expanding into computer science and networking. BBN is best known for its pioneering work on the ARPANET, the precursor to the modern Internet, including the development of the Interface Message Processor (IMP) and the first network email. Today, it operates as a subsidiary of Raytheon Technologies, focusing on advanced research in defense, cybersecurity, and physical sciences.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

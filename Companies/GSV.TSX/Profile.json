@@ -1,8 +1,18 @@
 {
   "name": "Gold Standard Ventures Corp.",
+  "name_former": null,
+  "name_clean": "Gold Standard Ventures",
   "ticker": "GSV",
   "exchange": "TSX",
   "website": "https://www.goldstandardv.com",
+  "logo_url": "https://www.goldstandardv.com/site/templates/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Gold Standard Ventures Corp. is a gold exploration and development company focused on district-scale discoveries on its Railroad-Pinion Project in Nevada's Carlin Trend. The company's flagship asset is the South Railroad Project, an open-pit, heap-leach gold project. Gold Standard Ventures Corp. was acquired by Orla Mining Ltd. in August 2022.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

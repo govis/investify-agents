@@ -1,8 +1,18 @@
 {
   "name": "Abasca Resources Inc.",
+  "name_former": "Sacre-Coeur Minerals, Ltd.",
+  "name_clean": "Abasca Resources",
   "ticker": "ABA",
   "exchange": "TSXV",
   "website": "abascaresources.com",
+  "logo_url": "https://abascaresources.com/wp-content/uploads/2023/03/Abasca-Logo-H-Color.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Abasca Resources Inc. is a Canadian mineral exploration company focused on the acquisition, exploration, and development of mineral properties, particularly uranium projects in the Athabasca Basin in Saskatchewan, Canada. The company's flagship project is the Key Lake South Uranium Project, located in the southeast edge of the Athabasca Basin, a region known for hosting some of the world's highest-grade uranium deposits. Abasca is dedicated to systematic exploration using modern geophysics and drilling techniques to discover economic uranium deposits.",
+  "metals_and_minerals": [
+    "Uranium"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

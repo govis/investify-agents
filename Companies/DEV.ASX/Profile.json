@@ -1,8 +1,20 @@
 {
   "name": "DevEx Resources Limited",
+  "name_former": "Uranex Limited",
+  "name_clean": "DevEx Resources",
   "ticker": "DEV",
   "exchange": "ASX",
   "website": "https://devexresources.com.au/",
+  "logo_url": "https://devexresources.com.au/wp-content/uploads/2023/05/devex-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "DevEx Resources Limited is an Australian-based exploration company focused on the discovery of high-grade mineral deposits in world-class provinces. The company's key projects include the Nabarlek Uranium Project in the Northern Territory, which surrounds the historic Nabarlek Uranium Mine, and the Sovereign Nickel-Copper-PGE Project in Western Australia. DevEx is actively exploring for uranium, copper, gold, and nickel-copper-platinum group elements (PGE) to build a high-value portfolio of mineral discoveries.",
+  "metals_and_minerals": [
+    "Uranium",
+    "Copper",
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

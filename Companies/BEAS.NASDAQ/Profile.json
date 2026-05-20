@@ -1,8 +1,16 @@
 {
   "name": "BEA Systems, Inc.",
+  "name_former": null,
+  "name_clean": "BEA Systems",
   "ticker": "BEAS",
   "exchange": "NASDAQ",
   "website": null,
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/BEA_Systems_logo.svg/512px-BEA_Systems_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "BEA Systems, Inc. was an enterprise software company that specialized in enterprise infrastructure software products. The company's product line consisted of WebLogic, an enterprise application server; Tuxedo, an enterprise transaction processing monitor; and AquaLogic, a service-oriented architecture (SOA) infrastructure product suite. Founded in 1995 and headquartered in San Jose, California, BEA Systems was a major player in the middleware market before being acquired by Oracle Corporation in 2008 for approximately $8.5 billion.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

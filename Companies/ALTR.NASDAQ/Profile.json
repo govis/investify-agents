@@ -1,8 +1,16 @@
 {
   "name": "Altera Corporation",
+  "name_former": "Intel Programmable Solutions Group",
+  "name_clean": "Altera",
   "ticker": "ALTR",
   "exchange": "NASDAQ",
   "website": "https://www.intel.com",
+  "logo_url": "https://www.intel.com/content/dam/www/central-brands/us/en/images/altera-logo-black-r.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Altera Corporation, formerly Intel's Programmable Solutions Group, is a leading provider of field-programmable gate arrays (FPGAs), system-on-chip (SoC) FPGAs, and complementary technologies. Re-established as an independent company under Intel's ownership, Altera delivers flexible, high-performance programmable logic solutions designed to accelerate innovation across diverse industries, including telecommunications, data centers, automotive, industrial, and aerospace.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

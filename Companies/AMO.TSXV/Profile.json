@@ -1,8 +1,18 @@
 {
-  "name": "Altan Rio Minerals Ltd.",
+  "name": "Altan Rio Minerals Limited",
+  "name_former": "Altan Rio Minerals Ltd.",
+  "name_clean": "Altan Rio Minerals",
   "ticker": "AMO",
   "exchange": "TSXV",
   "website": "https://www.altanrio.com/",
+  "logo_url": "https://www.altanrio.com/wp-content/uploads/2021/05/altan-rio-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Altan Rio Minerals Limited is a Canadian-based mineral exploration company focused on the acquisition, exploration, and development of high-grade gold projects in premier mining jurisdictions. The company's primary focus is on the Southern Cross Greenstone Belt in Western Australia, where it holds a significant landholding, including the Pilot Gold Project. Altan Rio leverages advanced exploration techniques and a highly experienced management team to identify and develop high-potential gold targets, aiming to create substantial value for its shareholders through discovery and resource expansion.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

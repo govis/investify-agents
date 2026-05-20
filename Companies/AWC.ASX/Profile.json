@@ -1,8 +1,20 @@
 {
   "name": "Alumina Limited",
+  "name_former": "WMC Limited",
+  "name_clean": "Alumina",
   "ticker": "AWC",
   "exchange": "ASX",
   "website": "https://www.aluminalimited.com",
+  "logo_url": "https://www.aluminalimited.com/static/alumina-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Alumina Limited is an Australian resource company whose primary asset is a 40% interest in Alcoa World Alumina and Chemicals (AWAC), a global joint venture with Alcoa Corporation. AWAC is a leading producer of bauxite and alumina, with operations spanning bauxite mining, alumina refining, and aluminum smelting across several countries. In August 2024, Alumina Limited was acquired by Alcoa Corporation and subsequently delisted from the Australian Securities Exchange.",
+  "metals_and_minerals": [
+    "Bauxite",
+    "Alumina",
+    "Aluminum"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

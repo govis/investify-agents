@@ -1,8 +1,18 @@
 {
   "name": "Goldsource Mines Inc.",
+  "name_former": null,
+  "name_clean": "Goldsource Mines",
   "ticker": "GXS",
   "exchange": "TSXV",
   "website": "goldsourcemines.com",
+  "logo_url": "https://www.goldsourcemines.com/themes/custom/goldsource/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Goldsource Mines Inc. is a Canadian resource company engaged in exploration and development activities. The company's primary focus is on its 100%-owned Eagle Mountain Gold Project in Guyana, South America, where it is working to expand resources and advance the project toward potential low-cost production. Goldsource is led by an experienced management team with a track record of discovery and building operating mines in the Americas.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

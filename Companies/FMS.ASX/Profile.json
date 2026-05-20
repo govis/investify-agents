@@ -1,8 +1,18 @@
 {
   "name": "Flinders Mines Limited",
+  "name_former": "Flinders Diamonds Limited",
+  "name_clean": "Flinders Mines",
   "ticker": "FMS",
   "exchange": "ASX",
   "website": "flindersmines.com.au",
+  "logo_url": "https://www.flindersmines.com.au/wp-content/uploads/2021/05/Flinders-Mines-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Flinders Mines Limited is an Australian-based mineral exploration and development company. The company's primary focus is the development of its flagship Pilbara Iron Ore Project (PIOP), located in the Pilbara region of Western Australia. The project consists of two main tenement areas, Blacksmith and Anketell, which contain significant iron ore resources. Flinders Mines is dedicated to advancing the PIOP towards production through strategic partnerships and infrastructure development, aiming to become a key supplier of high-quality iron ore to global markets.",
+  "metals_and_minerals": [
+    "Iron Ore"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,11 @@
 {
   "name": "Afcan Mining Corporation",
+  "name_former": null,
+  "name_clean": "Afcan Mining",
   "ticker": "AFK",
   "exchange": "TSXV",
-  "website": null,
-  "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "website": "http://www.afcan-mining.com",
+  "logo_url": "http://www.afcan-mining.com/images/logo.gif",
+  "country_of_domicile": "Canada",
+  "description": "Afcan Mining Corporation is a Canada-based mineral exploration and development company. The company is primarily engaged in the acquisition, exploration, and development of gold properties, with a focus on projects in the People's Republic of China, including the Tanjianshan gold project. Afcan was subsequently acquired by Eldorado Gold Corporation in 2005."
 }

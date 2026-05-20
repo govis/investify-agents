@@ -1,8 +1,16 @@
 {
-  "name": "Argo Investments Ltd",
+  "name": "Argo Investments Limited",
+  "name_former": null,
+  "name_clean": "Argo Investments",
   "ticker": "ARG",
   "exchange": "ASX",
   "website": "argoinvestments.com.au",
+  "logo_url": "https://www.argoinvestments.com.au/assets/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Argo Investments Limited is an Australia-based investment company. The Company is engaged in managing a diversified portfolio of Australian equities. The Company's investment objective is to maximize long-term returns to shareholders through a balance of capital growth and dividend income. It invests in a range of sectors, including materials, banks, industrials, healthcare, consumer discretionary, energy, and real estate.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

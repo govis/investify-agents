@@ -1,8 +1,20 @@
 {
   "name": "Golden Harp Resources Inc.",
+  "name_former": null,
+  "name_clean": "Golden Harp Resources",
   "ticker": "GHR",
   "exchange": "TSX",
   "website": null,
+  "logo_url": "http://www.goldenharpresources.com/images/logo.gif",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Golden Harp Resources Inc. is a Canada-based junior mineral exploration company. The Company is engaged in the acquisition, exploration, and development of mineral properties, with a primary focus on gold and base metal prospects in Northern Ontario, Canada. Its flagship project is the Copper Hill Property, located in the Larder Lake Mining Division, which is prospective for gold, copper, zinc, and other base metals.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper",
+    "Zinc"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

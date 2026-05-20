@@ -1,8 +1,16 @@
 {
-  "name": "Elevance Health, Inc. (formerly WellPoint, Inc.)",
+  "name": "Elevance Health, Inc.",
+  "name_former": "Anthem, Inc.",
+  "name_clean": "Elevance Health",
   "ticker": "ELV",
   "exchange": "NYSE",
   "website": "https://www.elevancehealth.com",
+  "logo_url": "https://assets.elevancehealth.com/content/dam/elevancehealth/images/logos/ElevanceHealth_Logo_RGB_Horizontal_Blue_Orange.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Elevance Health, Inc. operates as a health benefits company in the United States. It operates through four segments: Commercial & Specialty Business, Government Business, Carelon, and Other. The company offers a portfolio of medical, digital, pharmacy, behavioral, clinical, and care solutions. It serves individuals, employers, Medicaid, and Medicare beneficiaries. Elevance Health, Inc. was formerly known as Anthem, Inc. and changed its name to Elevance Health, Inc. in June 2022. The company was founded in 1944 and is headquartered in Indianapolis, Indiana.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

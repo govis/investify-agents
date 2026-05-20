@@ -1,8 +1,16 @@
 {
   "name": "Citizens Financial Group, Inc.",
+  "name_former": null,
+  "name_clean": "Citizens Financial Group",
   "ticker": "CFG",
   "exchange": "NYSE",
   "website": "citizensbank.com",
+  "logo_url": "https://www.citizensbank.com/assets/images/citizens-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Citizens Financial Group, Inc. is one of the nation's oldest and largest financial institutions, offering a broad range of retail and commercial banking products and services to individuals, small businesses, middle-market companies, and large corporations. Headquartered in Providence, Rhode Island, Citizens operates a robust branch network and provides consumer banking, lending, wealth management, and corporate finance solutions across the United States.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

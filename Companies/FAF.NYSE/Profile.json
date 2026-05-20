@@ -1,8 +1,16 @@
 {
   "name": "First American Financial Corporation",
+  "name_former": null,
+  "name_clean": "First American Financial",
   "ticker": "FAF",
   "exchange": "NYSE",
   "website": "https://www.firstam.com",
+  "logo_url": "https://www.firstam.com/assets/images/first-american-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "First American Financial Corporation is a leading provider of title insurance, settlement services, and risk solutions for real estate transactions. The company traces its heritage back to 1889 and operates through its Title Insurance and Services segment and its Specialty Insurance segment. First American provides financial services through its direct operations and a network of agents throughout the United States and internationally, offering title insurance policies, closing and settlement services, and other related products and services.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "Brady Corporation",
+  "name_former": null,
+  "name_clean": "Brady",
   "ticker": "BRC",
   "exchange": "NYSE",
   "website": "https://www.bradycorp.com",
+  "logo_url": "https://www.bradycorp.com/images/brady-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Brady Corporation is an international manufacturer and marketer of complete solutions that identify and protect people, products, and places. The company's products include high-performance labels, signs, safety devices, printing systems, and software. Founded in 1914, Brady serves customers in safety, identification, construction, electrical, telecommunications, manufacturing, and various other industries worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

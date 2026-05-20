@@ -1,8 +1,16 @@
 {
   "name": "HP Inc.",
+  "name_former": "Hewlett-Packard Company",
+  "name_clean": "HP",
   "ticker": "HPQ",
   "exchange": "NYSE",
   "website": "hp.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/HP_logo_2012.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "HP Inc. is a leading global provider of personal computing and other access devices, imaging and printing products, and related technologies, solutions, and services. The company operates through two primary segments: Personal Systems, which includes commercial and consumer desktop and notebook PCs, workstations, thin clients, and retail point-of-sale systems; and Printing, which provides consumer and commercial printer hardware, supplies, media, and scanning devices. HP Inc. serves individual consumers, small- and medium-sized businesses, and large enterprises worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

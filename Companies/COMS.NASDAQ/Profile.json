@@ -1,8 +1,16 @@
 {
   "name": "3Com Corporation",
+  "name_former": null,
+  "name_clean": "3Com",
   "ticker": "COMS",
   "exchange": "NASDAQ",
   "website": "https://www.3com.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/3Com_logo.svg/512px-3Com_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "3Com Corporation was a leading digital electronics manufacturer best known for its computer network products. Founded in 1979 by Robert Metcalfe and others, the company pioneered Ethernet technology and provided a wide range of networking solutions, including network interface cards, switches, routers, wireless access points, and IP telephony systems. 3Com was acquired by Hewlett-Packard in 2010 and subsequently integrated into HP's enterprise networking portfolio.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,17 @@
 {
   "name": "Klondex Mines Ltd.",
+  "name_former": "Klondex Mines Ltd.",
+  "name_clean": "Klondex Mines",
   "ticker": "KDX",
   "exchange": "TSX",
   "website": "https://klondexmines.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Klondex_Mines_logo.png/220px-Klondex_Mines_logo.png",
+  "country_of_domicile": "Canada",
+  "description": "Klondex Mines Ltd. was a North American gold and silver mining company focused on the exploration, development, and production of mineral properties. Headquartered in Reno, Nevada, with corporate offices in Vancouver, British Columbia, the company operated key assets including the Fire Creek project and the Midas mine and milling facility. Klondex was committed to sustainable and environmentally responsible mining practices. In 2018, the company was acquired by Hecla Mining Company, marking the end of its operations as an independent entity.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver"
+  ],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

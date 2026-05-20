@@ -1,8 +1,18 @@
 {
   "name": "Echo Resources Limited",
+  "name_former": null,
+  "name_clean": "Echo Resources",
   "ticker": "EAR",
   "exchange": "ASX",
   "website": "https://www.echoresources.com.au",
+  "logo_url": "https://www.echoresources.com.au/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Echo Resources Limited is an Australia-based mineral exploration company focused on the discovery and development of gold resources. The company's primary asset is the Yandal Gold Project, located in the highly productive Yandal Greenstone Belt in Western Australia, which includes the Julius Gold Deposit and the Bronzewing processing hub. Echo Resources was acquired by Northern Star Resources Limited in 2019.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

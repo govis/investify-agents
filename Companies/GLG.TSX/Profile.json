@@ -1,8 +1,19 @@
 {
   "name": "Glamis Gold Ltd.",
+  "name_former": null,
+  "name_clean": "Glamis Gold",
   "ticker": "GLG",
   "exchange": "TSX",
   "website": null,
+  "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Glamis_Gold_logo.svg/1200px-Glamis_Gold_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Glamis Gold Ltd. was a premier intermediate gold producer engaged in the acquisition, exploration, development, and operation of gold properties in the Americas. The company operated low-cost mines in Nevada, Mexico, and Central America, including the Marlin Mine in Guatemala and the El Sauzal Mine in Mexico. Known for its strong financial position and low production costs, Glamis Gold was acquired by Goldcorp Inc. in November 2006 in a transaction that created one of the world's largest gold mining companies.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,19 @@
 {
   "name": "Arras Minerals Corp.",
+  "name_former": null,
+  "name_clean": "Arras Minerals",
   "ticker": "ARRKF",
-  "exchange": "OTCQX",
+  "exchange": "OTC",
   "website": "https://www.arrasminerals.com/",
+  "logo_url": null,
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Arras Minerals Corp. is a Canadian exploration and development company focused on discovering and developing large-scale copper-gold porphyry deposits in Kazakhstan. The company holds a significant land package in the highly prospective Bozshakol-Chingiz volcanic arc, including the flagship Beskauga copper-gold project. Led by an experienced management team and board with a track record of discovery and development success, Arras Minerals is well-positioned to unlock value in one of the world's premier underexplored copper-gold belts.",
+  "metals_and_minerals": [
+    "Copper",
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

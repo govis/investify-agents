@@ -1,8 +1,19 @@
 {
   "name": "Azimuth Resources Limited",
+  "name_former": null,
+  "name_clean": "Azimuth Resources",
   "ticker": "AZH",
   "exchange": "TSX",
   "website": null,
+  "logo_url": "https://www.azimuthresources.com.au/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Azimuth Resources Limited was an Australian-based mineral exploration company focused on the acquisition, exploration, and development of gold and bauxite projects in Guyana, South America. The company's primary assets included the West Omai Gold Project, which contains the Hicks and Smarts deposits, and various bauxite properties. Azimuth Resources was acquired by Troy Resources Limited in 2013.",
+  "metals_and_minerals": [
+    "Gold",
+    "Bauxite"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

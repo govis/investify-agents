@@ -1,8 +1,20 @@
 {
   "name": "Aston Bay Holdings Ltd.",
+  "name_former": null,
+  "name_clean": "Aston Bay Holdings",
   "ticker": "BAY",
   "exchange": "TSXV",
   "website": "https://astonbayholdings.com",
+  "logo_url": "https://astonbayholdings.com/wp-content/uploads/2021/03/aston-bay-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Aston Bay Holdings Ltd. is a mineral exploration company focused on the acquisition, exploration, and development of high-grade copper and gold deposits in North America. The company's flagship projects include the Storm Copper Project on Somerset Island in Nunavut, Canada, and several high-grade gold and base metal projects in Virginia, USA. Aston Bay is dedicated to identifying and advancing high-potential mineral assets to create value for its shareholders.",
+  "metals_and_minerals": [
+    "Copper",
+    "Gold",
+    "Zinc"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

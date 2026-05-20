@@ -1,8 +1,16 @@
 {
   "name": "Finning International Inc.",
+  "name_former": null,
+  "name_clean": "Finning International",
   "ticker": "FTT",
   "exchange": "TSX",
   "website": "https://www.finning.com",
+  "logo_url": "https://www.finning.com/etc.clientlibs/finning/clientlibs/clientlib-site/resources/images/finning-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Finning International Inc. is the world's largest Caterpillar equipment dealer, selling, renting, and providing parts and service for equipment and engines to customers in various industries, including mining, construction, petroleum, forestry, and power systems. Headquartered in Vancouver, British Columbia, the company operates in Western Canada, South America, the United Kingdom, and Ireland.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

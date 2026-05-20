@@ -1,8 +1,16 @@
 {
   "name": "GoPro, Inc.",
+  "name_former": "Woodman Labs, Inc.",
+  "name_clean": "GoPro",
   "ticker": "GPRO",
   "exchange": "NASDAQ",
   "website": "https://www.gopro.com",
+  "logo_url": "https://gopro.com/img/gopro-logo-blue.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "GoPro, Inc. is an American technology company founded in 2002 by Nick Woodman. The company is renowned for designing, manufacturing, and selling pocket-sized, high-definition action cameras, mobile applications, and video-editing software. GoPro's versatile cameras are widely used by outdoor enthusiasts, athletes, and content creators to capture immersive, point-of-view footage of extreme sports and everyday adventures. In addition to hardware, GoPro offers subscription services that provide cloud storage, camera replacement benefits, and premium editing tools.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

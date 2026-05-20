@@ -1,8 +1,16 @@
 {
   "name": "Dover Corporation",
+  "name_former": null,
+  "name_clean": "Dover",
   "ticker": "DOV",
   "exchange": "NYSE",
   "website": "https://www.dovercorporation.com",
+  "logo_url": "https://www.dovercorporation.com/images/default-source/logos/dover-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Dover Corporation is a diversified global manufacturer and solutions provider that delivers innovative equipment and components, consumable supplies, aftermarket parts, software and digital solutions, and support services. The company operates through five segments: Engineered Products, Clean Energy & Fueling, Imaging & Identification, Pumps & Process Solutions, and Climate & Sustainability Technologies. Dover combines global scale with operational agility to lead the markets they serve, focusing on highly engineered products and customer-centric solutions.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

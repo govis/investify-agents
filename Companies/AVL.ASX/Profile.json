@@ -1,8 +1,20 @@
 {
   "name": "Australian Vanadium Limited",
+  "name_former": null,
+  "name_clean": "Australian Vanadium",
   "ticker": "AVL",
   "exchange": "ASX",
   "website": "https://www.australianvanadium.com.au/",
+  "logo_url": "https://www.australianvanadium.com.au/wp-content/uploads/2021/05/AVL-Logo-2021.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Australian Vanadium Limited is an emerging vanadium producer focused on the development of its flagship Australian Vanadium Project in Western Australia. The project is one of the most advanced vanadium projects globally, aiming to produce high-grade vanadium pentoxide for use in steel, chemical, and energy storage applications, specifically vanadium redox flow batteries. Through its subsidiary VSUN Energy, the company is also actively involved in promoting and growing the market for vanadium energy storage solutions in Australia.",
+  "metals_and_minerals": [
+    "Vanadium",
+    "Iron",
+    "Titanium"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

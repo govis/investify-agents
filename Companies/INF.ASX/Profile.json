@@ -1,8 +1,20 @@
 {
-  "name": "Infinity Metals Ltd.",
+  "name": "Infinity Mining Limited",
+  "name_former": "Macarthur Lithium Pty Ltd",
+  "name_clean": "Infinity Mining",
   "ticker": "INF",
   "exchange": "ASX",
   "website": null,
+  "logo_url": "https://infinitymining.com.au/wp-content/uploads/2021/10/Infinity-Mining-Logo-300x100.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Infinity Mining Limited is an Australian mineral exploration company focused on the exploration and development of lithium, copper, gold, and other base metal deposits in the Pilbara and Central Goldfields regions of Western Australia. The company holds a diverse portfolio of highly prospective tenements, aiming to identify and develop commercial mineral resources to support the global transition towards clean energy and technology.",
+  "metals_and_minerals": [
+    "Lithium",
+    "Copper",
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

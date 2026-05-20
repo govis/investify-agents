@@ -1,8 +1,16 @@
 {
   "name": "Hyatt Hotels Corporation",
+  "name_former": "Global Hyatt Corporation",
+  "name_clean": "Hyatt Hotels",
   "ticker": "H",
   "exchange": "NYSE",
   "website": "hyatt.com",
+  "logo_url": "https://assets.hyatt.com/content/dam/hyatt/hyatt-brands/hyatt-corporate/hyatt-corporate-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Hyatt Hotels Corporation is a leading global hospitality company guided by its purpose to care for people so they can be their best. Headquartered in Chicago, the company's portfolio includes more than 1,300 hotels and all-inclusive properties in over 70 countries across six continents. Hyatt's diverse brand offerings encompass luxury, lifestyle, and select-service hotels, resorts, and residential properties, including brands such as Park Hyatt, Grand Hyatt, Hyatt Regency, Andaz, and Hyatt Place, as well as the World of Hyatt loyalty program.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

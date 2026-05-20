@@ -1,8 +1,17 @@
 {
   "name": "JNR Resources Inc.",
+  "name_former": null,
+  "name_clean": "JNR Resources",
   "ticker": "JNN",
   "exchange": "TSXV",
   "website": null,
+  "logo_url": null,
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "JNR Resources Inc. was a Canadian-based junior mining company focused on the acquisition, exploration, and development of mineral properties, primarily uranium projects located in the Athabasca Basin of Saskatchewan. The company was actively involved in identifying and advancing high-potential exploration targets through geological surveys and drilling programs. In 2013, JNR Resources Inc. was acquired by Denison Mines Corp., a uranium exploration and development company, as part of a strategic consolidation of assets within the region.",
+  "metals_and_minerals": [
+    "Uranium"
+  ],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

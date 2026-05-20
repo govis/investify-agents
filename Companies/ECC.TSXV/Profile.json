@@ -1,8 +1,20 @@
 {
-  "name": "Ethos Gold Corp. (now Prospector Metals Corp.)",
+  "name": "Prospector Metals Corp.",
+  "name_former": "Skeena Resources Limited",
+  "name_clean": "Prospector Metals",
   "ticker": "ECC",
   "exchange": "TSXV",
   "website": "https://prospectormetalscorp.com/",
+  "logo_url": "https://prospectormetalscorp.com/wp-content/uploads/2022/03/Prospector-Metals-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Prospector Metals Corp. is a Canadian mineral exploration company focused on the acquisition and discovery of high-grade gold and base metal projects in Canada. The company's project portfolio includes several highly prospective properties in Ontario, Quebec, and Newfoundland, where it utilizes modern exploration techniques to identify and advance drill-ready targets.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper",
+    "Nickel"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

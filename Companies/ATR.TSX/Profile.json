@@ -1,8 +1,16 @@
 {
-  "name": "AtkinsR\u00e9alis Group Inc.",
+  "name": "AtkinsRéalis Group Inc.",
+  "name_former": "SNC-Lavalin Group Inc.",
+  "name_clean": "AtkinsRealis",
   "ticker": "ATR",
   "exchange": "TSX",
   "website": "https://www.atkinsrealis.com",
+  "logo_url": "https://www.atkinsrealis.com/images/atkinsrealis-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "AtkinsRéalis Group Inc., formerly known as SNC-Lavalin Group Inc., is a world-leading professional services and project management company. Headquartered in Montreal, Canada, the company provides a comprehensive range of services including engineering, procurement, construction, project management, and consultancy to clients across various sectors such as nuclear, clean energy, infrastructure, and water. AtkinsRéalis connects people, technology, and data to design, deliver, and operate the built environment, helping clients achieve their net-zero targets and build a better future.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

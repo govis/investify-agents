@@ -1,8 +1,20 @@
 {
   "name": "Fuerte Metals Corp.",
+  "name_former": "Cresval Software Inc.",
+  "name_clean": "Fuerte Metals",
   "ticker": "FMT",
   "exchange": "TSXV",
   "website": "https://fuertemetals.com/",
+  "logo_url": "https://fuertemetals.com/wp-content/uploads/2024/09/Fuerte-Metals-Logo-Horizontal-Color.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Fuerte Metals Corp. is a Canadian junior mineral exploration company focused on the acquisition, exploration, and development of high-grade copper and gold properties in the Americas. The company's flagship project is the Copper Creek Project, located in Arizona, USA, which is a large-scale porphyry copper-molybdenum deposit. Fuerte Metals is committed to creating shareholder value through systematic exploration and development of its mineral assets while maintaining high environmental and social standards.",
+  "metals_and_minerals": [
+    "Copper",
+    "Gold",
+    "Molybdenum"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

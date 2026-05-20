@@ -1,8 +1,16 @@
 {
   "name": "Box, Inc.",
+  "name_former": "Box.net, Inc.",
+  "name_clean": "Box",
   "ticker": "BOX",
   "exchange": "NYSE",
   "website": "https://www.box.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Box%2C_Inc._logo.svg/512px-Box%2C_Inc._logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Box, Inc. is a leading cloud content management and file sharing service for businesses. The company provides a platform that enables organizations of all sizes to securely manage, share, and collaborate on their content from any device. With advanced security controls, compliance capabilities, and integrations with thousands of enterprise applications, Box helps teams streamline workflows, improve productivity, and protect sensitive information in the cloud.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

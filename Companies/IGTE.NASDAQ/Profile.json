@@ -1,8 +1,16 @@
 {
-  "name": "IGATE Corp.",
+  "name": "IGATE Corporation",
+  "name_former": "iGATE Corp",
+  "name_clean": "IGATE",
   "ticker": "IGTE",
   "exchange": "NASDAQ",
   "website": "https://www.capgemini.com",
+  "logo_url": "https://www.capgemini.com/wp-content/themes/capgemini-koala/dist/images/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "US",
+  "description": "IGATE Corporation was a global technology and services company headquartered in Bridgewater, New Jersey. The company provided integrated technology and operations-based solutions, including consulting, technology, and outsourcing services, to clients across various industries such as financial services, insurance, healthcare, manufacturing, and retail. In 2015, IGATE was acquired by Capgemini, a global leader in consulting, technology services, and digital transformation, and its operations were subsequently integrated into Capgemini's global business.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

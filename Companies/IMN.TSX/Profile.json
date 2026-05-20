@@ -1,8 +1,20 @@
 {
   "name": "Inmet Mining Corporation",
+  "name_former": "Metall Mining Corporation",
+  "name_clean": "Inmet Mining",
   "ticker": "IMN",
   "exchange": "TSX",
   "website": null,
+  "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Inmet_Mining_logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Inmet Mining Corporation was a Canadian-based global mining company that specialized in the discovery, development, and operation of base and precious metal properties. The company primarily focused on copper, zinc, and gold, with operations and development projects located in various countries, including Spain, Turkey, Finland, and Panama. Inmet's flagship project was the Cobre Panama copper-gold project. In 2013, Inmet Mining Corporation was acquired by First Quantum Minerals Ltd.",
+  "metals_and_minerals": [
+    "Copper",
+    "Zinc",
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "eBay Inc.",
+  "name_former": "AuctionWeb",
+  "name_clean": "eBay",
   "ticker": "EBAY",
   "exchange": "NASDAQ",
   "website": "ebay.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/EBay_logo.svg/2560px-EBay_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "eBay Inc. operates a global commerce platform that connects millions of buyers and sellers in more than 190 markets worldwide. Through its marketplace, the company enables individuals and businesses to list, buy, and sell a wide variety of items, including electronics, fashion, collectibles, home and garden goods, and automotive parts. Founded in 1995, eBay is one of the pioneers of e-commerce, offering both auction-style and fixed-price trading formats to facilitate trade globally.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

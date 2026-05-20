@@ -1,8 +1,19 @@
 {
   "name": "Armory Mining Corp.",
+  "name_former": "1433124 B.C. Ltd.",
+  "name_clean": "Armory Mining",
   "ticker": "ARMY",
   "exchange": "CSE",
   "website": "armorymining.com",
+  "logo_url": "https://armorymining.com/wp-content/uploads/2024/09/Armory-Mining-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Armory Mining Corp. is a junior mineral exploration company engaged in the acquisition, exploration, and evaluation of resource properties in North America. The company's primary focus is on the exploration of its mineral property interests, specifically the Barney Ridge Gold Property located in the state of Nevada, USA, where it aims to identify and develop high-grade gold and silver mineralization.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

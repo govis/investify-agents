@@ -1,8 +1,18 @@
 {
   "name": "Emerald Resources NL",
+  "name_former": null,
+  "name_clean": "Emerald Resources",
   "ticker": "EMR",
   "exchange": "ASX",
   "website": "https://www.emeraldresources.com.au",
+  "logo_url": "https://www.emeraldresources.com.au/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Emerald Resources NL is an ASX-listed gold exploration and development company. The company's primary focus is on the exploration and development of its gold projects in Cambodia, notably the Okvau Gold Project, which is Cambodia's first modern large-scale gold mine. Additionally, Emerald Resources holds exploration interests in Australia, aiming to identify and develop high-quality gold assets to deliver long-term value to its shareholders.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,18 @@
 {
   "name": "Chesser Resources Limited",
+  "name_former": null,
+  "name_clean": "Chesser Resources",
   "ticker": "CHZ",
   "exchange": "ASX",
   "website": "https://www.chesserresources.com.au/",
+  "logo_url": "https://www.chesserresources.com.au/wp-content/uploads/2021/04/Chesser-Resources-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Chesser Resources Limited is an Australian-based mineral exploration company focused on the discovery and development of gold deposits in Senegal, West Africa. The company's flagship project is the Diamba Sud Gold Project, located in eastern Senegal within the highly prospective Senegal-Mali Shear Zone. Chesser Resources aims to create shareholder value through systematic exploration and delineation of high-grade gold resources in this premier gold-producing region.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

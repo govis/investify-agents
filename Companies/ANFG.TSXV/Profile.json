@@ -1,8 +1,19 @@
 {
   "name": "Anfield Gold Corp.",
+  "name_former": "Anfield Nickel Corp.",
+  "name_clean": "Anfield Gold",
   "ticker": "ANFG",
   "exchange": "TSXV",
   "website": null,
+  "logo_url": "https://www.anfieldgold.com/assets/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Anfield Gold Corp., formerly Anfield Nickel Corp., is a Canada-based junior exploration stage company. The Company is engaged in the acquisition, exploration, and development of mineral properties. Its primary focus is the Coringa Gold Project, located in Pará State, Brazil. The company is also involved in exploring other mineral properties in the Americas, primarily targeting gold and copper deposits.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "Ameriprise Financial, Inc.",
+  "name_former": "American Express Financial Advisors, Inc.",
+  "name_clean": "Ameriprise Financial",
   "ticker": "AMP",
   "exchange": "NYSE",
   "website": "https://www.ameriprise.com",
+  "logo_url": "https://www.ameriprise.com/content/files/amp-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Ameriprise Financial, Inc. is a leading diversified financial services company that provides financial planning, advice, investment management, and insurance services to individual and institutional clients. Founded in 1894 as Investors Syndicate, the company was later known as American Express Financial Advisors before spinning off as an independent, publicly traded company in 2005. Headquartered in Minneapolis, Minnesota, Ameriprise helps clients achieve their financial goals through a comprehensive, personalized approach to financial planning and wealth management.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -16,7 +16,8 @@ The pipeline is optimized for maximum reliability and throughput by communicatin
     *   **Formula:** `max_chars = (TPM / RPM - 700_tokens_buffer) * 4_chars_per_token`.
     *   Capped between 500 and 8,000 characters to ensure stability.
 3.  **Company Extraction & Mention Mapping:** The LLM identifies company details and specific text strings (`mentions`) where they appear.
-4.  **Robust Python-Side Hyperlinking:**
+4.  **Robust Python-Side Hyperlinking & Sanitization:**
+    *   **Exchange Sanitization:** Normalizes exchange names using `EXCHANGE_NAME_SUBSTITUTE` (mapping verbose names like "NYSE American" to codes like "NYSE") and validates against `ALLOWED_EXCHANGES`.
     *   **Double-Link Prevention:** Uses a single-pass regex to ensure that in patterns like `Name (Ticker)`, only the name is hyperlinked.
     *   **Nested Link Prevention:** Prevents hyperlinking text that is already part of a markdown link.
     *   **Exchange Filter:** Respects the `EXCHANGE_FILTER` setting.
@@ -46,7 +47,11 @@ The `create_companies_from_affiliations.py` script synchronizes company and mana
 - **Python Version:** Python 3.13+ (Fully compatible with Python 3.14).
 - **Dependencies:** `google-genai`, `groq`, `python-dotenv`, `beautifulsoup4`.
 - **Configuration (.env):**
+    *   **Shared Settings:** The workflow loads settings from the local `.env` and optionally from a parent-level `.env` (useful for shared API keys and exchange configs).
     *   `LLM_PROVIDER`: `gemini` or `groq`.
     *   `LLM_RPM`: Requests per minute limit.
     *   `LLM_TPM`: Tokens per minute limit.
     *   `CONCURRENCY_LIMIT`: Max simultaneous requests.
+    *   `EXCHANGE_NAME_SUBSTITUTE`: A JSON string mapping verbose exchange names to standardized codes (e.g., `'{"NYSE American": "NYSE"}'`).
+    *   `UNCOMMON_EXCHANGE_CODES`: Comma-separated list of additional valid exchange codes.
+    *   `EXCHANGE_FILTER`: Comma-separated list of codes to include in hyperlinking.

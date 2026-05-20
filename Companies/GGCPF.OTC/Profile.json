@@ -1,8 +1,18 @@
 {
   "name": "Generic Gold Corp.",
+  "name_former": null,
+  "name_clean": "Generic Gold",
   "ticker": "GGCPF",
   "exchange": "OTC",
   "website": "https://genericgold.ca/",
+  "logo_url": "https://genericgold.ca/wp-content/uploads/2020/09/generic-gold-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Generic Gold Corp. is a Canadian mineral exploration company focused on the acquisition, exploration, and development of gold properties in Canada. The company's principal exploration projects include the Belore, Desor, and Normetal projects located in the Abitibi Greenstone Belt of Quebec, as well as several exploration-stage properties in the Yukon Territory. Generic Gold is dedicated to identifying and advancing high-potential gold targets through systematic exploration programs.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

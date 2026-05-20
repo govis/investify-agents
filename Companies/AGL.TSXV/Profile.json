@@ -1,8 +1,20 @@
 {
-  "name": "Aguila American Gold Ltd.",
+  "name": "Aguila Copper Corp.",
+  "name_former": "Aguila American Gold Ltd.",
+  "name_clean": "Aguila Copper",
   "ticker": "AGL",
   "exchange": "TSXV",
   "website": null,
+  "logo_url": "https://aguilacopper.com/site/templates/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Aguila Copper Corp., formerly Aguila American Gold Ltd., is a Canada-based copper and precious metals exploration company. The company is focused on acquiring and developing high-grade copper and gold projects in mining-friendly jurisdictions in North America. Its key projects include the Sherridon copper-zinc-gold-silver project in Manitoba and the Lida copper project in Nevada, aiming to discover and develop resources to support the green energy transition.",
+  "metals_and_minerals": [
+    "Copper",
+    "Gold",
+    "Zinc"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "International Paper Company",
+  "name_former": null,
+  "name_clean": "International Paper",
   "ticker": "IP",
   "exchange": "NYSE",
   "website": "https://www.internationalpaper.com",
+  "logo_url": "https://www.internationalpaper.com/themes/custom/ip_theme/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "International Paper Company is a leading global producer of renewable fiber-based packaging and pulp products. The company primarily operates in two segments: Industrial Packaging, which manufactures containerboard, corrugated sheets, and shipping containers; and Global Cellulose Fibers, which produces fluff, market, and specialty pulps used in personal care products, diapers, and other applications. Headquartered in Memphis, Tennessee, International Paper is committed to sustainability, sourcing its wood fiber responsibly and creating recyclable products that contribute to a circular economy.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

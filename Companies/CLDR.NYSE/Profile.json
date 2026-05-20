@@ -1,8 +1,16 @@
 {
   "name": "Cloudera, Inc.",
+  "name_former": null,
+  "name_clean": "Cloudera",
   "ticker": "CLDR",
   "exchange": "NYSE",
   "website": "https://www.cloudera.com/",
+  "logo_url": "https://www.cloudera.com/content/dam/cloudera/marketing/images/logos/cloudera-logo-white.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Cloudera, Inc. provides an enterprise data cloud platform in the United States, Europe, and internationally. The company's platform delivers an integrated suite of capabilities for data management, machine learning, and advanced analytics, enabling businesses to manage and analyze data across public clouds, private clouds, and on-premises environments. Cloudera's solutions help organizations transform complex data into clear and actionable insights, driving digital transformation and innovation.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "Globe Life Inc.",
+  "name_former": "Torchmark Corporation",
+  "name_clean": "Globe Life",
   "ticker": "GL",
   "exchange": "NYSE",
   "website": "https://www.globelifeinsurance.com",
+  "logo_url": "https://www.globelifeinsurance.com/assets/images/globelife-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Globe Life Inc., through its subsidiaries, provides individual life and supplemental health insurance products in the United States, Canada, and New Zealand. The company operates through four segments: Life Insurance, Supplemental Health Insurance, Annuities, and Investments. It offers specialized life insurance products, including whole life, term life, and other life insurance products, as well as supplemental health insurance products, such as critical illness, accident, and Medicare supplement plans.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "Celestica Inc.",
+  "name_former": null,
+  "name_clean": "Celestica",
   "ticker": "CLS",
   "exchange": "TSX",
   "website": "celestica.com",
+  "logo_url": "https://www.celestica.com/themes/custom/celestica/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Celestica Inc. is a Canadian multinational electronics manufacturing services company headquartered in Toronto, Ontario. It provides design, manufacturing, hardware platform, and supply chain solutions to global customers across various industries, including aerospace and defense, industrial, smart energy, healthtech, enterprise communications, and cloud. Celestica operates a global manufacturing network with facilities in the Americas, Europe, and Asia, delivering innovative product lifecycle solutions from design to aftermarket services.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

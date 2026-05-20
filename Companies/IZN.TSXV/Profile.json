@@ -1,8 +1,18 @@
 {
   "name": "InZinc Mining Ltd.",
+  "name_former": "None",
+  "name_clean": "InZinc Mining",
   "ticker": "IZN",
   "exchange": "TSXV",
   "website": "https://inzincmining.com/",
+  "logo_url": "https://inzincmining.com/wp-content/uploads/2023/05/inzinc-logo.png",
+  "country_of_domicile": "Canada",
+  "description": "InZinc Mining Ltd. is a mineral exploration and development company focused on the acquisition and advancement of base and precious metals projects in North America. The company is primarily focused on its 100% owned Indy project in central British Columbia, which features near-surface mineralization and extensive exploration targets along a 29 km trend. InZinc aims to discover and develop new mineral districts in mining-friendly jurisdictions, leveraging its experienced management team to deliver shareholder value through strategic exploration and development of its mineral assets.",
+  "metals_and_minerals": [
+    "Zinc",
+    "Lead",
+    "Silver"
+  ],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

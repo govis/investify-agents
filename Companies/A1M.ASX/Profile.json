@@ -1,8 +1,19 @@
 {
   "name": "AIC Mines Limited",
+  "name_former": "Intrepid Mines Limited",
+  "name_clean": "AIC Mines",
   "ticker": "A1M",
   "exchange": "ASX",
   "website": "https://www.aicmines.com.au",
+  "logo_url": "https://www.aicmines.com.au/wp-content/uploads/2021/08/AIC-Mines-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "AIC Mines Limited is an ASX-listed growth-focused resources company focused on exploring, developing, and mining gold and copper resources in Australia. The company's flagship asset is the Eloise Copper Mine, a high-grade underground mine located in North Queensland. Additionally, AIC Mines holds a portfolio of highly prospective exploration projects, including the Jericho copper deposit and the Marymia project, targeting gold and copper mineralization.",
+  "metals_and_minerals": [
+    "Copper",
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

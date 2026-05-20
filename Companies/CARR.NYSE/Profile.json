@@ -1,8 +1,16 @@
 {
   "name": "Carrier Global Corporation",
+  "name_former": "United Technologies Corporation (HVAC, Refrigeration, and Fire & Security divisions)",
+  "name_clean": "Carrier Global",
   "ticker": "CARR",
   "exchange": "NYSE",
   "website": "https://www.carrier.com",
+  "logo_url": "https://www.carrier.com/carrier/en/worldwide/images/carrier-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Carrier Global Corporation is a leading global provider of healthy, safe, sustainable and intelligent building and cold chain solutions. Founded by the inventor of modern air conditioning, Carrier is a world leader in heating, air-conditioning and refrigeration solutions. The company operates through three main segments: Heating, Ventilating, and Air Conditioning (HVAC), Refrigeration, and Fire & Security, serving customers in residential, commercial, industrial, food service, and transportation applications worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

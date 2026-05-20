@@ -1,8 +1,19 @@
 {
   "name": "ATAC Resources Ltd.",
+  "name_former": null,
+  "name_clean": "ATAC Resources",
   "ticker": "ATC",
   "exchange": "TSXV",
   "website": null,
+  "logo_url": "https://atacresources.com/assets/img/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "ATAC Resources Ltd. is a Canadian mineral exploration company focused on exploring for gold and copper in Yukon, British Columbia, and Nevada. The company's flagship project is the Rackla Gold Property in Yukon, which hosts Canada's only Carlin-type gold district. ATAC was acquired by Hecla Mining Company in 2023, with its non-Yukon assets spun out into a new exploration company, Cascadia Minerals Ltd.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

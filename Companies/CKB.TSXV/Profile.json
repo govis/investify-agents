@@ -1,8 +1,19 @@
 {
   "name": "Calico Resources Corp.",
+  "name_former": null,
+  "name_clean": "Calico Resources",
   "ticker": "CKB",
   "exchange": "TSXV",
   "website": "https://www.calicoresources.com/",
+  "logo_url": "https://www.calicoresources.com/img/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Calico Resources Corp. is a Canada-based mineral exploration company focused on the acquisition, exploration, and development of high-quality mineral properties. The company's flagship asset is the Grassy Mountain Gold Project located in Malheur County, Oregon, USA. Calico is dedicated to advancing this project through the permitting and feasibility stages to establish a safe, environmentally responsible, and economically viable gold mining operation.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

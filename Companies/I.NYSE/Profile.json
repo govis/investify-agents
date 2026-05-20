@@ -1,8 +1,16 @@
 {
   "name": "Intelsat S.A.",
+  "name_former": null,
+  "name_clean": "Intelsat",
   "ticker": "I",
   "exchange": "NYSE",
   "website": "https://www.intelsat.com",
+  "logo_url": "https://www.intelsat.com/wp-content/uploads/2021/11/Intelsat-Logo-Blue-RGB.png",
+  "logo_local": null,
+  "country_of_domicile": "Luxembourg",
+  "description": "Intelsat S.A. operates the world's largest integrated satellite and terrestrial network, delivering high-performance connectivity solutions for media, telecom, government, and enterprise applications. The company provides diversified communications services, including broadband, video distribution, and mobility services, leveraging its global fleet of satellites and ground infrastructure to connect people and businesses worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

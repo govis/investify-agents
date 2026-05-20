@@ -1,8 +1,16 @@
 {
   "name": "DowDuPont Inc.",
+  "name_former": "Dow Chemical Company and E. I. du Pont de Nemours and Company",
+  "name_clean": "DowDuPont",
   "ticker": "DWDP",
   "exchange": "NYSE",
   "website": "N/A",
+  "logo_url": "https://www.dupont.com/content/dam/dupont/amer/us/en/corporate/images/dupont-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "DowDuPont Inc. was a chemical conglomerate formed by the merger of Dow Chemical Company and E. I. du Pont de Nemours and Company in 2017. Headquartered in Wilmington, Delaware, the company operated as a holding company for three major divisions: Agriculture (Corteva), Materials Science (Dow), and Specialty Products (DuPont). In 2019, DowDuPont completed its planned separation into three independent, publicly traded companies, with the specialty products division continuing under the DuPont name.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

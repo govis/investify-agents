@@ -1,8 +1,20 @@
 {
   "name": "Goldcorp Inc.",
+  "name_former": null,
+  "name_clean": "Goldcorp",
   "ticker": "G",
   "exchange": "TSX",
   "website": "https://www.newmont.com",
+  "logo_url": "https://www.newmont.com/wp-content/uploads/2023/02/Newmont-Logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Goldcorp Inc. was a leading gold producer engaged in the acquisition, exploration, development, and operation of precious metal properties in Canada, the United States, Mexico, and Central and South America. Headquartered in Vancouver, British Columbia, the company focused on low-cost, sustainable gold production. In April 2019, Goldcorp was acquired by Newmont Mining Corporation, forming Newmont Goldcorp, which subsequently became the world's largest gold mining company.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,19 @@
 {
   "name": "American Eagle Gold Corp.",
+  "name_former": null,
+  "name_clean": "American Eagle Gold",
   "ticker": "AE",
   "exchange": "TSXV",
   "website": "https://americaneaglegold.ca/",
+  "logo_url": "https://americaneaglegold.ca/assets/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "American Eagle Gold Corp. is a Canadian mineral exploration company focused on exploring its flagship NAK copper-gold porphyry project in the Babine Copper-Gold Porhyry District of central British Columbia. The company is dedicated to creating shareholder value through the discovery and development of large-scale copper and gold deposits in premier mining jurisdictions.",
+  "metals_and_minerals": [
+    "Copper",
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "DUET Group",
+  "name_former": null,
+  "name_clean": "DUET Group",
   "ticker": "DUE",
   "exchange": "ASX",
   "website": "https://www.duet.net.au/",
+  "logo_url": "https://www.duet.net.au/images/duet-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "DUET Group was an Australian energy utility company that owned and operated energy utility assets in Australia, the United States, and the United Kingdom. Its portfolio included Dampier to Bunbury Natural Gas Pipeline, United Energy, Multinet Gas, and DBP Development Group. The company was acquired by a consortium led by CK Infrastructure Holdings in May 2017 and subsequently delisted from the Australian Securities Exchange.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

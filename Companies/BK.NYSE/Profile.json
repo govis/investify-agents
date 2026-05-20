@@ -1,8 +1,16 @@
 {
   "name": "The Bank of New York Mellon Corporation",
+  "name_former": "The Bank of New York Company, Inc.",
+  "name_clean": "BNY Mellon",
   "ticker": "BK",
   "exchange": "NYSE",
   "website": "bnymellon.com",
+  "logo_url": "https://www.bnymellon.com/content/dam/bnymellon/images/logos/bny-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "The Bank of New York Mellon Corporation, commonly known as BNY, is an American financial services holding company headquartered in New York City. It was formed in 2007 by the merger of The Bank of New York and Mellon Financial Corporation. It is the world's largest custodian bank and asset servicing company, with trillions of dollars in assets under custody and administration. The company provides investment management, investment services, and wealth management to institutions, corporations, and individual investors globally.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

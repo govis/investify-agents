@@ -1,8 +1,16 @@
 {
   "name": "Globix Corporation",
+  "name_former": null,
+  "name_clean": "Globix",
   "ticker": "GBIX",
   "exchange": "AMEX",
   "website": null,
+  "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Globix_logo.svg/1200px-Globix_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Globix Corporation was a provider of Internet infrastructure and network services, including managed hosting, content delivery, and network connectivity. Founded in 1989 and headquartered in New York City, the company operated data centers in the United States and Europe, serving enterprise clients with high-availability hosting and internet access solutions. Globix later expanded its services to include media streaming and security solutions before undergoing restructuring and eventually being acquired or transitioning its assets.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

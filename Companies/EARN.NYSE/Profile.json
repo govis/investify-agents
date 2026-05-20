@@ -1,8 +1,16 @@
 {
   "name": "Ellington Credit Company",
+  "name_former": "Ellington Residential Mortgage REIT",
+  "name_clean": "Ellington Credit Company",
   "ticker": "EARN",
   "exchange": "NYSE",
   "website": "https://www.ellingtoncredit.com",
+  "logo_url": "https://www.ellingtoncredit.com/wp-content/uploads/2024/03/Ellington-Credit-Company-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Ellington Credit Company is a closed-end management investment company that has elected to be regulated as a business development company. The company primarily invests in corporate debt, including senior secured loans, second lien loans, and mezzanine debt, as well as other credit-related instruments. It is externally managed by Ellington Credit Company Management LLC, an affiliate of Ellington Management Group, L.L.C., a registered investment adviser with a long track record of investing in diverse credit markets.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

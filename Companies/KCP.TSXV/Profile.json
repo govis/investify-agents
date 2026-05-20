@@ -1,8 +1,18 @@
 {
   "name": "King Copper Discovery Corp.",
+  "name_former": null,
+  "name_clean": "King Copper Discovery",
   "ticker": "KCP",
   "exchange": "TSXV",
   "website": "kingcopperdiscovery.com",
+  "logo_url": "https://kingcopperdiscovery.com/wp-content/uploads/2021/05/King-Copper-Logo-Final-01.png",
+  "country_of_domicile": "Canada",
+  "description": "King Copper Discovery Corp. is a Canada-based exploration company focused on the Colquemayo gold-copper project in Southern Peru. The company holds an option to earn a 100% interest in the road-accessible project, which covers 6,600 hectares. The site features copper-gold-silver mineralization within high-sulphidation epithermal systems, hosted by phreatomagmatic and hydrothermal breccias emplaced into Miocene to Pliocene andesitic volcanic rocks. Extensive hydrothermal alteration has been mapped across a significant area of the property, highlighting its potential for mineral discovery.",
+  "metals_and_minerals": [
+    "Copper",
+    "Gold",
+    "Silver"
+  ],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

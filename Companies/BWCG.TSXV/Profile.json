@@ -1,8 +1,20 @@
 {
   "name": "Blackwolf Copper and Gold Ltd.",
+  "name_former": "Heatherdale Resources Ltd.",
+  "name_clean": "Blackwolf Copper and Gold",
   "ticker": "BWCG",
   "exchange": "TSXV",
   "website": "https://blackwolfcopperandgold.com/",
+  "logo_url": "https://blackwolfcopperandgold.com/wp-content/uploads/2021/03/Blackwolf_Logo_Horizontal_Color.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Blackwolf Copper and Gold Ltd. is a mineral exploration and development company focused on base and precious metal projects in Alaska and British Columbia. The company's flagship asset is the Niblack copper-gold-zinc-silver VMS project located on Prince of Wales Island in southeast Alaska. Blackwolf is dedicated to responsible exploration and development, leveraging its experienced management team and technical expertise to unlock value from its high-grade mineral properties in premier North American mining jurisdictions.",
+  "metals_and_minerals": [
+    "Copper",
+    "Gold",
+    "Zinc"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

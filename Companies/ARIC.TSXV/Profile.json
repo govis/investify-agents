@@ -1,8 +1,19 @@
 {
-  "name": "Awal\u00e9 Resources Ltd.",
+  "name": "Awalé Resources Ltd.",
+  "name_former": null,
+  "name_clean": "Awale Resources",
   "ticker": "ARIC",
   "exchange": "TSXV",
   "website": "https://awaleresources.com",
+  "logo_url": "https://awaleresources.com/wp-content/uploads/2021/03/Awale-Resources-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Awalé Resources Ltd. is a mineral exploration company focused on the discovery of large-scale gold and copper-gold deposits in Côte d'Ivoire. The company's flagship project is the Odienné Project, located in the northwest of the country, which is being explored in joint venture with Newmont. Awalé is committed to systematic exploration and sustainable development, leveraging its experienced management team and strong local relationships to unlock the mineral potential of underexplored greenstone belts.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "CSL Limited",
+  "name_former": "Commonwealth Serum Laboratories",
+  "name_clean": "CSL",
   "ticker": "CSL",
   "exchange": "ASX",
   "website": "https://www.csl.com",
+  "logo_url": "https://www.csl.com/-/media/csl/images/logo/csl-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "CSL Limited is a global biotechnology company that develops and delivers innovative biotherapies and influenza vaccines that save lives, help people with life-threatening medical conditions, and protect public health. The company operates through two main businesses: CSL Behring, a leader in providing life-saving plasma-derived and recombinant therapies, and CSL Seqirus, one of the largest influenza vaccine providers in the world. Headquartered in Melbourne, Australia, CSL is committed to research and development, delivering high-quality therapies to patients in more than 100 countries.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,20 @@
 {
-  "name": "Copper Road Resources, Inc.",
+  "name": "Copper Road Resources Inc.",
+  "name_former": "Stone Gold Resources Inc.",
+  "name_clean": "Copper Road Resources",
   "ticker": "CRD",
   "exchange": "TSXV",
   "website": "https://copperroad.ca/",
+  "logo_url": "https://copperroad.ca/wp-content/uploads/2022/06/Copper-Road-Resources-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Copper Road Resources Inc. is a Canadian mineral exploration company focused on the acquisition, exploration, and development of high-potential copper, gold, silver, and molybdenum properties in Canada. The company's flagship project is the Copper Road Project, which covers a large, contiguous land package in the Batchewana Bay area of Ontario, Canada, a region known for its historical copper production and significant exploration potential.",
+  "metals_and_minerals": [
+    "Copper",
+    "Gold",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

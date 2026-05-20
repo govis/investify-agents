@@ -1,8 +1,18 @@
 {
   "name": "Gunnison Copper Corp.",
+  "name_former": "Excelsior Mining Corp.",
+  "name_clean": "Gunnison Copper",
   "ticker": "GCU",
   "exchange": "TSXV",
   "website": "https://www.gunnisoncopper.com",
+  "logo_url": "https://www.gunnisoncopper.com/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Gunnison Copper Corp., formerly known as Excelsior Mining Corp., is a mineral exploration and development company focused on copper production. The company's flagship project is the Gunnison Copper Project, located in Cochise County, Arizona, which is designed as a low-cost, environmentally friendly in-situ recovery copper extraction operation. Gunnison Copper Corp. is committed to producing copper with a low carbon footprint to support the global transition to clean energy.",
+  "metals_and_minerals": [
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

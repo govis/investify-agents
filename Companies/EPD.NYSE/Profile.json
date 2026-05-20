@@ -1,8 +1,16 @@
 {
   "name": "Enterprise Products Partners L.P.",
+  "name_former": null,
+  "name_clean": "Enterprise Products Partners",
   "ticker": "EPD",
   "exchange": "NYSE",
   "website": "https://www.enterpriseproducts.com/",
+  "logo_url": "https://www.enterpriseproducts.com/images/default-source/default-album/enterprise-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Enterprise Products Partners L.P. is one of the largest publicly traded partnerships and a leading North American provider of midstream energy services to producers and consumers of natural gas, natural gas liquids (NGLs), crude oil, refined products, and petrochemicals. The company's extensive asset network includes pipelines, storage facilities, fractionators, and export terminals, connecting key producing basins in the United States and Gulf Coast to domestic and international markets.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

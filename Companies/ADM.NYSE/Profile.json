@@ -1,8 +1,16 @@
 {
   "name": "Archer-Daniels-Midland Company",
+  "name_former": "Daniels Linseed Co.",
+  "name_clean": "Archer Daniels Midland",
   "ticker": "ADM",
   "exchange": "NYSE",
   "website": "https://www.adm.com",
+  "logo_url": "https://www.adm.com/content/dam/adm/global/global-assets/logos/adm-logo-green.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Archer-Daniels-Midland Company (ADM) is a premier global human and animal nutrition company and one of the world's largest agricultural processors and food ingredient providers. Headquartered in Chicago, Illinois, ADM connects crops to markets on six continents, processing oilseeds, corn, wheat, and other agricultural commodities into products for food, animal feed, industrial, and energy uses. The company operates an extensive global transportation network and is a pioneer in sustainable nutrition and bio-based alternatives.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

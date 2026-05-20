@@ -1,8 +1,16 @@
 {
   "name": "Duke Realty Corporation",
+  "name_former": null,
+  "name_clean": "Duke Realty",
   "ticker": "DRE",
   "exchange": "NYSE",
   "website": "https://www.prologis.com",
+  "logo_url": "https://www.prologis.com/sites/corporate/files/images/prologis-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Duke Realty Corporation was a leading owner, developer, and manager of industrial properties, specializing in modern bulk distribution warehouses. Operating as a real estate investment trust (REIT), the company owned and operated logistics properties across major logistics markets in the United States. In October 2022, Duke Realty Corporation was acquired by Prologis, Inc. in an all-stock transaction valued at approximately $23 billion, integrating its high-quality portfolio into Prologis's global logistics platform.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

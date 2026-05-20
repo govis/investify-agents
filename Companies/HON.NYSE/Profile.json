@@ -1,8 +1,16 @@
 {
   "name": "Honeywell International Inc.",
+  "name_former": "AlliedSignal Inc.",
+  "name_clean": "Honeywell",
   "ticker": "HON",
   "exchange": "NYSE",
   "website": "honeywell.com",
+  "logo_url": "https://www.honeywell.com/content/dam/honeywellbt/en/images/logo/honeywell-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Honeywell International Inc. operates as a diversified technology and manufacturing company worldwide. The company operates through four segments: Aerospace, Honeywell Building Technologies, Performance Materials and Technologies, and Safety and Productivity Solutions. It provides aerospace products and services, control technologies for buildings and industry, turbochargers, specialty chemicals, electronic and advanced materials, process technology for refining and petrochemicals, and productivity, sensing, safety, and security technologies.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

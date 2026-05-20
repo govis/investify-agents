@@ -1,8 +1,16 @@
 {
   "name": "TechnipFMC plc",
+  "name_former": "FMC Technologies, Inc.",
+  "name_clean": "TechnipFMC",
   "ticker": "FTI",
   "exchange": "NYSE",
   "website": "https://www.technipfmc.com",
+  "logo_url": "https://www.technipfmc.com/images/technipfmc-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United Kingdom",
+  "description": "TechnipFMC plc is a leading technology provider to the traditional and new energy industries, delivering fully integrated projects, products, and services. The company operates in two main segments: Subsea and Surface Technologies. It designs, manufactures, and services technologically sophisticated systems and products, such as subsea production and processing systems, subsea umbilical, riser, and flowline systems, and surface wellhead systems, helping clients maximize energy recovery and reduce carbon intensity.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

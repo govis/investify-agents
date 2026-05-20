@@ -1,8 +1,18 @@
 {
   "name": "Colossus Resources Corp.",
+  "name_former": null,
+  "name_clean": "Colossus Resources",
   "ticker": "CLUS",
   "exchange": "TSXV",
   "website": "https://colossusresources.com/",
+  "logo_url": "https://colossusresources.com/wp-content/uploads/2023/10/Colossus-Resources-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Colossus Resources Corp. is a Canada-based junior mineral exploration company focused on the acquisition, exploration, and development of mineral properties. The company is primarily engaged in exploring for copper and other base and precious metals, with key projects including the Calvario and Mirador copper projects located in Chile.",
+  "metals_and_minerals": [
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

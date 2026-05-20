@@ -1,8 +1,16 @@
 {
   "name": "Fitbit, Inc.",
+  "name_former": "Healthy Metrics Research, Inc.",
+  "name_clean": "Fitbit",
   "ticker": "FIT",
   "exchange": "NYSE",
   "website": "https://www.fitbit.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fitbit_logo.svg/2560px-Fitbit_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Fitbit, Inc. is an American consumer electronics and fitness company that designs, develops, and markets wireless-enabled wearable technology devices, physical activity trackers, and smartwatches. Its products measure personal data such as heart rate, steps walked, sleep quality, and other personal metrics involved in fitness. Headquartered in San Francisco, California, Fitbit was acquired by Google in January 2021 and continues to operate as a key brand within Google's hardware portfolio.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

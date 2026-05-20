@@ -1,8 +1,16 @@
 {
-  "name": "Kaminak Gold Corp.",
+  "name": "Kaminak Gold Corporation",
+  "name_former": null,
+  "name_clean": "Kaminak Gold",
   "ticker": "KAM",
   "exchange": "TSXV",
   "website": "https://www.kaminak.com",
+  "logo_url": "https://www.kaminak.com/i/logos/kaminak_logo.png",
+  "country_of_domicile": "Canada",
+  "description": "Kaminak Gold Corporation was a Canadian-based mineral exploration company primarily focused on the acquisition and development of gold projects in the Yukon Territory. The company's flagship asset was the Coffee Gold project, a high-grade, open-pit, heap-leach gold deposit. Kaminak was recognized for its successful exploration and development efforts in the White Gold District before being acquired by Goldcorp Inc. in 2016 for approximately C$520 million, marking a significant consolidation in the Canadian gold mining sector.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

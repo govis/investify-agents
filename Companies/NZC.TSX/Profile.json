@@ -1,8 +1,11 @@
 {
   "name": "NorZinc Ltd.",
+  "name_former": "Canadian Zinc Corporation",
+  "name_clean": "NorZinc",
   "ticker": "NZC",
   "exchange": "TSX",
-  "website": "https://norzinc.com/",
-  "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "website": "https://norzinc.com",
+  "logo_url": "https://norzinc.com/wp-content/uploads/2018/09/NorZinc-Logo-RGB.png",
+  "country_of_domicile": "Canada",
+  "description": "NorZinc Ltd. is a Canadian-based exploration and development mining company focused on the development of its key asset, the 100%-owned Prairie Creek Project, a high-grade zinc-lead-silver property located in the Northwest Territories, Canada. The company aims to become a clean, safe, and sustainable producer of high-grade zinc, lead, and silver concentrates, working closely with local Indigenous communities and maintaining high environmental standards."
 }

@@ -1,8 +1,20 @@
 {
-  "name": "Ausdrill Limited",
+  "name": "Perenti Limited",
+  "name_former": "Ausdrill Limited",
+  "name_clean": "Perenti",
   "ticker": "ASL",
   "exchange": "ASX",
   "website": "perenti.com",
+  "logo_url": "https://perenti.com/wp-content/uploads/2020/09/Perenti_Logo_RGB.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Perenti Limited, formerly Ausdrill Limited, is an Australia-based diversified global mining services group. The company provides surface and underground mining services, exploration drilling, drill and blast, grade control, and logistics services to the mining sector. Operating across multiple continents including Australia, Africa, and North America, Perenti delivers specialized contract mining, exploration, and support services to major mining companies globally.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper",
+    "Nickel"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

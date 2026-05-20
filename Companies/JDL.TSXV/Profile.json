@@ -1,8 +1,16 @@
 {
-  "name": "Lowell Copper Inc.",
+  "name": "Lowell Copper Ltd.",
+  "name_former": "N/A",
+  "name_clean": "Lowell Copper",
   "ticker": "JDL",
   "exchange": "TSXV",
   "website": "https://www.lowellcopper.com",
+  "logo_url": "https://www.equinoxgold.com/wp-content/uploads/2018/05/logo.png",
+  "country_of_domicile": "Canada",
+  "description": "Lowell Copper Ltd. is a Canadian-based mineral exploration and development company focused on the acquisition and advancement of copper projects. Founded to leverage market conditions, the company aimed to build a portfolio of economic copper assets through a combination of exploration, mergers, and acquisitions. Led by industry veteran J. David Lowell, the company utilized extensive geological expertise to identify and develop high-potential copper properties, primarily operating within the Americas. The company was listed on the TSX Venture Exchange under the ticker symbol JDL.",
+  "metals_and_minerals": [
+    "Copper"
+  ],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

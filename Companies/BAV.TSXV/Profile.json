@@ -1,8 +1,19 @@
 {
   "name": "Bayfield Ventures Corp.",
+  "name_former": null,
+  "name_clean": "Bayfield Ventures",
   "ticker": "BAV",
   "exchange": "TSXV",
   "website": null,
+  "logo_url": "http://www.bayfieldventures.com/themes/bayfield/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Bayfield Ventures Corp. is a Canada-based junior exploration company engaged in the acquisition, exploration, and development of mineral properties. The company primarily focuses on gold and silver exploration, with its key projects located in the Rainy River gold district of northwestern Ontario, Canada. Bayfield was acquired by New Gold Inc. in 2014.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

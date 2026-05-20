@@ -1,8 +1,16 @@
 {
   "name": "Fusion-io, Inc.",
+  "name_former": null,
+  "name_clean": "Fusion-io",
   "ticker": "FIO",
   "exchange": "NYSE",
   "website": null,
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Fusion-io_logo.svg/512px-Fusion-io_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Fusion-io, Inc. designs and delivers hardware and software solutions that improve the performance and efficiency of data centers. The company's primary products are solid-state storage technology devices, such as PCIe-based flash memory cards, which are designed to accelerate databases, virtualization, cloud computing, and big data applications. Founded in 2005 and headquartered in Salt Lake City, Utah, Fusion-io was acquired by SanDisk Corporation in 2014.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

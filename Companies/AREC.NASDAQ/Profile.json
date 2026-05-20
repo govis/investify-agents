@@ -1,8 +1,20 @@
 {
   "name": "American Resources Corporation",
+  "name_former": "Quest Energy Partners, L.P.",
+  "name_clean": "American Resources",
   "ticker": "AREC",
   "exchange": "NASDAQ",
   "website": "https://americanresourcescorp.com",
+  "logo_url": "https://americanresourcescorp.com/wp-content/uploads/2021/03/arc-logo-new.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "American Resources Corporation is a supplier of high-quality raw materials to the rapidly growing global infrastructure market. The company focused on the extraction and processing of metallurgical coal, an essential ingredient in steelmaking, as well as critical and rare earth minerals through its subsidiary, ReElement Technologies. American Resources Corporation operates a portfolio of assets in the Central Appalachian basin of the United States, leveraging low-cost, highly efficient operations to supply critical resources for modern infrastructure and the clean energy transition.",
+  "metals_and_minerals": [
+    "Coal",
+    "Rare Earth Elements",
+    "Lithium"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

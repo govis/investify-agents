@@ -1,8 +1,16 @@
 {
   "name": "Blackstone Inc.",
+  "name_former": "Blackstone Group Inc.",
+  "name_clean": "Blackstone",
   "ticker": "BX",
   "exchange": "NYSE",
   "website": "https://www.blackstone.com/",
+  "logo_url": "https://www.blackstone.com/wp-content/themes/blackstone/assets/images/blackstone-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Blackstone Inc. is one of the world's leading investment firms, specializing in private equity, real estate, hedge fund solutions, and credit and insurance. The firm seeks to deliver capital growth and long-term value for its investors, which include public pension funds, academic institutions, and philanthropic organizations. Headquartered in New York, Blackstone manages hundreds of billions of dollars in assets across diverse sectors globally.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

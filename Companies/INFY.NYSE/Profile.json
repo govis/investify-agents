@@ -1,8 +1,16 @@
 {
   "name": "Infosys Limited",
+  "name_former": "Infosys Technologies Limited",
+  "name_clean": "Infosys",
   "ticker": "INFY",
   "exchange": "NYSE",
   "website": "infosys.com",
+  "logo_url": "https://www.infosys.com/content/dam/infosys-web/en/global-resource/images/infosys-logo-png.png",
+  "logo_local": null,
+  "country_of_domicile": "India",
+  "description": "Infosys Limited is a global leader in next-generation digital services and consulting. The company enables clients in more than 56 countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of global enterprises, Infosys expertly steers clients through their digital journey by enabling them with an AI-powered core, empowering the business with agile digital at scale, and driving continuous improvement through always-on learning.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

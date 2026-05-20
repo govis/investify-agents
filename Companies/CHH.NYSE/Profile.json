@@ -1,8 +1,16 @@
 {
   "name": "Choice Hotels International, Inc.",
+  "name_former": "Quality Inns International, Inc.",
+  "name_clean": "Choice Hotels International",
   "ticker": "CHH",
   "exchange": "NYSE",
   "website": "https://www.choicehotels.com",
+  "logo_url": "https://choicehotels.com/images/choice-hotels-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Choice Hotels International, Inc. is one of the largest lodging franchisors in the world. The company franchises more than 7,000 hotels, representing nearly 570,000 rooms, in over 40 countries and territories. Choice Hotels' brand portfolio includes Comfort Inn, Comfort Suites, Quality, Clarion, Cambria Hotels, MainStay Suites, Suburban Extended Stay Hotel, Econo Lodge, Rodeway Inn, and WoodSpring Suites, among others, serving business and leisure travelers worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

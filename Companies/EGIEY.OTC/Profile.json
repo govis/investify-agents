@@ -1,8 +1,16 @@
 {
   "name": "Engie Brasil Energia S.A.",
+  "name_former": "Tractebel Energia S.A.",
+  "name_clean": "Engie Brasil Energia",
   "ticker": "EGIEY",
   "exchange": "OTC",
   "website": "https://www.engie.com.br/",
+  "logo_url": "https://www.engie.com.br/uploads/2020/06/logo-engie.png",
+  "logo_local": null,
+  "country_of_domicile": "Brazil",
+  "description": "Engie Brasil Energia S.A. is the largest private power producer in Brazil. The company operates in the generation, commercialization, and transmission of electrical energy, as well as in the transport of natural gas. With a diversified generation portfolio consisting primarily of renewable sources such as hydroelectric, wind, solar, and biomass power plants, Engie Brasil is a key player in the country's energy transition, providing sustainable energy solutions to a wide range of industrial, commercial, and utility customers.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,18 @@
 {
   "name": "Kutcho Copper Corp.",
+  "name_former": "Desert Star Resources Ltd.",
+  "name_clean": "Kutcho Copper",
   "ticker": "KC",
   "exchange": "TSXV",
   "website": "https://kutcho.ca/",
+  "logo_url": "https://kutcho.ca/wp-content/uploads/2021/05/Kutcho-Copper-Logo-Final-01.png",
+  "country_of_domicile": "Canada",
+  "description": "Kutcho Copper Corp. is a Canadian resource development company focused on the acquisition, exploration, and development of high-grade copper-zinc projects. The company's primary asset is the Kutcho Project, a feasibility-stage, high-grade copper-zinc-gold-silver development project located in northern British Columbia. Kutcho Copper is committed to advancing this project through sustainable development practices, aiming to provide significant value to stakeholders while contributing to the global supply of essential metals required for the transition to a low-carbon economy.",
+  "metals_and_minerals": [
+    "Copper",
+    "Zinc",
+    "Gold"
+  ],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

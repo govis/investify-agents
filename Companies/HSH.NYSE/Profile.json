@@ -1,8 +1,16 @@
 {
-  "name": "The Hillshire Brands Company (formerly Sara Lee)",
+  "name": "The Hillshire Brands Company",
+  "name_former": "Sara Lee Corporation",
+  "name_clean": "Hillshire Brands",
   "ticker": "HSH",
   "exchange": "NYSE",
   "website": "N/A",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Hillshire_Brands_logo.svg/1200px-Hillshire_Brands_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "The Hillshire Brands Company was a leading manufacturer and marketer of high-quality, branded food products, primarily focused on meats and bakery items. Formerly known as Sara Lee Corporation, the company spun off its international coffee and tea business in 2012 and rebranded as Hillshire Brands. Its portfolio included iconic brands such as Jimmy Dean, Hillshire Farm, Ball Park, State Fair, and Sara Lee. In 2014, Hillshire Brands was acquired by Tyson Foods, Inc., integrating its popular prepared foods brands into Tyson's extensive portfolio.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

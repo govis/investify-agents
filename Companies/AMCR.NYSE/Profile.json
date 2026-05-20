@@ -1,8 +1,16 @@
 {
   "name": "Amcor plc",
+  "name_former": "Amcor Limited",
+  "name_clean": "Amcor",
   "ticker": "AMCR",
   "exchange": "NYSE",
   "website": "www.amcor.com",
+  "logo_url": "https://www.amcor.com/themes/custom/amcor/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Jersey",
+  "description": "Amcor plc is a global leader in developing and producing responsible packaging for food, beverage, pharmaceutical, medical, home and personal-care, and other products. Headquartered in Zurich, Switzerland, and incorporated in Jersey, the company works with leading companies around the world to protect their products and the people who rely on them, differentiate brands, and improve supply chains through a range of flexible and rigid packaging, specialty cartons, closures, and services.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

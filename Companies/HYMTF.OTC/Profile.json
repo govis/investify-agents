@@ -1,8 +1,16 @@
 {
   "name": "Hyundai Motor Company",
+  "name_former": null,
+  "name_clean": "Hyundai Motor Company",
   "ticker": "HYMTF",
   "exchange": "OTC",
   "website": "https://www.hyundai.com",
+  "logo_url": "https://www.hyundai.com/static/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "South Korea",
+  "description": "Hyundai Motor Company is a South Korean multinational automotive manufacturer headquartered in Seoul, South Korea. Founded in 1967, the company, along with its 32.8% owned subsidiary, Kia Corporation, and its 100% owned luxury subsidiary, Genesis Motor, altogether comprise the Hyundai Motor Group. Hyundai operates the world's largest integrated motor vehicle manufacturing facility in Ulsan, South Korea, and sells vehicles in over 200 countries through thousands of dealerships and showrooms worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

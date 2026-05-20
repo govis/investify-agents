@@ -1,8 +1,16 @@
 {
   "name": "Burlington Stores, Inc.",
+  "name_former": "Burlington Coat Factory Warehouse Corporation",
+  "name_clean": "Burlington Stores",
   "ticker": "BURL",
   "exchange": "NYSE",
   "website": "https://www.burlingtonstores.com",
+  "logo_url": "https://www.burlingtonstores.com/images/default-source/logos/burlington-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Burlington Stores, Inc. is a nationally recognized off-price retailer operating retail stores across the United States. The company offers an extensive selection of in-season, fashion-focused merchandise, including ladies’ ready-to-wear apparel, menswear, youth apparel, footwear, accessories, home goods, and coats. Operating under the brand name Burlington, the retailer focuses on providing high-quality, brand-name merchandise at significant discounts compared to traditional department stores, utilizing a flexible and opportunistic purchasing model.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

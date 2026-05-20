@@ -1,8 +1,16 @@
 {
   "name": "Kapa Gold Inc.",
+  "name_former": null,
+  "name_clean": "Kapa Gold",
   "ticker": "KAPA",
   "exchange": "TSXV",
   "website": "https://kapagold.com/",
+  "logo_url": "https://kapagold.com/wp-content/uploads/2022/05/Kapa-Gold-Logo-1.png",
+  "country_of_domicile": "Canada",
+  "description": "Kapa Gold Inc. is a Canadian-based mineral exploration company focused on the acquisition and development of gold properties. The company is primarily engaged in exploring its historic, 100% owned, past-producing Blackhawk Gold Mine and surrounding areas located in San Bernardino County, California. Its exploration strategy involves conducting project-wide surveys to identify mineralization sources and re-entering underground workings to evaluate historic mineral deposits, aiming to unlock the economic potential of the region.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

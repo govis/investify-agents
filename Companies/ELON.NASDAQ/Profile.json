@@ -1,8 +1,16 @@
 {
   "name": "Echelon Corporation",
+  "name_former": null,
+  "name_clean": "Echelon",
   "ticker": "ELON",
   "exchange": "NASDAQ",
   "website": "echelon.com",
+  "logo_url": "https://www.echelon.com/assets/images/echelon-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Echelon Corporation is a pioneer in developing open-standard control networking platforms, delivering solutions that enable devices to connect, monitor, and control various applications. The company's LonWorks platform and industrial Internet of Things (IIoT) technologies are widely used in building automation, smart cities, lighting, and transportation systems worldwide, helping organizations improve operational efficiency and reduce energy consumption.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

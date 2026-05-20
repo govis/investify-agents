@@ -1,8 +1,20 @@
 {
   "name": "Australian Rare Earths Limited",
+  "name_former": "Australian Rare Earths Pty Ltd",
+  "name_clean": "Australian Rare Earths",
   "ticker": "AR3",
   "exchange": "ASX",
   "website": "ar3.com.au",
+  "logo_url": "https://ar3.com.au/wp-content/uploads/2021/05/AR3_Logo_RGB.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Australian Rare Earths Limited is an Australian-based mineral exploration company focused on the identification, assessment, and development of rare earth element deposits. The company's flagship project is the Koppamurra Project, located in South Australia and Victoria, which is a premier ionic clay-hosted rare earth element deposit. Australian Rare Earths is committed to developing a sustainable, independent source of critical rare earth elements, particularly neodymuim, praseodymium, dysprosium, and terbium, which are essential for the global transition to clean energy and advanced technologies.",
+  "metals_and_minerals": [
+    "Rare Earth Elements",
+    "Neodymium",
+    "Praseodymium"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

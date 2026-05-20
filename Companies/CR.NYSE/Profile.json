@@ -1,8 +1,16 @@
 {
-  "name": "Crane Co.",
+  "name": "Crane Company",
+  "name_former": "Crane Co.",
+  "name_clean": "Crane",
   "ticker": "CR",
   "exchange": "NYSE",
   "website": "craneco.com",
+  "logo_url": "https://www.craneco.com/images/crane-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Crane Company is a diversified manufacturer of highly engineered industrial products. The company operates through segments including Aerospace & Electronics, Process Flow Technologies, and Engineered Materials. Crane Company serves customers in the aerospace, defense, chemical, pharmaceutical, oil and gas, power, and commercial construction markets worldwide, providing critical components and systems designed to perform in demanding environments.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

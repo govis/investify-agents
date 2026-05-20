@@ -1,8 +1,16 @@
 {
   "name": "The DIRECTV Group, Inc.",
+  "name_former": "Hughes Electronics Corp.",
+  "name_clean": "DIRECTV Group",
   "ticker": "DTV",
   "exchange": "NASDAQ",
   "website": "https://www.directv.com",
+  "logo_url": "https://www.directv.com/dtv-assets/images/logos/directv-logo-blue.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "The DIRECTV Group, Inc. is a leading provider of digital television entertainment services in the United States and Latin America. Through its subsidiaries, the company transmits digital satellite television, audio, and multi-channel video programming to residential and commercial subscribers. DIRECTV offers a wide array of sports, news, movies, and general entertainment programming, utilizing advanced satellite technology to deliver high-definition broadcasts and interactive services to millions of customers.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

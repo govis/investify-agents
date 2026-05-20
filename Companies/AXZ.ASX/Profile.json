@@ -1,8 +1,19 @@
 {
   "name": "Amex Resources Ltd.",
+  "name_former": null,
+  "name_clean": "Amex Resources",
   "ticker": "AXZ",
   "exchange": "ASX",
   "website": "https://www.businessnews.com.au/Company/Amex-Resources",
+  "logo_url": "https://www.businessnews.com.au/sites/default/files/styles/company_logo/public/amex_resources_logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Amex Resources Ltd. is an Australia-based mineral exploration company focused on the discovery and development of iron ore and gold deposits. The company's flagship project is the Mba Delta Ironsand Project in Fiji, which involves the extraction and processing of magnetite-rich sand to produce a high-quality iron concentrate. Amex Resources is committed to advancing its mineral assets towards production while maintaining high environmental and community standards.",
+  "metals_and_minerals": [
+    "Iron Ore",
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

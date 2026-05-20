@@ -1,8 +1,19 @@
 {
   "name": "Ely Gold Royalties Inc.",
+  "name_former": "Ely Gold & Minerals Inc.",
+  "name_clean": "Ely Gold Royalties",
   "ticker": "ELY",
   "exchange": "TSXV",
   "website": "https://elygoldinc.com/",
+  "logo_url": "https://elygoldinc.com/assets/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Ely Gold Royalties Inc. is a Vancouver-based royalty company focused on gold and silver properties in the Western United States, primarily in Nevada. The company operates a business model focused on acquiring and generating precious metals royalties, providing investors with low-risk leverage to gold and silver prices. Ely Gold's portfolio includes producing royalties, development-stage assets, and exploration properties, which are managed by major and mid-tier operators.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,17 @@
 {
-  "name": "Katanga Mining Ltd.",
+  "name": "Katanga Mining Limited",
+  "name_former": null,
+  "name_clean": "Katanga Mining",
   "ticker": "KAT",
   "exchange": "TSX",
   "website": "https://www.katangamining.com/",
+  "logo_url": "https://www.glencore.com/assets/images/logo.svg",
+  "country_of_domicile": "Switzerland",
+  "description": "Katanga Mining Limited was a mining company that operated the Kamoto Copper Company (KCC) in the Democratic Republic of the Congo. The company focused on the production of copper and cobalt through its open-pit and underground mining operations, as well as its processing facilities. In 2020, Katanga Mining completed an amalgamation transaction with Glencore, effectively becoming a subsidiary within the Glencore group, which continues to operate the KCC assets today.",
+  "metals_and_minerals": [
+    "Copper",
+    "Cobalt"
+  ],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

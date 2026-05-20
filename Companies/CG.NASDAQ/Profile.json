@@ -1,8 +1,16 @@
 {
   "name": "The Carlyle Group Inc.",
+  "name_former": "Carlyle Group L.P.",
+  "name_clean": "The Carlyle Group",
   "ticker": "CG",
   "exchange": "NASDAQ",
   "website": "https://www.carlyle.com",
+  "logo_url": "https://www.carlyle.com/sites/default/files/carlyle-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "The Carlyle Group Inc. is a global investment firm with deep industry expertise that deploys private capital across three business segments: Global Private Equity, Global Credit, and Global Investment Solutions. With hundreds of billions of dollars in assets under management, Carlyle partners with portfolio companies to drive growth and value creation, serving institutional and individual investors worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

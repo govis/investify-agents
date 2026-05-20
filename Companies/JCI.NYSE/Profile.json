@@ -1,8 +1,14 @@
 {
   "name": "Johnson Controls International plc",
+  "name_former": "Johnson Controls, Inc.",
+  "name_clean": "Johnson Controls",
   "ticker": "JCI",
   "exchange": "NYSE",
   "website": "https://www.johnsoncontrols.com",
+  "logo_url": "https://www.johnsoncontrols.com/-/media/jci/be/global/logo/jci-logo-og.png",
+  "country_of_domicile": "Ireland",
+  "description": "Johnson Controls International plc is a global leader in smart, healthy, and sustainable building technologies. The company specializes in engineering, manufacturing, and retrofitting building products and systems, including HVAC equipment, industrial refrigeration, fire suppression, and security systems. Operating across the Americas, Europe, the Middle East, Africa, and the Asia-Pacific, Johnson Controls provides integrated solutions that optimize building performance, enhance occupant comfort, and improve energy efficiency for a wide range of commercial and industrial customers worldwide.",
+  "metals_and_minerals": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

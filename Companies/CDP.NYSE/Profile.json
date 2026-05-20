@@ -1,8 +1,16 @@
 {
   "name": "COPT Defense Properties",
+  "name_former": "Corporate Office Properties Trust",
+  "name_clean": "COPT Defense Properties",
   "ticker": "CDP",
   "exchange": "NYSE",
   "website": "https://www.copt.com",
+  "logo_url": "https://www.copt.com/images/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "COPT Defense Properties (NYSE: CDP) is a real estate investment trust (REIT) that owns, manages, leases, develops, and selectively acquires office and data center properties. The company focuses primarily on properties that serve the U.S. Government and its defense contractors, particularly those engaged in national security, defense, and information technology missions. COPT Defense Properties' portfolio is concentrated in submarkets adjacent to key defense installations and intelligence community centers.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

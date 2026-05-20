@@ -1,8 +1,16 @@
 {
   "name": "Diageo plc",
+  "name_former": "Grand Metropolitan plc",
+  "name_clean": "Diageo",
   "ticker": "DEO",
   "exchange": "NYSE",
   "website": "diageo.com",
+  "logo_url": "https://www.diageo.com/static/images/diageo-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United Kingdom",
+  "description": "Diageo plc is a leading multinational alcoholic beverage company headquartered in London, England. It operates in over 180 countries and produces from more than 140 sites around the world. The company's outstanding portfolio includes iconic brands such as Johnnie Walker, Guinness, Smirnoff, Baileys, Captain Morgan, Tanqueray, and Don Julio. Diageo is committed to celebrating life, every day, everywhere, through its premium spirits, beer, and wine brands, while promoting responsible drinking and sustainable practices across its global operations.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

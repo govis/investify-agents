@@ -1,8 +1,16 @@
 {
   "name": "C3.ai, Inc.",
+  "name_former": "C3 IoT, Inc.",
+  "name_clean": "C3 ai",
   "ticker": "AI",
   "exchange": "NYSE",
   "website": "https://c3.ai",
+  "logo_url": "https://c3.ai/wp-content/uploads/2020/11/c3ai-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "C3.ai, Inc. operates as an enterprise artificial intelligence (AI) software company. The company provides the C3 AI Application Platform, a software-as-a-service application development and runtime environment that enables customers to design, develop, and deploy enterprise AI applications. It also offers C3 AI Applications, a portfolio of industry-specific, turnkey enterprise AI applications, as well as C3 AI Generative AI, which enables users to locate, retrieve, and present information from enterprise data stores. The company serves various industries, including oil and gas, chemicals, utilities, manufacturing, financial services, defense, intelligence, aerospace, healthcare, and telecommunications.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

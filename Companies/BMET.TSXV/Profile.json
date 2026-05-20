@@ -1,8 +1,19 @@
 {
   "name": "BeMetals Corp.",
+  "name_former": null,
+  "name_clean": "BeMetals",
   "ticker": "BMET",
   "exchange": "TSXV",
   "website": "https://bemetalscorp.com/",
+  "logo_url": "https://bemetalscorp.com/site/templates/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "BeMetals Corp. is a precious and base metals exploration and development company. The company is focused on advancing its portfolio of gold projects in Japan, including the Kato Gold Project, and its copper exploration projects in Zambia, such as the Pangeni Copper Project. Led by an experienced management team and board with a track record of discovering and developing world-class mines, BeMetals aims to identify and acquire high-potential mineral projects globally to deliver significant shareholder value.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

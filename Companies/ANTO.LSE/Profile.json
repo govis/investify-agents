@@ -1,8 +1,20 @@
 {
   "name": "Antofagasta PLC",
+  "name_former": null,
+  "name_clean": "Antofagasta",
   "ticker": "ANTO",
   "exchange": "LSE",
   "website": "https://www.antofagasta.co.uk/",
+  "logo_url": "https://www.antofagasta.co.uk/assets/images/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United Kingdom",
+  "description": "Antofagasta PLC is a Chile-focused copper mining group with significant interests in transport. The company operates four copper mines in Chile: Los Pelambres, Centinela, Antucoya, and Zaldívar. In addition to copper, Antofagasta produces important by-products such as molybdenum and gold. The group also operates a transport division, providing rail and road cargo services in Chile's Antofagasta Region. Headquartered in London, United Kingdom, Antofagasta is one of the world's major copper producers and is listed on the London Stock Exchange.",
+  "metals_and_minerals": [
+    "Copper",
+    "Gold",
+    "Molybdenum"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

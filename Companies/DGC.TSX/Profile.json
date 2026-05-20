@@ -1,8 +1,18 @@
 {
   "name": "Detour Gold Corporation",
+  "name_former": null,
+  "name_clean": "Detour Gold",
   "ticker": "DGC",
   "exchange": "TSX",
   "website": null,
+  "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Detour_Gold_logo.svg/1200px-Detour_Gold_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Detour Gold Corporation was a Canadian gold mining company focused on the acquisition, exploration, development, and operation of mineral properties in Canada. Its primary asset was the Detour Lake mine, an open-pit gold operation located in northeastern Ontario, which is one of the largest gold producing mines in Canada. The company was acquired by Kirkland Lake Gold in January 2020, which subsequently merged with Agnico Eagle Mines Limited in 2022.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

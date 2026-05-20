@@ -1,8 +1,16 @@
 {
   "name": "Invesco Mortgage Capital Inc.",
+  "name_former": null,
+  "name_clean": "Invesco Mortgage Capital",
   "ticker": "IVR",
   "exchange": "NYSE",
   "website": "https://www.invescomortgagecapital.com",
+  "logo_url": "https://www.invescomortgagecapital.com/images/invesco-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Invesco Mortgage Capital Inc. is a real estate investment trust (REIT) that primarily focuses on investing in, financing, and managing residential and commercial mortgage-backed securities and other mortgage-related assets. The company's investment portfolio consists of agency mortgage-backed securities (MBS), non-agency MBS, and other real estate-related assets. It is externally managed and advised by Invesco Advisers, Inc., a subsidiary of Invesco Ltd., leveraging global investment capabilities to deliver competitive risk-adjusted returns to its shareholders.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

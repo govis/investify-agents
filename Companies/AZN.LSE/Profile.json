@@ -1,8 +1,16 @@
 {
   "name": "AstraZeneca PLC",
+  "name_former": "Astra AB and Zeneca Group PLC",
+  "name_clean": "AstraZeneca",
   "ticker": "AZN",
   "exchange": "LSE",
   "website": "https://www.astrazeneca.com",
+  "logo_url": "https://www.astrazeneca.com/etc.clientlibs/settings/wcm/designs/astrazeneca/images/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United Kingdom",
+  "description": "AstraZeneca PLC is a global, science-led biopharmaceutical company that focuses on the discovery, development, and commercialization of prescription medicines. The company primarily operates in therapeutic areas including Oncology, Rare Diseases, Cardiovascular, Renal & Metabolism, and Respiratory & Immunology. Headquartered in Cambridge, United Kingdom, AstraZeneca serves patients worldwide by translating science into life-changing medicines.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

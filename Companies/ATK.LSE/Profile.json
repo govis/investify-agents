@@ -1,8 +1,16 @@
 {
   "name": "WS Atkins plc",
+  "name_former": "WS Atkins & Partners",
+  "name_clean": "WS Atkins",
   "ticker": "ATK",
   "exchange": "LSE",
   "website": "https://www.atkinsrealis.com",
+  "logo_url": "https://www.atkinsrealis.com/images/atkinsrealis-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United Kingdom",
+  "description": "WS Atkins plc is a leading multinational engineering, design, planning, architectural design, project management, and consulting services corporation. Founded in 1938 by Sir William Atkins, the company has grown to become one of the world's most respected design, engineering, and project management consultancies. It serves clients across diverse sectors including transportation, infrastructure, energy, water, and defense. In 2017, WS Atkins was acquired by SNC-Lavalin, which subsequently rebranded the combined entity as AtkinsRéalis in 2023.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

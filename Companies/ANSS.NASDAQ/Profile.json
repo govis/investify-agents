@@ -1,8 +1,16 @@
 {
   "name": "ANSYS, Inc.",
+  "name_former": "Swanson Analysis Systems, Inc.",
+  "name_clean": "Ansys",
   "ticker": "ANSS",
   "exchange": "NASDAQ",
   "website": "https://www.ansys.com",
+  "logo_url": "https://www.ansys.com/content/dam/amp/brand/ansys-logo-black.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "ANSYS, Inc. is an American multinational company that develops and markets engineering simulation software. The company's software is used to design, analyze, and test products across various industries, including aerospace, automotive, defense, electronics, energy, materials and chemical processing, turbomachinery, and consumer products. Ansys simulation technology enables engineers to predict how product designs will behave in real-world environments, helping to optimize performance, reduce physical prototyping, and accelerate time-to-market.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

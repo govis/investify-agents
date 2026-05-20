@@ -1,8 +1,18 @@
 {
-  "name": "Hawkstone Mining Limited",
+  "name": "Arizona Lithium Limited",
+  "name_former": "Hawkstone Mining Limited",
+  "name_clean": "Arizona Lithium",
   "ticker": "HWK",
   "exchange": "ASX",
   "website": "https://arizonalithium.com",
+  "logo_url": "https://arizonalithium.com/wp-content/uploads/2021/11/Arizona-Lithium-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Arizona Lithium Limited, formerly Hawkstone Mining Limited, is an Australia-based mineral exploration and development company. The company is focused on the exploration and development of its flagship Big Sandy Lithium Project, located in Arizona, USA, and the Prairie Lithium Project in Saskatchewan, Canada. With a primary focus on lithium, the company aims to become a key supplier of high-grade lithium to the rapidly growing electric vehicle and battery storage markets.",
+  "metals_and_minerals": [
+    "Lithium"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

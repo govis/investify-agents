@@ -1,8 +1,20 @@
 {
   "name": "Iondrive Limited",
+  "name_former": "Southern Gold Limited",
+  "name_clean": "Iondrive",
   "ticker": "ION",
   "exchange": "ASX",
   "website": "iondrive.com.au",
+  "logo_url": "https://iondrive.com.au/wp-content/uploads/2023/11/Iondrive-Logo-RGB-1.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Iondrive Limited is an Australian mineral exploration and battery technology company. The company is focused on developing next-generation battery technologies, including solid-state lithium batteries, and holds a portfolio of critical mineral exploration projects in South Korea, primarily targeting lithium, gold, and silver.",
+  "metals_and_minerals": [
+    "Lithium",
+    "Gold",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

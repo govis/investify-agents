@@ -1,8 +1,16 @@
 {
   "name": "Enel Chile S.A.",
+  "name_former": "Enersis Chile S.A.",
+  "name_clean": "Enel Chile",
   "ticker": "ENELCHILE",
   "exchange": "NYSE",
   "website": "https://www.enel.cl/",
+  "logo_url": "https://www.enel.cl/content/dam/enel-cl/logo/enel-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Chile",
+  "description": "Enel Chile S.A., an electricity utility company, engages in the generation, transmission, and distribution of electricity in Chile. The company operates through Generation, Distribution, and Advanced Energy Services (Enel X) segments. It generates electricity from various sources, including hydroelectric, thermal, wind, solar, and geothermal power plants. Enel Chile S.A. is a subsidiary of Enel S.p.A. and is headquartered in Santiago, Chile.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

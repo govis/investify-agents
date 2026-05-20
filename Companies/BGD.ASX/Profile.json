@@ -1,8 +1,18 @@
 {
   "name": "Barton Gold Holdings Limited",
+  "name_former": null,
+  "name_clean": "Barton Gold",
   "ticker": "BGD",
   "exchange": "ASX",
   "website": "bartongold.com.au",
+  "logo_url": "https://bartongold.com.au/wp-content/uploads/2021/05/Barton-Gold-Logo-Gold-on-Dark-RGB-1.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Barton Gold Holdings Limited is an Australian gold exploration company with a pipeline of advanced exploration projects and brownfields infrastructure in the highly prospective Gawler Craton region of South Australia. The company's primary focus is on its Tarcoola and Tunkillia gold projects, where it aims to systematically explore and develop large-scale gold resources. Barton Gold also owns the only regional gold mill in the area, the Central Gawler Mill, providing a strategic processing advantage for its regional exploration success.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

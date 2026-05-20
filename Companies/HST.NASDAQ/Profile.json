@@ -1,8 +1,16 @@
 {
   "name": "Host Hotels & Resorts, Inc.",
+  "name_former": "Host Marriott Corporation",
+  "name_clean": "Host Hotels & Resorts",
   "ticker": "HST",
   "exchange": "NASDAQ",
   "website": "https://www.hosthotels.com",
+  "logo_url": "https://www.hosthotels.com/assets/images/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Host Hotels & Resorts, Inc. is an S&P 500 company and the largest lodging real estate investment trust (REIT) in the United States. The company primarily owns luxury and upper-upscale hotels in major United States markets, partnering with leading brands such as Marriott, Ritz-Carlton, Hyatt, Hilton, and Westin. Host Hotels & Resorts focuses on active asset management, strategic capital allocation, and maintaining a strong balance sheet to drive long-term value for its shareholders.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

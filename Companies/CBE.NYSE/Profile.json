@@ -1,8 +1,16 @@
 {
   "name": "Cooper Industries plc",
+  "name_former": null,
+  "name_clean": "Cooper Industries",
   "ticker": "CBE",
   "exchange": "NYSE",
   "website": "https://www.cooperindustries.com",
+  "logo_url": "https://www.cooperindustries.com/content/dam/cooper/corporate/images/cooper-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Ireland",
+  "description": "Cooper Industries plc is a diversified global manufacturer of electrical components and tools. Founded in 1833, the company operates in two business segments: Cooper Electrical Products and Cooper Tools. It provides electrical equipment, lighting fixtures, support systems, and circuit protection solutions for industrial, commercial, and residential markets worldwide. In 2012, Cooper Industries was acquired by Eaton Corporation, forming Eaton Corporation plc, which continues to integrate Cooper's extensive portfolio of electrical products.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

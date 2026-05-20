@@ -1,8 +1,19 @@
 {
   "name": "Commercial Metals Company",
+  "name_former": null,
+  "name_clean": "Commercial Metals Company",
   "ticker": "CMC",
   "exchange": "NYSE",
   "website": "https://www.cmc.com",
+  "logo_url": "https://www.cmc.com/getmedia/9099859f-0994-4786-9005-78069399990b/cmc-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Commercial Metals Company (CMC) is a global manufacturer, recycler, and fabricator of steel and metal products, as well as related materials and services. Operating primarily through a network of recycling facilities, steel mini-mills, micro-mills, and fabrication plants, the company provides critical reinforcement solutions for infrastructure, non-residential construction, and industrial applications. CMC is a pioneer in the sustainable steelmaking industry, utilizing electric arc furnace technology to produce high-quality steel from recycled scrap metal.",
+  "metals_and_minerals": [
+    "Steel",
+    "Iron"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

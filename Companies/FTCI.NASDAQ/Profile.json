@@ -1,8 +1,16 @@
 {
   "name": "FTC Solar, Inc.",
+  "name_former": null,
+  "name_clean": "FTC Solar",
   "ticker": "FTCI",
   "exchange": "NASDAQ",
   "website": "https://www.ftcsolar.com/",
+  "logo_url": "https://www.ftcsolar.com/wp-content/uploads/2021/03/FTC-Solar-Logo-H-Color-RGB.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "FTC Solar, Inc. is a global provider of solar tracker systems, technology, software, and engineering services. The company's innovative tracker designs, including its Voyager and Pioneer systems, are engineered to deliver high performance, reduce installation costs, and maximize energy production for utility-scale solar projects. FTC Solar serves developers, engineering, procurement, and construction (EPC) contractors, and solar asset owners worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

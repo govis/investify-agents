@@ -1,8 +1,18 @@
 {
   "name": "Gold Bull Resources Corp.",
+  "name_former": "QMX Gold Corporation",
+  "name_clean": "Gold Bull Resources",
   "ticker": "GBRC",
   "exchange": "TSXV",
   "website": "https://goldbull.ca",
+  "logo_url": "https://goldbull.ca/wp-content/uploads/2020/08/Gold-Bull-Logo-Header.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Gold Bull Resources Corp. is a Canadian junior gold exploration company focused on acquiring and developing gold projects in the United States. The company's flagship asset is the Sandman Gold Project, located in the mining-friendly jurisdiction of Nevada, which hosts an established gold resource. Gold Bull is committed to expanding its resource base through systematic exploration and drilling, leveraging an experienced management team with a track record of discovery and development in the resource sector.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

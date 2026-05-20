@@ -1,8 +1,16 @@
 {
-  "name": "E. I. du Pont de Nemours and Company (DuPont)",
+  "name": "E. I. du Pont de Nemours and Company",
+  "name_former": "DowDuPont Inc.",
+  "name_clean": "DuPont",
   "ticker": "DD",
   "exchange": "NYSE",
   "website": "https://www.dupont.com",
+  "logo_url": "https://www.dupont.com/content/dam/dupont/amer/us/en/corporate/images/logos/dupont-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "DuPont de Nemours, Inc., commonly known as DuPont, is an American multinational chemical company first founded in 1802 by French-American chemist and industrialist Éleuthère Irénée du Pont de Nemours. The company played a major role in the development of Delaware and first arose as a major supplier of gunpowder. Today, DuPont is a global innovation leader with technology-based materials and solutions that help transform industries and everyday life, providing essential innovations in markets like electronics, transportation, construction, water, healthcare, and worker safety.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

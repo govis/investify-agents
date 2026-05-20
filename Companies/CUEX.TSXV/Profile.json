@@ -1,8 +1,19 @@
 {
   "name": "CopperEx Resources Corp.",
+  "name_former": null,
+  "name_clean": "CopperEx Resources",
   "ticker": "CUEX",
   "exchange": "TSXV",
   "website": "https://copperexcorp.com",
+  "logo_url": "https://copperexcorp.com/wp-content/uploads/2023/11/copperex-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "CopperEx Resources Corp. is a Canadian mineral exploration company focused on the discovery and development of large-scale copper and gold deposits in the Americas. The company's flagship projects include the Exploradora Norte copper-gold project and the Kio Buggy copper project, both located in the prolific mineral belts of Chile. CopperEx is dedicated to creating shareholder value through systematic exploration and strategic advancement of its high-potential copper and gold assets.",
+  "metals_and_minerals": [
+    "Copper",
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

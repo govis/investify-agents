@@ -1,8 +1,11 @@
 {
   "name": "Sylvania Platinum Limited",
+  "name_former": null,
+  "name_clean": "Sylvania Platinum",
   "ticker": "SLP",
   "exchange": "LSE",
-  "website": "https://www.sylvaniaplatinum.com/",
-  "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "website": "https://www.sylvaniaplatinum.com",
+  "logo_url": "https://www.sylvaniaplatinum.com/images/logo.png",
+  "country_of_domicile": "Bermuda",
+  "description": "Sylvania Platinum Limited is a mid-tier platinum group metals (PGM) producer with operations in South Africa. The company specializes in the recovery of PGMs, including platinum, palladium, and rhodium, from chrome tailings. It operates several tailings retreatment plants across the Bushveld Igneous Complex, which is renowned for hosting the world's largest PGM deposits. Sylvania Platinum is committed to low-cost, environmentally responsible production, generating value from historical and current mining waste."
 }

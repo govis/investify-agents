@@ -1,8 +1,19 @@
 {
   "name": "Ero Copper Corp.",
+  "name_former": null,
+  "name_clean": "Ero Copper",
   "ticker": "ERO",
   "exchange": "TSX",
   "website": "https://www.erocopper.com",
+  "logo_url": "https://www.erocopper.com/site/templates/images/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Ero Copper Corp. is a high-growth clean copper producer with operations in Brazil. The company's primary asset is the Caraíba Operations, which includes the Pilar and Vermelhos underground mines and the Surubim open pit mine, located in Bahia State. Ero Copper also owns the Tucumã Project, a high-grade open-pit copper development project in Pará State, and the Xavantina Operations, which produces gold in Mato Grosso State. Headquartered in Vancouver, Canada, the company is focused on organic growth, operational excellence, and disciplined capital allocation.",
+  "metals_and_minerals": [
+    "Copper",
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

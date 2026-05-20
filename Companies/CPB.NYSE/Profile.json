@@ -1,8 +1,16 @@
 {
-  "name": "Campbell Soup Company",
+  "name": "The Campbell's Company",
+  "name_former": "Campbell Soup Company",
+  "name_clean": "Campbell Soup",
   "ticker": "CPB",
   "exchange": "NYSE",
   "website": "https://investor.campbellsoupcompany.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Campbell%27s_logo.svg/512px-Campbell%27s_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "The Campbell's Company, formerly Campbell Soup Company, is a leading American multinational food company. Best known for its flagship canned soup products, the company has expanded its portfolio to include a diverse range of brands across meals, beverages, and snacks, such as Goldfish, Pepperidge Farm, Snyder's of Hanover, and V8. Headquartered in Camden, New Jersey, the company focuses on delivering high-quality, convenient, and delicious food products to consumers worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

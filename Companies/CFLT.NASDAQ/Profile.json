@@ -1,8 +1,16 @@
 {
   "name": "Confluent, Inc.",
+  "name_former": null,
+  "name_clean": "Confluent",
   "ticker": "CFLT",
   "exchange": "NASDAQ",
   "website": "https://www.confluent.io",
+  "logo_url": "https://www.confluent.io/assets/img/logo-confluent.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Confluent, Inc. provides a data streaming platform that enables organizations to connect and process their data in real-time. Founded by the creators of Apache Kafka, the company offers Confluent Cloud, a fully managed cloud-native service, and Confluent Platform, an enterprise-grade self-managed software. Its platform allows businesses to build real-time applications, integrate disparate data sources, and analyze streaming data continuously to drive immediate business value and operational efficiency.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
-  "name": "American Power Conversion Corporation (APC)",
+  "name": "American Power Conversion Corporation",
+  "name_former": null,
+  "name_clean": "American Power Conversion",
   "ticker": "APCC",
   "exchange": "NASDAQ",
   "website": "https://www.apc.com",
+  "logo_url": "https://www.apc.com/us/en/assets/v2/images/header/apc-by-schneider-electric-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "American Power Conversion Corporation (APC) is a leading manufacturer of uninterruptible power supplies (UPS), electronics peripherals, and data center products. Founded in 1981, the company provides reliable power protection and management solutions designed to safeguard critical electronic equipment and data from power disturbances and outages. APC was acquired by Schneider Electric in 2007, continuing to operate as a flagship brand for power, cooling, and IT infrastructure solutions globally.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

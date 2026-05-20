@@ -1,8 +1,18 @@
 {
   "name": "Japan Gold Corp.",
+  "name_former": null,
+  "name_clean": "Japan Gold",
   "ticker": "JG",
   "exchange": "TSXV",
   "website": "japangold.com",
+  "logo_url": "https://www.japangold.com/wp-content/themes/japangold/images/logo.png",
+  "country_of_domicile": "Canada",
+  "description": "Japan Gold Corp. is a Canadian publicly traded mineral exploration company focused on the discovery of high-grade epithermal gold deposits in Japan. The company holds an extensive, district-scale portfolio of prospecting rights across Japan's three largest islands—Hokkaido, Honshu, and Kyushu—covering areas with historical mining activity and known gold occurrences. Leveraging a comprehensive technical database and modern exploration methods, Japan Gold targets underexplored terrain near historic mines, supported by a mining-friendly regulatory environment and a leadership team with deep experience in the Japanese resource sector.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver",
+    "Copper"
+  ],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

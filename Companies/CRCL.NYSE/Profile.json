@@ -1,8 +1,16 @@
 {
   "name": "Circle Internet Group, Inc.",
+  "name_former": "Circle Internet Financial, Inc.",
+  "name_clean": "Circle Internet Group",
   "ticker": "CRCL",
   "exchange": "NYSE",
   "website": "https://www.circle.com",
+  "logo_url": "https://www.circle.com/hubfs/circle-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Circle Internet Group, Inc. is a global financial technology firm that enables businesses of all sizes to harness the power of digital currencies and public blockchains for payments, commerce, and financial applications worldwide. Circle is the principal operator and issuer of USD Coin (USDC) and Eurite (EURC), highly liquid and trusted fiat-backed digital currencies. Through its suite of open developer APIs and enterprise platform services, Circle helps organizations build internet-native financial services, streamline global payments, and manage treasury operations.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

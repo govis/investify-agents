@@ -1,8 +1,16 @@
 {
   "name": "Isilon Systems, Inc.",
+  "name_former": null,
+  "name_clean": "Isilon Systems",
   "ticker": "ISLN",
   "exchange": "NASDAQ",
   "website": null,
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Isilon_Systems_logo.svg/512px-Isilon_Systems_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Isilon Systems, Inc. is a provider of scale-out file storage systems and dual-protocol network-attached storage (NAS) platforms. Founded in 2001 and headquartered in Seattle, Washington, the company designed and manufactured clustered storage systems for high-performance computing, file sharing, and big data storage. Isilon's OneFS operating system combined file system, volume manager, and data protection into a single unified software layer. The company was acquired by EMC Corporation in 2010 for approximately $2.25 billion and subsequently integrated into Dell EMC.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

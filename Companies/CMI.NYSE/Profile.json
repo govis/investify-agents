@@ -1,8 +1,16 @@
 {
   "name": "Cummins Inc.",
+  "name_former": "Cummins Engine Company",
+  "name_clean": "Cummins",
   "ticker": "CMI",
   "exchange": "NYSE",
   "website": "https://www.cummins.com",
+  "logo_url": "https://www.cummins.com/themes/custom/cummins/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Cummins Inc. is a global power technology leader that designs, manufactures, distributes, and services a broad portfolio of power solutions. The company's products range from diesel, natural gas, electric, and hybrid powertrains to powertrain-related components including filtration, aftertreatment, turbochargers, fuel systems, controls systems, air handling systems, automated transmissions, axles, drivelines, brakes, suspension systems, electric power generation systems, batteries, electrified power systems, hydrogen production, and fuel cell products.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

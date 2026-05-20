@@ -1,8 +1,16 @@
 {
-  "name": "Caltex Australia Limited (now Ampol Limited)",
+  "name": "Ampol Limited",
+  "name_former": "Caltex Australia Limited",
+  "name_clean": "Ampol",
   "ticker": "ALD",
   "exchange": "ASX",
   "website": "https://www.ampol.com.au",
+  "logo_url": "https://www.ampol.com.au/assets/images/ampol-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Ampol Limited is an Australia-based transport energy provider. The Company is engaged in the purchasing, refining, distributing, and marketing of petroleum products and the operation of convenience retail stores. Ampol operates Australia's largest transport energy distribution and marketing network, supplying fuel to retail, commercial, and industrial customers across Australia, New Zealand, and the Pacific region. It also operates the Lytton refinery in Brisbane and a network of retail convenience sites under the Ampol and Foodary brands.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

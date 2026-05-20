@@ -1,8 +1,20 @@
 {
   "name": "Bessor Minerals Inc.",
+  "name_former": "Tasca Resources Ltd.",
+  "name_clean": "Bessor Minerals",
   "ticker": "BST",
   "exchange": "TSXV",
   "website": "bessorminerals.com",
+  "logo_url": "https://bessorminerals.com/wp-content/uploads/2020/11/Bessor-Logo-H-300.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Bessor Minerals Inc. is a Canadian junior exploration company focused on the acquisition, exploration, and development of mineral properties in Canada. The company primarily explores for gold, copper, and zinc, with key projects including the Golden Eagle project in British Columbia and the Redcap property. Bessor Minerals aims to create shareholder value through strategic exploration and discovery of high-grade mineral deposits.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper",
+    "Zinc"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

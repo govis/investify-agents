@@ -1,8 +1,16 @@
 {
   "name": "Canfor Corporation",
+  "name_former": null,
+  "name_clean": "Canfor",
   "ticker": "CFP",
   "exchange": "TSX",
   "website": "https://www.canfor.com",
+  "logo_url": "https://www.canfor.com/images/default-source/logos/canfor-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Canfor Corporation is an integrated forest products company based in Vancouver, British Columbia. The company is a leading producer of sustainable wood products, including softwood lumber, pulp and paper products, and green energy. With operations in Canada, the United States, and Europe, Canfor supplies high-quality forest products to markets globally, emphasizing sustainable forest management and environmentally responsible manufacturing processes.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

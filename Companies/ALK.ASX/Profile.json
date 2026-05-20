@@ -1,8 +1,19 @@
 {
   "name": "Alkane Resources Ltd",
+  "name_former": null,
+  "name_clean": "Alkane Resources",
   "ticker": "ALK",
   "exchange": "ASX",
   "website": "https://alkres.com",
+  "logo_url": "https://alkres.com/wp-content/uploads/2018/05/alkane-resources-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Alkane Resources Ltd is an Australian gold production, exploration, and development company with a focus on the Central West region of New South Wales. The company operates the Tomingley Gold Operations and is actively exploring and developing other projects in the region, including the significant Boda-Kaiser gold-copper porphyry exploration project. Alkane is committed to growing its gold production profile and delivering value to shareholders through exploration success and efficient operations.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

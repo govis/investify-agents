@@ -1,8 +1,19 @@
 {
   "name": "Endeavour Silver Corp.",
+  "name_former": null,
+  "name_clean": "Endeavour Silver",
   "ticker": "EDR",
   "exchange": "TSX",
   "website": "https://edrsilver.com/",
+  "logo_url": "https://edrsilver.com/assets/images/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Endeavour Silver Corp. is a mid-tier precious metals mining company that operates two high-grade, underground, silver-gold mines in Mexico: the Guanacevi mine in Durango and the Bolanitos mine in Guanajuato. The company is also advancing the Terronera mine project in Jalisco towards production, alongside several other exploration and development projects. Endeavour Silver is focused on growing its production, reserves, and resources through organic growth, strategic acquisitions, and exploration.",
+  "metals_and_minerals": [
+    "Silver",
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

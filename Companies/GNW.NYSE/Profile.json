@@ -1,8 +1,16 @@
 {
   "name": "Genworth Financial, Inc.",
+  "name_former": null,
+  "name_clean": "Genworth Financial",
   "ticker": "GNW",
   "exchange": "NYSE",
   "website": "https://www.genworth.com",
+  "logo_url": "https://www.genworth.com/content/dam/genworth/images/logos/genworth-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Genworth Financial, Inc. is a financial services company that provides insurance, wealth management, and investment solutions. The company operates through segments including Enact, Long-Term Care Insurance, and Life Insurance. Genworth is dedicated to helping families address the financial challenges of aging through its long-term care insurance and care coordination services, while also offering mortgage insurance products that facilitate homeownership.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

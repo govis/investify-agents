@@ -1,8 +1,20 @@
 {
   "name": "Green Shift Commodities Ltd.",
+  "name_former": "U3O8 Corp.",
+  "name_clean": "Green Shift Commodities",
   "ticker": "GCOM",
   "exchange": "TSXV",
   "website": "https://www.greenshiftcommodities.com/",
+  "logo_url": "https://www.greenshiftcommodities.com/site/templates/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Green Shift Commodities Ltd. is a Canada-based exploration and development company focused on the exploration and development of commodities that facilitate the decarbonization of the economy. The Company is focused on exploring and developing the Berlin Project in Colombia, a multi-element deposit containing uranium, neodymium, yttrium, phosphate, and nickel, as well as the Armstrong Lithium Project in Ontario, Canada, and the Rio Negro Lithium Project in Patagonia, Argentina.",
+  "metals_and_minerals": [
+    "Uranium",
+    "Lithium",
+    "Nickel"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

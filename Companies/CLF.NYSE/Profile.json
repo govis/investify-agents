@@ -1,8 +1,18 @@
 {
   "name": "Cleveland-Cliffs Inc.",
+  "name_former": "Cliffs Natural Resources Inc.",
+  "name_clean": "Cleveland-Cliffs",
   "ticker": "CLF",
   "exchange": "NYSE",
   "website": "https://www.clevelandcliffs.com",
+  "logo_url": "https://www.clevelandcliffs.com/assets/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Cleveland-Cliffs Inc. is the largest flat-rolled steel producer and the largest manufacturer of iron ore pellets in North America. Vertically integrated from mined materials, direct reduced iron, and scrap to primary steelmaking and downstream finishing, stamping, tooling, and tubing, the company serves a diverse range of markets, with a particular focus on the automotive industry. Headquartered in Cleveland, Ohio, Cleveland-Cliffs operates mining, steelmaking, and finishing facilities across the United States and Canada.",
+  "metals_and_minerals": [
+    "Iron Ore"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,18 @@
 {
   "name": "FireFox Gold Corp.",
+  "name_former": null,
+  "name_clean": "FireFox Gold",
   "ticker": "FFOX",
   "exchange": "TSXV",
   "website": "firefoxgold.com",
+  "logo_url": "https://www.firefoxgold.com/images/firefox-gold-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "FireFox Gold Corp. is a Canada-based gold exploration company focused on discovering high-grade gold deposits in Finland. The company holds a significant land package in the Central Lapland Greenstone Belt, a highly prospective and underexplored region that hosts several major gold deposits. FireFox is actively exploring its flagship projects, including the Mustajärvi and Jeesiö projects, utilizing modern exploration techniques to identify and drill high-priority gold targets.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

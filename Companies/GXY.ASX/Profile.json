@@ -1,8 +1,18 @@
 {
   "name": "Galaxy Resources Ltd.",
+  "name_former": null,
+  "name_clean": "Galaxy Resources",
   "ticker": "GXY",
   "exchange": "ASX",
   "website": "https://www.gxy.com",
+  "logo_url": "https://www.gxy.com/wp-content/uploads/2018/05/galaxy-resources-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Galaxy Resources Ltd. is an international mining and exploration company focused on the production of lithium concentrates and chemicals. The company owns and operates lithium assets in Australia, Canada, and Argentina, including the Mt Cattlin mine in Western Australia, the Sal de Vida brine project in Argentina, and the James Bay hard rock project in Quebec. Galaxy Resources is dedicated to supplying high-quality lithium products to the global battery and electric vehicle markets.",
+  "metals_and_minerals": [
+    "Lithium"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

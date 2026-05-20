@@ -1,8 +1,16 @@
 {
   "name": "Drax Group plc",
+  "name_former": null,
+  "name_clean": "Drax Group",
   "ticker": "DRX",
   "exchange": "LSE",
   "website": "https://www.drax.com",
+  "logo_url": "https://www.drax.com/wp-content/themes/drax/assets/images/drax-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United Kingdom",
+  "description": "Drax Group plc is a UK-based renewable energy company engaged in renewable power generation, the production of sustainable biomass, and electricity sales to business customers. The company operates a portfolio of flexible, low-carbon power assets, including Drax Power Station in Yorkshire, which is the UK's largest source of renewable electricity. Drax is also a pioneer in bioenergy with carbon capture and storage (BECCS) technology, aiming to become a carbon-negative business by 2030.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

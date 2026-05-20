@@ -1,8 +1,18 @@
 {
   "name": "Champion Iron Limited",
+  "name_former": "Champion Iron Ore Limited",
+  "name_clean": "Champion Iron",
   "ticker": "CIA",
   "exchange": "TSX",
   "website": "https://www.championiron.com",
+  "logo_url": "https://www.championiron.com/wp-content/themes/champion-iron/assets/images/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Champion Iron Limited is an iron ore exploration and development company with major projects in the Labrador Trough, Canada's largest iron ore producing region. The company's flagship asset is the Bloom Lake Mine, located in Quebec, which produces high-grade iron ore concentrate. Champion Iron is committed to sustainable mining practices and aims to be a leader in the transition to green steel by providing high-quality, low-impurity iron ore products to global markets.",
+  "metals_and_minerals": [
+    "Iron Ore"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

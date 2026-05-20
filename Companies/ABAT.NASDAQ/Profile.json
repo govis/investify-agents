@@ -1,8 +1,20 @@
 {
   "name": "American Battery Technology Company",
+  "name_former": "American Battery Metals Corporation",
+  "name_clean": "American Battery Technology Company",
   "ticker": "ABAT",
   "exchange": "NASDAQ",
   "website": "https://americanbatterytechnology.com/",
+  "logo_url": "https://americanbatterytechnology.com/wp-content/uploads/2021/09/ABTC_Logo_Primary_FullColor.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "American Battery Technology Company is an industry-leading battery materials company commercializing its technologies for the recycling of lithium-ion batteries, the extraction of battery-grade metals from primary resources, and the manufacturing of critical battery materials. By providing domestically sourced, low-environmental-impact critical minerals, the company is working to meet the soaring demand for electric vehicles and stationary grid storage applications while building a closed-loop circular economy for battery materials.",
+  "metals_and_minerals": [
+    "Lithium",
+    "Nickel",
+    "Cobalt"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

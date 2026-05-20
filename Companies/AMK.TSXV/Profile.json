@@ -1,8 +1,20 @@
 {
   "name": "American Creek Resources Ltd.",
+  "name_former": null,
+  "name_clean": "American Creek Resources",
   "ticker": "AMK",
   "exchange": "TSXV",
   "website": "https://www.americancreek.com",
+  "logo_url": "https://americancreek.com/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "American Creek Resources Ltd. is a Canadian junior mineral exploration company focused on the acquisition, exploration, and development of gold and silver properties in British Columbia. The company's key asset is its interest in the Treaty Creek joint venture project, a world-class gold-silver-copper project located in the Golden Triangle region of British Columbia, which is being advanced in partnership with Tudor Gold Corp. and Teuton Resources Corp.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

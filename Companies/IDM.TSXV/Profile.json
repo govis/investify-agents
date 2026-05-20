@@ -1,8 +1,19 @@
 {
   "name": "IDM Mining Ltd.",
+  "name_former": "Revolution Resources Corp.",
+  "name_clean": "IDM Mining",
   "ticker": "IDM",
   "exchange": "TSXV",
   "website": null,
+  "logo_url": "https://www.idmmining.com/site/templates/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "IDM Mining Ltd. is a Canada-based exploration and development stage company. The company is focused on acquiring, exploring, and developing mineral properties in British Columbia, Canada. Its primary asset is the Red Mountain Gold Project, located near Stewart, British Columbia, which is a high-grade underground gold and silver project. IDM Mining was acquired by Ascot Resources Ltd. in 2019.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

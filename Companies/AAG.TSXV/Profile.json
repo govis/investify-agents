@@ -1,8 +1,20 @@
 {
   "name": "Andean American Gold Corp.",
+  "name_former": "Andean American Mining Corp.",
+  "name_clean": "Andean American Gold",
   "ticker": "AAG",
   "exchange": "TSXV",
   "website": null,
+  "logo_url": "https://www.andeanamerican.com/images/logo.gif",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Andean American Gold Corp., formerly Andean American Mining Corp., is a Canada-based junior exploration company focused on the acquisition, exploration, and development of mineral properties in Peru. The company's primary assets include the Invicta gold-silver-copper project and the Santa Rosa gold-silver project. Andean American Gold Corp. was acquired by Lupaka Gold Corp. in 2012.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

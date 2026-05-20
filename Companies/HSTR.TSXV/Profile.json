@@ -1,8 +1,24 @@
 {
   "name": "Heliostar Metals Ltd.",
+  "name_former": "Redstar Gold Corp.",
+  "name_clean": "Heliostar Metals",
   "ticker": "HSTR",
   "exchange": "TSXV",
   "website": "https://www.heliostarmetals.com",
-  "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "logo_url": "https://images.squarespace-cdn.com/content/v1/5f32f67972877c449179b449/1597258384211-7W68Y766668776668776/Heliostar_Logo_RGB.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Heliostar Metals Ltd. is a junior mineral exploration and development company focused on high-grade gold and silver projects in North America. The company's flagship asset is the Ana Maria project in Mexico, alongside the high-grade San Antonio gold project and the Unga gold-silver project in Alaska. Heliostar is committed to expanding its resource base and advancing its portfolio of precious metal assets through systematic exploration and strategic acquisitions.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver"
+  ],
+  "investment_theses": [
+    {
+      "thesis_name": "Gold",
+      "company_type": "Small-Cap Gold Producer"
+    }
+  ],
+  "origin": "Web Search",
+  "enrichment": "Enriched"
 }

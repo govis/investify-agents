@@ -1,8 +1,16 @@
 {
   "name": "Danaher Corporation",
+  "name_former": null,
+  "name_clean": "Danaher",
   "ticker": "DHR",
   "exchange": "NYSE",
   "website": "danaher.com",
+  "logo_url": "https://www.danaher.com/themes/custom/danaher_theme/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Danaher Corporation is a global science and technology innovator committed to helping its customers solve complex challenges and improving quality of life around the world. The company designs, manufactures, and markets professional, medical, industrial, and commercial products and services. Operating through segments such as Biotechnology, Life Sciences, and Diagnostics, Danaher provides high-end analytical instrumentation, reagents, consumables, software, and services to support research, development, and manufacturing of biopharmaceuticals, as well as clinical diagnostics in laboratories and hospitals worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

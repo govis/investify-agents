@@ -1,8 +1,16 @@
 {
   "name": "Airbnb, Inc.",
+  "name_former": "AirBed & Breakfast, Inc.",
+  "name_clean": "Airbnb",
   "ticker": "ABNB",
   "exchange": "NASDAQ",
   "website": "airbnb.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_B%C3%A9lo.svg/512px-Airbnb_Logo_B%C3%A9lo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Airbnb, Inc. operates an online marketplace that connects hosts who offer accommodations and experiences with guests seeking lodging, primarily homestays and tourism activities. Founded in 2008 and headquartered in San Francisco, California, the company offers a platform accessible via website and mobile app, enabling users to list, discover, and book unique accommodations around the world.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

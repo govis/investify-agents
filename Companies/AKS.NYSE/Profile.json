@@ -1,8 +1,19 @@
 {
   "name": "AK Steel Holding Corporation",
+  "name_former": null,
+  "name_clean": "AK Steel",
   "ticker": "AKS",
   "exchange": "NYSE",
   "website": "N/A",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/AK_Steel_logo.svg/1200px-AK_Steel_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "AK Steel Holding Corporation is a leading producer of flat-rolled carbon, stainless and electrical steel products, primarily for the automotive, infrastructure and manufacturing, and distributors and converters markets. Headquartered in West Chester, Ohio, the company operates steelmaking, finishing, and tube manufacturing plants across several states. In March 2020, AK Steel was acquired by Cleveland-Cliffs Inc., integrating its operations into one of the largest flat-rolled steel producers in North America.",
+  "metals_and_minerals": [
+    "Steel",
+    "Iron"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

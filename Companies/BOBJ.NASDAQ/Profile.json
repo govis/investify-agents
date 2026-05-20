@@ -1,8 +1,16 @@
 {
   "name": "Business Objects S.A.",
+  "name_former": null,
+  "name_clean": "Business Objects",
   "ticker": "BOBJ",
   "exchange": "NASDAQ",
   "website": "www.sap.com",
+  "logo_url": "https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg",
+  "logo_local": null,
+  "country_of_domicile": "France",
+  "description": "Business Objects S.A. was a leading global enterprise software company specializing in business intelligence (BI) solutions. Founded in France in 1990, the company provided software and services that enabled organizations to track, understand, and manage their enterprise performance. Its core offerings included tools for reporting, querying, analysis, and information delivery. In 2008, Business Objects was acquired by SAP AG, and its products were subsequently integrated into SAP's business intelligence portfolio.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

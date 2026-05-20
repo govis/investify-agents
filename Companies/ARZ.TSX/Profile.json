@@ -1,8 +1,18 @@
 {
   "name": "Aurizon Mines Ltd.",
+  "name_former": null,
+  "name_clean": "Aurizon Mines",
   "ticker": "ARZ",
   "exchange": "TSX",
   "website": null,
+  "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Aurizon_Mines_logo.svg/320px-Aurizon_Mines_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Aurizon Mines Ltd. was a Canadian gold producer and exploration company focused on developing its gold properties in the Abitibi region of north-western Quebec. The company's primary asset was the Casa Berardi gold mine, which began commercial production in 2006. Aurizon also held interests in other exploration projects, including the Joanna gold project. In 2013, Aurizon Mines Ltd. was acquired by Hecla Mining Company.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

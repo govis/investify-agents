@@ -1,8 +1,16 @@
 {
   "name": "Bank of America Corporation",
+  "name_former": "NationsBank Corporation",
+  "name_clean": "Bank of America",
   "ticker": "BAC",
   "exchange": "NYSE",
   "website": "https://www.bankofamerica.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bank_of_America_logo.svg/512px-Bank_of_America_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Bank of America Corporation is a multinational investment bank and financial services holding company headquartered in Charlotte, North Carolina. It is the second-largest banking institution in the United States, after JPMorgan Chase, and the second-largest bank in the world by market capitalization. Bank of America serves approximately 66 million consumer and small business clients with a full range of banking, investing, asset management, and other financial and risk management products and services.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

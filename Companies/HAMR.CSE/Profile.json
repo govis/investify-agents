@@ -1,8 +1,20 @@
 {
   "name": "Silver Hammer Mining Corp.",
+  "name_former": "Lakeland Resources Inc.",
+  "name_clean": "Silver Hammer Mining",
   "ticker": "HAMR",
   "exchange": "CSE",
   "website": "https://silverhammermining.com/",
+  "logo_url": "https://silverhammermining.com/wp-content/uploads/2021/06/Silver-Hammer-Logo-Horizontal-RGB-1.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Silver Hammer Mining Corp. is a junior resource exploration company focused on advancing past-producing high-grade silver-gold-copper projects in premier mining jurisdictions in the United States. The company's primary assets include the Silver Strand Project in Idaho, and the Eliza Silver Project and Silverton Silver Mine in Nevada. Silver Hammer Mining Corp. aims to secure and rapidly develop near-term silver production opportunities while continuing to explore for larger-scale mineral systems.",
+  "metals_and_minerals": [
+    "Silver",
+    "Gold",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "GATX Corporation",
+  "name_former": "General American Transportation Corporation",
+  "name_clean": "GATX",
   "ticker": "GATX",
   "exchange": "NYSE",
   "website": "gatx.com",
+  "logo_url": "https://www.gatx.com/wp-content/uploads/2023/05/GATX_Logo_RGB.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "GATX Corporation is a leading global railcar lessor, operating one of the largest railcar fleets in the world. The company leases, operates, manages, and markets long-lived, widely used assets, primarily in the rail market. GATX provides high-quality railcars and related services to customers in various industries, including chemical, petroleum, food, agriculture, and transportation. Additionally, GATX owns and manages a fleet of commercial aircraft spare engines and has joint venture investments in liquefied gas carrying vessels.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

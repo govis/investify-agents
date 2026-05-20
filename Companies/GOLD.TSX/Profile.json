@@ -1,8 +1,19 @@
 {
   "name": "GoldMining Inc.",
+  "name_former": "Brazil Resources Inc.",
+  "name_clean": "GoldMining",
   "ticker": "GOLD",
   "exchange": "TSX",
   "website": "https://www.goldmining.com",
+  "logo_url": "https://www.goldmining.com/_resources/images/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "GoldMining Inc. is a public mineral exploration company focused on the acquisition and development of gold assets in the Americas. Through its disciplined acquisition strategy, the company has accumulated a diversified portfolio of resource-stage gold and gold-copper projects and holdings in Canada, USA, Brazil, Colombia, and Peru. GoldMining Inc. also holds significant positions in Gold Royalty Corp. and U.S. GoldMining Inc., creating additional value for its shareholders.",
+  "metals_and_minerals": [
+    "Gold",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
   "name": "Ciena Corporation",
+  "name_former": null,
+  "name_clean": "Ciena",
   "ticker": "CIEN",
   "exchange": "NYSE",
   "website": "https://www.ciena.com",
+  "logo_url": "https://www.ciena.com/images/ciena-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Ciena Corporation is a leading networking systems, services, and software company. The company provides equipment, software, and services that support the transport, switching, aggregation, service delivery, and management of video, data, and voice traffic on communications networks. Ciena serves various industries, including telecommunications service providers, cable operators, governments, and enterprises, helping them build more adaptive, scalable, and efficient networks.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

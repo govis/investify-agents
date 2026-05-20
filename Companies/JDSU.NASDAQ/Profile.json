@@ -1,8 +1,14 @@
 {
   "name": "JDS Uniphase Corporation",
+  "name_former": "N/A",
+  "name_clean": "JDS Uniphase",
   "ticker": "JDSU",
   "exchange": "NASDAQ",
   "website": "https://www.viavisolutions.com",
+  "logo_url": "https://www.viavisolutions.com/themes/custom/viavi/logo.svg",
+  "country_of_domicile": "United States",
+  "description": "JDS Uniphase Corporation (JDSU) was a prominent American technology company specializing in optical products and telecommunications test equipment. In 2015, the company underwent a strategic split, separating its communications and commercial optical products business into two independent, publicly traded companies: Viavi Solutions Inc. and Lumentum Holdings Inc. Following this separation, JDS Uniphase Corporation rebranded as Viavi Solutions, which now focuses on network test, monitoring, and assurance solutions, while Lumentum focuses on optical and photonic products. The legacy of JDSU remains significant in the history of fiber-optic communications and network infrastructure technology.",
+  "metals_and_minerals": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

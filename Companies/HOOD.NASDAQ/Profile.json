@@ -1,8 +1,16 @@
 {
   "name": "Robinhood Markets, Inc.",
+  "name_former": null,
+  "name_clean": "Robinhood",
   "ticker": "HOOD",
   "exchange": "NASDAQ",
   "website": "https://investors.robinhood.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Robinhood_Arrow_Logo.svg/1200px-Robinhood_Arrow_Logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Robinhood Markets, Inc. operates a financial services platform in the United States and internationally, allowing users to invest in stocks, exchange-traded funds, options, and cryptocurrencies. The company also offers fractional share trading, recurring investments, cash management services, and retirement accounts. Robinhood is known for pioneering commission-free trading and providing an intuitive, mobile-first user experience designed to democratize finance for all.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

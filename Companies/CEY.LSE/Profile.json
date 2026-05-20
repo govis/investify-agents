@@ -1,8 +1,18 @@
 {
   "name": "Centamin plc",
+  "name_former": "Centamin Egypt Limited",
+  "name_clean": "Centamin",
   "ticker": "CEY",
   "exchange": "LSE",
   "website": "https://www.centamin.com",
+  "logo_url": "https://www.centamin.com/assets/images/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Jersey",
+  "description": "Centamin plc is an established gold mining company, dual-listed on the London Stock Exchange and the Toronto Stock Exchange. The company's flagship asset is the Sukari Gold Mine, located in the Eastern Desert of Egypt, which is Egypt's first modern gold mine and one of the world's largest producing gold mines. Centamin is focused on active exploration and development of gold resources across Egypt and West Africa, maintaining high standards of safety, sustainability, and operational efficiency.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

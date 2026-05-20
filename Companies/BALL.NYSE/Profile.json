@@ -1,8 +1,16 @@
 {
   "name": "Ball Corporation",
+  "name_former": null,
+  "name_clean": "Ball",
   "ticker": "BALL",
   "exchange": "NYSE",
   "website": "https://www.ball.com",
+  "logo_url": "https://www.ball.com/images/ball-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Ball Corporation is a leading global provider of innovative, sustainable aluminum packaging solutions for beverage, personal care, and household products. Founded in 1880, the company has transitioned from its historic glass canning jars to become a premier manufacturer of infinitely recyclable aluminum cans and bottles. Ball Corporation operates manufacturing facilities worldwide, serving diverse consumer brands while emphasizing circular economy principles and environmental sustainability in its operations.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

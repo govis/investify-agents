@@ -1,8 +1,18 @@
 {
   "name": "Cosa Resources Corp.",
+  "name_former": null,
+  "name_clean": "Cosa Resources",
   "ticker": "COSAF",
-  "exchange": "OTCQB",
+  "exchange": "OTC",
   "website": "https://cosaresources.ca/",
+  "logo_url": "https://cosaresources.ca/wp-content/uploads/2022/09/Cosa-Resources-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Cosa Resources Corp. is a Canadian mineral exploration company focused on the acquisition, exploration, and development of uranium properties in the Athabasca Basin of Saskatchewan, Canada. The company's portfolio includes several highly prospective uranium projects, such as the Ursa, Orion, and Castor projects, which are located in a region renowned for hosting some of the world's largest and highest-grade uranium deposits. Cosa Resources is committed to utilizing modern exploration techniques and geological expertise to discover and outline significant uranium resources.",
+  "metals_and_minerals": [
+    "Uranium"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

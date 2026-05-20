@@ -1,8 +1,18 @@
 {
-  "name": "Greenhawk Resources, Inc.",
+  "name": "Greenhawk Resources Inc.",
+  "name_former": "Sennen Potash Corporation",
+  "name_clean": "Greenhawk Resources",
   "ticker": "GRHK",
   "exchange": "TSXV",
   "website": "https://greenhawkresources.com/",
+  "logo_url": "https://greenhawkresources.com/wp-content/uploads/2021/06/Greenhawk-Resources-Logo.png",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Greenhawk Resources Inc. is a Canadian mineral exploration and development company focused on the acquisition, exploration, and development of mineral properties. The company's primary asset is the Storuman Mono-Mineralic Quartz Project located in Sweden, which is being developed to supply high-purity quartz for various industrial applications. Greenhawk Resources is committed to identifying and developing high-quality mineral assets to create long-term value for its shareholders.",
+  "metals_and_minerals": [
+    "Quartz"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

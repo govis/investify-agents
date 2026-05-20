@@ -1,8 +1,16 @@
 {
   "name": "Ariba, Inc.",
+  "name_former": null,
+  "name_clean": "Ariba",
   "ticker": "ARBA",
   "exchange": "NASDAQ",
   "website": "ariba.com",
+  "logo_url": "https://www.ariba.com/assets/images/sap-ariba-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Ariba, Inc. is a software and information technology services company that provides collaborative commerce solutions. The company offers an open, web-based platform that connects businesses to a global network of trading partners, enabling them to buy, sell, and manage cash more efficiently. Its solutions include spend management, procurement, sourcing, contract management, and supplier network services, helping organizations streamline their supply chain operations and reduce costs.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

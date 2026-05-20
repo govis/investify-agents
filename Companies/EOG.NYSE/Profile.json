@@ -1,8 +1,16 @@
 {
   "name": "EOG Resources, Inc.",
+  "name_former": "Enron Oil & Gas Company",
+  "name_clean": "EOG Resources",
   "ticker": "EOG",
   "exchange": "NYSE",
   "website": "https://www.eogresources.com",
+  "logo_url": "https://www.eogresources.com/wp-content/themes/eog/assets/images/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "EOG Resources, Inc. is one of the largest independent crude oil and natural gas exploration and production companies in the United States. The company focuses on the discovery, development, production, and marketing of crude oil, natural gas liquids, and natural gas, with major producing basins in the United States, Trinidad and Tobago, and other international areas. EOG is committed to being a low-cost, high-return producer while maintaining high environmental, social, and governance standards.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

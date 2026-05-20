@@ -1,8 +1,16 @@
 {
   "name": "Bloom Energy Corporation",
+  "name_former": "Ion America Corp.",
+  "name_clean": "Bloom Energy",
   "ticker": "BE",
   "exchange": "NYSE",
   "website": "https://www.bloomenergy.com",
+  "logo_url": "https://www.bloomenergy.com/wp-content/uploads/bloom-energy-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Bloom Energy Corporation designs, manufactures, sells, and installs solid-oxide fuel cell systems for on-site power generation in the United States and internationally. The company's flagship product, the Bloom Energy Server, converts standard low-pressure natural gas, biogas, or hydrogen into electricity through an electrochemical process without combustion. This technology provides continuous, reliable, and resilient power while significantly reducing carbon emissions compared to traditional grid electricity.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,16 @@
 {
-  "name": "Coherent, Inc.",
+  "name": "Coherent Corp.",
+  "name_former": "II-VI Incorporated",
+  "name_clean": "Coherent",
   "ticker": "COHR",
   "exchange": "NYSE",
   "website": "https://www.coherent.com",
+  "logo_url": "https://www.coherent.com/assets/images/coherent-logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Coherent Corp. is a global leader in materials, networking, and lasers, serving the industrial, communications, electronics, and instrumentation markets. The company manufactures a wide range of photonic and electronic materials, components, and systems used in applications such as optical communications, materials processing, semiconductor manufacturing, and life sciences. Headquartered in Saxonburg, Pennsylvania, Coherent operates research and development, manufacturing, sales, service, and distribution facilities worldwide.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

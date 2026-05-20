@@ -1,8 +1,20 @@
 {
   "name": "Horizon Minerals Limited",
+  "name_former": "Intermin Resources Limited",
+  "name_clean": "Horizon Minerals",
   "ticker": "HRZ",
   "exchange": "ASX",
   "website": "https://horizonminerals.com.au",
+  "logo_url": "https://horizonminerals.com.au/wp-content/uploads/2019/07/Horizon-Minerals-Logo-RGB.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "Horizon Minerals Limited is an gold exploration and development company with a key focus in the Kalgoorlie and Coolgardie regions of Western Australia. The company holds a large, highly prospective tenement portfolio in the heart of the Eastern Goldfields, including the flagship Boorara Gold Project. Horizon is actively exploring and developing its assets to transition into a mid-tier gold producer, leveraging its strategic regional landholding and existing infrastructure.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver",
+    "Zinc"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

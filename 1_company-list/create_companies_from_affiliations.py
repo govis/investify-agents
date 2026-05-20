@@ -3,10 +3,11 @@ import os
 import glob
 import re
 from pathlib import Path
-from dotenv import load_dotenv
+from dotenv import load_dotenv, find_dotenv
 
 # Load environment variables
-load_dotenv()
+load_dotenv(find_dotenv(), override=True)
+load_dotenv(os.path.join("..", ".env"), override=False)
 
 # Constants
 ALLOWED_EXCHANGES = {"NYSE", "NASDAQ", "TSX", "TSXV", "CSE", "OTC", "ASX", "LSE"}

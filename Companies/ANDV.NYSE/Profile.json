@@ -1,8 +1,16 @@
 {
-  "name": "Andeavor (formerly Tesoro Corporation)",
+  "name": "Andeavor",
+  "name_former": "Tesoro Corporation",
+  "name_clean": "Andeavor",
   "ticker": "ANDV",
   "exchange": "NYSE",
   "website": "https://www.andeavor.com",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Andeavor_logo.svg/512px-Andeavor_logo.svg.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Andeavor, formerly known as Tesoro Corporation, was an independent refiner and marketer of petroleum products. Headquartered in San Antonio, Texas, the company operated multiple refineries in the western United States and a logistics network, as well as retail stations under various brands including ARCO, Shell, Exxon, Mobil, USA Gasoline, and Giant. In October 2018, Andeavor was acquired by Marathon Petroleum Corporation, creating one of the largest refining, marketing, and midstream companies in the United States.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

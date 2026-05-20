@@ -1,8 +1,19 @@
 {
   "name": "Arch Resources, Inc.",
+  "name_former": "Arch Coal, Inc.",
+  "name_clean": "Arch Resources",
   "ticker": "ARCH",
   "exchange": "NYSE",
   "website": "https://www.archrsc.com",
+  "logo_url": "https://www.archrsc.com/images/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Arch Resources, Inc. is a premier producer of high-quality metallurgical products for the global steel industry and a reliable supplier of thermal coal for power generation. Operating large, modern, and highly efficient mines in the United States, the company is committed to safe, sustainable, and environmentally responsible mining practices. Arch Resources serves customers across five continents, supplying the essential raw materials needed to build modern infrastructure and generate electricity.",
+  "metals_and_minerals": [
+    "Metallurgical Coal",
+    "Thermal Coal"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

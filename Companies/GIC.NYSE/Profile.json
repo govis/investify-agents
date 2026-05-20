@@ -1,8 +1,16 @@
 {
   "name": "General Instrument Corporation",
+  "name_former": null,
+  "name_clean": "General Instrument",
   "ticker": "GIC",
   "exchange": "NYSE",
   "website": "https://www.commscope.com",
+  "logo_url": "https://www.commscope.com/globalassets/digitalsignage/commscope-logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "General Instrument Corporation was an American electronics manufacturer specializing in cable television, semiconductor, and telecommunications equipment. Founded in 1923, the company was a pioneer in the development of cable television technology, including addressable converters and digital television systems. After several corporate restructurings, General Instrument was acquired by Motorola in 2000, which subsequently became part of Motorola Mobility, Home division, later acquired by ARRIS Group, and ultimately integrated into CommScope.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

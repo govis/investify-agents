@@ -12,6 +12,16 @@ load_dotenv(find_dotenv(), override=True)
 # Load shared project settings from parent directory
 load_dotenv(os.path.join("..", ".env"), override=False)
 
+# Load exchange sanitization configs
+ALLOWED_EXCHANGES = {"NYSE", "NASDAQ", "TSX", "TSXV", "CSE", "OTC", "ASX", "LSE"}
+UNCOMMON_CODES = os.getenv("UNCOMMON_EXCHANGE_CODES", "").split(",")
+ALL_EXCHANGE_CODES = ALLOWED_EXCHANGES.union(set(c.strip() for c in UNCOMMON_CODES if c.strip()))
+
+try:
+    EXCHANGE_SUBSTITUTES = json.loads(os.getenv("EXCHANGE_NAME_SUBSTITUTE", "{}"))
+except json.JSONDecodeError:
+    EXCHANGE_SUBSTITUTES = {}
+
 class AsyncRateLimiter:
     """A sliding window rate limiter to ensure LLM_RPM is never exceeded."""
     def __init__(self, rpm: int):
@@ -40,6 +50,25 @@ class AsyncRateLimiter:
                     if sleep_time > 0:
                         print(f"    Rate Limit (RPM) reached. Throttling for {sleep_time:.2f}s...")
                         await asyncio.sleep(sleep_time)
+
+def sanitize_exchange(exchange_str):
+    if not exchange_str:
+        return ""
+    
+    # 1. Apply EXCHANGE_NAME_SUBSTITUTE
+    sorted_subs = sorted(EXCHANGE_SUBSTITUTES.items(), key=lambda x: len(x[0]), reverse=True)
+    current = str(exchange_str)
+    for verbose, code in sorted_subs:
+        if verbose in current:
+            current = current.replace(verbose, code)
+    
+    # 2. Try to find a known code
+    for code in ALL_EXCHANGE_CODES:
+        pattern = r'\b' + re.escape(code) + r'\b'
+        if re.search(pattern, current.upper()):
+            return code
+            
+    return current.strip()
 
 def apply_hyperlinks(content, companies, exchange_filter):
     """
@@ -162,7 +191,8 @@ async def process_file(pipeline, thesis_name, file_path, consolidated, base_thes
             found_companies = result_data.get("companies", [])
             for c in found_companies:
                 ticker = c['ticker'].strip()
-                exchange = c['exchange'].strip()
+                exchange = sanitize_exchange(c['exchange'].strip())
+                c['exchange'] = exchange # Update in-place for consistency
                 
                 # Sanitize ticker: remove exchange if it was included (e.g., "BA.NYSE" -> "BA")
                 if exchange and ticker.upper().endswith(f".{exchange.upper()}"):

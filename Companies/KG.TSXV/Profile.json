@@ -1,8 +1,16 @@
 {
   "name": "Klondike Gold Corp.",
+  "name_former": null,
+  "name_clean": "Klondike Gold",
   "ticker": "KG",
   "exchange": "TSXV",
   "website": "https://www.klondikegoldcorp.com",
+  "logo_url": "https://brandfetch.com/klondikegoldcorp.com",
+  "country_of_domicile": "Canada",
+  "description": "Klondike Gold Corp. is a Vancouver-based gold exploration company focused on the exploration and development of its 100%-owned Klondike District Gold Project. Located near Dawson City, Yukon Territory, the project targets gold mineralization associated with district-scale orogenic faults within the historic Klondike Goldfields. The company holds a significant land package of 586 square kilometers and is actively advancing exploration efforts, including drilling programs at the Lone Star and Stander zones, to define and expand gold resources in one of the world's premier mining jurisdictions.",
+  "metals_and_minerals": [
+    "Gold"
+  ],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

@@ -1,8 +1,19 @@
 {
   "name": "Hycroft Mining Holding Corporation",
+  "name_former": "Mudrick Capital Acquisition Corporation",
+  "name_clean": "Hycroft Mining",
   "ticker": "HYMC",
   "exchange": "NASDAQ",
   "website": "hycroftmining.com",
+  "logo_url": "https://www.hycroftmining.com/wp-content/uploads/logo.png",
+  "logo_local": null,
+  "country_of_domicile": "United States",
+  "description": "Hycroft Mining Holding Corporation is a US-based gold and silver development company, which owns the Hycroft Mine, one of the world's largest precious metals deposits. Located in the world-class mining region of Northern Nevada, the Hycroft Mine is an open-pit heap leach operation. The company is focused on completing its technical studies to transition the mine to a large-scale milling operation to process its vast sulfide mineral resources.",
+  "metals_and_minerals": [
+    "Gold",
+    "Silver"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

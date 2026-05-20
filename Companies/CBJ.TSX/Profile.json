@@ -1,8 +1,20 @@
 {
   "name": "Cambior Inc.",
+  "name_former": null,
+  "name_clean": "Cambior",
   "ticker": "CBJ",
   "exchange": "TSX",
   "website": "https://www.iamgold.com/",
+  "logo_url": "https://www.iamgold.com/files/images/logo/logo.svg",
+  "logo_local": null,
+  "country_of_domicile": "Canada",
+  "description": "Cambior Inc. was a major Canadian gold producer and mining company with operations and exploration activities in North and South America. Established in 1986, the company operated several mines, including the Rosebel gold mine in Suriname and the Doyon mine in Quebec, Canada. In November 2006, Cambior was acquired by IAMGOLD Corporation in a transaction that created a premier mid-tier gold producer, consolidating their mining operations and exploration properties under the IAMGOLD brand.",
+  "metals_and_minerals": [
+    "Gold",
+    "Niobium",
+    "Copper"
+  ],
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }

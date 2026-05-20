@@ -1,8 +1,16 @@
 {
-  "name": "Thred Limited (now known as 8common Limited)",
+  "name": "8common Limited",
+  "name_former": null,
+  "name_clean": "8common",
   "ticker": "8CO",
   "exchange": "ASX",
   "website": "https://www.8common.com/",
+  "logo_url": "https://www.8common.com/wp-content/uploads/2020/06/8common-logo-300x90-1.png",
+  "logo_local": null,
+  "country_of_domicile": "Australia",
+  "description": "8common Limited is an Australia-based company engaged in the development and distribution of enterprise software solutions. The Company's core product is Expense8, a travel and expense management platform that helps organizations streamline expense reporting, card management, and travel booking. Expense8 is widely used by Australian federal and state government agencies, as well as large corporations. Additionally, the Company offers CardEase, a card application and management solution. 8common focuses on delivering financial technology solutions that enhance productivity, compliance, and cost-efficiency for its clients.",
+  "metals_and_minerals": null,
+  "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success"
 }
