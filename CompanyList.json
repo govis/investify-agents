@@ -312,28 +312,6 @@
     ]
   },
   {
-    "name": "Keyence",
-    "ticker": "6861",
-    "exchange": "TYO",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Industrial Automation"
-      }
-    ]
-  },
-  {
-    "name": "Fanuc",
-    "ticker": "6954",
-    "exchange": "TYO",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Industrial Robotics"
-      }
-    ]
-  },
-  {
     "name": "Schneider Electric",
     "ticker": "SU",
     "exchange": "Euronext Paris",
@@ -345,21 +323,6 @@
       {
         "thesis_name": "Electrification",
         "company_type": "Midstream Grid Infrastructure"
-      }
-    ]
-  },
-  {
-    "name": "Siemens",
-    "ticker": "SIE",
-    "exchange": "Xetra",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Data center infrastructure and industrial software"
-      },
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Industrial technology conglomerate"
       }
     ]
   },
@@ -491,25 +454,6 @@
       {
         "thesis_name": "Defense",
         "company_type": "Enterprise Software"
-      }
-    ]
-  },
-  {
-    "name": "Schneider Electric",
-    "ticker": "SU",
-    "exchange": "EPA",
-    "theses": [
-      {
-        "thesis_name": "AI",
-        "company_type": "Energy Management and Automation"
-      },
-      {
-        "thesis_name": "Defense",
-        "company_type": "Energy Management and Industrial Automation"
-      },
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Energy management and industrial electrification"
       }
     ]
   },
@@ -797,28 +741,6 @@
     ]
   },
   {
-    "name": "Schneider Electric",
-    "ticker": "SU.PARIS",
-    "exchange": "Euronext Paris",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Grid Infrastructure and T&D Equipment Provider"
-      }
-    ]
-  },
-  {
-    "name": "ABB",
-    "ticker": "ABBN.SIX",
-    "exchange": "SIX Swiss Exchange",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Grid Infrastructure and T&D Equipment Provider"
-      }
-    ]
-  },
-  {
     "name": "GE Vernova",
     "ticker": "GEV",
     "exchange": "NYSE",
@@ -982,17 +904,6 @@
     ]
   },
   {
-    "name": "Siemens Energy",
-    "ticker": "ENR",
-    "exchange": "ETR",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Grid management and transformer production"
-      }
-    ]
-  },
-  {
     "name": "Vertiv Holdings",
     "ticker": "VRT",
     "exchange": "NYSE",
@@ -1052,7 +963,7 @@
     ]
   },
   {
-    "name": "Sociedad Qu\u00edmica y Minera de Chile",
+    "name": "Sociedad Química y Minera de Chile",
     "ticker": "SQM",
     "exchange": "NYSE",
     "theses": [
@@ -1085,83 +996,6 @@
     ]
   },
   {
-    "name": "Schneider Electric",
-    "ticker": "SU.PAR",
-    "exchange": "Euronext Paris",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Industrial Automation and Electrified Heat"
-      }
-    ]
-  },
-  {
-    "name": "Prysmian Group",
-    "ticker": "PRY.BIT",
-    "exchange": "Borsa Italiana",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Cable Manufacturing and HVDC Interconnects"
-      }
-    ]
-  },
-  {
-    "name": "Atlas Copco",
-    "ticker": "ATCO-A.STO",
-    "exchange": "Nasdaq Stockholm",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Industrial Heat and Turbo-compression"
-      }
-    ]
-  },
-  {
-    "name": "Atlas Copco",
-    "ticker": "ATCO.STO",
-    "exchange": "Nasdaq Stockholm",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Industrial Equipment and Electrification Infrastructure"
-      }
-    ]
-  },
-  {
-    "name": "Prysmian Group",
-    "ticker": "PRY",
-    "exchange": "Borsa Italiana",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Cable and Energy Transmission Systems"
-      }
-    ]
-  },
-  {
-    "name": "Atlas Copco",
-    "ticker": "ATCO-A",
-    "exchange": "Nasdaq Stockholm",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Industrial Equipment and Electrification Infrastructure"
-      }
-    ]
-  },
-  {
-    "name": "Atlas Copco",
-    "ticker": "ATCO",
-    "exchange": "Nasdaq Stockholm",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Industrial Equipment and Electrification Infrastructure"
-      }
-    ]
-  },
-  {
     "name": "BHP Group",
     "ticker": "BHP",
     "exchange": "ASX",
@@ -1173,17 +1007,6 @@
       {
         "thesis_name": "Nuclear",
         "company_type": "Diversified Miner"
-      }
-    ]
-  },
-  {
-    "name": "ABB",
-    "ticker": "ABBN",
-    "exchange": "SIX Swiss Exchange",
-    "theses": [
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Power Grids and Electrification Technology"
       }
     ]
   },
@@ -1744,7 +1567,7 @@
   {
     "name": "Rio2 Ltd",
     "ticker": "RIO",
-    "exchange": "TSX-V",
+    "exchange": "TSXV",
     "theses": [
       {
         "thesis_name": "Gold",
@@ -1755,7 +1578,7 @@
   {
     "name": "Heliostar Metals",
     "ticker": "HSTR",
-    "exchange": "TSX-V",
+    "exchange": "TSXV",
     "theses": [
       {
         "thesis_name": "Gold",
@@ -1766,7 +1589,7 @@
   {
     "name": "1911 Gold",
     "ticker": "AUMB",
-    "exchange": "TSX-V",
+    "exchange": "TSXV",
     "theses": [
       {
         "thesis_name": "Gold",
@@ -1843,17 +1666,6 @@
   {
     "name": "Revival Gold",
     "ticker": "RVG",
-    "exchange": "TSX",
-    "theses": [
-      {
-        "thesis_name": "Gold",
-        "company_type": "Gold Developer"
-      }
-    ]
-  },
-  {
-    "name": "First Mining Gold",
-    "ticker": "FF",
     "exchange": "TSX",
     "theses": [
       {
@@ -2728,17 +2540,6 @@
     ]
   },
   {
-    "name": "Lynas",
-    "ticker": "LYC",
-    "exchange": "ASX",
-    "theses": [
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Rare Earth Elements Producer"
-      }
-    ]
-  },
-  {
     "name": "Cheniere Energy",
     "ticker": "LNG",
     "exchange": "NYSE",
@@ -2746,17 +2547,6 @@
       {
         "thesis_name": "Reshoring",
         "company_type": "Energy Geopolitics Proxy"
-      }
-    ]
-  },
-  {
-    "name": "Venture Global LNG",
-    "ticker": "PRIVATE",
-    "exchange": "N/A",
-    "theses": [
-      {
-        "thesis_name": "Reshoring",
-        "company_type": "Energy Infrastructure and LNG"
       }
     ]
   },
@@ -2965,16 +2755,6 @@
     "exchange": "OTC"
   },
   {
-    "name": "B2Gold Corp.",
-    "ticker": "BTO",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Artemis Gold Inc.",
-    "ticker": "ARTG",
-    "exchange": "TSXV"
-  },
-  {
     "name": "Pretium Resources Inc.",
     "ticker": "PVG",
     "exchange": "TSX"
@@ -2992,16 +2772,6 @@
   {
     "name": "TE Connectivity Ltd.",
     "ticker": "TEL",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "LSI Corporation",
-    "ticker": "LSI (Delisted)",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Emulex Corporation",
-    "ticker": "ELX (Delisted)",
     "exchange": "NYSE"
   },
   {
@@ -3050,7 +2820,7 @@
     "exchange": "TSX"
   },
   {
-    "name": "Orr\u00f6n Energy AB",
+    "name": "Orrön Energy AB",
     "ticker": "ORRON",
     "exchange": "STO"
   },
@@ -3068,11 +2838,6 @@
     "name": "Josemaria Resources Inc.",
     "ticker": "JOSE",
     "exchange": "TSX"
-  },
-  {
-    "name": "Revival Gold Inc.",
-    "ticker": "RVG",
-    "exchange": "TSXV"
   },
   {
     "name": "Northern Superior Resources Inc.",
@@ -3210,9 +2975,10 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Stride, Inc. (formerly K12 Inc.)",
+    "name": "Stride, Inc.",
     "ticker": "LRN",
-    "exchange": "NYSE"
+    "exchange": "NYSE",
+    "name_former": "K12 Inc."
   },
   {
     "name": "Bill Holdings, Inc.",
@@ -3255,23 +3021,8 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Citrix Systems, Inc.",
-    "ticker": "CTXS (Delisted)",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Atha Energy Corp.",
-    "ticker": "SASK",
-    "exchange": "CSE"
-  },
-  {
     "name": "Buffalo Potash Corp.",
     "ticker": "N",
-    "exchange": "A"
-  },
-  {
-    "name": "Buffalo Potash Corp.",
-    "ticker": "A",
     "exchange": "A"
   },
   {
@@ -3335,11 +3086,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Cabral Gold Inc.",
-    "ticker": "CBR",
-    "exchange": "TSXV"
-  },
-  {
     "name": "Altamira Gold Corp.",
     "ticker": "ALTA",
     "exchange": "TSXV"
@@ -3370,11 +3116,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Gold Royalty Corp.",
-    "ticker": "GROY",
-    "exchange": "NYSE American"
-  },
-  {
     "name": "Bear Creek Mining Corporation",
     "ticker": "BCM",
     "exchange": "TSXV"
@@ -3383,11 +3124,6 @@
     "name": "Great Panther Mining Limited",
     "ticker": "GPL",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Hudbay Minerals Inc.",
-    "ticker": "HBM",
-    "exchange": "TSX"
   },
   {
     "name": "Deere & Company",
@@ -3438,16 +3174,6 @@
     "name": "TMAC Resources Inc.",
     "ticker": "TMR",
     "exchange": "TSX"
-  },
-  {
-    "name": "Kinross Gold Corporation",
-    "ticker": "K",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "BHP Group Limited",
-    "ticker": "BHP",
-    "exchange": "LSE"
   },
   {
     "name": "BirdDog Technology Limited",
@@ -3501,22 +3227,13 @@
   },
   {
     "name": "Prospector Metals Corp.",
-    "ticker": "PPP",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Ethos Gold Corp. (now Prospector Metals Corp.)",
     "ticker": "ECC",
-    "exchange": "TSXV"
+    "exchange": "TSXV",
+    "name_former": "Ethos Gold Corp."
   },
   {
     "name": "Defense Metals Corp.",
     "ticker": "DEFN",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Azincourt Energy Corp.",
-    "ticker": "AAZ",
     "exchange": "TSXV"
   },
   {
@@ -3545,9 +3262,10 @@
     "exchange": "CSE"
   },
   {
-    "name": "Ascot Resources Ltd. (now Cambria Gold Mines Inc.)",
+    "name": "Cambria Gold Mines Inc.",
     "ticker": "AOT",
-    "exchange": "TSX"
+    "exchange": "TSX",
+    "name_former": "Ascot Resources Ltd."
   },
   {
     "name": "Nations Royalty Corp.",
@@ -3557,7 +3275,7 @@
   {
     "name": "Venerable Ventures Ltd.",
     "ticker": "VLV.H",
-    "exchange": "TSX Venture Exchange"
+    "exchange": "TSXV"
   },
   {
     "name": "First Solar, Inc.",
@@ -3615,11 +3333,6 @@
     "exchange": "TSX"
   },
   {
-    "name": "Denison Mines Corp.",
-    "ticker": "DML",
-    "exchange": "TSX"
-  },
-  {
     "name": "Precision Drilling Corporation",
     "ticker": "PD",
     "exchange": "TSX"
@@ -3642,12 +3355,12 @@
   {
     "name": "Rockhopper Exploration plc",
     "ticker": "RKH",
-    "exchange": "LSE (AIM)"
+    "exchange": "LSE"
   },
   {
     "name": "Central Asia Metals plc",
     "ticker": "CAML",
-    "exchange": "LSE (AIM)"
+    "exchange": "LSE"
   },
   {
     "name": "PayPal Holdings, Inc.",
@@ -3727,7 +3440,7 @@
   {
     "name": "Uranium Energy Corp.",
     "ticker": "UEC",
-    "exchange": "NYSE American"
+    "exchange": "AMEX"
   },
   {
     "name": "GoldMining Inc.",
@@ -3810,11 +3523,6 @@
     "exchange": "TSX"
   },
   {
-    "name": "Sigma Lithium Corporation",
-    "ticker": "SGML",
-    "exchange": "TSX"
-  },
-  {
     "name": "Zalatoris II Acquisition Corp.",
     "ticker": "ZTOA",
     "exchange": "NYSE"
@@ -3838,11 +3546,6 @@
     "name": "Amadeus IT Group, S.A.",
     "ticker": "AMS",
     "exchange": "BME"
-  },
-  {
-    "name": "Dryden Gold Corp.",
-    "ticker": "DRY",
-    "exchange": "TSXV"
   },
   {
     "name": "Spire Global, Inc.",
@@ -3870,16 +3573,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "MCI, Inc.",
-    "ticker": "MCI (Delisted)",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Sears, Roebuck and Co.",
-    "ticker": "SHLD (Delisted)",
-    "exchange": "NYSE"
-  },
-  {
     "name": "Fannie Mae",
     "ticker": "FNMA",
     "exchange": "OTC"
@@ -3888,11 +3581,6 @@
     "name": "Cheniere Energy Partners, L.P.",
     "ticker": "CQP",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Saab AB",
-    "ticker": "SAAB-B",
-    "exchange": "STO (Nasdaq Stockholm)"
   },
   {
     "name": "Wallbox N.V.",
@@ -3910,11 +3598,6 @@
     "exchange": "TSX"
   },
   {
-    "name": "Yellow Cake plc",
-    "ticker": "YCA",
-    "exchange": "LSE (AIM)"
-  },
-  {
     "name": "Zeta Resources Limited",
     "ticker": "ZER",
     "exchange": "ASX"
@@ -3923,11 +3606,6 @@
     "name": "Danakali Limited",
     "ticker": "DNK",
     "exchange": "LSE"
-  },
-  {
-    "name": "Lundin Gold Inc.",
-    "ticker": "LUG",
-    "exchange": "Nasdaq Stockholm"
   },
   {
     "name": "Yamana Gold Inc.",
@@ -3968,11 +3646,6 @@
     "name": "Tempus Resources Limited",
     "ticker": "TMR",
     "exchange": "ASX"
-  },
-  {
-    "name": "Kinross Gold Corporation",
-    "ticker": "K",
-    "exchange": "TSX"
   },
   {
     "name": "AB Volvo",
@@ -4070,12 +3743,7 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Cadbury plc",
-    "ticker": "Delisted",
-    "exchange": "Delisted"
-  },
-  {
-    "name": "\u00d8rsted A/S",
+    "name": "Ørsted A/S",
     "ticker": "ORSTED",
     "exchange": "NASDAQ Copenhagen"
   },
@@ -4088,11 +3756,6 @@
     "name": "Shell plc",
     "ticker": "SHELL",
     "exchange": "LSE"
-  },
-  {
-    "name": "Alamos Gold Inc.",
-    "ticker": "AGI",
-    "exchange": "TSX"
   },
   {
     "name": "AuRico Gold Inc.",
@@ -4245,18 +3908,8 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Sandstorm Gold Ltd.",
-    "ticker": "SAND",
-    "exchange": "TSX"
-  },
-  {
     "name": "Atlas Copco AB",
     "ticker": "ATCOA",
-    "exchange": "Nasdaq Stockholm"
-  },
-  {
-    "name": "Atlas Copco AB",
-    "ticker": "ATCOB",
     "exchange": "Nasdaq Stockholm"
   },
   {
@@ -4278,16 +3931,6 @@
     "name": "Brunswick Exploration Inc.",
     "ticker": "BRW",
     "exchange": "TSXV"
-  },
-  {
-    "name": "Delta Resources Limited",
-    "ticker": "DLTA",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Sun Microsystems, Inc.",
-    "ticker": "SUNW (Delisted)",
-    "exchange": "NASDAQ (Historical)"
   },
   {
     "name": "IG Group Holdings plc",
@@ -4315,9 +3958,10 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Elevance Health, Inc. (formerly WellPoint, Inc.)",
+    "name": "Elevance Health, Inc.",
     "ticker": "ELV",
-    "exchange": "NYSE"
+    "exchange": "NYSE",
+    "name_former": "WellPoint, Inc."
   },
   {
     "name": "The Procter & Gamble Company",
@@ -4360,14 +4004,10 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Symantec Corporation (now Gen Digital Inc.)",
+    "name": "Gen Digital Inc.",
     "ticker": "GEN",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Rolls-Royce Holdings plc",
-    "ticker": "RR",
-    "exchange": ".LSE"
+    "exchange": "NASDAQ",
+    "name_former": "Symantec Corporation"
   },
   {
     "name": "Croda International plc",
@@ -4415,19 +4055,15 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "iStar Inc. (now Safehold Inc.)",
+    "name": "Safehold Inc.",
     "ticker": "SAFE",
-    "exchange": "NYSE"
+    "exchange": "NYSE",
+    "name_former": "iStar Inc."
   },
   {
     "name": "Symantec Corp.",
     "ticker": "SYMC",
     "exchange": "NASDAQ"
-  },
-  {
-    "name": "Novartis AG",
-    "ticker": "NVS",
-    "exchange": "NYSE"
   },
   {
     "name": "Infosys Limited",
@@ -4482,11 +4118,6 @@
   {
     "name": "Alfa Laval AB",
     "ticker": "ALFA",
-    "exchange": "Nasdaq Stockholm"
-  },
-  {
-    "name": "AB Electrolux",
-    "ticker": "ELUX-B",
     "exchange": "Nasdaq Stockholm"
   },
   {
@@ -4550,9 +4181,10 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Midas Gold Corp. (now Perpetua Resources)",
+    "name": "Perpetua Resources",
     "ticker": "PPTA",
-    "exchange": "TSX"
+    "exchange": "TSX",
+    "name_former": "Midas Gold Corp."
   },
   {
     "name": "ASML Holding N.V.",
@@ -4567,7 +4199,7 @@
   {
     "name": "Jungheinrich AG",
     "ticker": "JUN3",
-    "exchange": "Xetra (Frankfurt Stock Exchange)"
+    "exchange": "Xetra"
   },
   {
     "name": "NXP Semiconductors N.V.",
@@ -4622,11 +4254,6 @@
   {
     "name": "Globix Corporation",
     "ticker": "GBIX",
-    "exchange": "AMEX"
-  },
-  {
-    "name": "Globix Corporation",
-    "ticker": "GEX",
     "exchange": "AMEX"
   },
   {
@@ -4690,26 +4317,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Siemens Energy AG",
-    "ticker": "ENR",
-    "exchange": "XETRA (Frankfurt Stock Exchange)"
-  },
-  {
-    "name": "Onyx Gold Corp.",
-    "ticker": "ONX",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Oreterra Metals Corp.",
-    "ticker": "ORE",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Tudor Gold Corp.",
-    "ticker": "TUD",
-    "exchange": "TSXV"
-  },
-  {
     "name": "Carlin Gold Corp.",
     "ticker": "CGD",
     "exchange": "TSXV"
@@ -4717,7 +4324,7 @@
   {
     "name": "National Atomic Company Kazatomprom JSC",
     "ticker": "KAP",
-    "exchange": "London Stock Exchange"
+    "exchange": "LSE"
   },
   {
     "name": "Ameriprise Financial, Inc.",
@@ -4735,9 +4342,10 @@
     "exchange": "NYSE"
   },
   {
-    "name": "The Laclede Group, Inc. (now Spire Inc.)",
+    "name": "Spire Inc.",
     "ticker": "SR",
-    "exchange": "NYSE"
+    "exchange": "NYSE",
+    "name_former": "The Laclede Group, Inc."
   },
   {
     "name": "Oil-Dri Corporation of America",
@@ -4747,11 +4355,6 @@
   {
     "name": "Monsanto Company",
     "ticker": "MON",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Genentech, Inc.",
-    "ticker": "DNA (delisted)",
     "exchange": "NYSE"
   },
   {
@@ -4835,18 +4438,14 @@
     "exchange": "TSX"
   },
   {
-    "name": "Zentek Ltd. (formerly Zenyatta Ventures Ltd.)",
+    "name": "Zentek Ltd.",
     "ticker": "ZEN",
-    "exchange": "TSXV"
+    "exchange": "TSXV",
+    "name_former": "Zenyatta Ventures Ltd."
   },
   {
     "name": "Calibre Mining Corp.",
     "ticker": "CXB",
-    "exchange": "TSX"
-  },
-  {
-    "name": "IAMGOLD Corporation",
-    "ticker": "IMG",
     "exchange": "TSX"
   },
   {
@@ -4885,7 +4484,7 @@
     "exchange": "Xetra"
   },
   {
-    "name": "A.P. M\u00f8ller - M\u00e6rsk A/S",
+    "name": "A.P. Møller - Mærsk A/S",
     "ticker": "MAERSK-B",
     "exchange": "Nasdaq Copenhagen"
   },
@@ -4893,11 +4492,6 @@
     "name": "EVgo Inc.",
     "ticker": "EVGO",
     "exchange": "NASDAQ"
-  },
-  {
-    "name": "National Grid plc",
-    "ticker": "NGG",
-    "exchange": "NYSE"
   },
   {
     "name": "Centrica plc",
@@ -4925,14 +4519,9 @@
     "exchange": "TSX"
   },
   {
-    "name": "Energy Fuels Inc.",
-    "ticker": "UUUU",
-    "exchange": "NYSE American"
-  },
-  {
     "name": "Austin Gold Corp.",
     "ticker": "AUST",
-    "exchange": "NYSE American"
+    "exchange": "AMEX"
   },
   {
     "name": "Jacobs Solutions Inc.",
@@ -4985,11 +4574,6 @@
     "exchange": "LSE"
   },
   {
-    "name": "Heliostar Metals Ltd.",
-    "ticker": "HSTR",
-    "exchange": "TSXV"
-  },
-  {
     "name": "Mercury Systems, Inc.",
     "ticker": "MRCY",
     "exchange": "NASDAQ"
@@ -5030,11 +4614,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "NexGen Energy Ltd.",
-    "ticker": "NXE",
-    "exchange": "ASX"
-  },
-  {
     "name": "Snowflake Inc.",
     "ticker": "SNOW",
     "exchange": "NYSE"
@@ -5073,11 +4652,6 @@
     "name": "Copper Road Resources, Inc.",
     "ticker": "CRD",
     "exchange": "TSXV"
-  },
-  {
-    "name": "Unilever PLC",
-    "ticker": "ULVR",
-    "exchange": "LSE"
   },
   {
     "name": "Travelport Worldwide Limited",
@@ -5132,11 +4706,6 @@
   {
     "name": "Telefonaktiebolaget LM Ericsson",
     "ticker": "ERIC",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Electra Battery Materials Corporation",
-    "ticker": "ELBM",
     "exchange": "NASDAQ"
   },
   {
@@ -5230,19 +4799,9 @@
     "exchange": "NYSE"
   },
   {
-    "name": "DLP Resources Inc.",
-    "ticker": "DLP",
-    "exchange": "TSXV"
-  },
-  {
     "name": "Theta Gold Mines Limited",
     "ticker": "TGM",
     "exchange": "ASX"
-  },
-  {
-    "name": "ServiceNow, Inc.",
-    "ticker": "NOW",
-    "exchange": "NASDAQ"
   },
   {
     "name": "Under Armour, Inc.",
@@ -5250,19 +4809,10 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Under Armour, Inc.",
-    "ticker": "UAA",
+    "name": "Global Payments",
+    "name_former": "Worldpay, Inc.",
+    "ticker": "GPN",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Vantiv, Inc. (now Worldpay, Inc.)",
-    "ticker": "VNTV (at the time)",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Stallion Uranium Corp.",
-    "ticker": "STUD",
-    "exchange": "TSX.V"
   },
   {
     "name": "enCore Energy Corp.",
@@ -5272,7 +4822,7 @@
   {
     "name": "Golden Predator Mining Corp.",
     "ticker": "GPY",
-    "exchange": "TSX.V"
+    "exchange": "TSXV"
   },
   {
     "name": "Copper Mountain Mining Corporation",
@@ -5307,11 +4857,6 @@
   {
     "name": "TUI AG",
     "ticker": "TUI1",
-    "exchange": "Frankfurt Stock Exchange"
-  },
-  {
-    "name": "Siemens Aktiengesellschaft (Siemens AG)",
-    "ticker": "SIE",
     "exchange": "XETRA"
   },
   {
@@ -5355,11 +4900,6 @@
     "exchange": "TSX"
   },
   {
-    "name": "Yamana Gold Inc.",
-    "ticker": "YRI",
-    "exchange": "TSX"
-  },
-  {
     "name": "Southern Arc Minerals Inc.",
     "ticker": "SA",
     "exchange": "TSXV"
@@ -5400,14 +4940,9 @@
     "exchange": "ASX"
   },
   {
-    "name": "GoldHaven Resources Corp.",
-    "ticker": "GHVN",
-    "exchange": "CSE (Canadian Securities Exchange)"
-  },
-  {
     "name": "Magnum Goldcorp Inc.",
     "ticker": "MGI",
-    "exchange": "TSXV (TSX Venture Exchange)"
+    "exchange": "TSXV"
   },
   {
     "name": "Skeena Resources Limited",
@@ -5420,9 +4955,10 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Eurasian Minerals Inc. (now EMX Royalty Corporation)",
+    "name": "EMX Royalty Corporation",
     "ticker": "EMX",
-    "exchange": "NYSE"
+    "exchange": "NYSE",
+    "name_former": "Eurasian Minerals Inc."
   },
   {
     "name": "QuantumScape Corporation",
@@ -5457,7 +4993,7 @@
   {
     "name": "Contango Silver & Gold Inc.",
     "ticker": "CTGO",
-    "exchange": "NYSE American"
+    "exchange": "AMEX"
   },
   {
     "name": "Talos Energy Inc.",
@@ -5475,9 +5011,10 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Momentive Global Inc. (formerly SurveyMonkey)",
+    "name": "Momentive Global Inc.",
     "ticker": "MNTV",
-    "exchange": "NASDAQ"
+    "exchange": "NASDAQ",
+    "name_former": "SurveyMonkey"
   },
   {
     "name": "Humana Inc.",
@@ -5535,11 +5072,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "NexGold Mining Corp.",
-    "ticker": "NEXG",
-    "exchange": "TSXV"
-  },
-  {
     "name": "Fireweed Metals Corp.",
     "ticker": "FWZ",
     "exchange": "TSXV"
@@ -5565,9 +5097,10 @@
     "exchange": "LSE"
   },
   {
-    "name": "ITT Corporation (now ITT Inc.)",
+    "name": "ITT Inc.",
     "ticker": "ITT",
-    "exchange": "NYSE"
+    "exchange": "NYSE",
+    "name_former": "ITT Corporation"
   },
   {
     "name": "NRG Energy, Inc.",
@@ -5630,11 +5163,6 @@
     "exchange": "OTC"
   },
   {
-    "name": "Lahontan Gold Corp.",
-    "ticker": "LG",
-    "exchange": "TSXV"
-  },
-  {
     "name": "Remedy Corporation",
     "ticker": "RMDY",
     "exchange": "NASDAQ"
@@ -5670,11 +5198,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Onyx Gold Corp.",
-    "ticker": "ONYX",
-    "exchange": "TSXV"
-  },
-  {
     "name": "Benchmark Electronics, Inc.",
     "ticker": "BHE",
     "exchange": "NYSE"
@@ -5695,11 +5218,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Broadcom Corporation",
-    "ticker": "BRCM",
-    "exchange": "NASDAQ"
-  },
-  {
     "name": "Nextracker Inc.",
     "ticker": "NXT",
     "exchange": "NASDAQ"
@@ -5710,24 +5228,9 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Seabridge Gold Inc.",
-    "ticker": "SEA",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Aura Minerals Inc.",
-    "ticker": "ORA",
-    "exchange": "TSX"
-  },
-  {
     "name": "Hidrovias do Brasil S.A.",
     "ticker": "HBSA3",
     "exchange": "B3"
-  },
-  {
-    "name": "Western Uranium & Vanadium Corp.",
-    "ticker": "WSTRF",
-    "exchange": "OTCQX"
   },
   {
     "name": "Exelon Corporation",
@@ -5745,9 +5248,10 @@
     "exchange": "ASX"
   },
   {
-    "name": "Uranium Equities Limited (now PhosEnergy Limited)",
+    "name": "PhosEnergy Limited",
     "ticker": "PEA",
-    "exchange": "ASX"
+    "exchange": "ASX",
+    "name_former": "Uranium Equities Limited"
   },
   {
     "name": "Epocrates, Inc.",
@@ -5755,19 +5259,9 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Snowline Gold Corp.",
-    "ticker": "SGD",
-    "exchange": "TSXV"
-  },
-  {
     "name": "Lithium Argentina Corp.",
     "ticker": "LAAC",
     "exchange": "TSX"
-  },
-  {
-    "name": "Baselode Energy Corp.",
-    "ticker": "FIND",
-    "exchange": "TSXV"
   },
   {
     "name": "INV Metals Inc.",
@@ -5780,19 +5274,15 @@
     "exchange": "NYSE"
   },
   {
-    "name": "TransAlta Corporation",
-    "ticker": "TAC",
-    "exchange": "NYSE"
-  },
-  {
     "name": "Carbon Streaming Corporation",
     "ticker": "NETZ",
     "exchange": "CBOE Canada"
   },
   {
-    "name": "Conic Metals Corp. (now Nickel 28 Capital Corp.)",
+    "name": "Nickel 28 Capital Corp.",
     "ticker": "NKL",
-    "exchange": "TSXV"
+    "exchange": "TSXV",
+    "name_former": "Conic Metals Corp."
   },
   {
     "name": "Greenlane Renewables Inc.",
@@ -5830,18 +5320,8 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Cloudflare, Inc.",
-    "ticker": "NET",
-    "exchange": "NASDAQ"
-  },
-  {
     "name": "Dominion Energy, Inc.",
     "ticker": "D",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "HEICO Corporation",
-    "ticker": "HEI.A",
     "exchange": "NYSE"
   },
   {
@@ -5855,7 +5335,7 @@
     "exchange": "NYSE"
   },
   {
-    "name": "IEnova (Infraestructura Energ\u00e9tica Nova)",
+    "name": "IEnova (Infraestructura Energética Nova)",
     "ticker": "IENOVA",
     "exchange": "BMV"
   },
@@ -5873,11 +5353,6 @@
     "name": "ARC Resources Ltd.",
     "ticker": "ARX",
     "exchange": "TSX"
-  },
-  {
-    "name": "IAMGOLD Corporation",
-    "ticker": "IMG",
-    "exchange": "NYSE"
   },
   {
     "name": "V.F. Corporation",
@@ -5905,16 +5380,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "A.P. M\u00f8ller - M\u00e6rsk A/S",
-    "ticker": "MAERSK-B.CO",
-    "exchange": "Nasdaq Copenhagen"
-  },
-  {
-    "name": "Science Applications International Corporation",
-    "ticker": "SAIC",
-    "exchange": "NYSE"
-  },
-  {
     "name": "Apple Hospitality REIT, Inc.",
     "ticker": "APLE",
     "exchange": "NYSE"
@@ -5938,11 +5403,6 @@
     "name": "electroCore, Inc.",
     "ticker": "ECOR",
     "exchange": "NASDAQ"
-  },
-  {
-    "name": "enCore Energy Corp.",
-    "ticker": "EU",
-    "exchange": "NYSE American"
   },
   {
     "name": "C2C Metals Corp.",
@@ -5980,14 +5440,10 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Cyren Ltd.",
-    "ticker": "CYRN",
-    "exchange": "NASDAQ (formerly)"
-  },
-  {
-    "name": "North American Nickel Inc. (now Premium Nickel Resources Ltd.)",
+    "name": "Premium Nickel Resources Ltd.",
     "ticker": "PNRL",
-    "exchange": "TSXV"
+    "exchange": "TSXV",
+    "name_former": "North American Nickel Inc."
   },
   {
     "name": "Centamin plc",
@@ -6030,11 +5486,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Teck Resources Limited",
-    "ticker": "TECK",
-    "exchange": "TSX"
-  },
-  {
     "name": "General Dynamics Corporation",
     "ticker": "GD",
     "exchange": "NYSE"
@@ -6075,19 +5526,14 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Atlas Copco AB",
-    "ticker": "ATCO-A.ST",
-    "exchange": "Nasdaq Stockholm"
-  },
-  {
     "name": "AstraZeneca PLC",
     "ticker": "AZN",
     "exchange": "LSE"
   },
   {
-    "name": "Gestamp Automoci\u00f3n, S.A.",
+    "name": "Gestamp Automoción, S.A.",
     "ticker": "GEST",
-    "exchange": "BME (Bolsas y Mercados Espa\u00f1oles)"
+    "exchange": "BME (Bolsas y Mercados Españoles)"
   },
   {
     "name": "Nucor Corporation",
@@ -6097,11 +5543,6 @@
   {
     "name": "Karora Resources Inc.",
     "ticker": "KRR",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Wheaton Precious Metals Corp.",
-    "ticker": "WPM",
     "exchange": "TSX"
   },
   {
@@ -6123,26 +5564,6 @@
     "name": "Aspen Technology, Inc.",
     "ticker": "AZPN",
     "exchange": "NASDAQ"
-  },
-  {
-    "name": "Sibanye Stillwater Limited",
-    "ticker": "SSW (JSE)",
-    "exchange": "New York Stock Exchange (NYSE)"
-  },
-  {
-    "name": "Sibanye Stillwater Limited",
-    "ticker": "SBSW (NYSE)",
-    "exchange": "New York Stock Exchange (NYSE)"
-  },
-  {
-    "name": "Gold Fields Limited",
-    "ticker": "GFI (JSE)",
-    "exchange": "New York Stock Exchange (NYSE)"
-  },
-  {
-    "name": "Gold Fields Limited",
-    "ticker": "GFI (NYSE)",
-    "exchange": "New York Stock Exchange (NYSE)"
   },
   {
     "name": "SentinelOne, Inc.",
@@ -6215,9 +5636,10 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Shell plc (formerly Royal Dutch Shell)",
+    "name": "Shell plc",
     "ticker": "SHEL",
-    "exchange": "LSE"
+    "exchange": "LSE",
+    "name_former": "Royal Dutch Shell"
   },
   {
     "name": "HCA Healthcare, Inc.",
@@ -6238,11 +5660,6 @@
     "name": "Super Micro Computer, Inc.",
     "ticker": "SMCI",
     "exchange": "NASDAQ"
-  },
-  {
-    "name": "Yamana Gold Inc.",
-    "ticker": "AUY",
-    "exchange": "NYSE"
   },
   {
     "name": "Critical Elements Lithium Corp.",
@@ -6290,19 +5707,9 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "BAE Systems plc",
-    "ticker": "BA.L",
-    "exchange": "LSE"
-  },
-  {
     "name": "Expro Group Holdings N.V.",
     "ticker": "XPRO",
     "exchange": "NYSE"
-  },
-  {
-    "name": "LSI Corporation",
-    "ticker": "LSI",
-    "exchange": "NASDAQ"
   },
   {
     "name": "Agere Systems Inc.",
@@ -6317,11 +5724,6 @@
   {
     "name": "Investec PLC",
     "ticker": "INVP",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Investec PLC",
-    "ticker": "ITCFY",
     "exchange": "OTC"
   },
   {
@@ -6355,16 +5757,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Seabridge Gold Inc.",
-    "ticker": "SEA (TSX)",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Seabridge Gold Inc.",
-    "ticker": "SA (NYSE)",
-    "exchange": "NYSE"
-  },
-  {
     "name": "Rio Silver Inc.",
     "ticker": "RYO",
     "exchange": "TSXV"
@@ -6378,16 +5770,6 @@
     "name": "Aguila American Gold Ltd.",
     "ticker": "AGL",
     "exchange": "TSXV"
-  },
-  {
-    "name": "Perseus Mining Limited",
-    "ticker": "PRU",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Barrick Gold Corporation",
-    "ticker": "ABX",
-    "exchange": "TSX"
   },
   {
     "name": "Liberty Energy Inc.",
@@ -6495,9 +5877,10 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Motorola, Inc. (now Motorola Solutions, Inc.)",
+    "name": "Motorola Solutions, Inc.",
     "ticker": "MSI",
-    "exchange": "NYSE"
+    "exchange": "NYSE",
+    "name_former": "Motorola, Inc."
   },
   {
     "name": "Colliers International Group Inc.",
@@ -6600,24 +5983,9 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Atlas Iron Limited",
-    "ticker": "AGO (Delisted)",
-    "exchange": "ASX"
-  },
-  {
     "name": "Avenira Limited",
     "ticker": "AEV",
     "exchange": "ASX"
-  },
-  {
-    "name": "Pacific Energy Limited",
-    "ticker": "PEA (Delisted)",
-    "exchange": "ASX"
-  },
-  {
-    "name": "Atha Energy Corp.",
-    "ticker": "SASK",
-    "exchange": "TSXV"
   },
   {
     "name": "PCSB Financial Corporation",
@@ -6683,16 +6051,6 @@
     "name": "Silver Predator Corp.",
     "ticker": "SPD",
     "exchange": "TSXV"
-  },
-  {
-    "name": "Golden Predator Mining Corp.",
-    "ticker": "GPY",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Anfield Energy Inc.",
-    "ticker": "ANLDF",
-    "exchange": "OTC"
   },
   {
     "name": "Caesars Entertainment, Inc.",
@@ -6835,11 +6193,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Teck Resources Limited",
-    "ticker": "TECK.B",
-    "exchange": "TSX"
-  },
-  {
     "name": "Riley Gold Corp.",
     "ticker": "RLYG",
     "exchange": "TSXV"
@@ -6865,11 +6218,6 @@
     "exchange": "TSX"
   },
   {
-    "name": "Aterian, Inc.",
-    "ticker": "ATER",
-    "exchange": "NASDAQ"
-  },
-  {
     "name": "Funko, Inc.",
     "ticker": "FNKO",
     "exchange": "NASDAQ"
@@ -6877,7 +6225,7 @@
   {
     "name": "Iberdrola, S.A.",
     "ticker": "IBE",
-    "exchange": "BME (Bolsas y Mercados Espa\u00f1oles)"
+    "exchange": "BME (Bolsas y Mercados Españoles)"
   },
   {
     "name": "BrightView Holdings, Inc.",
@@ -6892,17 +6240,7 @@
   {
     "name": "Western Copper and Gold Corporation",
     "ticker": "WRN",
-    "exchange": "NYSE American"
-  },
-  {
-    "name": "Western Silver Corporation",
-    "ticker": "WSC (Delisted)",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Western Copper Corporation",
-    "ticker": "WTC (Delisted)",
-    "exchange": "TSX"
+    "exchange": "AMEX"
   },
   {
     "name": "NT Minerals Limited",
@@ -6913,11 +6251,6 @@
     "name": "Pinnacle West Capital Corporation",
     "ticker": "PNW",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Fortune Bay Corp.",
-    "ticker": "FOR",
-    "exchange": "TSXV"
   },
   {
     "name": "Antler Gold Inc.",
@@ -7015,7 +6348,7 @@
     "exchange": "TSX"
   },
   {
-    "name": "Electricit\u00e9 de France SA (EDF)",
+    "name": "Electricité de France SA (EDF)",
     "ticker": "EDF",
     "exchange": "LSE"
   },
@@ -7055,11 +6388,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "GoviEx Uranium Inc.",
-    "ticker": "GVXXF",
-    "exchange": "OTC"
-  },
-  {
     "name": "Leading Edge Materials Corp.",
     "ticker": "LEMSE",
     "exchange": "STO"
@@ -7073,11 +6401,6 @@
     "name": "Brookfield Infrastructure Partners",
     "ticker": "BIP",
     "exchange": "NYSE"
-  },
-  {
-    "name": "NOVAGOLD RESOURCES INC.",
-    "ticker": "NG",
-    "exchange": "TSX"
   },
   {
     "name": "Gatos Silver, Inc.",
@@ -7100,11 +6423,6 @@
     "exchange": "TSX"
   },
   {
-    "name": "First Mining Gold Corp.",
-    "ticker": "FF",
-    "exchange": "TSX Venture Exchange"
-  },
-  {
     "name": "Whirlpool Corporation",
     "ticker": "WHR",
     "exchange": "NYSE"
@@ -7125,19 +6443,9 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Stallion Uranium Corp.",
-    "ticker": "STUD",
-    "exchange": "TSX Venture Exchange"
-  },
-  {
     "name": "Panther Metals PLC",
     "ticker": "PALM",
-    "exchange": "London Stock Exchange"
-  },
-  {
-    "name": "Centerra Gold Inc.",
-    "ticker": "CG",
-    "exchange": "TSX"
+    "exchange": "LSE"
   },
   {
     "name": "Ramelius Resources Limited",
@@ -7178,11 +6486,6 @@
     "name": "Solventum Corporation",
     "ticker": "SOLV",
     "exchange": "NYSE"
-  },
-  {
-    "name": "HighGold Mining Inc.",
-    "ticker": "HG",
-    "exchange": "TSX.V"
   },
   {
     "name": "Chegg, Inc.",
@@ -7250,33 +6553,13 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Denison Mines Corp.",
-    "ticker": "DML (TSX)",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Denison Mines Corp.",
-    "ticker": "DNN (NYSE)",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Skyharbour Resources Ltd.",
-    "ticker": "SYH (TSXV)",
-    "exchange": "TSXV"
-  },
-  {
     "name": "Foremost Clean Energy Ltd.",
-    "ticker": "FMST (NASDAQ)",
-    "exchange": "CSE"
-  },
-  {
-    "name": "Foremost Clean Energy Ltd.",
-    "ticker": "FAT (CSE)",
+    "ticker": "FMST",
     "exchange": "CSE"
   },
   {
     "name": "Uranium Participation Corp.",
-    "ticker": "U (TSX)",
+    "ticker": "U",
     "exchange": "TSX"
   },
   {
@@ -7288,11 +6571,6 @@
     "name": "Anadarko Petroleum Corporation",
     "ticker": "APC",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Honeywell International Inc.",
-    "ticker": "HON",
-    "exchange": "NASDAQ"
   },
   {
     "name": "TRW Inc.",
@@ -7340,11 +6618,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Raytheon Company",
-    "ticker": "RTN (Historical)",
-    "exchange": "NYSE (Historical)"
-  },
-  {
     "name": "V2X, Inc.",
     "ticker": "VVX",
     "exchange": "NYSE"
@@ -7355,19 +6628,20 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Delphi Corporation (now Aptiv PLC)",
+    "name": "Aptiv PLC",
     "ticker": "DPH",
-    "exchange": "NYSE"
+    "exchange": "NYSE",
+    "name_former": "Delphi Corporation"
   },
   {
     "name": "Reunion Gold Corporation",
     "ticker": "RGD",
-    "exchange": "TSX.V"
+    "exchange": "TSXV"
   },
   {
     "name": "Highland Copper Company Inc.",
     "ticker": "HI",
-    "exchange": "TSX.V"
+    "exchange": "TSXV"
   },
   {
     "name": "Torex Gold Resources Ltd.",
@@ -7392,12 +6666,7 @@
   {
     "name": "Uranerz Energy Corp.",
     "ticker": "URZ",
-    "exchange": "NYSE American"
-  },
-  {
-    "name": "Titan Uranium Inc.",
-    "ticker": "TUE",
-    "exchange": "TSX"
+    "exchange": "AMEX"
   },
   {
     "name": "Bain Capital Specialty Finance, Inc.",
@@ -7410,16 +6679,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Goldcorp Inc.",
-    "ticker": "G",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Agnico-Eagle Mines Limited",
-    "ticker": "AEM",
-    "exchange": "TSX"
-  },
-  {
     "name": "Inmet Mining Corporation",
     "ticker": "IMN",
     "exchange": "TSX"
@@ -7428,11 +6687,6 @@
     "name": "Carrier Global Corporation",
     "ticker": "CARR",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Palantir Technologies Inc.",
-    "ticker": "PLTR",
-    "exchange": "NASDAQ"
   },
   {
     "name": "Grove Collaborative Holdings, Inc.",
@@ -7473,11 +6727,6 @@
     "name": "Global Signal Inc.",
     "ticker": "GSL",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Franco-Nevada Corporation",
-    "ticker": "FNV",
-    "exchange": "TSX"
   },
   {
     "name": "GitLab Inc.",
@@ -7540,9 +6789,10 @@
     "exchange": "ASX"
   },
   {
-    "name": "Unity Mining Limited (formerly Bendigo Mining Limited)",
+    "name": "Unity Mining Limited",
     "ticker": "UML",
-    "exchange": "ASX"
+    "exchange": "ASX",
+    "name_former": "Bendigo Mining Limited"
   },
   {
     "name": "Marathon Oil Corporation",
@@ -7595,11 +6845,6 @@
     "exchange": "TSX"
   },
   {
-    "name": "IPSCO Inc.",
-    "ticker": "IPSCO (Delisted)",
-    "exchange": "TSX"
-  },
-  {
     "name": "SPDR Gold Trust",
     "ticker": "GLD",
     "exchange": "NYSE Arca"
@@ -7640,39 +6885,19 @@
     "exchange": "STO"
   },
   {
-    "name": "NOVAGOLD RESOURCES INC.",
-    "ticker": "NG",
-    "exchange": "NYSE American"
-  },
-  {
     "name": "Kirkland Lake Gold Ltd.",
     "ticker": "KL",
     "exchange": "NYSE"
   },
   {
-    "name": "Clean Air Metals Inc.",
-    "ticker": "AIR",
-    "exchange": "TSX Venture Exchange"
-  },
-  {
     "name": "Mountain Province Diamonds Inc.",
     "ticker": "MPVD",
-    "exchange": "Toronto Stock Exchange"
-  },
-  {
-    "name": "Global Atomic Corporation",
-    "ticker": "GLO",
-    "exchange": "Toronto Stock Exchange"
+    "exchange": "TSX"
   },
   {
     "name": "Sherritt International Corporation",
     "ticker": "S",
-    "exchange": "Toronto Stock Exchange"
-  },
-  {
-    "name": "Rio Tinto Group",
-    "ticker": "RIO",
-    "exchange": "ASX"
+    "exchange": "TSX"
   },
   {
     "name": "CTT Pharmaceutical Holdings, Inc.",
@@ -7733,11 +6958,6 @@
     "name": "CACI International Inc",
     "ticker": "CACI",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Fiserv, Inc.",
-    "ticker": "FI",
-    "exchange": "NASDAQ"
   },
   {
     "name": "Qualcomm Incorporated",
@@ -7825,19 +7045,9 @@
     "exchange": "CSE"
   },
   {
-    "name": "Fission Energy Corp.",
-    "ticker": "FIS",
-    "exchange": "TSXV (Delisted)"
-  },
-  {
-    "name": "AB Volvo",
-    "ticker": "VOLV B",
-    "exchange": "STO (Nasdaq Stockholm)"
-  },
-  {
     "name": "Platinum Group Metals Ltd.",
     "ticker": "PLG",
-    "exchange": "NYSE American"
+    "exchange": "AMEX"
   },
   {
     "name": "Atmos Energy Corporation",
@@ -7847,12 +7057,7 @@
   {
     "name": "Trilogy Metals Inc.",
     "ticker": "TMQ",
-    "exchange": "NYSE American"
-  },
-  {
-    "name": "A.P. M\u00f8ller - M\u00e6rsk A/S",
-    "ticker": "MAERSK-B",
-    "exchange": "STO"
+    "exchange": "AMEX"
   },
   {
     "name": "Transocean Ltd.",
@@ -7867,16 +7072,6 @@
   {
     "name": "Imperial Brands PLC",
     "ticker": "IMB",
-    "exchange": "LSE"
-  },
-  {
-    "name": "ABB Ltd",
-    "ticker": "ABB",
-    "exchange": "SIX"
-  },
-  {
-    "name": "Barclays PLC",
-    "ticker": "BCS",
     "exchange": "LSE"
   },
   {
@@ -7925,7 +7120,7 @@
     "exchange": "ASX"
   },
   {
-    "name": "Nestl\u00e9 S.A.",
+    "name": "Nestlé S.A.",
     "ticker": "NSRGY",
     "exchange": "OTC"
   },
@@ -7965,11 +7160,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Rio Tinto Group",
-    "ticker": "RIO",
-    "exchange": "LSE"
-  },
-  {
     "name": "Investor AB",
     "ticker": "INVE-B",
     "exchange": "STO"
@@ -7983,11 +7173,6 @@
     "name": "Kyndryl Holdings, Inc.",
     "ticker": "KD",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Airbus SE",
-    "ticker": "AIR",
-    "exchange": "LSE"
   },
   {
     "name": "Infineon Technologies AG",
@@ -8018,16 +7203,6 @@
     "name": "Blackwolf Copper and Gold Ltd.",
     "ticker": "BWCG",
     "exchange": "TSXV"
-  },
-  {
-    "name": "Aben Gold Corp.",
-    "ticker": "ABN",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "International Petroleum Corporation",
-    "ticker": "IPCO",
-    "exchange": "Nasdaq Stockholm"
   },
   {
     "name": "Dream Office Real Estate Investment Trust",
@@ -8068,11 +7243,6 @@
     "name": "Canfor Pulp Products Inc.",
     "ticker": "CFX",
     "exchange": "TSX"
-  },
-  {
-    "name": "Sitka Gold Corp.",
-    "ticker": "SIG",
-    "exchange": "TSXV"
   },
   {
     "name": "U.S. Concrete, Inc.",
@@ -8145,16 +7315,6 @@
     "exchange": "LSE"
   },
   {
-    "name": "Equinox Gold Corp.",
-    "ticker": "EQX",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Leagold Mining Corporation",
-    "ticker": "LMC",
-    "exchange": "TSXV"
-  },
-  {
     "name": "Lattice Semiconductor Corporation",
     "ticker": "LSCC",
     "exchange": "NASDAQ"
@@ -8205,11 +7365,6 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Anfield Energy Inc.",
-    "ticker": "AEC",
-    "exchange": "TSXV"
-  },
-  {
     "name": "Reliance, Inc.",
     "ticker": "RS",
     "exchange": "NYSE"
@@ -8218,11 +7373,6 @@
     "name": "Con-way Inc.",
     "ticker": "CNW",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Vista Gold Corp.",
-    "ticker": "VGZ",
-    "exchange": "NYSE American"
   },
   {
     "name": "Lydian International Ltd.",
@@ -8240,11 +7390,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Stallion Uranium Corp.",
-    "ticker": "STUD",
-    "exchange": "TSXV"
-  },
-  {
     "name": "Noble Plains Uranium Corp.",
     "ticker": "NOBL",
     "exchange": "TSXV"
@@ -8260,7 +7405,7 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Entr\u00e9e Resources Ltd.",
+    "name": "Entrée Resources Ltd.",
     "ticker": "ETG",
     "exchange": "TSX"
   },
@@ -8320,19 +7465,15 @@
     "exchange": "TSXV"
   },
   {
-    "name": "LiCo Energy Metals Inc. (now Fuse Cobalt Inc.)",
+    "name": "Fuse Cobalt Inc.",
     "ticker": "FUSE",
-    "exchange": "TSXV"
+    "exchange": "TSXV",
+    "name_former": "LiCo Energy Metals Inc."
   },
   {
     "name": "Alacer Gold Corp.",
     "ticker": "ASR",
     "exchange": "TSX"
-  },
-  {
-    "name": "Credit Suisse AG",
-    "ticker": "CS",
-    "exchange": "NYSE"
   },
   {
     "name": "Ferrari N.V.",
@@ -8345,9 +7486,10 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Tribune Publishing Company (now MediaNews Group/Tribune Publishing)",
+    "name": "MediaNews Group/Tribune Publishing",
     "ticker": "TPCO",
-    "exchange": "NASDAQ"
+    "exchange": "NASDAQ",
+    "name_former": "Tribune Publishing Company"
   },
   {
     "name": "The DIRECTV Group, Inc.",
@@ -8358,11 +7500,6 @@
     "name": "TiVo Corporation",
     "ticker": "TIVO",
     "exchange": "NASDAQ"
-  },
-  {
-    "name": "Osisko Gold Royalties Ltd",
-    "ticker": "OR",
-    "exchange": "TSX"
   },
   {
     "name": "Bitfarms Ltd.",
@@ -8382,12 +7519,7 @@
   {
     "name": "The Toronto-Dominion Bank",
     "ticker": "TD",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Canada Trust Financial Services Inc.",
-    "ticker": "CT",
-    "exchange": "TSX (Delisted)"
+    "exchange": "TSX"
   },
   {
     "name": "Hochschild Mining PLC",
@@ -8400,19 +7532,9 @@
     "exchange": "NYSE"
   },
   {
-    "name": "G Mining Ventures Corp.",
-    "ticker": "GMIN",
-    "exchange": "TSXV"
-  },
-  {
     "name": "Agilent Technologies, Inc.",
     "ticker": "A",
     "exchange": "NYSE"
-  },
-  {
-    "name": "BAE Systems plc",
-    "ticker": "BA.L",
-    "exchange": "London Stock Exchange"
   },
   {
     "name": "Edgewater Exploration Ltd.",
@@ -8460,14 +7582,9 @@
     "exchange": "NYSE"
   },
   {
-    "name": "The Wendy\u2019s Company",
+    "name": "The Wendy’s Company",
     "ticker": "WEN",
     "exchange": "NASDAQ"
-  },
-  {
-    "name": "Western Magnesium Corporation",
-    "ticker": "WMG.H",
-    "exchange": "TSXV"
   },
   {
     "name": "Adanac Molybdenum Corp.",
@@ -8475,29 +7592,10 @@
     "exchange": "TSX"
   },
   {
-    "name": "FIBRA Prologis",
-    "ticker": "FIBRAPL 14 (BMV)",
-    "exchange": "OTC"
-  },
-  {
-    "name": "FIBRA Prologis",
-    "ticker": "FBBPF (OTC)",
-    "exchange": "OTC"
-  },
-  {
-    "name": "FIBRA Terrafina",
-    "ticker": "TERRA13 (BMV)",
-    "exchange": "OTC"
-  },
-  {
-    "name": "FIBRA Terrafina",
-    "ticker": "CBAOF (OTC)",
-    "exchange": "OTC"
-  },
-  {
-    "name": "LogMeIn, Inc. (now GoTo)",
+    "name": "GoTo",
     "ticker": "LOGM",
-    "exchange": "NASDAQ"
+    "exchange": "NASDAQ",
+    "name_former": "LogMeIn, Inc."
   },
   {
     "name": "Sprinklr, Inc.",
@@ -8557,17 +7655,13 @@
   {
     "name": "Wolfspeed, Inc.",
     "ticker": "WOLF",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Wolfspeed, Inc. (formerly Cree, Inc.)",
-    "ticker": "WOLF (formerly CREE)",
-    "exchange": "NASDAQ"
+    "exchange": "NASDAQ",
+    "name_former": "Cree, Inc."
   },
   {
     "name": "Paramount Gold Nevada Corp.",
     "ticker": "PZG",
-    "exchange": "NYSE American"
+    "exchange": "AMEX"
   },
   {
     "name": "NIKE, Inc.",
@@ -8650,9 +7744,10 @@
     "exchange": "LSE"
   },
   {
-    "name": "Altaba Inc. (formerly Yahoo! Inc.)",
+    "name": "Altaba Inc.",
     "ticker": "AABA",
-    "exchange": "NASDAQ"
+    "exchange": "NASDAQ",
+    "name_former": "Yahoo! Inc."
   },
   {
     "name": "Yahoo! Inc.",
@@ -8670,18 +7765,8 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Telefonaktiebolaget LM Ericsson",
-    "ticker": "ERIC-B",
-    "exchange": "STO"
-  },
-  {
     "name": "Landis+Gyr Group AG",
     "ticker": "LAND",
-    "exchange": "SIX (Swiss)"
-  },
-  {
-    "name": "ABB Ltd",
-    "ticker": "ABBN",
     "exchange": "SIX (Swiss)"
   },
   {
@@ -8723,11 +7808,6 @@
     "name": "Premier Gold Mines Limited",
     "ticker": "PG",
     "exchange": "TSX"
-  },
-  {
-    "name": "BAE Systems plc",
-    "ticker": "BA.",
-    "exchange": "LSE"
   },
   {
     "name": "Vanguard International Semiconductor Corporation",
@@ -8795,9 +7875,10 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Scientific Games Corporation (now Light & Wonder, Inc.)",
+    "name": "Light & Wonder, Inc.",
     "ticker": "LNW",
-    "exchange": "NASDAQ"
+    "exchange": "NASDAQ",
+    "name_former": "Scientific Games Corporation"
   },
   {
     "name": "SciPlay Corporation",
@@ -8815,16 +7896,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "QuantumScape Corporation",
-    "ticker": "QS",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Volkswagen AG",
-    "ticker": "VOW",
-    "exchange": "Xetra"
-  },
-  {
     "name": "Anaplan, Inc.",
     "ticker": "PLAN",
     "exchange": "NYSE"
@@ -8840,14 +7911,10 @@
     "exchange": "NYSE"
   },
   {
-    "name": "F3 Uranium Corp. (formerly Fission 3.0 Corp.)",
+    "name": "F3 Uranium Corp.",
     "ticker": "FUU",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Platinum Group Metals Ltd.",
-    "ticker": "PTM",
-    "exchange": "TSX"
+    "exchange": "TSXV",
+    "name_former": "Fission 3.0 Corp."
   },
   {
     "name": "West Vault Mining Inc.",
@@ -8920,11 +7987,6 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Ucore Rare Metals Inc.",
-    "ticker": "UCU",
-    "exchange": "TSXV"
-  },
-  {
     "name": "Maritime Resources Corp.",
     "ticker": "MAE",
     "exchange": "TSXV"
@@ -8960,11 +8022,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "GoldMining Inc.",
-    "ticker": "GLDG",
-    "exchange": "NYSE American"
-  },
-  {
     "name": "Atlas Energy Corp.",
     "ticker": "ATLE",
     "exchange": "TSXV"
@@ -8987,7 +8044,7 @@
   {
     "name": "United States Antimony Corporation",
     "ticker": "UAMY",
-    "exchange": "NYSE American"
+    "exchange": "AMEX"
   },
   {
     "name": "Evergreen Sustainable Enterprises, Inc.",
@@ -9005,19 +8062,15 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Ur-Energy Inc.",
-    "ticker": "URG",
-    "exchange": "NYSE American"
-  },
-  {
     "name": "Commercial Metals Company",
     "ticker": "CMC",
     "exchange": "NYSE"
   },
   {
-    "name": "Career Education Corporation (now Perdoceo Education Corporation)",
+    "name": "Perdoceo Education Corporation",
     "ticker": "PRDO",
-    "exchange": "NASDAQ"
+    "exchange": "NASDAQ",
+    "name_former": "Career Education Corporation"
   },
   {
     "name": "Walgreens Boots Alliance, Inc.",
@@ -9026,23 +8079,13 @@
   },
   {
     "name": "NorZinc Ltd.",
-    "ticker": "NZC (TSX)",
-    "exchange": "OTCQB"
-  },
-  {
-    "name": "NorZinc Ltd.",
-    "ticker": "NORZF (OTCQB)",
-    "exchange": "OTCQB"
+    "ticker": "NZC",
+    "exchange": "TSX"
   },
   {
     "name": "Littelfuse, Inc.",
     "ticker": "LFUS",
     "exchange": "NASDAQ"
-  },
-  {
-    "name": "Denison Mines Corp.",
-    "ticker": "DNN",
-    "exchange": "NYSE American"
   },
   {
     "name": "Cosa Resources Corp.",
@@ -9055,11 +8098,6 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Carbon Streaming Corp.",
-    "ticker": "OFSTF",
-    "exchange": "OTCQB"
-  },
-  {
     "name": "PharmX Technologies Limited",
     "ticker": "PHX",
     "exchange": "ASX"
@@ -9068,26 +8106,6 @@
     "name": "Hastings Rare Metals Ltd",
     "ticker": "HAS",
     "exchange": "ASX"
-  },
-  {
-    "name": "CanAlaska Uranium Ltd.",
-    "ticker": "CVV",
-    "exchange": "TSX Venture Exchange"
-  },
-  {
-    "name": "Uranium Royalty Corp.",
-    "ticker": "URC (TSX)",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Uranium Royalty Corp.",
-    "ticker": "URNM (NASDAQ)",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "EMX Royalty Corporation",
-    "ticker": "EMX",
-    "exchange": "NYSE American"
   },
   {
     "name": "Alexco Resource Corp.",
@@ -9118,16 +8136,6 @@
     "name": "Dateline Resources Limited",
     "ticker": "DTR",
     "exchange": "ASX"
-  },
-  {
-    "name": "Eldorado Gold Corporation",
-    "ticker": "ELD",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Goldcorp Inc.",
-    "ticker": "GG",
-    "exchange": "NYSE"
   },
   {
     "name": "Turquoise Hill Resources Ltd.",
@@ -9200,21 +8208,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Lithium Argentina Corp.",
-    "ticker": "LAAC",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "B2Gold Corp.",
-    "ticker": "BTO (TSX)",
-    "exchange": "NYSE American"
-  },
-  {
-    "name": "B2Gold Corp.",
-    "ticker": "BTG (NYSE American)",
-    "exchange": "NYSE American"
-  },
-  {
     "name": "The Cigna Group",
     "ticker": "CI",
     "exchange": "NYSE"
@@ -9248,16 +8241,6 @@
     "name": "Marcus & Millichap, Inc.",
     "ticker": "MMI",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Siebel Systems, Inc.",
-    "ticker": "SEBL (Acquired)",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Webvan Group, Inc.",
-    "ticker": "WBVN (Defunct)",
-    "exchange": "NASDAQ"
   },
   {
     "name": "MARA Holdings, Inc.",
@@ -9352,12 +8335,7 @@
   {
     "name": "Mastech Digital, Inc.",
     "ticker": "MHH",
-    "exchange": "NYSE American"
-  },
-  {
-    "name": "McAfee, Inc.",
-    "ticker": "MCFE",
-    "exchange": "NASDAQ"
+    "exchange": "AMEX"
   },
   {
     "name": "IGATE Corp.",
@@ -9375,12 +8353,12 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Controladora Vuela Compa\u00f1\u00eda de Aviaci\u00f3n, S.A.B. de C.V. (Volaris)",
+    "name": "Controladora Vuela Compañía de Aviación, S.A.B. de C.V. (Volaris)",
     "ticker": "VLRS",
     "exchange": "NYSE"
   },
   {
-    "name": "Grupo Aerom\u00e9xico, S.A.B. de C.V.",
+    "name": "Grupo Aeroméxico, S.A.B. de C.V.",
     "ticker": "AEROMEX",
     "exchange": "BMV"
   },
@@ -9395,11 +8373,6 @@
     "exchange": "JSE (Johannesburg Stock Exchange)"
   },
   {
-    "name": "Central Asia Metals Plc",
-    "ticker": "CAML",
-    "exchange": "LSE"
-  },
-  {
     "name": "Comet Ridge Limited",
     "ticker": "COI",
     "exchange": "ASX"
@@ -9408,11 +8381,6 @@
     "name": "Panoramic Resources Limited",
     "ticker": "PAN",
     "exchange": "ASX"
-  },
-  {
-    "name": "Pan American Silver Corp.",
-    "ticker": "PAAS",
-    "exchange": "NASDAQ"
   },
   {
     "name": "West Fraser Timber Co. Ltd.",
@@ -9515,11 +8483,6 @@
     "exchange": "ASX"
   },
   {
-    "name": "LionOre Australia",
-    "ticker": "A",
-    "exchange": "ASX"
-  },
-  {
     "name": "Hyperion Solutions Corporation",
     "ticker": "HYSL",
     "exchange": "NASDAQ"
@@ -9527,17 +8490,17 @@
   {
     "name": "KION GROUP AG",
     "ticker": "KGX",
-    "exchange": "XETRA (Frankfurt Stock Exchange)"
+    "exchange": "XETRA"
   },
   {
     "name": "MTU Aero Engines AG",
     "ticker": "MTX",
-    "exchange": "XETRA (Frankfurt Stock Exchange)"
+    "exchange": "XETRA"
   },
   {
     "name": "DEUTZ AG",
     "ticker": "DEZ",
-    "exchange": "XETRA (Frankfurt Stock Exchange)"
+    "exchange": "XETRA"
   },
   {
     "name": "Lifezone Metals Ltd",
@@ -9645,11 +8608,6 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Equinox Gold Corp.",
-    "ticker": "EQX",
-    "exchange": "NYSE American"
-  },
-  {
     "name": "Silicon Laboratories Inc.",
     "ticker": "SLAB",
     "exchange": "NASDAQ"
@@ -9660,9 +8618,10 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Andeavor (formerly Tesoro Corporation)",
+    "name": "Andeavor",
     "ticker": "ANDV",
-    "exchange": "NYSE"
+    "exchange": "NYSE",
+    "name_former": "Tesoro Corporation"
   },
   {
     "name": "Enbridge Inc.",
@@ -9677,16 +8636,6 @@
   {
     "name": "Becton, Dickinson and Company",
     "ticker": "BDX",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "United Technologies Corporation",
-    "ticker": "UTX (merged)",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Trilogy Metals Inc.",
-    "ticker": "TMQ",
     "exchange": "NYSE"
   },
   {
@@ -9718,11 +8667,6 @@
     "name": "Hennessy Capital Investment Corp. VI",
     "ticker": "HCVI",
     "exchange": "NASDAQ"
-  },
-  {
-    "name": "Cabral Gold Inc.",
-    "ticker": "CBRG",
-    "exchange": "TSXV"
   },
   {
     "name": "JBS S.A.",
@@ -9773,11 +8717,6 @@
     "name": "Vesuvius plc",
     "ticker": "VSVS",
     "exchange": "LSE"
-  },
-  {
-    "name": "Atlas Copco AB",
-    "ticker": "ATCO-A",
-    "exchange": "STO"
   },
   {
     "name": "AB SKF",
@@ -9845,11 +8784,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "SAP SE",
-    "ticker": "SAP",
-    "exchange": "XETRA (Frankfurt)"
-  },
-  {
     "name": "NEXE Innovations, Inc.",
     "ticker": "NEXE",
     "exchange": "TSXV"
@@ -9863,11 +8797,6 @@
     "name": "Bravo Mining Corp.",
     "ticker": "BRVO",
     "exchange": "TSXV"
-  },
-  {
-    "name": "Kirkland Lake Gold Ltd.",
-    "ticker": "KL",
-    "exchange": "TSX"
   },
   {
     "name": "Invitation Homes Inc.",
@@ -9910,11 +8839,6 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Atlas Copco AB",
-    "ticker": "ATCO-A.ST",
-    "exchange": "STO"
-  },
-  {
     "name": "Alimak Group AB",
     "ticker": "ALIG.ST",
     "exchange": "STO"
@@ -9923,16 +8847,6 @@
     "name": "Thule Group AB",
     "ticker": "THULE.ST",
     "exchange": "STO"
-  },
-  {
-    "name": "XPeng Inc.",
-    "ticker": "XPEV",
-    "exchange": "HKEX"
-  },
-  {
-    "name": "XPeng Inc.",
-    "ticker": "9868",
-    "exchange": "HKEX"
   },
   {
     "name": "Helios Energy Ltd",
@@ -9953,11 +8867,6 @@
     "name": "Triangle Energy (Global) Ltd",
     "ticker": "TEG",
     "exchange": "ASX"
-  },
-  {
-    "name": "Vestas Wind Systems A/S",
-    "ticker": "VWS",
-    "exchange": "Nasdaq Copenhagen"
   },
   {
     "name": "ISS A/S",
@@ -9992,7 +8901,7 @@
   {
     "name": "TRATON SE",
     "ticker": "8TRA",
-    "exchange": "Frankfurt Stock Exchange"
+    "exchange": "XETRA"
   },
   {
     "name": "Hexagon AB",
@@ -10025,7 +8934,7 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Compa\u00f1\u00eda Sud Americana de Vapores S.A. (CSAV)",
+    "name": "Compañía Sud Americana de Vapores S.A. (CSAV)",
     "ticker": "VAPORES",
     "exchange": "SNSE"
   },
@@ -10050,19 +8959,15 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Komatsu Ltd.",
-    "ticker": "6301",
-    "exchange": "Tokyo Stock Exchange"
-  },
-  {
     "name": "Integrated Circuit Systems, Inc.",
     "ticker": "ICST",
     "exchange": "NASDAQ"
   },
   {
-    "name": "Select Water Solutions, Inc. (formerly Select Energy Services, Inc.)",
+    "name": "Select Water Solutions, Inc.",
     "ticker": "WTTR",
-    "exchange": "NYSE"
+    "exchange": "NYSE",
+    "name_former": "Select Energy Services, Inc."
   },
   {
     "name": "Kayne Anderson Energy Infrastructure Fund, Inc.",
@@ -10085,9 +8990,10 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Actuant Corporation (now Enerpac Tool Group)",
+    "name": "Enerpac Tool Group",
     "ticker": "EPAC",
-    "exchange": "NYSE"
+    "exchange": "NYSE",
+    "name_former": "Actuant Corporation"
   },
   {
     "name": "Petroleum Geo-Services (PGS)",
@@ -10095,9 +9001,10 @@
     "exchange": "OSE"
   },
   {
-    "name": "Capstone Green Energy (formerly Capstone Turbine)",
+    "name": "Capstone Green Energy",
     "ticker": "CGRN",
-    "exchange": "NASDAQ"
+    "exchange": "NASDAQ",
+    "name_former": "Capstone Turbine"
   },
   {
     "name": "AAC Technologies Holdings Inc.",
@@ -10145,11 +9052,6 @@
     "exchange": "TSXV"
   },
   {
-    "name": "PepsiCo, Inc.",
-    "ticker": "PEP",
-    "exchange": "NASDAQ"
-  },
-  {
     "name": "Globex Mining Enterprises Inc.",
     "ticker": "GMX",
     "exchange": "TSX"
@@ -10170,28 +9072,8 @@
     "exchange": "TSX"
   },
   {
-    "name": "Cameco Corporation",
-    "ticker": "CCO (TSX)",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Cameco Corporation",
-    "ticker": "CCJ (NYSE)",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "OceanaGold Corporation",
-    "ticker": "OGC (TSX)",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Corvus Gold Inc.",
-    "ticker": "KOR (TSX)",
-    "exchange": "TSX"
-  },
-  {
     "name": "Trevali Mining Corporation",
-    "ticker": "TV (TSX)",
+    "ticker": "TV",
     "exchange": "TSX"
   },
   {
@@ -10205,9 +9087,10 @@
     "exchange": "TSX"
   },
   {
-    "name": "Polymetal International plc (now Solidcore Resources)",
+    "name": "Solidcore Resources",
     "ticker": "POLY",
-    "exchange": "LSE"
+    "exchange": "LSE",
+    "name_former": "Polymetal International plc"
   },
   {
     "name": "CAE Inc.",
@@ -10215,9 +9098,10 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Leighton Group (now CIMIC Group)",
+    "name": "CIMIC Group",
     "ticker": "CIM",
-    "exchange": "ASX"
+    "exchange": "ASX",
+    "name_former": "Leighton Group"
   },
   {
     "name": "Spark Energy Minerals Inc.",
@@ -10230,19 +9114,15 @@
     "exchange": "ASX"
   },
   {
-    "name": "OceanaGold Corporation",
-    "ticker": "OGC",
-    "exchange": "TSX (Toronto Stock Exchange)"
-  },
-  {
     "name": "Zacapa Resources Ltd.",
     "ticker": "ZACA",
     "exchange": "TSXV"
   },
   {
-    "name": "AUX Resources Corp. (formerly Auramex Resource Corp.)",
+    "name": "AUX Resources Corp.",
     "ticker": "AUX",
-    "exchange": "TSXV"
+    "exchange": "TSXV",
+    "name_former": "Auramex Resource Corp."
   },
   {
     "name": "Ingredion Incorporated",
@@ -10267,7 +9147,7 @@
   {
     "name": "Rare Earths Americas Inc.",
     "ticker": "REA",
-    "exchange": "NYSE American"
+    "exchange": "AMEX"
   },
   {
     "name": "URZ3 Energy Corp.",
@@ -10345,11 +9225,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Sprott Physical Uranium Trust",
-    "ticker": "U",
-    "exchange": "UN.TSX"
-  },
-  {
     "name": "Strawberry Fields REIT, Inc.",
     "ticker": "STRW",
     "exchange": "NYSE"
@@ -10363,11 +9238,6 @@
     "name": "Talon Metals Corp.",
     "ticker": "TLO",
     "exchange": "TSX"
-  },
-  {
-    "name": "Laramide Resources Ltd.",
-    "ticker": "LMRXF",
-    "exchange": "OTC"
   },
   {
     "name": "Canstar Resources Inc.",
@@ -10390,29 +9260,9 @@
     "exchange": "TSX"
   },
   {
-    "name": "Pretium Resources Inc.",
-    "ticker": "PVG",
-    "exchange": "NYSE"
-  },
-  {
     "name": "Infinera Corporation",
     "ticker": "INFN",
     "exchange": "NASDAQ"
-  },
-  {
-    "name": "Sino Gold Mining Limited",
-    "ticker": "SGX (Delisted)",
-    "exchange": "ASX"
-  },
-  {
-    "name": "Conquest Mining Limited",
-    "ticker": "CQT (Delisted)",
-    "exchange": "ASX"
-  },
-  {
-    "name": "North Queensland Metals Limited",
-    "ticker": "NQM (Delisted)",
-    "exchange": "ASX"
   },
   {
     "name": "Service Corporation International",
@@ -10430,29 +9280,21 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Equinor ASA (formerly Statoil ASA)",
+    "name": "Equinor ASA",
     "ticker": "EQNR",
-    "exchange": "OSE"
+    "exchange": "OSE",
+    "name_former": "Statoil ASA"
   },
   {
-    "name": "Woodside Energy Group Ltd (formerly Woodside Petroleum)",
+    "name": "Woodside Energy Group Ltd",
     "ticker": "WDS",
-    "exchange": "ASX"
-  },
-  {
-    "name": "ISS A/S",
-    "ticker": "ISS",
-    "exchange": "STO"
+    "exchange": "ASX",
+    "name_former": "Woodside Petroleum"
   },
   {
     "name": "Asian Mineral Resources Limited",
     "ticker": "ASN",
     "exchange": "TSXV"
-  },
-  {
-    "name": "Sino Gold Mining Limited",
-    "ticker": "SGX",
-    "exchange": "ASX (delisted)"
   },
   {
     "name": "Ausdrill Limited",
@@ -10488,11 +9330,6 @@
     "name": "Sara Lee Corporation",
     "ticker": "SLE",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Triple Flag Precious Metals Corp.",
-    "ticker": "TFPM",
-    "exchange": "TSX"
   },
   {
     "name": "Bank One Corporation",
@@ -10585,9 +9422,10 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Sky plc (formerly BSkyB)",
+    "name": "Sky plc",
     "ticker": "SKY",
-    "exchange": "LSE"
+    "exchange": "LSE",
+    "name_former": "BSkyB"
   },
   {
     "name": "Sotheby's",
@@ -10830,11 +9668,6 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Orla Mining Ltd.",
-    "ticker": "ORLA",
-    "exchange": "TSX"
-  },
-  {
     "name": "MercadoLibre, Inc.",
     "ticker": "MELI",
     "exchange": "NASDAQ"
@@ -10965,11 +9798,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Trevali Mining Corporation",
-    "ticker": "TV",
-    "exchange": "TSX"
-  },
-  {
     "name": "Vivint Solar, Inc.",
     "ticker": "VSLR",
     "exchange": "NYSE"
@@ -11005,11 +9833,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Kirkland Lake Gold Ltd.",
-    "ticker": "KL (delisted)",
-    "exchange": "NYSE"
-  },
-  {
     "name": "Asara Resources Limited",
     "ticker": "AS1",
     "exchange": "ASX"
@@ -11017,11 +9840,6 @@
   {
     "name": "WeWork Inc.",
     "ticker": "WE",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "UBS Group AG",
-    "ticker": "UBS",
     "exchange": "NYSE"
   },
   {
@@ -11033,26 +9851,6 @@
     "name": "Getaround, Inc.",
     "ticker": "GETR",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Oracle Corporation",
-    "ticker": "ORCL",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Saga Corporation",
-    "ticker": "N",
-    "exchange": "NYSE (Historical)"
-  },
-  {
-    "name": "Saga Corporation",
-    "ticker": "A (Delisted)",
-    "exchange": "NYSE (Historical)"
-  },
-  {
-    "name": "Ur-Energy Inc.",
-    "ticker": "URG",
-    "exchange": "TSX"
   },
   {
     "name": "RadNet, Inc.",
@@ -11082,7 +9880,7 @@
   {
     "name": "Amara Mining Ltd",
     "ticker": "AMA",
-    "exchange": "LSE (AIM)"
+    "exchange": "LSE"
   },
   {
     "name": "Mueller Water Products, Inc.",
@@ -11170,34 +9968,15 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Moog Inc.",
-    "ticker": "MOG.A",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Volkswagen AG",
-    "ticker": "VWAGY",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Snowflake Inc.",
-    "ticker": "SNOW",
-    "exchange": "NASDAQ"
-  },
-  {
     "name": "Montage Gold Corp.",
     "ticker": "MAU",
     "exchange": "TSX"
   },
   {
-    "name": "Paladin Energy Ltd",
-    "ticker": "PDN",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Perpetua Resources Corp. (formerly Midas Gold Corp.)",
+    "name": "Perpetua Resources Corp.",
     "ticker": "MAX",
-    "exchange": "TSX"
+    "exchange": "TSX",
+    "name_former": "Midas Gold Corp."
   },
   {
     "name": "Mitra Energy Limited",
@@ -11280,16 +10059,6 @@
     "exchange": "TSX"
   },
   {
-    "name": "Lundin Mining Corporation",
-    "ticker": "LUN (TSX)",
-    "exchange": "STO"
-  },
-  {
-    "name": "Lundin Mining Corporation",
-    "ticker": "LUMI (STO)",
-    "exchange": "STO"
-  },
-  {
     "name": "Grizzly Discoveries Inc.",
     "ticker": "GZD",
     "exchange": "TSXV"
@@ -11360,9 +10129,10 @@
     "exchange": "ASX"
   },
   {
-    "name": "Thred Limited (now known as 8common Limited)",
+    "name": "8common Limited",
     "ticker": "8CO",
-    "exchange": "ASX"
+    "exchange": "ASX",
+    "name_former": "Thred Limited"
   },
   {
     "name": "P2 Gold Inc.",
@@ -11375,29 +10145,14 @@
     "exchange": "TSXV"
   },
   {
-    "name": "AtkinsR\u00e9alis Group Inc.",
+    "name": "AtkinsRéalis Group Inc.",
     "ticker": "ATR",
     "exchange": "TSX"
   },
   {
-    "name": "Investor AB",
-    "ticker": "INVE-B.ST",
-    "exchange": "STO"
-  },
-  {
-    "name": "Epiroc AB",
-    "ticker": "EPI-A.ST",
-    "exchange": "STO"
-  },
-  {
-    "name": "W\u00e4rtsil\u00e4 Oyj Abp",
+    "name": "Wärtsilä Oyj Abp",
     "ticker": "WRT1V.HE",
     "exchange": "HE"
-  },
-  {
-    "name": "ABB Ltd",
-    "ticker": "ABBN.SW",
-    "exchange": "SWX"
   },
   {
     "name": "Twin Disc, Incorporated",
@@ -11407,11 +10162,6 @@
   {
     "name": "IntelePeer, Inc.",
     "ticker": "N",
-    "exchange": "A (SEC Reporting)"
-  },
-  {
-    "name": "IntelePeer, Inc.",
-    "ticker": "A",
     "exchange": "A (SEC Reporting)"
   },
   {
@@ -11455,11 +10205,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "IAMGOLD Corporation",
-    "ticker": "IAG",
-    "exchange": "TSX"
-  },
-  {
     "name": "SMTC Corporation",
     "ticker": "SMTX",
     "exchange": "NASDAQ"
@@ -11468,21 +10213,6 @@
     "name": "ATI Technologies Inc.",
     "ticker": "ATYT",
     "exchange": "NASDAQ"
-  },
-  {
-    "name": "Sprott Physical Gold Trust",
-    "ticker": "PHYS",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Sprott Physical Uranium Trust",
-    "ticker": "SPUT",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Sprott Uranium Miners ETF",
-    "ticker": "URNM",
-    "exchange": "NYSE Arca"
   },
   {
     "name": "Russel Metals Inc.",
@@ -11575,14 +10305,10 @@
     "exchange": "TSX"
   },
   {
-    "name": "XPLR Infrastructure, LP (formerly NextEra Energy Partners, LP)",
+    "name": "XPLR Infrastructure, LP",
     "ticker": "NEP",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Uranium Royalty Corp.",
-    "ticker": "URC",
-    "exchange": "TSX"
+    "exchange": "NYSE",
+    "name_former": "NextEra Energy Partners, LP"
   },
   {
     "name": "Daimler Truck Holding AG",
@@ -11617,11 +10343,6 @@
   {
     "name": "Rockport Capital Corp.",
     "ticker": "N",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Rockport Capital Corp.",
-    "ticker": "A",
     "exchange": "TSXV"
   },
   {
@@ -11660,11 +10381,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Amara Mining plc",
-    "ticker": "AMA",
-    "exchange": "LSE (London Stock Exchange - AIM)"
-  },
-  {
     "name": "Cornish Metals Inc.",
     "ticker": "TIN",
     "exchange": "TSXV"
@@ -11700,16 +10416,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Sealy Corporation",
-    "ticker": "ZZ (Delisted",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Sealy Corporation",
-    "ticker": "Acquired)",
-    "exchange": "NYSE"
-  },
-  {
     "name": "The New York Times Company",
     "ticker": "NYT",
     "exchange": "NYSE"
@@ -11718,11 +10424,6 @@
     "name": "Ryan Specialty Holdings, Inc.",
     "ticker": "RYAN",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Bally Total Fitness Corporation",
-    "ticker": "BFT",
-    "exchange": "NYSE (delisted)"
   },
   {
     "name": "Rakuten Group, Inc.",
@@ -11765,7 +10466,7 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Am\u00e9rica M\u00f3vil, S.A.B. de C.V.",
+    "name": "América Móvil, S.A.B. de C.V.",
     "ticker": "AMX",
     "exchange": "NYSE"
   },
@@ -11893,11 +10594,6 @@
     "name": "General Microwave Corporation",
     "ticker": "GMIC",
     "exchange": "NASDAQ"
-  },
-  {
-    "name": "Lithium Americas Corp.",
-    "ticker": "LAC",
-    "exchange": "TSX"
   },
   {
     "name": "Magna Mining Inc.",
@@ -12080,11 +10776,6 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Syrah Resources Limited",
-    "ticker": "SYR",
-    "exchange": "ASX (Australian Securities Exchange)"
-  },
-  {
     "name": "Renforth Resources, Inc.",
     "ticker": "RFR",
     "exchange": "CSE"
@@ -12100,29 +10791,20 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Viacom, Inc. (now Paramount Global)",
+    "name": "Paramount Global",
     "ticker": "PARA",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Eldorado Gold Corporation",
-    "ticker": "EGO (NYSE)",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Eldorado Gold Corporation",
-    "ticker": "ELD (TSX)",
-    "exchange": "TSX"
+    "exchange": "NASDAQ",
+    "name_former": "Viacom, Inc."
   },
   {
     "name": "BlackRock World Mining Trust plc",
     "ticker": "BRWM",
-    "exchange": "LSE (London Stock Exchange)"
+    "exchange": "LSE"
   },
   {
     "name": "Galiano Gold Inc.",
     "ticker": "GAU",
-    "exchange": "TSX (Toronto Stock Exchange)"
+    "exchange": "TSX"
   },
   {
     "name": "Koninklijke DSM N.V.",
@@ -12155,11 +10837,6 @@
     "exchange": "TSX"
   },
   {
-    "name": "Nutrien Ltd.",
-    "ticker": "NTR",
-    "exchange": "NYSE"
-  },
-  {
     "name": "Yext, Inc.",
     "ticker": "YEXT",
     "exchange": "NYSE"
@@ -12168,16 +10845,6 @@
     "name": "The Travelers Companies, Inc.",
     "ticker": "TRV",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Denison Mines Corp.",
-    "ticker": "DML (TSX)",
-    "exchange": "NYSE American"
-  },
-  {
-    "name": "Denison Mines Corp.",
-    "ticker": "DNN (NYSE American)",
-    "exchange": "NYSE American"
   },
   {
     "name": "Uber Technologies, Inc.",
@@ -12192,16 +10859,6 @@
   {
     "name": "Viaplay Group AB",
     "ticker": "VPLAY B",
-    "exchange": "STO"
-  },
-  {
-    "name": "Modern Times Group MTG AB",
-    "ticker": "MTG B",
-    "exchange": "STO"
-  },
-  {
-    "name": "Zalando SE",
-    "ticker": "ZAL",
     "exchange": "STO"
   },
   {
@@ -12255,14 +10912,9 @@
     "exchange": "NYSE"
   },
   {
-    "name": "BAE Systems plc",
-    "ticker": "BA.",
-    "exchange": "London Stock Exchange"
-  },
-  {
     "name": "Smiths Group plc",
     "ticker": "SMIN",
-    "exchange": "London Stock Exchange"
+    "exchange": "LSE"
   },
   {
     "name": "Adidas AG",
@@ -12273,11 +10925,6 @@
     "name": "Henkel AG & Co. KGaA",
     "ticker": "HEN3",
     "exchange": "Xetra"
-  },
-  {
-    "name": "Nestl\u00e9 S.A.",
-    "ticker": "NESN",
-    "exchange": "SIX Swiss Exchange"
   },
   {
     "name": "Engility Holdings, Inc.",
@@ -12360,9 +11007,10 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Sleep Number Corporation (formerly Select Comfort Corporation)",
+    "name": "Sleep Number Corporation",
     "ticker": "SNBR",
-    "exchange": "NASDAQ"
+    "exchange": "NASDAQ",
+    "name_former": "Select Comfort Corporation"
   },
   {
     "name": "ADTRAN Holdings, Inc.",
@@ -12390,16 +11038,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "First Majestic Silver Corp.",
-    "ticker": "AG",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Sibanye Stillwater Limited",
-    "ticker": "SBSW",
-    "exchange": "New York Stock Exchange (NYSE)"
-  },
-  {
     "name": "Goliath Gold Mining Limited",
     "ticker": "GGM",
     "exchange": "Johannesburg Stock Exchange (JSE)"
@@ -12415,14 +11053,10 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "B2Gold Corp.",
-    "ticker": "BTO",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Amcor Limited (now Amcor plc)",
+    "name": "Amcor plc",
     "ticker": "AMCR",
-    "exchange": "ASX"
+    "exchange": "ASX",
+    "name_former": "Amcor Limited"
   },
   {
     "name": "Wesfarmers Limited",
@@ -12443,21 +11077,6 @@
     "name": "Mylan N.V.",
     "ticker": "MYL",
     "exchange": "NASDAQ"
-  },
-  {
-    "name": "Silvercorp Metals Inc.",
-    "ticker": "SVM",
-    "exchange": "NYSE American"
-  },
-  {
-    "name": "Great Panther Mining Limited",
-    "ticker": "GPR",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Mountain Province Diamonds Inc.",
-    "ticker": "MPVD",
-    "exchange": "TSX"
   },
   {
     "name": "Avcorp Industries Inc.",
@@ -12530,24 +11149,9 @@
     "exchange": "OTC"
   },
   {
-    "name": "Alaska Energy Metals Corp.",
-    "ticker": "AKEMF",
-    "exchange": "OTC"
-  },
-  {
     "name": "Gatekeeper Systems Inc.",
     "ticker": "GSI",
     "exchange": "OTC"
-  },
-  {
-    "name": "Gatekeeper Systems Inc.",
-    "ticker": "GKPRF",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Tahoe Resources Inc.",
-    "ticker": "THO",
-    "exchange": "TSX"
   },
   {
     "name": "Glamis Gold Ltd.",
@@ -12600,11 +11204,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Twitter, Inc. (now X Corp.)",
-    "ticker": "TWTR (delisted)",
-    "exchange": "NYSE (delisted)"
-  },
-  {
     "name": "Middlesex Water Company",
     "ticker": "MSEX",
     "exchange": "NASDAQ"
@@ -12613,11 +11212,6 @@
     "name": "Chipotle Mexican Grill, Inc.",
     "ticker": "CMG",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Lahontan Gold Corp.",
-    "ticker": "LGCXF",
-    "exchange": "OTCQB"
   },
   {
     "name": "Mead Johnson Nutrition Company",
@@ -12685,29 +11279,9 @@
     "exchange": "OTC"
   },
   {
-    "name": "Moog Inc.",
-    "ticker": "MOG.B",
-    "exchange": "NYSE"
-  },
-  {
     "name": "Seneca Foods Corporation",
     "ticker": "SENEA",
     "exchange": "NASDAQ"
-  },
-  {
-    "name": "Seneca Foods Corporation",
-    "ticker": "SENEB",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Platinum Group Metals Ltd.",
-    "ticker": "PTM (TSX)",
-    "exchange": "NYSE American"
-  },
-  {
-    "name": "Platinum Group Metals Ltd.",
-    "ticker": "PLG (NYSE American)",
-    "exchange": "NYSE American"
   },
   {
     "name": "Monumental Energy Corp.",
@@ -12747,17 +11321,12 @@
   {
     "name": "Invinity Energy Systems plc",
     "ticker": "IES",
-    "exchange": "LSE (AIM)"
+    "exchange": "LSE"
   },
   {
     "name": "Electriq Power Holdings, Inc.",
     "ticker": "ELIQ",
     "exchange": "OTC"
-  },
-  {
-    "name": "Telefonaktiebolaget LM Ericsson",
-    "ticker": "ERIC-B",
-    "exchange": "Nasdaq Stockholm"
   },
   {
     "name": "TietoEVRY",
@@ -12775,16 +11344,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Taiwan Semiconductor Manufacturing Company Limited",
-    "ticker": "TSM (NYSE)",
-    "exchange": "TWSE"
-  },
-  {
-    "name": "Taiwan Semiconductor Manufacturing Company Limited",
-    "ticker": "2330 (TWSE)",
-    "exchange": "TWSE"
-  },
-  {
     "name": "MediaAlpha, Inc.",
     "ticker": "MAX",
     "exchange": "NYSE"
@@ -12800,19 +11359,9 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Centrus Energy Corp.",
-    "ticker": "LEU",
-    "exchange": "NYSE American"
-  },
-  {
     "name": "Almadex Minerals Ltd.",
     "ticker": "DEX",
-    "exchange": "TSX-V"
-  },
-  {
-    "name": "Stria Lithium Inc.",
-    "ticker": "SRA",
-    "exchange": "TSX-V"
+    "exchange": "TSXV"
   },
   {
     "name": "Paramount Gold and Silver Corp.",
@@ -12820,9 +11369,10 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Bam Bam Resources Corp. (now Giant Mining Corp.)",
+    "name": "Giant Mining Corp.",
     "ticker": "BBR",
-    "exchange": "CSE"
+    "exchange": "CSE",
+    "name_former": "Bam Bam Resources Corp."
   },
   {
     "name": "Recharge Resources Ltd.",
@@ -12850,11 +11400,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Kinetik Holdings Inc.",
-    "ticker": "KNTK",
-    "exchange": "NYSE"
-  },
-  {
     "name": "Murphy Oil Corporation",
     "ticker": "MUR",
     "exchange": "NYSE"
@@ -12865,9 +11410,10 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Denbury Inc. (formerly Denbury Resources Inc.)",
+    "name": "Denbury Inc.",
     "ticker": "DEN",
-    "exchange": "NYSE"
+    "exchange": "NYSE",
+    "name_former": "Denbury Resources Inc."
   },
   {
     "name": "ConocoPhillips",
@@ -12883,11 +11429,6 @@
     "name": "Papa John's International, Inc.",
     "ticker": "PZZA",
     "exchange": "NASDAQ"
-  },
-  {
-    "name": "The Hillshire Brands Company (formerly Sara Lee)",
-    "ticker": "HSH",
-    "exchange": "NYSE (delisted)"
   },
   {
     "name": "Autoliv, Inc.",
@@ -12935,19 +11476,16 @@
     "exchange": "ASX"
   },
   {
-    "name": "International Consolidated Uranium Inc. (now enCore Energy Corp.)",
+    "name": "enCore Energy Corp.",
     "ticker": "CUR",
-    "exchange": "TSXV"
+    "exchange": "TSXV",
+    "name_former": "International Consolidated Uranium Inc."
   },
   {
-    "name": "Saab AB",
-    "ticker": "SAAB B",
-    "exchange": "Nasdaq Stockholm"
-  },
-  {
-    "name": "SRHI Inc. (formerly Sprott Resource Holdings Inc.)",
+    "name": "SRHI Inc.",
     "ticker": "SRHI",
-    "exchange": "TSX"
+    "exchange": "TSX",
+    "name_former": "Sprott Resource Holdings Inc."
   },
   {
     "name": "NewCastle Gold Ltd.",
@@ -12965,7 +11503,7 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Grupo M\u00e9xico S.A.B. de C.V.",
+    "name": "Grupo México S.A.B. de C.V.",
     "ticker": "GMBXF",
     "exchange": "OTC"
   },
@@ -12980,24 +11518,9 @@
     "exchange": "NYSE"
   },
   {
-    "name": "B2Gold Corp.",
-    "ticker": "BTO (TSX)",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "B2Gold Corp.",
-    "ticker": "BTG (NYSE)",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Amaroq Minerals Ltd. (formerly AEX Gold Inc.)",
-    "ticker": "AMRQ (TSX-V)",
-    "exchange": "LSE"
-  },
-  {
-    "name": "Amaroq Minerals Ltd. (formerly AEX Gold Inc.)",
-    "ticker": "AMRQ (LSE)",
-    "exchange": "LSE"
+    "name": "Amaroq Minerals Ltd.",
+    "ticker": "AMRQ",
+    "exchange": "TSXV"
   },
   {
     "name": "Federal Home Loan Mortgage Corporation (Freddie Mac)",
@@ -13007,7 +11530,7 @@
   {
     "name": "Avino Silver & Gold Mines Ltd.",
     "ticker": "ASM",
-    "exchange": "NYSE American"
+    "exchange": "AMEX"
   },
   {
     "name": "WGL Holdings, Inc.",
@@ -13035,16 +11558,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "SoftBank Group Corp.",
-    "ticker": "9984",
-    "exchange": "Tokyo Stock Exchange"
-  },
-  {
-    "name": "BlackBerry Limited",
-    "ticker": "BB",
-    "exchange": "TSX"
-  },
-  {
     "name": "Jabil Inc.",
     "ticker": "JBL",
     "exchange": "NYSE"
@@ -13070,16 +11583,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "B2Gold Corp.",
-    "ticker": "BTG",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Sherritt International Corporation",
-    "ticker": "S",
-    "exchange": "TSX"
-  },
-  {
     "name": "Thesis Gold Inc.",
     "ticker": "TAU",
     "exchange": "TSXV"
@@ -13093,11 +11596,6 @@
     "name": "DigitalX Limited",
     "ticker": "DCC",
     "exchange": "ASX"
-  },
-  {
-    "name": "Turquoise Hill Resources",
-    "ticker": "TRQ",
-    "exchange": "TSX"
   },
   {
     "name": "Diversified Royalty Corp",
@@ -13155,11 +11653,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Inphi Corporation",
-    "ticker": "IPHI",
-    "exchange": "NASDAQ"
-  },
-  {
     "name": "St. Elias Mines Ltd.",
     "ticker": "SLI",
     "exchange": "TSXV"
@@ -13198,11 +11691,6 @@
     "name": "Norsemont Mining Inc.",
     "ticker": "NOM",
     "exchange": "TSXV"
-  },
-  {
-    "name": "Champion Iron Limited",
-    "ticker": "CIA",
-    "exchange": "ASX"
   },
   {
     "name": "Nokia Corporation",
@@ -13250,11 +11738,6 @@
     "exchange": "Private"
   },
   {
-    "name": "Figma, Inc.",
-    "ticker": "A",
-    "exchange": "Private"
-  },
-  {
     "name": "Nufarm Limited",
     "ticker": "NUF",
     "exchange": "ASX"
@@ -13280,16 +11763,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "SanDisk Corporation",
-    "ticker": "N",
-    "exchange": "Delisted"
-  },
-  {
-    "name": "SanDisk Corporation",
-    "ticker": "A",
-    "exchange": "Delisted"
-  },
-  {
     "name": "Opsware Inc.",
     "ticker": "OPSW",
     "exchange": "NASDAQ"
@@ -13303,16 +11776,6 @@
     "name": "Javelin Mortgage Investment Corp.",
     "ticker": "JMI",
     "exchange": "NYSE"
-  },
-  {
-    "name": "A.P. M\u00f8ller - M\u00e6rsk A/S",
-    "ticker": "MAERSK-B.CO",
-    "exchange": "Copenhagen Stock Exchange"
-  },
-  {
-    "name": "Unilever PLC",
-    "ticker": "UL",
-    "exchange": "LSE"
   },
   {
     "name": "Khan Resources Inc.",
@@ -13365,11 +11828,6 @@
     "exchange": "STO"
   },
   {
-    "name": "Investor AB",
-    "ticker": "INVE B",
-    "exchange": "STO"
-  },
-  {
     "name": "EQT AB",
     "ticker": "EQT",
     "exchange": "STO"
@@ -13377,11 +11835,6 @@
   {
     "name": "Electrolux AB",
     "ticker": "ELUX B",
-    "exchange": "STO"
-  },
-  {
-    "name": "Stora Enso Oyj",
-    "ticker": "STEAV",
     "exchange": "STO"
   },
   {
@@ -13395,7 +11848,7 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Compagnie Financi\u00e8re Richemont SA",
+    "name": "Compagnie Financière Richemont SA",
     "ticker": "CFR",
     "exchange": "SIX"
   },
@@ -13408,11 +11861,6 @@
     "name": "The Charles Schwab Corporation",
     "ticker": "SCHW",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Sandvik AB",
-    "ticker": "SAND",
-    "exchange": "Nasdaq Stockholm"
   },
   {
     "name": "KONE Corporation",
@@ -13460,16 +11908,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Randgold Resources",
-    "ticker": "GOLD (delisted)",
-    "exchange": "LSE"
-  },
-  {
-    "name": "Rockwell Diamonds Inc.",
-    "ticker": "RDI (delisted)",
-    "exchange": "TSX"
-  },
-  {
     "name": "LightPath Technologies, Inc.",
     "ticker": "LPTH",
     "exchange": "NASDAQ"
@@ -13495,9 +11933,10 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Legacy Imbds Inc. (formerly iMedia Brands, Inc.)",
+    "name": "Legacy Imbds Inc.",
     "ticker": "IMBIQ",
-    "exchange": "OTC"
+    "exchange": "OTC",
+    "name_former": "iMedia Brands, Inc."
   },
   {
     "name": "American Resources Corporation",
@@ -13525,9 +11964,10 @@
     "exchange": "LSE"
   },
   {
-    "name": "Delphi Automotive PLC (now Aptiv PLC)",
+    "name": "Aptiv PLC",
     "ticker": "APTV",
-    "exchange": "NYSE"
+    "exchange": "NYSE",
+    "name_former": "Delphi Automotive PLC"
   },
   {
     "name": "Americold Realty Trust, Inc.",
@@ -13580,11 +12020,6 @@
     "exchange": "ASX"
   },
   {
-    "name": "BAE Systems plc",
-    "ticker": "BA.L",
-    "exchange": "London Stock Exchange (LSE)"
-  },
-  {
     "name": "Nortec Minerals Corp.",
     "ticker": "NWT",
     "exchange": "TSXV"
@@ -13605,19 +12040,15 @@
     "exchange": "NYSE"
   },
   {
-    "name": "McFarlane Lake Mining Limited",
-    "ticker": "MLM",
-    "exchange": "CSE"
-  },
-  {
     "name": "Prospect Resources Limited",
     "ticker": "PSC",
     "exchange": "ASX"
   },
   {
-    "name": "Caltex Australia Limited (now Ampol Limited)",
+    "name": "Ampol Limited",
     "ticker": "ALD",
-    "exchange": "ASX"
+    "exchange": "ASX",
+    "name_former": "Caltex Australia Limited"
   },
   {
     "name": "Bendigo and Adelaide Bank Limited",
@@ -13650,11 +12081,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Baker Hughes Company",
-    "ticker": "BKR",
-    "exchange": "NYSE"
-  },
-  {
     "name": "Baker Hughes Incorporated",
     "ticker": "BHI",
     "exchange": "NYSE"
@@ -13665,14 +12091,10 @@
     "exchange": "LSE"
   },
   {
-    "name": "Standard Life Aberdeen plc (now abrdn plc)",
+    "name": "abrdn plc",
     "ticker": "ABDN",
-    "exchange": "LSE"
-  },
-  {
-    "name": "AB Volvo",
-    "ticker": "VOLV-B",
-    "exchange": "STO (Nasdaq Stockholm)"
+    "exchange": "LSE",
+    "name_former": "Standard Life Aberdeen plc"
   },
   {
     "name": "Scania AB",
@@ -13682,7 +12104,7 @@
   {
     "name": "Sylvania Platinum Limited",
     "ticker": "SLP",
-    "exchange": "London Stock Exchange"
+    "exchange": "LSE"
   },
   {
     "name": "Allkem Limited",
@@ -13703,16 +12125,6 @@
     "name": "Atlas Lithium Corporation",
     "ticker": "ATLX",
     "exchange": "NASDAQ"
-  },
-  {
-    "name": "Montage Gold Corp.",
-    "ticker": "MAU",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Electra Battery Materials Corp.",
-    "ticker": "ELBM",
-    "exchange": "TSX-V"
   },
   {
     "name": "Troilus Mining Corp.",
@@ -13765,11 +12177,6 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Tinka Resources Limited",
-    "ticker": "TK",
-    "exchange": "OTC"
-  },
-  {
     "name": "Pure Energy Minerals Limited",
     "ticker": "PE",
     "exchange": "OTC"
@@ -13810,14 +12217,10 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Sprint Corporation",
-    "ticker": "S (delisted)",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Valeant Pharmaceuticals International, Inc. (now Bausch Health Companies Inc.)",
+    "name": "Bausch Health Companies Inc.",
     "ticker": "BHC",
-    "exchange": "NYSE"
+    "exchange": "NYSE",
+    "name_former": "Valeant Pharmaceuticals International, Inc."
   },
   {
     "name": "Alderan Resources Ltd",
@@ -13845,39 +12248,14 @@
     "exchange": "ASX"
   },
   {
-    "name": "Gr\u00e4nges AB",
+    "name": "Gränges AB",
     "ticker": "GRNG",
-    "exchange": "STO (Nasdaq Stockholm)"
-  },
-  {
-    "name": "Sandvik AB",
-    "ticker": "SAND",
     "exchange": "STO (Nasdaq Stockholm)"
   },
   {
     "name": "Veoneer, Inc.",
     "ticker": "VNE",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Atlas Copco AB",
-    "ticker": "ATCO A",
-    "exchange": "Nasdaq Stockholm"
-  },
-  {
-    "name": "Atlas Copco AB",
-    "ticker": "ATCO B",
-    "exchange": "Nasdaq Stockholm"
-  },
-  {
-    "name": "Investor AB",
-    "ticker": "INVE B",
-    "exchange": "Nasdaq Stockholm"
-  },
-  {
-    "name": "W\u00e4rtsil\u00e4 Oyj Abp",
-    "ticker": "WRT1V",
-    "exchange": "Nasdaq Helsinki"
   },
   {
     "name": "Equity Office Properties Trust",
@@ -13900,11 +12278,6 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Siemens Energy AG",
-    "ticker": "ENR",
-    "exchange": "Xetra"
-  },
-  {
     "name": "Siemens Limited (India)",
     "ticker": "SIEMENS",
     "exchange": "National Stock Exchange of India (NSE)"
@@ -13920,11 +12293,6 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Greenlane Renewables Inc.",
-    "ticker": "GRN",
-    "exchange": "TSX"
-  },
-  {
     "name": "Kuya Silver Corp.",
     "ticker": "KUYA",
     "exchange": "CSE"
@@ -13937,11 +12305,6 @@
   {
     "name": "AppLovin Corporation",
     "ticker": "APP",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Yahoo! Inc.",
-    "ticker": "YHOO (delisted)",
     "exchange": "NASDAQ"
   },
   {
@@ -14010,7 +12373,7 @@
     "exchange": "NYSE"
   },
   {
-    "name": "The Est\u00e9e Lauder Companies Inc.",
+    "name": "The Estée Lauder Companies Inc.",
     "ticker": "EL",
     "exchange": "NYSE"
   },
@@ -14055,9 +12418,10 @@
     "exchange": "NYSE"
   },
   {
-    "name": "SoundThinking, Inc. (formerly ShotSpotter)",
+    "name": "SoundThinking, Inc.",
     "ticker": "SSTI",
-    "exchange": "NASDAQ"
+    "exchange": "NASDAQ",
+    "name_former": "ShotSpotter"
   },
   {
     "name": "Commercial Vehicle Group, Inc.",
@@ -14115,11 +12479,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Dialog Semiconductor plc",
-    "ticker": "DLGN",
-    "exchange": "LSE"
-  },
-  {
     "name": "Maxtor Corporation",
     "ticker": "MXTR",
     "exchange": "NYSE"
@@ -14155,16 +12514,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Avino Silver & Gold Mines Ltd.",
-    "ticker": "ASM",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Canadian National Railway Company",
-    "ticker": "CNI",
-    "exchange": "TSX"
-  },
-  {
     "name": "Secureworks Corp.",
     "ticker": "SCWX",
     "exchange": "NASDAQ"
@@ -14172,12 +12521,7 @@
   {
     "name": "Chaarat Gold Holdings Ltd",
     "ticker": "CGH",
-    "exchange": "LSE (AIM)"
-  },
-  {
-    "name": "Bombardier Inc.",
-    "ticker": "BBD.B",
-    "exchange": "TSX"
+    "exchange": "LSE"
   },
   {
     "name": "Smartsheet Inc.",
@@ -14195,9 +12539,10 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "America First Multifamily Investors, L.P. (now Greystone Housing Impact Investors LP)",
+    "name": "Greystone Housing Impact Investors LP",
     "ticker": "ATAX",
-    "exchange": "NASDAQ"
+    "exchange": "NASDAQ",
+    "name_former": "America First Multifamily Investors, L.P."
   },
   {
     "name": "Churchill Capital Corp",
@@ -14275,11 +12620,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Vista Gold Corp.",
-    "ticker": "VGZ",
-    "exchange": "TSX"
-  },
-  {
     "name": "Perpetua Resources Corp.",
     "ticker": "PPTA",
     "exchange": "NASDAQ"
@@ -14293,11 +12633,6 @@
     "name": "Lexar Media, Inc.",
     "ticker": "LEXR",
     "exchange": "NASDAQ"
-  },
-  {
-    "name": "Alacer Gold Corp.",
-    "ticker": "AQG",
-    "exchange": "ASX"
   },
   {
     "name": "Sumo Logic, Inc.",
@@ -14315,9 +12650,10 @@
     "exchange": "NYSE"
   },
   {
-    "name": "X-Terra Resources Inc. (now known as CLIC - Clic Resources Inc.)",
+    "name": "CLIC Resources Inc.",
     "ticker": "CLIC",
-    "exchange": "TSXV"
+    "exchange": "TSXV",
+    "name_former": "X-Terra Resources Inc."
   },
   {
     "name": "LeadFX Inc.",
@@ -14375,11 +12711,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Volta Inc.",
-    "ticker": "VLTA",
-    "exchange": "NYSE"
-  },
-  {
     "name": "GT Gold Corp.",
     "ticker": "GTT",
     "exchange": "TSXV"
@@ -14403,21 +12734,6 @@
     "name": "Detour Gold Corporation",
     "ticker": "DGC",
     "exchange": "TSX"
-  },
-  {
-    "name": "ATHA Energy Corp.",
-    "ticker": "ATHA",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Ucore Rare Metals Inc.",
-    "ticker": "UCU (TSXV)",
-    "exchange": "OTCQX"
-  },
-  {
-    "name": "Ucore Rare Metals Inc.",
-    "ticker": "UURAF (OTCQX)",
-    "exchange": "OTCQX"
   },
   {
     "name": "Sonim Technologies, Inc.",
@@ -14458,11 +12774,6 @@
     "name": "Sybase, Inc.",
     "ticker": "SY",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Galiano Gold Inc.",
-    "ticker": "GAU",
-    "exchange": "TSX"
   },
   {
     "name": "Arconic Corporation",
@@ -14515,19 +12826,15 @@
     "exchange": "ASX"
   },
   {
-    "name": "Telekom Austria AG (now A1 Telekom Austria Group)",
+    "name": "A1 Telekom Austria Group",
     "ticker": "TKA",
-    "exchange": "Vienna Stock Exchange"
+    "exchange": "Vienna Stock Exchange",
+    "name_former": "Telekom Austria AG"
   },
   {
-    "name": "Orascom Telecom Holding S.A.E.",
-    "ticker": "OTH (Historical)",
-    "exchange": "EGX (Egyptian Exchange)"
-  },
-  {
-    "name": "Orascom Telecom Media and Technology Holding (now Orascom Investment Holding)",
+    "name": "Orascom Investment Holding",
     "ticker": "OIH",
-    "exchange": "EGX (Egyptian Exchange)"
+    "exchange": "EGX"
   },
   {
     "name": "Brady Corporation",
@@ -14548,11 +12855,6 @@
     "name": "Taubman Centers, Inc.",
     "ticker": "TCO",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Komatsu Ltd.",
-    "ticker": "6301",
-    "exchange": "Tokyo Stock Exchange (TSE)"
   },
   {
     "name": "INPEX CORPORATION",
@@ -14598,16 +12900,6 @@
     "name": "RS Group plc",
     "ticker": "RS1",
     "exchange": "LSE"
-  },
-  {
-    "name": "Sibanye Stillwater Limited",
-    "ticker": "SSW (JSE)",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Sibanye Stillwater Limited",
-    "ticker": "SBSW (NYSE)",
-    "exchange": "NYSE"
   },
   {
     "name": "Podium Minerals Limited",
@@ -14665,11 +12957,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "BAE Systems plc",
-    "ticker": "BA.",
-    "exchange": "LSE (London Stock Exchange)"
-  },
-  {
     "name": "Venture Minerals Limited",
     "ticker": "VMS",
     "exchange": "ASX"
@@ -14690,11 +12977,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Skyharbour Resources Ltd.",
-    "ticker": "SYH",
-    "exchange": "TSX Venture Exchange"
-  },
-  {
     "name": "Critica Limited",
     "ticker": "CRI",
     "exchange": "ASX"
@@ -14705,19 +12987,9 @@
     "exchange": "CSE"
   },
   {
-    "name": "Renforth Resources Inc.",
-    "ticker": "RFR",
-    "exchange": "CSE (Canadian Securities Exchange)"
-  },
-  {
     "name": "Weyerhaeuser Company",
     "ticker": "WY",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Compagnie Financi\u00e8re Richemont S.A.",
-    "ticker": "CFR",
-    "exchange": "SIX Swiss Exchange"
   },
   {
     "name": "AkzoNobel N.V.",
@@ -14825,24 +13097,9 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Rolls-Royce Holdings plc",
-    "ticker": "RR.L",
-    "exchange": "London Stock Exchange (LSE)"
-  },
-  {
     "name": "EMCOR Group, Inc.",
     "ticker": "EME",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Ucore Rare Metals Inc.",
-    "ticker": "UCU (TSXV)",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Ucore Rare Metals Inc.",
-    "ticker": "UURAF (OTCQX)",
-    "exchange": "OTC"
   },
   {
     "name": "TXNM Energy, Inc.",
@@ -14930,19 +13187,15 @@
     "exchange": "ASX"
   },
   {
-    "name": "Americas Gold and Silver Corporation",
-    "ticker": "USA",
-    "exchange": "NYSE"
-  },
-  {
     "name": "Klondex Mines Ltd.",
     "ticker": "KDX",
     "exchange": "TSX"
   },
   {
-    "name": "RNC Minerals (now Karora)",
+    "name": "Karora",
     "ticker": "RNX",
-    "exchange": "TSX"
+    "exchange": "TSX",
+    "name_former": "RNC Minerals"
   },
   {
     "name": "Troy Resources Limited",
@@ -14960,24 +13213,15 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Azincourt Energy Corp.",
-    "ticker": "AZI",
-    "exchange": "TSXV"
-  },
-  {
     "name": "Lomiko Metals Inc.",
     "ticker": "LMR",
     "exchange": "TSXV"
   },
   {
-    "name": "Grenville Gold Corp. (now known as Grenville Strategic Royalty Corp.)",
+    "name": "Grenville Strategic Royalty Corp.",
     "ticker": "GRC",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "enCore Energy Corp.",
-    "ticker": "EU",
-    "exchange": "TSX.V"
+    "exchange": "TSXV",
+    "name_former": "Grenville Gold Corp."
   },
   {
     "name": "Lydall, Inc.",
@@ -15067,22 +13311,13 @@
   {
     "name": "Afcan Mining Corporation",
     "ticker": "AFK",
-    "exchange": "TSX-V"
+    "exchange": "TSXV"
   },
   {
-    "name": "World Fuel Services Corporation (now World Kinect Corporation)",
+    "name": "World Kinect Corporation",
     "ticker": "INT",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Kinross Gold Corporation",
-    "ticker": "K (TSX)",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Kinross Gold Corporation",
-    "ticker": "KGC (NYSE)",
-    "exchange": "NYSE"
+    "exchange": "NYSE",
+    "name_former": "World Fuel Services Corporation"
   },
   {
     "name": "EnerSys",
@@ -15115,11 +13350,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Engie SA",
-    "ticker": "ENGIY",
-    "exchange": "OTC"
-  },
-  {
     "name": "Engie Brasil Energia S.A.",
     "ticker": "EGIEY",
     "exchange": "OTC"
@@ -15140,34 +13370,9 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Wm. Wrigley Jr. Company",
-    "ticker": "WWY",
-    "exchange": "NYSE (Delisted)"
-  },
-  {
     "name": "James Hardie Industries plc",
     "ticker": "JHX",
     "exchange": "ASX"
-  },
-  {
-    "name": "Navistar International Corporation",
-    "ticker": "NAV (Delisted",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Sitka Gold Corp.",
-    "ticker": "SIG",
-    "exchange": "TSX-V"
-  },
-  {
-    "name": "CanAlaska Uranium Ltd.",
-    "ticker": "CVV",
-    "exchange": "TSX-V"
-  },
-  {
-    "name": "New Age Metals Inc.",
-    "ticker": "NAM",
-    "exchange": "TSX-V"
   },
   {
     "name": "Quinsam Capital Corporation",
@@ -15195,11 +13400,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Appia Rare Earths & Uranium Corp.",
-    "ticker": "APAAF",
-    "exchange": "OTC"
-  },
-  {
     "name": "Imperial Mining Group Ltd.",
     "ticker": "IMPNF",
     "exchange": "OTC"
@@ -15218,11 +13418,6 @@
     "name": "Pacific North West Capital Corp.",
     "ticker": "PFN",
     "exchange": "TSX"
-  },
-  {
-    "name": "Americas Gold and Silver Corporation",
-    "ticker": "USAS",
-    "exchange": "NYSE American"
   },
   {
     "name": "Astronics Corporation",
@@ -15265,14 +13460,10 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Vault Minerals Limited (formerly Red 5 Limited)",
+    "name": "Vault Minerals Limited",
     "ticker": "VAU",
-    "exchange": "ASX"
-  },
-  {
-    "name": "Energy Fuels Inc.",
-    "ticker": "UUUU",
-    "exchange": "TSX"
+    "exchange": "ASX",
+    "name_former": "Red 5 Limited"
   },
   {
     "name": "Sixth Wave Innovations Inc.",
@@ -15307,7 +13498,7 @@
   {
     "name": "STM Group Plc",
     "ticker": "STM",
-    "exchange": "LSE (AIM)"
+    "exchange": "LSE"
   },
   {
     "name": "Western Metals Ltd",
@@ -15338,16 +13529,6 @@
     "name": "Paradyne Networks, Inc.",
     "ticker": "PDYN",
     "exchange": "NASDAQ"
-  },
-  {
-    "name": "Scania AB",
-    "ticker": "N",
-    "exchange": "Nasdaq Stockholm"
-  },
-  {
-    "name": "Scania AB",
-    "ticker": "A",
-    "exchange": "Nasdaq Stockholm"
   },
   {
     "name": "Alumina Limited",
@@ -15410,14 +13591,9 @@
     "exchange": "Nasdaq Stockholm"
   },
   {
-    "name": "AB Industriv\u00e4rden",
+    "name": "AB Industrivärden",
     "ticker": "INDU-A",
     "exchange": "Nasdaq Stockholm"
-  },
-  {
-    "name": "Western Magnesium Corporation",
-    "ticker": "WMG.V",
-    "exchange": "TSXV"
   },
   {
     "name": "Varonis Systems, Inc.",
@@ -15437,17 +13613,12 @@
   {
     "name": "Continental AG",
     "ticker": "CON",
-    "exchange": "XETRA (Frankfurt Stock Exchange)"
+    "exchange": "XETRA"
   },
   {
-    "name": "Siemens Aktiengesellschaft (Siemens AG)",
+    "name": "Siemens AG",
     "ticker": "SIE",
-    "exchange": "Frankfurt Stock Exchange (XETRA)"
-  },
-  {
-    "name": "Siemens Healthineers AG",
-    "ticker": "SHL",
-    "exchange": "Frankfurt Stock Exchange (XETRA)"
+    "exchange": "XETRA"
   },
   {
     "name": "EarthLabs Inc.",
@@ -15480,11 +13651,6 @@
     "exchange": "CSE"
   },
   {
-    "name": "Fission Energy Corp.",
-    "ticker": "FIS",
-    "exchange": "TSXV (Historical)"
-  },
-  {
     "name": "Western Copper & Gold Corp.",
     "ticker": "WRN",
     "exchange": "TSX"
@@ -15515,9 +13681,10 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Alcoa Inc. (Predecessor entity)",
-    "ticker": "AA (Historical)",
-    "exchange": "NYSE"
+    "name": "Alcoa Inc.",
+    "ticker": "AA",
+    "exchange": "NYSE",
+    "name_former": "Predecessor entity"
   },
   {
     "name": "Richmont Mines Inc.",
@@ -15570,16 +13737,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "enCore Energy Corp.",
-    "ticker": "EU",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "AuRico Gold Inc.",
-    "ticker": "AUQ",
-    "exchange": "NYSE"
-  },
-  {
     "name": "Arrow Electronics, Inc.",
     "ticker": "ARW",
     "exchange": "NYSE"
@@ -15630,11 +13787,6 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Generic Gold Corp.",
-    "ticker": "GGC",
-    "exchange": "CSE"
-  },
-  {
     "name": "Jourdan Resources Inc.",
     "ticker": "JOR",
     "exchange": "TSXV"
@@ -15643,11 +13795,6 @@
     "name": "NextSource Materials Inc.",
     "ticker": "NEXT",
     "exchange": "TSX"
-  },
-  {
-    "name": "Sibanye Stillwater Limited",
-    "ticker": "SBSW",
-    "exchange": "New York Stock Exchange"
   },
   {
     "name": "Kaminak Gold Corp.",
@@ -15675,11 +13822,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "DoorDash, Inc.",
-    "ticker": "DASH",
-    "exchange": "NASDAQ"
-  },
-  {
     "name": "Better Therapeutics, Inc.",
     "ticker": "BTTX",
     "exchange": "NASDAQ"
@@ -15693,11 +13835,6 @@
     "name": "Hess Corporation",
     "ticker": "HES",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Kaminak Gold Corporation",
-    "ticker": "KAM",
-    "exchange": "TSXV (delisted)"
   },
   {
     "name": "White Gold Corp.",
@@ -15745,19 +13882,9 @@
     "exchange": "AMEX"
   },
   {
-    "name": "Silvercorp Metals Inc.",
-    "ticker": "SVM",
-    "exchange": "TSX"
-  },
-  {
     "name": "Time Warner Inc.",
     "ticker": "TWX",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Western Uranium & Vanadium Corp.",
-    "ticker": "WUC",
-    "exchange": "OTCQX"
   },
   {
     "name": "McCormick & Company, Incorporated",
@@ -15850,9 +13977,10 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Hickory Tech Corporation (now Consolidated Communications)",
+    "name": "Consolidated Communications",
     "ticker": "CNSL",
-    "exchange": "NASDAQ"
+    "exchange": "NASDAQ",
+    "name_former": "Hickory Tech Corporation"
   },
   {
     "name": "Fortune Minerals Limited",
@@ -15863,11 +13991,6 @@
     "name": "Telstra Group Limited",
     "ticker": "TLS",
     "exchange": "ASX"
-  },
-  {
-    "name": "ABB Ltd",
-    "ticker": "ABBN",
-    "exchange": "STO"
   },
   {
     "name": "Echelon Corporation",
@@ -15883,11 +14006,6 @@
     "name": "Dionex Corporation",
     "ticker": "DNEX",
     "exchange": "NASDAQ"
-  },
-  {
-    "name": "Alacer Gold Corp.",
-    "ticker": "ASR",
-    "exchange": "ASX"
   },
   {
     "name": "Electric Royalties Ltd.",
@@ -15955,29 +14073,9 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Siemens Aktiengesellschaft",
-    "ticker": "SIE",
-    "exchange": "Xetra (Frankfurt Stock Exchange)"
-  },
-  {
     "name": "Bilfinger SE",
     "ticker": "GBF",
-    "exchange": "Xetra (Frankfurt Stock Exchange)"
-  },
-  {
-    "name": "Lundin Gold Inc.",
-    "ticker": "LUG (TSX)",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Fireweed Metals Corp.",
-    "ticker": "FWZ (TSXV)",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "TRILOGY METALS INC.",
-    "ticker": "TMQ",
-    "exchange": "TSX"
+    "exchange": "Xetra"
   },
   {
     "name": "Highlander Silver Corp.",
@@ -16017,31 +14115,11 @@
   {
     "name": "Ivanhoe Electric Inc.",
     "ticker": "IE",
-    "exchange": "NYSE American"
-  },
-  {
-    "name": "Tudor Gold Corp.",
-    "ticker": "TUD (TSXV)",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Tudor Gold Corp.",
-    "ticker": "TDRRF (OTC)",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Goldstorm Metals Corp.",
-    "ticker": "GSTM (TSXV)",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Goldstorm Metals Corp.",
-    "ticker": "GSTMF (OTC)",
-    "exchange": "OTC"
+    "exchange": "AMEX"
   },
   {
     "name": "Kaizen Capital Corp.",
-    "ticker": "KAI (TSXV)",
+    "ticker": "KAI",
     "exchange": "TSXV"
   },
   {
@@ -16075,11 +14153,6 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Homeland Uranium Corp.",
-    "ticker": "HUC",
-    "exchange": "TSXV"
-  },
-  {
     "name": "Fission Energy Corp.",
     "ticker": "FIS",
     "exchange": "TSXV"
@@ -16092,11 +14165,6 @@
   {
     "name": "Freshworks Inc.",
     "ticker": "FRSH",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Pure Storage, Inc.",
-    "ticker": "PSTG",
     "exchange": "NASDAQ"
   },
   {
@@ -16140,19 +14208,9 @@
     "exchange": "ASX"
   },
   {
-    "name": "Continental AG",
-    "ticker": "CON",
-    "exchange": "Xetra"
-  },
-  {
     "name": "dormakaba Holding AG",
     "ticker": "DOKA",
     "exchange": "SIX Swiss Exchange"
-  },
-  {
-    "name": "Endeavour Mining plc",
-    "ticker": "EDV",
-    "exchange": "LSE (London Stock Exchange)"
   },
   {
     "name": "General Cable Corporation",
@@ -16160,19 +14218,15 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Fortuna Mining Corp. (formerly Fortuna Silver Mines Inc.)",
+    "name": "Fortuna Mining Corp.",
     "ticker": "FSM",
-    "exchange": "NYSE"
+    "exchange": "NYSE",
+    "name_former": "Fortuna Silver Mines Inc."
   },
   {
     "name": "CytoDyn Inc.",
     "ticker": "CYDY",
     "exchange": "OTC"
-  },
-  {
-    "name": "Randstad N.V.",
-    "ticker": "RAND",
-    "exchange": "Euronext Amsterdam (AMS)"
   },
   {
     "name": "Fletcher Building Limited",
@@ -16220,11 +14274,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Healthpeak Properties, Inc.",
-    "ticker": "PEAK",
-    "exchange": "NYSE"
-  },
-  {
     "name": "PS Business Parks, Inc.",
     "ticker": "PSB",
     "exchange": "NYSE"
@@ -16262,17 +14311,7 @@
   {
     "name": "Metalla Royalty & Streaming Ltd.",
     "ticker": "MTA",
-    "exchange": "NYSE American"
-  },
-  {
-    "name": "Carbon Streaming Corporation",
-    "ticker": "NETZ",
-    "exchange": "Cboe Canada"
-  },
-  {
-    "name": "Milner Consolidated Silver Mines Ltd.",
-    "ticker": "MCA.H",
-    "exchange": "TSXV (NEX)"
+    "exchange": "AMEX"
   },
   {
     "name": "Kingsmen Resources Ltd.",
@@ -16305,21 +14344,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Uranium Royalty Corp.",
-    "ticker": "URC",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Uranium Energy Corp.",
-    "ticker": "UEC",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Cameco Corporation",
-    "ticker": "CCO",
-    "exchange": "NYSE"
-  },
-  {
     "name": "iClick Interactive Asia Group Limited",
     "ticker": "ICLK",
     "exchange": "NASDAQ"
@@ -16343,11 +14367,6 @@
     "name": "Spark Minerals Inc.",
     "ticker": "SPAR",
     "exchange": "CSE"
-  },
-  {
-    "name": "Victoria Gold Corp.",
-    "ticker": "VGC",
-    "exchange": "TSX"
   },
   {
     "name": "Serabi Gold plc",
@@ -16375,11 +14394,6 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Australian Solomons Gold Limited",
-    "ticker": "TSX",
-    "exchange": "TSX"
-  },
-  {
     "name": "Affinity Metals Corp.",
     "ticker": "AFF",
     "exchange": "TSXV"
@@ -16393,11 +14407,6 @@
     "name": "American Creek Resources Ltd.",
     "ticker": "AMK",
     "exchange": "TSXV"
-  },
-  {
-    "name": "Randgold Resources Limited",
-    "ticker": "GOLD",
-    "exchange": "LSE"
   },
   {
     "name": "Flinders Mines Limited",
@@ -16435,11 +14444,6 @@
     "exchange": "ASX"
   },
   {
-    "name": "Barrick Gold Corporation",
-    "ticker": "ABX",
-    "exchange": "NYSE"
-  },
-  {
     "name": "Clear Secure, Inc. (CLEAR)",
     "ticker": "YOU",
     "exchange": "NYSE"
@@ -16450,7 +14454,7 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Compa\u00f1\u00eda de Minas Buenaventura S.A.A.",
+    "name": "Compañía de Minas Buenaventura S.A.A.",
     "ticker": "BVN",
     "exchange": "NYSE"
   },
@@ -16460,9 +14464,10 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Moneta Gold Inc. (now STLLR Gold Inc.)",
+    "name": "STLLR Gold Inc.",
     "ticker": "STLR",
-    "exchange": "TSX"
+    "exchange": "TSX",
+    "name_former": "Moneta Gold Inc."
   },
   {
     "name": "CI Financial Corp.",
@@ -16535,11 +14540,6 @@
     "exchange": "NSE"
   },
   {
-    "name": "Americas Gold and Silver Corporation",
-    "ticker": "USA",
-    "exchange": "TSX"
-  },
-  {
     "name": "DUET Group",
     "ticker": "DUE",
     "exchange": "ASX"
@@ -16553,51 +14553,6 @@
     "name": "Schindler Holding Ltd.",
     "ticker": "SCHN",
     "exchange": "SIX Swiss Exchange"
-  },
-  {
-    "name": "SSR Mining Inc.",
-    "ticker": "SSRM (TSX)",
-    "exchange": "ASX"
-  },
-  {
-    "name": "SSR Mining Inc.",
-    "ticker": "SSR (NASDAQ)",
-    "exchange": "ASX"
-  },
-  {
-    "name": "SSR Mining Inc.",
-    "ticker": "SSR (ASX)",
-    "exchange": "ASX"
-  },
-  {
-    "name": "Bank of Montreal (BMO Financial Group)",
-    "ticker": "BMO (TSX)",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Bank of Montreal (BMO Financial Group)",
-    "ticker": "BMO (NYSE)",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Vale S.A.",
-    "ticker": "VALE (NYSE)",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Shell Canada Limited",
-    "ticker": "SHC (TSX - Delisted)",
-    "exchange": "TSX"
-  },
-  {
-    "name": "The Toronto-Dominion Bank (TD Bank Group)",
-    "ticker": "TD (TSX)",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "The Toronto-Dominion Bank (TD Bank Group)",
-    "ticker": "TD (NYSE)",
-    "exchange": "NYSE"
   },
   {
     "name": "Saracen Mineral Holdings Limited",
@@ -16635,16 +14590,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Sibanye Stillwater Limited",
-    "ticker": "SSW",
-    "exchange": "JSE"
-  },
-  {
-    "name": "MTN Group Limited",
-    "ticker": "MTN",
-    "exchange": "JSE"
-  },
-  {
     "name": "Sun International Limited",
     "ticker": "SUI",
     "exchange": "JSE"
@@ -16655,11 +14600,6 @@
     "exchange": "JSE"
   },
   {
-    "name": "Ivanhoe Electric Inc.",
-    "ticker": "IE",
-    "exchange": "NYSE"
-  },
-  {
     "name": "Canagold Resources Ltd.",
     "ticker": "CCM",
     "exchange": "TSX"
@@ -16667,11 +14607,6 @@
   {
     "name": "The Weir Group PLC",
     "ticker": "WEIR",
-    "exchange": "LSE"
-  },
-  {
-    "name": "BlackRock World Mining Trust plc",
-    "ticker": "BRWM",
     "exchange": "LSE"
   },
   {
@@ -16785,19 +14720,9 @@
     "exchange": "ASX"
   },
   {
-    "name": "Gryphon Minerals Ltd",
-    "ticker": "GRY (Delisted)",
-    "exchange": "ASX"
-  },
-  {
     "name": "Hot Chili Limited",
     "ticker": "HCH",
     "exchange": "ASX"
-  },
-  {
-    "name": "Osisko Development Corp.",
-    "ticker": "ODV",
-    "exchange": "TSXV"
   },
   {
     "name": "Chalice Mining Ltd",
@@ -16825,14 +14750,9 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Awal\u00e9 Resources Ltd.",
+    "name": "Awalé Resources Ltd.",
     "ticker": "ARIC",
     "exchange": "TSXV"
-  },
-  {
-    "name": "Dryden Gold Corp.",
-    "ticker": "DRY",
-    "exchange": "TSX Venture Exchange"
   },
   {
     "name": "Australis Oil and Gas Limited",
@@ -16850,34 +14770,24 @@
     "exchange": "ASX"
   },
   {
-    "name": "Oceanic Iron Ore Corp.",
-    "ticker": "FEO",
-    "exchange": "TSX-V"
-  },
-  {
     "name": "Oriel Resources Plc",
     "ticker": "N",
     "exchange": "LSE"
   },
   {
-    "name": "Oriel Resources Plc",
-    "ticker": "A",
-    "exchange": "LSE"
-  },
-  {
     "name": "Rusoro Mining Ltd.",
     "ticker": "RML",
-    "exchange": "TSX-V"
+    "exchange": "TSXV"
   },
   {
     "name": "Terrane Metals Corp.",
     "ticker": "TRX",
-    "exchange": "TSX-V"
+    "exchange": "TSXV"
   },
   {
     "name": "Infinito Gold Ltd.",
     "ticker": "IG",
-    "exchange": "TSX-V"
+    "exchange": "TSXV"
   },
   {
     "name": "Spur Ventures Inc.",
@@ -16885,24 +14795,10 @@
     "exchange": "TSX"
   },
   {
-    "name": "Apache Corporation (now APA Corporation)",
+    "name": "APA Corporation",
     "ticker": "APA",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "NetSuite Inc.",
-    "ticker": "N (Delisted)",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "SanDisk Corporation",
-    "ticker": "SNDK (Acquired)",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Rodgers Silicon Valley Acquisition Corp",
-    "ticker": "RSVA (Delisted)",
-    "exchange": "NASDAQ"
+    "exchange": "NASDAQ",
+    "name_former": "Apache Corporation"
   },
   {
     "name": "Arch Resources, Inc.",
@@ -16935,24 +14831,15 @@
     "exchange": "TSX"
   },
   {
-    "name": "Enbridge Inc.",
-    "ticker": "ENB",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Platinum Group Metals Ltd.",
-    "ticker": "PLG",
-    "exchange": "TSX"
-  },
-  {
     "name": "Finning International Inc.",
     "ticker": "FTT",
     "exchange": "TSX"
   },
   {
-    "name": "Oxiana Ltd (now OZ Minerals)",
+    "name": "OZ Minerals",
     "ticker": "OXR",
-    "exchange": "ASX"
+    "exchange": "ASX",
+    "name_former": "Oxiana Ltd"
   },
   {
     "name": "Swiss Re Ltd",
@@ -16963,11 +14850,6 @@
     "name": "Affiliated Managers Group, Inc.",
     "ticker": "AMG",
     "exchange": "NYSE"
-  },
-  {
-    "name": "National Atomic Company Kazatomprom JSC",
-    "ticker": "KAP",
-    "exchange": "London Stock Exchange (LSE)"
   },
   {
     "name": "Quest Diagnostics Incorporated",
@@ -16983,11 +14865,6 @@
     "name": "Lyondell Chemical Company",
     "ticker": "LYO",
     "exchange": "NYSE"
-  },
-  {
-    "name": "enCore Energy Corp.",
-    "ticker": "ENCU",
-    "exchange": "NYSE American"
   },
   {
     "name": "American Water Works Company, Inc.",
@@ -17050,11 +14927,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "New Found Gold Corp.",
-    "ticker": "NFGC",
-    "exchange": "TSX"
-  },
-  {
     "name": "Hillenbrand, Inc.",
     "ticker": "HI",
     "exchange": "NYSE"
@@ -17063,11 +14935,6 @@
     "name": "Surge Battery Metals Inc.",
     "ticker": "NILI",
     "exchange": "TSXV"
-  },
-  {
-    "name": "Aker BP ASA",
-    "ticker": "AKRBP",
-    "exchange": "OSE (Oslo)"
   },
   {
     "name": "Artisan Partners Asset Management Inc.",
@@ -17095,7 +14962,7 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "DICK\u2019S Sporting Goods, Inc.",
+    "name": "DICK’S Sporting Goods, Inc.",
     "ticker": "DKS",
     "exchange": "NYSE"
   },
@@ -17112,11 +14979,6 @@
   {
     "name": "Coles Group Limited",
     "ticker": "COL",
-    "exchange": "ASX"
-  },
-  {
-    "name": "Navitas Limited",
-    "ticker": "NVT (Delisted)",
     "exchange": "ASX"
   },
   {
@@ -17175,16 +15037,6 @@
     "exchange": "OTC"
   },
   {
-    "name": "Rolls-Royce Holdings plc",
-    "ticker": "RR.",
-    "exchange": "LSE"
-  },
-  {
-    "name": "Snowline Gold Corp.",
-    "ticker": "SGD",
-    "exchange": "TSX Venture Exchange"
-  },
-  {
     "name": "AXA SA",
     "ticker": "CS",
     "exchange": "Euronext Paris"
@@ -17198,11 +15050,6 @@
     "name": "Publicis Groupe",
     "ticker": "PUB",
     "exchange": "Euronext Paris"
-  },
-  {
-    "name": "Thomson Reuters Corporation",
-    "ticker": "TRI",
-    "exchange": "TSX"
   },
   {
     "name": "Sims Limited",
@@ -17220,19 +15067,15 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "AMR Corporation",
-    "ticker": "AAMRQ",
-    "exchange": "OTC"
-  },
-  {
     "name": "Rigetti Computing, Inc.",
     "ticker": "RGTI",
     "exchange": "NASDAQ"
   },
   {
-    "name": "Apex Silver Mines Ltd. (now known as Golden Minerals Company)",
+    "name": "Golden Minerals Company",
     "ticker": "AUMN",
-    "exchange": "NYSE American"
+    "exchange": "AMEX",
+    "name_former": "Apex Silver Mines Ltd."
   },
   {
     "name": "View, Inc.",
@@ -17247,32 +15090,12 @@
   {
     "name": "High Plains Uranium, Inc.",
     "ticker": "N",
-    "exchange": "TSX-V"
-  },
-  {
-    "name": "High Plains Uranium, Inc.",
-    "ticker": "A",
-    "exchange": "TSX-V"
-  },
-  {
-    "name": "SAP SE",
-    "ticker": "SAP",
-    "exchange": "Xetra"
-  },
-  {
-    "name": "Nokia Corporation",
-    "ticker": "NOK",
-    "exchange": "Nasdaq Helsinki"
+    "exchange": "TSXV"
   },
   {
     "name": "The Black & Decker Corporation",
     "ticker": "BDK",
     "exchange": "NYSE"
-  },
-  {
-    "name": "SunPower Corporation",
-    "ticker": "SPWRQ",
-    "exchange": "OTC"
   },
   {
     "name": "Exar Corporation",
@@ -17300,16 +15123,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Silvermet Inc.",
-    "ticker": "SYI",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Corvus Gold Inc.",
-    "ticker": "KOR",
-    "exchange": "TSX"
-  },
-  {
     "name": "Continental Gold Inc.",
     "ticker": "CNL",
     "exchange": "TSX"
@@ -17333,11 +15146,6 @@
     "name": "Augusta Resource Corporation",
     "ticker": "AZC",
     "exchange": "TSX"
-  },
-  {
-    "name": "Sibanye Stillwater Limited",
-    "ticker": "SBSW",
-    "exchange": "JSE"
   },
   {
     "name": "DRDGOLD Limited",
@@ -17365,11 +15173,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "CAE Inc.",
-    "ticker": "CAE",
-    "exchange": "TSX"
-  },
-  {
     "name": "Genenta Science S.p.A.",
     "ticker": "GNTA",
     "exchange": "NASDAQ"
@@ -17380,11 +15183,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Vedanta Resources PLC",
-    "ticker": "VED",
-    "exchange": "LSE"
-  },
-  {
     "name": "CoTec Holdings Corp.",
     "ticker": "CTEC",
     "exchange": "TSXV"
@@ -17393,11 +15191,6 @@
     "name": "Palabora Mining Company",
     "ticker": "PAB",
     "exchange": "JSE"
-  },
-  {
-    "name": "BAE Systems plc",
-    "ticker": "BA.L",
-    "exchange": "LSE (London Stock Exchange)"
   },
   {
     "name": "TotalEnergies SE",
@@ -17425,11 +15218,6 @@
     "exchange": "ASX"
   },
   {
-    "name": "Almadex Minerals Ltd.",
-    "ticker": "DEX",
-    "exchange": "TSXV"
-  },
-  {
     "name": "Campbell Soup Company",
     "ticker": "CPB",
     "exchange": "NYSE"
@@ -17447,22 +15235,18 @@
   {
     "name": "Quaterra Resources Inc.",
     "ticker": "QTA",
-    "exchange": "TSX.V"
+    "exchange": "TSXV"
   },
   {
-    "name": "Uranium Resources Inc. (now Westwater Resources, Inc.)",
+    "name": "Westwater Resources, Inc.",
     "ticker": "WWR",
-    "exchange": "NYSE American"
+    "exchange": "AMEX",
+    "name_former": "Uranium Resources Inc."
   },
   {
     "name": "First Cobalt Corp.",
     "ticker": "FCC",
     "exchange": "TSXV"
-  },
-  {
-    "name": "Azincourt Energy Corp.",
-    "ticker": "AAZ",
-    "exchange": "TSX Venture Exchange"
   },
   {
     "name": "Bionomics Limited",
@@ -17475,24 +15259,19 @@
     "exchange": "TSXV"
   },
   {
-    "name": "Iveco Group N.V.",
-    "ticker": "IVG",
-    "exchange": "LSE listed)"
-  },
-  {
     "name": "DCC plc",
     "ticker": "DCC",
     "exchange": "LSE"
   },
   {
-    "name": "T\u00fcrkiye Petrol Rafinerileri A.\u015e. (Tupras)",
+    "name": "Türkiye Petrol Rafinerileri A.Ş. (Tupras)",
     "ticker": "TUPRS",
     "exchange": "BIST (Istanbul Stock Exchange)"
   },
   {
     "name": "Hapag-Lloyd AG",
     "ticker": "HLAG",
-    "exchange": "Xetra (Frankfurt Stock Exchange)"
+    "exchange": "Xetra"
   },
   {
     "name": "ArcelorMittal",
@@ -17515,9 +15294,10 @@
     "exchange": "AEX"
   },
   {
-    "name": "Adbri Limited (formerly Adelaide Brighton)",
+    "name": "Adbri Limited",
     "ticker": "ABC",
-    "exchange": "ASX"
+    "exchange": "ASX",
+    "name_former": "Adelaide Brighton"
   },
   {
     "name": "Vimy Resources Limited",
@@ -17535,14 +15315,10 @@
     "exchange": "TSX"
   },
   {
-    "name": "Callaway Golf Company (formerly Topgolf Callaway Brands Corp.)",
+    "name": "Callaway Golf Company",
     "ticker": "MODG",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Sandstorm Gold Ltd.",
-    "ticker": "SAND",
-    "exchange": "New York Stock Exchange"
+    "exchange": "NYSE",
+    "name_former": "Topgolf Callaway Brands Corp."
   },
   {
     "name": "Arras Minerals Corp.",
@@ -17563,11 +15339,6 @@
     "name": "Philip Morris International Inc.",
     "ticker": "PM",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Deep Yellow Limited",
-    "ticker": "DYLLF",
-    "exchange": "OTCQX"
   },
   {
     "name": "Versamet Royalties Corp.",
@@ -17605,11 +15376,6 @@
     "exchange": "XETRA"
   },
   {
-    "name": "SAP SE",
-    "ticker": "SAP",
-    "exchange": "XETRA"
-  },
-  {
     "name": "Colossus Resources Corp.",
     "ticker": "CLUS",
     "exchange": "TSXV"
@@ -17617,11 +15383,6 @@
   {
     "name": "Kapa Gold Inc.",
     "ticker": "KAPA",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Torrent Capital Ltd.",
-    "ticker": "TORR",
     "exchange": "TSXV"
   },
   {
@@ -17650,9 +15411,10 @@
     "exchange": "TSXV"
   },
   {
-    "name": "QuestEx Gold & Copper Ltd. (formerly Colorado Resources Ltd.)",
+    "name": "QuestEx Gold & Copper Ltd.",
     "ticker": "QEX",
-    "exchange": "TSXV"
+    "exchange": "TSXV",
+    "name_former": "Colorado Resources Ltd."
   },
   {
     "name": "Queen's Road Capital Investment Ltd.",
@@ -17663,11 +15425,6 @@
     "name": "Amaroq Minerals Ltd.",
     "ticker": "AMRQ",
     "exchange": "LSE"
-  },
-  {
-    "name": "Ur-Energy Inc.",
-    "ticker": "URE",
-    "exchange": "TSX"
   },
   {
     "name": "InZinc Mining Ltd.",
@@ -17690,29 +15447,20 @@
     "exchange": "TSX"
   },
   {
-    "name": "Bayer AG",
-    "ticker": "BAYN",
-    "exchange": "Frankfurt Stock Exchange"
-  },
-  {
     "name": "E.ON SE",
     "ticker": "EOAN",
-    "exchange": "Frankfurt Stock Exchange"
+    "exchange": "XETRA"
   },
   {
     "name": "Deutsche Bank AG",
     "ticker": "DBK",
-    "exchange": "Frankfurt Stock Exchange"
+    "exchange": "XETRA"
   },
   {
-    "name": "Henkel AG & Co. KGaA",
-    "ticker": "HEN3",
-    "exchange": "Frankfurt Stock Exchange"
-  },
-  {
-    "name": "Amaya Inc. (now Flutter Entertainment plc)",
+    "name": "Flutter Entertainment plc",
     "ticker": "FLTR",
-    "exchange": "LSE"
+    "exchange": "LSE",
+    "name_former": "Amaya Inc."
   },
   {
     "name": "Enpro Inc.",
@@ -17740,11 +15488,6 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Antofagasta plc",
-    "ticker": "ANTO",
-    "exchange": "LSE (London Stock Exchange)"
-  },
-  {
     "name": "Zipcar, Inc.",
     "ticker": "ZIP",
     "exchange": "NASDAQ"
@@ -17758,21 +15501,6 @@
     "name": "Choice Hotels International, Inc.",
     "ticker": "CHH",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Sprint Corporation (formerly Sprint Nextel Corp.)",
-    "ticker": "S (Delisted",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Dex Media, Inc.",
-    "ticker": "DXM (Delisted",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Dex Media, Inc.",
-    "ticker": "Acquired)",
-    "exchange": "NASDAQ"
   },
   {
     "name": "AboveNet, Inc.",
@@ -17860,24 +15588,9 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Juniper Networks, Inc.",
-    "ticker": "JNPR",
-    "exchange": "NASDAQ"
-  },
-  {
     "name": "Gold Standard Ventures Corp.",
     "ticker": "GSV",
     "exchange": "TSX"
-  },
-  {
-    "name": "Orla Mining Ltd.",
-    "ticker": "OLA",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Orla Mining Ltd.",
-    "ticker": "ORLA",
-    "exchange": "NYSE"
   },
   {
     "name": "Autolus Therapeutics plc",
@@ -17895,44 +15608,9 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Midway Gold Corp.",
-    "ticker": "MDW",
-    "exchange": "TSX"
-  },
-  {
     "name": "Waste Connections, Inc.",
     "ticker": "WCN",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Grupo Rotoplas S.A.B. de C.V.",
-    "ticker": "AGUA (BMV)",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Grupo Rotoplas S.A.B. de C.V.",
-    "ticker": "GRPRF (OTC)",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Grupo M\u00e9xico, S.A.B. de C.V.",
-    "ticker": "GMEXICOB (BMV)",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Grupo M\u00e9xico, S.A.B. de C.V.",
-    "ticker": "GMBXF (OTC)",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Amadeus IT Group",
-    "ticker": "AMS",
-    "exchange": "BME (Madrid)"
-  },
-  {
-    "name": "Infineon Technologies AG",
-    "ticker": "IFX",
-    "exchange": "XETRA (Frankfurt)"
   },
   {
     "name": "Straumann Holding AG",
@@ -17950,14 +15628,10 @@
     "exchange": "SZSE"
   },
   {
-    "name": "STMicroelectronics N.V.",
-    "ticker": "STM",
-    "exchange": "Euronext Paris"
-  },
-  {
-    "name": "Faurecia (now FORVIA)",
+    "name": "FORVIA",
     "ticker": "EO",
-    "exchange": "Euronext Paris"
+    "exchange": "Euronext Paris",
+    "name_former": "Faurecia"
   },
   {
     "name": "Alstom",
@@ -17990,11 +15664,6 @@
     "exchange": "JSE"
   },
   {
-    "name": "Exelon Corporation",
-    "ticker": "EXC",
-    "exchange": "NYSE"
-  },
-  {
     "name": "Amdocs Limited",
     "ticker": "DOX",
     "exchange": "NASDAQ"
@@ -18020,11 +15689,6 @@
     "exchange": "NASDAQ"
   },
   {
-    "name": "Anaplan, Inc.",
-    "ticker": "PLAN (delisted)",
-    "exchange": "NYSE"
-  },
-  {
     "name": "Kenorland Minerals Ltd.",
     "ticker": "KLD",
     "exchange": "TSXV"
@@ -18033,16 +15697,6 @@
     "name": "CopperBank Resources Corp.",
     "ticker": "CBK",
     "exchange": "CSE"
-  },
-  {
-    "name": "Li Auto Inc.",
-    "ticker": "LI",
-    "exchange": "HKEX"
-  },
-  {
-    "name": "Li Auto Inc.",
-    "ticker": "2015",
-    "exchange": "HKEX"
   },
   {
     "name": "Abraplata Resource Corp.",
@@ -18070,34 +15724,9 @@
     "exchange": "TSXV"
   },
   {
-    "name": "The Alkaline Water Co., Inc.",
-    "ticker": "WTER",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "OrganiGram Holdings, Inc.",
-    "ticker": "OGI",
-    "exchange": "TSX"
-  },
-  {
     "name": "Emulex Corporation",
     "ticker": "ELX",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Venerable Ventures Ltd.",
-    "ticker": "VLV.H",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Rockhopper Exploration plc",
-    "ticker": "RKH",
-    "exchange": "LSE"
-  },
-  {
-    "name": "Canadian Imperial Bank of Commerce (CIBC)",
-    "ticker": "CM",
-    "exchange": "TSX"
   },
   {
     "name": "MCI, Inc.",
@@ -18110,129 +15739,9 @@
     "exchange": "NYSE"
   },
   {
-    "name": "Danakali Limited",
-    "ticker": "DNK",
-    "exchange": "ASX"
-  },
-  {
-    "name": "\u00d8rsted A/S",
-    "ticker": "ORSTED",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Brookfield Asset Management Ltd.",
-    "ticker": "BAM",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Globix Corporation",
-    "ticker": "GBIX",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Globix Corporation",
-    "ticker": "GEX",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Vantiv, Inc. (now Worldpay, Inc.)",
-    "ticker": "VNTV",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Golden Predator Mining Corp.",
-    "ticker": "GPY",
-    "exchange": "TSX"
-  },
-  {
-    "name": "TUI AG",
-    "ticker": "TUI1",
-    "exchange": "LSE"
-  },
-  {
-    "name": "GoldHaven Resources Corp.",
-    "ticker": "GHVN",
-    "exchange": "CSE"
-  },
-  {
-    "name": "Magnum Goldcorp Inc.",
-    "ticker": "MGI",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Moog Inc.",
-    "ticker": "MOG",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Western Uranium & Vanadium Corp.",
-    "ticker": "WSTRF",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Kinross Gold Corporation",
-    "ticker": "KGC",
-    "exchange": "TSX"
-  },
-  {
-    "name": "TransAlta Corporation",
-    "ticker": "TA",
-    "exchange": "TSX"
-  },
-  {
-    "name": "TransAlta Corporation",
-    "ticker": "TAC",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Cyren Ltd.",
-    "ticker": "CYRN",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Sibanye Stillwater Limited",
-    "ticker": "SSW",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Tahoe Resources Inc.",
-    "ticker": "TAHO",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Investec PLC",
-    "ticker": "INVP",
-    "exchange": "LSE"
-  },
-  {
-    "name": "Investec PLC",
-    "ticker": "ITCFY",
-    "exchange": "LSE"
-  },
-  {
-    "name": "Seabridge Gold Inc.",
-    "ticker": "SEA",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Seabridge Gold Inc.",
-    "ticker": "SA",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Colliers International Group Inc.",
-    "ticker": "CIGI",
-    "exchange": "NASDAQ"
-  },
-  {
     "name": "Atlas Iron Limited",
     "ticker": "AGO",
     "exchange": "ASX"
-  },
-  {
-    "name": "Western Silver Corporation",
-    "ticker": "WSC",
-    "exchange": "TSX"
   },
   {
     "name": "Western Copper Corporation",
@@ -18240,209 +15749,14 @@
     "exchange": "TSX"
   },
   {
-    "name": "Bank of Montreal (BMO)",
-    "ticker": "BMO",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "GoviEx Uranium Inc.",
-    "ticker": "GVXXF",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Leading Edge Materials Corp.",
-    "ticker": "LEMSE",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Leading Edge Materials Corp.",
-    "ticker": "LEMSE",
-    "exchange": "OTC"
-  },
-  {
-    "name": "First Mining Gold Corp.",
-    "ticker": "FF",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Panther Metals PLC",
-    "ticker": "PALM",
-    "exchange": "LSE"
-  },
-  {
-    "name": "HighGold Mining Inc.",
-    "ticker": "HG",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Denison Mines Corp.",
-    "ticker": "DML",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Foremost Clean Energy Ltd.",
-    "ticker": "FAT",
-    "exchange": "CSE"
-  },
-  {
-    "name": "Foremost Clean Energy Ltd.",
-    "ticker": "FMST",
-    "exchange": "CSE"
-  },
-  {
-    "name": "Foremost Clean Energy Ltd.",
-    "ticker": "FAT",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Uranium Participation Corp.",
-    "ticker": "U",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Raytheon Company",
-    "ticker": "RTN",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Reunion Gold Corporation",
-    "ticker": "RGD",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Highland Copper Company Inc.",
-    "ticker": "HI",
-    "exchange": "TSX"
-  },
-  {
     "name": "IPSCO Inc.",
     "ticker": "IPSCO",
     "exchange": "NYSE"
-  },
-  {
-    "name": "IPSCO Inc.",
-    "ticker": "IPSCO",
-    "exchange": "TSX"
-  },
-  {
-    "name": "ABB Ltd",
-    "ticker": "ABB",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "iShares Trust",
-    "ticker": "Various",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Bitfarms Ltd.",
-    "ticker": "BITF",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "The Toronto-Dominion Bank",
-    "ticker": "TD",
-    "exchange": "TSX"
   },
   {
     "name": "Canada Trust Financial Services Inc.",
     "ticker": "CT",
     "exchange": "TSX"
-  },
-  {
-    "name": "FIBRA Prologis",
-    "ticker": "FBBPF",
-    "exchange": "OTC"
-  },
-  {
-    "name": "FIBRA Terrafina",
-    "ticker": "TERRA13",
-    "exchange": "OTC"
-  },
-  {
-    "name": "FIBRA Terrafina",
-    "ticker": "CBAOF",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Baselode Energy Corp. (rebranded to Geiger Energy Corporation)",
-    "ticker": "BSENF",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Baselode Energy Corp. (rebranded to Geiger Energy Corporation)",
-    "ticker": "BSENF",
-    "exchange": "OTC"
-  },
-  {
-    "name": "NorZinc Ltd.",
-    "ticker": "NORZF",
-    "exchange": "OTC"
-  },
-  {
-    "name": "NorZinc Ltd.",
-    "ticker": "NZC",
-    "exchange": "TSX"
-  },
-  {
-    "name": "NorZinc Ltd.",
-    "ticker": "NZC",
-    "exchange": "OTC"
-  },
-  {
-    "name": "NorZinc Ltd.",
-    "ticker": "NORZF",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Cosa Resources Corp.",
-    "ticker": "COSAF",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Cosa Resources Corp.",
-    "ticker": "COSAF",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Carbon Streaming Corp.",
-    "ticker": "OFSTF",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Uranium Royalty Corp.",
-    "ticker": "URNM",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "Uranium Royalty Corp.",
-    "ticker": "URNM",
-    "exchange": "TSX"
-  },
-  {
-    "name": "West Fraser Timber Co. Ltd.",
-    "ticker": "WFG",
-    "exchange": "TSX"
-  },
-  {
-    "name": "XPeng Inc.",
-    "ticker": "9868",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Cameco Corporation",
-    "ticker": "CCJ",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Laramide Resources Ltd.",
-    "ticker": "LMRXF",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Laramide Resources Ltd.",
-    "ticker": "LMRXF",
-    "exchange": "ASX"
   },
   {
     "name": "Sino Gold Mining Limited",
@@ -18460,129 +15774,15 @@
     "exchange": "ASX"
   },
   {
-    "name": "Redx Pharma Plc",
-    "ticker": "REDX",
-    "exchange": "LSE"
-  },
-  {
-    "name": "Amara Mining Ltd",
-    "ticker": "AMA",
-    "exchange": "LSE"
-  },
-  {
-    "name": "Fertiglobe Plc",
-    "ticker": "FERTIGLOBE",
-    "exchange": "LSE"
-  },
-  {
-    "name": "Baytex Energy Corp.",
-    "ticker": "BTE",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Lundin Mining Corporation",
-    "ticker": "LUMI",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Eldorado Gold Corporation",
-    "ticker": "EGO",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Sprott Physical Uranium Trust",
-    "ticker": "SPUT",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Sprott Inc.",
-    "ticker": "SII",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Tim Hortons Inc.",
-    "ticker": "THI",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Cornish Metals Inc.",
-    "ticker": "TIN",
-    "exchange": "LSE"
-  },
-  {
     "name": "Bally Total Fitness Corporation",
     "ticker": "BFT",
     "exchange": "NYSE"
   },
   {
-    "name": "Nexus Uranium Corp.",
-    "ticker": "NEXU",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Eldorado Gold Corporation",
-    "ticker": "ELD",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Smiths Group plc",
-    "ticker": "SMIN",
-    "exchange": "LSE"
-  },
-  {
-    "name": "Alaska Energy Metals Corp.",
-    "ticker": "AKEMF",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Alaska Energy Metals Corp.",
-    "ticker": "AEMC",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Gatekeeper Systems Inc.",
-    "ticker": "GKPRF",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Gatekeeper Systems Inc.",
-    "ticker": "GSI",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Lahontan Gold Corp.",
-    "ticker": "LGCXF",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Invinity Energy Systems plc",
-    "ticker": "IES",
-    "exchange": "LSE"
-  },
-  {
-    "name": "Taiwan Semiconductor Manufacturing Company Limited",
-    "ticker": "2330",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Celestica Inc.",
-    "ticker": "CLS",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "The Hillshire Brands Company (formerly Sara Lee)",
+    "name": "The Hillshire Brands Company",
     "ticker": "HSH",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Amaroq Minerals Ltd. (formerly AEX Gold Inc.)",
-    "ticker": "AMRQ",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Randgold Resources",
-    "ticker": "GOLD",
-    "exchange": "NASDAQ"
+    "exchange": "NYSE",
+    "name_former": "Sara Lee"
   },
   {
     "name": "Rockwell Diamonds Inc.",
@@ -18590,184 +15790,9 @@
     "exchange": "TSX"
   },
   {
-    "name": "Sylvania Platinum Limited",
-    "ticker": "SLP",
-    "exchange": "LSE"
-  },
-  {
-    "name": "Electra Battery Materials Corp.",
-    "ticker": "ELBM",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Pure Energy Minerals Limited",
-    "ticker": "PE",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Horizonte Minerals PLC",
-    "ticker": "HZM",
-    "exchange": "LSE"
-  },
-  {
-    "name": "Canadian National Railway Company",
-    "ticker": "CNI",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Chaarat Gold Holdings Ltd",
-    "ticker": "CGH",
-    "exchange": "LSE"
-  },
-  {
-    "name": "Orion Minerals Limited",
-    "ticker": "ORN",
-    "exchange": "ASX"
-  },
-  {
-    "name": "Ucore Rare Metals Inc.",
-    "ticker": "UCU",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Ucore Rare Metals Inc.",
-    "ticker": "UURAF",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Ucore Rare Metals Inc.",
-    "ticker": "UURAF",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Rolls-Royce Holdings plc",
-    "ticker": "RR.L",
-    "exchange": "LSE"
-  },
-  {
-    "name": "Troy Resources Limited",
-    "ticker": "TRY",
-    "exchange": "ASX"
-  },
-  {
-    "name": "Azimuth Resources Limited",
-    "ticker": "AZH",
-    "exchange": "ASX"
-  },
-  {
-    "name": "Afcan Mining Corporation",
-    "ticker": "AFK",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "TC Energy Corporation",
-    "ticker": "TRP",
-    "exchange": "NYSE"
-  },
-  {
     "name": "Wm. Wrigley Jr. Company",
     "ticker": "WWY",
     "exchange": "NYSE"
-  },
-  {
-    "name": "Appia Rare Earths & Uranium Corp.",
-    "ticker": "APAAF",
-    "exchange": "CSE"
-  },
-  {
-    "name": "Imperial Mining Group Ltd.",
-    "ticker": "IMPNF",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Scandium Canada Ltd.",
-    "ticker": "SCDCF",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "STM Group Plc",
-    "ticker": "STM",
-    "exchange": "LSE"
-  },
-  {
-    "name": "Western Uranium & Vanadium Corp.",
-    "ticker": "WUC",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Tudor Gold Corp.",
-    "ticker": "TDRRF",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Tudor Gold Corp.",
-    "ticker": "TUD",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Tudor Gold Corp.",
-    "ticker": "TDRRF",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Goldstorm Metals Corp.",
-    "ticker": "GSTMF",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Goldstorm Metals Corp.",
-    "ticker": "GSTM",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Goldstorm Metals Corp.",
-    "ticker": "GSTMF",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Kaizen Capital Corp.",
-    "ticker": "KAI",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Fortuna Mining Corp. (formerly Fortuna Silver Mines Inc.)",
-    "ticker": "FSM",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Metalla Royalty & Streaming Ltd.",
-    "ticker": "MTA",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Milner Consolidated Silver Mines Ltd.",
-    "ticker": "MCA.H",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Uranium Royalty Corp.",
-    "ticker": "URC",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "SSR Mining Inc.",
-    "ticker": "SSR",
-    "exchange": "NASDAQ"
-  },
-  {
-    "name": "SSR Mining Inc.",
-    "ticker": "SSR",
-    "exchange": "TSX"
-  },
-  {
-    "name": "SSR Mining Inc.",
-    "ticker": "SSR",
-    "exchange": "ASX"
-  },
-  {
-    "name": "SSR Mining Inc.",
-    "ticker": "SSRM",
-    "exchange": "ASX"
   },
   {
     "name": "Shell Canada Limited",
@@ -18780,98 +15805,13 @@
     "exchange": "ASX"
   },
   {
-    "name": "Rusoro Mining Ltd.",
-    "ticker": "RML",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Terrane Metals Corp.",
-    "ticker": "TRX",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Infinito Gold Ltd.",
-    "ticker": "IG",
-    "exchange": "TSXV"
-  },
-  {
     "name": "Rodgers Silicon Valley Acquisition Corp",
     "ticker": "RSVA",
     "exchange": "NASDAQ"
   },
   {
-    "name": "Cenovus Energy Inc.",
-    "ticker": "CVE",
-    "exchange": "TSX"
-  },
-  {
-    "name": "enCore Energy Corp.",
-    "ticker": "ENCU",
-    "exchange": "TSX"
-  },
-  {
     "name": "Navitas Limited",
     "ticker": "NVT",
     "exchange": "ASX"
-  },
-  {
-    "name": "DRDGOLD Limited",
-    "ticker": "DRD",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "TotalEnergies SE",
-    "ticker": "TTE",
-    "exchange": "NYSE"
-  },
-  {
-    "name": "Quaterra Resources Inc.",
-    "ticker": "QTA",
-    "exchange": "TSX"
-  },
-  {
-    "name": "Iveco Group N.V.",
-    "ticker": "IVG",
-    "exchange": "LSE"
-  },
-  {
-    "name": "Arras Minerals Corp.",
-    "ticker": "ARRKF",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Arras Minerals Corp.",
-    "ticker": "ARRKF",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Deep Yellow Limited",
-    "ticker": "DYLLF",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Midway Gold Corp.",
-    "ticker": "MDW",
-    "exchange": "TSXV"
-  },
-  {
-    "name": "Grupo Rotoplas S.A.B. de C.V.",
-    "ticker": "AGUA",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Grupo Rotoplas S.A.B. de C.V.",
-    "ticker": "GRPRF",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Grupo M\u00e9xico, S.A.B. de C.V.",
-    "ticker": "GMEXICOB",
-    "exchange": "OTC"
-  },
-  {
-    "name": "Li Auto Inc.",
-    "ticker": "2015",
-    "exchange": "NASDAQ"
   }
 ]
