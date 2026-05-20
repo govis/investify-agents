@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Dale Corman",
+      "age": 86,
+      "age_year": 2024,
+      "background": "Mr. Corman has over 50 years of experience in mineral exploration and development. He was previously the Chairman and CEO of Western Silver Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Founder, Chairman, CEO",
+          "start_date": null,
+          "end_date": "2013"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Raymond Threlkeld",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Mr. Threlkeld has over 40 years of experience in the mining industry. He was previously the President and CEO of Rainy River Resources and held senior roles at Barrick Gold.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ross Beaty",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Mr. Beaty is a geologist and resource entrepreneur with over 45 years of experience in the international minerals and renewable energy industries. He founded Pan American Silver Corp. and Alterra Power Corp.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Co-Chairman",
+          "start_date": "2006",
+          "end_date": "2009"
+        }
+      ]
+    },
+    {
+      "name": "Dale Corman",
+      "age": 86,
+      "age_year": 2024,
+      "background": "Mr. Corman has over 50 years of experience in mineral exploration and development. He was previously the Chairman and CEO of Western Silver Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Founder, Chairman, CEO",
+          "start_date": null,
+          "end_date": "2013"
+        }
+      ]
+    }
+  ]
+}

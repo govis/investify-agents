@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Graham du Preez",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. du Preez is a Chartered Accountant with over 25 years of experience in the mining industry. He previously served as CFO of Uranium Royalty Corp. and has held senior financial roles at several mining companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": null,
+          "end_date": "April 2013"
+        }
+      ]
+    },
+    {
+      "name": "Ralph Knode",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Knode has over 30 years of experience in the uranium industry, including senior roles at Uranium One and Cameco Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, Projects",
+          "start_date": "Not publicly specified",
+          "end_date": "2013"
+        }
+      ]
+    },
+    {
+      "name": "Scott Melbye",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Melbye is a 40-year veteran of the nuclear energy industry having held leadership positions in major uranium mining companies. He is also the Executive Vice President of Uranium Energy Corp. and has served as President of the Uranium Producers of America.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, Marketing",
+          "start_date": "2007",
+          "end_date": "June 2014"
+        }
+      ]
+    },
+    {
+      "name": "William Sheriff",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Sheriff is the Executive Chairman of the Company. He has over 30 years of experience in the minerals industry and was a co-founder of Energy Metals Corp. and served as its Chairman and CEO.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "William Sheriff",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Sheriff is the Executive Chairman of the Company. He has over 30 years of experience in the minerals industry and was a co-founder of Energy Metals Corp. and served as its Chairman and CEO.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

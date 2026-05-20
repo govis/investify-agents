@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Jeneanne Hanley",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Jeneanne Hanley was formerly the Senior Vice President and President of the E-Systems division at Lear Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2019",
+          "end_date": "2022"
+        }
+      ]
+    },
+    {
+      "name": "Manavendra Sial",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Manavendra Sial has served as a member of our Board since 2022. He is the Executive Vice President and Chief Financial Officer of Fluence Energy, Inc. and previously served as CFO of SunPower Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "EVP & Chief Financial Officer",
+          "start_date": "January 2024",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jeneanne Hanley",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Jeneanne Hanley was formerly the Senior Vice President and President of the E-Systems division at Lear Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "2019",
+          "end_date": "2022"
+        }
+      ]
+    }
+  ]
+}

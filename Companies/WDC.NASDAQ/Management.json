@@ -1,0 +1,90 @@
+{
+  "executives": [
+    {
+      "name": "Bruce Kiddoo",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Bruce E. Kiddoo has served as a director since 2020. He previously served as Chief Financial Officer of Maxim Integrated Products, Inc. from 2007 to 2019.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "January 2025",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Manish Bhatia",
+      "age": 52,
+      "age_year": 2023,
+      "background": "Manish Bhatia is Executive Vice President, Global Operations. He joined Micron in 2017 from Western Digital Corporation, where he held various executive roles in operations and supply chain.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, Silicon Operations",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Olivier Leonetti",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Olivier Leonetti is Executive Vice President and Chief Financial Officer of Eaton. He joined Eaton in 2024. Prior to joining Eaton, he served as Executive Vice President and Chief Financial Officer of Johnson Controls International plc from 2020 to 2024. He also served as CFO of Zebra Technologies and Western Digital.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2014",
+          "end_date": "2016"
+        }
+      ]
+    },
+    {
+      "name": "Siva Sivaram",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Dr. Sivaram has served as our Chief Executive Officer since February 2024 and as a member of our Board since September 2023. Prior to joining QuantumScape, he served as President of Western Digital Corp. from 2020 to 2023 and as Executive Vice President of Silicon Technology from 2016 to 2020. He previously held leadership roles at SanDisk and Matrix Semiconductor.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President, Technology and Strategy",
+          "start_date": "May 2016",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Thomas Caulfield",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Dr. Caulfield is the President and Chief Executive Officer of GlobalFoundries. He joined the company in 2014 and was appointed CEO in 2018. Prior to GF, he served as President and COO of Soraa and held executive positions at Ausra and Novellus Systems. He spent 17 years at IBM in various leadership roles.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Board Member",
+          "start_date": "2021",
+          "end_date": "February 2025"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Bruce Kiddoo",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Bruce E. Kiddoo has served as a director since 2020. He previously served as Chief Financial Officer of Maxim Integrated Products, Inc. from 2007 to 2019.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "January 2025",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

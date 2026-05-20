@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Laura Alber",
+      "age": 55,
+      "age_year": 2024,
+      "background": "CEO of Williams-Sonoma, Inc. She has served as a Director since 2021.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2010",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Lorraine Twohill",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Chief Marketing Officer at Google LLC. She joined our board in April 2019.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Board Member",
+          "start_date": "2012",
+          "end_date": "2017"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Laura Alber",
+      "age": 55,
+      "age_year": 2024,
+      "background": "CEO of Williams-Sonoma, Inc. She has served as a Director since 2021.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2010",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "James Winnefeld, Jr.",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Retired U.S. Navy Admiral and former Vice Chairman of the Joint Chiefs of Staff.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Pamela Patsley",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Former Executive Chairman of MoneyGram International, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "1996",
+          "end_date": "2009"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "James Winnefeld, Jr.",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Retired U.S. Navy Admiral and former Vice Chairman of the Joint Chiefs of Staff.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Pamela Patsley",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Former Executive Chairman of MoneyGram International, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "1996",
+          "end_date": "2009"
+        }
+      ]
+    }
+  ]
+}

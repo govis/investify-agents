@@ -1,0 +1,146 @@
+{
+  "executives": [
+    {
+      "name": "Alan Bennett",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Former President and CEO of H&R Block, Inc. Former CFO of Aetna Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2007",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Amy Lane",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Retired managing director of Merrill Lynch & Co., Inc. Director since 2015.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2005",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jose Alvarez",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Jose B. Alvarez is a member of the faculty at Harvard Business School and former President and CEO of Stop & Shop/Giant-Landover.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Rosemary Berkery",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Chairman of UBS Bank USA and Vice Chairman of UBS Wealth Management Americas.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "William Swanson",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Raytheon Company. Served as Raytheon CEO from 2004 to 2014.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2015-02-03",
+          "end_date": "2022"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Alan Bennett",
+      "age": 73,
+      "age_year": 2024,
+      "background": "Former President and CEO of H&R Block, Inc. Former CFO of Aetna Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2007",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Amy Lane",
+      "age": 71,
+      "age_year": 2024,
+      "background": "Retired managing director of Merrill Lynch & Co., Inc. Director since 2015.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Independent Director",
+          "start_date": "2005",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jose Alvarez",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Jose B. Alvarez is a member of the faculty at Harvard Business School and former President and CEO of Stop & Shop/Giant-Landover.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Rosemary Berkery",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Chairman of UBS Bank USA and Vice Chairman of UBS Wealth Management Americas.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "William Swanson",
+      "age": 75,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Raytheon Company. Served as Raytheon CEO from 2004 to 2014.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2015-02-03",
+          "end_date": "2022"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Maria Martinez",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Maria Martinez is Chief Operating Officer of Cisco. She joined Cisco in 2018. Previously, she was President, Global Customer Success and Salesforce Services at Salesforce.com.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2024-06",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Melanie Boulden",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Chief Growth Officer of Tyson Foods, Inc. Director since 2022.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Growth Officer",
+          "start_date": "2023-02",
+          "end_date": "2024"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Maria Martinez",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Maria Martinez is Chief Operating Officer of Cisco. She joined Cisco in 2018. Previously, she was President, Global Customer Success and Salesforce Services at Salesforce.com.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2024-06",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

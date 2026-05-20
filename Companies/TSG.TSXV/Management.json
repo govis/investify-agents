@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Diane Garrett",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Dr. Garrett has more than 25 years of experience in the mining industry. She is currently the President and CEO of Hycroft Mining Holding Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "Mark Isto",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Isto has served as Executive Vice President and Chief Operating Officer since January 2020. He joined Royal Gold in 2015 as Vice President Operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Diane Garrett",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Dr. Garrett has more than 25 years of experience in the mining industry. She is currently the President and CEO of Hycroft Mining Holding Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": "2020"
+        }
+      ]
+    },
+    {
+      "name": "Mark Isto",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Isto has served as Executive Vice President and Chief Operating Officer since January 2020. He joined Royal Gold in 2015 as Vice President Operations.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

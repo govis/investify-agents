@@ -1,0 +1,90 @@
+{
+  "executives": [
+    {
+      "name": "Eric Brandt",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Brandt has been a director since 2011. He was Executive Vice President and CFO of Broadcom Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": "2017"
+        }
+      ]
+    },
+    {
+      "name": "Michael Callahan",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Former Senior Vice President and General Counsel of LinkedIn and former Executive Vice President and General Counsel of Yahoo!.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President, General Counsel, and Secretary",
+          "start_date": "1999",
+          "end_date": "2012"
+        }
+      ]
+    },
+    {
+      "name": "Prabhakar Raghavan",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Prabhakar Raghavan has served as Senior Vice President, Knowledge & Information at Google since June 2020. He previously served as Senior Vice President, Ads, Commerce and Payments from 2018 to 2020. Before joining Google in 2012, he was at Yahoo! Labs.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Head of Yahoo! Labs / Senior Vice President",
+          "start_date": "2005",
+          "end_date": "2012"
+        }
+      ]
+    },
+    {
+      "name": "Maynard Webb",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Founder of Webb Investment Network and former COO of eBay Inc. He has served as a Director since 2006.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Board Member",
+          "start_date": "2012",
+          "end_date": "2016"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Eric Brandt",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Mr. Brandt has been a director since 2011. He was Executive Vice President and CFO of Broadcom Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": "2017"
+        }
+      ]
+    },
+    {
+      "name": "Roy Bostock",
+      "age": 83,
+      "age_year": 2024,
+      "background": "Chairman of the Partnership for New York City and former Chairman of Yahoo! Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Board Member, Chairman of the Board",
+          "start_date": "2003",
+          "end_date": "2012"
+        }
+      ]
+    }
+  ]
+}

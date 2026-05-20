@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Cecil Haney",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Admiral, U.S. Navy (Retired). Former Commander, U.S. Strategic Command.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021-01-08",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Nadja West",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Retired Lieutenant General in the United States Army and 44th Surgeon General of the U.S. Army.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019-08-19",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Robert Shapard",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Robert S. Shapard has served as the independent Chairman of the Board since 2022. He was previously the Chairman and CEO of Oncor Electric Delivery Company LLC.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2005",
+          "end_date": "2006"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Cecil Haney",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Admiral, U.S. Navy (Retired). Former Commander, U.S. Strategic Command.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021-01-08",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Nadja West",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Retired Lieutenant General in the United States Army and 44th Surgeon General of the U.S. Army.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019-08-19",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

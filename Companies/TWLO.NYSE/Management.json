@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Carrie Palin",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Carrie Palin has been a member of our Board since February 2021. She is currently the Senior Vice President and Chief Marketing Officer of Cisco Systems, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Marketing Officer (at SendGrid prior to acquisition)",
+          "start_date": "2017",
+          "end_date": "2019"
+        }
+      ]
+    },
+    {
+      "name": "Jeff Clarke",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Jeff Clarke is the Vice Chairman and Chief Operating Officer of Dell Technologies. He is responsible for the company's global supply chain, global support and deployment, and the Infrastructure Solutions Group and Client Solutions Group.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Board Director (Chair)",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jeff Clarke",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Jeff Clarke is the Vice Chairman and Chief Operating Officer of Dell Technologies. He is responsible for the company's global supply chain, global support and deployment, and the Infrastructure Solutions Group and Client Solutions Group.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Board Director (Chair)",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

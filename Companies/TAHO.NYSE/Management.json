@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Charles Jeannes",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Jeannes is a mining industry veteran, formerly the President and CEO of Goldcorp Inc. from 2008 to 2016.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017-01",
+          "end_date": "2019-02"
+        }
+      ]
+    },
+    {
+      "name": "Edie Hofmeister",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Ms. Hofmeister is an attorney with over 25 years of experience in legal and ESG matters in the mining industry.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "EVP, Corporate Affairs & General Counsel",
+          "start_date": "2010",
+          "end_date": "2019"
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth McGregor",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Ms. McGregor was previously the CFO of Tahoe Resources Inc. and is a Chartered Professional Accountant.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "2013",
+          "end_date": "2019"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Charles Jeannes",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Jeannes is a mining industry veteran, formerly the President and CEO of Goldcorp Inc. from 2008 to 2016.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2017-01",
+          "end_date": "2019-02"
+        }
+      ]
+    }
+  ]
+}

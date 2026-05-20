@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Anne Giardini",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Ms. Giardini is a lawyer and executive with over 30 years of experience in the resource sector. She was previously President of Weyerhaeuser Company Limited and serves on several boards.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2014-05-26",
+          "end_date": "2016"
+        }
+      ]
+    },
+    {
+      "name": "Dennis Kwong",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Mr. Kwong is the Vice President, Business Development. He joined Centerra in 2008 and has held various roles in corporate development and finance.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President",
+          "start_date": "2016",
+          "end_date": "2016"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Anne Giardini",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Ms. Giardini is a lawyer and executive with over 30 years of experience in the resource sector. She was previously President of Weyerhaeuser Company Limited and serves on several boards.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2014-05-26",
+          "end_date": "2016"
+        }
+      ]
+    }
+  ]
+}

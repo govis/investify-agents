@@ -1,0 +1,202 @@
+{
+  "executives": [
+    {
+      "name": "Ajay Singh",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Ajay Singh has served as our Chief Product Officer since January 2021. Prior to joining Pure, Mr. Singh served as Senior Vice President and General Manager of the Cloud Management Business Unit at VMware, Inc. from 2014 to 2021. Prior to VMware, Mr. Singh held various leadership roles at Hewlett-Packard Company and was the CEO of several startups.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President and General Manager, Cloud Management business unit",
+          "start_date": null,
+          "end_date": "2022"
+        }
+      ]
+    },
+    {
+      "name": "Brett Shirk",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Brett Shirk has served as our Chief Revenue Officer since February 2020. Prior to joining Fastly, Mr. Shirk served as Executive Vice President and Chief Revenue Officer of Rubrik, Inc., a cloud data management company, from January 2019 to February 2020.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President & General Manager",
+          "start_date": "2016",
+          "end_date": "2019"
+        }
+      ]
+    },
+    {
+      "name": "Egon Durban",
+      "age": 50,
+      "age_year": 2024,
+      "background": "Co-CEO of Silver Lake, a global technology investment firm.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Karen Dykstra",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Karen Dykstra has served as a member of our board of directors since 2022. She previously served as CFO and CAO of AOL and CFO of Automatic Data Processing (ADP).",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Board Member",
+          "start_date": null,
+          "end_date": "2022"
+        }
+      ]
+    },
+    {
+      "name": "Kevan Krysler",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Kevan Krysler has served as our Chief Financial Officer since December 2019. Prior to joining Pure, Mr. Krysler served as Senior Vice President, Corporate Controller at VMware, Inc. from 2013 to 2019. Prior to VMware, Mr. Krysler was a partner at KPMG LLP, where he served in the firm's Silicon Valley technology practice.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President of Finance and Chief Accounting Officer",
+          "start_date": "Prior to 2019",
+          "end_date": "2019"
+        }
+      ]
+    },
+    {
+      "name": "Marianne Brown",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Marianne C. Brown was Co-Chief Operating Officer, Global Financial Solutions, of Fidelity National Information Services, Inc. (FIS).",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Michael Dell",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Michael S. Dell is the Chairman of the Board and Chief Executive Officer of Dell Technologies. He has served as Chairman of the Board since Dell's inception in 1984 and as Chief Executive Officer since 2004. Mr. Dell also served as CEO from 1984 to 2004.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman of the Board of Directors",
+          "start_date": "2016",
+          "end_date": "2021"
+        }
+      ]
+    },
+    {
+      "name": "Patrick Gelsinger",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Patrick P. Gelsinger has been a director and Intel\u2019s CEO since February 2021. He has over 40 years of technology and leadership experience, including 30 years at Intel in various engineering and leadership roles. Prior to returning to Intel, he served as CEO of VMware, Inc. from 2012 to 2021 and as President and COO of EMC Corp.\u2019s Information Infrastructure Products business from 2009 to 2012.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "2012-09-01",
+          "end_date": "2021-02-15"
+        }
+      ]
+    },
+    {
+      "name": "Stephen Luczo",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Seagate Technology.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2007",
+          "end_date": "2016"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Egon Durban",
+      "age": 50,
+      "age_year": 2024,
+      "background": "Co-CEO of Silver Lake, a global technology investment firm.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Marianne Brown",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Marianne C. Brown was Co-Chief Operating Officer, Global Financial Solutions, of Fidelity National Information Services, Inc. (FIS).",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Michael Dell",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Michael S. Dell is the Chairman of the Board and Chief Executive Officer of Dell Technologies. He has served as Chairman of the Board since Dell's inception in 1984 and as Chief Executive Officer since 2004. Mr. Dell also served as CEO from 1984 to 2004.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman of the Board of Directors",
+          "start_date": "2016",
+          "end_date": "2021"
+        }
+      ]
+    },
+    {
+      "name": "Patrick Gelsinger",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Patrick P. Gelsinger has been a director and Intel\u2019s CEO since February 2021. He has over 40 years of technology and leadership experience, including 30 years at Intel in various engineering and leadership roles. Prior to returning to Intel, he served as CEO of VMware, Inc. from 2012 to 2021 and as President and COO of EMC Corp.\u2019s Information Infrastructure Products business from 2009 to 2012.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "2012-09-01",
+          "end_date": "2021-02-15"
+        }
+      ]
+    },
+    {
+      "name": "Stephen Luczo",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Seagate Technology.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2007",
+          "end_date": "2016"
+        }
+      ]
+    }
+  ]
+}

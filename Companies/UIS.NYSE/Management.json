@@ -1,0 +1,132 @@
+{
+  "executives": [
+    {
+      "name": "Clayton Jones",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Rockwell Collins, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2004",
+          "end_date": "2014"
+        }
+      ]
+    },
+    {
+      "name": "Craig Conway",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former President and CEO of PeopleSoft, Inc. He has served as a Director since 2005.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2007",
+          "end_date": "2014"
+        }
+      ]
+    },
+    {
+      "name": "Deborah Lee James",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former Secretary of the Air Force. Former President of the Technical and Engineering Sector of Science Applications International Corporation (SAIC).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "August 7, 2017",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Janet Haugen",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Ms. Haugen was the CFO of Unisys Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "SVP & Chief Financial Officer",
+          "start_date": "2000",
+          "end_date": "2016"
+        }
+      ]
+    },
+    {
+      "name": "Roxanne Taylor",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Ms. Taylor has served as a member of our Board since 2020. She is the Chief Marketing and Communications Officer at Memorial Sloan Kettering Cancer Center and previously served as Chief Marketing and Communications Officer at Accenture.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "October 18, 2021",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Clayton Jones",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Rockwell Collins, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2004",
+          "end_date": "2014"
+        }
+      ]
+    },
+    {
+      "name": "Craig Conway",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former President and CEO of PeopleSoft, Inc. He has served as a Director since 2005.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2007",
+          "end_date": "2014"
+        }
+      ]
+    },
+    {
+      "name": "Deborah Lee James",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former Secretary of the Air Force. Former President of the Technical and Engineering Sector of Science Applications International Corporation (SAIC).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "August 7, 2017",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Roxanne Taylor",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Ms. Taylor has served as a member of our Board since 2020. She is the Chief Marketing and Communications Officer at Memorial Sloan Kettering Cancer Center and previously served as Chief Marketing and Communications Officer at Accenture.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "October 18, 2021",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

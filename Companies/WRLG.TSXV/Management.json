@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Hugh Agro",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Agro is a mining executive with over 30 years of experience in the mining industry. He was previously Executive Vice President, Strategic Development with Kinross Gold Corporation. Prior to Kinross, Mr. Agro was a mining investment banker with Deutsche Bank and a management consultant with Placer Dome. He is a Director of Fortitude Gold Corp. and a former Director of Victoria Gold Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "July 27, 2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Tony Makuch",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Makuch is a professional engineer with over 40 years of experience in the mining industry. He previously served as President and CEO of Kirkland Lake Gold Ltd. from 2016 to 2022, where he led the company through significant growth and its eventual merger with Agnico Eagle Mines Limited. He has also held executive roles at Lake Shore Gold Corp. and FNX Mining Company Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023",
+          "end_date": "2025"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Hugh Agro",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Agro is a mining executive with over 30 years of experience in the mining industry. He was previously Executive Vice President, Strategic Development with Kinross Gold Corporation. Prior to Kinross, Mr. Agro was a mining investment banker with Deutsche Bank and a management consultant with Placer Dome. He is a Director of Fortitude Gold Corp. and a former Director of Victoria Gold Corp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "July 27, 2023",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Tony Makuch",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Makuch is a professional engineer with over 40 years of experience in the mining industry. He previously served as President and CEO of Kirkland Lake Gold Ltd. from 2016 to 2022, where he led the company through significant growth and its eventual merger with Agnico Eagle Mines Limited. He has also held executive roles at Lake Shore Gold Corp. and FNX Mining Company Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023",
+          "end_date": "2025"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "executives": [
+    {
+      "name": "Beth Mooney",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former Chairman and Chief Executive Officer, KeyCorp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "David Dorman",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of AT&T Corp. and former Chairman of CVS Health Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2002",
+          "end_date": "2005"
+        }
+      ]
+    },
+    {
+      "name": "James Kavanaugh",
+      "age": 57,
+      "age_year": 2024,
+      "background": "James J. Kavanaugh is Senior Vice President and Chief Financial Officer, a position he has held since January 2018. He previously served as Senior Vice President, Transformation and Operations.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer, Americas Global Services",
+          "start_date": "Prior to 1996",
+          "end_date": "1996"
+        }
+      ]
+    },
+    {
+      "name": "John Donovan",
+      "age": 63,
+      "age_year": 2024,
+      "background": "Former CEO of AT&T Communications, LLC. He has served on our board since September 2021.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO, AT&T Communications",
+          "start_date": "2017",
+          "end_date": "2019"
+        }
+      ]
+    },
+    {
+      "name": "John Stephens",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former Senior Executive Vice President and CFO of AT&T Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior EVP & CFO",
+          "start_date": "June 2011",
+          "end_date": "March 2021"
+        }
+      ]
+    },
+    {
+      "name": "Rayford Wilkins, Jr.",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Former CEO of Diversified Businesses of AT&T Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO of Diversified Businesses",
+          "start_date": "1982",
+          "end_date": "March 2012"
+        }
+      ]
+    },
+    {
+      "name": "Stephen Luczo",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Seagate Technology.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "William Kennard",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Former Chairman of the U.S. Federal Communications Commission (FCC).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director (Chairman of the Board as of 2021)",
+          "start_date": "2014",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Beth Mooney",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Former Chairman and Chief Executive Officer, KeyCorp.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2013",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "David Dorman",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of AT&T Corp. and former Chairman of CVS Health Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chairman and Chief Executive Officer",
+          "start_date": "2002",
+          "end_date": "2005"
+        }
+      ]
+    },
+    {
+      "name": "Stephen Luczo",
+      "age": 66,
+      "age_year": 2024,
+      "background": "Former Chairman and CEO of Seagate Technology.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2019",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "William Kennard",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Former Chairman of the U.S. Federal Communications Commission (FCC).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director (Chairman of the Board as of 2021)",
+          "start_date": "2014",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

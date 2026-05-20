@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Georgette Kiser",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Ms. Kiser has served as a Director since 2019. She is an Operating Executive at The Carlyle Group and previously served as CIO of The Carlyle Group.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Janet Haugen",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Ms. Haugen was the CFO of Unisys Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Board of Directors",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Georgette Kiser",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Ms. Kiser has served as a Director since 2019. She is an Operating Executive at The Carlyle Group and previously served as CIO of The Carlyle Group.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2020",
+          "end_date": "2023"
+        }
+      ]
+    },
+    {
+      "name": "Janet Haugen",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Ms. Haugen was the CFO of Unisys Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Board of Directors",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

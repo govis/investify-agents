@@ -1,0 +1,90 @@
+{
+  "executives": [
+    {
+      "name": "Aneel Bhusri",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Co-founder and Executive Chair of Workday, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Co-Founder, Executive Chairman (formerly CEO)",
+          "start_date": "2005",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Mark Peek",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Peek has served as a Managing Director of Workday Ventures since 2018. He previously served as Co-President and CFO of Workday, Inc. and as CFO of VMware, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President / Managing Director and Co-Head of Workday Ventures",
+          "start_date": "2018",
+          "end_date": "May 2025"
+        }
+      ]
+    },
+    {
+      "name": "Michael Speiser",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Speiser has served as a member of our Board since 2009. He is a Managing Director at Sutter Hill Ventures. He was the founding CEO of Pure Storage and Snowflake Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Aneel Bhusri",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Co-founder and Executive Chair of Workday, Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Co-Founder, Executive Chairman (formerly CEO)",
+          "start_date": "2005",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Mark Peek",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Mr. Peek has served as a Managing Director of Workday Ventures since 2018. He previously served as Co-President and CFO of Workday, Inc. and as CFO of VMware, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President / Managing Director and Co-Head of Workday Ventures",
+          "start_date": "2018",
+          "end_date": "May 2025"
+        }
+      ]
+    },
+    {
+      "name": "Michael Speiser",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Mr. Speiser has served as a member of our Board since 2009. He is a Managing Director at Sutter Hill Ventures. He was the founding CEO of Pure Storage and Snowflake Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

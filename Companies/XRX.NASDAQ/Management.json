@@ -1,0 +1,118 @@
+{
+  "executives": [
+    {
+      "name": "Amy Schwetz",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Ms. Schwetz has served as Senior Vice President and Chief Financial Officer since February 2020. Prior to joining Flowserve, she served as Executive Vice President and Chief Financial Officer of Peabody Energy Corporation from July 2015 to February 2020.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "May 22, 2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Kathryn Mikells",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Senior Vice President and Chief Financial Officer since 2021. Previously served as CFO of Diageo plc and held executive roles at United Airlines and ADT.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2013-05",
+          "end_date": "2015-11"
+        }
+      ]
+    },
+    {
+      "name": "Leslie Varon",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Ms. Varon has been a director since 2019. She was CFO of Xerox Corporation.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer (Interim)",
+          "start_date": "2015",
+          "end_date": "2017"
+        }
+      ]
+    },
+    {
+      "name": "Luca Maestri",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Luca Maestri is Apple\u2019s senior vice president and Chief Financial Officer reporting to CEO Tim Cook. As CFO, Luca oversees the accounting, business support, financial planning and analysis, treasury, real estate, information systems, internal audit and tax functions at Apple. Luca joined Apple in 2013 as vice president of Finance and corporate controller, and has worked closely with Apple\u2019s senior leadership since his arrival.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "February 2011",
+          "end_date": "February 2013"
+        }
+      ]
+    },
+    {
+      "name": "Nichelle Maynard-Elliott",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Ms. Maynard-Elliott has served as a director since 2021. She previously served as Executive Director, M&A at Praxair, Inc. She also serves on the boards of Xerox Holdings Corporation and Element Solutions Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "May 2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Ursula Burns",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Ursula Burns is an Independent Director. She was the Chairman and CEO of Xerox Corporation and VEON Ltd. She is a member of the National Academy of Engineering and serves on several other boards including Uber and Endeavor.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO, Chairwoman, President",
+          "start_date": "2007",
+          "end_date": "2017"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Amy Schwetz",
+      "age": 48,
+      "age_year": 2024,
+      "background": "Ms. Schwetz has served as Senior Vice President and Chief Financial Officer since February 2020. Prior to joining Flowserve, she served as Executive Vice President and Chief Financial Officer of Peabody Energy Corporation from July 2015 to February 2020.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "May 22, 2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Nichelle Maynard-Elliott",
+      "age": 55,
+      "age_year": 2024,
+      "background": "Ms. Maynard-Elliott has served as a director since 2021. She previously served as Executive Director, M&A at Praxair, Inc. She also serves on the boards of Xerox Holdings Corporation and Element Solutions Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "May 2021",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

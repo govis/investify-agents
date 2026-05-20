@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "David Farnsworth",
+      "age": 61,
+      "age_year": 2023,
+      "background": "Mr. Farnsworth has served as our Executive Vice President and Chief Financial Officer since July 2023. He previously served as CFO of Raytheon Technologies' Intelligence & Space business and held various senior finance roles at Raytheon Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Board Member",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Gerard Fasano",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Gerard A. Fasano has served as President of the Defense Systems Sector since January 2024. He previously served as President of the Defense Group from 2018 to 2023. He joined Leidos in 2016 following the Lockheed Martin IS&GS merger.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Gerard Fasano",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Gerard A. Fasano has served as President of the Defense Systems Sector since January 2024. He previously served as President of the Defense Group from 2018 to 2023. He joined Leidos in 2016 following the Lockheed Martin IS&GS merger.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Mary Howell",
+      "age": 72,
+      "age_year": 2024,
+      "background": "Ms. Howell has served as a director since 2021. She previously served as Executive Vice President of Textron Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chairman",
+          "start_date": "2014",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

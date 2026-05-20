@@ -1,0 +1,90 @@
+{
+  "executives": [
+    {
+      "name": "Brice Hill",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Brice Hill is Senior Vice President and Chief Financial Officer of Applied Materials, joining in March 2022. He previously served as Executive Vice President and Chief Financial Officer of Xilinx, Inc. and spent 25 years at Intel Corporation in various finance and strategy leadership positions.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "April 9, 2020",
+          "end_date": "February 2022"
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth Vanderslice",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Former CEO of Wired Digital, Inc. Joined AMD board following the Xilinx acquisition in 2022.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "December 2000",
+          "end_date": "February 2022"
+        }
+      ]
+    },
+    {
+      "name": "Jon Olson",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Former CFO of Xilinx, Inc. Joined AMD board following the Xilinx acquisition in 2022.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer (CFO)",
+          "start_date": "2005",
+          "end_date": "2016"
+        }
+      ]
+    },
+    {
+      "name": "Moshe Gavrielov",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Moshe Gavrielov is an Independent Director. He was the President and CEO of Xilinx, Inc. from 2008 to 2018. He has over 40 years of experience in the semiconductor industry, including roles at Cadence Design Systems and LSI Logic.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and CEO",
+          "start_date": "2008",
+          "end_date": "2018"
+        }
+      ]
+    },
+    {
+      "name": "Victor Peng",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Victor Peng is the former President of AMD and former CEO of Xilinx, Inc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and Chief Executive Officer",
+          "start_date": "January 2018",
+          "end_date": "February 2022"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Elizabeth Vanderslice",
+      "age": 60,
+      "age_year": 2024,
+      "background": "Former CEO of Wired Digital, Inc. Joined AMD board following the Xilinx acquisition in 2022.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "December 2000",
+          "end_date": "February 2022"
+        }
+      ]
+    }
+  ]
+}

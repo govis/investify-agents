@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Aparna Bawa",
+      "age": 46,
+      "age_year": 2024,
+      "background": "Chief Operating Officer of Zoom Video Communications, Inc. She joined our board in May 2021.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "General Counsel",
+          "start_date": "September 2018",
+          "end_date": "August 2019"
+        }
+      ]
+    },
+    {
+      "name": "Bill McDermott",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Bill McDermott has served as our President and Chief Executive Officer and as a member of our Board since November 2019. From 2010 to 2019, Mr. McDermott served as CEO of SAP SE. He joined SAP in 2002 and held various leadership positions before becoming CEO.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "June 2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Dan Scheinman",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Angel investor. Former Senior Vice President, Corporate Development at Cisco Systems.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "January 2013",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Bill McDermott",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Bill McDermott has served as our President and Chief Executive Officer and as a member of our Board since November 2019. From 2010 to 2019, Mr. McDermott served as CEO of SAP SE. He joined SAP in 2002 and held various leadership positions before becoming CEO.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "June 2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Dan Scheinman",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Angel investor. Former Senior Vice President, Corporate Development at Cisco Systems.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member of the Board of Directors",
+          "start_date": "January 2013",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

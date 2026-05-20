@@ -1,0 +1,118 @@
+{
+  "executives": [
+    {
+      "name": "David Abney",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Former Executive Chairman and CEO of United Parcel Service, Inc. (UPS).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Dmitri Stockton",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Former Senior Vice President of General Electric Company and former Chairman, President, and CEO of GE Asset Management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018-03-05",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Monica Lozano",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Ms. Lozano is the former President and CEO of College Futures Foundation and former Chairman and CEO of ImpreMedia, LLC.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Roxanne Austin",
+      "age": 63,
+      "age_year": 2024,
+      "background": "President and CEO of Austin Investment Advisors. Former President and COO of DIRECTV.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2002",
+          "end_date": "2020"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "David Abney",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Former Executive Chairman and CEO of United Parcel Service, Inc. (UPS).",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Dmitri Stockton",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Former Senior Vice President of General Electric Company and former Chairman, President, and CEO of GE Asset Management.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2018-03-05",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Monica Lozano",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Ms. Lozano is the former President and CEO of College Futures Foundation and former Chairman and CEO of ImpreMedia, LLC.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2016",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Roxanne Austin",
+      "age": 63,
+      "age_year": 2024,
+      "background": "President and CEO of Austin Investment Advisors. Former President and COO of DIRECTV.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2002",
+          "end_date": "2020"
+        }
+      ]
+    }
+  ]
+}

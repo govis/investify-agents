@@ -1,0 +1,90 @@
+{
+  "executives": [
+    {
+      "name": "John Surma",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Retired Chairman and CEO of United States Steel Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director (Lead Director)",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Kirk Hachigian",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Hachigian is the Lead Independent Director of NextEra Energy. He is the retired chairman, president and CEO of JELD-WEN Holding, Inc. and former chairman and CEO of Cooper Industries plc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2007",
+          "end_date": "2008"
+        }
+      ]
+    },
+    {
+      "name": "Marcia Avedon",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Former Chief HR Officer at Trane Technologies and former executive at Honeywell.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "EVP, Chief HR, Marketing & Communications Officer",
+          "start_date": "2015",
+          "end_date": "2022"
+        }
+      ]
+    },
+    {
+      "name": "Michael Lamach",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Executive Chair and Chief Executive Officer of Trane Technologies plc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Chair / CEO",
+          "start_date": "2004",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "John Surma",
+      "age": 69,
+      "age_year": 2024,
+      "background": "Retired Chairman and CEO of United States Steel Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director (Lead Director)",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Kirk Hachigian",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Hachigian is the Lead Independent Director of NextEra Energy. He is the retired chairman, president and CEO of JELD-WEN Holding, Inc. and former chairman and CEO of Cooper Industries plc.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2007",
+          "end_date": "2008"
+        }
+      ]
+    }
+  ]
+}

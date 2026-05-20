@@ -1,0 +1,132 @@
+{
+  "executives": [
+    {
+      "name": "Aaron Keay",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Keay is an experienced entrepreneur and capital markets professional. He has served as a director and officer of several public companies in the resource and technology sectors.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President, CEO & Director",
+          "start_date": "2011",
+          "end_date": "2015"
+        }
+      ]
+    },
+    {
+      "name": "Frank Hallam",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Hallam is a co-founder of the Company and has served as President and CEO since 2022. He was previously CFO from 2002 to 2022. He is a Chartered Professional Accountant and has been involved in the mining industry for over 30 years.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Peter Bilodeau",
+      "age": 65,
+      "age_year": 2023,
+      "background": "Mr. Bilodeau has over 35 years of experience in the financial services industry and has served on several public company boards.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Robert Hamady",
+      "age": 44,
+      "age_year": 2024,
+      "background": "Mr. Hamady has served as our Chief Financial Officer since April 2023. Prior to joining NuScale, Mr. Hamady served as the Chief Financial Officer of various private and public companies and held senior roles in investment banking and finance.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "2022",
+          "end_date": "2022"
+        }
+      ]
+    },
+    {
+      "name": "Sam Ataya",
+      "age": 59,
+      "age_year": 2023,
+      "background": "Mr. Ataya has over 30 years of experience in the management and development of private and public companies. He has served as the Executive Chairman and CEO of Western Magnesium since 2018.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive President and Chief Executive Officer; Director",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Aaron Keay",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Keay is an experienced entrepreneur and capital markets professional. He has served as a director and officer of several public companies in the resource and technology sectors.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President, CEO & Director",
+          "start_date": "2011",
+          "end_date": "2015"
+        }
+      ]
+    },
+    {
+      "name": "Frank Hallam",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Hallam is a co-founder of the Company and has served as President and CEO since 2022. He was previously CFO from 2002 to 2022. He is a Chartered Professional Accountant and has been involved in the mining industry for over 30 years.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Peter Bilodeau",
+      "age": 65,
+      "age_year": 2023,
+      "background": "Mr. Bilodeau has over 35 years of experience in the financial services industry and has served on several public company boards.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2021",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Sam Ataya",
+      "age": 59,
+      "age_year": 2023,
+      "background": "Mr. Ataya has over 30 years of experience in the management and development of private and public companies. He has served as the Executive Chairman and CEO of Western Magnesium since 2018.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Executive President and Chief Executive Officer; Director",
+          "start_date": "2018",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

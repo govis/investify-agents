@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Amy Weaver",
+      "age": 57,
+      "age_year": 2024,
+      "background": "Amy Weaver is President and Chief Financial Officer of Salesforce. She previously served as the company's President and Chief Legal Officer from 2020 to 2021 and as President, Legal and Corporate Affairs from 2017 to 2020.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President & General Counsel",
+          "start_date": "2010",
+          "end_date": "2013"
+        }
+      ]
+    },
+    {
+      "name": "John Zillmer",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Chairman of the Board of CSX. Chief Executive Officer of Aramark.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2009",
+          "end_date": "2012"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "John Zillmer",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Chairman of the Board of CSX. Chief Executive Officer of Aramark.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2009",
+          "end_date": "2012"
+        }
+      ]
+    }
+  ]
+}

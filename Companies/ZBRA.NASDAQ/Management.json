@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Ken Miller",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Miller has served as our Executive Vice President and Chief Financial Officer since February 2016. He joined Juniper in 1999 and has held various senior financial roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "May 9, 2024",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Olivier Leonetti",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Olivier Leonetti is Executive Vice President and Chief Financial Officer of Eaton. He joined Eaton in 2024. Prior to joining Eaton, he served as Executive Vice President and Chief Financial Officer of Johnson Controls International plc from 2020 to 2024. He also served as CFO of Zebra Technologies and Western Digital.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "November 2016",
+          "end_date": "2020"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Ken Miller",
+      "age": 52,
+      "age_year": 2024,
+      "background": "Mr. Miller has served as our Executive Vice President and Chief Financial Officer since February 2016. He joined Juniper in 1999 and has held various senior financial roles.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Member, Board of Directors",
+          "start_date": "May 9, 2024",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

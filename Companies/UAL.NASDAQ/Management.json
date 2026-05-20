@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Kathryn Mikells",
+      "age": 58,
+      "age_year": 2024,
+      "background": "Senior Vice President and Chief Financial Officer since 2021. Previously served as CFO of Diageo plc and held executive roles at United Airlines and ADT.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and Chief Financial Officer",
+          "start_date": "1994",
+          "end_date": "2010"
+        }
+      ]
+    },
+    {
+      "name": "Oscar Munoz",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former Executive Chairman and CEO of United Airlines Holdings, Inc. He joined the board in 2023.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Chairman",
+          "start_date": "2020",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Oscar Munoz",
+      "age": 65,
+      "age_year": 2024,
+      "background": "Former Executive Chairman and CEO of United Airlines Holdings, Inc. He joined the board in 2023.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Chairman",
+          "start_date": "2020",
+          "end_date": "2021"
+        }
+      ]
+    }
+  ]
+}

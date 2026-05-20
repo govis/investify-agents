@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Paul Geddes",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Mr. Geddes is a professional geologist with over 25 years of experience in mineral exploration and development.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice-President, Business Development and Strategy",
+          "start_date": "2026-04-27",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Stephen Quin",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Quin is a geologist with over 35 years of experience in the mining industry, including executive roles at Midas Gold and Capstone Mining.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Chairman",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Stephen Quin",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Mr. Quin is a geologist with over 35 years of experience in the mining industry, including executive roles at Midas Gold and Capstone Mining.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Non-Executive Chairman",
+          "start_date": "2023",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

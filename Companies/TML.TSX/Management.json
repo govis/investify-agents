@@ -1,0 +1,33 @@
+{
+  "executives": [
+    {
+      "name": "Adam Rochacewich",
+      "age": 45,
+      "age_year": 2024,
+      "background": "Mr. Rochacewich is a Chartered Professional Accountant with over 20 years of experience in the mining industry. He was previously Chief Financial Officer of several junior mining companies and has held senior financial roles with Noranda Inc. and Falconbridge Limited.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "January 2013",
+          "end_date": "May 2017"
+        }
+      ]
+    },
+    {
+      "name": "Dennis Gibson",
+      "age": 70,
+      "age_year": 2024,
+      "background": "Mr. Gibson is a CPA with over 30 years of experience in senior financial positions. He has been the CFO of Laramide since 2006.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Financial Officer",
+          "start_date": "07/2010",
+          "end_date": "03/2021"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": []
+}

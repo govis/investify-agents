@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "David Fennell",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Fennell has been involved in the mining industry for over 35 years. He was the founder of Golden Star Resources Ltd. and has served on numerous boards of public mining companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2010",
+          "end_date": "2021"
+        }
+      ]
+    },
+    {
+      "name": "Jacques Perron",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former President and CEO of Pretium Resources Inc. and Thompson Creek Metals Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "May 1, 2026",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Jason Simpson",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Mr. Simpson has over 25 years of experience in the mining industry. Prior to joining Orla, he was Chief Operating Officer of Torex Gold Resources Inc. and has held senior roles at G Mining Services and Vale.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "January 15, 2013",
+          "end_date": "2018"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "David Fennell",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Mr. Fennell has been involved in the mining industry for over 35 years. He was the founder of Golden Star Resources Ltd. and has served on numerous boards of public mining companies.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2010",
+          "end_date": "2021"
+        }
+      ]
+    },
+    {
+      "name": "Jacques Perron",
+      "age": 64,
+      "age_year": 2024,
+      "background": "Former President and CEO of Pretium Resources Inc. and Thompson Creek Metals Company.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "May 1, 2026",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

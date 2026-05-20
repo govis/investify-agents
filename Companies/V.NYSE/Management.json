@@ -1,0 +1,90 @@
+{
+  "executives": [
+    {
+      "name": "Charles Scharf",
+      "age": 59,
+      "age_year": 2024,
+      "background": "CEO and President of Wells Fargo & Company.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CEO",
+          "start_date": "2012-11",
+          "end_date": "2016-12"
+        }
+      ]
+    },
+    {
+      "name": "Maynard Webb",
+      "age": 68,
+      "age_year": 2024,
+      "background": "Founder of Webb Investment Network and former COO of eBay Inc. He has served as a Director since 2006.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Board Member",
+          "start_date": "2014",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Pamela Murphy",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Chief Executive Officer, Opportunity Network.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023-03-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Teri List",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Executive Vice President and Chief Financial Officer of Gap Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023-02",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Pamela Murphy",
+      "age": 51,
+      "age_year": 2024,
+      "background": "Chief Executive Officer, Opportunity Network.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023-03-01",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Teri List",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Former Executive Vice President and Chief Financial Officer of Gap Inc.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2023-02",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "executives": [
+    {
+      "name": "Andrew Pollard",
+      "age": 40,
+      "age_year": 2024,
+      "background": "Mr. Pollard is the founder of Mining Plus and has extensive experience in the mining sector, specifically in corporate development and capital markets.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "George Glasier",
+      "age": 77,
+      "age_year": 2024,
+      "background": "Mr. Glasier is the founder of the Company and has over 40 years of experience in the uranium industry. He was the founder of Energy Fuels Inc. and served as its President and CEO. He has extensive experience in uranium exploration, development, and marketing.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, CEO & Director",
+          "start_date": "2014",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Robert Klein",
+      "age": 56,
+      "age_year": 2024,
+      "background": "Mr. Klein has over 20 years of experience in the financial services industry. He previously served as a Vice President at Stifel Nicolaus and has significant experience in capital markets and corporate finance.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, CEO, and Chief Financial Officer",
+          "start_date": "2023-01-01",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Andrew Pollard",
+      "age": 40,
+      "age_year": 2024,
+      "background": "Mr. Pollard is the founder of Mining Plus and has extensive experience in the mining sector, specifically in corporate development and capital markets.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": null,
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "George Glasier",
+      "age": 77,
+      "age_year": 2024,
+      "background": "Mr. Glasier is the founder of the Company and has over 40 years of experience in the uranium industry. He was the founder of Energy Fuels Inc. and served as its President and CEO. He has extensive experience in uranium exploration, development, and marketing.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "President, CEO & Director",
+          "start_date": "2014",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

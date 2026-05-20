@@ -1,0 +1,33 @@
+{
+  "executives": [
+    {
+      "name": "Edmund Clark",
+      "age": 76,
+      "age_year": 2024,
+      "background": "Former President and CEO of TD Bank Group. Member of the Order of Canada.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President and CEO",
+          "start_date": "2000",
+          "end_date": "2014"
+        }
+      ]
+    },
+    {
+      "name": "Simon Fish",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Independent Director. Former General Counsel of BMO Financial Group and Vale S.A.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Senior Executive Vice President and General Counsel",
+          "start_date": "September 15, 2025",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": []
+}

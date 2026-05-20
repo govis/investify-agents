@@ -1,0 +1,62 @@
+{
+  "executives": [
+    {
+      "name": "Guilherme Cavalcanti",
+      "age": null,
+      "age_year": null,
+      "background": "Mr. Cavalcanti has extensive experience in the Brazilian mining sector, having worked with major companies in project development and operations.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "CFO and Investor Relations Officer",
+          "start_date": "2005",
+          "end_date": "2011"
+        }
+      ]
+    },
+    {
+      "name": "Jennifer Maki",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Former CEO of Vale Canada and Executive Director of Vale Base Metals.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Director (Base Metals)",
+          "start_date": "2014",
+          "end_date": "2017"
+        }
+      ]
+    },
+    {
+      "name": "Simon Fish",
+      "age": 62,
+      "age_year": 2024,
+      "background": "Independent Director. Former General Counsel of BMO Financial Group and Vale S.A.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Vice President and General Counsel (including tenure at Inco)",
+          "start_date": "Prior to 2008",
+          "end_date": "2008"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Jennifer Maki",
+      "age": 53,
+      "age_year": 2024,
+      "background": "Former CEO of Vale Canada and Executive Director of Vale Base Metals.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Executive Director (Base Metals)",
+          "start_date": "2014",
+          "end_date": "2017"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "executives": [
+    {
+      "name": "Frank Jimenez",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Frank R. Jimenez is Group Vice President and General Counsel of GE HealthCare and previously served as General Counsel of the Navy.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Senior Vice President, General Counsel and Corporate Secretary",
+          "start_date": "2011-10-31",
+          "end_date": "2012-07-05"
+        }
+      ]
+    },
+    {
+      "name": "Gretchen McClain",
+      "age": 61,
+      "age_year": 2024,
+      "background": "Ms. McClain is an Operating Executive at The Carlyle Group and former CEO of Xylem Inc. She has extensive experience in technology and engineering.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "President & CEO",
+          "start_date": "2011-10-31",
+          "end_date": "2013-09-09"
+        }
+      ]
+    },
+    {
+      "name": "Surya Mohapatra",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Dr. Surya N. Mohapatra was formerly the Chairman, President and CEO of Quest Diagnostics Incorporated.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2011",
+          "end_date": "2021"
+        }
+      ]
+    },
+    {
+      "name": "Tom Pettit",
+      "age": 54,
+      "age_year": 2024,
+      "background": "Mr. Pettit has served as Chief Operations Officer since 2020. Prior to joining Generac, he held senior leadership roles at several global manufacturing companies.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Chief Operating Officer",
+          "start_date": "2022",
+          "end_date": null
+        }
+      ]
+    },
+    {
+      "name": "Victoria Harker",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Victoria D. Harker served as Executive Vice President and Chief Financial Officer of TEGNA Inc. and previously as CFO of AES Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2014",
+          "end_date": null
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Surya Mohapatra",
+      "age": 74,
+      "age_year": 2024,
+      "background": "Dr. Surya N. Mohapatra was formerly the Chairman, President and CEO of Quest Diagnostics Incorporated.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2011",
+          "end_date": "2021"
+        }
+      ]
+    },
+    {
+      "name": "Victoria Harker",
+      "age": 59,
+      "age_year": 2024,
+      "background": "Victoria D. Harker served as Executive Vice President and Chief Financial Officer of TEGNA Inc. and previously as CFO of AES Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "2014",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}
