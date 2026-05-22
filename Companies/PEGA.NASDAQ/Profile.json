@@ -4,5 +4,10 @@
   "exchange": "NASDAQ",
   "website": "https://www.pega.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "Pegasystems Inc. is a global software company that provides a leading AI-powered platform for enterprise transformation. Founded in 1983, the company enables organizations to reimagine how work gets done by automating complex workflows, personalizing customer engagement, and modernizing legacy systems. With a scalable and flexible architecture, Pegasystems helps businesses across various industries, including financial services, healthcare, and government, to accelerate their path toward becoming autonomous enterprises. The company is headquartered in Waltham, Massachusetts, and is publicly traded on the NASDAQ under the ticker symbol PEGA.",
+  "logo_url": "https://www.pega.com/themes/custom/pega_base/logo.svg",
+  "name_clean": "Pegasystems",
+  "logo_local": "logo.svg"
 }

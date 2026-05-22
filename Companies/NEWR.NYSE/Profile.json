@@ -4,5 +4,10 @@
   "exchange": "NYSE",
   "website": "https://newrelic.com/",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "New Relic is a leading cloud-based observability platform that provides engineers and businesses with comprehensive insights into their software performance. The company's platform offers full-stack monitoring, AI-driven analytics, and real-time data visualization to help organizations track user interactions, optimize digital experiences, and resolve technical issues efficiently. By integrating application performance monitoring, infrastructure health, and security data into a unified interface, New Relic enables teams to improve system reliability, reduce downtime, and accelerate innovation across complex, modern technology stacks.",
+  "logo_url": "https://brandfolder.com/api/v4/assets/newrelic/logo/new-relic-logo.png",
+  "name_clean": "New Relic",
+  "logo_local": "logo.svg"
 }

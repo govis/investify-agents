@@ -4,5 +4,10 @@
   "exchange": "NASDAQ",
   "website": "https://www.secureworks.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "Secureworks Corp. is an American cybersecurity company headquartered in Atlanta, Georgia, that specializes in threat detection, incident response, and managed security services. Known for its Taegis XDR platform, the company provides advanced security operations solutions to help organizations identify and mitigate cyber threats. Formerly a subsidiary of Dell Technologies, Secureworks was acquired by Sophos in February 2025. The company serves a diverse global client base, ranging from Fortune 100 enterprises to mid-sized businesses, by leveraging deep threat intelligence and human expertise to defend against sophisticated cyberattacks in an increasingly complex digital landscape.",
+  "logo_url": "https://www.secureworks.com/images/logo-secureworks.svg",
+  "name_clean": "Secureworks",
+  "logo_local": "logo.png"
 }

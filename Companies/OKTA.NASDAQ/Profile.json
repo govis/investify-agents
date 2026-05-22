@@ -4,5 +4,10 @@
   "exchange": "NASDAQ",
   "website": "okta.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "Okta, Inc. is a leading American identity and access management company headquartered in San Francisco, California. The company provides cloud-based software that enables organizations to manage and secure user authentication into various applications. Additionally, Okta offers tools for developers to integrate robust identity controls into their own applications, websites, web services, and devices. By centralizing identity management, Okta helps enterprises streamline access, enhance security, and improve the user experience across diverse digital environments, serving as a critical infrastructure provider for modern businesses operating in an increasingly complex and interconnected digital landscape.",
+  "logo_url": "https://www.okta.com/sites/default/files/Okta_Logo_Logo.png",
+  "name_clean": "Okta",
+  "logo_local": "logo.svg"
 }

@@ -6,7 +6,7 @@
   "exchange": "ASX",
   "website": "cygnusmetals.com",
   "logo_url": "https://www.cygnusmetals.com/wp-content/uploads/2022/11/Cygnus-Metals-Logo-RGB-01.png",
-  "logo_local": null,
+  "logo_local": "logo.svg",
   "country_of_domicile": "Australia",
   "description": "Cygnus Metals Limited is an Australian mineral exploration company focused on the discovery and development of high-grade lithium and gold deposits. The company's primary projects include the Pontax Lithium Project and the Auclair Lithium Project in the James Bay region of Quebec, Canada, as well as gold and base metals projects in Western Australia. Cygnus Metals is committed to creating shareholder value through systematic exploration and strategic acquisitions in world-class mining jurisdictions.",
   "metals_and_minerals": [
@@ -16,5 +16,6 @@
   ],
   "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "success"
+  "enrichment": "success",
+  "logo_color": "white"
 }

@@ -4,5 +4,10 @@
   "exchange": "NYSE",
   "website": null,
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "Storage Technology Corporation, commonly known as StorageTek, was a prominent American data storage technology company headquartered in Louisville, Colorado. Founded in 1969, the company became a world leader in the design and manufacture of high-performance information storage and retrieval devices, specializing in tape backup equipment, disk storage solutions, and software for managing complex storage systems. StorageTek served mainframe and mid-range computer environments for decades before being acquired by Sun Microsystems in 2005, which was subsequently purchased by Oracle Corporation in 2010, integrating StorageTek's legacy into a broader enterprise technology portfolio.",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/StorageTek_logo.svg/1280px-StorageTek_logo.svg.png",
+  "name_clean": "Storage Technology Corporation (StorageTek)",
+  "logo_local": "logo.svg"
 }

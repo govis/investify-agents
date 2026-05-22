@@ -4,5 +4,10 @@
   "exchange": "NYSE",
   "website": "https://www.msci.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "MSCI Inc. is a leading global provider of critical decision support tools and services for the investment community. With over 50 years of expertise in research, data, and technology, the company empowers clients to understand and analyze the drivers of risk and return. MSCI offers a comprehensive range of products, including indexes, portfolio risk and performance analytics, and ESG and climate research, helping institutional investors build better portfolios and make more informed investment decisions across global markets. Headquartered in New York City, MSCI serves as an essential partner to the world's most prominent investors.",
+  "logo_url": "https://www.msci.com/assets/10157/1544846/MSCI_Logo_Blue_RGB.png/75688636-6816-4355-8854-793079868627?t=1626875323000",
+  "name_clean": "MSCI",
+  "logo_local": "logo.svg"
 }

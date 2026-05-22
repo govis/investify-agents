@@ -4,5 +4,10 @@
   "exchange": "NYSE",
   "website": "https://www.vmware.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "VMware, now a division of Broadcom, is a leading American cloud computing and virtualization technology company. Headquartered in Palo Alto, California, the firm provides a comprehensive software platform that enables businesses to build, run, manage, connect, and protect applications across diverse cloud environments and private data centers. VMware's innovative solutions, including its industry-standard hypervisors and multi-cloud management tools, empower organizations to modernize their IT infrastructure, improve operational efficiency, and accelerate digital transformation by delivering a consistent, secure, and scalable foundation for modern enterprise applications and services.",
+  "logo_url": "https://www.vmware.com/content/dam/vmware/images/logos/vmware-logo.png",
+  "name_clean": "VMware",
+  "logo_local": "logo.svg"
 }

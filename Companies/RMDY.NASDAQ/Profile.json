@@ -4,5 +4,10 @@
   "exchange": "NASDAQ",
   "website": null,
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "Remedy Corporation was a prominent American software company based in Mountain View, California, known for its IT service management and help desk software solutions. Founded in 1991, the company gained significant recognition for its flagship product, the Action Request System, which allowed organizations to automate and manage complex business processes. Remedy Corporation went public on the NASDAQ under the ticker symbol RMDY in 1996. The company was eventually acquired by BMC Software in 2002, which integrated Remedy's robust service management technologies into its own extensive portfolio of enterprise IT management solutions.",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BMC_Software_logo.svg/1200px-BMC_Software_logo.svg.png",
+  "name_clean": "Remedy Corporation",
+  "logo_local": "logo.svg"
 }

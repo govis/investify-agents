@@ -4,5 +4,10 @@
   "exchange": "NASDAQ",
   "website": "https://www.latticesemi.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "Lattice Semiconductor Corporation is a leading designer and manufacturer of low-power, programmable field-programmable gate array (FPGA) devices. Founded in 1983 and headquartered in Hillsboro, Oregon, the company specializes in providing innovative programmable logic, mixed-signal, and interconnect solutions. Lattice serves a diverse range of markets, including industrial, automotive, communications, computing, and consumer electronics. By focusing on energy-efficient hardware acceleration and AI at the edge, the company enables its customers to rapidly develop and deploy sophisticated, secure, and power-optimized electronic systems for modern technological applications.",
+  "logo_url": "https://www.latticesemi.com/-/media/LatticeSemi/Images/Logos/Lattice-Logo-Blue.ashx",
+  "name_clean": "Lattice Semiconductor",
+  "logo_local": "logo.svg"
 }

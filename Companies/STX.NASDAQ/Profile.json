@@ -4,5 +4,10 @@
   "exchange": "NASDAQ",
   "website": "https://www.seagate.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "Ireland",
+  "description": "Seagate Technology Holdings PLC is a global leader in data storage solutions, specializing in the design, manufacture, and distribution of hard disk drives (HDDs) and solid-state drives (SSDs). Founded in 1979, the company provides a comprehensive portfolio of storage products, systems, and services that enable businesses and consumers to manage, store, and protect their digital data. With operational headquarters in Fremont, California, and its legal domicile in Dublin, Ireland, Seagate continues to drive innovation in the data storage industry to support the growing demands of cloud, edge, and enterprise computing environments worldwide.",
+  "logo_url": "https://www.seagate.com/content/dam/seagate/migrated/assets/images/logo/seagate-logo.png",
+  "name_clean": "Seagate Technology",
+  "logo_local": "logo.svg"
 }

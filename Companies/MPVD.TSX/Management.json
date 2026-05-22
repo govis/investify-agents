@@ -1,0 +1,48 @@
+{
+  "executives": [
+    {
+      "name": "Ken Robertson",
+      "age": 68,
+      "age_year": 2023,
+      "background": "Former partner at EY with over 35 years of experience in public accounting and the mining sector.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "June 2020",
+          "end_date": "2022"
+        }
+      ]
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Ken Robertson",
+      "age": 68,
+      "age_year": 2023,
+      "background": "Former partner at EY with over 35 years of experience in public accounting and the mining sector.",
+      "verified_current": false,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "June 2020",
+          "end_date": "2022"
+        }
+      ]
+    },
+    {
+      "name": "Dean Chambers",
+      "age": 67,
+      "age_year": 2024,
+      "background": "Professional Engineer and financial executive with over 35 years of experience. Former CFO of Sherritt International Corporation.",
+      "verified_current": true,
+      "tenure_dates": [
+        {
+          "title": "Director",
+          "start_date": "May 2020",
+          "end_date": null
+        }
+      ]
+    }
+  ]
+}

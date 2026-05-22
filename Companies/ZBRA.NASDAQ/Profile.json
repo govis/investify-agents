@@ -4,5 +4,10 @@
   "exchange": "NASDAQ",
   "website": "https://www.zebra.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "Zebra Technologies Corporation is an American multinational technology company that provides the foundation for intelligent operations. The company specializes in designing and manufacturing hardware, software, and automation solutions, including mobile computers, barcode scanners, and thermal printers. Zebra's technology is widely utilized across various industries, such as retail, healthcare, manufacturing, and logistics, to improve asset visibility, streamline workflows, and empower frontline workers. By connecting people, assets, and data, Zebra enables organizations to make smarter, real-time decisions that enhance operational efficiency and performance in an increasingly digital and connected global marketplace.",
+  "logo_url": "https://www.zebra.com/content/dam/zebra/branding/zebra-logo-black.png",
+  "name_clean": "Zebra Technologies",
+  "logo_local": "logo.svg"
 }

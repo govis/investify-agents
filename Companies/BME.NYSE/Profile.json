@@ -6,11 +6,12 @@
   "exchange": "NYSE",
   "website": "blackrock.com",
   "logo_url": "https://www.blackrock.com/corporate/images/meta/blackrock-logo-social.png",
-  "logo_local": null,
+  "logo_local": "logo.svg",
   "country_of_domicile": "United States",
   "description": "BlackRock Health Sciences Trust is a closed-end management investment company. The Trust's investment objective is to provide total return through a combination of current income, current gains and long-term capital appreciation. The Trust seeks to achieve its investment objective by investing at least 80% of its assets in equity securities of companies principally engaged in the health sciences, medicine, and medical technology sectors, and pharmaceuticals, as well as utilities and other industries, and by writing covered call options on a portion of its equity portfolio.",
   "metals_and_minerals": null,
   "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "success"
+  "enrichment": "success",
+  "logo_color": "white"
 }

@@ -4,5 +4,10 @@
   "exchange": "NYSE",
   "website": "https://www.rubrik.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "Rubrik, Inc. is an American cloud data management and cybersecurity company headquartered in Palo Alto, California. Founded in 2014, the company provides a comprehensive data security platform designed to deliver cyber resilience through data protection, threat analytics, and rapid recovery. Rubrik's zero-trust architecture helps organizations secure their data across enterprise, cloud, and SaaS environments, protecting against ransomware, malicious insiders, and operational disruptions. With a focus on data integrity and business continuity, Rubrik enables enterprises to monitor for risks and recover critical information quickly, ensuring that businesses remain operational even in the face of sophisticated cyberattacks.",
+  "logo_url": "https://brandfolder.com/api/v4/assets/s55555555555555555555555/attachments/original/rubrik-logo.png",
+  "name_clean": "Rubrik",
+  "logo_local": "logo.svg"
 }

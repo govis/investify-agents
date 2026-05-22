@@ -4,5 +4,10 @@
   "exchange": "NASDAQ",
   "website": "https://www.power.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "Power Integrations, Inc. is a leading innovator in semiconductor technologies for high-voltage power conversion. The company designs and develops mixed-signal integrated circuits and other electronic components used in power supplies for a wide range of applications, including consumer electronics, renewable energy, industrial equipment, and automotive power systems. By utilizing advanced technologies like their proprietary PowiGaN gallium-nitride and EcoSmart energy-efficiency solutions, Power Integrations enables the efficient transmission and consumption of power, helping to reduce energy waste and minimize the number of electronic components required in modern power conversion systems.",
+  "logo_url": "https://www.power.com/sites/default/files/pi-logo-header.svg",
+  "name_clean": "Power Integrations",
+  "logo_local": "logo.svg"
 }

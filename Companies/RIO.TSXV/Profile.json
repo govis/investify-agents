@@ -1,12 +1,12 @@
 {
   "name": "Rio2 Limited",
   "name_former": "Sunward Resources Ltd.",
-  "name_clean": "Rio2",
+  "name_clean": "Rio2 Limited",
   "ticker": "RIO",
   "exchange": "TSXV",
   "website": "https://www.rio2.com",
   "logo_url": "https://www.rio2.com/site/templates/images/logo.png",
-  "logo_local": null,
+  "logo_local": "logo.png",
   "country_of_domicile": "Canada",
   "description": "Rio2 Limited is a Canadian-based mining exploration and development company focused on multi-million-ounce precious metals projects in the Americas. The company's flagship asset is the Fenix Gold Project located in the Atacama Region of Chile, which represents one of the largest undeveloped gold heaps leach projects in the Americas. Rio2 is dedicated to developing its projects using modern, efficient, and sustainable mining practices, aiming to generate significant value for its shareholders and local communities.",
   "metals_and_minerals": [
@@ -19,5 +19,6 @@
     }
   ],
   "origin": "Manual Search",
-  "enrichment": "Enriched"
+  "enrichment": "Enriched",
+  "logo_color": "white"
 }

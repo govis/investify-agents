@@ -4,6 +4,11 @@
   "exchange": "LSE",
   "website": "https://www.shell.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending",
-  "name_former": "Royal Dutch Shell"
+  "enrichment": "success",
+  "name_former": "Royal Dutch Shell",
+  "country_of_domicile": "United Kingdom",
+  "description": "Shell plc is a prominent British multinational energy and petrochemical company headquartered in London. As one of the world's largest oil and gas enterprises, Shell operates across the entire energy spectrum, including exploration, production, refining, and marketing of oil and natural gas. The company is actively transitioning its business model to support a lower-carbon future, investing significantly in renewable energy sources, hydrogen, and electric vehicle charging infrastructure. With a global presence spanning over 70 countries, Shell remains a critical player in meeting global energy demands while pursuing ambitious targets to become a net-zero emissions energy business by 2050.",
+  "logo_url": "https://www.shell.com/etc.clientlibs/shell/clientlibs/shell-framework/resources/assets/shell-logo.svg",
+  "name_clean": "Shell",
+  "logo_local": "logo.svg"
 }

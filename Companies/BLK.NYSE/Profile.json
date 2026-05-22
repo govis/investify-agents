@@ -6,11 +6,12 @@
   "exchange": "NYSE",
   "website": "https://www.blackrock.com",
   "logo_url": "https://www.blackrock.com/corporate/images/logos/blackrock-logo.svg",
-  "logo_local": null,
+  "logo_local": "logo.svg",
   "country_of_domicile": "United States",
   "description": "BlackRock, Inc. is an American multinational investment management corporation based in New York City. Founded in 1988, initially as an enterprise risk management and fixed income institutional asset manager, BlackRock is the world's largest asset manager, with trillions of dollars in assets under management. BlackRock operates globally with 70 offices in 30 countries, and clients in 100 countries. Along with Vanguard and State Street, BlackRock is considered one of the Big Three index fund managers.",
   "metals_and_minerals": null,
   "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "success"
+  "enrichment": "success",
+  "logo_color": "white"
 }

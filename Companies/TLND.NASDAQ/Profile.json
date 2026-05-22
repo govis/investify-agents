@@ -4,5 +4,10 @@
   "exchange": "NASDAQ",
   "website": "talend.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "France",
+  "description": "Talend S.A. is a software company that provides a comprehensive suite of data integration, data quality, and data management solutions. Founded in 2005, the company specializes in helping organizations unify, integrate, and govern their data environments to support analytics, machine learning, and AI initiatives. Talend offers a range of products, including the Talend Data Fabric, which enables businesses to access, transform, and trust their data across cloud and on-premises systems. The company was acquired by Qlik in 2023, further expanding its capabilities in delivering trusted data foundations for modern enterprise data-driven projects.",
+  "logo_url": "https://www.talend.com/wp-content/themes/talend/assets/img/logo.svg",
+  "name_clean": "Talend",
+  "logo_local": "logo.png"
 }

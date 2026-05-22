@@ -4,5 +4,10 @@
   "exchange": "NYSE",
   "website": "https://www.ti.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "National Semiconductor Corporation was a prominent American semiconductor manufacturer that specialized in analog devices and subsystems. Headquartered in Santa Clara, California, the company was widely recognized for its expertise in power management circuits, display drivers, and operational amplifiers. National Semiconductor played a significant role in the development of the electronics industry throughout the late 20th century. In September 2011, the company was acquired by Texas Instruments, which integrated its operations and extensive portfolio of analog products into its own business, effectively ending National Semiconductor's existence as an independent publicly traded entity.",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/National_Semiconductor_logo.svg/1200px-National_Semiconductor_logo.svg.png",
+  "name_clean": "National Semiconductor",
+  "logo_local": "logo.svg"
 }

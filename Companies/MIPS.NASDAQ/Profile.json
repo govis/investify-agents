@@ -4,5 +4,10 @@
   "exchange": "NASDAQ",
   "website": "https://www.mips.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "MIPS is a prominent technology company originally founded in 1984 by researchers from Stanford University. The company specializes in the development of high-performance microprocessor architectures and processing innovations. MIPS provides essential semiconductor intellectual property, focusing on enabling a new generation of intelligent, connected devices across various industries. With a rich history of innovation in RISC architecture, the company continues to drive advancements in compute technology, supporting the creation of custom edge silicon and complex embedded systems for global markets, maintaining its legacy as a key player in the semiconductor industry.",
+  "logo_url": "https://www.mips.com/wp-content/themes/mips/assets/images/mips-logo.svg",
+  "name_clean": "MIPS Computer Systems",
+  "logo_local": "logo.svg"
 }

@@ -4,5 +4,10 @@
   "exchange": "NYSE",
   "website": "transunion.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "TransUnion is a global information and insights company that enables businesses and consumers to make informed decisions. Founded in 1968 and headquartered in Chicago, Illinois, the company has evolved from its origins as a credit reporting agency into a comprehensive provider of data, analytics, and risk management solutions. TransUnion serves a diverse range of industries, helping organizations manage risk, prevent fraud, and build trust with their customers by providing accurate, actionable insights derived from vast datasets. Today, it operates as a critical player in the financial services ecosystem, facilitating secure and efficient economic transactions worldwide.",
+  "logo_url": "https://www.transunion.com/content/dam/transunion/global/icons/tu-logo-blue.svg",
+  "name_clean": "TransUnion",
+  "logo_local": "logo.svg"
 }

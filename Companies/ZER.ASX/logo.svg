@@ -1,0 +1,31 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1636 517" width="1636" height="517">
+	<title>zeta_logoPrimary-svg</title>
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="1105.584" y1="415.704" x2="1105.584" y2="102.8">
+			<stop offset="0.399" stop-color="#0a05b0"  />
+			<stop offset="1" stop-color="#0001aa"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="491.238" y1="387.686" x2="0.738" y2="387.686">
+			<stop offset="0.399" stop-color="#0a05b0"  />
+			<stop offset="1" stop-color="#0068d0"  />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="0.738" y1="129.314" x2="491.238" y2="129.314">
+			<stop offset="0" stop-color="#00c2ff"  />
+			<stop offset="0.54" stop-color="#bc2676"  />
+			<stop offset="0.857" stop-color="#fffb6a"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+		.shp1 { fill: url(#grd2) } 
+		.shp2 { fill: url(#grd3) } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="shp0" d="M598.36 103.18L820.12 102.8L820.12 155.08L657.74 362.68L820.12 362.3L799.44 415.33L575.81 415.7L575.81 362.68L737.05 155.83L577.69 155.83L598.36 103.18ZM926.11 155.83L926.11 229.17L1022.71 229.17L1001.66 282.57L925.73 282.57L925.73 362.68L1100.89 362.68L1080.97 414.95L908.07 414.95C889.65 415.33 884.01 413.45 874.62 405.93C867.1 398.4 863.34 393.52 863.34 375.46L863.34 102.8L1102.39 102.8L1081.34 155.83L926.11 155.83ZM1635.36 415.7L1571.47 415.7L1543.28 342.37L1426.38 342.37L1398.19 415.7L1334.3 415.7L1456.45 103.18L1484.64 103.18C1503.43 103.18 1516.59 112.58 1524.11 129.5L1635.36 415.7ZM1527.49 289.34L1486.14 176.51L1442.92 289.34L1527.49 289.34ZM1386.17 155.08L1288.82 155.08L1288.82 414.95L1229.06 414.95L1229.06 155.08L1124.19 155.08L1144.86 102.8L1407.21 102.8L1386.17 155.08Z" />
+		</g>
+	</g>
+	<path id="Layer" class="shp1" d="M378.1 258.5L491.24 258.5L200.7 516.87L175.51 398.78L0.74 258.5L113.87 258.5L207.84 334.09L221.74 397.65L378.1 258.5Z" />
+	<path id="Layer" class="shp2" d="M113.87 258.5L0.74 258.5L290.9 0.13L316.46 118.22L491.24 258.5L378.1 258.5L283.76 182.91L270.23 119.35L113.87 258.5Z" />
+</svg>

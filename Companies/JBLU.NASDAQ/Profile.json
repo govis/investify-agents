@@ -1,7 +1,7 @@
 {
   "name": "JetBlue Airways Corporation",
   "name_former": "NewAir",
-  "name_clean": "JetBlue",
+  "name_clean": "JetBlue Airways",
   "ticker": "JBLU",
   "exchange": "NASDAQ",
   "website": "https://www.jetblue.com",
@@ -10,5 +10,6 @@
   "description": "JetBlue Airways Corporation is an American low-cost airline headquartered in Long Island City, New York. Founded in 1999, the company operates as a major passenger carrier, providing air transportation services across the United States, the Caribbean, Latin America, and the Atlantic. Known for its focus on customer experience, JetBlue operates a network of focus cities, including its primary hub at John F. Kennedy International Airport. The airline offers a variety of services, including scheduled passenger flights, vacation packages, and loyalty programs, aiming to bring humanity back to air travel.",
   "metals_and_minerals": [],
   "origin": "manager_affiliation",
-  "enrichment": "success"
+  "enrichment": "success",
+  "logo_local": "logo.svg"
 }

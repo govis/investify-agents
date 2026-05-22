@@ -4,5 +4,9 @@
   "exchange": "NASDAQ",
   "website": "https://www.qlogic.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "Founded in 1992 and headquartered in California, QLogic Corporation was a prominent manufacturer of high-performance networking infrastructure solutions. The company specialized in Fibre Channel adapters, converged network adapters, Ethernet adapters, and application-specific integrated circuits (ASICs) designed for servers and storage area networks. QLogic was publicly traded on the NASDAQ under the ticker symbol QLGC until it was acquired by Cavium, Inc. in 2016 for approximately $1.3 billion, marking the end of its tenure as an independent public entity in the data storage and networking industry.",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Logo_of_QLogic_Corporation.svg",
+  "name_clean": "QLogic Corporation"
 }

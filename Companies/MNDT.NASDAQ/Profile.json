@@ -4,5 +4,10 @@
   "exchange": "NASDAQ",
   "website": "https://www.mandiant.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "Mandiant, Inc. is a prominent American cybersecurity firm recognized for its intelligence-based security solutions and incident response services. Originally founded as a standalone entity, the company gained global attention for its pioneering research into cyber espionage and threat actor activities. Following its acquisition by FireEye and subsequent purchase by Google in 2022, Mandiant now operates as a subsidiary of Google Cloud. The company continues to provide organizations with advanced threat intelligence, managed defense, and consulting services to help them effectively detect, respond to, and remediate complex cyber threats in an increasingly digital landscape.",
+  "logo_url": "https://www.mandiant.com/themes/custom/mandiant/logo.svg",
+  "name_clean": "Mandiant",
+  "logo_local": "logo.svg"
 }

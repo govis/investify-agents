@@ -4,5 +4,10 @@
   "exchange": "NASDAQ",
   "website": "https://www.mongodb.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "MongoDB, Inc. is an American software company that develops and provides commercial support for its namesake source-available, NoSQL database engine. Designed for modern application development, the platform handles unstructured data with high flexibility and scalability. Beyond its core database, the company offers MongoDB Atlas, a fully managed global cloud database service that enables developers to run applications anywhere. Headquartered in New York City, MongoDB has evolved from its origins as 10gen to become a critical infrastructure provider for enterprises worldwide, supporting complex workloads ranging from transactional processing to advanced AI-driven applications.",
+  "logo_url": "https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twg32jam.png",
+  "name_clean": "MongoDB",
+  "logo_local": "logo.svg"
 }

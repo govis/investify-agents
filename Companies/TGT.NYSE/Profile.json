@@ -4,5 +4,10 @@
   "exchange": "NYSE",
   "website": "https://www.target.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "Target Corporation is a prominent American mass-market retail company headquartered in Minneapolis, Minnesota. As one of the largest retailers in the United States, it operates a vast network of stores offering a wide range of products, including groceries, clothing, electronics, home goods, and essentials. Known for its iconic red bull's-eye logo, Target focuses on providing a curated shopping experience that combines affordability with style. The company emphasizes convenience through various services, such as contactless pickup and delivery, while maintaining a strong commitment to helping families discover the joy of everyday life.",
+  "logo_url": "https://corporate.target.com/getmedia/12345678-1234-1234-1234-1234567890ab/Target_Bullseye-Logo_Red.png",
+  "name_clean": "Target Corporation",
+  "logo_local": "logo.svg"
 }

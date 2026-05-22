@@ -4,5 +4,10 @@
   "exchange": "NASDAQ",
   "website": "https://www.rambus.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "Rambus Inc. is an American technology company that specializes in designing, developing, and licensing high-performance chip interface technologies and architectures. Dedicated to making data faster and safer, the company provides innovative semiconductor and Internet Protocol products, including memory interfaces, security IP, and interface IP. These technologies are essential for driving advancements in data centers, artificial intelligence, and the Internet of Things. Headquartered in San Jose, California, Rambus plays a critical role in the global electronics ecosystem by enabling high-speed data movement and robust security solutions for a wide range of digital products.",
+  "logo_url": "https://www.rambus.com/wp-content/themes/rambus/assets/images/logo.svg",
+  "name_clean": "Rambus",
+  "logo_local": "logo.svg"
 }

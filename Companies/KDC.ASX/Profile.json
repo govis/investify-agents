@@ -1,7 +1,7 @@
 {
   "name": "Kimberley Diamond Company NL",
   "name_former": "Kimberley Diamond Company Pty Ltd",
-  "name_clean": "Kimberley Diamond Company",
+  "name_clean": "Kimberley Diamond Company NL",
   "ticker": "KDC",
   "exchange": "ASX",
   "website": null,
@@ -12,5 +12,6 @@
     "Diamonds"
   ],
   "origin": "manager_affiliation",
-  "enrichment": "success"
+  "enrichment": "success",
+  "logo_local": "logo.png"
 }

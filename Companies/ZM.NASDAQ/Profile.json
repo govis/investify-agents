@@ -4,5 +4,10 @@
   "exchange": "NASDAQ",
   "website": "https://www.zoom.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "Zoom Video Communications, Inc. is an American communications technology company headquartered in San Jose, California. Founded in 2011, the company provides a comprehensive AI-powered collaboration platform that includes video conferencing, online meetings, chat, and mobile collaboration services. Originally focused on making video communications frictionless, Zoom has evolved into a leading provider of unified communications solutions for businesses, educational institutions, and individual users worldwide. Its platform is widely recognized for its ease of use, reliability, and scalability, enabling seamless connectivity and productivity in an increasingly digital and remote-first global work environment.",
+  "logo_url": "https://explore.zoom.us/docs/image/zoom-logo-color.png",
+  "name_clean": "Zoom Video Communications",
+  "logo_local": "logo.svg"
 }

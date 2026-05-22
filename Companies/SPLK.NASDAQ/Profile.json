@@ -4,5 +4,10 @@
   "exchange": "NASDAQ",
   "website": "https://www.splunk.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "Splunk Inc. is a leading technology company that provides a unified platform for security and observability, enabling organizations to gain real-time insights from their machine-generated data. By leveraging artificial intelligence and advanced analytics, Splunk helps enterprises detect threats, monitor IT infrastructure, and ensure digital resilience across complex environments. The company offers a comprehensive suite of solutions for security operations, IT modernization, and application performance monitoring. Now a part of Cisco, Splunk continues to empower businesses worldwide to manage massive data streams, reduce downtime, and accelerate their digital transformation initiatives through actionable intelligence.",
+  "logo_url": "https://www.splunk.com/content/dam/splunk2/images/logos/splunk-logo.svg",
+  "name_clean": "Splunk",
+  "logo_local": "logo.svg"
 }

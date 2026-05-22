@@ -4,5 +4,10 @@
   "exchange": "NYSE",
   "website": "https://www.pepco.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "Pepco Holdings, Inc. is a prominent energy delivery company serving more than 2 million customers across Delaware, the District of Columbia, Maryland, and New Jersey. As a subsidiary of Exelon Corporation, the company specializes in the transmission and distribution of electricity, as well as the distribution and supply of natural gas. Through its regulated utility subsidiaries, Pepco Holdings plays a critical role in providing reliable energy services to the Mid-Atlantic region, focusing on infrastructure maintenance, grid modernization, and customer service excellence to meet the evolving energy needs of the communities it serves.",
+  "logo_url": "https://www.pepco.com/global/assets/pepco/images/pepco-logo.png",
+  "name_clean": "Pepco Holdings",
+  "logo_local": "logo.svg"
 }

@@ -4,5 +4,10 @@
   "exchange": "NASDAQ",
   "website": "https://www.mellanox.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "Israel",
+  "description": "Mellanox Technologies, Ltd. was a leading supplier of end-to-end Ethernet and InfiniBand intelligent interconnect solutions and services for servers, storage, and hyper-converged infrastructure. The company's products, including adapters, switches, software, and cables, were designed to increase data center efficiency by providing high throughput and low latency. Founded in Israel, Mellanox became a critical player in high-performance computing and data center networking before being acquired by NVIDIA in 2020. Its technologies continue to serve as the foundation for modern AI factories and large-scale cloud computing environments globally.",
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mellanox_logo.svg/1200px-Mellanox_logo.svg.png",
+  "name_clean": "Mellanox Technologies",
+  "logo_local": "logo.jpg"
 }

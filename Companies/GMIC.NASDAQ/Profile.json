@@ -1,16 +1,17 @@
 {
   "name": "General Microwave Corporation",
   "name_former": null,
-  "name_clean": "General Microwave",
+  "name_clean": "General Microwave Corporation",
   "ticker": "GMIC",
   "exchange": "NASDAQ",
   "website": "https://www.kratosdefense.com",
   "logo_url": "https://www.kratosdefense.com/assets/images/kratos-logo.svg",
-  "logo_local": null,
+  "logo_local": "logo.svg",
   "country_of_domicile": "United States",
   "description": "General Microwave Corporation, now operating as Kratos General Microwave, designs and manufactures microwave and millimeter wave components and subassemblies. The company's products include frequency synthesizers, solid-state control components, and integrated microwave assemblies used in electronic warfare, radar, and communication systems. It serves military, aerospace, and commercial markets globally.",
   "metals_and_minerals": null,
   "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "success"
+  "enrichment": "success",
+  "logo_color": "white"
 }

@@ -4,5 +4,10 @@
   "exchange": "NASDAQ",
   "website": "www.deltek.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "Deltek, Inc. is a leading global provider of software and information solutions designed to empower project-driven organizations. Headquartered in Herndon, Virginia, the company specializes in enterprise resource planning (ERP), project management, and business development tools tailored for industries such as government contracting, architecture, engineering, and consulting. By delivering integrated cloud-based platforms, Deltek helps businesses streamline operations, ensure regulatory compliance, and improve project intelligence. With a focus on driving productivity and profitability, the company supports thousands of organizations worldwide in managing the entire project lifecycle, from initial business development to final project delivery and financial reporting.",
+  "logo_url": "https://www.deltek.com/-/media/images/deltek/global/deltek-logo.svg",
+  "name_clean": "Deltek",
+  "logo_local": "logo.svg"
 }

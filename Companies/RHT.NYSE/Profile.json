@@ -4,5 +4,10 @@
   "exchange": "NYSE",
   "website": "https://www.redhat.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "Red Hat, Inc. is the world\u2019s leading provider of enterprise open source software solutions, utilizing a community-powered approach to deliver reliable and high-performing cloud, virtualization, storage, Linux, and middleware technologies. Founded in 1993 and headquartered in Raleigh, North Carolina, the company empowers organizations to scale their IT infrastructure through hybrid cloud, edge, and Kubernetes technologies. As a subsidiary of IBM, Red Hat continues to provide award-winning support, training, and consulting services, helping businesses innovate and adapt to the evolving demands of the modern digital landscape.",
+  "logo_url": "https://www.redhat.com/cms/managed-files/rh-logo-red-rgb.svg",
+  "name_clean": "Red Hat",
+  "logo_local": "logo.svg"
 }

@@ -4,5 +4,10 @@
   "exchange": "NASDAQ",
   "website": "https://www.nutanix.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "Nutanix, Inc. is an American cloud computing company that provides a unified software platform for hybrid multicloud environments. The company specializes in hyperconverged infrastructure, offering solutions for virtualization, software-defined storage, and networking. Nutanix enables enterprises to manage applications, data, and AI workloads across on-premises, public cloud, and edge environments through a single, integrated interface. By simplifying infrastructure management and supporting container-based modernization, Nutanix helps organizations improve operational efficiency, enhance security, and accelerate digital transformation initiatives for businesses worldwide.",
+  "logo_url": "https://www.nutanix.com/content/dam/nutanix/images/branding/nutanix-logo.svg",
+  "name_clean": "Nutanix",
+  "logo_local": "logo.svg"
 }

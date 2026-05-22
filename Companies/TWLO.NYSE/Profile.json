@@ -4,5 +4,10 @@
   "exchange": "NYSE",
   "website": "https://www.twilio.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "Twilio Inc. is a leading cloud communications platform that enables businesses to integrate voice, messaging, and email capabilities into their applications through programmable APIs. By providing a flexible, secure, and scalable infrastructure, Twilio empowers developers and enterprises to create personalized, real-time customer engagement experiences across various digital channels. Headquartered in San Francisco, California, the company serves millions of developers and hundreds of thousands of businesses globally, helping them leverage communication tools and customer data to enhance intelligence and security throughout the entire customer journey, from initial acquisition to long-term retention and support.",
+  "logo_url": "https://assets.twilio.com/public/logos/twilio-logo-red.svg",
+  "name_clean": "Twilio",
+  "logo_local": "logo.svg"
 }

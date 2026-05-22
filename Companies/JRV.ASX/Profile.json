@@ -1,7 +1,7 @@
 {
   "name": "Jervois Global Limited",
   "name_former": "Jervois Mining Limited",
-  "name_clean": "Jervois Global",
+  "name_clean": "Jervois Global Limited",
   "ticker": "JRV",
   "exchange": "ASX",
   "website": "https://jervoisglobal.com/",
@@ -14,5 +14,6 @@
     "Copper"
   ],
   "origin": "manager_affiliation",
-  "enrichment": "success"
+  "enrichment": "success",
+  "logo_local": "logo.png"
 }

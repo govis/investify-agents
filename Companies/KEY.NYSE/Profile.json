@@ -1,7 +1,7 @@
 {
   "name": "KeyCorp",
   "name_former": "Society Corporation",
-  "name_clean": "KeyCorp",
+  "name_clean": "Key",
   "ticker": "KEY",
   "exchange": "NYSE",
   "website": "https://www.key.com",
@@ -10,5 +10,6 @@
   "description": "KeyCorp is a bank-based financial services company headquartered in Cleveland, Ohio. It operates primarily through its subsidiary, KeyBank National Association, providing a wide range of retail and commercial banking products and services. The company's offerings include deposit and investment products, personal finance services, residential mortgages, and various commercial lending and financial solutions to individuals, small businesses, and corporate clients across the United States.",
   "metals_and_minerals": null,
   "origin": "manager_affiliation",
-  "enrichment": "success"
+  "enrichment": "success",
+  "logo_local": "logo.svg"
 }

@@ -4,5 +4,10 @@
   "exchange": "NASDAQ",
   "website": "https://www.mobileiron.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "MobileIron, Inc. was an American software company that specialized in unified endpoint management and enterprise mobility management. Founded in 2007, the company provided a mobile-centric, zero-trust security platform designed to help enterprises manage and secure mobile applications, content, and devices. By leveraging a 'never trust, always verify' model, MobileIron enabled organizations to protect data across perimeter-less enterprise environments. In 2020, the company was acquired by Ivanti, integrating its mobile security solutions into Ivanti's broader portfolio of IT and security management software.",
+  "logo_url": "https://www.ivanti.com/res/images/logo-ivanti.svg",
+  "name_clean": "MobileIron",
+  "logo_local": "logo.png"
 }

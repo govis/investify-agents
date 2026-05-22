@@ -6,7 +6,7 @@
   "exchange": "TSXV",
   "website": "https://gladiatormetals.com",
   "logo_url": "https://gladiatormetals.com/wp-content/uploads/2023/02/Gladiator-Metals-Logo.png",
-  "logo_local": null,
+  "logo_local": "logo.svg",
   "country_of_domicile": "Canada",
   "description": "Gladiator Metals Corp. is a Canada-based mineral exploration company focused on the identification, acquisition, and evaluation of high-grade copper projects in the Yukon, Canada. The company's flagship project is the Whitehorse Copper Project, an advanced-stage copper-gold-silver-molybdenum project located in the Whitehorse Mining District. Gladiator Metals is committed to creating shareholder value through systematic exploration and development of its mineral properties in safe and mining-friendly jurisdictions.",
   "metals_and_minerals": [
@@ -16,5 +16,6 @@
   ],
   "investment_theses": [],
   "origin": "manager_affiliation",
-  "enrichment": "success"
+  "enrichment": "success",
+  "logo_color": "white"
 }

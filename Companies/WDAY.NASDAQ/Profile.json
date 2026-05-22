@@ -4,5 +4,10 @@
   "exchange": "NASDAQ",
   "website": "workday.com",
   "origin": "manager_affiliation",
-  "enrichment": "pending"
+  "enrichment": "success",
+  "country_of_domicile": "United States",
+  "description": "Workday, Inc. is a leading provider of enterprise cloud applications for finance and human resources. Founded in 2005 and headquartered in Pleasanton, California, the company delivers innovative software solutions for financial management, human capital management, and analytics. Designed to serve large global organizations, educational institutions, and government agencies, Workday's platform helps businesses adapt to the future of work by integrating planning, payroll, and workforce management into a unified, AI-powered system. The company is committed to driving operational agility and delivering meaningful value to its customers through its scalable, cloud-based technology.",
+  "logo_url": "https://www.workday.com/content/dam/web/en-us/images/branding/workday-logo-og.png",
+  "name_clean": "Workday",
+  "logo_local": "logo.svg"
 }
