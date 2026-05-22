@@ -43,7 +43,19 @@
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/craig-arnold-5634a210",
+      "person_name": "Craig Arnold",
+      "company_name": "Eaton Corporation plc",
+      "profile_status": "success",
+      "potential_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQH8mQzDrJvSjg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1695404178239?e=2147483647&v=beta&t=-qLmH33qVedNg1M-rw_fTlbf6ns2g9u2oXX78qZVQ_4",
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/D5603AQH8mQzDrJvSjg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1695404178239?e=2147483647&v=beta&t=-qLmH33qVedNg1M-rw_fTlbf6ns2g9u2oXX78qZVQ_4",
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

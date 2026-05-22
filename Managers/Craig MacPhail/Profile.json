@@ -51,7 +51,19 @@
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/craigmacphail",
+      "person_name": "Craig MacPhail",
+      "company_name": "Li-Cycle Holdings Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/D5603AQHRAUzZG6UNcg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1664457094162?e=2147483647&v=beta&t=CLWJDD7r1MB-tXNVd5vd1QecEMF8j4We4VSJWfwJPLQ",
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

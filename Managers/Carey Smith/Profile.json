@@ -32,7 +32,19 @@
   "investment_theses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/carey-smith-7545a613/",
+      "person_name": "Carey Smith",
+      "company_name": "Parsons Corporation",
+      "profile_status": "success",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C4E03AQG1_5_5_5_5/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517500000000?e=1720000000&v=beta&t=example_url_pattern",
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

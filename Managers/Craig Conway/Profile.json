@@ -92,9 +92,21 @@
   "investment_theses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/craig-conway-17667896",
+      "person_name": "Craig Conway",
+      "company_name": "Salesforce, Inc.",
+      "profile_status": "success",
+      "potential_picture_url": "https://media.licdn.com/dms/image/v2/C4E03AQEYZV-8FNVMAg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1608581438082?e=2147483647&v=beta&t=juOzKLAOwP_PXztQ-kBJyfkSc2PJCqfj46F5HCmN840",
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C4E03AQEYZV-8FNVMAg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1608581438082?e=2147483647&v=beta&t=juOzKLAOwP_PXztQ-kBJyfkSc2PJCqfj46F5HCmN840",
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

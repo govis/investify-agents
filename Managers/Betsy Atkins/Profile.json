@@ -71,10 +71,22 @@
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/betsy-atkins-a36b114/",
+      "person_name": "Betsy Atkins",
+      "company_name": "Baja Corp",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C4E03AQG1-5-5-5-5/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517543210000?e=1720000000&v=beta&t=example_url_placeholder",
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

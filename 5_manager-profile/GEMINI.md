@@ -25,23 +25,36 @@ This workflow builds and enriches detailed profiles for company officers and dir
     - Supports targeted enrichment via `--manager "Name"` flag.
     - Supports `--get_picture` runtime flag (default: `"no"`).
     - Supports `--search_picture_li` runtime flag (default: `"no"`).
-- **Architecture**: **Orchestrated Multi-Agent Pipeline** using Gemini Flash models.
-- **Model Config**: Requires `GEMINI_MODEL` to be set in `.env` (no default).
-- **Logic Modification**: Respects `--get_picture` and `--search_picture_li` command-line arguments.
-    - If `--get_picture no`: Captures image URLs (if found) but skips download validation and skips alternative search steps (2b/2c).
-    - If `--get_picture yes`: Attempts sequential download and validation of all found images.
-    - If `--search_picture_li no`: Skips specialized LinkedIn Image Search (2a).
-    - If `--search_picture_li yes`: Performs specialized LinkedIn Image Search (2a) to find profile pictures.
+- **Inputs**: 
+    - Individual `Profile.json` for each manager.
+    - Fields used: `name`, `age`, `background`, and `company_affiliations` (names and roles).
+- **Outputs**:
+    - Updates `socials` list in `Profile.json` with LinkedIn data.
+    - Updates `enrichment_socials` status (`success` or `not_found`).
+    - Captures `picture_url_li_profile` and `potential_picture_url`.
+- **Architecture**: **Orchestrated Multi-Provider Pipeline**.
+    - **LLM_PROVIDER**: Switch between `gemini` (native search) and `groq` (high-speed inference).
+    - **VALIDATE_PROFILE_USING**: 
+        - `SEARCH_GROUNDING`: Uses the LLM's native search tool to visit and verify pages.
+        - `CLOCK_BROWSER`: Uses a local Python scraper/stealth-fetcher to retrieve profile data before LLM analysis.
+- **Search & Validation Mechanics**:
+    1. **Identity Slimming**: Filters the manager's profile down to a "Slim Context" (essential fields only) to minimize token cost and stay within TPM limits.
+    2. **Sliding Window Search**: 
+        - If `gemini`: Uses `google_search` tool to find candidates.
+        - If `groq` or `CLOCK_BROWSER`: Performs a manual DuckDuckGo search for LinkedIn profiles and passes snippets to the LLM.
+    3. **Verification Loop**: 
+        - Iterates through the top 3 candidates.
+        - **Grounding**: The LLM visits the profile (or reads the scraped content) to cross-reference the manager's background and affiliations.
+        - **Precision Filtering**: Strictly rejects company/school pages; prioritizes unique name matches.
+    4. **Image Retrieval**:
+        - Captures the `media.licdn.com` pattern from the verified profile.
+        - If missing, optionally triggers a specialized LinkedIn Image Search (Agent 2a) or IR searches (2b/2c).
 - **Cost Management & Fail-Safes**:
-    - **Verification Limit**: `Supervisor` restricts candidate verification to the **top 3** matches per manager to prevent runaway search grounding costs.
-    - **Search Limit**: `LinkedInSearchAgent` limits raw candidates to the **top 5** matches.
-    - **Deterministic Execution**: Uses `temperature: 0.0` and `max_output_tokens: 2048` for all agent calls to ensure concise, predictable, and cost-effective responses.
-    - **Timeouts**: Implements a strict **90-second timeout** per agent call to prevent pipeline hangs and zombie processes.
-- **Verification & Status Enrichment**: 
-    - **Known URL Priority**: Checks `known_linkedin_urls.json` for manually verified profiles before searching.
-    - **LinkedIn URL Status Check**: Performs a real-time HTTP check after verification to detect `404` (sets `profile_status: "not_found"`) or LinkedIn login walls (sets `profile_status: "private"`).
-- **Refinement**: Agents strictly reject company or school pages; prioritize affiliations mentioned in the background bio.
-- **Status**: Sets `enrichment_socials` to `"success"` (if verified) or `"not_found"` (if no match found).
+    - **Global Budget**: Restricts total agent calls per manager to **10** (`MAX_AGENT_CALLS_PER_MANAGER`).
+    - **Dynamic Rate Limiting (RPM)**: sliding window throttler based on `LLM_RPM`.
+    - **Dynamic Chunking (TPM)**: Calculates safe character limits (`MAX_CHARS`) for input truncation.
+    - **Image Optimization**: Skips redundant image search calls if a picture is found during verification.
+    - **Deterministic Execution**: Uses `temperature: 0.0` and `max_output_tokens: 2048`.
 
 ### 3. Phase 3a: LinkedIn Profile Picture Scraper (Stealth)
 - **Script**: `scrape_linkedin_pictures.py`

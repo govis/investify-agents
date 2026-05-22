@@ -54,10 +54,17 @@
   ],
   "socials": [
     {
+      "name": "LinkedIn",
       "url": "https://www.linkedin.com/in/dan-durn-a02a8960",
-      "name": "LinkedIn"
+      "person_name": "Dan Durn",
+      "company_name": "Adobe Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
   ],
   "committees": [],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

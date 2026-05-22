@@ -46,12 +46,18 @@
     {
       "name": "LinkedIn",
       "url": "https://www.linkedin.com/in/carol-roberts-22001131/",
-      "potential_picture_url": null
+      "person_name": "Carol Roberts",
+      "company_name": "International Paper",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
   ],
   "committees": [
     "Audit Committee",
     "Compensation and Benefits Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }
