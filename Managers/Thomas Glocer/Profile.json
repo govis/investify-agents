@@ -52,10 +52,22 @@
   "investment_theses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tom-glocer-66729",
+      "person_name": "Thomas Glocer",
+      "company_name": "Thomson Reuters Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nominating and Governance Committee",
     "Operations and Technology Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

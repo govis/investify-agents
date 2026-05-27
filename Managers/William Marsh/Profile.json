@@ -81,11 +81,23 @@
   "investment_theses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/william-marsh-5b780190",
+      "person_name": "William Marsh",
+      "company_name": "Fission Uranium Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee",
     "Technical Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

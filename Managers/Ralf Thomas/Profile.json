@@ -41,7 +41,19 @@
   "investment_theses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ralf-p-thomas-5a5b5a1a",
+      "person_name": "Ralf P. Thomas",
+      "company_name": "Siemens AG",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

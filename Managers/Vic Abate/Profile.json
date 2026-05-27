@@ -34,7 +34,19 @@
     "Electrification",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/vic-abate",
+      "person_name": "Vic Abate",
+      "company_name": "GE Vernova",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

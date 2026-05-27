@@ -41,10 +41,22 @@
   "investment_theses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/susan-tomasky-b9161212",
+      "person_name": "Susan Tomasky",
+      "company_name": "Public Service Enterprise Group Incorporated",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Executive",
     "Governance and Nominating (Chair)"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

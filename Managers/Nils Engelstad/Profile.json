@@ -45,7 +45,13 @@
   "socials": [
     {
       "name": "LinkedIn",
-      "url": "https://ca.linkedin.com/in/nilsengelstad"
+      "url": "https://ca.linkedin.com/in/nilsengelstad",
+      "person_name": "Nils Engelstad",
+      "company_name": "Alamos Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     },
     {
       "name": "Twitter",
@@ -53,5 +59,6 @@
     }
   ],
   "committees": [],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

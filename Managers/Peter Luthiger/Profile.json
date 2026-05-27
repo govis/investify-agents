@@ -41,7 +41,19 @@
   "investment_theses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/peter-luthiger-a6b7806b",
+      "person_name": "Peter Luthiger",
+      "company_name": "enCore Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -62,9 +62,21 @@
   "investment_theses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kristina-m-johnson-phd-85555a12",
+      "person_name": "Kristina M. Johnson, PhD",
+      "company_name": "Cisco Systems, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nomination and Governance Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

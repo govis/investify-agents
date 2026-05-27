@@ -32,7 +32,19 @@
   "investment_theses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/troy-boisjoli-2a719a31",
+      "person_name": "Troy Boisjoli",
+      "company_name": "Atha Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -31,7 +31,19 @@
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://cl.linkedin.com/in/gonzalo-guerrero-yamamoto-6bb4551a",
+      "person_name": "Gonzalo Guerrero Yamamoto",
+      "company_name": "Sociedad Qu\u00edmica y Minera de Chile S.A.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

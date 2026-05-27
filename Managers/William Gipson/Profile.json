@@ -42,10 +42,22 @@
   "investment_theses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/william-gipson-9745218",
+      "person_name": "William Gipson",
+      "company_name": "The Procter & Gamble Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Technology Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

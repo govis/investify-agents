@@ -40,12 +40,24 @@
   "investment_theses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mark-pelizza-26b03489",
+      "person_name": "Mark Pelizza",
+      "company_name": "enCore Energy Corp., Westwater Resources, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee",
     "Corporate Governance and Nominating Committee",
     "Technical Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

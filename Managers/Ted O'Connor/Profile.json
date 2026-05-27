@@ -46,11 +46,17 @@
     {
       "name": "LinkedIn",
       "url": "https://ca.linkedin.com/in/ted-o-connor-80486347",
-      "picture_download_count": 1
+      "person_name": "Ted O'Connor",
+      "company_name": "Azincourt Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
   ],
   "committees": [
     "Audit Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

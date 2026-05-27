@@ -216,8 +216,14 @@ class Supervisor:
         if best_candidate_url:
             print(f"Supervisor: Found known LinkedIn URL for {manager['name']}: {best_candidate_url}")
             if self._check_budget():
-                best_verification = await self._verify_wrapper(manager, best_candidate_url)
-                if not best_verification: best_candidate_url = None
+                v_res = await self._verify_wrapper(manager, best_candidate_url)
+                if v_res is None:
+                    await self.finalize(profile_path, "error")
+                    return
+                if v_res.is_verified:
+                    best_verification = v_res
+                else:
+                    best_candidate_url = None
 
         if not best_verification:
             existing_linkedin = next((s['url'] for s in manager_full.get('socials', []) if 'linkedin.com' in s['url'].lower()), None)
@@ -227,8 +233,13 @@ class Supervisor:
                 else:
                     print(f"Supervisor: Attempting verification for existing URL {existing_linkedin}...")
                     if self._check_budget():
-                        best_verification = await self._verify_wrapper(manager, existing_linkedin)
-                        if best_verification: best_candidate_url = existing_linkedin
+                        v_res = await self._verify_wrapper(manager, existing_linkedin)
+                        if v_res is None:
+                            await self.finalize(profile_path, "error")
+                            return
+                        if v_res.is_verified:
+                            best_verification = v_res
+                            best_candidate_url = existing_linkedin
             
             if not best_verification:
                 print(f"Supervisor: Searching for LinkedIn Profile...")
@@ -245,7 +256,11 @@ class Supervisor:
                     else:
                         search_res = await self.pipeline.agents['search'].search(manager)
                     
-                    candidates = search_res.candidates if search_res else []
+                    if search_res is None:
+                        await self.finalize(profile_path, "error")
+                        return
+
+                    candidates = search_res.candidates
                     candidates = [c for c in candidates if c.url.lower().rstrip('/') not in blacklist]
                     candidates = sorted(candidates, key=lambda x: x.match_confidence, reverse=True)[:5]
 
@@ -263,7 +278,10 @@ class Supervisor:
                         if self._check_budget():
                             v_res = await self._verify_wrapper(manager, candidate.url)
                             verification_count += 1
-                            if v_res:
+                            if v_res is None:
+                                await self.finalize(profile_path, "error")
+                                return
+                            if v_res.is_verified:
                                 best_verification = v_res
                                 best_candidate_url = candidate.url
                                 break
@@ -317,13 +335,14 @@ class Supervisor:
                 "Return a JSON object with: 'is_verified' (bool), 'person_name', 'company_name', and 'verification_reasoning'."
             )
             v_res = await self.pipeline.agents['verifier'].call(prompt, VerificationResult)
-            if v_res and v_res.is_verified:
-                if img_url and img_url != "BLOCKED" and not v_res.potential_picture_url:
+            if v_res:
+                if v_res.is_verified and img_url and img_url != "BLOCKED" and not v_res.potential_picture_url:
                     v_res.potential_picture_url = img_url
                 return v_res
         else:
             return await self.pipeline.agents['verifier'].verify(manager, url)
         return None
+
 
     async def finalize(self, profile_path: str, status: str, new_socials: List[Dict] = None):
         with open(profile_path, 'r', encoding='utf-8') as f:

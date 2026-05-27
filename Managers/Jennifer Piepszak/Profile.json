@@ -23,7 +23,19 @@
     "AI",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jennifer-piepszak-b206b490",
+      "person_name": "Jennifer Piepszak",
+      "company_name": "JPMorgan Chase & Co.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

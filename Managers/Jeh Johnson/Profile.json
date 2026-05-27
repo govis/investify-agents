@@ -52,10 +52,22 @@
   "investment_theses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jeh-johnson-5a5b5a12",
+      "person_name": "Jeh Johnson",
+      "company_name": "Paul, Weiss, Rifkind, Wharton & Garrison LLP",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Classified Business and Security Committee",
     "Ethics and Sustainability Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

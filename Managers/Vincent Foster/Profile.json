@@ -43,10 +43,22 @@
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/vincent-foster-57882828",
+      "person_name": "Vincent Foster",
+      "company_name": "Main Street Capital Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

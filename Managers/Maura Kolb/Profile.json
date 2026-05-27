@@ -33,7 +33,19 @@
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/maura-kolb-m-sc-p-geo-b4a3b438",
+      "person_name": "Maura Kolb",
+      "company_name": "Ely Gold Royalties Inc., Dryden Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

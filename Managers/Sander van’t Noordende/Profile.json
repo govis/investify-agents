@@ -45,11 +45,18 @@
   "socials": [
     {
       "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/sander-van-t-noordende-2a81b6"
+      "url": "https://www.linkedin.com/in/sander-van-t-noordende-2a81b6",
+      "person_name": "Sander van't Noordende",
+      "company_name": "Randstad N.V.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
   ],
   "committees": [
     "Compensation Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

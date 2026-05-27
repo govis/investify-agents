@@ -72,7 +72,19 @@
   "investment_theses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/mathew-o-hara-31b4461a8",
+      "person_name": "Mathew O'Hara",
+      "company_name": "Boss Energy Limited, Alderan Resources Ltd, African Gold Limited, Benz Mining Corp, Pantoro Limited, Pearl Gull Iron Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -32,9 +32,21 @@
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://za.linkedin.com/in/vincent-maphai-24324015",
+      "person_name": "Vincent Maphai",
+      "company_name": "Sibanye Stillwater Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nomination Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -31,9 +31,21 @@
   "investment_theses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/muriel-p\u00e9nicaud-4a5b5a1b",
+      "person_name": "Muriel P\u00e9nicaud",
+      "company_name": "United States Steel Corporation, ManpowerGroup Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Corporate Governance and Public Policy Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

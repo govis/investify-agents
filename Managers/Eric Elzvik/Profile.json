@@ -52,9 +52,21 @@
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ch.linkedin.com/in/eric-elzvik",
+      "person_name": "Eric Elzvik",
+      "company_name": "ABB Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee (Chair)"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

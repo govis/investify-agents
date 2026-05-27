@@ -72,7 +72,19 @@
     "Electrification",
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/zula-kropivnitski-962685267",
+      "person_name": "Zula Kropivnitski",
+      "company_name": "EagleOne Metals Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

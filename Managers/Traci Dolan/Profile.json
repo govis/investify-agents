@@ -32,10 +32,22 @@
   "investment_theses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/traci-dolan-9992a91",
+      "person_name": "Traci Dolan",
+      "company_name": "Steel Dynamics, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee (Chair)",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

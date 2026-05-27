@@ -35,11 +35,18 @@
   "socials": [
     {
       "name": "LinkedIn",
-      "url": "https://au.linkedin.com/in/patrick-mutz-25528989"
+      "url": "https://au.linkedin.com/in/patrick-mutz-25528989",
+      "person_name": "Patrick Mutz",
+      "company_name": "Image Resources NL",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
   ],
   "committees": [
     "Audit and Risk Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -83,10 +83,22 @@
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/-sandra-peterson",
+      "person_name": "Sandra Peterson",
+      "company_name": "Clayton, Dubilier & Rice",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Governance and Nominating Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

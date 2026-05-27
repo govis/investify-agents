@@ -21,9 +21,21 @@
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://za.linkedin.com/in/thulani-mtshwene-43948734",
+      "person_name": "Thulani Mtshwene",
+      "company_name": "B2Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

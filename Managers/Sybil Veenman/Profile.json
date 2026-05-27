@@ -62,9 +62,21 @@
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/sybil-veenman-b98027a8",
+      "person_name": "Sybil Veenman",
+      "company_name": "Royal Gold, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation, Nominating and Governance Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

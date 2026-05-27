@@ -19,18 +19,20 @@ This workflow builds and enriches detailed profiles for company officers and dir
     - **Note**: Performs a clean initialization; no longer sets a "pending" status.
     - **Fields**: Uses `company_affiliations` for company records.
 
-### 2. Phase 2: Multi-Agent LinkedIn & Image Enrichment (V2)
+- **Phase 2: Multi-Agent LinkedIn & Image Enrichment (V2)**
 - **Script**: `main.py` (via `agent_pipeline.py`)
 - **Execution**: 
     - Supports targeted enrichment via `--manager "Name"` flag.
     - Supports `--get_picture` runtime flag (default: `"no"`).
     - Supports `--search_picture_li` runtime flag (default: `"no"`).
+    - Supports `--reprocess_not_found` runtime flag (default: `"no"`).
 - **Inputs**: 
     - Individual `Profile.json` for each manager.
+    - Scans for profiles where `enrichment_socials` is missing, `"pending"`, or `"error"` (or `"not_found"` if `--reprocess_not_found` is enabled).
     - Fields used: `name`, `age`, `background`, and `company_affiliations` (names and roles).
 - **Outputs**:
     - Updates `socials` list in `Profile.json` with LinkedIn data.
-    - Updates `enrichment_socials` status (`success` or `not_found`).
+    - Updates `enrichment_socials` status (`success`, `not_found`, or `error`).
     - Captures `picture_url_li_profile` and `potential_picture_url`.
 - **Architecture**: **Orchestrated Multi-Provider Pipeline**.
     - **LLM_PROVIDER**: Switch between `gemini` (native search) and `groq` (high-speed inference).

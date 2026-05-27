@@ -42,7 +42,19 @@
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/xavier-garcia-de-quevedo-topete-5a5b5a12",
+      "person_name": "Xavier Garcia de Quevedo Topete",
+      "company_name": "Southern Copper Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

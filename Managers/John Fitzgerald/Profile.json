@@ -42,11 +42,23 @@
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/john-fitzgerald-75393914",
+      "person_name": "John Fitzgerald",
+      "company_name": "Northern Star Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Committee (Chair)",
     "Nomination Committee",
     "Remuneration Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

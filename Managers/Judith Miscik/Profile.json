@@ -43,10 +43,22 @@
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jami-miscik-6154467b",
+      "person_name": "Jami Miscik",
+      "company_name": "General Motors, HP Inc., Morgan Stanley",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Finance Committee",
     "Governance and Corporate Responsibility Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

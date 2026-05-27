@@ -81,9 +81,21 @@
     "Defense",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://se.linkedin.com/in/henrik-henriksson-b4893112a",
+      "person_name": "Henrik Henriksson",
+      "company_name": "H2 Green Steel",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Remuneration Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

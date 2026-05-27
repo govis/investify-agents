@@ -41,12 +41,24 @@
   "investment_theses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/yves-de-balmann-81431147",
+      "person_name": "Yves de Balmann",
+      "company_name": "Constellation Energy Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Compensation Committee (Chair)",
     "Corporate Governance Committee",
     "Finance Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -62,10 +62,22 @@
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gillian-winckler-4a5b2a12",
+      "person_name": "Gillian Winckler",
+      "company_name": "Pan American Silver Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Human Resources and Compensation Committee",
     "Technical and Operational Performance Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

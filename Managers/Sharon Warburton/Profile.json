@@ -92,10 +92,22 @@
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/sharon-warburton-43576b23",
+      "person_name": "Sharon Warburton",
+      "company_name": "Northern Star Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Committee",
     "Remuneration Committee (Chair)"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

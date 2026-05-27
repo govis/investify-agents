@@ -51,10 +51,22 @@
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://za.linkedin.com/in/warwick-morley-jepson-909ba612",
+      "person_name": "Warwick Morley-Jepson",
+      "company_name": "Wesdome Gold Mines Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Governance and Nominating Committee",
     "Technical Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

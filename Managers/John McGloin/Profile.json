@@ -42,10 +42,22 @@
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/john-mcgloin-3b779441",
+      "person_name": "John McGloin",
+      "company_name": "Perseus Mining Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Remuneration Committee (Chair)",
     "Technical Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -32,10 +32,22 @@
   "investment_theses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gary-roughead-10350969",
+      "person_name": "Gary Roughead",
+      "company_name": "Northrop Grumman Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation and Management Development Committee",
     "Governance, Nominating and Sustainability Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -52,9 +52,21 @@
   "investment_theses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mary-hogan-preusse-80445a9",
+      "person_name": "Mary Hogan Preusse",
+      "company_name": "Digital Realty Trust, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

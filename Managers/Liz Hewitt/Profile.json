@@ -81,11 +81,23 @@
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/liz-hewitt-448b313",
+      "person_name": "Liz Hewitt",
+      "company_name": "Glencore plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee (Chair)",
     "Nomination Committee",
     "Remuneration Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

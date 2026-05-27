@@ -51,10 +51,22 @@
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/gillian-davidson",
+      "person_name": "Gillian Davidson",
+      "company_name": "Lundin Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Corporate Governance and Nominating Committee",
     "Health, Safety, Environment and Sustainability Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

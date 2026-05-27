@@ -41,7 +41,19 @@
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://cl.linkedin.com/in/patricio-contesse-fica-b7a464273",
+      "person_name": "Patricio Contesse Fica",
+      "company_name": "Sociedad Qu\u00edmica y Minera de Chile S.A.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

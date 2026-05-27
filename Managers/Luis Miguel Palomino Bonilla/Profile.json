@@ -32,11 +32,23 @@
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://pe.linkedin.com/in/luis-miguel-palomino-bonilla-763b7b129",
+      "person_name": "Luis Miguel Palomino Bonilla",
+      "company_name": "Southern Copper Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

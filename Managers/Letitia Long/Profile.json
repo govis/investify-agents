@@ -41,10 +41,22 @@
   "investment_theses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/letitia-long-156aa883",
+      "person_name": "Letitia Long",
+      "company_name": "Parsons Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation and Management Development Committee",
     "Corporate Governance and Responsibility Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

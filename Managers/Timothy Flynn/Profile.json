@@ -63,10 +63,22 @@
     "AI",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/timothy-flynn-60905411",
+      "person_name": "Timothy Flynn",
+      "company_name": "JPMorgan Chase & Co.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee (Chair)",
     "Corporate Governance & Nominating Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

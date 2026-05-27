@@ -51,9 +51,10 @@ async def main():
     parser.add_argument("--manager", type=str, help="Specific manager name to process (e.g. 'Aaron Jagdfeld')")
     parser.add_argument("--get_picture", type=str, default="no", choices=["yes", "no"], help="Whether to attempt picture downloads in subsequent steps (default: no)")
     parser.add_argument("--search_picture_li", type=str, default="no", choices=["yes", "no"], help="Whether to perform specialized LinkedIn Image Search (2a) (default: no)")
+    parser.add_argument("--reprocess_not_found", type=str, default="no", choices=["yes", "no"], help="Whether to reprocess profiles where enrichment_socials is 'not_found' (default: no)")
     args = parser.parse_args()
 
-    print(f"Workflow 5: Manager Profiles starting with CONCURRENCY_LIMIT={CONCURRENCY_LIMIT}, get_picture={args.get_picture}, search_picture_li={args.search_picture_li}...")
+    print(f"Workflow 5: Manager Profiles starting with CONCURRENCY_LIMIT={CONCURRENCY_LIMIT}, get_picture={args.get_picture}, search_picture_li={args.search_picture_li}, reprocess_not_found={args.reprocess_not_found}...")
     
     managers_dir = os.path.join("..", "Managers")
     os.makedirs(managers_dir, exist_ok=True)
@@ -79,13 +80,17 @@ async def main():
             return
     else:
         print("Scanning for profiles to enrich...")
+        eligible_statuses = ["pending", "error"]
+        if args.reprocess_not_found == "yes":
+            eligible_statuses.append("not_found")
+
         for root, dirs, files in os.walk(managers_dir):
             if "Profile.json" in files:
                 path = os.path.join(root, "Profile.json")
                 try:
                     with open(path, 'r', encoding='utf-8') as f:
                         data = json.load(f)
-                        if "enrichment_socials" not in data or data.get("enrichment_socials") == "pending":
+                        if "enrichment_socials" not in data or data.get("enrichment_socials") in eligible_statuses:
                             to_enrich.append(path)
                 except Exception:
                     continue

@@ -43,10 +43,22 @@
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://fi.linkedin.com/in/pekka-ala-pietil\u00e4-084082146",
+      "person_name": "Pekka Ala-Pietil\u00e4",
+      "company_name": "SAP SE",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "General and Compensation Committee",
     "Strategy Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

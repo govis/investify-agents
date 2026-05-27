@@ -22,7 +22,19 @@
   "investment_theses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://dk.linkedin.com/in/johan-sigsgaard-1b839a1",
+      "person_name": "Johan Sigsgaard",
+      "company_name": "A.P. M\u00f8ller - M\u00e6rsk A/S",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -81,11 +81,23 @@
     "Gold",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kalidas-madhavpeddi-828a8746",
+      "person_name": "Kalidas Madhavpeddi",
+      "company_name": "Glencore",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Corporate Governance and Nominating Committee",
     "Nomination Committee (Chair)"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

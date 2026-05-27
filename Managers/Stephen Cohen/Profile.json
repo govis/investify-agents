@@ -23,7 +23,19 @@
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/stephen-cohen-5520563?authType=NAME_SEARCH&authToken=SMNl&locale=en_US&srchid=116663941481157781440&srchindex=1&srchtotal=1321&trkInfo=VSRPsearchId:116663941481157781440,VSRPtargetId:9072782,VSRPcmpt:primary,VSRPnm:true,authType:NAME_SEARCH",
+      "person_name": "Stephen Cohen",
+      "company_name": "Palantir Technologies Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

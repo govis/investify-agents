@@ -42,7 +42,19 @@
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://tw.linkedin.com/in/wendell-huang-bb085b28",
+      "person_name": "Wendell Huang",
+      "company_name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

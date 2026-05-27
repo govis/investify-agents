@@ -32,9 +32,21 @@
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mark-leschly-13765650/",
+      "person_name": "Mark Leschly",
+      "company_name": "Iconica Partners, ChargePoint Holdings, Inc., NGM Biopharmaceuticals, Inc.",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C4D03AQHzhHg1PEa-BQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516845129517?e=2147483647&v=beta&t=2PaSFl6L8VLtDyRuf4ffDWI-qj3otlw_bJtmOG1TFLY",
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation and Organizational Development Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -61,10 +61,22 @@
   "investment_theses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kevinmwarren?miniProfileUrn=urn:li:fs_miniProfile:ACoAAA8l5-gBHXW5PBnvMklvg32bXr0Hiv2bo7k",
+      "person_name": "Kevin Warren",
+      "company_name": "United Parcel Service",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit",
     "Finance"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

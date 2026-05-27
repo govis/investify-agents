@@ -40,11 +40,23 @@
   "investment_theses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/dominique-mini\u0083re/en",
+      "person_name": "Dominique Mini\u00e8re",
+      "company_name": "Cameco Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Safety, Health, Environment, Quality and Technical Committee",
     "Safety, Health, Environment, Sustainability and Technical Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

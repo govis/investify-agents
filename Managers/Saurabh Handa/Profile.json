@@ -54,8 +54,14 @@
   ],
   "socials": [
     {
+      "name": "LinkedIn",
       "url": "https://ca.linkedin.com/in/saurabh-handa-ca-cpa-25528336",
-      "name": "LinkedIn"
+      "person_name": "Saurabh Handa",
+      "company_name": "Metalla Royalty & Streaming Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
   ],
   "committees": [
@@ -63,5 +69,6 @@
     "Audit Committee (Chair)",
     "Compensation Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

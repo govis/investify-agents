@@ -52,12 +52,24 @@
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/edie-hofmeister-28237113",
+      "person_name": "Edie Hofmeister",
+      "company_name": "Bitfarms Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Environmental and Sustainability Committee",
     "Governance and Nominating Committee (Chair)",
     "Human Resources Committee",
     "Sustainability Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

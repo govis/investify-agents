@@ -72,12 +72,24 @@
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://dk.linkedin.com/in/jmlindemann",
+      "person_name": "J\u00f8rgen Madsen Lindemann",
+      "company_name": "SAS",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Member of the Nomination Committee",
     "Member of the Remuneration Committee",
     "Nominations & Governance Committee",
     "Remuneration Committee (Chair)"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

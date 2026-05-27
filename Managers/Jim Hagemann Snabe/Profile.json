@@ -52,11 +52,23 @@
   "investment_theses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://dk.linkedin.com/in/jim-hagemann-snabe",
+      "person_name": "Jim Hagemann Snabe",
+      "company_name": "Siemens Aktiengesellschaft",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Chairman's Committee",
     "Innovation and Finance Committee",
     "Nominating Committee"
   ],
-  "enrichment_company_affiliations": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }
