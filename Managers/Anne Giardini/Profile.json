@@ -62,11 +62,22 @@
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://it.linkedin.com/in/annegiardini",
+      "person_name": "Anne Giardini",
+      "company_name": "Capstone Copper Corp., K92 Mining Inc., Hydro One Limited, Nevsun Resources Ltd., Thompson Creek Metals Company Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "not_found"
+  "enrichment_socials": "success"
 }

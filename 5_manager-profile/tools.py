@@ -127,60 +127,55 @@ def download_image(url: str, manager_dir: str) -> Optional[str]:
         print(f"Failed to download image from {url}: {e}")
     return None
 
-def scrape_linkedin_picture(url: str) -> Optional[str]:
+def get_linkedin_profile_picture(page, profile_path: str, linkedin_url: str, matching_social: Optional[Dict] = None) -> Optional[str]:
     """
-    Attempts to scrape a consistent profile picture URL from a public LinkedIn profile.
-    Targets the media.licdn.com/dms/image/v2/ pattern and prefers shrink_200_200.
+    Unified logic to visit a LinkedIn URL, scrape the image, and download it if found.
+    Handles the profile_status updates and metadata saving within the profile object.
     """
+    # 1. Visit
     try:
-        # Extensive browser headers
-        headers = {
-            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-            'accept-language': 'en-US,en;q=0.9',
-            'cache-control': 'max-age=0',
-            'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
-            'sec-ch-ua-mobile': '?0',
-            'sec-ch-ua-platform': '"Windows"',
-            'sec-fetch-dest': 'document',
-            'sec-fetch-mode': 'navigate',
-            'sec-fetch-site': 'none',
-            'sec-fetch-user': '?1',
-            'upgrade-insecure-requests': '1',
-            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        }
-        response = requests.get(url, headers=headers, timeout=15)
+        response = page.goto(linkedin_url, wait_until='domcontentloaded', timeout=30000)
+        time.sleep(5)
         
-        if response.status_code == 999 or response.status_code == 429:
-            return "BLOCKED"
+        # Status checks
+        if response and response.status == 404:
+            if matching_social:
+                matching_social['profile_status'] = 'not_found'
+                print(f"  -> Updated profile_status to 'not_found' for {linkedin_url}")
+            return None
+        
+        current_url = page.url
+        is_auth_wall = any(x in current_url for x in ['linkedin.com/authwall', 'linkedin.com/login', 'checkpoint/lg/login'])
+        
+        # Extra check for Auth Wall
+        if not is_auth_wall:
+            is_auth_wall = page.evaluate('''() => {
+                const body = document.body.innerText.toLowerCase();
+                return body.includes('sign in to linkedin') || 
+                       !!document.querySelector('form[data-adv-search-form]') ||
+                       !!document.querySelector('input[name="session_key"]');
+            }''')
+
+        if is_auth_wall:
+            if matching_social:
+                matching_social['profile_status'] = 'private'
+                print(f"  -> Updated profile_status to 'private' for {linkedin_url}")
+            return None
+        
+        # Successfully accessed
+        if matching_social and 'profile_status' in matching_social:
+            matching_social.pop('profile_status')
             
-        if response.status_code == 200:
-            # Search for the media pattern
-            matches = re.findall(r'https://media\.licdn\.com/dms/image/[^"\s>]+', response.text)
+        # 2. Scrape Image
+        img_selector = 'img.top-card__profile-image, img[src*="profile-displayphoto"]'
+        img_src = page.evaluate(f"() => {{ const el = document.querySelector('{img_selector}'); return el ? el.src : null; }}")
+        
+        if img_src:
+            manager_dir = os.path.dirname(profile_path)
+            return download_image(img_src, manager_dir)
             
-            # Sort matches to prioritize 200x200 as requested, then higher resolutions
-            priorities = ['shrink_200_200', 'shrink_400_400', 'shrink_800_800', 'shrink_100_100']
-            for p in priorities:
-                for m in matches:
-                    if p in m:
-                        return html.unescape(m)
-            
-            # Fallback to any displayphoto
-            for m in matches:
-                if 'profile-displayphoto' in m:
-                    return html.unescape(m)
-            
-            # Fallback to any dms/image
-            if matches:
-                return html.unescape(matches[0])
-            
-            # Fallback to og:image if the v2 pattern isn't found
-            match = re.search(r'<meta[^>]+property="og:image"[^>]+content="([^"]+)"', response.text)
-            if match:
-                img_url = html.unescape(match.group(1))
-                if not any(p in img_url.lower() for p in ['ghost_person', 'default_profile', '1c5u578iilxfi4m4dvc4q810q']):
-                    return img_url
     except Exception as e:
-        print(f"DEBUG: LinkedIn scrape failed for {url}: {e}")
+        print(f"  -> Error scraping LinkedIn {linkedin_url}: {e}")
     return None
 
 def get_person_details_from_company(full_name: str, ticker: str, exchange: str):
@@ -420,34 +415,110 @@ def search_profile_picture(person_name: str, affiliations: List[str], linkedin_u
         pass
     return None
 
-def save_enrichment(profile_path: str, socials: List[Dict[str, str]]) -> str:
-    """
-    Updates the Profile.json with socials and updates enrichment_status.
-    FULLY ADDITIVE for socials: Only updates if new socials are found.
-    """
+def get_google_image(page, username: str) -> Optional[str]:
+    print(f"  -> Attempting fallback: Google Image Search for '{username} linkedin'")
+    query = f"{username} linkedin"
+    search_url = f"https://www.google.com/search?q={urllib.parse.quote(query)}&udm=2"
+    
     try:
-        if not os.path.exists(profile_path):
-            return "ERROR: Profile.json not found."
-            
-        with open(profile_path, 'r', encoding='utf-8') as f:
-            profile = json.load(f)
-            
-        # 1. Update Socials: Only update if new socials are found
-        if socials:
-            profile["socials"] = socials
-        elif not profile.get("socials"):
-            profile["socials"] = []
-
-        # 2. Final Status Update
-        # It's a success if we have socials
-        if profile.get("socials"):
-            profile["enrichment_status"] = "success"
-        else:
-            profile["enrichment_status"] = "not_found"
-            
-        with open(profile_path, 'w', encoding='utf-8') as f:
-            json.dump(profile, f, indent=2)
-            
-        return f"SUCCESS: Enriched profile at {profile_path}"
+        page.goto(search_url, wait_until='domcontentloaded', timeout=30000)
+        time.sleep(3) # Wait for images to load
+        
+        img_src = page.evaluate('''() => {
+            const imgs = Array.from(document.querySelectorAll('img'));
+            for (let img of imgs) {
+                if (img.src && img.src.startsWith('data:image/')) {
+                    const rect = img.getBoundingClientRect();
+                    if (rect.width > 40 || rect.height > 40 || img.width > 40) {
+                        return img.src;
+                    }
+                }
+                if (img.src && img.src.includes('encrypted-tbn0.gstatic.com/images')) {
+                    return img.src;
+                }
+            }
+            return null;
+        }''')
+        return img_src
     except Exception as e:
-        return f"ERROR: Failed to save enrichment: {e}"
+        print(f"  -> Google Image search failed: {e}")
+        return None
+
+def apply_human_mimicry(i: int, pages_visited_this_hour: int, hour_start_time: float, 
+                        delay_min: int = 5, delay_max: int = 15, max_pages_per_hour: int = 30) -> float:
+    """
+    Handles random delays and hourly limits for human-like behavior.
+    Returns the updated start_time if hour was reset.
+    """
+    # Check hourly limit
+    if pages_visited_this_hour >= max_pages_per_hour:
+        elapsed = time.time() - hour_start_time
+        if elapsed < 3600:
+            wait_time = 3600 - elapsed
+            print(f"Hourly limit reached ({max_pages_per_hour}). Waiting {wait_time/60:.1f} minutes...")
+            time.sleep(wait_time)
+        hour_start_time = time.time()
+    
+
+from pydantic import BaseModel, Field
+
+class SocialProfileCandidate(BaseModel):
+    name: str = Field(description="The name of the social platform, e.g., LinkedIn")
+    url: str = Field(description="The URL of the profile")
+    match_confidence: float = Field(description="Confidence score from 0 to 1")
+    reasoning: str = Field(description="Brief explanation of why this is a match")
+
+class VerificationResult(BaseModel):
+    is_verified: bool
+    person_name: Optional[str] = None
+    company_name: Optional[str] = None
+    potential_picture_url: Optional[str] = None
+    verification_reasoning: str
+
+class SharedAgent:
+    def __init__(self, client: Any, model: str, system_instruction: str, provider: str = "gemini"):
+        self.client = client
+        self.model = model
+        self.system_instruction = system_instruction
+        self.max_output_tokens = 2048
+        self.timeout = 90
+        self.provider = provider
+
+    def call(self, prompt: str, schema: Any):
+        if self.provider == "gemini":
+            from google.genai import types
+            config = types.GenerateContentConfig(
+                system_instruction=self.system_instruction,
+                response_mime_type="application/json",
+                response_schema=schema,
+                max_output_tokens=self.max_output_tokens,
+                temperature=0.0,
+            )
+            response = self.client.models.generate_content(
+                model=self.model,
+                contents=prompt,
+                config=config
+            )
+            return response.parsed
+        else: # Groq
+            messages = [
+                {"role": "system", "content": self.system_instruction},
+                {"role": "user", "content": prompt}
+            ]
+            response = self.client.chat.completions.create(
+                model=self.model,
+                messages=messages,
+                response_format={"type": "json_object"},
+                temperature=0.0,
+                max_tokens=self.max_output_tokens
+            )
+            data = json.loads(response.choices[0].message.content)
+            return schema.model_validate(data)
+
+class LinkedInVerifierAgent(SharedAgent):
+    def verify(self, manager: Dict[str, Any], url: str) -> VerificationResult:
+        prompt = (f"MANAGER IDENTITY:\n{json.dumps(manager, indent=2)}\n\n"
+                  f"LINKEDIN URL TO VERIFY: {url}\n\n"
+                  f"TASK: Verify if this URL belongs to the manager described.\n"
+                  f"Return a JSON object with: 'is_verified' (bool), 'person_name', 'company_name', and 'verification_reasoning'.")
+        return self.call(prompt, VerificationResult)

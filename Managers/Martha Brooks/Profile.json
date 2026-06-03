@@ -61,10 +61,21 @@
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/martha-brooks-475a8334",
+      "person_name": "Martha Brooks",
+      "company_name": "AB Volvo, Jabil Inc., Harley-Davidson, Inc., Constellium SE",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Remuneration Committee"
   ],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "not_found"
+  "enrichment_socials": "success"
 }

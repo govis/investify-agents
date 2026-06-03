@@ -52,11 +52,22 @@
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/maura-clark-5831244",
+      "person_name": "Maura Clark",
+      "company_name": "Newmont Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Governance and Nominating Committee"
   ],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "not_found"
+  "enrichment_socials": "success"
 }

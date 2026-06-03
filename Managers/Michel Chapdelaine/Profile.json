@@ -33,8 +33,19 @@
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/michel-chapdelaine-6030152b6",
+      "person_name": "Michel Chapdelaine",
+      "company_name": "Delta Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "not_found"
+  "enrichment_socials": "success"
 }

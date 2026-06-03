@@ -53,11 +53,22 @@
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/john-stephens-7a5b1a1b",
+      "person_name": "John Stephens",
+      "company_name": "AT&T Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit",
     "Compensation"
   ],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "not_found"
+  "enrichment_socials": "success"
 }

@@ -16,10 +16,13 @@ load_dotenv(find_dotenv(), override=True)
 
 # Configuration
 LLM_PROVIDER = os.getenv("LLM_PROVIDER", "gemini").lower()
+if LLM_PROVIDER not in ["gemini", "groq"]:
+    raise ValueError(f"Invalid LLM_PROVIDER: {LLM_PROVIDER}. Must be 'gemini' or 'groq'.")
 GEMINI_MODEL = os.getenv("GEMINI_MODEL")
 GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
-SEARCH_GROUNDING_MODEL = os.getenv("GEMINI_MODEL_SEARCH_GROUNDING") or GEMINI_MODEL
-VALIDATE_PROFILE_USING = os.getenv("VALIDATE_PROFILE_USING", "SEARCH_GROUNDING").upper()
+VALIDATE_PROFILE_USING = os.getenv("VALIDATE_PROFILE_USING", "CLOAK_BROWSER").upper()
+if VALIDATE_PROFILE_USING != "CLOAK_BROWSER":
+    raise ValueError(f"Invalid VALIDATE_PROFILE_USING: {VALIDATE_PROFILE_USING}. Only 'CLOAK_BROWSER' is supported.")
 MAX_AGENT_CALLS_PER_MANAGER = int(os.getenv("MAX_AGENT_CALLS_PER_MANAGER", "10"))
 
 # Dynamic Throttling Settings
@@ -94,6 +97,9 @@ class Agent:
     async def call(self, prompt: str, schema: Any, use_search: bool = False):
         await self.limiter.acquire()
         
+        # UNCONDITIONALLY DISABLE SEARCH GROUNDING TO PREVENT API COST SPITS
+        use_search = False
+
         if self.provider == "gemini":
             return await self._call_gemini(prompt, schema, use_search)
         elif self.provider == "groq":
@@ -107,8 +113,7 @@ class Agent:
             max_output_tokens=self.max_output_tokens,
             temperature=0.0,
         )
-        if use_search:
-            config.tools = [types.Tool(google_search=types.GoogleSearch())]
+        # Search tools disabled unconditionally
         
         try:
             response = await asyncio.wait_for(
@@ -244,7 +249,7 @@ class Supervisor:
             if not best_verification:
                 print(f"Supervisor: Searching for LinkedIn Profile...")
                 if self._check_budget():
-                    if LLM_PROVIDER == "groq" or VALIDATE_PROFILE_USING == "CLOCK_BROWSER":
+                    if LLM_PROVIDER == "groq" or VALIDATE_PROFILE_USING == "CLOAK_BROWSER":
                         search_results = await asyncio.to_thread(tools.search_social_media, manager['name'], [c['company'] for c in manager['affiliations']])
                         prompt = (
                             f"MANAGER IDENTITY:\n{json.dumps(manager, indent=2)}\n\n"
@@ -286,6 +291,11 @@ class Supervisor:
                                 best_candidate_url = candidate.url
                                 break
         
+        if best_verification:
+            print(f"Supervisor: Successfully verified LinkedIn profile for {manager['name']}: {best_candidate_url}")
+        else:
+            print(f"Supervisor: Failed to find or verify LinkedIn profile for {manager['name']}")
+
         if not best_verification:
             await self.finalize(profile_path, "not_found")
             return
@@ -324,8 +334,8 @@ class Supervisor:
 
     async def _verify_wrapper(self, manager, url):
         """Helper to switch between Search Grounding and Clock Browser validation."""
-        if VALIDATE_PROFILE_USING == "CLOCK_BROWSER":
-            print(f"Supervisor: Validating {url} using CLOCK_BROWSER (Scraper)...")
+        if VALIDATE_PROFILE_USING == "CLOAK_BROWSER":
+            print(f"Supervisor: Validating {url} using CLOAK_BROWSER (Scraper)...")
             img_url = await asyncio.to_thread(tools.scrape_linkedin_picture, url)
             prompt = (
                 f"MANAGER IDENTITY:\n{json.dumps(manager, indent=2)}\n\n"
@@ -393,7 +403,7 @@ class ManagerEnrichmentPipelineV2:
             
         self.agents = {
             'search': LinkedInSearchAgent(self.client, GEMINI_MODEL if LLM_PROVIDER == "gemini" else GROQ_MODEL, "LinkedIn Search Agent. Return a JSON object.", self.limiter, provider=LLM_PROVIDER),
-            'verifier': LinkedInVerifierAgent(self.client, SEARCH_GROUNDING_MODEL if LLM_PROVIDER == "gemini" else GROQ_MODEL, "LinkedIn Verifier Agent. Return a JSON object.", self.limiter, provider=LLM_PROVIDER),
+            'verifier': LinkedInVerifierAgent(self.client, GEMINI_MODEL if LLM_PROVIDER == "gemini" else GROQ_MODEL, "LinkedIn Verifier Agent. Return a JSON object.", self.limiter, provider=LLM_PROVIDER),
             'img_li': ImageSearchAgent2a(self.client, GEMINI_MODEL if LLM_PROVIDER == "gemini" else GROQ_MODEL, "LinkedIn Image Agent. Return a JSON object.", self.limiter, provider=LLM_PROVIDER)
         }
         self.supervisor = Supervisor(self)

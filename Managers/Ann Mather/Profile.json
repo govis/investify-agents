@@ -81,11 +81,22 @@
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/annmather/",
+      "person_name": "Ann Mather",
+      "company_name": "Multiple (including Arista Networks, Alphabet Inc., Netflix, Bumble Inc., Airbnb, Inc.)",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Audit and Compliance Committee"
   ],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "not_found"
+  "enrichment_socials": "success"
 }

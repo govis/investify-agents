@@ -66,7 +66,12 @@
     {
       "name": "LinkedIn",
       "url": "https://www.linkedin.com/in/andrea-jung-442a7b9b",
-      "potential_picture_url": null
+      "person_name": "Andrea Jung",
+      "company_name": "Grameen America, Avon Products, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     },
     {
       "name": "X (Twitter)",
@@ -77,5 +82,5 @@
     "Compensation Committee"
   ],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "not_found"
+  "enrichment_socials": "success"
 }

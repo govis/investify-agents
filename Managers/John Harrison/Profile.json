@@ -22,11 +22,22 @@
   "investment_theses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/john-harrison-73b731182",
+      "person_name": "John Harrison",
+      "company_name": "Peninsula Energy Limited",
+      "profile_status": "success",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C5603AQGDM9Fa_7FX-Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517765785621?e=2147483647&v=beta&t=KQY2eowXSjWIwsAPGF2_SBQOxSPU-3gxZT_FJAK2KcY",
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Management Committee",
     "Remuneration and Nomination Committee"
   ],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "not_found"
+  "enrichment_socials": "success"
 }

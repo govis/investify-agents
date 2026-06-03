@@ -64,8 +64,19 @@
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/arismorfopoulos",
+      "person_name": "Aris Morfopoulos",
+      "company_name": "Onyx Gold Corp., Oreterra Metals Corp., Tudor Gold Corp., HighGold Mining Inc., Carlin Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "not_found"
+  "enrichment_socials": "success"
 }

@@ -21,12 +21,23 @@
   "investment_theses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/emily-mahoney-eam",
+      "person_name": "Emily Mahoney",
+      "company_name": "Endeavour Mining",
+      "profile_status": "success",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/D4D03AQH3DG4FFba2Sw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1728830423769?e=2147483647&v=beta&t=_eUh_hfUPjWeLLlIGg_M-w5Kg_LfL62JFGjqD0KQeuY",
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Nomination Committee",
     "Remuneration Committee"
   ],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "not_found"
+  "enrichment_socials": "success"
 }

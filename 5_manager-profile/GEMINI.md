@@ -35,18 +35,16 @@ This workflow builds and enriches detailed profiles for company officers and dir
     - Updates `enrichment_socials` status (`success`, `not_found`, or `error`).
     - Captures `picture_url_li_profile` and `potential_picture_url`.
 - **Architecture**: **Orchestrated Multi-Provider Pipeline**.
-    - **LLM_PROVIDER**: Switch between `gemini` (native search) and `groq` (high-speed inference).
+    - **LLM_PROVIDER**: Switch between `gemini` and `groq` (high-speed inference).
     - **VALIDATE_PROFILE_USING**: 
-        - `SEARCH_GROUNDING`: Uses the LLM's native search tool to visit and verify pages.
-        - `CLOCK_BROWSER`: Uses a local Python scraper/stealth-fetcher to retrieve profile data before LLM analysis.
+        - `CLOAK_BROWSER`: Uses a local Python scraper/stealth-fetcher to retrieve profile data before LLM analysis.
 - **Search & Validation Mechanics**:
     1. **Identity Slimming**: Filters the manager's profile down to a "Slim Context" (essential fields only) to minimize token cost and stay within TPM limits.
     2. **Sliding Window Search**: 
-        - If `gemini`: Uses `google_search` tool to find candidates.
-        - If `groq` or `CLOCK_BROWSER`: Performs a manual DuckDuckGo search for LinkedIn profiles and passes snippets to the LLM.
+        - Performs a manual DuckDuckGo search for LinkedIn profiles and passes snippets to the LLM.
     3. **Verification Loop**: 
         - Iterates through the top 3 candidates.
-        - **Grounding**: The LLM visits the profile (or reads the scraped content) to cross-reference the manager's background and affiliations.
+        - **Grounding**: The LLM reads the scraped content from the Cloak Browser to cross-reference the manager's background and affiliations.
         - **Precision Filtering**: Strictly rejects company/school pages; prioritizes unique name matches.
     4. **Image Retrieval**:
         - Captures the `media.licdn.com` pattern from the verified profile.
@@ -60,17 +58,42 @@ This workflow builds and enriches detailed profiles for company officers and dir
 
 ### 3. Phase 3a: LinkedIn Profile Picture Scraper (Stealth)
 - **Script**: `scrape_linkedin_pictures.py`
-- **Action**: Processes profiles where `enrichment_socials` is `"success"` but the profile picture is missing.
+- **Action**: Processes profiles where `enrichment_socials` is `"success"` but the profile picture is missing. Uses shared `tools.get_linkedin_profile_picture` for scraping and downloading.
 - **Parameters**: 
-    - `--retry_failed [yes|no]`: Default `"no"`. If `"no"`, only processes profiles with `picture_download_count <= 0`. If `"yes"`, ignores the attempt count.
+    - `--scrape_method [simple|cloak_browser]`: Default `"simple"`. If `"simple"`, uses the current method to open web page. If `"cloak_browser"`, uses Cloak browser.
+    - `--linkedin_user [anonymous|user_name]`: Default `"anonymous"`. If `"anonymous"`, opens linkedin profiles anonymously. If `"user_name"`, signs in to linkedin with the `"user_name"`. User name is only supported with `cloak_browser` and includes human mimicry (random delays, hourly limits).
+    - `--profile_visibility [public|private|all]`: Default `"public"`. Filters by the `profile_status` detected in Phase 2.
+    - `--retry_failed [no|yes]`: Default `"no"`. If `"no"`, only processes profiles with `picture_download_count <= 0` and `profile_status` is NOT `"not_found"`. If `"yes"`, ignores attempt count and includes `"not_found"`.
 - **Logic**:
     - **Eligibility**: Targets profiles where `picture_local` is missing **OR** the actual image file is missing.
-    - **Attempt Filter**: By default, only processes if `picture_download_count` in the profile is 0 or missing (skips profiles that failed in previous runs).
-    - **Status Filtering**: Automatically skips profiles where `profile_status` is `"not_found"` or `"private"` (detected in Phase 2).
-    - **Multi-URL Fallback**: Iterates through ALL LinkedIn URLs in a manager's `socials` list until a valid image is found. Note that for managers with multiple profiles (e.g., Luca Maestri), the primary profile is typically marked with `"name": "LinkedIn"`.
-    - **Transient Tracking**: Increments `picture_download_count` in the profile and the specific social record on every attempt; this field is **set to 0** for the profile and the matching social record once a picture is successfully saved.
+    - **Multi-URL Fallback**: Iterates through ALL LinkedIn URLs in a manager's `socials` list until a valid image is found.
+    - **Transient Tracking**: Increments `picture_download_count` on every attempt; this field (and `profile_status`) is cleared once a picture is successfully saved.
+    - **Status Filtering**: Updates `profile_status` to `"private"` (if auth wall detected anonymously) or `"not_found"` (if 404). Removes the status if the profile opens successfully.
     - **Validation**: Automatically detects and rejects SVG placeholders (masked as JPGs).
     - Updates `picture_local` and `picture_url`.
+
+### 4. Phase 4: Reprocess Not Found
+- **Script**: `reprocess_not_found.py`
+- **Action**: Searches for and validates LinkedIn profiles for managers previously marked as `"not_found"`.
+- **Logic**:
+    - Scans profiles based on `--has_profile` (targets `enrichment_socials` or `profile_status`).
+    - Uses `tools.search_social_media` to discover new potential LinkedIn URLs.
+    - Validates identity using the shared `tools.LinkedInVerifierAgent`.
+    - Scrapes and downloads pictures using `tools.get_linkedin_profile_picture`.
+- **Behavior**: Shares human mimicry (random delays, hourly limits) via `tools.apply_human_mimicry`.
+
+### Utilities: manager_picture_google_search.py
+- **Script**: `manager_picture_google_search.py`
+- **Action**: A standalone utility to perform broad Google Image searches for a manager's picture (replaces the old fallback logic in scraping scripts).
+
+### Scraping & Stealth Mechanisms
+- **Consolidation**: Core scraping, downloading, and human mimicry logic is consolidated in `tools.py` for shared use across Phase 3a and Phase 4.
+- **Cloak Browser Method**: Used for authenticated sessions to bypass anti-bot detections (fingerprinting, behavioral analysis) and access private profiles.
+
+### Session Management
+For authenticated scraping (Phase 3a/4 with `--scrape_method cloak_browser`), use:
+- **`linkedin_signin.py --user xyz`**: Launches a headful browser for user `xyz`.
+- **`linkedin_signout.py --user xyz`**: Automates logout to clear the session for user `xyz`.
 
 ## Configuration & Tools
 
@@ -78,21 +101,21 @@ This workflow builds and enriches detailed profiles for company officers and dir
 - **Files**: 
     - `blacklist_linkedin_urls.json`: Maps `{ "LinkedIn URL": "Manager Name" }` to explicitly ignore false positives.
     - `known_linkedin_urls.json`: Maps `{ "Manager Name": "LinkedIn URL" }` for manual overrides and high-precision matches.
-- **Integration**: Checked by Phase 2 (Supervisor) and Phase 3a (Stealth Scraper).
+- **Integration**: Checked by Phase 2 (Supervisor), Phase 3a, and Phase 4.
 
 ### Tools Utility
 - **File**: `tools.py`
 - **Functions**:
-    - `get_blacklist()`: Loads and normalizes the LinkedIn URL blacklist.
-    - `get_known_urls()`: Loads manually verified LinkedIn URLs for specific managers.
-    - `check_url_status()`: Performs HTTP checks for 404s and Auth-Walls.
-    - `download_image()`: Shared logic for image retrieval with SVG detection.
-    - `populate_base_profile()`: Phase 1 deterministic logic.
+    - `get_linkedin_profile_picture(page, profile_path, url, matching_social)`: Unified scraping, accessibility checking, and downloading.
+    - `apply_human_mimicry(...)`: Shared delays/rate limiting logic.
+    - `search_social_media(...)`: Discovery utility.
+    - `LinkedInVerifierAgent`: Shared identity verification agent.
+    - `download_image(...)`: Shared image retrieval and SVG detection.
+    - `check_url_status(...)`: Performs HTTP checks for 404s and Auth-Walls.
 
 ## Configuration (.env)
 - `GOOGLE_API_KEY`: Required for Gemini and Google Search.
 - `GEMINI_MODEL`: **Mandatory**. Cost-effective model for enrichment (e.g., `gemini-flash-latest`).
-- `GEMINI_MODEL_SEARCH_GROUNDING`: Optional. Specialized model for search grounding (defaults to `GEMINI_MODEL`).
 - `CONCURRENCY_LIMIT`: Number of concurrent enrichment tasks (default: `5`).
 - `MAX_CONSECUTIVE_ERRORS`: Error threshold before stopping (default: `3`).
 - `PROFILES_TO_ENRICH`: 

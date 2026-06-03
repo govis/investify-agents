@@ -43,8 +43,19 @@
     "Defense",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/johntfees",
+      "person_name": "John T. Fees",
+      "company_name": "BWX Technologies, Inc.",
+      "profile_status": "success",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/D5603AQEaiB9UnRs8jQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1705252649479?e=2147483647&v=beta&t=ryPHy-5lkFV56muKP89Fb8APYI077eHYV-A2wGBmLtg",
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "not_found"
+  "enrichment_socials": "success"
 }

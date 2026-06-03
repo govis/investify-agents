@@ -73,11 +73,22 @@
     "Electrification",
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/barnaby-egerton-warburton-a2922914/",
+      "person_name": "Barnaby Egerton-Warburton",
+      "company_name": "Oreterra Limited, Arizona Lithium Limited, Lord Resources Limited, Pantera Minerals Limited, NSX Limited, Hawkstone Mining Limited",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"
   ],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "not_found"
+  "enrichment_socials": "success"
 }

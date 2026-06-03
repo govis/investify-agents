@@ -60,7 +60,18 @@
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/catherine-gignac-icd-d-4a5a5a12",
+      "person_name": "Catherine Gignac",
+      "company_name": "Cameco Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Finance Committee",
     "Audit and Risk Committee",
@@ -69,5 +80,5 @@
     "Nominating, Corporate Governance and Risk Committee"
   ],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "not_found"
+  "enrichment_socials": "success"
 }

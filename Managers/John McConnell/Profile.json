@@ -82,8 +82,19 @@
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/john-mcconnell-ba79a741",
+      "person_name": "John McConnell",
+      "company_name": "Victoria Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C4D03AQF5665WtGnlPQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1553375728159?e=2147483647&v=beta&t=MiBpDfg4ahxAnBNc_-nvbVxaTkoD4JkVbS22riSgZPc",
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "not_found"
+  "enrichment_socials": "success"
 }

@@ -71,11 +71,22 @@
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alan-krusi-5a873b21",
+      "person_name": "Alan Krusi",
+      "company_name": "SSR Mining Inc., Comfort Systems USA, Inc., Granite Construction Incorporated, AECOM Technology Corporation, Blue Earth, Inc., Layne Christensen Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Corporate Governance and Nominating Committee",
     "Technical Committee"
   ],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "not_found"
+  "enrichment_socials": "success"
 }
