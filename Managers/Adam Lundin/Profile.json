@@ -6,7 +6,7 @@
   "age_year": 2024,
   "background": "Mr. Lundin has many years of experience in the natural resource sector. He is the Chair of the Board and previously served as President and CEO of Josemaria Resources Inc.",
   "picture_url": null,
-  "picture_local": null,
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Lundin Mining Corporation",
@@ -118,13 +118,14 @@
       "url": "https://www.linkedin.com/in/adam-lundin/",
       "person_name": "Adam Lundin",
       "company_name": "Lundin Mining",
-      "profile_status": "private",
       "potential_picture_url": null,
       "picture_url_li_profile": null,
-      "picture_url_li_search": null
+      "picture_url_li_search": null,
+      "picture_download_count": 0
     }
   ],
   "committees": [],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "success"
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

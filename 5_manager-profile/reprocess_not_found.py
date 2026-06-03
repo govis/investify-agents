@@ -99,16 +99,30 @@ def main():
                     to_process.append(path)
     
     print(f"Reprocessing {len(to_process)} profiles...")
-    browser = launch(user=args.linkedin_user)
-    page = browser.new_page()
+    
+    # Load mimicry parameters
+    delay_min = int(os.getenv("DELAY_MIN", 5))
+    delay_max = int(os.getenv("DELAY_MAX", 15))
+    max_pages_per_hour = int(os.getenv("MAX_PAGES_PER_HOUR", 30))
+    
+    # Determine path for the user data directory
+    session_dir = os.path.join(os.path.dirname(__file__), "sessions", args.linkedin_user)
+    os.makedirs(session_dir, exist_ok=True)
+    # Use launch_persistent_context for persistent sessions
+    from cloakbrowser import launch_persistent_context
+    context = launch_persistent_context(user_data_dir=session_dir, headless=False)
+    page = context.new_page()
     
     pages_visited = 0
     hour_start_time = time.time()
     for i, path in enumerate(to_process):
-        hour_start_time = tools.apply_human_mimicry(i, pages_visited, hour_start_time)
+        hour_start_time = tools.apply_human_mimicry(i, pages_visited, hour_start_time, 
+                                                    delay_min=delay_min, 
+                                                    delay_max=delay_max, 
+                                                    max_pages_per_hour=max_pages_per_hour)
         pages_visited += process_reprocess(page, path, verifier_agent)
         
-    browser.close()
+    context.close()
 
 if __name__ == '__main__':
     main()

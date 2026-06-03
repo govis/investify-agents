@@ -92,8 +92,14 @@ This workflow builds and enriches detailed profiles for company officers and dir
 
 ### Session Management
 For authenticated scraping (Phase 3a/4 with `--scrape_method cloak_browser`), use:
-- **`linkedin_signin.py --user xyz`**: Launches a headful browser for user `xyz`.
-- **`linkedin_signout.py --user xyz`**: Automates logout to clear the session for user `xyz`.
+### Session Management
+This project uses the **Cloak Browser** with persistent `user_data_dir` to maintain authenticated LinkedIn sessions. All sessions are stored in the `./sessions/{linkedin_user}/` directory.
+
+- **Initialization (Login)**: 
+    Run `python linkedin_signin.py --user {username}`. Follow instructions to log in and save state.
+- **Termination (Logout & Cleanup)**:
+    Run `python linkedin_signout.py --user {username}`. This logs out of LinkedIn and deletes the session data folder.
+- **Persistence**: Scrapers automatically load the persistent context based on the `--linkedin_user` flag provided at runtime.
 
 ## Configuration & Tools
 

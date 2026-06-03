@@ -6,7 +6,7 @@
   "age_year": 2024,
   "background": "Ms. Schwetz has served as Senior Vice President and Chief Financial Officer since February 2020. Prior to joining Flowserve, she served as Executive Vice President and Chief Financial Officer of Peabody Energy Corporation from July 2015 to February 2020.",
   "picture_url": null,
-  "picture_local": null,
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Flowserve Corporation",
@@ -58,13 +58,14 @@
       "url": "https://www.linkedin.com/in/amy-schwetz-31679087",
       "person_name": "Amy Schwetz",
       "company_name": "Flowserve Corporation",
-      "profile_status": "private",
       "potential_picture_url": null,
       "picture_url_li_profile": null,
-      "picture_url_li_search": null
+      "picture_url_li_search": null,
+      "picture_download_count": 0
     }
   ],
   "committees": [],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "success"
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

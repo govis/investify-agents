@@ -6,7 +6,7 @@
   "age_year": 2024,
   "background": "Mr. Rochacewich is a Chartered Professional Accountant with over 20 years of experience in the mining industry. He was previously Chief Financial Officer of several junior mining companies and has held senior financial roles with Noranda Inc. and Falconbridge Limited.",
   "picture_url": null,
-  "picture_local": null,
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Revival Gold Inc.",
@@ -98,13 +98,14 @@
       "url": "https://ca.linkedin.com/in/adam-rochacewich-7bb14b56",
       "person_name": "Adam Rochacewich",
       "company_name": "Revival Gold Inc.",
-      "profile_status": "private",
       "potential_picture_url": null,
       "picture_url_li_profile": null,
-      "picture_url_li_search": null
+      "picture_url_li_search": null,
+      "picture_download_count": 0
     }
   ],
   "committees": [],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "success"
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

@@ -6,7 +6,7 @@
   "age_year": 2024,
   "background": "Andrew P. Hastings is Executive Vice President and General Counsel. He joined Alcoa in 2023 from Lundin Mining Corporation.",
   "picture_url": null,
-  "picture_local": null,
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Alcoa Corporation",
@@ -38,13 +38,14 @@
       "url": "https://www.linkedin.com/in/andrewkhastings",
       "person_name": "Andrew Hastings",
       "company_name": "Alcoa Corporation",
-      "profile_status": "private",
       "potential_picture_url": null,
       "picture_url_li_profile": null,
-      "picture_url_li_search": null
+      "picture_url_li_search": null,
+      "picture_download_count": 0
     }
   ],
   "committees": [],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "success"
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

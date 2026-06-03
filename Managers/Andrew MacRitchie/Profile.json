@@ -6,7 +6,7 @@
   "age_year": 2024,
   "background": "Mr. MacRitchie is a Chartered Professional Accountant with over 20 years of experience in the mining industry. He has served as CFO of Skeena since 2017 and was previously CFO of several other public mining companies.",
   "picture_url": null,
-  "picture_local": null,
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Skeena Resources Limited",
@@ -68,13 +68,14 @@
       "url": "https://ca.linkedin.com/in/andrew-macritchie-cpa-ca-9495494",
       "person_name": "Andrew MacRitchie",
       "company_name": "Skeena Resources Limited",
-      "profile_status": "private",
       "potential_picture_url": null,
       "picture_url_li_profile": null,
-      "picture_url_li_search": null
+      "picture_url_li_search": null,
+      "picture_download_count": 0
     }
   ],
   "committees": [],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "success"
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

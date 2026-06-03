@@ -6,7 +6,7 @@
   "age_year": 2024,
   "background": "Mr. Boeckmann has served as a member of our Board since May 2022. He is the former Executive Chairman and CEO of Fluor Corporation.",
   "picture_url": null,
-  "picture_local": null,
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "NuScale Power Corporation",
@@ -68,10 +68,10 @@
       "url": "https://www.linkedin.com/in/alan-boeckmann-95926866",
       "person_name": "Alan Boeckmann",
       "company_name": "NuScale Power Corporation, Fluor Corporation",
-      "profile_status": "private",
       "potential_picture_url": null,
       "picture_url_li_profile": null,
-      "picture_url_li_search": null
+      "picture_url_li_search": null,
+      "picture_download_count": 0
     }
   ],
   "committees": [
@@ -79,5 +79,6 @@
     "Nominating and Corporate Governance Committee"
   ],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "success"
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

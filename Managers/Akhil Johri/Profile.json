@@ -6,7 +6,7 @@
   "age_year": 2024,
   "background": "Former Executive Vice President and CFO of United Technologies Corporation.",
   "picture_url": null,
-  "picture_local": null,
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "The Boeing Company",
@@ -48,10 +48,10 @@
       "url": "https://www.linkedin.com/in/akhil-johri-b59a10296",
       "person_name": "Akhil Johri",
       "company_name": "The Boeing Company, Cardinal Health, Inc., RTX Corporation",
-      "profile_status": "private",
       "potential_picture_url": null,
       "picture_url_li_profile": null,
-      "picture_url_li_search": null
+      "picture_url_li_search": null,
+      "picture_download_count": 0
     }
   ],
   "committees": [
@@ -59,5 +59,6 @@
     "Finance"
   ],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "success"
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

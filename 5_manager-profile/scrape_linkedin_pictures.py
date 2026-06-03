@@ -44,9 +44,14 @@ def process_profile(page, profile_path, scrape_method="simple", linkedin_user="a
             
             print(f"  -> Navigating to {linkedin_url}...")
             
-            # Unified scraping and downloading
+        # Unified scraping and downloading
             filename = tools.get_linkedin_profile_picture(page, profile_path, linkedin_url, matching_social)
             pages_visited += 1
+            
+            if matching_social and matching_social.get('profile_status') in ['not_found', 'private']:
+                with open(profile_path, 'w', encoding='utf-8') as f:
+                    json.dump(profile, f, indent=2)
+                print(f"  -> Saved status update to {profile_path}")
             
             if filename:
                 profile['picture_local'] = filename
@@ -72,10 +77,12 @@ def main():
     parser.add_argument("--scrape_method", type=str, default="simple", choices=["simple", "cloak_browser"], help="Scrape method (simple uses current, cloak_browser uses Cloak browser)")
     parser.add_argument("--linkedin_user", type=str, default="anonymous", help="LinkedIn user for login (cloak_browser only)")
     parser.add_argument("--profile_visibility", type=str, default="public", choices=["public", "private", "all"], help="Filter by profile visibility")
-    parser.add_argument("--delay_min", type=int, default=5, help="Min delay between profiles in seconds (human mimicry)")
-    parser.add_argument("--delay_max", type=int, default=15, help="Max delay between profiles in seconds (human mimicry)")
-    parser.add_argument("--max_pages_per_hour", type=int, default=30, help="Max pages per hour (human mimicry)")
     args = parser.parse_args()
+
+    # Load human mimicry parameters from environment
+    delay_min = int(os.getenv("DELAY_MIN", 5))
+    delay_max = int(os.getenv("DELAY_MAX", 15))
+    max_pages_per_hour = int(os.getenv("MAX_PAGES_PER_HOUR", 30))
 
     if args.linkedin_user != "anonymous" and args.scrape_method != "cloak_browser":
         print("Warning: --linkedin_user is only supported when --scrape_method is cloak_browser. Proceeding as anonymous.")
@@ -141,12 +148,19 @@ def main():
     print(f"Phase 3a: Processing {len(to_process)} profiles.")
     
     print(f"Launching Browser (method={args.scrape_method})...")
-    if args.scrape_method == "cloak_browser" and args.linkedin_user != "anonymous":
-        browser = launch(user=args.linkedin_user)
+    
+    # Initialize context variable properly
+    context = None
+    if args.scrape_method == "cloak_browser":
+        session_dir = os.path.join(os.path.dirname(__file__), "sessions", args.linkedin_user)
+        os.makedirs(session_dir, exist_ok=True)
+        from cloakbrowser import launch_persistent_context
+        context = launch_persistent_context(user_data_dir=session_dir, headless=True)
+        page = context.new_page()
     else:
+        from cloakbrowser import launch
         browser = launch()
-        
-    page = browser.new_page()
+        page = browser.new_page()
     
     pages_visited_this_hour = 0
     hour_start_time = time.time()
@@ -154,26 +168,20 @@ def main():
     for i, path in enumerate(to_process):
         # Human mimicry
         if args.linkedin_user != "anonymous":
-            if pages_visited_this_hour >= args.max_pages_per_hour:
-                elapsed = time.time() - hour_start_time
-                if elapsed < 3600:
-                    wait_time = 3600 - elapsed
-                    print(f"Hourly limit reached ({args.max_pages_per_hour}). Waiting {wait_time/60:.1f} minutes...")
-                    time.sleep(wait_time)
-                pages_visited_this_hour = 0
-                hour_start_time = time.time()
-            
-            if i > 0:
-                delay = random.uniform(args.delay_min, args.delay_max)
-                print(f"Human mimicry: Waiting {delay:.1f}s...")
-                time.sleep(delay)
+            hour_start_time = tools.apply_human_mimicry(i, pages_visited_this_hour, hour_start_time, 
+                                                        delay_min=delay_min, 
+                                                        delay_max=delay_max, 
+                                                        max_pages_per_hour=max_pages_per_hour)
 
         print(f"[{i+1}/{len(to_process)}] Processing {os.path.basename(os.path.dirname(path))}...")
         visited = process_profile(page, path, args.scrape_method, args.linkedin_user)
         pages_visited_this_hour += visited
         
     print("Phase 3a: Finished processing all profiles.")
-    browser.close()
+    if context:
+        context.close()
+    else:
+        browser.close()
 
 if __name__ == '__main__':
     main()

@@ -6,7 +6,7 @@
   "age_year": 2024,
   "background": "Independent Director. Former executive at AECOM and Realogy Holdings Corp.",
   "picture_url": null,
-  "picture_local": null,
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "SSR Mining Inc.",
@@ -77,10 +77,10 @@
       "url": "https://www.linkedin.com/in/alan-krusi-5a873b21",
       "person_name": "Alan Krusi",
       "company_name": "SSR Mining Inc., Comfort Systems USA, Inc., Granite Construction Incorporated, AECOM Technology Corporation, Blue Earth, Inc., Layne Christensen Company",
-      "profile_status": "private",
       "potential_picture_url": null,
       "picture_url_li_profile": null,
-      "picture_url_li_search": null
+      "picture_url_li_search": null,
+      "picture_download_count": 0
     }
   ],
   "committees": [
@@ -88,5 +88,6 @@
     "Technical Committee"
   ],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "success"
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

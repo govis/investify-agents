@@ -6,7 +6,7 @@
   "age_year": 2024,
   "background": "Retired Director and CEO of Argonne National Laboratory. He has served on the HEICO board since 1984.",
   "picture_url": null,
-  "picture_local": null,
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "HEICO Corporation",
@@ -28,10 +28,10 @@
       "url": "https://www.linkedin.com/in/alan-schriesheim-129b0a10",
       "person_name": "Alan Schriesheim",
       "company_name": "HEICO Corporation",
-      "profile_status": "private",
       "potential_picture_url": null,
       "picture_url_li_profile": null,
-      "picture_url_li_search": null
+      "picture_url_li_search": null,
+      "picture_download_count": 0
     }
   ],
   "committees": [
@@ -40,5 +40,6 @@
     "Finance Committee"
   ],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "success"
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

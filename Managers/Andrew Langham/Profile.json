@@ -6,7 +6,7 @@
   "age_year": 2024,
   "background": "General Counsel of Icahn Enterprises L.P.",
   "picture_url": null,
-  "picture_local": null,
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Cheniere Energy, Inc.",
@@ -88,10 +88,10 @@
       "url": "https://www.linkedin.com/in/andrew-langham-9a17a5b3/",
       "person_name": "Andrew Langham",
       "company_name": "Icahn Enterprises L.P.",
-      "profile_status": "private",
       "potential_picture_url": null,
       "picture_url_li_profile": null,
-      "picture_url_li_search": null
+      "picture_url_li_search": null,
+      "picture_download_count": 0
     }
   ],
   "committees": [
@@ -99,5 +99,6 @@
     "Compensation Committee"
   ],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "success"
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

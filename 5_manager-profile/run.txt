@@ -1,6 +1,10 @@
 python main.py
 (skips the specialized LinkedIn image search)
 
+python linkedin_signin.py --user investify
+python scrape_linkedin_pictures.py --scrape_method cloak_browser --linkedin_user investify --profile_visibility private
+linkedin_signout.py --user investify
+
 - Enable LinkedIn Image Search:
 python main.py --search_picture_li yes
 

@@ -6,7 +6,7 @@
   "age_year": 2024,
   "background": "Anastasia D. Kelly is Executive Director, Client Relations at DLA Piper and previously served as Vice Chairman of American International Group (AIG).",
   "picture_url": null,
-  "picture_local": null,
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Huntington Ingalls Industries, Inc.",
@@ -78,10 +78,10 @@
       "url": "https://www.linkedin.com/in/stasiakelly/",
       "person_name": "Stasia Kelly",
       "company_name": "DLA Piper",
-      "profile_status": "private",
       "potential_picture_url": null,
       "picture_url_li_profile": null,
-      "picture_url_li_search": null
+      "picture_url_li_search": null,
+      "picture_download_count": 0
     }
   ],
   "committees": [
@@ -89,5 +89,6 @@
     "Governance and Policy Committee"
   ],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "success"
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

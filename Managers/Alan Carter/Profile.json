@@ -6,7 +6,7 @@
   "age_year": 2024,
   "background": "Dr. Carter has over 30 years of experience in the exploration and mining industry. He was a co-founder of Peregrine Diamonds Ltd. and Magellan Minerals Ltd. He previously worked for Rio Tinto and BHP Billiton.",
   "picture_url": null,
-  "picture_local": null,
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Cabral Gold Inc.",
@@ -78,13 +78,14 @@
       "url": "https://ca.linkedin.com/in/alan-carter-cabralgold",
       "person_name": "Alan Carter",
       "company_name": "Cabral Gold Inc.",
-      "profile_status": "private",
       "potential_picture_url": null,
       "picture_url_li_profile": null,
-      "picture_url_li_search": null
+      "picture_url_li_search": null,
+      "picture_download_count": 0
     }
   ],
   "committees": [],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "success"
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

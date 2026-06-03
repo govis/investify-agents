@@ -1,10 +1,13 @@
 import os
 import json
 import re
+import time
+import urllib.parse
+import html
 from typing import List, Dict, Any, Optional
+from pydantic import BaseModel, Field
 from ddgs import DDGS
 import requests
-import html
 
 def sanitize_folder_name(name: str) -> str:
     return re.sub(r'[<>:"/\\|?*]', '', name).strip()
@@ -150,17 +153,37 @@ def get_linkedin_profile_picture(page, profile_path: str, linkedin_url: str, mat
         # Extra check for Auth Wall
         if not is_auth_wall:
             is_auth_wall = page.evaluate('''() => {
+                // Check for full-page redirects
                 const body = document.body.innerText.toLowerCase();
-                return body.includes('sign in to linkedin') || 
-                       !!document.querySelector('form[data-adv-search-form]') ||
-                       !!document.querySelector('input[name="session_key"]');
+                const hasRedirectTerms = body.includes('sign in to linkedin') || 
+                                       !!document.querySelector('form[data-adv-search-form]') ||
+                                       !!document.querySelector('input[name="session_key"]');
+                
+                // Check for modal popups that block the view
+                const hasModal = !!document.querySelector('.modal__overlay') || 
+                                 !!document.querySelector('.join-modal') ||
+                                 !!document.querySelector('.authentication-outlet');
+                                 
+                return hasRedirectTerms || hasModal;
             }''')
 
         if is_auth_wall:
-            if matching_social:
-                matching_social['profile_status'] = 'private'
-                print(f"  -> Updated profile_status to 'private' for {linkedin_url}")
-            return None
+            # Try to dismiss the modal once, as it might be ephemeral
+            try:
+                dismiss_btn = page.query_selector('button[aria-label="Dismiss"]')
+                if dismiss_btn:
+                    dismiss_btn.click()
+                    time.sleep(2)
+                    # Re-check Auth wall status after dismissal
+                    is_auth_wall = page.evaluate('''() => !!document.querySelector('.join-modal')''')
+            except Exception:
+                pass
+
+            if is_auth_wall:
+                if matching_social:
+                    matching_social['profile_status'] = 'private'
+                    print(f"  -> Updated profile_status to 'private' for {linkedin_url}")
+                return None
         
         # Successfully accessed
         if matching_social and 'profile_status' in matching_social:
@@ -294,7 +317,7 @@ def search_social_media(person_name: str, affiliations: List[str]) -> List[Dict[
                 text_results = list(ddgs.text(query, max_results=5))
                 for res in text_results:
                     href = res.get('href', '').lower()
-                    if 'linkedin.com/in/' in href:
+                    if re.match(r'^https?://([a-z]{2,3}\.)?linkedin\.com/in/[^/]+', href):
                         results_list.append({
                             "type": "social_profile",
                             "name": "LinkedIn", 
@@ -415,35 +438,6 @@ def search_profile_picture(person_name: str, affiliations: List[str], linkedin_u
         pass
     return None
 
-def get_google_image(page, username: str) -> Optional[str]:
-    print(f"  -> Attempting fallback: Google Image Search for '{username} linkedin'")
-    query = f"{username} linkedin"
-    search_url = f"https://www.google.com/search?q={urllib.parse.quote(query)}&udm=2"
-    
-    try:
-        page.goto(search_url, wait_until='domcontentloaded', timeout=30000)
-        time.sleep(3) # Wait for images to load
-        
-        img_src = page.evaluate('''() => {
-            const imgs = Array.from(document.querySelectorAll('img'));
-            for (let img of imgs) {
-                if (img.src && img.src.startsWith('data:image/')) {
-                    const rect = img.getBoundingClientRect();
-                    if (rect.width > 40 || rect.height > 40 || img.width > 40) {
-                        return img.src;
-                    }
-                }
-                if (img.src && img.src.includes('encrypted-tbn0.gstatic.com/images')) {
-                    return img.src;
-                }
-            }
-            return null;
-        }''')
-        return img_src
-    except Exception as e:
-        print(f"  -> Google Image search failed: {e}")
-        return None
-
 def apply_human_mimicry(i: int, pages_visited_this_hour: int, hour_start_time: float, 
                         delay_min: int = 5, delay_max: int = 15, max_pages_per_hour: int = 30) -> float:
     """
@@ -459,9 +453,13 @@ def apply_human_mimicry(i: int, pages_visited_this_hour: int, hour_start_time: f
             time.sleep(wait_time)
         hour_start_time = time.time()
     
-
-from pydantic import BaseModel, Field
-
+    # Random delay
+    if i > 0:
+        delay = random.uniform(delay_min, delay_max)
+        print(f"Human mimicry: Waiting {delay:.1f}s...")
+        time.sleep(delay)
+        
+    return hour_start_time
 class SocialProfileCandidate(BaseModel):
     name: str = Field(description="The name of the social platform, e.g., LinkedIn")
     url: str = Field(description="The URL of the profile")

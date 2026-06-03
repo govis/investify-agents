@@ -6,7 +6,7 @@
   "age_year": 2024,
   "background": "Amy Hood is Microsoft\u2019s executive vice president and chief financial officer. She is responsible for leading the company\u2019s worldwide finance organization, including acquisitions, treasury activities, tax planning, accounting and reporting, and internal audit and investor relations.",
   "picture_url": null,
-  "picture_local": null,
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Microsoft Corporation",
@@ -39,13 +39,14 @@
       "url": "https://www.linkedin.com/in/amyhood1",
       "person_name": "Amy Hood",
       "company_name": "Microsoft Corporation",
-      "profile_status": "private",
       "potential_picture_url": null,
       "picture_url_li_profile": null,
-      "picture_url_li_search": null
+      "picture_url_li_search": null,
+      "picture_download_count": 0
     }
   ],
   "committees": [],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "success"
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }
