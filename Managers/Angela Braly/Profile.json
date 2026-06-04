@@ -6,7 +6,7 @@
   "age_year": 2024,
   "background": "Former Chairman, President, and CEO of WellPoint, Inc. (now Elevance Health).",
   "picture_url": null,
-  "picture_local": null,
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Exxon Mobil Corporation",
@@ -67,10 +67,10 @@
       "url": "https://www.linkedin.com/in/angelabraly",
       "person_name": "Angela Braly",
       "company_name": "Elevance Health, Inc.",
-      "profile_status": "private",
       "potential_picture_url": null,
       "picture_url_li_profile": null,
-      "picture_url_li_search": null
+      "picture_url_li_search": null,
+      "picture_download_count": 0
     }
   ],
   "committees": [
@@ -78,5 +78,6 @@
     "Public Issues and Contributions Committee"
   ],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "success"
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

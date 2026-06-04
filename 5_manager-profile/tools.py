@@ -4,6 +4,7 @@ import re
 import time
 import urllib.parse
 import html
+import random
 from typing import List, Dict, Any, Optional
 from pydantic import BaseModel, Field
 from ddgs import DDGS
@@ -143,8 +144,11 @@ def get_linkedin_profile_picture(page, profile_path: str, linkedin_url: str, mat
         # Status checks
         if response and response.status == 404:
             if matching_social:
-                matching_social['profile_status'] = 'not_found'
-                print(f"  -> Updated profile_status to 'not_found' for {linkedin_url}")
+                old_status = matching_social.get('profile_status')
+                if old_status != 'not_found':
+                    matching_social['profile_status'] = 'not_found'
+                    matching_social['picture_download_count'] = 0 # Reset count
+                    print(f"  -> Updated profile_status from '{old_status}' to 'not_found' for {linkedin_url}")
             return None
         
         current_url = page.url
@@ -153,17 +157,13 @@ def get_linkedin_profile_picture(page, profile_path: str, linkedin_url: str, mat
         # Extra check for Auth Wall
         if not is_auth_wall:
             is_auth_wall = page.evaluate('''() => {
-                // Check for full-page redirects
                 const body = document.body.innerText.toLowerCase();
                 const hasRedirectTerms = body.includes('sign in to linkedin') || 
                                        !!document.querySelector('form[data-adv-search-form]') ||
                                        !!document.querySelector('input[name="session_key"]');
-                
-                // Check for modal popups that block the view
                 const hasModal = !!document.querySelector('.modal__overlay') || 
                                  !!document.querySelector('.join-modal') ||
                                  !!document.querySelector('.authentication-outlet');
-                                 
                 return hasRedirectTerms || hasModal;
             }''')
 
@@ -174,20 +174,21 @@ def get_linkedin_profile_picture(page, profile_path: str, linkedin_url: str, mat
                 if dismiss_btn:
                     dismiss_btn.click()
                     time.sleep(2)
-                    # Re-check Auth wall status after dismissal
                     is_auth_wall = page.evaluate('''() => !!document.querySelector('.join-modal')''')
             except Exception:
                 pass
 
             if is_auth_wall:
                 if matching_social:
-                    matching_social['profile_status'] = 'private'
-                    print(f"  -> Updated profile_status to 'private' for {linkedin_url}")
+                    old_status = matching_social.get('profile_status')
+                    if old_status != 'private':
+                        matching_social['profile_status'] = 'private'
+                        matching_social['picture_download_count'] = 0 # Reset count
+                        print(f"  -> Updated profile_status from '{old_status}' to 'private' for {linkedin_url}")
                 return None
         
         # Successfully accessed
-        if matching_social and 'profile_status' in matching_social:
-            matching_social.pop('profile_status')
+        # REMOVED: matching_social.pop('profile_status', None)
             
         # 2. Scrape Image
         img_selector = 'img.top-card__profile-image, img[src*="profile-displayphoto"]'

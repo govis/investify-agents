@@ -6,7 +6,7 @@
   "age_year": 2024,
   "background": "Ms. Walsh is a professional engineer with over 25 years of experience in the mining industry. She has held executive roles at Minas de Aguas Te\u00f1idas and Newmont.",
   "picture_url": null,
-  "picture_local": null,
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Calibre Mining Corp.",
@@ -69,10 +69,10 @@
       "url": "https://www.linkedin.com/in/audrawalsh",
       "person_name": "Audra Walsh",
       "company_name": "Sierra Metals Inc.",
-      "profile_status": "private",
       "potential_picture_url": null,
       "picture_url_li_profile": null,
-      "picture_url_li_search": null
+      "picture_url_li_search": null,
+      "picture_download_count": 0
     }
   ],
   "committees": [
@@ -82,5 +82,6 @@
     "Technical Committee"
   ],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "success"
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

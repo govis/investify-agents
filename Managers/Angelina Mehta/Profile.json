@@ -6,7 +6,7 @@
   "age_year": 2024,
   "background": "Ms. Mehta is an engineer with over 20 years of experience in the mining industry, including roles in operations, investment banking, and private equity.",
   "picture_url": null,
-  "picture_local": null,
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Lundin Gold Inc.",
@@ -58,15 +58,16 @@
       "url": "https://ca.linkedin.com/in/angelinamehta",
       "person_name": "Angelina Mehta",
       "company_name": "Lundin Gold Inc., Azimut Exploration Inc., Falco Resources Ltd., Pershimco Resources Inc.",
-      "profile_status": "private",
       "potential_picture_url": null,
       "picture_url_li_profile": null,
-      "picture_url_li_search": null
+      "picture_url_li_search": null,
+      "picture_download_count": 0
     }
   ],
   "committees": [
     "Health, Safety, Environment and Sustainability Committee"
   ],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "success"
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

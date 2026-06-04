@@ -6,7 +6,7 @@
   "age_year": 2024,
   "background": "Mr. Le Bel has over 30 years of experience in corporate law and has served as legal counsel for several mining companies.",
   "picture_url": null,
-  "picture_local": null,
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Osisko Gold Royalties Ltd",
@@ -47,13 +47,14 @@
       "url": "https://ca.linkedin.com/in/andre-le-bel-64a8a734",
       "person_name": "Andr\u00e9 Le Bel",
       "company_name": "Osisko Gold Royalties Ltd",
-      "profile_status": "private",
       "potential_picture_url": null,
       "picture_url_li_profile": null,
-      "picture_url_li_search": null
+      "picture_url_li_search": null,
+      "picture_download_count": 0
     }
   ],
   "committees": [],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "success"
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

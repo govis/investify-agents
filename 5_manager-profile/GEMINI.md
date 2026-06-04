@@ -68,7 +68,7 @@ This workflow builds and enriches detailed profiles for company officers and dir
     - **Eligibility**: Targets profiles where `picture_local` is missing **OR** the actual image file is missing.
     - **Multi-URL Fallback**: Iterates through ALL LinkedIn URLs in a manager's `socials` list until a valid image is found.
     - **Transient Tracking**: Increments `picture_download_count` on every attempt; this field (and `profile_status`) is cleared once a picture is successfully saved.
-    - **Status Filtering**: Updates `profile_status` to `"private"` (if auth wall detected anonymously) or `"not_found"` (if 404). Removes the status if the profile opens successfully.
+    - **Status Filtering**: Updates `profile_status` to `"private"` (if auth wall detected) or `"not_found"` (if 404). If a status changes (e.g., private to not_found), `picture_download_count` is reset to 0 to enable fresh attempts.
     - **Validation**: Automatically detects and rejects SVG placeholders (masked as JPGs).
     - Updates `picture_local` and `picture_url`.
 
@@ -101,7 +101,14 @@ This project uses the **Cloak Browser** with persistent `user_data_dir` to maint
     Run `python linkedin_signout.py --user {username}`. This logs out of LinkedIn and deletes the session data folder.
 - **Persistence**: Scrapers automatically load the persistent context based on the `--linkedin_user` flag provided at runtime.
 
-## Configuration & Tools
+## Data Persistence Standard (Mandatory)
+To prevent the loss of scraping status and tracking metrics (e.g., `profile_status`, `picture_download_count`), this project enforces an **Immediate Persistence Standard**:
+
+1.  **Atomicity**: Any modification to a manager's `Profile.json` object (such as updating a status or incrementing a counter) must be persisted to disk **immediately** following the update.
+2.  **No Lazy Saving**: Do not wait until the end of a loop or script execution to save the profile. If a state change occurs, commit it to `Profile.json` before moving to the next task or exiting the function scope.
+3.  **Error Recovery**: Scripts should save state before and after network-dependent actions (like scraping or validation) to ensure that partial progress (like marking a profile as 'private') is never lost due to subsequent errors or script termination.
+
+Any future code changes or refactors **must** maintain these save points to ensure status and count persistence.
 
 ### Blacklist & Known URLs
 - **Files**: 

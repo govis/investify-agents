@@ -42,29 +42,36 @@ def process_profile(page, profile_path, scrape_method="simple", linkedin_user="a
 
             matching_social = next((s for s in profile.get('socials', []) if s.get('url') == linkedin_url), None)
             
+            # Increment attempt count
+            profile['picture_download_count'] = profile.get('picture_download_count', 0) + 1
+            if matching_social:
+                matching_social['picture_download_count'] = matching_social.get('picture_download_count', 0) + 1
+                # Save immediately to ensure tracking persists
+                with open(profile_path, 'w', encoding='utf-8') as f:
+                    json.dump(profile, f, indent=2)
+
             print(f"  -> Navigating to {linkedin_url}...")
             
-        # Unified scraping and downloading
+            # Unified scraping and downloading
             filename = tools.get_linkedin_profile_picture(page, profile_path, linkedin_url, matching_social)
             pages_visited += 1
             
-            if matching_social and matching_social.get('profile_status') in ['not_found', 'private']:
-                with open(profile_path, 'w', encoding='utf-8') as f:
-                    json.dump(profile, f, indent=2)
-                print(f"  -> Saved status update to {profile_path}")
+            # Save status and count after visit attempt
+            with open(profile_path, 'w', encoding='utf-8') as f:
+                json.dump(profile, f, indent=2)
             
             if filename:
                 profile['picture_local'] = filename
-                # Reset download count
+                # Reset download count on success
                 profile['picture_download_count'] = 0
                 if matching_social:
                     matching_social['picture_download_count'] = 0
                 
                 print(f"  -> Successfully updated picture metadata from {linkedin_url}.")
+                # Save final success state
+                with open(profile_path, 'w', encoding='utf-8') as f:
+                    json.dump(profile, f, indent=2)
                 break
-        
-        with open(profile_path, 'w', encoding='utf-8') as f:
-            json.dump(profile, f, indent=2)
             
     except Exception as e:
         print(f"  -> Error reading/processing profile {profile_path}: {e}")
@@ -77,6 +84,7 @@ def main():
     parser.add_argument("--scrape_method", type=str, default="simple", choices=["simple", "cloak_browser"], help="Scrape method (simple uses current, cloak_browser uses Cloak browser)")
     parser.add_argument("--linkedin_user", type=str, default="anonymous", help="LinkedIn user for login (cloak_browser only)")
     parser.add_argument("--profile_visibility", type=str, default="public", choices=["public", "private", "all"], help="Filter by profile visibility")
+    parser.add_argument("--manager", type=str, help="Specific manager name to process")
     args = parser.parse_args()
 
     # Load human mimicry parameters from environment
@@ -94,6 +102,10 @@ def main():
     print(f"Phase 3a: Scanning for profiles needing LinkedIn scraping (retry_failed={args.retry_failed}, visibility={args.profile_visibility})...")
     for root, dirs, files in os.walk(managers_dir):
         if "Profile.json" in files:
+            # If a manager is specified, skip unrelated folders
+            if args.manager and args.manager not in root:
+                continue
+
             path = os.path.join(root, "Profile.json")
             try:
                 with open(path, 'r', encoding='utf-8') as f:

@@ -6,7 +6,7 @@
   "age_year": 2024,
   "background": "Mr. Sharp is a mining engineer with over 35 years of experience in the industry. He joined Skeena in 2021 and was appointed CFO in 2022.",
   "picture_url": null,
-  "picture_local": null,
+  "picture_local": "Picture.jpg",
   "company_affiliations": [
     {
       "name": "Skeena Resources Limited",
@@ -38,13 +38,14 @@
       "url": "https://ca.linkedin.com/in/andrewsharpbeng",
       "person_name": "Andrew Sharp",
       "company_name": "Skeena Resources Limited, Kutcho Copper Corp.",
-      "profile_status": "private",
       "potential_picture_url": null,
       "picture_url_li_profile": null,
-      "picture_url_li_search": null
+      "picture_url_li_search": null,
+      "picture_download_count": 0
     }
   ],
   "committees": [],
   "enrichment_company_affiliations": "success",
-  "enrichment_socials": "success"
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }
